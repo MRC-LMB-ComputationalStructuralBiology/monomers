@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-INZ     INZ      "2-{4-[(2S)-2-[({[(1S)-1-CARBOXY-2-PHENYLETHYL]AMINO}CARBONYL)AMINO]-3-OXO-3-(PENTYLAMINO)PROPYL]PHENOXY}MALONIC ACID"     NON-POLYMER     69     39     .     
-#
+INZ INZ "2-{4-[(2S)-2-[({[(1S)-1-CARBOXY-2-PHENYLETHYL]AMINO}CARBONYL)AMINO]-3-OXO-3-(PENTYLAMINO)PROPYL]PHENOXY}MALONIC ACID" NON-POLYMER 69 39 .
+
 data_comp_INZ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,75 +19,76 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-INZ     C1      C       C       0       16.606      17.307      13.618      
-INZ     O2      O       OC      -1      16.896      18.274      14.343      
-INZ     O3      O       O       0       17.459      16.674      12.969      
-INZ     C4      C       CR6     0       13.453      16.801      11.745      
-INZ     C5      C       CR16    0       13.281      16.815      10.365      
-INZ     C6      C       CR16    0       12.004      16.876      9.824       
-INZ     C7      C       CR6     0       10.874      16.923      10.629      
-INZ     C8      C       CR16    0       11.060      16.909      12.005      
-INZ     C9      C       CR16    0       12.328      16.844      12.568      
-INZ     C10     C       CH1     0       15.144      16.881      13.525      
-INZ     C11     C       CH2     0       9.491       16.998      10.030      
-INZ     C12     C       CH1     0       8.902       18.415      9.999       
-INZ     O13     O       O2      0       14.772      16.732      12.137      
-INZ     C14     C       C       0       14.945      15.560      14.266      
-INZ     O15     O       OC      -1      14.288      15.561      15.322      
-INZ     O16     O       O       0       15.446      14.526      13.787      
-INZ     N17     N       NH1     0       7.536       18.404      9.493       
-INZ     C18     C       C       0       9.794       19.349      9.175       
-INZ     C19     C       C       0       6.720       19.486      9.497       
-INZ     N20     N       NH1     0       9.860       19.111      7.860       
-INZ     O21     O       O       0       10.405      20.265      9.723       
-INZ     C22     C       CH2     0       10.648      19.901      6.922       
-INZ     C23     C       CH2     0       10.533      19.408      5.492       
-INZ     C24     C       CH2     0       11.319      18.139      5.240       
-INZ     C25     C       CH2     0       11.181      17.600      3.840       
-INZ     C26     C       CH3     0       11.941      18.396      2.806       
-INZ     O27     O       O       0       7.062       20.563      10.031      
-INZ     N28     N       NH1     0       5.522       19.345      8.881       
-INZ     C29     C       CH1     0       4.617       20.452      8.596       
-INZ     C30     C       CH2     0       5.051       21.195      7.318       
-INZ     C31     C       C       0       3.156       19.981      8.459       
-INZ     O32     O       O       0       2.955       18.872      7.921       
-INZ     O33     O       OC      -1      2.271       20.743      8.895       
-INZ     C34     C       CR6     0       5.194       20.314      6.100       
-INZ     C35     C       CR16    0       6.387       19.652      5.832       
-INZ     C36     C       CR16    0       6.514       18.841      4.710       
-INZ     C37     C       CR16    0       5.452       18.687      3.842       
-INZ     C38     C       CR16    0       4.264       19.339      4.093       
-INZ     C39     C       CR16    0       4.135       20.150      5.214       
-INZ     HC5     H       H       0       14.033      16.783      9.796       
-INZ     HC6     H       H       0       11.903      16.889      8.886       
-INZ     HC8     H       H       0       10.307      16.940      12.572      
-INZ     HC9     H       H       0       12.421      16.834      13.505      
-INZ     HC10    H       H       0       14.595      17.568      13.944      
-INZ     H111    H       H       0       8.892       16.420      10.546      
-INZ     H112    H       H       0       9.525       16.650      9.114       
-INZ     HC12    H       H       0       8.879       18.756      10.926      
-INZ     HN17    H       H       0       7.223       17.654      9.168       
-INZ     HN20    H       H       0       9.405       18.439      7.538       
-INZ     H221    H       H       0       11.590      19.874      7.196       
-INZ     H222    H       H       0       10.350      20.835      6.965       
-INZ     H231    H       H       0       10.855      20.109      4.886       
-INZ     H232    H       H       0       9.587       19.244      5.287       
-INZ     H241    H       H       0       11.021      17.451      5.872       
-INZ     H242    H       H       0       12.268      18.315      5.416       
-INZ     H251    H       H       0       10.229      17.591      3.598       
-INZ     H252    H       H       0       11.502      16.672      3.826       
-INZ     H261    H       H       0       11.859      17.964      1.938       
-INZ     H262    H       H       0       12.881      18.441      3.056       
-INZ     H263    H       H       0       11.577      19.296      2.755       
-INZ     HN28    H       H       0       5.274       18.541      8.643       
-INZ     HC29    H       H       0       4.659       21.091      9.349       
-INZ     H301    H       H       0       5.911       21.634      7.490       
-INZ     H302    H       H       0       4.394       21.895      7.124       
-INZ     HC35    H       H       0       7.117       19.752      6.422       
-INZ     HC36    H       H       0       7.329       18.396      4.542       
-INZ     HC37    H       H       0       5.540       18.137      3.080       
-INZ     HC38    H       H       0       3.536       19.235      3.501       
-INZ     HC39    H       H       0       3.318       20.591      5.379       
+INZ C1   C C    0  16.606 17.307 13.618
+INZ O2   O OC   -1 16.896 18.274 14.343
+INZ O3   O O    0  17.459 16.674 12.969
+INZ C4   C CR6  0  13.453 16.801 11.745
+INZ C5   C CR16 0  13.281 16.815 10.365
+INZ C6   C CR16 0  12.004 16.876 9.824
+INZ C7   C CR6  0  10.874 16.923 10.629
+INZ C8   C CR16 0  11.060 16.909 12.005
+INZ C9   C CR16 0  12.328 16.844 12.568
+INZ C10  C CH1  0  15.144 16.881 13.525
+INZ C11  C CH2  0  9.491  16.998 10.030
+INZ C12  C CH1  0  8.902  18.415 9.999
+INZ O13  O O2   0  14.772 16.732 12.137
+INZ C14  C C    0  14.945 15.560 14.266
+INZ O15  O OC   -1 14.288 15.561 15.322
+INZ O16  O O    0  15.446 14.526 13.787
+INZ N17  N NH1  0  7.536  18.404 9.493
+INZ C18  C C    0  9.794  19.349 9.175
+INZ C19  C C    0  6.720  19.486 9.497
+INZ N20  N NH1  0  9.860  19.111 7.860
+INZ O21  O O    0  10.405 20.265 9.723
+INZ C22  C CH2  0  10.648 19.901 6.922
+INZ C23  C CH2  0  10.533 19.408 5.492
+INZ C24  C CH2  0  11.319 18.139 5.240
+INZ C25  C CH2  0  11.181 17.600 3.840
+INZ C26  C CH3  0  11.941 18.396 2.806
+INZ O27  O O    0  7.062  20.563 10.031
+INZ N28  N NH1  0  5.522  19.345 8.881
+INZ C29  C CH1  0  4.617  20.452 8.596
+INZ C30  C CH2  0  5.051  21.195 7.318
+INZ C31  C C    0  3.156  19.981 8.459
+INZ O32  O O    0  2.955  18.872 7.921
+INZ O33  O OC   -1 2.271  20.743 8.895
+INZ C34  C CR6  0  5.194  20.314 6.100
+INZ C35  C CR16 0  6.387  19.652 5.832
+INZ C36  C CR16 0  6.514  18.841 4.710
+INZ C37  C CR16 0  5.452  18.687 3.842
+INZ C38  C CR16 0  4.264  19.339 4.093
+INZ C39  C CR16 0  4.135  20.150 5.214
+INZ HC5  H H    0  14.033 16.783 9.796
+INZ HC6  H H    0  11.903 16.889 8.886
+INZ HC8  H H    0  10.307 16.940 12.572
+INZ HC9  H H    0  12.421 16.834 13.505
+INZ HC10 H H    0  14.595 17.568 13.944
+INZ H111 H H    0  8.892  16.420 10.546
+INZ H112 H H    0  9.525  16.650 9.114
+INZ HC12 H H    0  8.879  18.756 10.926
+INZ HN17 H H    0  7.223  17.654 9.168
+INZ HN20 H H    0  9.405  18.439 7.538
+INZ H221 H H    0  11.590 19.874 7.196
+INZ H222 H H    0  10.350 20.835 6.965
+INZ H231 H H    0  10.855 20.109 4.886
+INZ H232 H H    0  9.587  19.244 5.287
+INZ H241 H H    0  11.021 17.451 5.872
+INZ H242 H H    0  12.268 18.315 5.416
+INZ H251 H H    0  10.229 17.591 3.598
+INZ H252 H H    0  11.502 16.672 3.826
+INZ H261 H H    0  11.859 17.964 1.938
+INZ H262 H H    0  12.881 18.441 3.056
+INZ H263 H H    0  11.577 19.296 2.755
+INZ HN28 H H    0  5.274  18.541 8.643
+INZ HC29 H H    0  4.659  21.091 9.349
+INZ H301 H H    0  5.911  21.634 7.490
+INZ H302 H H    0  4.394  21.895 7.124
+INZ HC35 H H    0  7.117  19.752 6.422
+INZ HC36 H H    0  7.329  18.396 4.542
+INZ HC37 H H    0  5.540  18.137 3.080
+INZ HC38 H H    0  3.536  19.235 3.501
+INZ HC39 H H    0  3.318  20.591 5.379
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -100,76 +99,77 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-INZ          C1          O2      SINGLE       n     1.244  0.0200     1.244  0.0200
-INZ          C1          O3      DOUBLE       n     1.244  0.0200     1.244  0.0200
-INZ          C1         C10      SINGLE       n     1.526  0.0200     1.526  0.0200
-INZ          C4          C5      DOUBLE       y     1.386  0.0109     1.386  0.0109
-INZ          C4          C9      SINGLE       y     1.386  0.0109     1.386  0.0109
-INZ          C4         O13      SINGLE       n     1.370  0.0110     1.370  0.0110
-INZ          C5          C6      SINGLE       y     1.385  0.0100     1.385  0.0100
-INZ          C6          C7      DOUBLE       y     1.385  0.0110     1.385  0.0110
-INZ          C7          C8      SINGLE       y     1.385  0.0110     1.385  0.0110
-INZ          C7         C11      SINGLE       n     1.508  0.0100     1.508  0.0100
-INZ          C8          C9      DOUBLE       y     1.385  0.0100     1.385  0.0100
-INZ         C10         O13      SINGLE       n     1.434  0.0185     1.434  0.0185
-INZ         C10         C14      SINGLE       n     1.526  0.0200     1.526  0.0200
-INZ         C11         C12      SINGLE       n     1.532  0.0110     1.532  0.0110
-INZ         C12         N17      SINGLE       n     1.454  0.0100     1.454  0.0100
-INZ         C12         C18      SINGLE       n     1.527  0.0118     1.527  0.0118
-INZ         C14         O15      SINGLE       n     1.244  0.0200     1.244  0.0200
-INZ         C14         O16      DOUBLE       n     1.244  0.0200     1.244  0.0200
-INZ         N17         C19      SINGLE       n     1.349  0.0100     1.349  0.0100
-INZ         C18         N20      SINGLE       n     1.336  0.0104     1.336  0.0104
-INZ         C18         O21      DOUBLE       n     1.229  0.0102     1.229  0.0102
-INZ         C19         O27      DOUBLE       n     1.243  0.0179     1.243  0.0179
-INZ         C19         N28      SINGLE       n     1.349  0.0100     1.349  0.0100
-INZ         N20         C22      SINGLE       n     1.456  0.0109     1.456  0.0109
-INZ         C22         C23      SINGLE       n     1.517  0.0143     1.517  0.0143
-INZ         C23         C24      SINGLE       n     1.514  0.0200     1.514  0.0200
-INZ         C24         C25      SINGLE       n     1.507  0.0200     1.507  0.0200
-INZ         C25         C26      SINGLE       n     1.510  0.0200     1.510  0.0200
-INZ         N28         C29      SINGLE       n     1.450  0.0141     1.450  0.0141
-INZ         C29         C30      SINGLE       n     1.538  0.0100     1.538  0.0100
-INZ         C29         C31      SINGLE       n     1.539  0.0100     1.539  0.0100
-INZ         C30         C34      SINGLE       n     1.508  0.0100     1.508  0.0100
-INZ         C31         O32      DOUBLE       n     1.247  0.0187     1.247  0.0187
-INZ         C31         O33      SINGLE       n     1.247  0.0187     1.247  0.0187
-INZ         C34         C35      DOUBLE       y     1.385  0.0111     1.385  0.0111
-INZ         C34         C39      SINGLE       y     1.385  0.0111     1.385  0.0111
-INZ         C35         C36      SINGLE       y     1.386  0.0100     1.386  0.0100
-INZ         C36         C37      DOUBLE       y     1.376  0.0124     1.376  0.0124
-INZ         C37         C38      SINGLE       y     1.374  0.0127     1.374  0.0127
-INZ         C38         C39      DOUBLE       y     1.386  0.0100     1.386  0.0100
-INZ          C5         HC5      SINGLE       n     1.082  0.0130     0.943  0.0169
-INZ          C6         HC6      SINGLE       n     1.082  0.0130     0.943  0.0173
-INZ          C8         HC8      SINGLE       n     1.082  0.0130     0.943  0.0173
-INZ          C9         HC9      SINGLE       n     1.082  0.0130     0.943  0.0169
-INZ         C10        HC10      SINGLE       n     1.089  0.0100     0.974  0.0160
-INZ         C11        H111      SINGLE       n     1.089  0.0100     0.980  0.0164
-INZ         C11        H112      SINGLE       n     1.089  0.0100     0.980  0.0164
-INZ         C12        HC12      SINGLE       n     1.089  0.0100     0.988  0.0200
-INZ         N17        HN17      SINGLE       n     1.016  0.0100     0.873  0.0200
-INZ         N20        HN20      SINGLE       n     1.016  0.0100     0.872  0.0200
-INZ         C22        H221      SINGLE       n     1.089  0.0100     0.981  0.0152
-INZ         C22        H222      SINGLE       n     1.089  0.0100     0.981  0.0152
-INZ         C23        H231      SINGLE       n     1.089  0.0100     0.981  0.0160
-INZ         C23        H232      SINGLE       n     1.089  0.0100     0.981  0.0160
-INZ         C24        H241      SINGLE       n     1.089  0.0100     0.981  0.0163
-INZ         C24        H242      SINGLE       n     1.089  0.0100     0.981  0.0163
-INZ         C25        H251      SINGLE       n     1.089  0.0100     0.982  0.0155
-INZ         C25        H252      SINGLE       n     1.089  0.0100     0.982  0.0155
-INZ         C26        H261      SINGLE       n     1.089  0.0100     0.973  0.0157
-INZ         C26        H262      SINGLE       n     1.089  0.0100     0.973  0.0157
-INZ         C26        H263      SINGLE       n     1.089  0.0100     0.973  0.0157
-INZ         N28        HN28      SINGLE       n     1.016  0.0100     0.873  0.0200
-INZ         C29        HC29      SINGLE       n     1.089  0.0100     0.988  0.0135
-INZ         C30        H301      SINGLE       n     1.089  0.0100     0.980  0.0164
-INZ         C30        H302      SINGLE       n     1.089  0.0100     0.980  0.0164
-INZ         C35        HC35      SINGLE       n     1.082  0.0130     0.944  0.0174
-INZ         C36        HC36      SINGLE       n     1.082  0.0130     0.944  0.0175
-INZ         C37        HC37      SINGLE       n     1.082  0.0130     0.944  0.0161
-INZ         C38        HC38      SINGLE       n     1.082  0.0130     0.944  0.0175
-INZ         C39        HC39      SINGLE       n     1.082  0.0130     0.944  0.0174
+INZ C1  O2   SINGLE n 1.244 0.0200 1.244 0.0200
+INZ C1  O3   DOUBLE n 1.244 0.0200 1.244 0.0200
+INZ C1  C10  SINGLE n 1.526 0.0200 1.526 0.0200
+INZ C4  C5   DOUBLE y 1.386 0.0109 1.386 0.0109
+INZ C4  C9   SINGLE y 1.386 0.0109 1.386 0.0109
+INZ C4  O13  SINGLE n 1.370 0.0110 1.370 0.0110
+INZ C5  C6   SINGLE y 1.385 0.0100 1.385 0.0100
+INZ C6  C7   DOUBLE y 1.385 0.0110 1.385 0.0110
+INZ C7  C8   SINGLE y 1.385 0.0110 1.385 0.0110
+INZ C7  C11  SINGLE n 1.508 0.0100 1.508 0.0100
+INZ C8  C9   DOUBLE y 1.385 0.0100 1.385 0.0100
+INZ C10 O13  SINGLE n 1.434 0.0185 1.434 0.0185
+INZ C10 C14  SINGLE n 1.526 0.0200 1.526 0.0200
+INZ C11 C12  SINGLE n 1.532 0.0110 1.532 0.0110
+INZ C12 N17  SINGLE n 1.454 0.0100 1.454 0.0100
+INZ C12 C18  SINGLE n 1.527 0.0118 1.527 0.0118
+INZ C14 O15  SINGLE n 1.244 0.0200 1.244 0.0200
+INZ C14 O16  DOUBLE n 1.244 0.0200 1.244 0.0200
+INZ N17 C19  SINGLE n 1.349 0.0100 1.349 0.0100
+INZ C18 N20  SINGLE n 1.336 0.0104 1.336 0.0104
+INZ C18 O21  DOUBLE n 1.229 0.0102 1.229 0.0102
+INZ C19 O27  DOUBLE n 1.243 0.0179 1.243 0.0179
+INZ C19 N28  SINGLE n 1.349 0.0100 1.349 0.0100
+INZ N20 C22  SINGLE n 1.456 0.0109 1.456 0.0109
+INZ C22 C23  SINGLE n 1.517 0.0143 1.517 0.0143
+INZ C23 C24  SINGLE n 1.514 0.0200 1.514 0.0200
+INZ C24 C25  SINGLE n 1.507 0.0200 1.507 0.0200
+INZ C25 C26  SINGLE n 1.510 0.0200 1.510 0.0200
+INZ N28 C29  SINGLE n 1.450 0.0141 1.450 0.0141
+INZ C29 C30  SINGLE n 1.538 0.0100 1.538 0.0100
+INZ C29 C31  SINGLE n 1.539 0.0100 1.539 0.0100
+INZ C30 C34  SINGLE n 1.508 0.0100 1.508 0.0100
+INZ C31 O32  DOUBLE n 1.247 0.0187 1.247 0.0187
+INZ C31 O33  SINGLE n 1.247 0.0187 1.247 0.0187
+INZ C34 C35  DOUBLE y 1.385 0.0111 1.385 0.0111
+INZ C34 C39  SINGLE y 1.385 0.0111 1.385 0.0111
+INZ C35 C36  SINGLE y 1.386 0.0100 1.386 0.0100
+INZ C36 C37  DOUBLE y 1.376 0.0124 1.376 0.0124
+INZ C37 C38  SINGLE y 1.374 0.0127 1.374 0.0127
+INZ C38 C39  DOUBLE y 1.386 0.0100 1.386 0.0100
+INZ C5  HC5  SINGLE n 1.082 0.0130 0.943 0.0169
+INZ C6  HC6  SINGLE n 1.082 0.0130 0.943 0.0173
+INZ C8  HC8  SINGLE n 1.082 0.0130 0.943 0.0173
+INZ C9  HC9  SINGLE n 1.082 0.0130 0.943 0.0169
+INZ C10 HC10 SINGLE n 1.089 0.0100 0.974 0.0160
+INZ C11 H111 SINGLE n 1.089 0.0100 0.980 0.0164
+INZ C11 H112 SINGLE n 1.089 0.0100 0.980 0.0164
+INZ C12 HC12 SINGLE n 1.089 0.0100 0.988 0.0200
+INZ N17 HN17 SINGLE n 1.016 0.0100 0.873 0.0200
+INZ N20 HN20 SINGLE n 1.016 0.0100 0.872 0.0200
+INZ C22 H221 SINGLE n 1.089 0.0100 0.981 0.0152
+INZ C22 H222 SINGLE n 1.089 0.0100 0.981 0.0152
+INZ C23 H231 SINGLE n 1.089 0.0100 0.981 0.0160
+INZ C23 H232 SINGLE n 1.089 0.0100 0.981 0.0160
+INZ C24 H241 SINGLE n 1.089 0.0100 0.981 0.0163
+INZ C24 H242 SINGLE n 1.089 0.0100 0.981 0.0163
+INZ C25 H251 SINGLE n 1.089 0.0100 0.982 0.0155
+INZ C25 H252 SINGLE n 1.089 0.0100 0.982 0.0155
+INZ C26 H261 SINGLE n 1.089 0.0100 0.973 0.0157
+INZ C26 H262 SINGLE n 1.089 0.0100 0.973 0.0157
+INZ C26 H263 SINGLE n 1.089 0.0100 0.973 0.0157
+INZ N28 HN28 SINGLE n 1.016 0.0100 0.873 0.0200
+INZ C29 HC29 SINGLE n 1.089 0.0100 0.988 0.0135
+INZ C30 H301 SINGLE n 1.089 0.0100 0.980 0.0164
+INZ C30 H302 SINGLE n 1.089 0.0100 0.980 0.0164
+INZ C35 HC35 SINGLE n 1.082 0.0130 0.944 0.0174
+INZ C36 HC36 SINGLE n 1.082 0.0130 0.944 0.0175
+INZ C37 HC37 SINGLE n 1.082 0.0130 0.944 0.0161
+INZ C38 HC38 SINGLE n 1.082 0.0130 0.944 0.0175
+INZ C39 HC39 SINGLE n 1.082 0.0130 0.944 0.0174
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -177,127 +177,128 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-INZ          O2          C1          O3     122.692    1.50
-INZ          O2          C1         C10     118.654    3.00
-INZ          O3          C1         C10     118.654    3.00
-INZ          C5          C4          C9     119.823    1.50
-INZ          C5          C4         O13     120.089    3.00
-INZ          C9          C4         O13     120.089    3.00
-INZ          C4          C5          C6     119.690    1.50
-INZ          C4          C5         HC5     120.137    1.50
-INZ          C6          C5         HC5     120.174    1.50
-INZ          C5          C6          C7     121.479    1.50
-INZ          C5          C6         HC6     119.207    1.50
-INZ          C7          C6         HC6     119.314    1.50
-INZ          C6          C7          C8     117.841    1.50
-INZ          C6          C7         C11     121.080    1.50
-INZ          C8          C7         C11     121.080    1.50
-INZ          C7          C8          C9     121.479    1.50
-INZ          C7          C8         HC8     119.314    1.50
-INZ          C9          C8         HC8     119.207    1.50
-INZ          C4          C9          C8     119.690    1.50
-INZ          C4          C9         HC9     120.137    1.50
-INZ          C8          C9         HC9     120.174    1.50
-INZ          C1         C10         O13     110.354    2.51
-INZ          C1         C10         C14     111.575    3.00
-INZ          C1         C10        HC10     109.227    1.50
-INZ         O13         C10         C14     110.354    2.51
-INZ         O13         C10        HC10     109.515    1.50
-INZ         C14         C10        HC10     109.227    1.50
-INZ          C7         C11         C12     113.550    1.83
-INZ          C7         C11        H111     108.862    1.50
-INZ          C7         C11        H112     108.862    1.50
-INZ         C12         C11        H111     108.810    1.50
-INZ         C12         C11        H112     108.810    1.50
-INZ        H111         C11        H112     107.782    1.50
-INZ         C11         C12         N17     110.790    1.50
-INZ         C11         C12         C18     110.507    1.62
-INZ         C11         C12        HC12     108.341    1.50
-INZ         N17         C12         C18     111.106    2.53
-INZ         N17         C12        HC12     108.161    1.50
-INZ         C18         C12        HC12     108.179    1.50
-INZ          C4         O13         C10     117.287    1.50
-INZ         C10         C14         O15     118.654    3.00
-INZ         C10         C14         O16     118.654    3.00
-INZ         O15         C14         O16     122.692    1.50
-INZ         C12         N17         C19     122.812    3.00
-INZ         C12         N17        HN17     119.090    1.92
-INZ         C19         N17        HN17     118.098    1.50
-INZ         C12         C18         N20     116.223    1.50
-INZ         C12         C18         O21     120.760    1.50
-INZ         N20         C18         O21     123.017    1.50
-INZ         N17         C19         O27     122.060    1.50
-INZ         N17         C19         N28     115.881    1.50
-INZ         O27         C19         N28     122.060    1.50
-INZ         C18         N20         C22     124.137    2.65
-INZ         C18         N20        HN20     118.105    1.52
-INZ         C22         N20        HN20     117.758    1.90
-INZ         N20         C22         C23     112.624    1.50
-INZ         N20         C22        H221     108.979    1.50
-INZ         N20         C22        H222     108.979    1.50
-INZ         C23         C22        H221     109.197    1.51
-INZ         C23         C22        H222     109.197    1.51
-INZ        H221         C22        H222     107.877    1.50
-INZ         C22         C23         C24     113.159    3.00
-INZ         C22         C23        H231     108.956    1.50
-INZ         C22         C23        H232     108.956    1.50
-INZ         C24         C23        H231     109.041    1.50
-INZ         C24         C23        H232     109.041    1.50
-INZ        H231         C23        H232     107.927    1.57
-INZ         C23         C24         C25     114.022    2.49
-INZ         C23         C24        H241     108.806    1.50
-INZ         C23         C24        H242     108.806    1.50
-INZ         C25         C24        H241     108.653    1.50
-INZ         C25         C24        H242     108.653    1.50
-INZ        H241         C24        H242     107.646    1.50
-INZ         C24         C25         C26     113.719    3.00
-INZ         C24         C25        H251     108.758    1.50
-INZ         C24         C25        H252     108.758    1.50
-INZ         C26         C25        H251     108.918    1.50
-INZ         C26         C25        H252     108.918    1.50
-INZ        H251         C25        H252     107.763    1.50
-INZ         C25         C26        H261     109.554    1.50
-INZ         C25         C26        H262     109.554    1.50
-INZ         C25         C26        H263     109.554    1.50
-INZ        H261         C26        H262     109.380    1.50
-INZ        H261         C26        H263     109.380    1.50
-INZ        H262         C26        H263     109.380    1.50
-INZ         C19         N28         C29     122.812    3.00
-INZ         C19         N28        HN28     118.098    1.50
-INZ         C29         N28        HN28     119.090    1.92
-INZ         N28         C29         C30     110.790    1.50
-INZ         N28         C29         C31     110.939    1.74
-INZ         N28         C29        HC29     108.161    1.50
-INZ         C30         C29         C31     108.347    3.00
-INZ         C30         C29        HC29     108.204    1.50
-INZ         C31         C29        HC29     108.456    1.50
-INZ         C29         C30         C34     113.563    1.55
-INZ         C29         C30        H301     108.745    1.50
-INZ         C29         C30        H302     108.745    1.50
-INZ         C34         C30        H301     108.862    1.50
-INZ         C34         C30        H302     108.862    1.50
-INZ        H301         C30        H302     107.782    1.50
-INZ         C29         C31         O32     117.245    1.50
-INZ         C29         C31         O33     117.245    1.50
-INZ         O32         C31         O33     125.509    1.50
-INZ         C30         C34         C35     120.970    1.50
-INZ         C30         C34         C39     120.970    1.50
-INZ         C35         C34         C39     118.060    1.50
-INZ         C34         C35         C36     120.624    1.50
-INZ         C34         C35        HC35     119.591    1.50
-INZ         C36         C35        HC35     119.786    1.50
-INZ         C35         C36         C37     120.325    1.50
-INZ         C35         C36        HC36     119.792    1.50
-INZ         C37         C36        HC36     119.883    1.50
-INZ         C36         C37         C38     120.043    1.50
-INZ         C36         C37        HC37     119.979    1.50
-INZ         C38         C37        HC37     119.979    1.50
-INZ         C37         C38         C39     120.325    1.50
-INZ         C37         C38        HC38     119.883    1.50
-INZ         C39         C38        HC38     119.792    1.50
-INZ         C34         C39         C38     120.624    1.50
-INZ         C34         C39        HC39     119.591    1.50
-INZ         C38         C39        HC39     119.786    1.50
+INZ O2   C1  O3   122.692 1.50
+INZ O2   C1  C10  118.654 3.00
+INZ O3   C1  C10  118.654 3.00
+INZ C5   C4  C9   119.823 1.50
+INZ C5   C4  O13  120.089 3.00
+INZ C9   C4  O13  120.089 3.00
+INZ C4   C5  C6   119.690 1.50
+INZ C4   C5  HC5  120.137 1.50
+INZ C6   C5  HC5  120.174 1.50
+INZ C5   C6  C7   121.479 1.50
+INZ C5   C6  HC6  119.207 1.50
+INZ C7   C6  HC6  119.314 1.50
+INZ C6   C7  C8   117.841 1.50
+INZ C6   C7  C11  121.080 1.50
+INZ C8   C7  C11  121.080 1.50
+INZ C7   C8  C9   121.479 1.50
+INZ C7   C8  HC8  119.314 1.50
+INZ C9   C8  HC8  119.207 1.50
+INZ C4   C9  C8   119.690 1.50
+INZ C4   C9  HC9  120.137 1.50
+INZ C8   C9  HC9  120.174 1.50
+INZ C1   C10 O13  110.354 2.51
+INZ C1   C10 C14  111.575 3.00
+INZ C1   C10 HC10 109.227 1.50
+INZ O13  C10 C14  110.354 2.51
+INZ O13  C10 HC10 109.515 1.50
+INZ C14  C10 HC10 109.227 1.50
+INZ C7   C11 C12  113.550 1.83
+INZ C7   C11 H111 108.862 1.50
+INZ C7   C11 H112 108.862 1.50
+INZ C12  C11 H111 108.810 1.50
+INZ C12  C11 H112 108.810 1.50
+INZ H111 C11 H112 107.782 1.50
+INZ C11  C12 N17  110.790 1.50
+INZ C11  C12 C18  110.507 1.62
+INZ C11  C12 HC12 108.341 1.50
+INZ N17  C12 C18  111.106 2.53
+INZ N17  C12 HC12 108.161 1.50
+INZ C18  C12 HC12 108.179 1.50
+INZ C4   O13 C10  117.287 1.50
+INZ C10  C14 O15  118.654 3.00
+INZ C10  C14 O16  118.654 3.00
+INZ O15  C14 O16  122.692 1.50
+INZ C12  N17 C19  122.812 3.00
+INZ C12  N17 HN17 119.090 1.92
+INZ C19  N17 HN17 118.098 1.50
+INZ C12  C18 N20  116.223 1.50
+INZ C12  C18 O21  120.760 1.50
+INZ N20  C18 O21  123.017 1.50
+INZ N17  C19 O27  122.060 1.50
+INZ N17  C19 N28  115.881 1.50
+INZ O27  C19 N28  122.060 1.50
+INZ C18  N20 C22  124.137 2.65
+INZ C18  N20 HN20 118.105 1.52
+INZ C22  N20 HN20 117.758 1.90
+INZ N20  C22 C23  112.624 1.50
+INZ N20  C22 H221 108.979 1.50
+INZ N20  C22 H222 108.979 1.50
+INZ C23  C22 H221 109.197 1.51
+INZ C23  C22 H222 109.197 1.51
+INZ H221 C22 H222 107.877 1.50
+INZ C22  C23 C24  113.159 3.00
+INZ C22  C23 H231 108.956 1.50
+INZ C22  C23 H232 108.956 1.50
+INZ C24  C23 H231 109.041 1.50
+INZ C24  C23 H232 109.041 1.50
+INZ H231 C23 H232 107.927 1.57
+INZ C23  C24 C25  114.022 2.49
+INZ C23  C24 H241 108.806 1.50
+INZ C23  C24 H242 108.806 1.50
+INZ C25  C24 H241 108.653 1.50
+INZ C25  C24 H242 108.653 1.50
+INZ H241 C24 H242 107.646 1.50
+INZ C24  C25 C26  113.719 3.00
+INZ C24  C25 H251 108.758 1.50
+INZ C24  C25 H252 108.758 1.50
+INZ C26  C25 H251 108.918 1.50
+INZ C26  C25 H252 108.918 1.50
+INZ H251 C25 H252 107.763 1.50
+INZ C25  C26 H261 109.554 1.50
+INZ C25  C26 H262 109.554 1.50
+INZ C25  C26 H263 109.554 1.50
+INZ H261 C26 H262 109.380 1.50
+INZ H261 C26 H263 109.380 1.50
+INZ H262 C26 H263 109.380 1.50
+INZ C19  N28 C29  122.812 3.00
+INZ C19  N28 HN28 118.098 1.50
+INZ C29  N28 HN28 119.090 1.92
+INZ N28  C29 C30  110.790 1.50
+INZ N28  C29 C31  110.939 1.74
+INZ N28  C29 HC29 108.161 1.50
+INZ C30  C29 C31  108.347 3.00
+INZ C30  C29 HC29 108.204 1.50
+INZ C31  C29 HC29 108.456 1.50
+INZ C29  C30 C34  113.563 1.55
+INZ C29  C30 H301 108.745 1.50
+INZ C29  C30 H302 108.745 1.50
+INZ C34  C30 H301 108.862 1.50
+INZ C34  C30 H302 108.862 1.50
+INZ H301 C30 H302 107.782 1.50
+INZ C29  C31 O32  117.245 1.50
+INZ C29  C31 O33  117.245 1.50
+INZ O32  C31 O33  125.509 1.50
+INZ C30  C34 C35  120.970 1.50
+INZ C30  C34 C39  120.970 1.50
+INZ C35  C34 C39  118.060 1.50
+INZ C34  C35 C36  120.624 1.50
+INZ C34  C35 HC35 119.591 1.50
+INZ C36  C35 HC35 119.786 1.50
+INZ C35  C36 C37  120.325 1.50
+INZ C35  C36 HC36 119.792 1.50
+INZ C37  C36 HC36 119.883 1.50
+INZ C36  C37 C38  120.043 1.50
+INZ C36  C37 HC37 119.979 1.50
+INZ C38  C37 HC37 119.979 1.50
+INZ C37  C38 C39  120.325 1.50
+INZ C37  C38 HC38 119.883 1.50
+INZ C39  C38 HC38 119.792 1.50
+INZ C34  C39 C38  120.624 1.50
+INZ C34  C39 HC39 119.591 1.50
+INZ C38  C39 HC39 119.786 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -308,38 +309,39 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-INZ             sp2_sp3_1          O2          C1         C10         O13       0.000    10.0     6
-INZ             sp3_sp3_4          C7         C11         C12         N17     180.000    10.0     3
-INZ            sp2_sp3_19         C19         N17         C12         C11       0.000    10.0     6
-INZ            sp2_sp3_25         N20         C18         C12         C11       0.000    10.0     6
-INZ             sp2_sp2_5         O27         C19         N17         C12       0.000     5.0     2
-INZ             sp2_sp2_7         C12         C18         N20         C22     180.000     5.0     2
-INZ            sp2_sp2_11         N17         C19         N28         C29     180.000     5.0     2
-INZ            sp2_sp3_32         C18         N20         C22         C23     120.000    10.0     6
-INZ            sp3_sp3_13         N20         C22         C23         C24     180.000    10.0     3
-INZ            sp3_sp3_22         C22         C23         C24         C25     180.000    10.0     3
-INZ            sp3_sp3_31         C23         C24         C25         C26     180.000    10.0     3
-INZ            sp3_sp3_40         C24         C25         C26        H261     180.000    10.0     3
-INZ            sp2_sp3_37         C19         N28         C29         C30       0.000    10.0     6
-INZ            sp3_sp3_49         N28         C29         C30         C34     180.000    10.0     3
-INZ            sp2_sp3_43         O32         C31         C29         N28       0.000    10.0     6
-INZ            sp2_sp3_50         C35         C34         C30         C29     -90.000    10.0     6
-INZ       const_sp2_sp2_3         C30         C34         C35         C36     180.000     5.0     2
-INZ              const_47         C30         C34         C39         C38     180.000    10.0     2
-INZ       const_sp2_sp2_5         C34         C35         C36         C37       0.000     5.0     2
-INZ       const_sp2_sp2_9         C35         C36         C37         C38       0.000     5.0     2
-INZ              const_13         C36         C37         C38         C39       0.000    10.0     2
-INZ              const_17         C37         C38         C39         C34       0.000    10.0     2
-INZ             sp2_sp2_1          C5          C4         O13         C10     180.000     5.0     2
-INZ              const_23         O13          C4          C5          C6     180.000    10.0     2
-INZ              const_43         O13          C4          C9          C8     180.000    10.0     2
-INZ              const_25          C4          C5          C6          C7       0.000    10.0     2
-INZ              const_30          C5          C6          C7         C11     180.000    10.0     2
-INZ             sp2_sp3_8          C6          C7         C11         C12     -90.000    10.0     6
-INZ              const_35         C11          C7          C8          C9     180.000    10.0     2
-INZ              const_37          C7          C8          C9          C4       0.000    10.0     2
-INZ             sp3_sp3_1          C1         C10         O13          C4     180.000    10.0     3
-INZ            sp2_sp3_13         O15         C14         C10          C1       0.000    10.0     6
+INZ sp2_sp3_1       O2  C1  C10 O13  0.000   10.0 6
+INZ sp3_sp3_4       C7  C11 C12 N17  180.000 10.0 3
+INZ sp2_sp3_19      C19 N17 C12 C11  0.000   10.0 6
+INZ sp2_sp3_25      N20 C18 C12 C11  0.000   10.0 6
+INZ sp2_sp2_5       O27 C19 N17 C12  0.000   5.0  2
+INZ sp2_sp2_7       C12 C18 N20 C22  180.000 5.0  2
+INZ sp2_sp2_11      N17 C19 N28 C29  180.000 5.0  2
+INZ sp2_sp3_32      C18 N20 C22 C23  120.000 10.0 6
+INZ sp3_sp3_13      N20 C22 C23 C24  180.000 10.0 3
+INZ sp3_sp3_22      C22 C23 C24 C25  180.000 10.0 3
+INZ sp3_sp3_31      C23 C24 C25 C26  180.000 10.0 3
+INZ sp3_sp3_40      C24 C25 C26 H261 180.000 10.0 3
+INZ sp2_sp3_37      C19 N28 C29 C30  0.000   10.0 6
+INZ sp3_sp3_49      N28 C29 C30 C34  180.000 10.0 3
+INZ sp2_sp3_43      O32 C31 C29 N28  0.000   10.0 6
+INZ sp2_sp3_50      C35 C34 C30 C29  -90.000 10.0 6
+INZ const_sp2_sp2_3 C30 C34 C35 C36  180.000 5.0  2
+INZ const_47        C30 C34 C39 C38  180.000 10.0 2
+INZ const_sp2_sp2_5 C34 C35 C36 C37  0.000   5.0  2
+INZ const_sp2_sp2_9 C35 C36 C37 C38  0.000   5.0  2
+INZ const_13        C36 C37 C38 C39  0.000   10.0 2
+INZ const_17        C37 C38 C39 C34  0.000   10.0 2
+INZ sp2_sp2_1       C5  C4  O13 C10  180.000 5.0  2
+INZ const_23        O13 C4  C5  C6   180.000 10.0 2
+INZ const_43        O13 C4  C9  C8   180.000 10.0 2
+INZ const_25        C4  C5  C6  C7   0.000   10.0 2
+INZ const_30        C5  C6  C7  C11  180.000 10.0 2
+INZ sp2_sp3_8       C6  C7  C11 C12  -90.000 10.0 6
+INZ const_35        C11 C7  C8  C9   180.000 10.0 2
+INZ const_37        C7  C8  C9  C4   0.000   10.0 2
+INZ sp3_sp3_1       C1  C10 O13 C4   180.000 10.0 3
+INZ sp2_sp3_13      O15 C14 C10 C1   0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -348,89 +350,105 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-INZ    chir_1    C10    O13    C1    C14    both
-INZ    chir_2    C12    N17    C18    C11    positive
-INZ    chir_3    C29    N28    C31    C30    positive
+INZ chir_1 C10 O13 C1  C14 both
+INZ chir_2 C12 N17 C18 C11 positive
+INZ chir_3 C29 N28 C31 C30 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-INZ    plan-1         C30   0.020
-INZ    plan-1         C34   0.020
-INZ    plan-1         C35   0.020
-INZ    plan-1         C36   0.020
-INZ    plan-1         C37   0.020
-INZ    plan-1         C38   0.020
-INZ    plan-1         C39   0.020
-INZ    plan-1        HC35   0.020
-INZ    plan-1        HC36   0.020
-INZ    plan-1        HC37   0.020
-INZ    plan-1        HC38   0.020
-INZ    plan-1        HC39   0.020
-INZ    plan-2         C11   0.020
-INZ    plan-2          C4   0.020
-INZ    plan-2          C5   0.020
-INZ    plan-2          C6   0.020
-INZ    plan-2          C7   0.020
-INZ    plan-2          C8   0.020
-INZ    plan-2          C9   0.020
-INZ    plan-2         HC5   0.020
-INZ    plan-2         HC6   0.020
-INZ    plan-2         HC8   0.020
-INZ    plan-2         HC9   0.020
-INZ    plan-2         O13   0.020
-INZ    plan-3          C1   0.020
-INZ    plan-3         C10   0.020
-INZ    plan-3          O2   0.020
-INZ    plan-3          O3   0.020
-INZ    plan-4         C10   0.020
-INZ    plan-4         C14   0.020
-INZ    plan-4         O15   0.020
-INZ    plan-4         O16   0.020
-INZ    plan-5         C12   0.020
-INZ    plan-5         C19   0.020
-INZ    plan-5        HN17   0.020
-INZ    plan-5         N17   0.020
-INZ    plan-6         C12   0.020
-INZ    plan-6         C18   0.020
-INZ    plan-6         N20   0.020
-INZ    plan-6         O21   0.020
-INZ    plan-7         C19   0.020
-INZ    plan-7         N17   0.020
-INZ    plan-7         N28   0.020
-INZ    plan-7         O27   0.020
-INZ    plan-8         C18   0.020
-INZ    plan-8         C22   0.020
-INZ    plan-8        HN20   0.020
-INZ    plan-8         N20   0.020
-INZ    plan-9         C19   0.020
-INZ    plan-9         C29   0.020
-INZ    plan-9        HN28   0.020
-INZ    plan-9         N28   0.020
-INZ   plan-10         C29   0.020
-INZ   plan-10         C31   0.020
-INZ   plan-10         O32   0.020
-INZ   plan-10         O33   0.020
+INZ plan-1  C30  0.020
+INZ plan-1  C34  0.020
+INZ plan-1  C35  0.020
+INZ plan-1  C36  0.020
+INZ plan-1  C37  0.020
+INZ plan-1  C38  0.020
+INZ plan-1  C39  0.020
+INZ plan-1  HC35 0.020
+INZ plan-1  HC36 0.020
+INZ plan-1  HC37 0.020
+INZ plan-1  HC38 0.020
+INZ plan-1  HC39 0.020
+INZ plan-2  C11  0.020
+INZ plan-2  C4   0.020
+INZ plan-2  C5   0.020
+INZ plan-2  C6   0.020
+INZ plan-2  C7   0.020
+INZ plan-2  C8   0.020
+INZ plan-2  C9   0.020
+INZ plan-2  HC5  0.020
+INZ plan-2  HC6  0.020
+INZ plan-2  HC8  0.020
+INZ plan-2  HC9  0.020
+INZ plan-2  O13  0.020
+INZ plan-3  C1   0.020
+INZ plan-3  C10  0.020
+INZ plan-3  O2   0.020
+INZ plan-3  O3   0.020
+INZ plan-4  C10  0.020
+INZ plan-4  C14  0.020
+INZ plan-4  O15  0.020
+INZ plan-4  O16  0.020
+INZ plan-5  C12  0.020
+INZ plan-5  C19  0.020
+INZ plan-5  HN17 0.020
+INZ plan-5  N17  0.020
+INZ plan-6  C12  0.020
+INZ plan-6  C18  0.020
+INZ plan-6  N20  0.020
+INZ plan-6  O21  0.020
+INZ plan-7  C19  0.020
+INZ plan-7  N17  0.020
+INZ plan-7  N28  0.020
+INZ plan-7  O27  0.020
+INZ plan-8  C18  0.020
+INZ plan-8  C22  0.020
+INZ plan-8  HN20 0.020
+INZ plan-8  N20  0.020
+INZ plan-9  C19  0.020
+INZ plan-9  C29  0.020
+INZ plan-9  HN28 0.020
+INZ plan-9  N28  0.020
+INZ plan-10 C29  0.020
+INZ plan-10 C31  0.020
+INZ plan-10 O32  0.020
+INZ plan-10 O33  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-INZ           SMILES              ACDLabs 10.04                                                                                                                                                                         O=C(O)C(NC(=O)NC(C(=O)NCCCCC)Cc1ccc(OC(C(=O)O)C(=O)O)cc1)Cc2ccccc2
-INZ SMILES_CANONICAL               CACTVS 3.341                                                                                                                                                                CCCCCNC(=O)[C@H](Cc1ccc(OC(C(O)=O)C(O)=O)cc1)NC(=O)N[C@@H](Cc2ccccc2)C(O)=O
-INZ           SMILES               CACTVS 3.341                                                                                                                                                                   CCCCCNC(=O)[CH](Cc1ccc(OC(C(O)=O)C(O)=O)cc1)NC(=O)N[CH](Cc2ccccc2)C(O)=O
-INZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                                                CCCCCNC(=O)[C@H](Cc1ccc(cc1)OC(C(=O)O)C(=O)O)NC(=O)N[C@@H](Cc2ccccc2)C(=O)O
-INZ           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                                         CCCCCNC(=O)C(Cc1ccc(cc1)OC(C(=O)O)C(=O)O)NC(=O)NC(Cc2ccccc2)C(=O)O
-INZ            InChI                InChI  1.03 InChI=1S/C27H33N3O9/c1-2-3-7-14-28-23(31)20(15-18-10-12-19(13-11-18)39-22(25(34)35)26(36)37)29-27(38)30-21(24(32)33)16-17-8-5-4-6-9-17/h4-6,8-13,20-22H,2-3,7,14-16H2,1H3,(H,28,31)(H,32,33)(H,34,35)(H,36,37)(H2,29,30,38)/t20-,21-/m0/s1
-INZ         InChIKey                InChI  1.03                                                                                                                                                                                                                BKONADSQADEJJP-SFTDATJTSA-N
+INZ SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)NC(C(=O)NCCCCC)Cc1ccc(OC(C(=O)O)C(=O)O)cc1)Cc2ccccc2
+INZ SMILES_CANONICAL CACTVS               3.341 CCCCCNC(=O)[C@H](Cc1ccc(OC(C(O)=O)C(O)=O)cc1)NC(=O)N[C@@H](Cc2ccccc2)C(O)=O
+INZ SMILES           CACTVS               3.341 CCCCCNC(=O)[CH](Cc1ccc(OC(C(O)=O)C(O)=O)cc1)NC(=O)N[CH](Cc2ccccc2)C(O)=O
+INZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCCNC(=O)[C@H](Cc1ccc(cc1)OC(C(=O)O)C(=O)O)NC(=O)N[C@@H](Cc2ccccc2)C(=O)O
+INZ SMILES           "OpenEye OEToolkits" 1.5.0 CCCCCNC(=O)C(Cc1ccc(cc1)OC(C(=O)O)C(=O)O)NC(=O)NC(Cc2ccccc2)C(=O)O
+INZ InChI            InChI                1.03  InChI=1S/C27H33N3O9/c1-2-3-7-14-28-23(31)20(15-18-10-12-19(13-11-18)39-22(25(34)35)26(36)37)29-27(38)30-21(24(32)33)16-17-8-5-4-6-9-17/h4-6,8-13,20-22H,2-3,7,14-16H2,1H3,(H,28,31)(H,32,33)(H,34,35)(H,36,37)(H2,29,30,38)/t20-,21-/m0/s1
+INZ InChIKey         InChI                1.03  BKONADSQADEJJP-SFTDATJTSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-INZ acedrg               243         "dictionary generator"                  
-INZ acedrg_database      11          "data source"                           
-INZ rdkit                2017.03.2   "Chemoinformatics tool"
-INZ refmac5              5.8.0238    "optimization tool"                     
+INZ acedrg          243       "dictionary generator"
+INZ acedrg_database 11        "data source"
+INZ rdkit           2017.03.2 "Chemoinformatics tool"
+INZ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+INZ M-peptide O32  O
+INZ M-peptide C31  C
+INZ M-peptide C29  CA
+INZ M-peptide N28  N
+INZ M-peptide C19  CN
+INZ M-peptide O33  OXT
+INZ M-peptide HN28 H

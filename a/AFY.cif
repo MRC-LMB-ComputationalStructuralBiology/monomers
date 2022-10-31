@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-AFY     AFY      "(3-{[2-({N-[(2R)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl]sulfanyl}oxetan-3-yl)acetic acid"     NON-POLYMER     56     30     .     
-#
+AFY AFY "(3-{[2-({N-[(2R)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl]sulfanyl}oxetan-3-yl)acetic acid" NON-POLYMER 56 30 .
+
 data_comp_AFY
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,62 +19,63 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-AFY     C10     C       CH2     0       47.417      -22.141     6.781       
-AFY     C12     C       CT      0       44.678      -23.112     7.257       
-AFY     C13     C       CH2     0       45.361      -24.363     7.869       
-AFY     C15     C       CH2     0       44.679      -23.926     5.940       
-AFY     C16     C       CH2     0       43.321      -22.761     7.835       
-AFY     C22     C       CT      0       52.763      -18.758     0.901       
-AFY     C17     C       C       0       42.452      -21.914     6.921       
-AFY     P27     P       P       0       56.678      -19.226     0.484       
-AFY     O01     O       OH1     0       53.555      -20.199     2.695       
-AFY     C02     C       CH1     0       52.501      -20.012     1.757       
-AFY     C03     C       C       0       51.173      -20.033     2.506       
-AFY     N04     N       NH1     0       50.193      -20.785     2.008       
-AFY     C05     C       CH2     0       48.913      -21.027     2.671       
-AFY     C06     C       CH2     0       48.935      -22.276     3.538       
-AFY     C07     C       C       0       49.921      -22.173     4.686       
-AFY     N08     N       NH1     0       49.587      -21.520     5.815       
-AFY     C09     C       CH2     0       48.262      -21.042     6.187       
-AFY     S11     S       S2      0       45.723      -21.624     7.190       
-AFY     O14     O       O2      0       45.509      -24.953     6.548       
-AFY     O18     O       OC      -1      42.478      -20.678     7.086       
-AFY     O19     O       O       0       41.763      -22.509     6.068       
-AFY     O20     O       O       0       51.027      -22.697     4.574       
-AFY     O21     O       O       0       51.057      -19.372     3.538       
-AFY     C23     C       CH3     0       52.825      -17.495     1.772       
-AFY     C24     C       CH3     0       51.631      -18.588     -0.120      
-AFY     C25     C       CH2     0       54.079      -18.902     0.135       
-AFY     O26     O       O2      0       55.192      -18.999     1.070       
-AFY     O28     O       OP      -1      56.940      -18.055     -0.444      
-AFY     O29     O       OP      -1      57.600      -19.241     1.689       
-AFY     O30     O       O       0       56.637      -20.557     -0.244      
-AFY     H1      H       H       0       47.849      -22.469     7.595       
-AFY     H2      H       H       0       47.374      -22.886     6.150       
-AFY     H3      H       H       0       46.216      -24.171     8.309       
-AFY     H4      H       H       0       44.771      -24.879     8.461       
-AFY     H5      H       H       0       45.118      -23.459     5.196       
-AFY     H6      H       H       0       43.789      -24.247     5.679       
-AFY     H7      H       H       0       43.454      -22.277     8.687       
-AFY     H8      H       H       0       42.838      -23.597     8.047       
-AFY     H9      H       H       0       53.592      -21.019     2.911       
-AFY     H10     H       H       0       52.513      -20.783     1.140       
-AFY     H11     H       H       0       50.308      -21.155     1.227       
-AFY     H12     H       H       0       48.218      -21.128     1.988       
-AFY     H13     H       H       0       48.677      -20.254     3.225       
-AFY     H14     H       H       0       49.178      -23.041     2.987       
-AFY     H15     H       H       0       48.043      -22.448     3.886       
-AFY     H16     H       H       0       50.237      -21.367     6.378       
-AFY     H17     H       H       0       48.358      -20.322     6.848       
-AFY     H18     H       H       0       47.808      -20.668     5.403       
-AFY     H20     H       H       0       53.161      -16.752     1.241       
-AFY     H21     H       H       0       53.418      -17.641     2.529       
-AFY     H22     H       H       0       51.936      -17.275     2.100       
-AFY     H23     H       H       0       50.828      -18.264     0.323       
-AFY     H24     H       H       0       51.441      -19.445     -0.541      
-AFY     H25     H       H       0       51.897      -17.948     -0.803      
-AFY     H26     H       H       0       54.207      -18.128     -0.449      
-AFY     H27     H       H       0       54.046      -19.704     -0.424      
+AFY C10 C CH2 0  47.417 -22.141 6.781
+AFY C12 C CT  0  44.678 -23.112 7.257
+AFY C13 C CH2 0  45.361 -24.363 7.869
+AFY C15 C CH2 0  44.679 -23.926 5.940
+AFY C16 C CH2 0  43.321 -22.761 7.835
+AFY C22 C CT  0  52.763 -18.758 0.901
+AFY C17 C C   0  42.452 -21.914 6.921
+AFY P27 P P   0  56.678 -19.226 0.484
+AFY O01 O OH1 0  53.555 -20.199 2.695
+AFY C02 C CH1 0  52.501 -20.012 1.757
+AFY C03 C C   0  51.173 -20.033 2.506
+AFY N04 N NH1 0  50.193 -20.785 2.008
+AFY C05 C CH2 0  48.913 -21.027 2.671
+AFY C06 C CH2 0  48.935 -22.276 3.538
+AFY C07 C C   0  49.921 -22.173 4.686
+AFY N08 N NH1 0  49.587 -21.520 5.815
+AFY C09 C CH2 0  48.262 -21.042 6.187
+AFY S11 S S2  0  45.723 -21.624 7.190
+AFY O14 O O2  0  45.509 -24.953 6.548
+AFY O18 O OC  -1 42.478 -20.678 7.086
+AFY O19 O O   0  41.763 -22.509 6.068
+AFY O20 O O   0  51.027 -22.697 4.574
+AFY O21 O O   0  51.057 -19.372 3.538
+AFY C23 C CH3 0  52.825 -17.495 1.772
+AFY C24 C CH3 0  51.631 -18.588 -0.120
+AFY C25 C CH2 0  54.079 -18.902 0.135
+AFY O26 O O2  0  55.192 -18.999 1.070
+AFY O28 O OP  -1 56.940 -18.055 -0.444
+AFY O29 O OP  -1 57.600 -19.241 1.689
+AFY O30 O O   0  56.637 -20.557 -0.244
+AFY H1  H H   0  47.849 -22.469 7.595
+AFY H2  H H   0  47.374 -22.886 6.150
+AFY H3  H H   0  46.216 -24.171 8.309
+AFY H4  H H   0  44.771 -24.879 8.461
+AFY H5  H H   0  45.118 -23.459 5.196
+AFY H6  H H   0  43.789 -24.247 5.679
+AFY H7  H H   0  43.454 -22.277 8.687
+AFY H8  H H   0  42.838 -23.597 8.047
+AFY H9  H H   0  53.592 -21.019 2.911
+AFY H10 H H   0  52.513 -20.783 1.140
+AFY H11 H H   0  50.308 -21.155 1.227
+AFY H12 H H   0  48.218 -21.128 1.988
+AFY H13 H H   0  48.677 -20.254 3.225
+AFY H14 H H   0  49.178 -23.041 2.987
+AFY H15 H H   0  48.043 -22.448 3.886
+AFY H16 H H   0  50.237 -21.367 6.378
+AFY H17 H H   0  48.358 -20.322 6.848
+AFY H18 H H   0  47.808 -20.668 5.403
+AFY H20 H H   0  53.161 -16.752 1.241
+AFY H21 H H   0  53.418 -17.641 2.529
+AFY H22 H H   0  51.936 -17.275 2.100
+AFY H23 H H   0  50.828 -18.264 0.323
+AFY H24 H H   0  51.441 -19.445 -0.541
+AFY H25 H H   0  51.897 -17.948 -0.803
+AFY H26 H H   0  54.207 -18.128 -0.449
+AFY H27 H H   0  54.046 -19.704 -0.424
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -87,62 +86,63 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-AFY         P27         O30      DOUBLE       n     1.517  0.0192     1.517  0.0192
-AFY         P27         O28      SINGLE       n     1.517  0.0192     1.517  0.0192
-AFY         C25         O26      SINGLE       n     1.454  0.0165     1.454  0.0165
-AFY         C22         C25      SINGLE       n     1.526  0.0108     1.526  0.0108
-AFY         P27         O26      SINGLE       n     1.614  0.0178     1.614  0.0178
-AFY         P27         O29      SINGLE       n     1.517  0.0192     1.517  0.0192
-AFY         C22         C24      SINGLE       n     1.531  0.0109     1.531  0.0109
-AFY         C22         C23      SINGLE       n     1.531  0.0109     1.531  0.0109
-AFY         C22         C02      SINGLE       n     1.532  0.0112     1.532  0.0112
-AFY         O01         C02      SINGLE       n     1.419  0.0162     1.419  0.0162
-AFY         C02         C03      SINGLE       n     1.519  0.0108     1.519  0.0108
-AFY         C03         N04      SINGLE       n     1.326  0.0100     1.326  0.0100
-AFY         C03         O21      DOUBLE       n     1.229  0.0102     1.229  0.0102
-AFY         N04         C05      SINGLE       n     1.457  0.0100     1.457  0.0100
-AFY         C05         C06      SINGLE       n     1.513  0.0195     1.513  0.0195
-AFY         C17         O19      DOUBLE       n     1.247  0.0187     1.247  0.0187
-AFY         C15         O14      SINGLE       n     1.451  0.0125     1.451  0.0125
-AFY         C13         O14      SINGLE       n     1.451  0.0125     1.451  0.0125
-AFY         C12         C15      SINGLE       n     1.556  0.0199     1.556  0.0199
-AFY         C06         C07      SINGLE       n     1.514  0.0100     1.514  0.0100
-AFY         C17         O18      SINGLE       n     1.247  0.0187     1.247  0.0187
-AFY         C16         C17      SINGLE       n     1.519  0.0106     1.519  0.0106
-AFY         C12         C13      SINGLE       n     1.556  0.0199     1.556  0.0199
-AFY         C12         C16      SINGLE       n     1.515  0.0116     1.515  0.0116
-AFY         C12         S11      SINGLE       n     1.817  0.0200     1.817  0.0200
-AFY         C07         O20      DOUBLE       n     1.229  0.0102     1.229  0.0102
-AFY         C07         N08      SINGLE       n     1.337  0.0118     1.337  0.0118
-AFY         C10         S11      SINGLE       n     1.819  0.0200     1.819  0.0200
-AFY         C10         C09      SINGLE       n     1.509  0.0105     1.509  0.0105
-AFY         N08         C09      SINGLE       n     1.455  0.0100     1.455  0.0100
-AFY         C10          H1      SINGLE       n     1.089  0.0100     0.978  0.0124
-AFY         C10          H2      SINGLE       n     1.089  0.0100     0.978  0.0124
-AFY         C13          H3      SINGLE       n     1.089  0.0100     0.982  0.0200
-AFY         C13          H4      SINGLE       n     1.089  0.0100     0.982  0.0200
-AFY         C15          H5      SINGLE       n     1.089  0.0100     0.982  0.0200
-AFY         C15          H6      SINGLE       n     1.089  0.0100     0.982  0.0200
-AFY         C16          H7      SINGLE       n     1.089  0.0100     0.988  0.0200
-AFY         C16          H8      SINGLE       n     1.089  0.0100     0.988  0.0200
-AFY         O01          H9      SINGLE       n     0.970  0.0120     0.848  0.0200
-AFY         C02         H10      SINGLE       n     1.089  0.0100     0.988  0.0129
-AFY         N04         H11      SINGLE       n     1.016  0.0100     0.872  0.0200
-AFY         C05         H12      SINGLE       n     1.089  0.0100     0.980  0.0159
-AFY         C05         H13      SINGLE       n     1.089  0.0100     0.980  0.0159
-AFY         C06         H14      SINGLE       n     1.089  0.0100     0.973  0.0156
-AFY         C06         H15      SINGLE       n     1.089  0.0100     0.973  0.0156
-AFY         N08         H16      SINGLE       n     1.016  0.0100     0.872  0.0200
-AFY         C09         H17      SINGLE       n     1.089  0.0100     0.981  0.0127
-AFY         C09         H18      SINGLE       n     1.089  0.0100     0.981  0.0127
-AFY         C23         H20      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFY         C23         H21      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFY         C23         H22      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFY         C24         H23      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFY         C24         H24      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFY         C24         H25      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFY         C25         H26      SINGLE       n     1.089  0.0100     0.978  0.0102
-AFY         C25         H27      SINGLE       n     1.089  0.0100     0.978  0.0102
+AFY P27 O30 DOUBLE n 1.517 0.0192 1.517 0.0192
+AFY P27 O28 SINGLE n 1.517 0.0192 1.517 0.0192
+AFY C25 O26 SINGLE n 1.454 0.0165 1.454 0.0165
+AFY C22 C25 SINGLE n 1.526 0.0108 1.526 0.0108
+AFY P27 O26 SINGLE n 1.614 0.0178 1.614 0.0178
+AFY P27 O29 SINGLE n 1.517 0.0192 1.517 0.0192
+AFY C22 C24 SINGLE n 1.531 0.0109 1.531 0.0109
+AFY C22 C23 SINGLE n 1.531 0.0109 1.531 0.0109
+AFY C22 C02 SINGLE n 1.532 0.0112 1.532 0.0112
+AFY O01 C02 SINGLE n 1.419 0.0162 1.419 0.0162
+AFY C02 C03 SINGLE n 1.519 0.0108 1.519 0.0108
+AFY C03 N04 SINGLE n 1.326 0.0100 1.326 0.0100
+AFY C03 O21 DOUBLE n 1.229 0.0102 1.229 0.0102
+AFY N04 C05 SINGLE n 1.457 0.0100 1.457 0.0100
+AFY C05 C06 SINGLE n 1.513 0.0195 1.513 0.0195
+AFY C17 O19 DOUBLE n 1.247 0.0187 1.247 0.0187
+AFY C15 O14 SINGLE n 1.451 0.0125 1.451 0.0125
+AFY C13 O14 SINGLE n 1.451 0.0125 1.451 0.0125
+AFY C12 C15 SINGLE n 1.556 0.0199 1.556 0.0199
+AFY C06 C07 SINGLE n 1.514 0.0100 1.514 0.0100
+AFY C17 O18 SINGLE n 1.247 0.0187 1.247 0.0187
+AFY C16 C17 SINGLE n 1.519 0.0106 1.519 0.0106
+AFY C12 C13 SINGLE n 1.556 0.0199 1.556 0.0199
+AFY C12 C16 SINGLE n 1.515 0.0116 1.515 0.0116
+AFY C12 S11 SINGLE n 1.817 0.0200 1.817 0.0200
+AFY C07 O20 DOUBLE n 1.229 0.0102 1.229 0.0102
+AFY C07 N08 SINGLE n 1.337 0.0118 1.337 0.0118
+AFY C10 S11 SINGLE n 1.819 0.0200 1.819 0.0200
+AFY C10 C09 SINGLE n 1.509 0.0105 1.509 0.0105
+AFY N08 C09 SINGLE n 1.455 0.0100 1.455 0.0100
+AFY C10 H1  SINGLE n 1.089 0.0100 0.978 0.0124
+AFY C10 H2  SINGLE n 1.089 0.0100 0.978 0.0124
+AFY C13 H3  SINGLE n 1.089 0.0100 0.982 0.0200
+AFY C13 H4  SINGLE n 1.089 0.0100 0.982 0.0200
+AFY C15 H5  SINGLE n 1.089 0.0100 0.982 0.0200
+AFY C15 H6  SINGLE n 1.089 0.0100 0.982 0.0200
+AFY C16 H7  SINGLE n 1.089 0.0100 0.988 0.0200
+AFY C16 H8  SINGLE n 1.089 0.0100 0.988 0.0200
+AFY O01 H9  SINGLE n 0.970 0.0120 0.848 0.0200
+AFY C02 H10 SINGLE n 1.089 0.0100 0.988 0.0129
+AFY N04 H11 SINGLE n 1.016 0.0100 0.872 0.0200
+AFY C05 H12 SINGLE n 1.089 0.0100 0.980 0.0159
+AFY C05 H13 SINGLE n 1.089 0.0100 0.980 0.0159
+AFY C06 H14 SINGLE n 1.089 0.0100 0.973 0.0156
+AFY C06 H15 SINGLE n 1.089 0.0100 0.973 0.0156
+AFY N08 H16 SINGLE n 1.016 0.0100 0.872 0.0200
+AFY C09 H17 SINGLE n 1.089 0.0100 0.981 0.0127
+AFY C09 H18 SINGLE n 1.089 0.0100 0.981 0.0127
+AFY C23 H20 SINGLE n 1.089 0.0100 0.973 0.0146
+AFY C23 H21 SINGLE n 1.089 0.0100 0.973 0.0146
+AFY C23 H22 SINGLE n 1.089 0.0100 0.973 0.0146
+AFY C24 H23 SINGLE n 1.089 0.0100 0.973 0.0146
+AFY C24 H24 SINGLE n 1.089 0.0100 0.973 0.0146
+AFY C24 H25 SINGLE n 1.089 0.0100 0.973 0.0146
+AFY C25 H26 SINGLE n 1.089 0.0100 0.978 0.0102
+AFY C25 H27 SINGLE n 1.089 0.0100 0.978 0.0102
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -150,109 +150,110 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-AFY         S11         C10         C09     112.239    3.00
-AFY         S11         C10          H1     109.260    1.50
-AFY         S11         C10          H2     109.260    1.50
-AFY         C09         C10          H1     109.520    1.50
-AFY         C09         C10          H2     109.520    1.50
-AFY          H1         C10          H2     107.984    1.50
-AFY         C15         C12         C13      89.015    2.00
-AFY         C15         C12         C16     116.215    3.00
-AFY         C15         C12         S11     114.476    3.00
-AFY         C13         C12         C16     116.215    3.00
-AFY         C13         C12         S11     114.476    3.00
-AFY         C16         C12         S11     109.471    3.00
-AFY         O14         C13         C12      91.882    1.99
-AFY         O14         C13          H3     113.188    1.50
-AFY         O14         C13          H4     113.188    1.50
-AFY         C12         C13          H3     112.606    2.54
-AFY         C12         C13          H4     112.606    2.54
-AFY          H3         C13          H4     110.753    1.50
-AFY         O14         C15         C12      91.882    1.99
-AFY         O14         C15          H5     113.188    1.50
-AFY         O14         C15          H6     113.188    1.50
-AFY         C12         C15          H5     112.606    2.54
-AFY         C12         C15          H6     112.606    2.54
-AFY          H5         C15          H6     110.753    1.50
-AFY         C17         C16         C12     112.266    2.86
-AFY         C17         C16          H7     108.627    1.50
-AFY         C17         C16          H8     108.627    1.50
-AFY         C12         C16          H7     108.569    1.50
-AFY         C12         C16          H8     108.569    1.50
-AFY          H7         C16          H8     106.485    3.00
-AFY         C25         C22         C24     109.385    1.50
-AFY         C25         C22         C23     109.385    1.50
-AFY         C25         C22         C02     111.094    2.85
-AFY         C24         C22         C23     108.765    1.50
-AFY         C24         C22         C02     109.534    1.52
-AFY         C23         C22         C02     109.534    1.52
-AFY         O19         C17         O18     125.142    1.75
-AFY         O19         C17         C16     117.429    2.33
-AFY         O18         C17         C16     117.429    2.33
-AFY         O30         P27         O28     112.864    1.69
-AFY         O30         P27         O26     105.795    2.09
-AFY         O30         P27         O29     112.864    1.69
-AFY         O28         P27         O26     105.795    2.09
-AFY         O28         P27         O29     112.864    1.69
-AFY         O26         P27         O29     105.795    2.09
-AFY         C02         O01          H9     108.894    3.00
-AFY         C22         C02         O01     109.482    3.00
-AFY         C22         C02         C03     111.511    2.91
-AFY         C22         C02         H10     107.825    1.50
-AFY         O01         C02         C03     109.850    1.55
-AFY         O01         C02         H10     108.675    1.50
-AFY         C03         C02         H10     108.529    1.70
-AFY         C02         C03         N04     117.155    1.50
-AFY         C02         C03         O21     119.851    1.78
-AFY         N04         C03         O21     122.977    1.50
-AFY         C03         N04         C05     122.964    1.80
-AFY         C03         N04         H11     118.685    1.94
-AFY         C05         N04         H11     118.351    1.90
-AFY         N04         C05         C06     112.257    1.50
-AFY         N04         C05         H12     108.979    1.50
-AFY         N04         C05         H13     108.979    1.50
-AFY         C06         C05         H12     108.971    1.50
-AFY         C06         C05         H13     108.971    1.50
-AFY         H12         C05         H13     107.877    1.50
-AFY         C05         C06         C07     112.120    2.79
-AFY         C05         C06         H14     109.432    1.50
-AFY         C05         C06         H15     109.432    1.50
-AFY         C07         C06         H14     108.945    1.50
-AFY         C07         C06         H15     108.945    1.50
-AFY         H14         C06         H15     107.745    2.07
-AFY         C06         C07         O20     120.987    1.50
-AFY         C06         C07         N08     117.070    1.96
-AFY         O20         C07         N08     121.943    1.50
-AFY         C07         N08         C09     123.437    1.80
-AFY         C07         N08         H16     117.862    2.10
-AFY         C09         N08         H16     118.700    1.83
-AFY         C10         C09         N08     113.008    1.54
-AFY         C10         C09         H17     109.175    1.50
-AFY         C10         C09         H18     109.175    1.50
-AFY         N08         C09         H17     109.102    1.50
-AFY         N08         C09         H18     109.102    1.50
-AFY         H17         C09         H18     107.995    1.50
-AFY         C12         S11         C10     109.471    3.00
-AFY         C15         O14         C13      91.568    1.50
-AFY         C22         C23         H20     109.575    1.50
-AFY         C22         C23         H21     109.575    1.50
-AFY         C22         C23         H22     109.575    1.50
-AFY         H20         C23         H21     109.377    1.50
-AFY         H20         C23         H22     109.377    1.50
-AFY         H21         C23         H22     109.377    1.50
-AFY         C22         C24         H23     109.575    1.50
-AFY         C22         C24         H24     109.575    1.50
-AFY         C22         C24         H25     109.575    1.50
-AFY         H23         C24         H24     109.377    1.50
-AFY         H23         C24         H25     109.377    1.50
-AFY         H24         C24         H25     109.377    1.50
-AFY         O26         C25         C22     108.435    1.69
-AFY         O26         C25         H26     109.739    1.50
-AFY         O26         C25         H27     109.739    1.50
-AFY         C22         C25         H26     109.473    1.50
-AFY         C22         C25         H27     109.473    1.50
-AFY         H26         C25         H27     108.108    1.50
-AFY         C25         O26         P27     118.671    1.50
+AFY S11 C10 C09 112.239 3.00
+AFY S11 C10 H1  109.260 1.50
+AFY S11 C10 H2  109.260 1.50
+AFY C09 C10 H1  109.520 1.50
+AFY C09 C10 H2  109.520 1.50
+AFY H1  C10 H2  107.984 1.50
+AFY C15 C12 C13 89.015  2.00
+AFY C15 C12 C16 116.215 3.00
+AFY C15 C12 S11 114.476 3.00
+AFY C13 C12 C16 116.215 3.00
+AFY C13 C12 S11 114.476 3.00
+AFY C16 C12 S11 109.471 3.00
+AFY O14 C13 C12 91.882  1.99
+AFY O14 C13 H3  113.188 1.50
+AFY O14 C13 H4  113.188 1.50
+AFY C12 C13 H3  112.606 2.54
+AFY C12 C13 H4  112.606 2.54
+AFY H3  C13 H4  110.753 1.50
+AFY O14 C15 C12 91.882  1.99
+AFY O14 C15 H5  113.188 1.50
+AFY O14 C15 H6  113.188 1.50
+AFY C12 C15 H5  112.606 2.54
+AFY C12 C15 H6  112.606 2.54
+AFY H5  C15 H6  110.753 1.50
+AFY C17 C16 C12 112.266 2.86
+AFY C17 C16 H7  108.627 1.50
+AFY C17 C16 H8  108.627 1.50
+AFY C12 C16 H7  108.569 1.50
+AFY C12 C16 H8  108.569 1.50
+AFY H7  C16 H8  106.485 3.00
+AFY C25 C22 C24 109.385 1.50
+AFY C25 C22 C23 109.385 1.50
+AFY C25 C22 C02 111.094 2.85
+AFY C24 C22 C23 108.765 1.50
+AFY C24 C22 C02 109.534 1.52
+AFY C23 C22 C02 109.534 1.52
+AFY O19 C17 O18 125.142 1.75
+AFY O19 C17 C16 117.429 2.33
+AFY O18 C17 C16 117.429 2.33
+AFY O30 P27 O28 112.864 1.69
+AFY O30 P27 O26 105.795 2.09
+AFY O30 P27 O29 112.864 1.69
+AFY O28 P27 O26 105.795 2.09
+AFY O28 P27 O29 112.864 1.69
+AFY O26 P27 O29 105.795 2.09
+AFY C02 O01 H9  108.894 3.00
+AFY C22 C02 O01 109.482 3.00
+AFY C22 C02 C03 111.511 2.91
+AFY C22 C02 H10 107.825 1.50
+AFY O01 C02 C03 109.850 1.55
+AFY O01 C02 H10 108.675 1.50
+AFY C03 C02 H10 108.529 1.70
+AFY C02 C03 N04 117.155 1.50
+AFY C02 C03 O21 119.851 1.78
+AFY N04 C03 O21 122.977 1.50
+AFY C03 N04 C05 122.964 1.80
+AFY C03 N04 H11 118.685 1.94
+AFY C05 N04 H11 118.351 1.90
+AFY N04 C05 C06 112.257 1.50
+AFY N04 C05 H12 108.979 1.50
+AFY N04 C05 H13 108.979 1.50
+AFY C06 C05 H12 108.971 1.50
+AFY C06 C05 H13 108.971 1.50
+AFY H12 C05 H13 107.877 1.50
+AFY C05 C06 C07 112.120 2.79
+AFY C05 C06 H14 109.432 1.50
+AFY C05 C06 H15 109.432 1.50
+AFY C07 C06 H14 108.945 1.50
+AFY C07 C06 H15 108.945 1.50
+AFY H14 C06 H15 107.745 2.07
+AFY C06 C07 O20 120.987 1.50
+AFY C06 C07 N08 117.070 1.96
+AFY O20 C07 N08 121.943 1.50
+AFY C07 N08 C09 123.437 1.80
+AFY C07 N08 H16 117.862 2.10
+AFY C09 N08 H16 118.700 1.83
+AFY C10 C09 N08 113.008 1.54
+AFY C10 C09 H17 109.175 1.50
+AFY C10 C09 H18 109.175 1.50
+AFY N08 C09 H17 109.102 1.50
+AFY N08 C09 H18 109.102 1.50
+AFY H17 C09 H18 107.995 1.50
+AFY C12 S11 C10 109.471 3.00
+AFY C15 O14 C13 91.568  1.50
+AFY C22 C23 H20 109.575 1.50
+AFY C22 C23 H21 109.575 1.50
+AFY C22 C23 H22 109.575 1.50
+AFY H20 C23 H21 109.377 1.50
+AFY H20 C23 H22 109.377 1.50
+AFY H21 C23 H22 109.377 1.50
+AFY C22 C24 H23 109.575 1.50
+AFY C22 C24 H24 109.575 1.50
+AFY C22 C24 H25 109.575 1.50
+AFY H23 C24 H24 109.377 1.50
+AFY H23 C24 H25 109.377 1.50
+AFY H24 C24 H25 109.377 1.50
+AFY O26 C25 C22 108.435 1.69
+AFY O26 C25 H26 109.739 1.50
+AFY O26 C25 H27 109.739 1.50
+AFY C22 C25 H26 109.473 1.50
+AFY C22 C25 H27 109.473 1.50
+AFY H26 C25 H27 108.108 1.50
+AFY C25 O26 P27 118.671 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -263,29 +264,30 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-AFY            sp3_sp3_94         N08         C09         C10         S11     180.000    10.0     3
-AFY            sp3_sp3_91         C09         C10         S11         C12     180.000    10.0     3
-AFY             sp2_sp2_1         C02         C03         N04         C05     180.000     5.0     2
-AFY             sp2_sp3_8         C03         N04         C05         C06     120.000    10.0     6
-AFY            sp3_sp3_61         N04         C05         C06         C07     180.000    10.0     3
-AFY            sp2_sp3_14         O20         C07         C06         C05     120.000    10.0     6
-AFY             sp2_sp2_5         C06         C07         N08         C09     180.000     5.0     2
-AFY            sp2_sp3_26         C07         N08         C09         C10     120.000    10.0     6
-AFY            sp3_sp3_90         C16         C12         S11         C10     -60.000    10.0     3
-AFY            sp3_sp3_76         C16         C12         C13         O14     -60.000    10.0     3
-AFY             sp3_sp3_4         C16         C12         C15         O14     -60.000    10.0     3
-AFY            sp3_sp3_79         S11         C12         C16         C17     180.000    10.0     3
-AFY            sp3_sp3_16         C22         C25         O26         P27     180.000    10.0     3
-AFY            sp3_sp3_13         C12         C13         O14         C15      60.000    10.0     3
-AFY            sp3_sp3_10         C12         C15         O14         C13     -60.000    10.0     3
-AFY            sp2_sp3_20         O19         C17         C16         C12     120.000    10.0     6
-AFY            sp3_sp3_43         C25         C22         C23         H20      60.000    10.0     3
-AFY            sp3_sp3_31         C25         C22         C24         H23     180.000    10.0     3
-AFY            sp3_sp3_22         C24         C22         C25         O26      60.000    10.0     3
-AFY            sp3_sp3_50         O01         C02         C22         C25     -60.000    10.0     3
-AFY            sp3_sp3_30         C25         O26         P27         O30      60.000    10.0     3
-AFY            sp3_sp3_58         C22         C02         O01          H9     180.000    10.0     3
-AFY             sp2_sp3_1         N04         C03         C02         C22       0.000    10.0     6
+AFY sp3_sp3_94 N08 C09 C10 S11 180.000 10.0 3
+AFY sp3_sp3_91 C09 C10 S11 C12 180.000 10.0 3
+AFY sp2_sp2_1  C02 C03 N04 C05 180.000 5.0  2
+AFY sp2_sp3_8  C03 N04 C05 C06 120.000 10.0 6
+AFY sp3_sp3_61 N04 C05 C06 C07 180.000 10.0 3
+AFY sp2_sp3_14 O20 C07 C06 C05 120.000 10.0 6
+AFY sp2_sp2_5  C06 C07 N08 C09 180.000 5.0  2
+AFY sp2_sp3_26 C07 N08 C09 C10 120.000 10.0 6
+AFY sp3_sp3_90 C16 C12 S11 C10 -60.000 10.0 3
+AFY sp3_sp3_76 C16 C12 C13 O14 -60.000 10.0 3
+AFY sp3_sp3_4  C16 C12 C15 O14 -60.000 10.0 3
+AFY sp3_sp3_79 S11 C12 C16 C17 180.000 10.0 3
+AFY sp3_sp3_16 C22 C25 O26 P27 180.000 10.0 3
+AFY sp3_sp3_13 C12 C13 O14 C15 60.000  10.0 3
+AFY sp3_sp3_10 C12 C15 O14 C13 -60.000 10.0 3
+AFY sp2_sp3_20 O19 C17 C16 C12 120.000 10.0 6
+AFY sp3_sp3_43 C25 C22 C23 H20 60.000  10.0 3
+AFY sp3_sp3_31 C25 C22 C24 H23 180.000 10.0 3
+AFY sp3_sp3_22 C24 C22 C25 O26 60.000  10.0 3
+AFY sp3_sp3_50 O01 C02 C22 C25 -60.000 10.0 3
+AFY sp3_sp3_30 C25 O26 P27 O30 60.000  10.0 3
+AFY sp3_sp3_58 C22 C02 O01 H9  180.000 10.0 3
+AFY sp2_sp3_1  N04 C03 C02 C22 0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -294,54 +296,73 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-AFY    chir_1    C12    S11    C15    C13    both
-AFY    chir_2    C22    C02    C25    C24    both
-AFY    chir_3    P27    O26    O28    O29    both
-AFY    chir_4    C02    O01    C03    C22    negative
+AFY chir_1 C12 S11 C15 C13 both
+AFY chir_2 C22 C02 C25 C24 both
+AFY chir_3 P27 O26 O28 O29 both
+AFY chir_4 C02 O01 C03 C22 negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-AFY    plan-1         C16   0.020
-AFY    plan-1         C17   0.020
-AFY    plan-1         O18   0.020
-AFY    plan-1         O19   0.020
-AFY    plan-2         C02   0.020
-AFY    plan-2         C03   0.020
-AFY    plan-2         N04   0.020
-AFY    plan-2         O21   0.020
-AFY    plan-3         C03   0.020
-AFY    plan-3         C05   0.020
-AFY    plan-3         H11   0.020
-AFY    plan-3         N04   0.020
-AFY    plan-4         C06   0.020
-AFY    plan-4         C07   0.020
-AFY    plan-4         N08   0.020
-AFY    plan-4         O20   0.020
-AFY    plan-5         C07   0.020
-AFY    plan-5         C09   0.020
-AFY    plan-5         H16   0.020
-AFY    plan-5         N08   0.020
+AFY plan-1 C16 0.020
+AFY plan-1 C17 0.020
+AFY plan-1 O18 0.020
+AFY plan-1 O19 0.020
+AFY plan-2 C02 0.020
+AFY plan-2 C03 0.020
+AFY plan-2 N04 0.020
+AFY plan-2 O21 0.020
+AFY plan-3 C03 0.020
+AFY plan-3 C05 0.020
+AFY plan-3 H11 0.020
+AFY plan-3 N04 0.020
+AFY plan-4 C06 0.020
+AFY plan-4 C07 0.020
+AFY plan-4 N08 0.020
+AFY plan-4 O20 0.020
+AFY plan-5 C07 0.020
+AFY plan-5 C09 0.020
+AFY plan-5 H16 0.020
+AFY plan-5 N08 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-AFY           SMILES              ACDLabs 12.01                                                                                                                             C(SC1(CC(O)=O)COC1)CNC(CCNC(C(C(C)(C)COP(O)(O)=O)O)=O)=O
-AFY            InChI                InChI  1.03 InChI=1S/C16H29N2O10PS/c1-15(2,8-28-29(24,25)26)13(22)14(23)18-4-3-11(19)17-5-6-30-16(7-12(20)21)9-27-10-16/h13,22H,3-10H2,1-2H3,(H,17,19)(H,18,23)(H,20,21)(H2,24,25,26)/t13-/m0/s1
-AFY         InChIKey                InChI  1.03                                                                                                                                                          WYVQKYVITQEIME-ZDUSSCGKSA-N
-AFY SMILES_CANONICAL               CACTVS 3.385                                                                                                                        CC(C)(CO[P](O)(O)=O)[C@@H](O)C(=O)NCCC(=O)NCCSC1(COC1)CC(O)=O
-AFY           SMILES               CACTVS 3.385                                                                                                                          CC(C)(CO[P](O)(O)=O)[CH](O)C(=O)NCCC(=O)NCCSC1(COC1)CC(O)=O
-AFY SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                                           CC(C)(COP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC1(COC1)CC(=O)O)O
-AFY           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                               CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC1(COC1)CC(=O)O)O
+AFY SMILES           ACDLabs              12.01 C(SC1(CC(O)=O)COC1)CNC(CCNC(C(C(C)(C)COP(O)(O)=O)O)=O)=O
+AFY InChI            InChI                1.03  InChI=1S/C16H29N2O10PS/c1-15(2,8-28-29(24,25)26)13(22)14(23)18-4-3-11(19)17-5-6-30-16(7-12(20)21)9-27-10-16/h13,22H,3-10H2,1-2H3,(H,17,19)(H,18,23)(H,20,21)(H2,24,25,26)/t13-/m0/s1
+AFY InChIKey         InChI                1.03  WYVQKYVITQEIME-ZDUSSCGKSA-N
+AFY SMILES_CANONICAL CACTVS               3.385 CC(C)(CO[P](O)(O)=O)[C@@H](O)C(=O)NCCC(=O)NCCSC1(COC1)CC(O)=O
+AFY SMILES           CACTVS               3.385 CC(C)(CO[P](O)(O)=O)[CH](O)C(=O)NCCC(=O)NCCSC1(COC1)CC(O)=O
+AFY SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 CC(C)(COP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCSC1(COC1)CC(=O)O)O
+AFY SMILES           "OpenEye OEToolkits" 2.0.6 CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC1(COC1)CC(=O)O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-AFY acedrg               243         "dictionary generator"                  
-AFY acedrg_database      11          "data source"                           
-AFY rdkit                2017.03.2   "Chemoinformatics tool"
-AFY refmac5              5.8.0238    "optimization tool"                     
+AFY acedrg          243       "dictionary generator"
+AFY acedrg_database 11        "data source"
+AFY rdkit           2017.03.2 "Chemoinformatics tool"
+AFY refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+AFY DNA/RNA O28 OP3
+AFY DNA/RNA P27 P
+AFY DNA/RNA O30 OP1
+AFY DNA/RNA O29 OP2
+AFY DNA/RNA O26 O5'
+AFY DNA/RNA C25 C5'
+AFY DNA/RNA C22 C4'
+AFY DNA/RNA C02 C3'
+AFY DNA/RNA O01 O3'
+AFY DNA/RNA H9  HO3'

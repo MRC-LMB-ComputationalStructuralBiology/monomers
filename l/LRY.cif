@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-LRY     LRY      N-acetylmannosamine-6-phosphate     NON-POLYMER     33     19     .     
-#
+LRY LRY N-acetylmannosamine-6-phosphate NON-POLYMER 33 19 .
+
 data_comp_LRY
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,39 +19,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-LRY     N       N       NH1     0       20.714      0.437       37.433      
-LRY     P       P       P       0       19.821      2.488       43.740      
-LRY     C1      C       C1      0       18.556      -0.775      37.427      
-LRY     O1      O       O       0       17.934      -1.776      37.254      
-LRY     C2      C       CH1     0       20.070      -0.842      37.707      
-LRY     C3      C       CH1     0       20.333      -1.338      39.142      
-LRY     O3      O       OH1     0       21.570      -2.051      39.149      
-LRY     C4      C       CH1     0       20.331      -0.292      40.263      
-LRY     O4      O       OH1     0       20.863      -0.898      41.448      
-LRY     C5      C       CH1     0       18.950      0.314       40.554      
-LRY     O5      O       OH1     0       18.713      1.403       39.659      
-LRY     C6      C       CH2     0       18.778      0.823       41.969      
-LRY     O6      O       O2      0       19.862      1.731       42.314      
-LRY     C7      C       C       0       22.037      0.564       37.257      
-LRY     O7      O       O       0       22.803      -0.393      37.351      
-LRY     C8      C       CH3     0       22.548      1.932       36.928      
-LRY     OP1     O       OP      -1      18.513      3.258       43.771      
-LRY     OP2     O       OP      -1      19.885      1.394       44.790      
-LRY     OP3     O       O       0       21.037      3.395       43.760      
-LRY     HN      H       H       0       20.209      1.149       37.383      
-LRY     H1      H       H       0       18.122      0.065       37.390      
-LRY     H2      H       H       0       20.452      -1.512      37.083      
-LRY     H3      H       H       0       19.616      -2.032      39.364      
-LRY     HO3     H       H       0       22.222      -1.516      39.241      
-LRY     H4      H       H       0       20.942      0.444       40.005      
-LRY     HO4     H       H       0       20.369      -1.549      41.677      
-LRY     H5      H       H       0       18.253      -0.389      40.386      
-LRY     HO5     H       H       0       19.235      2.057       39.801      
-LRY     H6      H       H       0       18.764      0.070       42.596      
-LRY     H6A     H       H       0       17.924      1.296       42.042      
-LRY     H8      H       H       0       21.943      2.606       37.276      
-LRY     H8A     H       H       0       22.617      2.030       35.964      
-LRY     H8B     H       H       0       23.425      2.055       37.326      
+LRY N   N NH1 0  20.714 0.437  37.433
+LRY P   P P   0  19.821 2.488  43.740
+LRY C1  C C1  0  18.556 -0.775 37.427
+LRY O1  O O   0  17.934 -1.776 37.254
+LRY C2  C CH1 0  20.070 -0.842 37.707
+LRY C3  C CH1 0  20.333 -1.338 39.142
+LRY O3  O OH1 0  21.570 -2.051 39.149
+LRY C4  C CH1 0  20.331 -0.292 40.263
+LRY O4  O OH1 0  20.863 -0.898 41.448
+LRY C5  C CH1 0  18.950 0.314  40.554
+LRY O5  O OH1 0  18.713 1.403  39.659
+LRY C6  C CH2 0  18.778 0.823  41.969
+LRY O6  O O2  0  19.862 1.731  42.314
+LRY C7  C C   0  22.037 0.564  37.257
+LRY O7  O O   0  22.803 -0.393 37.351
+LRY C8  C CH3 0  22.548 1.932  36.928
+LRY OP1 O OP  -1 18.513 3.258  43.771
+LRY OP2 O OP  -1 19.885 1.394  44.790
+LRY OP3 O O   0  21.037 3.395  43.760
+LRY HN  H H   0  20.209 1.149  37.383
+LRY H1  H H   0  18.122 0.065  37.390
+LRY H2  H H   0  20.452 -1.512 37.083
+LRY H3  H H   0  19.616 -2.032 39.364
+LRY HO3 H H   0  22.222 -1.516 39.241
+LRY H4  H H   0  20.942 0.444  40.005
+LRY HO4 H H   0  20.369 -1.549 41.677
+LRY H5  H H   0  18.253 -0.389 40.386
+LRY HO5 H H   0  19.235 2.057  39.801
+LRY H6  H H   0  18.764 0.070  42.596
+LRY H6A H H   0  17.924 1.296  42.042
+LRY H8  H H   0  21.943 2.606  37.276
+LRY H8A H H   0  22.617 2.030  35.964
+LRY H8B H H   0  23.425 2.055  37.326
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,38 +63,39 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-LRY           N          C7      SINGLE       n     1.335  0.0100     1.335  0.0100
-LRY           N          C2      SINGLE       n     1.453  0.0100     1.453  0.0100
-LRY           P          O6      SINGLE       n     1.614  0.0178     1.614  0.0178
-LRY           P         OP3      DOUBLE       n     1.517  0.0192     1.517  0.0192
-LRY           P         OP2      SINGLE       n     1.517  0.0192     1.517  0.0192
-LRY           P         OP1      SINGLE       n     1.517  0.0192     1.517  0.0192
-LRY          C1          O1      DOUBLE       n     1.191  0.0200     1.191  0.0200
-LRY          C1          C2      SINGLE       n     1.539  0.0100     1.539  0.0100
-LRY          C2          C3      SINGLE       n     1.516  0.0200     1.516  0.0200
-LRY          C3          O3      SINGLE       n     1.425  0.0100     1.425  0.0100
-LRY          C3          C4      SINGLE       n     1.526  0.0100     1.526  0.0100
-LRY          C4          C5      SINGLE       n     1.530  0.0100     1.530  0.0100
-LRY          C4          O4      SINGLE       n     1.424  0.0199     1.424  0.0199
-LRY          C5          O5      SINGLE       n     1.429  0.0100     1.429  0.0100
-LRY          C5          C6      SINGLE       n     1.511  0.0100     1.511  0.0100
-LRY          C6          O6      SINGLE       n     1.454  0.0165     1.454  0.0165
-LRY          C7          O7      DOUBLE       n     1.229  0.0102     1.229  0.0102
-LRY          C7          C8      SINGLE       n     1.495  0.0100     1.495  0.0100
-LRY           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
-LRY          C1          H1      SINGLE       n     1.082  0.0130     0.947  0.0200
-LRY          C2          H2      SINGLE       n     1.089  0.0100     0.991  0.0200
-LRY          C3          H3      SINGLE       n     1.089  0.0100     1.022  0.0200
-LRY          O3         HO3      SINGLE       n     0.970  0.0120     0.848  0.0200
-LRY          C4          H4      SINGLE       n     1.089  0.0100     0.992  0.0184
-LRY          O4         HO4      SINGLE       n     0.970  0.0120     0.848  0.0200
-LRY          C5          H5      SINGLE       n     1.089  0.0100     1.004  0.0200
-LRY          O5         HO5      SINGLE       n     0.970  0.0120     0.848  0.0200
-LRY          C6          H6      SINGLE       n     1.089  0.0100     0.980  0.0146
-LRY          C6         H6A      SINGLE       n     1.089  0.0100     0.980  0.0146
-LRY          C8          H8      SINGLE       n     1.089  0.0100     0.971  0.0140
-LRY          C8         H8A      SINGLE       n     1.089  0.0100     0.971  0.0140
-LRY          C8         H8B      SINGLE       n     1.089  0.0100     0.971  0.0140
+LRY N  C7  SINGLE n 1.335 0.0100 1.335 0.0100
+LRY N  C2  SINGLE n 1.453 0.0100 1.453 0.0100
+LRY P  O6  SINGLE n 1.614 0.0178 1.614 0.0178
+LRY P  OP3 DOUBLE n 1.517 0.0192 1.517 0.0192
+LRY P  OP2 SINGLE n 1.517 0.0192 1.517 0.0192
+LRY P  OP1 SINGLE n 1.517 0.0192 1.517 0.0192
+LRY C1 O1  DOUBLE n 1.191 0.0200 1.191 0.0200
+LRY C1 C2  SINGLE n 1.539 0.0100 1.539 0.0100
+LRY C2 C3  SINGLE n 1.516 0.0200 1.516 0.0200
+LRY C3 O3  SINGLE n 1.425 0.0100 1.425 0.0100
+LRY C3 C4  SINGLE n 1.526 0.0100 1.526 0.0100
+LRY C4 C5  SINGLE n 1.530 0.0100 1.530 0.0100
+LRY C4 O4  SINGLE n 1.424 0.0199 1.424 0.0199
+LRY C5 O5  SINGLE n 1.429 0.0100 1.429 0.0100
+LRY C5 C6  SINGLE n 1.511 0.0100 1.511 0.0100
+LRY C6 O6  SINGLE n 1.454 0.0165 1.454 0.0165
+LRY C7 O7  DOUBLE n 1.229 0.0102 1.229 0.0102
+LRY C7 C8  SINGLE n 1.495 0.0100 1.495 0.0100
+LRY N  HN  SINGLE n 1.016 0.0100 0.873 0.0200
+LRY C1 H1  SINGLE n 1.082 0.0130 0.947 0.0200
+LRY C2 H2  SINGLE n 1.089 0.0100 0.991 0.0200
+LRY C3 H3  SINGLE n 1.089 0.0100 1.022 0.0200
+LRY O3 HO3 SINGLE n 0.970 0.0120 0.848 0.0200
+LRY C4 H4  SINGLE n 1.089 0.0100 0.992 0.0184
+LRY O4 HO4 SINGLE n 0.970 0.0120 0.848 0.0200
+LRY C5 H5  SINGLE n 1.089 0.0100 1.004 0.0200
+LRY O5 HO5 SINGLE n 0.970 0.0120 0.848 0.0200
+LRY C6 H6  SINGLE n 1.089 0.0100 0.980 0.0146
+LRY C6 H6A SINGLE n 1.089 0.0100 0.980 0.0146
+LRY C8 H8  SINGLE n 1.089 0.0100 0.971 0.0140
+LRY C8 H8A SINGLE n 1.089 0.0100 0.971 0.0140
+LRY C8 H8B SINGLE n 1.089 0.0100 0.971 0.0140
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -103,61 +103,62 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-LRY          C7           N          C2     121.834    1.76
-LRY          C7           N          HN     119.263    2.25
-LRY          C2           N          HN     118.902    1.92
-LRY          O6           P         OP3     105.795    2.09
-LRY          O6           P         OP2     105.795    2.09
-LRY          O6           P         OP1     105.795    2.09
-LRY         OP3           P         OP2     112.864    1.69
-LRY         OP3           P         OP1     112.864    1.69
-LRY         OP2           P         OP1     112.864    1.69
-LRY          O1          C1          C2     120.289    1.60
-LRY          O1          C1          H1     120.163    1.50
-LRY          C2          C1          H1     119.547    2.53
-LRY           N          C2          C1     110.921    1.74
-LRY           N          C2          C3     110.507    1.90
-LRY           N          C2          H2     108.161    1.50
-LRY          C1          C2          C3     110.275    1.50
-LRY          C1          C2          H2     108.186    1.50
-LRY          C3          C2          H2     108.179    1.50
-LRY          C2          C3          O3     108.919    1.50
-LRY          C2          C3          C4     111.094    2.85
-LRY          C2          C3          H3     108.267    2.06
-LRY          O3          C3          C4     109.320    2.01
-LRY          O3          C3          H3     108.081    2.87
-LRY          C4          C3          H3     108.450    1.83
-LRY          C3          O3         HO3     108.522    3.00
-LRY          C3          C4          C5     113.695    2.13
-LRY          C3          C4          O4     109.320    2.01
-LRY          C3          C4          H4     108.450    1.83
-LRY          C5          C4          O4     109.164    1.97
-LRY          C5          C4          H4     108.336    1.50
-LRY          O4          C4          H4     108.243    1.50
-LRY          C4          O4         HO4     108.564    3.00
-LRY          C4          C5          O5     109.549    1.85
-LRY          C4          C5          C6     112.503    1.50
-LRY          C4          C5          H5     108.777    1.50
-LRY          O5          C5          C6     109.314    1.96
-LRY          O5          C5          H5     108.591    1.50
-LRY          C6          C5          H5     108.656    1.50
-LRY          C5          O5         HO5     111.202    3.00
-LRY          C5          C6          O6     109.438    2.56
-LRY          C5          C6          H6     109.582    1.50
-LRY          C5          C6         H6A     109.582    1.50
-LRY          O6          C6          H6     109.393    1.91
-LRY          O6          C6         H6A     109.393    1.91
-LRY          H6          C6         H6A     108.319    1.50
-LRY           P          O6          C6     118.671    1.50
-LRY           N          C7          O7     121.667    1.50
-LRY           N          C7          C8     116.420    1.50
-LRY          O7          C7          C8     121.913    1.50
-LRY          C7          C8          H8     109.678    1.50
-LRY          C7          C8         H8A     109.678    1.50
-LRY          C7          C8         H8B     109.678    1.50
-LRY          H8          C8         H8A     109.365    1.50
-LRY          H8          C8         H8B     109.365    1.50
-LRY         H8A          C8         H8B     109.365    1.50
+LRY C7  N  C2  121.834 1.76
+LRY C7  N  HN  119.263 2.25
+LRY C2  N  HN  118.902 1.92
+LRY O6  P  OP3 105.795 2.09
+LRY O6  P  OP2 105.795 2.09
+LRY O6  P  OP1 105.795 2.09
+LRY OP3 P  OP2 112.864 1.69
+LRY OP3 P  OP1 112.864 1.69
+LRY OP2 P  OP1 112.864 1.69
+LRY O1  C1 C2  120.289 1.60
+LRY O1  C1 H1  120.163 1.50
+LRY C2  C1 H1  119.547 2.53
+LRY N   C2 C1  110.921 1.74
+LRY N   C2 C3  110.507 1.90
+LRY N   C2 H2  108.161 1.50
+LRY C1  C2 C3  110.275 1.50
+LRY C1  C2 H2  108.186 1.50
+LRY C3  C2 H2  108.179 1.50
+LRY C2  C3 O3  108.919 1.50
+LRY C2  C3 C4  111.094 2.85
+LRY C2  C3 H3  108.267 2.06
+LRY O3  C3 C4  109.320 2.01
+LRY O3  C3 H3  108.081 2.87
+LRY C4  C3 H3  108.450 1.83
+LRY C3  O3 HO3 108.522 3.00
+LRY C3  C4 C5  113.695 2.13
+LRY C3  C4 O4  109.320 2.01
+LRY C3  C4 H4  108.450 1.83
+LRY C5  C4 O4  109.164 1.97
+LRY C5  C4 H4  108.336 1.50
+LRY O4  C4 H4  108.243 1.50
+LRY C4  O4 HO4 108.564 3.00
+LRY C4  C5 O5  109.549 1.85
+LRY C4  C5 C6  112.503 1.50
+LRY C4  C5 H5  108.777 1.50
+LRY O5  C5 C6  109.314 1.96
+LRY O5  C5 H5  108.591 1.50
+LRY C6  C5 H5  108.656 1.50
+LRY C5  O5 HO5 111.202 3.00
+LRY C5  C6 O6  109.438 2.56
+LRY C5  C6 H6  109.582 1.50
+LRY C5  C6 H6A 109.582 1.50
+LRY O6  C6 H6  109.393 1.91
+LRY O6  C6 H6A 109.393 1.91
+LRY H6  C6 H6A 108.319 1.50
+LRY P   O6 C6  118.671 1.50
+LRY N   C7 O7  121.667 1.50
+LRY N   C7 C8  116.420 1.50
+LRY O7  C7 C8  121.913 1.50
+LRY C7  C8 H8  109.678 1.50
+LRY C7  C8 H8A 109.678 1.50
+LRY C7  C8 H8B 109.678 1.50
+LRY H8  C8 H8A 109.365 1.50
+LRY H8  C8 H8B 109.365 1.50
+LRY H8A C8 H8B 109.365 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -168,19 +169,20 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-LRY             sp2_sp2_3          O7          C7           N          C2       0.000     5.0     2
-LRY             sp2_sp3_1          C7           N          C2          C1       0.000    10.0     6
-LRY            sp3_sp3_49          C5          C6          O6           P     180.000    10.0     3
-LRY            sp2_sp3_13           N          C7          C8          H8       0.000    10.0     6
-LRY             sp3_sp3_3          C6          O6           P         OP3      60.000    10.0     3
-LRY             sp2_sp3_7          O1          C1          C2           N       0.000    10.0     6
-LRY             sp3_sp3_4           N          C2          C3          O3     180.000    10.0     3
-LRY            sp3_sp3_13          C2          C3          O3         HO3     180.000    10.0     3
-LRY            sp3_sp3_16          C2          C3          C4          C5     180.000    10.0     3
-LRY            sp3_sp3_34          C3          C4          O4         HO4     180.000    10.0     3
-LRY            sp3_sp3_25          C3          C4          C5          O5     180.000    10.0     3
-LRY            sp3_sp3_37          C4          C5          O5         HO5     180.000    10.0     3
-LRY            sp3_sp3_40          C4          C5          C6          O6     180.000    10.0     3
+LRY sp2_sp2_3  O7 C7 N  C2  0.000   5.0  2
+LRY sp2_sp3_1  C7 N  C2 C1  0.000   10.0 6
+LRY sp3_sp3_49 C5 C6 O6 P   180.000 10.0 3
+LRY sp2_sp3_13 N  C7 C8 H8  0.000   10.0 6
+LRY sp3_sp3_3  C6 O6 P  OP3 60.000  10.0 3
+LRY sp2_sp3_7  O1 C1 C2 N   0.000   10.0 6
+LRY sp3_sp3_4  N  C2 C3 O3  180.000 10.0 3
+LRY sp3_sp3_13 C2 C3 O3 HO3 180.000 10.0 3
+LRY sp3_sp3_16 C2 C3 C4 C5  180.000 10.0 3
+LRY sp3_sp3_34 C3 C4 O4 HO4 180.000 10.0 3
+LRY sp3_sp3_25 C3 C4 C5 O5  180.000 10.0 3
+LRY sp3_sp3_37 C4 C5 O5 HO5 180.000 10.0 3
+LRY sp3_sp3_40 C4 C5 C6 O6  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -189,47 +191,64 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-LRY    chir_1    P    O6    OP2    OP1    both
-LRY    chir_2    C2    N    C1    C3    positive
-LRY    chir_3    C3    O3    C4    C2    negative
-LRY    chir_4    C4    O4    C5    C3    positive
-LRY    chir_5    C5    O5    C4    C6    negative
+LRY chir_1 P  O6 OP2 OP1 both
+LRY chir_2 C2 N  C1  C3  positive
+LRY chir_3 C3 O3 C4  C2  negative
+LRY chir_4 C4 O4 C5  C3  positive
+LRY chir_5 C5 O5 C4  C6  negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-LRY    plan-1          C2   0.020
-LRY    plan-1          C7   0.020
-LRY    plan-1          HN   0.020
-LRY    plan-1           N   0.020
-LRY    plan-2          C1   0.020
-LRY    plan-2          C2   0.020
-LRY    plan-2          H1   0.020
-LRY    plan-2          O1   0.020
-LRY    plan-3          C7   0.020
-LRY    plan-3          C8   0.020
-LRY    plan-3           N   0.020
-LRY    plan-3          O7   0.020
+LRY plan-1 C2 0.020
+LRY plan-1 C7 0.020
+LRY plan-1 HN 0.020
+LRY plan-1 N  0.020
+LRY plan-2 C1 0.020
+LRY plan-2 C2 0.020
+LRY plan-2 H1 0.020
+LRY plan-2 O1 0.020
+LRY plan-3 C7 0.020
+LRY plan-3 C8 0.020
+LRY plan-3 N  0.020
+LRY plan-3 O7 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-LRY           SMILES              ACDLabs 12.01                                                                                               O=P(OCC(O)C(O)C(O)C(C=O)NC(=O)C)(O)O
-LRY            InChI                InChI  1.03 InChI=1S/C8H16NO9P/c1-4(11)9-5(2-10)7(13)8(14)6(12)3-18-19(15,16)17/h2,5-8,12-14H,3H2,1H3,(H,9,11)(H2,15,16,17)/t5-,6-,7-,8-/m1/s1
-LRY         InChIKey                InChI  1.03                                                                                                        QDSLHWJDSQGPEE-WCTZXXKLSA-N
-LRY SMILES_CANONICAL               CACTVS 3.385                                                                            CC(=O)N[C@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO[P](O)(O)=O
-LRY           SMILES               CACTVS 3.385                                                                                 CC(=O)N[CH](C=O)[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O
-LRY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                             CC(=O)N[C@H](C=O)[C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
-LRY           SMILES "OpenEye OEToolkits" 1.7.6                                                                                               CC(=O)NC(C=O)C(C(C(COP(=O)(O)O)O)O)O
+LRY SMILES           ACDLabs              12.01 O=P(OCC(O)C(O)C(O)C(C=O)NC(=O)C)(O)O
+LRY InChI            InChI                1.03  InChI=1S/C8H16NO9P/c1-4(11)9-5(2-10)7(13)8(14)6(12)3-18-19(15,16)17/h2,5-8,12-14H,3H2,1H3,(H,9,11)(H2,15,16,17)/t5-,6-,7-,8-/m1/s1
+LRY InChIKey         InChI                1.03  QDSLHWJDSQGPEE-WCTZXXKLSA-N
+LRY SMILES_CANONICAL CACTVS               3.385 CC(=O)N[C@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO[P](O)(O)=O
+LRY SMILES           CACTVS               3.385 CC(=O)N[CH](C=O)[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O
+LRY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CC(=O)N[C@H](C=O)[C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
+LRY SMILES           "OpenEye OEToolkits" 1.7.6 CC(=O)NC(C=O)C(C(C(COP(=O)(O)O)O)O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-LRY acedrg               243         "dictionary generator"                  
-LRY acedrg_database      11          "data source"                           
-LRY rdkit                2017.03.2   "Chemoinformatics tool"
-LRY refmac5              5.8.0238    "optimization tool"                     
+LRY acedrg          243       "dictionary generator"
+LRY acedrg_database 11        "data source"
+LRY rdkit           2017.03.2 "Chemoinformatics tool"
+LRY refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+LRY DNA/RNA OP1 OP3
+LRY DNA/RNA OP3 OP1
+LRY DNA/RNA O6  O5'
+LRY DNA/RNA C6  C5'
+LRY DNA/RNA C5  C4'
+LRY DNA/RNA C4  C3'
+LRY DNA/RNA O4  O3'
+LRY DNA/RNA HO4 HO3'

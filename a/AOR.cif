@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-AOR     AOR      N~2~-ACETYL-L-ORNITHINE     NON-POLYMER     25     12     .     
-#
+AOR AOR N~2~-ACETYL-L-ORNITHINE NON-POLYMER 25 12 .
+
 data_comp_AOR
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,31 +19,32 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-AOR     CA      C       CH1     0       109.895     42.817      82.520      
-AOR     C       C       C       0       109.755     43.724      81.283      
-AOR     O       O       O       0       108.815     43.479      80.501      
-AOR     OXT     O       OC      -1      110.587     44.645      81.146      
-AOR     CB      C       CH2     0       109.026     43.335      83.672      
-AOR     CG      C       CH2     0       109.516     44.627      84.313      
-AOR     CD      C       CH2     0       108.561     45.166      85.368      
-AOR     NE      N       NT2     0       108.648     44.497      86.669      
-AOR     N1      N       NH1     0       111.296     42.666      82.891      
-AOR     C1      C       C       0       111.862     41.511      83.271      
-AOR     O1      O       O       0       111.221     40.469      83.397      
-AOR     C2      C       CH3     0       113.336     41.549      83.523      
-AOR     HA      H       H       0       109.543     41.926      82.266      
-AOR     HB1     H       H       0       108.981     42.641      84.363      
-AOR     HB2     H       H       0       108.117     43.477      83.335      
-AOR     HG1     H       H       0       109.633     45.312      83.622      
-AOR     HG2     H       H       0       110.388     44.470      84.733      
-AOR     HD1     H       H       0       107.645     45.080      85.032      
-AOR     HD2     H       H       0       108.743     46.120      85.493      
-AOR     HNE1    H       H       0       107.920     44.652      87.153      
-AOR     HNE2    H       H       0       108.715     43.617      86.569      
-AOR     HN1     H       H       0       111.790     43.387      82.867      
-AOR     H21     H       H       0       113.680     40.643      83.581      
-AOR     H22     H       H       0       113.512     42.014      84.357      
-AOR     H23     H       H       0       113.779     42.014      82.795      
+AOR CA   C CH1 0  109.895 42.817 82.520
+AOR C    C C   0  109.755 43.724 81.283
+AOR O    O O   0  108.815 43.479 80.501
+AOR OXT  O OC  -1 110.587 44.645 81.146
+AOR CB   C CH2 0  109.026 43.335 83.672
+AOR CG   C CH2 0  109.516 44.627 84.313
+AOR CD   C CH2 0  108.561 45.166 85.368
+AOR NE   N NT2 0  108.648 44.497 86.669
+AOR N1   N NH1 0  111.296 42.666 82.891
+AOR C1   C C   0  111.862 41.511 83.271
+AOR O1   O O   0  111.221 40.469 83.397
+AOR C2   C CH3 0  113.336 41.549 83.523
+AOR HA   H H   0  109.543 41.926 82.266
+AOR HB1  H H   0  108.981 42.641 84.363
+AOR HB2  H H   0  108.117 43.477 83.335
+AOR HG1  H H   0  109.633 45.312 83.622
+AOR HG2  H H   0  110.388 44.470 84.733
+AOR HD1  H H   0  107.645 45.080 85.032
+AOR HD2  H H   0  108.743 46.120 85.493
+AOR HNE1 H H   0  107.920 44.652 87.153
+AOR HNE2 H H   0  108.715 43.617 86.569
+AOR HN1  H H   0  111.790 43.387 82.867
+AOR H21  H H   0  113.680 40.643 83.581
+AOR H22  H H   0  113.512 42.014 84.357
+AOR H23  H H   0  113.779 42.014 82.795
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -56,30 +55,31 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-AOR          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-AOR          CA          CB      SINGLE       n     1.531  0.0123     1.531  0.0123
-AOR          CA          N1      SINGLE       n     1.453  0.0100     1.453  0.0100
-AOR           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-AOR           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-AOR          CB          CG      SINGLE       n     1.522  0.0100     1.522  0.0100
-AOR          CG          CD      SINGLE       n     1.521  0.0102     1.521  0.0102
-AOR          CD          NE      SINGLE       n     1.466  0.0117     1.466  0.0117
-AOR          N1          C1      SINGLE       n     1.335  0.0100     1.335  0.0100
-AOR          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-AOR          C1          C2      SINGLE       n     1.495  0.0100     1.495  0.0100
-AOR          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-AOR          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0160
-AOR          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0160
-AOR          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0160
-AOR          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0160
-AOR          CD         HD1      SINGLE       n     1.089  0.0100     0.979  0.0106
-AOR          CD         HD2      SINGLE       n     1.089  0.0100     0.979  0.0106
-AOR          NE        HNE1      SINGLE       n     1.036  0.0160     0.888  0.0200
-AOR          NE        HNE2      SINGLE       n     1.036  0.0160     0.888  0.0200
-AOR          N1         HN1      SINGLE       n     1.016  0.0100     0.873  0.0200
-AOR          C2         H21      SINGLE       n     1.089  0.0100     0.971  0.0140
-AOR          C2         H22      SINGLE       n     1.089  0.0100     0.971  0.0140
-AOR          C2         H23      SINGLE       n     1.089  0.0100     0.971  0.0140
+AOR CA C    SINGLE n 1.539 0.0100 1.539 0.0100
+AOR CA CB   SINGLE n 1.531 0.0123 1.531 0.0123
+AOR CA N1   SINGLE n 1.453 0.0100 1.453 0.0100
+AOR C  O    DOUBLE n 1.247 0.0187 1.247 0.0187
+AOR C  OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+AOR CB CG   SINGLE n 1.522 0.0100 1.522 0.0100
+AOR CG CD   SINGLE n 1.521 0.0102 1.521 0.0102
+AOR CD NE   SINGLE n 1.466 0.0117 1.466 0.0117
+AOR N1 C1   SINGLE n 1.335 0.0100 1.335 0.0100
+AOR C1 O1   DOUBLE n 1.229 0.0102 1.229 0.0102
+AOR C1 C2   SINGLE n 1.495 0.0100 1.495 0.0100
+AOR CA HA   SINGLE n 1.089 0.0100 0.991 0.0200
+AOR CB HB1  SINGLE n 1.089 0.0100 0.980 0.0160
+AOR CB HB2  SINGLE n 1.089 0.0100 0.980 0.0160
+AOR CG HG1  SINGLE n 1.089 0.0100 0.981 0.0160
+AOR CG HG2  SINGLE n 1.089 0.0100 0.981 0.0160
+AOR CD HD1  SINGLE n 1.089 0.0100 0.979 0.0106
+AOR CD HD2  SINGLE n 1.089 0.0100 0.979 0.0106
+AOR NE HNE1 SINGLE n 1.036 0.0160 0.888 0.0200
+AOR NE HNE2 SINGLE n 1.036 0.0160 0.888 0.0200
+AOR N1 HN1  SINGLE n 1.016 0.0100 0.873 0.0200
+AOR C2 H21  SINGLE n 1.089 0.0100 0.971 0.0140
+AOR C2 H22  SINGLE n 1.089 0.0100 0.971 0.0140
+AOR C2 H23  SINGLE n 1.089 0.0100 0.971 0.0140
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -87,48 +87,49 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-AOR           C          CA          CB     111.638    2.31
-AOR           C          CA          N1     110.976    1.55
-AOR           C          CA          HA     108.327    1.50
-AOR          CB          CA          N1     113.029    1.50
-AOR          CB          CA          HA     108.155    1.50
-AOR          N1          CA          HA     108.343    1.63
-AOR          CA           C           O     117.249    1.61
-AOR          CA           C         OXT     117.249    1.61
-AOR           O           C         OXT     125.502    1.50
-AOR          CA          CB          CG     113.381    1.99
-AOR          CA          CB         HB1     108.606    1.50
-AOR          CA          CB         HB2     108.606    1.50
-AOR          CG          CB         HB1     108.775    1.50
-AOR          CG          CB         HB2     108.775    1.50
-AOR         HB1          CB         HB2     107.844    1.50
-AOR          CB          CG          CD     113.118    2.03
-AOR          CB          CG         HG1     109.262    1.50
-AOR          CB          CG         HG2     109.262    1.50
-AOR          CD          CG         HG1     108.630    1.50
-AOR          CD          CG         HG2     108.630    1.50
-AOR         HG1          CG         HG2     107.927    1.57
-AOR          CG          CD          NE     114.751    2.00
-AOR          CG          CD         HD1     108.627    1.50
-AOR          CG          CD         HD2     108.627    1.50
-AOR          NE          CD         HD1     108.763    1.50
-AOR          NE          CD         HD2     108.763    1.50
-AOR         HD1          CD         HD2     107.806    1.50
-AOR          CD          NE        HNE1     110.839    3.00
-AOR          CD          NE        HNE2     110.839    3.00
-AOR        HNE1          NE        HNE2     107.243    3.00
-AOR          CA          N1          C1     122.215    1.76
-AOR          CA          N1         HN1     118.142    2.15
-AOR          C1          N1         HN1     119.644    2.25
-AOR          N1          C1          O1     121.667    1.50
-AOR          N1          C1          C2     116.420    1.50
-AOR          O1          C1          C2     121.913    1.50
-AOR          C1          C2         H21     109.678    1.50
-AOR          C1          C2         H22     109.678    1.50
-AOR          C1          C2         H23     109.678    1.50
-AOR         H21          C2         H22     109.365    1.50
-AOR         H21          C2         H23     109.365    1.50
-AOR         H22          C2         H23     109.365    1.50
+AOR C    CA CB   111.638 2.31
+AOR C    CA N1   110.976 1.55
+AOR C    CA HA   108.327 1.50
+AOR CB   CA N1   113.029 1.50
+AOR CB   CA HA   108.155 1.50
+AOR N1   CA HA   108.343 1.63
+AOR CA   C  O    117.249 1.61
+AOR CA   C  OXT  117.249 1.61
+AOR O    C  OXT  125.502 1.50
+AOR CA   CB CG   113.381 1.99
+AOR CA   CB HB1  108.606 1.50
+AOR CA   CB HB2  108.606 1.50
+AOR CG   CB HB1  108.775 1.50
+AOR CG   CB HB2  108.775 1.50
+AOR HB1  CB HB2  107.844 1.50
+AOR CB   CG CD   113.118 2.03
+AOR CB   CG HG1  109.262 1.50
+AOR CB   CG HG2  109.262 1.50
+AOR CD   CG HG1  108.630 1.50
+AOR CD   CG HG2  108.630 1.50
+AOR HG1  CG HG2  107.927 1.57
+AOR CG   CD NE   114.751 2.00
+AOR CG   CD HD1  108.627 1.50
+AOR CG   CD HD2  108.627 1.50
+AOR NE   CD HD1  108.763 1.50
+AOR NE   CD HD2  108.763 1.50
+AOR HD1  CD HD2  107.806 1.50
+AOR CD   NE HNE1 110.839 3.00
+AOR CD   NE HNE2 110.839 3.00
+AOR HNE1 NE HNE2 107.243 3.00
+AOR CA   N1 C1   122.215 1.76
+AOR CA   N1 HN1  118.142 2.15
+AOR C1   N1 HN1  119.644 2.25
+AOR N1   C1 O1   121.667 1.50
+AOR N1   C1 C2   116.420 1.50
+AOR O1   C1 C2   121.913 1.50
+AOR C1   C2 H21  109.678 1.50
+AOR C1   C2 H22  109.678 1.50
+AOR C1   C2 H23  109.678 1.50
+AOR H21  C2 H22  109.365 1.50
+AOR H21  C2 H23  109.365 1.50
+AOR H22  C2 H23  109.365 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -139,14 +140,15 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-AOR             sp2_sp3_1           O           C          CA          CB       0.000    10.0     6
-AOR             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
-AOR             sp2_sp3_7          C1          N1          CA           C       0.000    10.0     6
-AOR            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-AOR            sp3_sp3_19          NE          CD          CG          CB     180.000    10.0     3
-AOR            sp3_sp3_28          CG          CD          NE        HNE1     180.000    10.0     3
-AOR             sp2_sp2_3          O1          C1          N1          CA       0.000     5.0     2
-AOR            sp2_sp3_13          N1          C1          C2         H21       0.000    10.0     6
+AOR sp2_sp3_1  O  C  CA CB   0.000   10.0 6
+AOR sp3_sp3_1  C  CA CB CG   180.000 10.0 3
+AOR sp2_sp3_7  C1 N1 CA C    0.000   10.0 6
+AOR sp3_sp3_10 CA CB CG CD   180.000 10.0 3
+AOR sp3_sp3_19 NE CD CG CB   180.000 10.0 3
+AOR sp3_sp3_28 CG CD NE HNE1 180.000 10.0 3
+AOR sp2_sp2_3  O1 C1 N1 CA   0.000   5.0  2
+AOR sp2_sp3_13 N1 C1 C2 H21  0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -155,43 +157,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-AOR    chir_1    CA    N1    C    CB    positive
+AOR chir_1 CA N1 C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-AOR    plan-1           C   0.020
-AOR    plan-1          CA   0.020
-AOR    plan-1           O   0.020
-AOR    plan-1         OXT   0.020
-AOR    plan-2          C1   0.020
-AOR    plan-2          CA   0.020
-AOR    plan-2         HN1   0.020
-AOR    plan-2          N1   0.020
-AOR    plan-3          C1   0.020
-AOR    plan-3          C2   0.020
-AOR    plan-3          N1   0.020
-AOR    plan-3          O1   0.020
+AOR plan-1 C   0.020
+AOR plan-1 CA  0.020
+AOR plan-1 O   0.020
+AOR plan-1 OXT 0.020
+AOR plan-2 C1  0.020
+AOR plan-2 CA  0.020
+AOR plan-2 HN1 0.020
+AOR plan-2 N1  0.020
+AOR plan-3 C1  0.020
+AOR plan-3 C2  0.020
+AOR plan-3 N1  0.020
+AOR plan-3 O1  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-AOR           SMILES              ACDLabs 10.04                                                                       O=C(NC(C(=O)O)CCCN)C
-AOR SMILES_CANONICAL               CACTVS 3.341                                                                  CC(=O)N[C@@H](CCCN)C(O)=O
-AOR           SMILES               CACTVS 3.341                                                                    CC(=O)N[CH](CCCN)C(O)=O
-AOR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                  CC(=O)N[C@@H](CCCN)C(=O)O
-AOR           SMILES "OpenEye OEToolkits" 1.5.0                                                                       CC(=O)NC(CCCN)C(=O)O
-AOR            InChI                InChI  1.03 InChI=1S/C7H14N2O3/c1-5(10)9-6(7(11)12)3-2-4-8/h6H,2-4,8H2,1H3,(H,9,10)(H,11,12)/t6-/m0/s1
-AOR         InChIKey                InChI  1.03                                                                JRLGPAXAGHMNOL-LURJTMIESA-N
+AOR SMILES           ACDLabs              10.04 O=C(NC(C(=O)O)CCCN)C
+AOR SMILES_CANONICAL CACTVS               3.341 CC(=O)N[C@@H](CCCN)C(O)=O
+AOR SMILES           CACTVS               3.341 CC(=O)N[CH](CCCN)C(O)=O
+AOR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(=O)N[C@@H](CCCN)C(=O)O
+AOR SMILES           "OpenEye OEToolkits" 1.5.0 CC(=O)NC(CCCN)C(=O)O
+AOR InChI            InChI                1.03  InChI=1S/C7H14N2O3/c1-5(10)9-6(7(11)12)3-2-4-8/h6H,2-4,8H2,1H3,(H,9,10)(H,11,12)/t6-/m0/s1
+AOR InChIKey         InChI                1.03  JRLGPAXAGHMNOL-LURJTMIESA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-AOR acedrg               243         "dictionary generator"                  
-AOR acedrg_database      11          "data source"                           
-AOR rdkit                2017.03.2   "Chemoinformatics tool"
-AOR refmac5              5.8.0238    "optimization tool"                     
+AOR acedrg          243       "dictionary generator"
+AOR acedrg_database 11        "data source"
+AOR rdkit           2017.03.2 "Chemoinformatics tool"
+AOR refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+AOR M-peptide N1  N
+AOR M-peptide C1  CN
+AOR M-peptide HN1 H

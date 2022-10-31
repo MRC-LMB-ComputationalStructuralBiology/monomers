@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-1UF     1UF      "N-{4-[(2-amino-6-methyl-4-oxo-4,7-dihydro-3H-pyrrolo[2,3-d]pyrimidin-5-yl)sulfanyl]-2-chlorobenzoyl}-L-glutamic acid"     NON-POLYMER     48     32     .     
-#
+1UF 1UF "N-{4-[(2-amino-6-methyl-4-oxo-4,7-dihydro-3H-pyrrolo[2,3-d]pyrimidin-5-yl)sulfanyl]-2-chlorobenzoyl}-L-glutamic acid" NON-POLYMER 48 32 .
+
 data_comp_1UF
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,54 +19,55 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-1UF     OE1     O       OC      -1      230.729     -111.988    547.653     
-1UF     CD      C       C       0       231.402     -112.849    548.255     
-1UF     OE2     O       O       0       231.455     -114.046    547.912     
-1UF     CG      C       CH2     0       232.199     -112.414    549.472     
-1UF     CB      C       CH2     0       231.457     -112.573    550.791     
-1UF     CA      C       CH1     0       232.153     -111.921    551.995     
-1UF     C       C       C       0       233.392     -112.735    552.415     
-1UF     O       O       OC      -1      233.258     -113.521    553.373     
-1UF     OXT     O       O       0       234.445     -112.557    551.769     
-1UF     N       N       NH1     0       232.507     -110.527    551.741     
-1UF     CAV     C       C       0       231.602     -109.557    551.533     
-1UF     OAE     O       O       0       230.389     -109.751    551.616     
-1UF     CBA     C       CR6     0       232.143     -108.211    551.152     
-1UF     CAZ     C       CR6     0       231.809     -107.031    551.813     
-1UF     CL1     CL      CL      0       230.710     -107.043    553.159     
-1UF     CAL     C       CR16    0       232.342     -105.813    551.421     
-1UF     CAK     C       CR16    0       233.034     -108.128    550.074     
-1UF     CAJ     C       CR16    0       233.571     -106.914    549.682     
-1UF     CAY     C       CR6     0       233.209     -105.750    550.338     
-1UF     SAS     S       S2      0       233.923     -104.207    549.855     
-1UF     CBB     C       CR5     0       235.370     -104.059    550.811     
-1UF     CBE     C       CR56    0       236.668     -104.555    550.457     
-1UF     CBC     C       CR6     0       237.231     -105.218    549.323     
-1UF     OAF     O       O       0       236.622     -105.558    548.295     
-1UF     NAQ     N       NR6     0       238.599     -105.483    549.444     
-1UF     CAW     C       CR6     0       239.343     -105.138    550.551     
-1UF     NAB     N       NH2     0       240.644     -105.456    550.525     
-1UF     NAO     N       NRD6    0       238.833     -104.517    551.621     
-1UF     CBD     C       CR56    0       237.505     -104.239    551.550     
-1UF     NAR     N       NR5     0       236.750     -103.615    552.503     
-1UF     CAX     C       CR5     0       235.446     -103.519    552.054     
-1UF     CAA     C       CH3     0       234.380     -102.884    552.881     
-1UF     H2      H       H       0       232.452     -111.475    549.352     
-1UF     H3      H       H       0       233.026     -112.941    549.505     
-1UF     H4      H       H       0       231.348     -113.529    550.976     
-1UF     H5      H       H       0       230.562     -112.187    550.697     
-1UF     H6      H       H       0       231.514     -111.931    552.753     
-1UF     H8      H       H       0       233.358     -110.323    551.740     
-1UF     H9      H       H       0       232.109     -105.027    551.875     
-1UF     H10     H       H       0       233.278     -108.911    549.611     
-1UF     H11     H       H       0       234.167     -106.875    548.960     
-1UF     H12     H       H       0       239.006     -105.898    548.762     
-1UF     H13     H       H       0       241.030     -105.776    551.245     
-1UF     H14     H       H       0       241.106     -105.344    549.789     
-1UF     H15     H       H       0       237.041     -103.318    553.279     
-1UF     H16     H       H       0       234.748     -102.618    553.736     
-1UF     H17     H       H       0       233.661     -103.517    553.024     
-1UF     H18     H       H       0       234.034     -102.105    552.422     
+1UF OE1 O  OC   -1 230.729 -111.988 547.653
+1UF CD  C  C    0  231.402 -112.849 548.255
+1UF OE2 O  O    0  231.455 -114.046 547.912
+1UF CG  C  CH2  0  232.199 -112.414 549.472
+1UF CB  C  CH2  0  231.457 -112.573 550.791
+1UF CA  C  CH1  0  232.153 -111.921 551.995
+1UF C   C  C    0  233.392 -112.735 552.415
+1UF O   O  OC   -1 233.258 -113.521 553.373
+1UF OXT O  O    0  234.445 -112.557 551.769
+1UF N   N  NH1  0  232.507 -110.527 551.741
+1UF CAV C  C    0  231.602 -109.557 551.533
+1UF OAE O  O    0  230.389 -109.751 551.616
+1UF CBA C  CR6  0  232.143 -108.211 551.152
+1UF CAZ C  CR6  0  231.809 -107.031 551.813
+1UF CL1 CL CL   0  230.710 -107.043 553.159
+1UF CAL C  CR16 0  232.342 -105.813 551.421
+1UF CAK C  CR16 0  233.034 -108.128 550.074
+1UF CAJ C  CR16 0  233.571 -106.914 549.682
+1UF CAY C  CR6  0  233.209 -105.750 550.338
+1UF SAS S  S2   0  233.923 -104.207 549.855
+1UF CBB C  CR5  0  235.370 -104.059 550.811
+1UF CBE C  CR56 0  236.668 -104.555 550.457
+1UF CBC C  CR6  0  237.231 -105.218 549.323
+1UF OAF O  O    0  236.622 -105.558 548.295
+1UF NAQ N  NR6  0  238.599 -105.483 549.444
+1UF CAW C  CR6  0  239.343 -105.138 550.551
+1UF NAB N  NH2  0  240.644 -105.456 550.525
+1UF NAO N  NRD6 0  238.833 -104.517 551.621
+1UF CBD C  CR56 0  237.505 -104.239 551.550
+1UF NAR N  NR5  0  236.750 -103.615 552.503
+1UF CAX C  CR5  0  235.446 -103.519 552.054
+1UF CAA C  CH3  0  234.380 -102.884 552.881
+1UF H2  H  H    0  232.452 -111.475 549.352
+1UF H3  H  H    0  233.026 -112.941 549.505
+1UF H4  H  H    0  231.348 -113.529 550.976
+1UF H5  H  H    0  230.562 -112.187 550.697
+1UF H6  H  H    0  231.514 -111.931 552.753
+1UF H8  H  H    0  233.358 -110.323 551.740
+1UF H9  H  H    0  232.109 -105.027 551.875
+1UF H10 H  H    0  233.278 -108.911 549.611
+1UF H11 H  H    0  234.167 -106.875 548.960
+1UF H12 H  H    0  239.006 -105.898 548.762
+1UF H13 H  H    0  241.030 -105.776 551.245
+1UF H14 H  H    0  241.106 -105.344 549.789
+1UF H15 H  H    0  237.041 -103.318 553.279
+1UF H16 H  H    0  234.748 -102.618 553.736
+1UF H17 H  H    0  233.661 -103.517 553.024
+1UF H18 H  H    0  234.034 -102.105 552.422
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -79,56 +78,57 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-1UF         CAK         CAJ      SINGLE       y     1.382  0.0100     1.382  0.0100
-1UF         CAJ         CAY      DOUBLE       y     1.382  0.0100     1.382  0.0100
-1UF           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-1UF         CBA         CAK      DOUBLE       y     1.396  0.0100     1.396  0.0100
-1UF         CAY         SAS      SINGLE       n     1.772  0.0127     1.772  0.0127
-1UF         SAS         CBB      SINGLE       n     1.744  0.0119     1.744  0.0119
-1UF          CD          CG      SINGLE       n     1.519  0.0109     1.519  0.0109
-1UF          CG          CB      SINGLE       n     1.518  0.0153     1.518  0.0153
-1UF         CAL         CAY      SINGLE       y     1.387  0.0100     1.387  0.0100
-1UF          CA           N      SINGLE       n     1.456  0.0100     1.456  0.0100
-1UF           N         CAV      SINGLE       n     1.337  0.0101     1.337  0.0101
-1UF          CD         OE2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-1UF          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-1UF           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-1UF         OE1          CD      SINGLE       n     1.247  0.0187     1.247  0.0187
-1UF          CB          CA      SINGLE       n     1.533  0.0100     1.533  0.0100
-1UF         CBC         OAF      DOUBLE       n     1.242  0.0112     1.242  0.0112
-1UF         CAV         CBA      SINGLE       n     1.498  0.0100     1.498  0.0100
-1UF         CBA         CAZ      SINGLE       y     1.387  0.0100     1.387  0.0100
-1UF         CAV         OAE      DOUBLE       n     1.230  0.0114     1.230  0.0114
-1UF         CBB         CBE      SINGLE       y     1.438  0.0100     1.438  0.0100
-1UF         CBB         CAX      DOUBLE       y     1.358  0.0102     1.358  0.0102
-1UF         CAZ         CAL      DOUBLE       y     1.383  0.0100     1.383  0.0100
-1UF         CBE         CBC      SINGLE       y     1.427  0.0100     1.427  0.0100
-1UF         CBC         NAQ      SINGLE       y     1.395  0.0119     1.395  0.0119
-1UF         CAX         CAA      SINGLE       n     1.491  0.0100     1.491  0.0100
-1UF         CAZ         CL1      SINGLE       n     1.737  0.0100     1.737  0.0100
-1UF         CBE         CBD      DOUBLE       y     1.412  0.0120     1.412  0.0120
-1UF         NAR         CAX      SINGLE       y     1.379  0.0100     1.379  0.0100
-1UF         NAQ         CAW      SINGLE       y     1.374  0.0100     1.374  0.0100
-1UF         CBD         NAR      SINGLE       y     1.364  0.0100     1.364  0.0100
-1UF         NAO         CBD      SINGLE       y     1.355  0.0100     1.355  0.0100
-1UF         CAW         NAO      DOUBLE       y     1.332  0.0108     1.332  0.0108
-1UF         CAW         NAB      SINGLE       n     1.340  0.0101     1.340  0.0101
-1UF          CG          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
-1UF          CG          H3      SINGLE       n     1.089  0.0100     0.981  0.0185
-1UF          CB          H4      SINGLE       n     1.089  0.0100     0.980  0.0178
-1UF          CB          H5      SINGLE       n     1.089  0.0100     0.980  0.0178
-1UF          CA          H6      SINGLE       n     1.089  0.0100     0.991  0.0200
-1UF           N          H8      SINGLE       n     1.016  0.0100     0.872  0.0200
-1UF         CAL          H9      SINGLE       n     1.082  0.0130     0.937  0.0156
-1UF         CAK         H10      SINGLE       n     1.082  0.0130     0.941  0.0168
-1UF         CAJ         H11      SINGLE       n     1.082  0.0130     0.937  0.0111
-1UF         NAQ         H12      SINGLE       n     1.016  0.0100     0.895  0.0200
-1UF         NAB         H13      SINGLE       n     1.016  0.0100     0.877  0.0200
-1UF         NAB         H14      SINGLE       n     1.016  0.0100     0.877  0.0200
-1UF         NAR         H15      SINGLE       n     1.016  0.0100     0.881  0.0200
-1UF         CAA         H16      SINGLE       n     1.089  0.0100     0.968  0.0138
-1UF         CAA         H17      SINGLE       n     1.089  0.0100     0.968  0.0138
-1UF         CAA         H18      SINGLE       n     1.089  0.0100     0.968  0.0138
+1UF CAK CAJ SINGLE y 1.382 0.0100 1.382 0.0100
+1UF CAJ CAY DOUBLE y 1.382 0.0100 1.382 0.0100
+1UF C   OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+1UF CBA CAK DOUBLE y 1.396 0.0100 1.396 0.0100
+1UF CAY SAS SINGLE n 1.772 0.0127 1.772 0.0127
+1UF SAS CBB SINGLE n 1.744 0.0119 1.744 0.0119
+1UF CD  CG  SINGLE n 1.519 0.0109 1.519 0.0109
+1UF CG  CB  SINGLE n 1.518 0.0153 1.518 0.0153
+1UF CAL CAY SINGLE y 1.387 0.0100 1.387 0.0100
+1UF CA  N   SINGLE n 1.456 0.0100 1.456 0.0100
+1UF N   CAV SINGLE n 1.337 0.0101 1.337 0.0101
+1UF CD  OE2 DOUBLE n 1.247 0.0187 1.247 0.0187
+1UF CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+1UF C   O   SINGLE n 1.247 0.0187 1.247 0.0187
+1UF OE1 CD  SINGLE n 1.247 0.0187 1.247 0.0187
+1UF CB  CA  SINGLE n 1.533 0.0100 1.533 0.0100
+1UF CBC OAF DOUBLE n 1.242 0.0112 1.242 0.0112
+1UF CAV CBA SINGLE n 1.498 0.0100 1.498 0.0100
+1UF CBA CAZ SINGLE y 1.387 0.0100 1.387 0.0100
+1UF CAV OAE DOUBLE n 1.230 0.0114 1.230 0.0114
+1UF CBB CBE SINGLE y 1.438 0.0100 1.438 0.0100
+1UF CBB CAX DOUBLE y 1.358 0.0102 1.358 0.0102
+1UF CAZ CAL DOUBLE y 1.383 0.0100 1.383 0.0100
+1UF CBE CBC SINGLE y 1.427 0.0100 1.427 0.0100
+1UF CBC NAQ SINGLE y 1.395 0.0119 1.395 0.0119
+1UF CAX CAA SINGLE n 1.491 0.0100 1.491 0.0100
+1UF CAZ CL1 SINGLE n 1.737 0.0100 1.737 0.0100
+1UF CBE CBD DOUBLE y 1.412 0.0120 1.412 0.0120
+1UF NAR CAX SINGLE y 1.379 0.0100 1.379 0.0100
+1UF NAQ CAW SINGLE y 1.374 0.0100 1.374 0.0100
+1UF CBD NAR SINGLE y 1.364 0.0100 1.364 0.0100
+1UF NAO CBD SINGLE y 1.355 0.0100 1.355 0.0100
+1UF CAW NAO DOUBLE y 1.332 0.0108 1.332 0.0108
+1UF CAW NAB SINGLE n 1.340 0.0101 1.340 0.0101
+1UF CG  H2  SINGLE n 1.089 0.0100 0.981 0.0185
+1UF CG  H3  SINGLE n 1.089 0.0100 0.981 0.0185
+1UF CB  H4  SINGLE n 1.089 0.0100 0.980 0.0178
+1UF CB  H5  SINGLE n 1.089 0.0100 0.980 0.0178
+1UF CA  H6  SINGLE n 1.089 0.0100 0.991 0.0200
+1UF N   H8  SINGLE n 1.016 0.0100 0.872 0.0200
+1UF CAL H9  SINGLE n 1.082 0.0130 0.937 0.0156
+1UF CAK H10 SINGLE n 1.082 0.0130 0.941 0.0168
+1UF CAJ H11 SINGLE n 1.082 0.0130 0.937 0.0111
+1UF NAQ H12 SINGLE n 1.016 0.0100 0.895 0.0200
+1UF NAB H13 SINGLE n 1.016 0.0100 0.877 0.0200
+1UF NAB H14 SINGLE n 1.016 0.0100 0.877 0.0200
+1UF NAR H15 SINGLE n 1.016 0.0100 0.881 0.0200
+1UF CAA H16 SINGLE n 1.089 0.0100 0.968 0.0138
+1UF CAA H17 SINGLE n 1.089 0.0100 0.968 0.0138
+1UF CAA H18 SINGLE n 1.089 0.0100 0.968 0.0138
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -136,89 +136,90 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-1UF          CG          CD         OE2     118.214    1.64
-1UF          CG          CD         OE1     118.214    1.64
-1UF         OE2          CD         OE1     123.571    1.50
-1UF          CD          CG          CB     114.629    2.24
-1UF          CD          CG          H2     108.404    1.50
-1UF          CD          CG          H3     108.404    1.50
-1UF          CB          CG          H2     108.906    1.50
-1UF          CB          CG          H3     108.906    1.50
-1UF          H2          CG          H3     107.521    1.50
-1UF          CG          CB          CA     112.938    1.50
-1UF          CG          CB          H4     108.890    1.50
-1UF          CG          CB          H5     108.890    1.50
-1UF          CA          CB          H4     108.606    1.50
-1UF          CA          CB          H5     108.606    1.50
-1UF          H4          CB          H5     107.844    1.50
-1UF           N          CA           C     110.522    1.86
-1UF           N          CA          CB     110.984    1.61
-1UF           N          CA          H6     107.930    1.50
-1UF           C          CA          CB     111.638    2.31
-1UF           C          CA          H6     108.327    1.50
-1UF          CB          CA          H6     108.155    1.50
-1UF         OXT           C          CA     117.249    1.61
-1UF         OXT           C           O     125.502    1.50
-1UF          CA           C           O     117.249    1.61
-1UF          CA           N         CAV     122.253    1.50
-1UF          CA           N          H8     118.320    2.24
-1UF         CAV           N          H8     119.427    1.94
-1UF           N         CAV         CBA     116.493    1.50
-1UF           N         CAV         OAE     122.121    1.50
-1UF         CBA         CAV         OAE     121.387    1.50
-1UF         CAK         CBA         CAV     119.304    1.50
-1UF         CAK         CBA         CAZ     117.880    1.50
-1UF         CAV         CBA         CAZ     122.816    1.90
-1UF         CBA         CAZ         CAL     121.414    1.50
-1UF         CBA         CAZ         CL1     120.119    1.50
-1UF         CAL         CAZ         CL1     118.467    1.50
-1UF         CAY         CAL         CAZ     120.163    1.50
-1UF         CAY         CAL          H9     119.623    1.50
-1UF         CAZ         CAL          H9     120.214    1.50
-1UF         CAJ         CAK         CBA     120.653    1.50
-1UF         CAJ         CAK         H10     119.562    1.50
-1UF         CBA         CAK         H10     119.784    1.50
-1UF         CAK         CAJ         CAY     120.267    1.50
-1UF         CAK         CAJ         H11     120.013    1.50
-1UF         CAY         CAJ         H11     119.721    1.50
-1UF         CAJ         CAY         SAS     120.189    2.83
-1UF         CAJ         CAY         CAL     119.622    1.50
-1UF         SAS         CAY         CAL     120.189    2.83
-1UF         CAY         SAS         CBB     120.000    3.00
-1UF         SAS         CBB         CBE     125.548    2.21
-1UF         SAS         CBB         CAX     125.548    2.21
-1UF         CBE         CBB         CAX     108.903    1.50
-1UF         CBB         CBE         CBC     134.180    2.09
-1UF         CBB         CBE         CBD     106.704    1.50
-1UF         CBC         CBE         CBD     119.116    1.50
-1UF         OAF         CBC         CBE     125.921    1.50
-1UF         OAF         CBC         NAQ     119.634    1.50
-1UF         CBE         CBC         NAQ     114.445    1.50
-1UF         CBC         NAQ         CAW     123.892    1.50
-1UF         CBC         NAQ         H12     117.769    1.86
-1UF         CAW         NAQ         H12     118.339    2.71
-1UF         NAQ         CAW         NAO     123.503    1.50
-1UF         NAQ         CAW         NAB     116.626    1.50
-1UF         NAO         CAW         NAB     119.871    1.50
-1UF         CAW         NAB         H13     119.868    1.50
-1UF         CAW         NAB         H14     119.868    1.50
-1UF         H13         NAB         H14     120.263    1.96
-1UF         CBD         NAO         CAW     114.066    1.50
-1UF         CBE         CBD         NAR     108.448    1.50
-1UF         CBE         CBD         NAO     124.978    1.50
-1UF         NAR         CBD         NAO     126.575    1.65
-1UF         CAX         NAR         CBD     108.009    1.55
-1UF         CAX         NAR         H15     125.440    1.50
-1UF         CBD         NAR         H15     126.552    2.07
-1UF         CBB         CAX         CAA     130.178    1.50
-1UF         CBB         CAX         NAR     107.937    2.30
-1UF         CAA         CAX         NAR     121.885    1.50
-1UF         CAX         CAA         H16     109.558    1.50
-1UF         CAX         CAA         H17     109.558    1.50
-1UF         CAX         CAA         H18     109.558    1.50
-1UF         H16         CAA         H17     109.354    1.50
-1UF         H16         CAA         H18     109.354    1.50
-1UF         H17         CAA         H18     109.354    1.50
+1UF CG  CD  OE2 118.214 1.64
+1UF CG  CD  OE1 118.214 1.64
+1UF OE2 CD  OE1 123.571 1.50
+1UF CD  CG  CB  114.629 2.24
+1UF CD  CG  H2  108.404 1.50
+1UF CD  CG  H3  108.404 1.50
+1UF CB  CG  H2  108.906 1.50
+1UF CB  CG  H3  108.906 1.50
+1UF H2  CG  H3  107.521 1.50
+1UF CG  CB  CA  112.938 1.50
+1UF CG  CB  H4  108.890 1.50
+1UF CG  CB  H5  108.890 1.50
+1UF CA  CB  H4  108.606 1.50
+1UF CA  CB  H5  108.606 1.50
+1UF H4  CB  H5  107.844 1.50
+1UF N   CA  C   110.522 1.86
+1UF N   CA  CB  110.984 1.61
+1UF N   CA  H6  107.930 1.50
+1UF C   CA  CB  111.638 2.31
+1UF C   CA  H6  108.327 1.50
+1UF CB  CA  H6  108.155 1.50
+1UF OXT C   CA  117.249 1.61
+1UF OXT C   O   125.502 1.50
+1UF CA  C   O   117.249 1.61
+1UF CA  N   CAV 122.253 1.50
+1UF CA  N   H8  118.320 2.24
+1UF CAV N   H8  119.427 1.94
+1UF N   CAV CBA 116.493 1.50
+1UF N   CAV OAE 122.121 1.50
+1UF CBA CAV OAE 121.387 1.50
+1UF CAK CBA CAV 119.304 1.50
+1UF CAK CBA CAZ 117.880 1.50
+1UF CAV CBA CAZ 122.816 1.90
+1UF CBA CAZ CAL 121.414 1.50
+1UF CBA CAZ CL1 120.119 1.50
+1UF CAL CAZ CL1 118.467 1.50
+1UF CAY CAL CAZ 120.163 1.50
+1UF CAY CAL H9  119.623 1.50
+1UF CAZ CAL H9  120.214 1.50
+1UF CAJ CAK CBA 120.653 1.50
+1UF CAJ CAK H10 119.562 1.50
+1UF CBA CAK H10 119.784 1.50
+1UF CAK CAJ CAY 120.267 1.50
+1UF CAK CAJ H11 120.013 1.50
+1UF CAY CAJ H11 119.721 1.50
+1UF CAJ CAY SAS 120.189 2.83
+1UF CAJ CAY CAL 119.622 1.50
+1UF SAS CAY CAL 120.189 2.83
+1UF CAY SAS CBB 120.000 3.00
+1UF SAS CBB CBE 125.548 2.21
+1UF SAS CBB CAX 125.548 2.21
+1UF CBE CBB CAX 108.903 1.50
+1UF CBB CBE CBC 134.180 2.09
+1UF CBB CBE CBD 106.704 1.50
+1UF CBC CBE CBD 119.116 1.50
+1UF OAF CBC CBE 125.921 1.50
+1UF OAF CBC NAQ 119.634 1.50
+1UF CBE CBC NAQ 114.445 1.50
+1UF CBC NAQ CAW 123.892 1.50
+1UF CBC NAQ H12 117.769 1.86
+1UF CAW NAQ H12 118.339 2.71
+1UF NAQ CAW NAO 123.503 1.50
+1UF NAQ CAW NAB 116.626 1.50
+1UF NAO CAW NAB 119.871 1.50
+1UF CAW NAB H13 119.868 1.50
+1UF CAW NAB H14 119.868 1.50
+1UF H13 NAB H14 120.263 1.96
+1UF CBD NAO CAW 114.066 1.50
+1UF CBE CBD NAR 108.448 1.50
+1UF CBE CBD NAO 124.978 1.50
+1UF NAR CBD NAO 126.575 1.65
+1UF CAX NAR CBD 108.009 1.55
+1UF CAX NAR H15 125.440 1.50
+1UF CBD NAR H15 126.552 2.07
+1UF CBB CAX CAA 130.178 1.50
+1UF CBB CAX NAR 107.937 2.30
+1UF CAA CAX NAR 121.885 1.50
+1UF CAX CAA H16 109.558 1.50
+1UF CAX CAA H17 109.558 1.50
+1UF CAX CAA H18 109.558 1.50
+1UF H16 CAA H17 109.354 1.50
+1UF H16 CAA H18 109.354 1.50
+1UF H17 CAA H18 109.354 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -229,33 +230,34 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-1UF             sp2_sp2_9           N         CAV         CBA         CAK     180.000     5.0     2
-1UF              const_56         CL1         CAZ         CBA         CAV       0.000    10.0     2
-1UF       const_sp2_sp2_2         CAJ         CAK         CBA         CAV     180.000     5.0     2
-1UF              const_18         CAY         CAL         CAZ         CL1     180.000    10.0     2
-1UF              const_14         CAZ         CAL         CAY         SAS     180.000    10.0     2
-1UF       const_sp2_sp2_5         CAY         CAJ         CAK         CBA       0.000     5.0     2
-1UF              const_10         CAK         CAJ         CAY         SAS     180.000    10.0     2
-1UF             sp2_sp2_1         CAJ         CAY         SAS         CBB     180.000     5.0     2
-1UF             sp2_sp2_3         CBE         CBB         SAS         CAY     180.000     5.0     2
-1UF             sp2_sp3_2         OE2          CD          CG          CB     120.000    10.0     6
-1UF              const_40         SAS         CBB         CBE         CBC       0.000    10.0     2
-1UF              const_60         CAA         CAX         CBB         SAS       0.000    10.0     2
-1UF              const_24         OAF         CBC         CBE         CBB       0.000    10.0     2
-1UF              const_41         NAR         CBD         CBE         CBB       0.000    10.0     2
-1UF              const_27         OAF         CBC         NAQ         CAW     180.000    10.0     2
-1UF              const_31         NAB         CAW         NAQ         CBC     180.000    10.0     2
-1UF            sp2_sp2_13         NAQ         CAW         NAB         H13     180.000     5.0     2
-1UF              const_34         NAB         CAW         NAO         CBD     180.000    10.0     2
-1UF              const_35         CBE         CBD         NAO         CAW       0.000    10.0     2
-1UF              const_45         CBE         CBD         NAR         CAX       0.000    10.0     2
-1UF              const_51         CAA         CAX         NAR         CBD     180.000    10.0     2
-1UF            sp2_sp3_19         CBB         CAX         CAA         H16     150.000    10.0     6
-1UF             sp3_sp3_1          CA          CB          CG          CD     180.000    10.0     3
-1UF            sp3_sp3_10           N          CA          CB          CG     180.000    10.0     3
-1UF            sp2_sp3_13         OXT           C          CA           N       0.000    10.0     6
-1UF             sp2_sp3_7         CAV           N          CA           C       0.000    10.0     6
-1UF             sp2_sp2_7         OAE         CAV           N          CA       0.000     5.0     2
+1UF sp2_sp2_9       N   CAV CBA CAK 180.000 5.0  2
+1UF const_56        CL1 CAZ CBA CAV 0.000   10.0 2
+1UF const_sp2_sp2_2 CAJ CAK CBA CAV 180.000 5.0  2
+1UF const_18        CAY CAL CAZ CL1 180.000 10.0 2
+1UF const_14        CAZ CAL CAY SAS 180.000 10.0 2
+1UF const_sp2_sp2_5 CAY CAJ CAK CBA 0.000   5.0  2
+1UF const_10        CAK CAJ CAY SAS 180.000 10.0 2
+1UF sp2_sp2_1       CAJ CAY SAS CBB 180.000 5.0  2
+1UF sp2_sp2_3       CBE CBB SAS CAY 180.000 5.0  2
+1UF sp2_sp3_2       OE2 CD  CG  CB  120.000 10.0 6
+1UF const_40        SAS CBB CBE CBC 0.000   10.0 2
+1UF const_60        CAA CAX CBB SAS 0.000   10.0 2
+1UF const_24        OAF CBC CBE CBB 0.000   10.0 2
+1UF const_41        NAR CBD CBE CBB 0.000   10.0 2
+1UF const_27        OAF CBC NAQ CAW 180.000 10.0 2
+1UF const_31        NAB CAW NAQ CBC 180.000 10.0 2
+1UF sp2_sp2_13      NAQ CAW NAB H13 180.000 5.0  2
+1UF const_34        NAB CAW NAO CBD 180.000 10.0 2
+1UF const_35        CBE CBD NAO CAW 0.000   10.0 2
+1UF const_45        CBE CBD NAR CAX 0.000   10.0 2
+1UF const_51        CAA CAX NAR CBD 180.000 10.0 2
+1UF sp2_sp3_19      CBB CAX CAA H16 150.000 10.0 6
+1UF sp3_sp3_1       CA  CB  CG  CD  180.000 10.0 3
+1UF sp3_sp3_10      N   CA  CB  CG  180.000 10.0 3
+1UF sp2_sp3_13      OXT C   CA  N   0.000   10.0 6
+1UF sp2_sp3_7       CAV N   CA  C   0.000   10.0 6
+1UF sp2_sp2_7       OAE CAV N   CA  0.000   5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -264,78 +266,91 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-1UF    chir_1    CA    N    C    CB    positive
+1UF chir_1 CA N C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-1UF    plan-1         CAA   0.020
-1UF    plan-1         CAW   0.020
-1UF    plan-1         CAX   0.020
-1UF    plan-1         CBB   0.020
-1UF    plan-1         CBC   0.020
-1UF    plan-1         CBD   0.020
-1UF    plan-1         CBE   0.020
-1UF    plan-1         H12   0.020
-1UF    plan-1         H15   0.020
-1UF    plan-1         NAB   0.020
-1UF    plan-1         NAO   0.020
-1UF    plan-1         NAQ   0.020
-1UF    plan-1         NAR   0.020
-1UF    plan-1         OAF   0.020
-1UF    plan-1         SAS   0.020
-1UF    plan-2         CAJ   0.020
-1UF    plan-2         CAK   0.020
-1UF    plan-2         CAL   0.020
-1UF    plan-2         CAV   0.020
-1UF    plan-2         CAY   0.020
-1UF    plan-2         CAZ   0.020
-1UF    plan-2         CBA   0.020
-1UF    plan-2         CL1   0.020
-1UF    plan-2         H10   0.020
-1UF    plan-2         H11   0.020
-1UF    plan-2          H9   0.020
-1UF    plan-2         SAS   0.020
-1UF    plan-3          CD   0.020
-1UF    plan-3          CG   0.020
-1UF    plan-3         OE1   0.020
-1UF    plan-3         OE2   0.020
-1UF    plan-4           C   0.020
-1UF    plan-4          CA   0.020
-1UF    plan-4           O   0.020
-1UF    plan-4         OXT   0.020
-1UF    plan-5          CA   0.020
-1UF    plan-5         CAV   0.020
-1UF    plan-5          H8   0.020
-1UF    plan-5           N   0.020
-1UF    plan-6         CAV   0.020
-1UF    plan-6         CBA   0.020
-1UF    plan-6           N   0.020
-1UF    plan-6         OAE   0.020
-1UF    plan-7         CAW   0.020
-1UF    plan-7         H13   0.020
-1UF    plan-7         H14   0.020
-1UF    plan-7         NAB   0.020
+1UF plan-1 CAA 0.020
+1UF plan-1 CAW 0.020
+1UF plan-1 CAX 0.020
+1UF plan-1 CBB 0.020
+1UF plan-1 CBC 0.020
+1UF plan-1 CBD 0.020
+1UF plan-1 CBE 0.020
+1UF plan-1 H12 0.020
+1UF plan-1 H15 0.020
+1UF plan-1 NAB 0.020
+1UF plan-1 NAO 0.020
+1UF plan-1 NAQ 0.020
+1UF plan-1 NAR 0.020
+1UF plan-1 OAF 0.020
+1UF plan-1 SAS 0.020
+1UF plan-2 CAJ 0.020
+1UF plan-2 CAK 0.020
+1UF plan-2 CAL 0.020
+1UF plan-2 CAV 0.020
+1UF plan-2 CAY 0.020
+1UF plan-2 CAZ 0.020
+1UF plan-2 CBA 0.020
+1UF plan-2 CL1 0.020
+1UF plan-2 H10 0.020
+1UF plan-2 H11 0.020
+1UF plan-2 H9  0.020
+1UF plan-2 SAS 0.020
+1UF plan-3 CD  0.020
+1UF plan-3 CG  0.020
+1UF plan-3 OE1 0.020
+1UF plan-3 OE2 0.020
+1UF plan-4 C   0.020
+1UF plan-4 CA  0.020
+1UF plan-4 O   0.020
+1UF plan-4 OXT 0.020
+1UF plan-5 CA  0.020
+1UF plan-5 CAV 0.020
+1UF plan-5 H8  0.020
+1UF plan-5 N   0.020
+1UF plan-6 CAV 0.020
+1UF plan-6 CBA 0.020
+1UF plan-6 N   0.020
+1UF plan-6 OAE 0.020
+1UF plan-7 CAW 0.020
+1UF plan-7 H13 0.020
+1UF plan-7 H14 0.020
+1UF plan-7 NAB 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-1UF           SMILES              ACDLabs 12.01                                                                                                                                         O=C(O)C(NC(=O)c3ccc(Sc1c(nc2N=C(N)NC(=O)c12)C)cc3Cl)CCC(=O)O
-1UF            InChI                InChI  1.03 InChI=1S/C19H18ClN5O6S/c1-7-14(13-15(22-7)24-19(21)25-17(13)29)32-8-2-3-9(10(20)6-8)16(28)23-11(18(30)31)4-5-12(26)27/h2-3,6,11H,4-5H2,1H3,(H,23,28)(H,26,27)(H,30,31)(H4,21,22,24,25,29)/t11-/m0/s1
-1UF         InChIKey                InChI  1.03                                                                                                                                                                          DTVBRZFMWHDIOO-NSHDSACASA-N
-1UF SMILES_CANONICAL               CACTVS 3.370                                                                                                                                 Cc1[nH]c2N=C(N)NC(=O)c2c1Sc3ccc(c(Cl)c3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
-1UF           SMILES               CACTVS 3.370                                                                                                                                   Cc1[nH]c2N=C(N)NC(=O)c2c1Sc3ccc(c(Cl)c3)C(=O)N[CH](CCC(O)=O)C(O)=O
-1UF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                    Cc1c(c2c([nH]1)N=C(NC2=O)N)Sc3ccc(c(c3)Cl)C(=O)NC(CCC(=O)O)C(=O)O
-1UF           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                    Cc1c(c2c([nH]1)N=C(NC2=O)N)Sc3ccc(c(c3)Cl)C(=O)NC(CCC(=O)O)C(=O)O
+1UF SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)c3ccc(Sc1c(nc2N=C(N)NC(=O)c12)C)cc3Cl)CCC(=O)O
+1UF InChI            InChI                1.03  InChI=1S/C19H18ClN5O6S/c1-7-14(13-15(22-7)24-19(21)25-17(13)29)32-8-2-3-9(10(20)6-8)16(28)23-11(18(30)31)4-5-12(26)27/h2-3,6,11H,4-5H2,1H3,(H,23,28)(H,26,27)(H,30,31)(H4,21,22,24,25,29)/t11-/m0/s1
+1UF InChIKey         InChI                1.03  DTVBRZFMWHDIOO-NSHDSACASA-N
+1UF SMILES_CANONICAL CACTVS               3.370 Cc1[nH]c2N=C(N)NC(=O)c2c1Sc3ccc(c(Cl)c3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+1UF SMILES           CACTVS               3.370 Cc1[nH]c2N=C(N)NC(=O)c2c1Sc3ccc(c(Cl)c3)C(=O)N[CH](CCC(O)=O)C(O)=O
+1UF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 Cc1c(c2c([nH]1)N=C(NC2=O)N)Sc3ccc(c(c3)Cl)C(=O)NC(CCC(=O)O)C(=O)O
+1UF SMILES           "OpenEye OEToolkits" 1.7.6 Cc1c(c2c([nH]1)N=C(NC2=O)N)Sc3ccc(c(c3)Cl)C(=O)NC(CCC(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-1UF acedrg               243         "dictionary generator"                  
-1UF acedrg_database      11          "data source"                           
-1UF rdkit                2017.03.2   "Chemoinformatics tool"
-1UF refmac5              5.8.0238    "optimization tool"                     
+1UF acedrg          243       "dictionary generator"
+1UF acedrg_database 11        "data source"
+1UF rdkit           2017.03.2 "Chemoinformatics tool"
+1UF refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+1UF M-peptide OXT O
+1UF M-peptide CAV CN
+1UF M-peptide O   OXT
+1UF M-peptide H8  H

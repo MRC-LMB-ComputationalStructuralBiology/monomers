@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-3AI     3AI      N-[(2S)-2-amino-3-phenylpropyl]-D-methionyl-L-alanyl-L-isoleucine     NON-POLYMER     69     32     .     
-#
+3AI 3AI N-[(2S)-2-amino-3-phenylpropyl]-D-methionyl-L-alanyl-L-isoleucine NON-POLYMER 69 32 .
+
 data_comp_3AI
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,75 +19,76 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-3AI     O       O       O       0       37.988      -11.683     4.130       
-3AI     C1      C       C       0       37.273      -11.325     5.066       
-3AI     N1      N       NT1     0       35.485      -9.606      5.378       
-3AI     SD      S       S2      0       35.919      -14.489     4.647       
-3AI     CE      C       CH3     0       35.370      -15.231     6.183       
-3AI     CA1     C       CH1     0       35.825      -10.920     4.798       
-3AI     CB1     C       CH2     0       34.858      -11.983     5.342       
-3AI     CG1     C       CH2     0       34.670      -13.190     4.425       
-3AI     C       C       CH2     0       34.653      -8.722      4.546       
-3AI     N       N       NT2     0       34.481      -7.612      2.342       
-3AI     CA      C       CH1     0       35.419      -8.044      3.395       
-3AI     CB      C       CH2     0       36.292      -6.883      3.896       
-3AI     CG      C       CR6     0       37.151      -6.258      2.819       
-3AI     CZ      C       CR16    0       38.745      -5.111      0.829       
-3AI     CD1     C       CR16    0       36.992      -4.925      2.458       
-3AI     CD2     C       CR16    0       38.126      -7.006      2.165       
-3AI     CE1     C       CR16    0       37.784      -4.355      1.469       
-3AI     CE2     C       CR16    0       38.916      -6.436      1.175       
-3AI     N2      N       NH1     0       37.680      -11.307     6.344       
-3AI     CA2     C       CH1     0       38.989      -11.796     6.751       
-3AI     C2      C       C       0       39.005      -13.328     6.805       
-3AI     O1      O       O       0       38.352      -13.909     7.672       
-3AI     CB2     C       CH3     0       39.376      -11.219     8.110       
-3AI     N3      N       NH1     0       39.730      -13.971     5.876       
-3AI     CA3     C       CH1     0       39.801      -15.424     5.792       
-3AI     C3      C       C       0       40.669      -15.986     6.937       
-3AI     O2      O       O       0       40.337      -17.090     7.413       
-3AI     CB3     C       CH1     0       40.302      -15.869     4.392       
-3AI     CG2     C       CH2     0       39.936      -17.326     4.084       
-3AI     CG3     C       CH3     0       41.793      -15.614     4.198       
-3AI     CD3     C       CH3     0       38.484      -17.541     3.714       
-3AI     OXT     O       OC      -1      41.636      -15.295     7.321       
-3AI     HN1     H       H       0       36.230      -9.177      5.595       
-3AI     HE      H       H       0       35.974      -15.943     6.428       
-3AI     HEA     H       H       0       34.481      -15.587     6.068       
-3AI     HEB     H       H       0       35.363      -14.563     6.878       
-3AI     HA1     H       H       0       35.707      -10.873     3.818       
-3AI     HB1     H       H       0       33.987      -11.563     5.488       
-3AI     HB1A    H       H       0       35.183      -12.292     6.210       
-3AI     HG1     H       H       0       33.785      -13.579     4.592       
-3AI     HG1A    H       H       0       34.690      -12.893     3.490       
-3AI     H       H       H       0       34.261      -8.026      5.114       
-3AI     HA      H       H       0       33.914      -9.242      4.167       
-3AI     HN      H       H       0       34.893      -7.586      1.556       
-3AI     HNA     H       H       0       34.170      -6.797      2.514       
-3AI     HAA     H       H       0       36.021      -8.713      2.998       
-3AI     HB      H       H       0       36.876      -7.210      4.611       
-3AI     HBA     H       H       0       35.709      -6.193      4.280       
-3AI     HZ      H       H       0       39.283      -4.724      0.157       
-3AI     HD1     H       H       0       36.337      -4.400      2.890       
-3AI     HD2     H       H       0       38.248      -7.913      2.396       
-3AI     HE1     H       H       0       37.664      -3.449      1.234       
-3AI     HE2     H       H       0       39.573      -6.956      0.740       
-3AI     HN2     H       H       0       37.136      -10.998     6.955       
-3AI     HA2     H       H       0       39.661      -11.496     6.091       
-3AI     HB2     H       H       0       39.453      -10.253     8.043       
-3AI     HB2A    H       H       0       40.229      -11.592     8.391       
-3AI     HB2B    H       H       0       38.695      -11.444     8.765       
-3AI     HN3     H       H       0       40.175      -13.499     5.292       
-3AI     HA3     H       H       0       38.888      -15.776     5.910       
-3AI     HB3     H       H       0       39.826      -15.307     3.732       
-3AI     HG2     H       H       0       40.146      -17.879     4.865       
-3AI     HG2A    H       H       0       40.495      -17.638     3.340       
-3AI     HG3     H       H       0       41.984      -15.514     3.249       
-3AI     HG3A    H       H       0       42.302      -16.364     4.550       
-3AI     HG3B    H       H       0       42.052      -14.800     4.664       
-3AI     HD3     H       H       0       38.369      -18.440     3.360       
-3AI     HD3A    H       H       0       38.218      -16.893     3.039       
-3AI     HD3B    H       H       0       37.927      -17.433     4.504       
+3AI O    O O    0  37.988 -11.683 4.130
+3AI C1   C C    0  37.273 -11.325 5.066
+3AI N1   N NT1  0  35.485 -9.606  5.378
+3AI SD   S S2   0  35.919 -14.489 4.647
+3AI CE   C CH3  0  35.370 -15.231 6.183
+3AI CA1  C CH1  0  35.825 -10.920 4.798
+3AI CB1  C CH2  0  34.858 -11.983 5.342
+3AI CG1  C CH2  0  34.670 -13.190 4.425
+3AI C    C CH2  0  34.653 -8.722  4.546
+3AI N    N NT2  0  34.481 -7.612  2.342
+3AI CA   C CH1  0  35.419 -8.044  3.395
+3AI CB   C CH2  0  36.292 -6.883  3.896
+3AI CG   C CR6  0  37.151 -6.258  2.819
+3AI CZ   C CR16 0  38.745 -5.111  0.829
+3AI CD1  C CR16 0  36.992 -4.925  2.458
+3AI CD2  C CR16 0  38.126 -7.006  2.165
+3AI CE1  C CR16 0  37.784 -4.355  1.469
+3AI CE2  C CR16 0  38.916 -6.436  1.175
+3AI N2   N NH1  0  37.680 -11.307 6.344
+3AI CA2  C CH1  0  38.989 -11.796 6.751
+3AI C2   C C    0  39.005 -13.328 6.805
+3AI O1   O O    0  38.352 -13.909 7.672
+3AI CB2  C CH3  0  39.376 -11.219 8.110
+3AI N3   N NH1  0  39.730 -13.971 5.876
+3AI CA3  C CH1  0  39.801 -15.424 5.792
+3AI C3   C C    0  40.669 -15.986 6.937
+3AI O2   O O    0  40.337 -17.090 7.413
+3AI CB3  C CH1  0  40.302 -15.869 4.392
+3AI CG2  C CH2  0  39.936 -17.326 4.084
+3AI CG3  C CH3  0  41.793 -15.614 4.198
+3AI CD3  C CH3  0  38.484 -17.541 3.714
+3AI OXT  O OC   -1 41.636 -15.295 7.321
+3AI HN1  H H    0  36.230 -9.177  5.595
+3AI HE   H H    0  35.974 -15.943 6.428
+3AI HEA  H H    0  34.481 -15.587 6.068
+3AI HEB  H H    0  35.363 -14.563 6.878
+3AI HA1  H H    0  35.707 -10.873 3.818
+3AI HB1  H H    0  33.987 -11.563 5.488
+3AI HB1A H H    0  35.183 -12.292 6.210
+3AI HG1  H H    0  33.785 -13.579 4.592
+3AI HG1A H H    0  34.690 -12.893 3.490
+3AI H    H H    0  34.261 -8.026  5.114
+3AI HA   H H    0  33.914 -9.242  4.167
+3AI HN   H H    0  34.893 -7.586  1.556
+3AI HNA  H H    0  34.170 -6.797  2.514
+3AI HAA  H H    0  36.021 -8.713  2.998
+3AI HB   H H    0  36.876 -7.210  4.611
+3AI HBA  H H    0  35.709 -6.193  4.280
+3AI HZ   H H    0  39.283 -4.724  0.157
+3AI HD1  H H    0  36.337 -4.400  2.890
+3AI HD2  H H    0  38.248 -7.913  2.396
+3AI HE1  H H    0  37.664 -3.449  1.234
+3AI HE2  H H    0  39.573 -6.956  0.740
+3AI HN2  H H    0  37.136 -10.998 6.955
+3AI HA2  H H    0  39.661 -11.496 6.091
+3AI HB2  H H    0  39.453 -10.253 8.043
+3AI HB2A H H    0  40.229 -11.592 8.391
+3AI HB2B H H    0  38.695 -11.444 8.765
+3AI HN3  H H    0  40.175 -13.499 5.292
+3AI HA3  H H    0  38.888 -15.776 5.910
+3AI HB3  H H    0  39.826 -15.307 3.732
+3AI HG2  H H    0  40.146 -17.879 4.865
+3AI HG2A H H    0  40.495 -17.638 3.340
+3AI HG3  H H    0  41.984 -15.514 3.249
+3AI HG3A H H    0  42.302 -16.364 4.550
+3AI HG3B H H    0  42.052 -14.800 4.664
+3AI HD3  H H    0  38.369 -18.440 3.360
+3AI HD3A H H    0  38.218 -16.893 3.039
+3AI HD3B H H    0  37.927 -17.433 4.504
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -100,75 +99,76 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-3AI           O          C1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-3AI          C1          N2      SINGLE       n     1.337  0.0100     1.337  0.0100
-3AI          C1         CA1      SINGLE       n     1.524  0.0100     1.524  0.0100
-3AI          N1         CA1      SINGLE       n     1.468  0.0128     1.468  0.0128
-3AI          N1           C      SINGLE       n     1.466  0.0145     1.466  0.0145
-3AI          C2          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-3AI          C2          N3      SINGLE       n     1.337  0.0100     1.337  0.0100
-3AI         CA2          C2      SINGLE       n     1.530  0.0100     1.530  0.0100
-3AI          N2         CA2      SINGLE       n     1.453  0.0100     1.453  0.0100
-3AI          C3          O2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-3AI         CA3          C3      SINGLE       n     1.539  0.0100     1.539  0.0100
-3AI          C3         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-3AI          N3         CA3      SINGLE       n     1.453  0.0100     1.453  0.0100
-3AI          SD          CE      SINGLE       n     1.792  0.0100     1.792  0.0100
-3AI          SD         CG1      SINGLE       n     1.811  0.0200     1.811  0.0200
-3AI         CA1         CB1      SINGLE       n     1.530  0.0137     1.530  0.0137
-3AI         CA2         CB2      SINGLE       n     1.525  0.0113     1.525  0.0113
-3AI         CA3         CB3      SINGLE       n     1.546  0.0100     1.546  0.0100
-3AI         CB1         CG1      SINGLE       n     1.517  0.0200     1.517  0.0200
-3AI         CB3         CG2      SINGLE       n     1.531  0.0100     1.531  0.0100
-3AI         CB3         CG3      SINGLE       n     1.521  0.0135     1.521  0.0135
-3AI         CG2         CD3      SINGLE       n     1.511  0.0200     1.511  0.0200
-3AI           C          CA      SINGLE       n     1.536  0.0157     1.536  0.0157
-3AI           N          CA      SINGLE       n     1.473  0.0130     1.473  0.0130
-3AI          CA          CB      SINGLE       n     1.535  0.0100     1.535  0.0100
-3AI          CB          CG      SINGLE       n     1.512  0.0103     1.512  0.0103
-3AI          CG         CD1      DOUBLE       y     1.385  0.0111     1.385  0.0111
-3AI          CG         CD2      SINGLE       y     1.385  0.0111     1.385  0.0111
-3AI          CZ         CE1      DOUBLE       y     1.376  0.0124     1.376  0.0124
-3AI          CZ         CE2      SINGLE       y     1.376  0.0124     1.376  0.0124
-3AI         CD1         CE1      SINGLE       y     1.386  0.0100     1.386  0.0100
-3AI         CD2         CE2      DOUBLE       y     1.386  0.0100     1.386  0.0100
-3AI          N1         HN1      SINGLE       n     1.036  0.0160     0.888  0.0200
-3AI          CE          HE      SINGLE       n     1.089  0.0100     0.965  0.0170
-3AI          CE         HEA      SINGLE       n     1.089  0.0100     0.965  0.0170
-3AI          CE         HEB      SINGLE       n     1.089  0.0100     0.965  0.0170
-3AI         CA1         HA1      SINGLE       n     1.089  0.0100     0.990  0.0200
-3AI         CB1         HB1      SINGLE       n     1.089  0.0100     0.978  0.0200
-3AI         CB1        HB1A      SINGLE       n     1.089  0.0100     0.978  0.0200
-3AI         CG1         HG1      SINGLE       n     1.089  0.0100     0.981  0.0122
-3AI         CG1        HG1A      SINGLE       n     1.089  0.0100     0.981  0.0122
-3AI           C           H      SINGLE       n     1.089  0.0100     0.980  0.0143
-3AI           C          HA      SINGLE       n     1.089  0.0100     0.980  0.0143
-3AI           N          HN      SINGLE       n     1.036  0.0160     0.888  0.0200
-3AI           N         HNA      SINGLE       n     1.036  0.0160     0.888  0.0200
-3AI          CA         HAA      SINGLE       n     1.089  0.0100     0.985  0.0149
-3AI          CB          HB      SINGLE       n     1.089  0.0100     0.981  0.0150
-3AI          CB         HBA      SINGLE       n     1.089  0.0100     0.981  0.0150
-3AI          CZ          HZ      SINGLE       n     1.082  0.0130     0.944  0.0161
-3AI         CD1         HD1      SINGLE       n     1.082  0.0130     0.944  0.0174
-3AI         CD2         HD2      SINGLE       n     1.082  0.0130     0.944  0.0174
-3AI         CE1         HE1      SINGLE       n     1.082  0.0130     0.944  0.0175
-3AI         CE2         HE2      SINGLE       n     1.082  0.0130     0.944  0.0175
-3AI          N2         HN2      SINGLE       n     1.016  0.0100     0.873  0.0200
-3AI         CA2         HA2      SINGLE       n     1.089  0.0100     0.989  0.0200
-3AI         CB2         HB2      SINGLE       n     1.089  0.0100     0.972  0.0152
-3AI         CB2        HB2A      SINGLE       n     1.089  0.0100     0.972  0.0152
-3AI         CB2        HB2B      SINGLE       n     1.089  0.0100     0.972  0.0152
-3AI          N3         HN3      SINGLE       n     1.016  0.0100     0.873  0.0200
-3AI         CA3         HA3      SINGLE       n     1.089  0.0100     0.986  0.0179
-3AI         CB3         HB3      SINGLE       n     1.089  0.0100     0.989  0.0175
-3AI         CG2         HG2      SINGLE       n     1.089  0.0100     0.981  0.0160
-3AI         CG2        HG2A      SINGLE       n     1.089  0.0100     0.981  0.0160
-3AI         CG3         HG3      SINGLE       n     1.089  0.0100     0.973  0.0146
-3AI         CG3        HG3A      SINGLE       n     1.089  0.0100     0.973  0.0146
-3AI         CG3        HG3B      SINGLE       n     1.089  0.0100     0.973  0.0146
-3AI         CD3         HD3      SINGLE       n     1.089  0.0100     0.973  0.0157
-3AI         CD3        HD3A      SINGLE       n     1.089  0.0100     0.973  0.0157
-3AI         CD3        HD3B      SINGLE       n     1.089  0.0100     0.973  0.0157
+3AI O   C1   DOUBLE n 1.229 0.0102 1.229 0.0102
+3AI C1  N2   SINGLE n 1.337 0.0100 1.337 0.0100
+3AI C1  CA1  SINGLE n 1.524 0.0100 1.524 0.0100
+3AI N1  CA1  SINGLE n 1.468 0.0128 1.468 0.0128
+3AI N1  C    SINGLE n 1.466 0.0145 1.466 0.0145
+3AI C2  O1   DOUBLE n 1.229 0.0102 1.229 0.0102
+3AI C2  N3   SINGLE n 1.337 0.0100 1.337 0.0100
+3AI CA2 C2   SINGLE n 1.530 0.0100 1.530 0.0100
+3AI N2  CA2  SINGLE n 1.453 0.0100 1.453 0.0100
+3AI C3  O2   DOUBLE n 1.247 0.0187 1.247 0.0187
+3AI CA3 C3   SINGLE n 1.539 0.0100 1.539 0.0100
+3AI C3  OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+3AI N3  CA3  SINGLE n 1.453 0.0100 1.453 0.0100
+3AI SD  CE   SINGLE n 1.792 0.0100 1.792 0.0100
+3AI SD  CG1  SINGLE n 1.811 0.0200 1.811 0.0200
+3AI CA1 CB1  SINGLE n 1.530 0.0137 1.530 0.0137
+3AI CA2 CB2  SINGLE n 1.525 0.0113 1.525 0.0113
+3AI CA3 CB3  SINGLE n 1.546 0.0100 1.546 0.0100
+3AI CB1 CG1  SINGLE n 1.517 0.0200 1.517 0.0200
+3AI CB3 CG2  SINGLE n 1.531 0.0100 1.531 0.0100
+3AI CB3 CG3  SINGLE n 1.521 0.0135 1.521 0.0135
+3AI CG2 CD3  SINGLE n 1.511 0.0200 1.511 0.0200
+3AI C   CA   SINGLE n 1.536 0.0157 1.536 0.0157
+3AI N   CA   SINGLE n 1.473 0.0130 1.473 0.0130
+3AI CA  CB   SINGLE n 1.535 0.0100 1.535 0.0100
+3AI CB  CG   SINGLE n 1.512 0.0103 1.512 0.0103
+3AI CG  CD1  DOUBLE y 1.385 0.0111 1.385 0.0111
+3AI CG  CD2  SINGLE y 1.385 0.0111 1.385 0.0111
+3AI CZ  CE1  DOUBLE y 1.376 0.0124 1.376 0.0124
+3AI CZ  CE2  SINGLE y 1.376 0.0124 1.376 0.0124
+3AI CD1 CE1  SINGLE y 1.386 0.0100 1.386 0.0100
+3AI CD2 CE2  DOUBLE y 1.386 0.0100 1.386 0.0100
+3AI N1  HN1  SINGLE n 1.036 0.0160 0.888 0.0200
+3AI CE  HE   SINGLE n 1.089 0.0100 0.965 0.0170
+3AI CE  HEA  SINGLE n 1.089 0.0100 0.965 0.0170
+3AI CE  HEB  SINGLE n 1.089 0.0100 0.965 0.0170
+3AI CA1 HA1  SINGLE n 1.089 0.0100 0.990 0.0200
+3AI CB1 HB1  SINGLE n 1.089 0.0100 0.978 0.0200
+3AI CB1 HB1A SINGLE n 1.089 0.0100 0.978 0.0200
+3AI CG1 HG1  SINGLE n 1.089 0.0100 0.981 0.0122
+3AI CG1 HG1A SINGLE n 1.089 0.0100 0.981 0.0122
+3AI C   H    SINGLE n 1.089 0.0100 0.980 0.0143
+3AI C   HA   SINGLE n 1.089 0.0100 0.980 0.0143
+3AI N   HN   SINGLE n 1.036 0.0160 0.888 0.0200
+3AI N   HNA  SINGLE n 1.036 0.0160 0.888 0.0200
+3AI CA  HAA  SINGLE n 1.089 0.0100 0.985 0.0149
+3AI CB  HB   SINGLE n 1.089 0.0100 0.981 0.0150
+3AI CB  HBA  SINGLE n 1.089 0.0100 0.981 0.0150
+3AI CZ  HZ   SINGLE n 1.082 0.0130 0.944 0.0161
+3AI CD1 HD1  SINGLE n 1.082 0.0130 0.944 0.0174
+3AI CD2 HD2  SINGLE n 1.082 0.0130 0.944 0.0174
+3AI CE1 HE1  SINGLE n 1.082 0.0130 0.944 0.0175
+3AI CE2 HE2  SINGLE n 1.082 0.0130 0.944 0.0175
+3AI N2  HN2  SINGLE n 1.016 0.0100 0.873 0.0200
+3AI CA2 HA2  SINGLE n 1.089 0.0100 0.989 0.0200
+3AI CB2 HB2  SINGLE n 1.089 0.0100 0.972 0.0152
+3AI CB2 HB2A SINGLE n 1.089 0.0100 0.972 0.0152
+3AI CB2 HB2B SINGLE n 1.089 0.0100 0.972 0.0152
+3AI N3  HN3  SINGLE n 1.016 0.0100 0.873 0.0200
+3AI CA3 HA3  SINGLE n 1.089 0.0100 0.986 0.0179
+3AI CB3 HB3  SINGLE n 1.089 0.0100 0.989 0.0175
+3AI CG2 HG2  SINGLE n 1.089 0.0100 0.981 0.0160
+3AI CG2 HG2A SINGLE n 1.089 0.0100 0.981 0.0160
+3AI CG3 HG3  SINGLE n 1.089 0.0100 0.973 0.0146
+3AI CG3 HG3A SINGLE n 1.089 0.0100 0.973 0.0146
+3AI CG3 HG3B SINGLE n 1.089 0.0100 0.973 0.0146
+3AI CD3 HD3  SINGLE n 1.089 0.0100 0.973 0.0157
+3AI CD3 HD3A SINGLE n 1.089 0.0100 0.973 0.0157
+3AI CD3 HD3B SINGLE n 1.089 0.0100 0.973 0.0157
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -176,130 +176,131 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-3AI           O          C1          N2     123.016    1.50
-3AI           O          C1         CA1     120.345    1.50
-3AI          N2          C1         CA1     116.639    1.50
-3AI         CA1          N1           C     112.615    2.70
-3AI         CA1          N1         HN1     106.958    3.00
-3AI           C          N1         HN1     108.280    3.00
-3AI          CE          SD         CG1     100.595    1.50
-3AI          SD          CE          HE     109.425    1.50
-3AI          SD          CE         HEA     109.425    1.50
-3AI          SD          CE         HEB     109.425    1.50
-3AI          HE          CE         HEA     109.509    1.50
-3AI          HE          CE         HEB     109.509    1.50
-3AI         HEA          CE         HEB     109.509    1.50
-3AI          C1         CA1          N1     112.148    1.50
-3AI          C1         CA1         CB1     110.281    1.60
-3AI          C1         CA1         HA1     107.852    1.50
-3AI          N1         CA1         CB1     109.731    2.61
-3AI          N1         CA1         HA1     108.712    1.50
-3AI         CB1         CA1         HA1     108.223    1.50
-3AI         CA1         CB1         CG1     113.307    1.50
-3AI         CA1         CB1         HB1     108.562    1.50
-3AI         CA1         CB1        HB1A     108.562    1.50
-3AI         CG1         CB1         HB1     108.955    1.50
-3AI         CG1         CB1        HB1A     108.955    1.50
-3AI         HB1         CB1        HB1A     107.698    1.50
-3AI          SD         CG1         CB1     112.576    2.44
-3AI          SD         CG1         HG1     108.861    1.50
-3AI          SD         CG1        HG1A     108.861    1.50
-3AI         CB1         CG1         HG1     109.206    1.50
-3AI         CB1         CG1        HG1A     109.206    1.50
-3AI         HG1         CG1        HG1A     107.939    1.50
-3AI          N1           C          CA     111.883    2.59
-3AI          N1           C           H     109.402    1.50
-3AI          N1           C          HA     109.402    1.50
-3AI          CA           C           H     109.041    1.50
-3AI          CA           C          HA     109.041    1.50
-3AI           H           C          HA     107.806    1.50
-3AI          CA           N          HN     109.715    3.00
-3AI          CA           N         HNA     109.715    3.00
-3AI          HN           N         HNA     107.559    3.00
-3AI           C          CA           N     111.883    2.59
-3AI           C          CA          CB     111.291    1.60
-3AI           C          CA         HAA     108.031    1.50
-3AI           N          CA          CB     111.883    2.59
-3AI           N          CA         HAA     107.944    1.55
-3AI          CB          CA         HAA     107.624    1.50
-3AI          CA          CB          CG     113.565    1.50
-3AI          CA          CB          HB     108.839    1.50
-3AI          CA          CB         HBA     108.839    1.50
-3AI          CG          CB          HB     108.862    1.50
-3AI          CG          CB         HBA     108.862    1.50
-3AI          HB          CB         HBA     107.782    1.50
-3AI          CB          CG         CD1     120.970    1.50
-3AI          CB          CG         CD2     120.970    1.50
-3AI         CD1          CG         CD2     118.060    1.50
-3AI         CE1          CZ         CE2     120.043    1.50
-3AI         CE1          CZ          HZ     119.979    1.50
-3AI         CE2          CZ          HZ     119.979    1.50
-3AI          CG         CD1         CE1     120.624    1.50
-3AI          CG         CD1         HD1     119.591    1.50
-3AI         CE1         CD1         HD1     119.786    1.50
-3AI          CG         CD2         CE2     120.624    1.50
-3AI          CG         CD2         HD2     119.591    1.50
-3AI         CE2         CD2         HD2     119.786    1.50
-3AI          CZ         CE1         CD1     120.325    1.50
-3AI          CZ         CE1         HE1     119.883    1.50
-3AI         CD1         CE1         HE1     119.792    1.50
-3AI          CZ         CE2         CD2     120.325    1.50
-3AI          CZ         CE2         HE2     119.883    1.50
-3AI         CD2         CE2         HE2     119.792    1.50
-3AI          C1          N2         CA2     121.107    1.62
-3AI          C1          N2         HN2     119.355    1.83
-3AI         CA2          N2         HN2     119.538    1.50
-3AI          C2         CA2          N2     111.862    2.48
-3AI          C2         CA2         CB2     110.119    1.50
-3AI          C2         CA2         HA2     107.902    1.50
-3AI          N2         CA2         CB2     110.370    1.50
-3AI          N2         CA2         HA2     108.310    1.50
-3AI         CB2         CA2         HA2     108.358    1.50
-3AI          O1          C2          N3     122.954    1.50
-3AI          O1          C2         CA2     120.365    1.50
-3AI          N3          C2         CA2     116.681    1.56
-3AI         CA2         CB2         HB2     109.620    1.50
-3AI         CA2         CB2        HB2A     109.620    1.50
-3AI         CA2         CB2        HB2B     109.620    1.50
-3AI         HB2         CB2        HB2A     109.386    1.50
-3AI         HB2         CB2        HB2B     109.386    1.50
-3AI        HB2A         CB2        HB2B     109.386    1.50
-3AI          C2          N3         CA3     122.071    1.50
-3AI          C2          N3         HN3     118.951    1.83
-3AI         CA3          N3         HN3     118.978    1.50
-3AI          C3         CA3          N3     110.094    1.50
-3AI          C3         CA3         CB3     111.316    1.50
-3AI          C3         CA3         HA3     108.240    1.50
-3AI          N3         CA3         CB3     110.952    1.58
-3AI          N3         CA3         HA3     108.062    1.50
-3AI         CB3         CA3         HA3     108.465    1.50
-3AI          O2          C3         CA3     117.195    1.50
-3AI          O2          C3         OXT     125.611    1.50
-3AI         CA3          C3         OXT     117.195    1.50
-3AI         CA3         CB3         CG2     111.426    1.50
-3AI         CA3         CB3         CG3     111.367    1.50
-3AI         CA3         CB3         HB3     107.181    1.50
-3AI         CG2         CB3         CG3     111.775    1.50
-3AI         CG2         CB3         HB3     107.402    1.50
-3AI         CG3         CB3         HB3     107.601    1.50
-3AI         CB3         CG2         CD3     113.965    1.50
-3AI         CB3         CG2         HG2     108.703    1.50
-3AI         CB3         CG2        HG2A     108.703    1.50
-3AI         CD3         CG2         HG2     108.717    1.50
-3AI         CD3         CG2        HG2A     108.717    1.50
-3AI         HG2         CG2        HG2A     107.862    1.50
-3AI         CB3         CG3         HG3     109.662    1.50
-3AI         CB3         CG3        HG3A     109.662    1.50
-3AI         CB3         CG3        HG3B     109.662    1.50
-3AI         HG3         CG3        HG3A     109.411    1.50
-3AI         HG3         CG3        HG3B     109.411    1.50
-3AI        HG3A         CG3        HG3B     109.411    1.50
-3AI         CG2         CD3         HD3     109.566    1.50
-3AI         CG2         CD3        HD3A     109.566    1.50
-3AI         CG2         CD3        HD3B     109.566    1.50
-3AI         HD3         CD3        HD3A     109.380    1.50
-3AI         HD3         CD3        HD3B     109.380    1.50
-3AI        HD3A         CD3        HD3B     109.380    1.50
+3AI O    C1  N2   123.016 1.50
+3AI O    C1  CA1  120.345 1.50
+3AI N2   C1  CA1  116.639 1.50
+3AI CA1  N1  C    112.615 2.70
+3AI CA1  N1  HN1  106.958 3.00
+3AI C    N1  HN1  108.280 3.00
+3AI CE   SD  CG1  100.595 1.50
+3AI SD   CE  HE   109.425 1.50
+3AI SD   CE  HEA  109.425 1.50
+3AI SD   CE  HEB  109.425 1.50
+3AI HE   CE  HEA  109.509 1.50
+3AI HE   CE  HEB  109.509 1.50
+3AI HEA  CE  HEB  109.509 1.50
+3AI C1   CA1 N1   112.148 1.50
+3AI C1   CA1 CB1  110.281 1.60
+3AI C1   CA1 HA1  107.852 1.50
+3AI N1   CA1 CB1  109.731 2.61
+3AI N1   CA1 HA1  108.712 1.50
+3AI CB1  CA1 HA1  108.223 1.50
+3AI CA1  CB1 CG1  113.307 1.50
+3AI CA1  CB1 HB1  108.562 1.50
+3AI CA1  CB1 HB1A 108.562 1.50
+3AI CG1  CB1 HB1  108.955 1.50
+3AI CG1  CB1 HB1A 108.955 1.50
+3AI HB1  CB1 HB1A 107.698 1.50
+3AI SD   CG1 CB1  112.576 2.44
+3AI SD   CG1 HG1  108.861 1.50
+3AI SD   CG1 HG1A 108.861 1.50
+3AI CB1  CG1 HG1  109.206 1.50
+3AI CB1  CG1 HG1A 109.206 1.50
+3AI HG1  CG1 HG1A 107.939 1.50
+3AI N1   C   CA   111.883 2.59
+3AI N1   C   H    109.402 1.50
+3AI N1   C   HA   109.402 1.50
+3AI CA   C   H    109.041 1.50
+3AI CA   C   HA   109.041 1.50
+3AI H    C   HA   107.806 1.50
+3AI CA   N   HN   109.715 3.00
+3AI CA   N   HNA  109.715 3.00
+3AI HN   N   HNA  107.559 3.00
+3AI C    CA  N    111.883 2.59
+3AI C    CA  CB   111.291 1.60
+3AI C    CA  HAA  108.031 1.50
+3AI N    CA  CB   111.883 2.59
+3AI N    CA  HAA  107.944 1.55
+3AI CB   CA  HAA  107.624 1.50
+3AI CA   CB  CG   113.565 1.50
+3AI CA   CB  HB   108.839 1.50
+3AI CA   CB  HBA  108.839 1.50
+3AI CG   CB  HB   108.862 1.50
+3AI CG   CB  HBA  108.862 1.50
+3AI HB   CB  HBA  107.782 1.50
+3AI CB   CG  CD1  120.970 1.50
+3AI CB   CG  CD2  120.970 1.50
+3AI CD1  CG  CD2  118.060 1.50
+3AI CE1  CZ  CE2  120.043 1.50
+3AI CE1  CZ  HZ   119.979 1.50
+3AI CE2  CZ  HZ   119.979 1.50
+3AI CG   CD1 CE1  120.624 1.50
+3AI CG   CD1 HD1  119.591 1.50
+3AI CE1  CD1 HD1  119.786 1.50
+3AI CG   CD2 CE2  120.624 1.50
+3AI CG   CD2 HD2  119.591 1.50
+3AI CE2  CD2 HD2  119.786 1.50
+3AI CZ   CE1 CD1  120.325 1.50
+3AI CZ   CE1 HE1  119.883 1.50
+3AI CD1  CE1 HE1  119.792 1.50
+3AI CZ   CE2 CD2  120.325 1.50
+3AI CZ   CE2 HE2  119.883 1.50
+3AI CD2  CE2 HE2  119.792 1.50
+3AI C1   N2  CA2  121.107 1.62
+3AI C1   N2  HN2  119.355 1.83
+3AI CA2  N2  HN2  119.538 1.50
+3AI C2   CA2 N2   111.862 2.48
+3AI C2   CA2 CB2  110.119 1.50
+3AI C2   CA2 HA2  107.902 1.50
+3AI N2   CA2 CB2  110.370 1.50
+3AI N2   CA2 HA2  108.310 1.50
+3AI CB2  CA2 HA2  108.358 1.50
+3AI O1   C2  N3   122.954 1.50
+3AI O1   C2  CA2  120.365 1.50
+3AI N3   C2  CA2  116.681 1.56
+3AI CA2  CB2 HB2  109.620 1.50
+3AI CA2  CB2 HB2A 109.620 1.50
+3AI CA2  CB2 HB2B 109.620 1.50
+3AI HB2  CB2 HB2A 109.386 1.50
+3AI HB2  CB2 HB2B 109.386 1.50
+3AI HB2A CB2 HB2B 109.386 1.50
+3AI C2   N3  CA3  122.071 1.50
+3AI C2   N3  HN3  118.951 1.83
+3AI CA3  N3  HN3  118.978 1.50
+3AI C3   CA3 N3   110.094 1.50
+3AI C3   CA3 CB3  111.316 1.50
+3AI C3   CA3 HA3  108.240 1.50
+3AI N3   CA3 CB3  110.952 1.58
+3AI N3   CA3 HA3  108.062 1.50
+3AI CB3  CA3 HA3  108.465 1.50
+3AI O2   C3  CA3  117.195 1.50
+3AI O2   C3  OXT  125.611 1.50
+3AI CA3  C3  OXT  117.195 1.50
+3AI CA3  CB3 CG2  111.426 1.50
+3AI CA3  CB3 CG3  111.367 1.50
+3AI CA3  CB3 HB3  107.181 1.50
+3AI CG2  CB3 CG3  111.775 1.50
+3AI CG2  CB3 HB3  107.402 1.50
+3AI CG3  CB3 HB3  107.601 1.50
+3AI CB3  CG2 CD3  113.965 1.50
+3AI CB3  CG2 HG2  108.703 1.50
+3AI CB3  CG2 HG2A 108.703 1.50
+3AI CD3  CG2 HG2  108.717 1.50
+3AI CD3  CG2 HG2A 108.717 1.50
+3AI HG2  CG2 HG2A 107.862 1.50
+3AI CB3  CG3 HG3  109.662 1.50
+3AI CB3  CG3 HG3A 109.662 1.50
+3AI CB3  CG3 HG3B 109.662 1.50
+3AI HG3  CG3 HG3A 109.411 1.50
+3AI HG3  CG3 HG3B 109.411 1.50
+3AI HG3A CG3 HG3B 109.411 1.50
+3AI CG2  CD3 HD3  109.566 1.50
+3AI CG2  CD3 HD3A 109.566 1.50
+3AI CG2  CD3 HD3B 109.566 1.50
+3AI HD3  CD3 HD3A 109.380 1.50
+3AI HD3  CD3 HD3B 109.380 1.50
+3AI HD3A CD3 HD3B 109.380 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -310,34 +311,35 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-3AI            sp3_sp3_97           C          CA          CB          CG     180.000    10.0     3
-3AI            sp2_sp3_32         CD1          CG          CB          CA     -90.000    10.0     6
-3AI       const_sp2_sp2_2         CE1         CD1          CG          CB     180.000     5.0     2
-3AI              const_22         CE2         CD2          CG          CB     180.000    10.0     2
-3AI       const_sp2_sp2_9         CD1         CE1          CZ         CE2       0.000     5.0     2
-3AI              const_13         CD2         CE2          CZ         CE1       0.000    10.0     2
-3AI       const_sp2_sp2_5          CG         CD1         CE1          CZ       0.000     5.0     2
-3AI              const_17          CG         CD2         CE2          CZ       0.000    10.0     2
-3AI            sp2_sp3_13          C1          N2         CA2          C2       0.000    10.0     6
-3AI             sp2_sp3_7          O1          C2         CA2          N2       0.000    10.0     6
-3AI            sp3_sp3_28          C2         CA2         CB2         HB2     180.000    10.0     3
-3AI             sp2_sp2_3           O          C1          N2         CA2       0.000     5.0     2
-3AI             sp2_sp3_1           O          C1         CA1          N1       0.000    10.0     6
-3AI             sp2_sp2_7          O1          C2          N3         CA3       0.000     5.0     2
-3AI            sp2_sp3_25          C2          N3         CA3          C3       0.000    10.0     6
-3AI            sp2_sp3_19          O2          C3         CA3          N3       0.000    10.0     6
-3AI            sp3_sp3_37          C3         CA3         CB3         CG2     180.000    10.0     3
-3AI            sp3_sp3_55         CA3         CB3         CG2         CD3     180.000    10.0     3
-3AI            sp3_sp3_64         CA3         CB3         CG3         HG3     180.000    10.0     3
-3AI            sp3_sp3_73         HD3         CD3         CG2         CB3     180.000    10.0     3
-3AI             sp3_sp3_2          C1         CA1          N1           C     -60.000    10.0     3
-3AI             sp3_sp3_7          CA           C          N1         CA1     180.000    10.0     3
-3AI            sp3_sp3_13          HE          CE          SD         CG1     180.000    10.0     3
-3AI            sp3_sp3_16         CB1         CG1          SD          CE     180.000    10.0     3
-3AI            sp3_sp3_19          C1         CA1         CB1         CG1     180.000    10.0     3
-3AI            sp3_sp3_46         CA1         CB1         CG1          SD     180.000    10.0     3
-3AI            sp3_sp3_82          N1           C          CA           N     180.000    10.0     3
-3AI            sp3_sp3_91           C          CA           N          HN     180.000    10.0     3
+3AI sp3_sp3_97      C   CA  CB  CG  180.000 10.0 3
+3AI sp2_sp3_32      CD1 CG  CB  CA  -90.000 10.0 6
+3AI const_sp2_sp2_2 CE1 CD1 CG  CB  180.000 5.0  2
+3AI const_22        CE2 CD2 CG  CB  180.000 10.0 2
+3AI const_sp2_sp2_9 CD1 CE1 CZ  CE2 0.000   5.0  2
+3AI const_13        CD2 CE2 CZ  CE1 0.000   10.0 2
+3AI const_sp2_sp2_5 CG  CD1 CE1 CZ  0.000   5.0  2
+3AI const_17        CG  CD2 CE2 CZ  0.000   10.0 2
+3AI sp2_sp3_13      C1  N2  CA2 C2  0.000   10.0 6
+3AI sp2_sp3_7       O1  C2  CA2 N2  0.000   10.0 6
+3AI sp3_sp3_28      C2  CA2 CB2 HB2 180.000 10.0 3
+3AI sp2_sp2_3       O   C1  N2  CA2 0.000   5.0  2
+3AI sp2_sp3_1       O   C1  CA1 N1  0.000   10.0 6
+3AI sp2_sp2_7       O1  C2  N3  CA3 0.000   5.0  2
+3AI sp2_sp3_25      C2  N3  CA3 C3  0.000   10.0 6
+3AI sp2_sp3_19      O2  C3  CA3 N3  0.000   10.0 6
+3AI sp3_sp3_37      C3  CA3 CB3 CG2 180.000 10.0 3
+3AI sp3_sp3_55      CA3 CB3 CG2 CD3 180.000 10.0 3
+3AI sp3_sp3_64      CA3 CB3 CG3 HG3 180.000 10.0 3
+3AI sp3_sp3_73      HD3 CD3 CG2 CB3 180.000 10.0 3
+3AI sp3_sp3_2       C1  CA1 N1  C   -60.000 10.0 3
+3AI sp3_sp3_7       CA  C   N1  CA1 180.000 10.0 3
+3AI sp3_sp3_13      HE  CE  SD  CG1 180.000 10.0 3
+3AI sp3_sp3_16      CB1 CG1 SD  CE  180.000 10.0 3
+3AI sp3_sp3_19      C1  CA1 CB1 CG1 180.000 10.0 3
+3AI sp3_sp3_46      CA1 CB1 CG1 SD  180.000 10.0 3
+3AI sp3_sp3_82      N1  C   CA  N   180.000 10.0 3
+3AI sp3_sp3_91      C   CA  N   HN  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -346,68 +348,83 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-3AI    chir_1    CA1    N1    C1    CB1    negative
-3AI    chir_2    CA    N    C    CB    positive
-3AI    chir_3    CA2    N2    C2    CB2    positive
-3AI    chir_4    CA3    N3    C3    CB3    positive
-3AI    chir_5    CB3    CA3    CG2    CG3    positive
-3AI    chir_6    N1    CA1    C    HN1    both
+3AI chir_1 CA1 N1  C1  CB1 negative
+3AI chir_2 CA  N   C   CB  positive
+3AI chir_3 CA2 N2  C2  CB2 positive
+3AI chir_4 CA3 N3  C3  CB3 positive
+3AI chir_5 CB3 CA3 CG2 CG3 positive
+3AI chir_6 N1  CA1 C   HN1 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-3AI    plan-1          CB   0.020
-3AI    plan-1         CD1   0.020
-3AI    plan-1         CD2   0.020
-3AI    plan-1         CE1   0.020
-3AI    plan-1         CE2   0.020
-3AI    plan-1          CG   0.020
-3AI    plan-1          CZ   0.020
-3AI    plan-1         HD1   0.020
-3AI    plan-1         HD2   0.020
-3AI    plan-1         HE1   0.020
-3AI    plan-1         HE2   0.020
-3AI    plan-1          HZ   0.020
-3AI    plan-2          C1   0.020
-3AI    plan-2         CA1   0.020
-3AI    plan-2          N2   0.020
-3AI    plan-2           O   0.020
-3AI    plan-3          C1   0.020
-3AI    plan-3         CA2   0.020
-3AI    plan-3         HN2   0.020
-3AI    plan-3          N2   0.020
-3AI    plan-4          C2   0.020
-3AI    plan-4         CA2   0.020
-3AI    plan-4          N3   0.020
-3AI    plan-4          O1   0.020
-3AI    plan-5          C2   0.020
-3AI    plan-5         CA3   0.020
-3AI    plan-5         HN3   0.020
-3AI    plan-5          N3   0.020
-3AI    plan-6          C3   0.020
-3AI    plan-6         CA3   0.020
-3AI    plan-6          O2   0.020
-3AI    plan-6         OXT   0.020
+3AI plan-1 CB  0.020
+3AI plan-1 CD1 0.020
+3AI plan-1 CD2 0.020
+3AI plan-1 CE1 0.020
+3AI plan-1 CE2 0.020
+3AI plan-1 CG  0.020
+3AI plan-1 CZ  0.020
+3AI plan-1 HD1 0.020
+3AI plan-1 HD2 0.020
+3AI plan-1 HE1 0.020
+3AI plan-1 HE2 0.020
+3AI plan-1 HZ  0.020
+3AI plan-2 C1  0.020
+3AI plan-2 CA1 0.020
+3AI plan-2 N2  0.020
+3AI plan-2 O   0.020
+3AI plan-3 C1  0.020
+3AI plan-3 CA2 0.020
+3AI plan-3 HN2 0.020
+3AI plan-3 N2  0.020
+3AI plan-4 C2  0.020
+3AI plan-4 CA2 0.020
+3AI plan-4 N3  0.020
+3AI plan-4 O1  0.020
+3AI plan-5 C2  0.020
+3AI plan-5 CA3 0.020
+3AI plan-5 HN3 0.020
+3AI plan-5 N3  0.020
+3AI plan-6 C3  0.020
+3AI plan-6 CA3 0.020
+3AI plan-6 O2  0.020
+3AI plan-6 OXT 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-3AI           SMILES              ACDLabs 12.01                                                                                                                                                           O=C(O)C(NC(=O)C(NC(=O)C(NCC(N)Cc1ccccc1)CCSC)C)C(C)CC
-3AI SMILES_CANONICAL               CACTVS 3.370                                                                                                                                     CC[C@H](C)[C@H](NC(=O)[C@H](C)NC(=O)[C@@H](CCSC)NC[C@@H](N)Cc1ccccc1)C(O)=O
-3AI           SMILES               CACTVS 3.370                                                                                                                                            CC[CH](C)[CH](NC(=O)[CH](C)NC(=O)[CH](CCSC)NC[CH](N)Cc1ccccc1)C(O)=O
-3AI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                                     CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@H](C)NC(=O)[C@@H](CCSC)NC[C@H](Cc1ccccc1)N
-3AI           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                                           CCC(C)C(C(=O)O)NC(=O)C(C)NC(=O)C(CCSC)NCC(Cc1ccccc1)N
-3AI            InChI                InChI  1.03 InChI=1S/C23H38N4O4S/c1-5-15(2)20(23(30)31)27-21(28)16(3)26-22(29)19(11-12-32-4)25-14-18(24)13-17-9-7-6-8-10-17/h6-10,15-16,18-20,25H,5,11-14,24H2,1-4H3,(H,26,29)(H,27,28)(H,30,31)/t15-,16-,18-,19+,20-/m0/s1
-3AI         InChIKey                InChI  1.03                                                                                                                                                                                     WTDYTUSSFIIXMV-HNULKUCHSA-N
+3AI SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)C(NC(=O)C(NCC(N)Cc1ccccc1)CCSC)C)C(C)CC
+3AI SMILES_CANONICAL CACTVS               3.370 CC[C@H](C)[C@H](NC(=O)[C@H](C)NC(=O)[C@@H](CCSC)NC[C@@H](N)Cc1ccccc1)C(O)=O
+3AI SMILES           CACTVS               3.370 CC[CH](C)[CH](NC(=O)[CH](C)NC(=O)[CH](CCSC)NC[CH](N)Cc1ccccc1)C(O)=O
+3AI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@H](C)NC(=O)[C@@H](CCSC)NC[C@H](Cc1ccccc1)N
+3AI SMILES           "OpenEye OEToolkits" 1.7.0 CCC(C)C(C(=O)O)NC(=O)C(C)NC(=O)C(CCSC)NCC(Cc1ccccc1)N
+3AI InChI            InChI                1.03  InChI=1S/C23H38N4O4S/c1-5-15(2)20(23(30)31)27-21(28)16(3)26-22(29)19(11-12-32-4)25-14-18(24)13-17-9-7-6-8-10-17/h6-10,15-16,18-20,25H,5,11-14,24H2,1-4H3,(H,26,29)(H,27,28)(H,30,31)/t15-,16-,18-,19+,20-/m0/s1
+3AI InChIKey         InChI                1.03  WTDYTUSSFIIXMV-HNULKUCHSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-3AI acedrg               243         "dictionary generator"                  
-3AI acedrg_database      11          "data source"                           
-3AI rdkit                2017.03.2   "Chemoinformatics tool"
-3AI refmac5              5.8.0238    "optimization tool"                     
+3AI acedrg          243       "dictionary generator"
+3AI acedrg_database 11        "data source"
+3AI rdkit           2017.03.2 "Chemoinformatics tool"
+3AI refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+3AI M-peptide O2  O
+3AI M-peptide C3  C
+3AI M-peptide CA3 CA
+3AI M-peptide N3  N
+3AI M-peptide C2  CN
+3AI M-peptide HN3 H

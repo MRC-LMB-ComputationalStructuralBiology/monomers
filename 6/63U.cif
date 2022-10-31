@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-63U     63U      "(2S)-2-[(1R)-1-{[(2R)-2-amino-2-phenylacetyl]amino}-2-oxoethyl]-5-methyl-3,6-dihydro-2H-1,3-thiazine-4-carboxylic acid"     NON-POLYMER     43     24     .     
-#
+63U 63U "(2S)-2-[(1R)-1-{[(2R)-2-amino-2-phenylacetyl]amino}-2-oxoethyl]-5-methyl-3,6-dihydro-2H-1,3-thiazine-4-carboxylic acid" NON-POLYMER 43 24 .
+
 data_comp_63U
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,49 +19,50 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-63U     OAI     O       O       0       -35.309     16.633      -64.361     
-63U     CAH     C       C       0       -35.025     16.832      -63.194     
-63U     OAJ     O       OC      -1      -34.005     17.328      -62.752     
-63U     CAD     C       CR6     0       -36.069     16.411      -62.166     
-63U     NAC     N       NR6     0       -36.188     15.041      -61.947     
-63U     CAE     C       CR6     0       -36.832     17.321      -61.516     
-63U     CAG     C       CH3     0       -36.675     18.801      -61.722     
-63U     CAF     C       CH2     0       -37.903     16.940      -60.534     
-63U     SAA     S       S2      0       -38.635     15.325      -60.861     
-63U     CB      C       CH1     0       -37.075     14.402      -60.968     
-63U     CA      C       CH1     0       -37.366     12.934      -61.329     
-63U     C       C       C1      0       -36.111     12.049      -61.228     
-63U     O       O       O       0       -35.542     11.931      -60.189     
-63U     N       N       NH1     0       -38.416     12.394      -60.475     
-63U     CAO     C       C       0       -39.533     11.811      -60.924     
-63U     OAR     O       O       0       -39.738     11.551      -62.106     
-63U     CAP     C       CH1     0       -40.605     11.531      -59.872     
-63U     NAS     N       NT3     1       -41.659     10.627      -60.410     
-63U     CAQ     C       CR6     0       -41.182     12.843      -59.371     
-63U     CAT     C       CR16    0       -41.026     13.232      -58.045     
-63U     CAU     C       CR16    0       -41.553     14.435      -57.592     
-63U     CAV     C       CR16    0       -42.240     15.262      -58.458     
-63U     CAW     C       CR16    0       -42.401     14.890      -59.776     
-63U     CAX     C       CR16    0       -41.875     13.687      -60.231     
-63U     H3      H       H       0       -35.695     14.500      -62.436     
-63U     H6      H       H       0       -37.264     19.289      -61.127     
-63U     H7      H       H       0       -36.893     19.025      -62.640     
-63U     H8      H       H       0       -35.759     19.059      -61.539     
-63U     H9      H       H       0       -38.611     17.613      -60.557     
-63U     H10     H       H       0       -37.517     16.939      -59.637     
-63U     H11     H       H       0       -36.640     14.414      -60.079     
-63U     H12     H       H       0       -37.675     12.901      -62.267     
-63U     H13     H       H       0       -35.794     11.599      -61.999     
-63U     H14     H       H       0       -38.302     12.451      -59.610     
-63U     H15     H       H       0       -40.174     11.075      -59.125     
-63U     H16     H       H       0       -42.326     10.522      -59.787     
-63U     H17     H       H       0       -41.294     9.807       -60.600     
-63U     H18     H       H       0       -42.015     10.983      -61.178     
-63U     H19     H       H       0       -40.557     12.673      -57.446     
-63U     H20     H       H       0       -41.441     14.687      -56.689     
-63U     H21     H       H       0       -42.598     16.079      -58.149     
-63U     H22     H       H       0       -42.871     15.453      -60.371     
-63U     H23     H       H       0       -41.990     13.440      -61.135     
+63U OAI O O    0  -35.309 16.633 -64.361
+63U CAH C C    0  -35.025 16.832 -63.194
+63U OAJ O OC   -1 -34.005 17.328 -62.752
+63U CAD C CR6  0  -36.069 16.411 -62.166
+63U NAC N NR6  0  -36.188 15.041 -61.947
+63U CAE C CR6  0  -36.832 17.321 -61.516
+63U CAG C CH3  0  -36.675 18.801 -61.722
+63U CAF C CH2  0  -37.903 16.940 -60.534
+63U SAA S S2   0  -38.635 15.325 -60.861
+63U CB  C CH1  0  -37.075 14.402 -60.968
+63U CA  C CH1  0  -37.366 12.934 -61.329
+63U C   C C1   0  -36.111 12.049 -61.228
+63U O   O O    0  -35.542 11.931 -60.189
+63U N   N NH1  0  -38.416 12.394 -60.475
+63U CAO C C    0  -39.533 11.811 -60.924
+63U OAR O O    0  -39.738 11.551 -62.106
+63U CAP C CH1  0  -40.605 11.531 -59.872
+63U NAS N NT3  1  -41.659 10.627 -60.410
+63U CAQ C CR6  0  -41.182 12.843 -59.371
+63U CAT C CR16 0  -41.026 13.232 -58.045
+63U CAU C CR16 0  -41.553 14.435 -57.592
+63U CAV C CR16 0  -42.240 15.262 -58.458
+63U CAW C CR16 0  -42.401 14.890 -59.776
+63U CAX C CR16 0  -41.875 13.687 -60.231
+63U H3  H H    0  -35.695 14.500 -62.436
+63U H6  H H    0  -37.264 19.289 -61.127
+63U H7  H H    0  -36.893 19.025 -62.640
+63U H8  H H    0  -35.759 19.059 -61.539
+63U H9  H H    0  -38.611 17.613 -60.557
+63U H10 H H    0  -37.517 16.939 -59.637
+63U H11 H H    0  -36.640 14.414 -60.079
+63U H12 H H    0  -37.675 12.901 -62.267
+63U H13 H H    0  -35.794 11.599 -61.999
+63U H14 H H    0  -38.302 12.451 -59.610
+63U H15 H H    0  -40.174 11.075 -59.125
+63U H16 H H    0  -42.326 10.522 -59.787
+63U H17 H H    0  -41.294 9.807  -60.600
+63U H18 H H    0  -42.015 10.983 -61.178
+63U H19 H H    0  -40.557 12.673 -57.446
+63U H20 H H    0  -41.441 14.687 -56.689
+63U H21 H H    0  -42.598 16.079 -58.149
+63U H22 H H    0  -42.871 15.453 -60.371
+63U H23 H H    0  -41.990 13.440 -61.135
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -74,50 +73,51 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-63U         SAA          CB      SINGLE       n     1.816  0.0145     1.816  0.0145
-63U         CAF         SAA      SINGLE       n     1.804  0.0100     1.804  0.0100
-63U         OAI         CAH      DOUBLE       n     1.217  0.0200     1.217  0.0200
-63U         NAC          CB      SINGLE       n     1.462  0.0118     1.462  0.0118
-63U         CAD         NAC      SINGLE       n     1.370  0.0200     1.370  0.0200
-63U          CB          CA      SINGLE       n     1.528  0.0200     1.528  0.0200
-63U         CAH         CAD      SINGLE       n     1.523  0.0100     1.523  0.0100
-63U         CAH         OAJ      SINGLE       n     1.217  0.0200     1.217  0.0200
-63U         CAD         CAE      DOUBLE       n     1.346  0.0100     1.346  0.0100
-63U         CAE         CAF      SINGLE       n     1.497  0.0100     1.497  0.0100
-63U          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-63U          CA           N      SINGLE       n     1.454  0.0100     1.454  0.0100
-63U         CAO         OAR      DOUBLE       n     1.226  0.0100     1.226  0.0100
-63U           C           O      DOUBLE       n     1.191  0.0200     1.191  0.0200
-63U         CAE         CAG      SINGLE       n     1.499  0.0100     1.499  0.0100
-63U           N         CAO      SINGLE       n     1.332  0.0101     1.332  0.0101
-63U         CAO         CAP      SINGLE       n     1.525  0.0100     1.525  0.0100
-63U         CAW         CAX      DOUBLE       y     1.386  0.0100     1.386  0.0100
-63U         CAQ         CAX      SINGLE       y     1.386  0.0100     1.386  0.0100
-63U         CAV         CAW      SINGLE       y     1.374  0.0127     1.374  0.0127
-63U         CAP         CAQ      SINGLE       n     1.516  0.0100     1.516  0.0100
-63U         CAP         NAS      SINGLE       n     1.487  0.0147     1.487  0.0147
-63U         CAQ         CAT      DOUBLE       y     1.386  0.0100     1.386  0.0100
-63U         CAU         CAV      DOUBLE       y     1.376  0.0124     1.376  0.0124
-63U         CAT         CAU      SINGLE       y     1.386  0.0100     1.386  0.0100
-63U         NAC          H3      SINGLE       n     1.016  0.0100     0.880  0.0200
-63U         CAG          H6      SINGLE       n     1.089  0.0100     0.969  0.0158
-63U         CAG          H7      SINGLE       n     1.089  0.0100     0.969  0.0158
-63U         CAG          H8      SINGLE       n     1.089  0.0100     0.969  0.0158
-63U         CAF          H9      SINGLE       n     1.089  0.0100     0.977  0.0141
-63U         CAF         H10      SINGLE       n     1.089  0.0100     0.977  0.0141
-63U          CB         H11      SINGLE       n     1.089  0.0100     0.990  0.0200
-63U          CA         H12      SINGLE       n     1.089  0.0100     0.989  0.0198
-63U           C         H13      SINGLE       n     1.082  0.0130     0.947  0.0200
-63U           N         H14      SINGLE       n     1.016  0.0100     0.873  0.0200
-63U         CAP         H15      SINGLE       n     1.089  0.0100     0.975  0.0186
-63U         NAS         H16      SINGLE       n     1.036  0.0160     0.918  0.0200
-63U         NAS         H17      SINGLE       n     1.036  0.0160     0.918  0.0200
-63U         NAS         H18      SINGLE       n     1.036  0.0160     0.918  0.0200
-63U         CAT         H19      SINGLE       n     1.082  0.0130     0.944  0.0174
-63U         CAU         H20      SINGLE       n     1.082  0.0130     0.944  0.0175
-63U         CAV         H21      SINGLE       n     1.082  0.0130     0.944  0.0161
-63U         CAW         H22      SINGLE       n     1.082  0.0130     0.944  0.0175
-63U         CAX         H23      SINGLE       n     1.082  0.0130     0.944  0.0174
+63U SAA CB  SINGLE n 1.816 0.0145 1.816 0.0145
+63U CAF SAA SINGLE n 1.804 0.0100 1.804 0.0100
+63U OAI CAH DOUBLE n 1.217 0.0200 1.217 0.0200
+63U NAC CB  SINGLE n 1.462 0.0118 1.462 0.0118
+63U CAD NAC SINGLE n 1.370 0.0200 1.370 0.0200
+63U CB  CA  SINGLE n 1.528 0.0200 1.528 0.0200
+63U CAH CAD SINGLE n 1.523 0.0100 1.523 0.0100
+63U CAH OAJ SINGLE n 1.217 0.0200 1.217 0.0200
+63U CAD CAE DOUBLE n 1.346 0.0100 1.346 0.0100
+63U CAE CAF SINGLE n 1.497 0.0100 1.497 0.0100
+63U CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+63U CA  N   SINGLE n 1.454 0.0100 1.454 0.0100
+63U CAO OAR DOUBLE n 1.226 0.0100 1.226 0.0100
+63U C   O   DOUBLE n 1.191 0.0200 1.191 0.0200
+63U CAE CAG SINGLE n 1.499 0.0100 1.499 0.0100
+63U N   CAO SINGLE n 1.332 0.0101 1.332 0.0101
+63U CAO CAP SINGLE n 1.525 0.0100 1.525 0.0100
+63U CAW CAX DOUBLE y 1.386 0.0100 1.386 0.0100
+63U CAQ CAX SINGLE y 1.386 0.0100 1.386 0.0100
+63U CAV CAW SINGLE y 1.374 0.0127 1.374 0.0127
+63U CAP CAQ SINGLE n 1.516 0.0100 1.516 0.0100
+63U CAP NAS SINGLE n 1.487 0.0147 1.487 0.0147
+63U CAQ CAT DOUBLE y 1.386 0.0100 1.386 0.0100
+63U CAU CAV DOUBLE y 1.376 0.0124 1.376 0.0124
+63U CAT CAU SINGLE y 1.386 0.0100 1.386 0.0100
+63U NAC H3  SINGLE n 1.016 0.0100 0.880 0.0200
+63U CAG H6  SINGLE n 1.089 0.0100 0.969 0.0158
+63U CAG H7  SINGLE n 1.089 0.0100 0.969 0.0158
+63U CAG H8  SINGLE n 1.089 0.0100 0.969 0.0158
+63U CAF H9  SINGLE n 1.089 0.0100 0.977 0.0141
+63U CAF H10 SINGLE n 1.089 0.0100 0.977 0.0141
+63U CB  H11 SINGLE n 1.089 0.0100 0.990 0.0200
+63U CA  H12 SINGLE n 1.089 0.0100 0.989 0.0198
+63U C   H13 SINGLE n 1.082 0.0130 0.947 0.0200
+63U N   H14 SINGLE n 1.016 0.0100 0.873 0.0200
+63U CAP H15 SINGLE n 1.089 0.0100 0.975 0.0186
+63U NAS H16 SINGLE n 1.036 0.0160 0.918 0.0200
+63U NAS H17 SINGLE n 1.036 0.0160 0.918 0.0200
+63U NAS H18 SINGLE n 1.036 0.0160 0.918 0.0200
+63U CAT H19 SINGLE n 1.082 0.0130 0.944 0.0174
+63U CAU H20 SINGLE n 1.082 0.0130 0.944 0.0175
+63U CAV H21 SINGLE n 1.082 0.0130 0.944 0.0161
+63U CAW H22 SINGLE n 1.082 0.0130 0.944 0.0175
+63U CAX H23 SINGLE n 1.082 0.0130 0.944 0.0174
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -125,82 +125,83 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-63U         OAI         CAH         CAD     116.187    1.68
-63U         OAI         CAH         OAJ     127.626    1.50
-63U         CAD         CAH         OAJ     116.187    1.68
-63U         NAC         CAD         CAH     118.922    3.00
-63U         NAC         CAD         CAE     120.071    1.66
-63U         CAH         CAD         CAE     121.007    2.59
-63U          CB         NAC         CAD     122.646    2.69
-63U          CB         NAC          H3     118.395    2.75
-63U         CAD         NAC          H3     118.959    1.50
-63U         CAD         CAE         CAF     120.531    3.00
-63U         CAD         CAE         CAG     123.826    2.21
-63U         CAF         CAE         CAG     115.643    2.44
-63U         CAE         CAG          H6     109.619    1.50
-63U         CAE         CAG          H7     109.619    1.50
-63U         CAE         CAG          H8     109.619    1.50
-63U          H6         CAG          H7     109.339    1.50
-63U          H6         CAG          H8     109.339    1.50
-63U          H7         CAG          H8     109.339    1.50
-63U         SAA         CAF         CAE     111.860    2.17
-63U         SAA         CAF          H9     109.111    1.50
-63U         SAA         CAF         H10     109.111    1.50
-63U         CAE         CAF          H9     108.678    1.50
-63U         CAE         CAF         H10     108.678    1.50
-63U          H9         CAF         H10     108.104    1.50
-63U          CB         SAA         CAF      99.411    2.27
-63U         SAA          CB         NAC     110.151    1.60
-63U         SAA          CB          CA     107.746    3.00
-63U         SAA          CB         H11     108.373    1.68
-63U         NAC          CB          CA     110.271    2.01
-63U         NAC          CB         H11     109.078    1.50
-63U          CA          CB         H11     107.642    1.65
-63U          CB          CA           C     113.355    2.65
-63U          CB          CA           N     112.102    2.36
-63U          CB          CA         H12     109.342    1.50
-63U           C          CA           N     110.921    1.74
-63U           C          CA         H12     108.186    1.50
-63U           N          CA         H12     108.169    1.50
-63U          CA           C           O     120.289    1.60
-63U          CA           C         H13     119.547    2.53
-63U           O           C         H13     120.163    1.50
-63U          CA           N         CAO     122.005    1.75
-63U          CA           N         H14     119.110    1.91
-63U         CAO           N         H14     118.885    1.94
-63U         OAR         CAO           N     122.879    1.50
-63U         OAR         CAO         CAP     120.880    1.50
-63U           N         CAO         CAP     116.241    2.19
-63U         CAO         CAP         CAQ     110.090    3.00
-63U         CAO         CAP         NAS     109.935    2.65
-63U         CAO         CAP         H15     107.903    1.50
-63U         CAQ         CAP         NAS     111.986    1.50
-63U         CAQ         CAP         H15     108.553    1.50
-63U         NAS         CAP         H15     108.128    1.50
-63U         CAP         NAS         H16     109.561    2.23
-63U         CAP         NAS         H17     109.561    2.23
-63U         CAP         NAS         H18     109.561    2.23
-63U         H16         NAS         H17     109.073    2.83
-63U         H16         NAS         H18     109.073    2.83
-63U         H17         NAS         H18     109.073    2.83
-63U         CAX         CAQ         CAP     120.770    1.82
-63U         CAX         CAQ         CAT     118.460    1.50
-63U         CAP         CAQ         CAT     120.770    1.82
-63U         CAQ         CAT         CAU     120.588    1.50
-63U         CAQ         CAT         H19     119.682    1.50
-63U         CAU         CAT         H19     119.730    1.50
-63U         CAV         CAU         CAT     120.216    1.50
-63U         CAV         CAU         H20     119.938    1.50
-63U         CAT         CAU         H20     119.847    1.50
-63U         CAW         CAV         CAU     119.933    1.50
-63U         CAW         CAV         H21     120.033    1.50
-63U         CAU         CAV         H21     120.033    1.50
-63U         CAX         CAW         CAV     120.216    1.50
-63U         CAX         CAW         H22     119.847    1.50
-63U         CAV         CAW         H22     119.938    1.50
-63U         CAW         CAX         CAQ     120.588    1.50
-63U         CAW         CAX         H23     119.730    1.50
-63U         CAQ         CAX         H23     119.682    1.50
+63U OAI CAH CAD 116.187 1.68
+63U OAI CAH OAJ 127.626 1.50
+63U CAD CAH OAJ 116.187 1.68
+63U NAC CAD CAH 118.922 3.00
+63U NAC CAD CAE 120.071 1.66
+63U CAH CAD CAE 121.007 2.59
+63U CB  NAC CAD 122.646 2.69
+63U CB  NAC H3  118.395 2.75
+63U CAD NAC H3  118.959 1.50
+63U CAD CAE CAF 120.531 3.00
+63U CAD CAE CAG 123.826 2.21
+63U CAF CAE CAG 115.643 2.44
+63U CAE CAG H6  109.619 1.50
+63U CAE CAG H7  109.619 1.50
+63U CAE CAG H8  109.619 1.50
+63U H6  CAG H7  109.339 1.50
+63U H6  CAG H8  109.339 1.50
+63U H7  CAG H8  109.339 1.50
+63U SAA CAF CAE 111.860 2.17
+63U SAA CAF H9  109.111 1.50
+63U SAA CAF H10 109.111 1.50
+63U CAE CAF H9  108.678 1.50
+63U CAE CAF H10 108.678 1.50
+63U H9  CAF H10 108.104 1.50
+63U CB  SAA CAF 99.411  2.27
+63U SAA CB  NAC 110.151 1.60
+63U SAA CB  CA  107.746 3.00
+63U SAA CB  H11 108.373 1.68
+63U NAC CB  CA  110.271 2.01
+63U NAC CB  H11 109.078 1.50
+63U CA  CB  H11 107.642 1.65
+63U CB  CA  C   113.355 2.65
+63U CB  CA  N   112.102 2.36
+63U CB  CA  H12 109.342 1.50
+63U C   CA  N   110.921 1.74
+63U C   CA  H12 108.186 1.50
+63U N   CA  H12 108.169 1.50
+63U CA  C   O   120.289 1.60
+63U CA  C   H13 119.547 2.53
+63U O   C   H13 120.163 1.50
+63U CA  N   CAO 122.005 1.75
+63U CA  N   H14 119.110 1.91
+63U CAO N   H14 118.885 1.94
+63U OAR CAO N   122.879 1.50
+63U OAR CAO CAP 120.880 1.50
+63U N   CAO CAP 116.241 2.19
+63U CAO CAP CAQ 110.090 3.00
+63U CAO CAP NAS 109.935 2.65
+63U CAO CAP H15 107.903 1.50
+63U CAQ CAP NAS 111.986 1.50
+63U CAQ CAP H15 108.553 1.50
+63U NAS CAP H15 108.128 1.50
+63U CAP NAS H16 109.561 2.23
+63U CAP NAS H17 109.561 2.23
+63U CAP NAS H18 109.561 2.23
+63U H16 NAS H17 109.073 2.83
+63U H16 NAS H18 109.073 2.83
+63U H17 NAS H18 109.073 2.83
+63U CAX CAQ CAP 120.770 1.82
+63U CAX CAQ CAT 118.460 1.50
+63U CAP CAQ CAT 120.770 1.82
+63U CAQ CAT CAU 120.588 1.50
+63U CAQ CAT H19 119.682 1.50
+63U CAU CAT H19 119.730 1.50
+63U CAV CAU CAT 120.216 1.50
+63U CAV CAU H20 119.938 1.50
+63U CAT CAU H20 119.847 1.50
+63U CAW CAV CAU 119.933 1.50
+63U CAW CAV H21 120.033 1.50
+63U CAU CAV H21 120.033 1.50
+63U CAX CAW CAV 120.216 1.50
+63U CAX CAW H22 119.847 1.50
+63U CAV CAW H22 119.938 1.50
+63U CAW CAX CAQ 120.588 1.50
+63U CAW CAX H23 119.730 1.50
+63U CAQ CAX H23 119.682 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -211,27 +212,28 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-63U            sp2_sp3_14           O           C          CA           N     120.000    10.0     6
-63U            sp2_sp3_20         CAO           N          CA           C     120.000    10.0     6
-63U            sp2_sp2_15         OAR         CAO           N          CA       0.000     5.0     2
-63U            sp2_sp3_32         OAR         CAO         CAP         NAS     120.000    10.0     6
-63U            sp3_sp3_16         CAO         CAP         NAS         H16     180.000    10.0     3
-63U            sp2_sp3_37         CAX         CAQ         CAP         CAO     150.000    10.0     6
-63U              const_23         CAP         CAQ         CAT         CAU     180.000    10.0     2
-63U       const_sp2_sp2_3         CAP         CAQ         CAX         CAW     180.000     5.0     2
-63U              const_17         CAQ         CAT         CAU         CAV       0.000    10.0     2
-63U             sp2_sp2_5         NAC         CAD         CAH         OAI     180.000     5.0     2
-63U              const_13         CAT         CAU         CAV         CAW       0.000    10.0     2
-63U       const_sp2_sp2_9         CAU         CAV         CAW         CAX       0.000     5.0     2
-63U       const_sp2_sp2_5         CAV         CAW         CAX         CAQ       0.000     5.0     2
-63U             sp2_sp2_3         CAH         CAD         NAC          CB     180.000     5.0     2
-63U            sp2_sp2_12         CAH         CAD         CAE         CAG       0.000     5.0     2
-63U             sp2_sp3_2         CAD         NAC          CB          CA     120.000    10.0     6
-63U            sp2_sp3_25         CAD         CAE         CAG          H6     150.000    10.0     6
-63U            sp2_sp3_10         CAG         CAE         CAF         SAA     180.000    10.0     6
-63U             sp3_sp3_4         CAE         CAF         SAA          CB     -60.000    10.0     3
-63U             sp3_sp3_2          CA          CB         SAA         CAF     -60.000    10.0     3
-63U             sp3_sp3_7           C          CA          CB         SAA     180.000    10.0     3
+63U sp2_sp3_14      O   C   CA  N   120.000 10.0 6
+63U sp2_sp3_20      CAO N   CA  C   120.000 10.0 6
+63U sp2_sp2_15      OAR CAO N   CA  0.000   5.0  2
+63U sp2_sp3_32      OAR CAO CAP NAS 120.000 10.0 6
+63U sp3_sp3_16      CAO CAP NAS H16 180.000 10.0 3
+63U sp2_sp3_37      CAX CAQ CAP CAO 150.000 10.0 6
+63U const_23        CAP CAQ CAT CAU 180.000 10.0 2
+63U const_sp2_sp2_3 CAP CAQ CAX CAW 180.000 5.0  2
+63U const_17        CAQ CAT CAU CAV 0.000   10.0 2
+63U sp2_sp2_5       NAC CAD CAH OAI 180.000 5.0  2
+63U const_13        CAT CAU CAV CAW 0.000   10.0 2
+63U const_sp2_sp2_9 CAU CAV CAW CAX 0.000   5.0  2
+63U const_sp2_sp2_5 CAV CAW CAX CAQ 0.000   5.0  2
+63U sp2_sp2_3       CAH CAD NAC CB  180.000 5.0  2
+63U sp2_sp2_12      CAH CAD CAE CAG 0.000   5.0  2
+63U sp2_sp3_2       CAD NAC CB  CA  120.000 10.0 6
+63U sp2_sp3_25      CAD CAE CAG H6  150.000 10.0 6
+63U sp2_sp3_10      CAG CAE CAF SAA 180.000 10.0 6
+63U sp3_sp3_4       CAE CAF SAA CB  -60.000 10.0 3
+63U sp3_sp3_2       CA  CB  SAA CAF -60.000 10.0 3
+63U sp3_sp3_7       C   CA  CB  SAA 180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -240,73 +242,89 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-63U    chir_1    CB    SAA    NAC    CA    positive
-63U    chir_2    CA    N    CB    C    negative
-63U    chir_3    CAP    NAS    CAO    CAQ    negative
+63U chir_1 CB  SAA NAC CA  positive
+63U chir_2 CA  N   CB  C   negative
+63U chir_3 CAP NAS CAO CAQ negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-63U    plan-1         CAP   0.020
-63U    plan-1         CAQ   0.020
-63U    plan-1         CAT   0.020
-63U    plan-1         CAU   0.020
-63U    plan-1         CAV   0.020
-63U    plan-1         CAW   0.020
-63U    plan-1         CAX   0.020
-63U    plan-1         H19   0.020
-63U    plan-1         H20   0.020
-63U    plan-1         H21   0.020
-63U    plan-1         H22   0.020
-63U    plan-1         H23   0.020
-63U    plan-2         CAD   0.020
-63U    plan-2         CAH   0.020
-63U    plan-2         OAI   0.020
-63U    plan-2         OAJ   0.020
-63U    plan-3         CAD   0.020
-63U    plan-3         CAE   0.020
-63U    plan-3         CAH   0.020
-63U    plan-3         NAC   0.020
-63U    plan-4         CAD   0.020
-63U    plan-4          CB   0.020
-63U    plan-4          H3   0.020
-63U    plan-4         NAC   0.020
-63U    plan-5         CAD   0.020
-63U    plan-5         CAE   0.020
-63U    plan-5         CAF   0.020
-63U    plan-5         CAG   0.020
-63U    plan-6           C   0.020
-63U    plan-6          CA   0.020
-63U    plan-6         H13   0.020
-63U    plan-6           O   0.020
-63U    plan-7          CA   0.020
-63U    plan-7         CAO   0.020
-63U    plan-7         H14   0.020
-63U    plan-7           N   0.020
-63U    plan-8         CAO   0.020
-63U    plan-8         CAP   0.020
-63U    plan-8           N   0.020
-63U    plan-8         OAR   0.020
+63U plan-1 CAP 0.020
+63U plan-1 CAQ 0.020
+63U plan-1 CAT 0.020
+63U plan-1 CAU 0.020
+63U plan-1 CAV 0.020
+63U plan-1 CAW 0.020
+63U plan-1 CAX 0.020
+63U plan-1 H19 0.020
+63U plan-1 H20 0.020
+63U plan-1 H21 0.020
+63U plan-1 H22 0.020
+63U plan-1 H23 0.020
+63U plan-2 CAD 0.020
+63U plan-2 CAH 0.020
+63U plan-2 OAI 0.020
+63U plan-2 OAJ 0.020
+63U plan-3 CAD 0.020
+63U plan-3 CAE 0.020
+63U plan-3 CAH 0.020
+63U plan-3 NAC 0.020
+63U plan-4 CAD 0.020
+63U plan-4 CB  0.020
+63U plan-4 H3  0.020
+63U plan-4 NAC 0.020
+63U plan-5 CAD 0.020
+63U plan-5 CAE 0.020
+63U plan-5 CAF 0.020
+63U plan-5 CAG 0.020
+63U plan-6 C   0.020
+63U plan-6 CA  0.020
+63U plan-6 H13 0.020
+63U plan-6 O   0.020
+63U plan-7 CA  0.020
+63U plan-7 CAO 0.020
+63U plan-7 H14 0.020
+63U plan-7 N   0.020
+63U plan-8 CAO 0.020
+63U plan-8 CAP 0.020
+63U plan-8 N   0.020
+63U plan-8 OAR 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-63U           SMILES              ACDLabs 12.01                                                                                                                 O=C(C1=C(C)CSC(N1)C(C=O)NC(C(c2ccccc2)N)=O)O
-63U            InChI                InChI  1.03 InChI=1S/C16H19N3O4S/c1-9-8-24-15(19-13(9)16(22)23)11(7-20)18-14(21)12(17)10-5-3-2-4-6-10/h2-7,11-12,15,19H,8,17H2,1H3,(H,18,21)(H,22,23)/t11-,12-,15+/m1/s1
-63U         InChIKey                InChI  1.03                                                                                                                                  YUNPQAOWKVWRNR-JMSVASOKSA-N
-63U SMILES_CANONICAL               CACTVS 3.385                                                                                                    CC1=C(N[C@@H](SC1)[C@H](NC(=O)[C@H](N)c2ccccc2)C=O)C(O)=O
-63U           SMILES               CACTVS 3.385                                                                                                        CC1=C(N[CH](SC1)[CH](NC(=O)[CH](N)c2ccccc2)C=O)C(O)=O
-63U SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4                                                                                                  CC1=C(N[C@@H](SC1)[C@@H](C=O)NC(=O)[C@@H](c2ccccc2)N)C(=O)O
-63U           SMILES "OpenEye OEToolkits" 2.0.4                                                                                                                 CC1=C(NC(SC1)C(C=O)NC(=O)C(c2ccccc2)N)C(=O)O
+63U SMILES           ACDLabs              12.01 O=C(C1=C(C)CSC(N1)C(C=O)NC(C(c2ccccc2)N)=O)O
+63U InChI            InChI                1.03  InChI=1S/C16H19N3O4S/c1-9-8-24-15(19-13(9)16(22)23)11(7-20)18-14(21)12(17)10-5-3-2-4-6-10/h2-7,11-12,15,19H,8,17H2,1H3,(H,18,21)(H,22,23)/t11-,12-,15+/m1/s1
+63U InChIKey         InChI                1.03  YUNPQAOWKVWRNR-JMSVASOKSA-N
+63U SMILES_CANONICAL CACTVS               3.385 CC1=C(N[C@@H](SC1)[C@H](NC(=O)[C@H](N)c2ccccc2)C=O)C(O)=O
+63U SMILES           CACTVS               3.385 CC1=C(N[CH](SC1)[CH](NC(=O)[CH](N)c2ccccc2)C=O)C(O)=O
+63U SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4 CC1=C(N[C@@H](SC1)[C@@H](C=O)NC(=O)[C@@H](c2ccccc2)N)C(=O)O
+63U SMILES           "OpenEye OEToolkits" 2.0.4 CC1=C(NC(SC1)C(C=O)NC(=O)C(c2ccccc2)N)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-63U acedrg               243         "dictionary generator"                  
-63U acedrg_database      11          "data source"                           
-63U rdkit                2017.03.2   "Chemoinformatics tool"
-63U refmac5              5.8.0238    "optimization tool"                     
+63U acedrg          243       "dictionary generator"
+63U acedrg_database 11        "data source"
+63U rdkit           2017.03.2 "Chemoinformatics tool"
+63U refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+63U M-peptide OAI O
+63U M-peptide CAH C
+63U M-peptide CAD CA
+63U M-peptide NAC N
+63U M-peptide CB  CN
+63U M-peptide OAJ OXT
+63U M-peptide H3  H

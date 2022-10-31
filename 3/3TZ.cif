@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-3TZ     3TZ      "N-[(4-{[(2-amino-4-oxo-3,4-dihydro[1]benzothieno[2,3-d]pyrimidin-5-yl)methyl]amino}phenyl)carbonyl]-L-glutamic acid"     NON-POLYMER     54     35     .     
-#
+3TZ 3TZ "N-[(4-{[(2-amino-4-oxo-3,4-dihydro[1]benzothieno[2,3-d]pyrimidin-5-yl)methyl]amino}phenyl)carbonyl]-L-glutamic acid" NON-POLYMER 54 35 .
+
 data_comp_3TZ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,60 +19,61 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-3TZ     C       C       C       0       -0.292      7.534       26.245      
-3TZ     N       N       NH1     0       -1.165      9.748       25.589      
-3TZ     O       O       OC      -1      0.794       7.731       25.665      
-3TZ     N1      N       NR6     0       -3.155      18.639      23.908      
-3TZ     C2      C       CR6     0       -3.276      19.793      23.173      
-3TZ     N3      N       NRD6    0       -2.282      20.659      23.077      
-3TZ     C4      C       CR56    0       -1.139      20.362      23.734      
-3TZ     C5      C       CR56    0       -0.904      19.181      24.533      
-3TZ     C6      C       CR6     0       -1.993      18.286      24.606      
-3TZ     O6      O       O       0       -2.001      17.229      25.230      
-3TZ     CA      C       CH1     0       -1.510      8.340       25.755      
-3TZ     CB      C       CH2     0       -2.063      7.745       24.454      
-3TZ     CD      C       C       0       -4.596      7.739       24.820      
-3TZ     CG      C       CH2     0       -3.415      8.311       24.054      
-3TZ     NAA     N       NH2     0       -4.442      20.015      22.550      
-3TZ     OAD     O       O       0       -1.036      10.224      27.795      
-3TZ     CAH     C       CR16    0       3.091       19.759      25.871      
-3TZ     CAI     C       CR16    0       2.462       18.594      26.297      
-3TZ     CAJ     C       CR16    0       0.692       13.648      25.091      
-3TZ     CAK     C       CR16    0       -1.017      14.366      26.640      
-3TZ     CAL     C       CR16    0       0.390       12.330      25.381      
-3TZ     CAM     C       CR16    0       -1.310      13.044      26.918      
-3TZ     CAN     C       CR16    0       2.423       20.648      25.062      
-3TZ     CAQ     C       CH2     0       0.581       16.981      26.464      
-3TZ     NAT     N       NH1     0       0.288       15.997      25.439      
-3TZ     SAV     S       S2      0       0.200       21.332      23.721      
-3TZ     CAY     C       C       0       -0.955      10.582      26.620      
-3TZ     CBA     C       CR6     0       -0.009      14.684      25.721      
-3TZ     CBB     C       CR6     0       -0.616      12.010      26.291      
-3TZ     CBD     C       CR6     0       1.152       18.277      25.934      
-3TZ     CBE     C       CR56    0       1.123       20.352      24.691      
-3TZ     CBG     C       CR56    0       0.447       19.186      25.099      
-3TZ     OE1     O       OC      -1      -5.217      8.494       25.594      
-3TZ     OE2     O       O       0       -4.890      6.541       24.641      
-3TZ     OXT     O       O       0       -0.475      6.738       27.189      
-3TZ     HN      H       H       0       -1.101      10.051      24.772      
-3TZ     HN1     H       H       0       -3.855      18.080      23.945      
-3TZ     HA      H       H       0       -2.220      8.279       26.444      
-3TZ     HB      H       H       0       -2.145      6.774       24.561      
-3TZ     HBA     H       H       0       -1.421      7.915       23.733      
-3TZ     HG      H       H       0       -3.558      8.142       23.098      
-3TZ     HGA     H       H       0       -3.406      9.283       24.182      
-3TZ     HNAA    H       H       0       -4.775      20.826      22.525      
-3TZ     HNAB    H       H       0       -4.868      19.350      22.169      
-3TZ     HAH     H       H       0       3.976       19.940      26.136      
-3TZ     HAI     H       H       0       2.943       17.997      26.854      
-3TZ     HAJ     H       H       0       1.372       13.851      24.472      
-3TZ     HAK     H       H       0       -1.495      15.055      27.069      
-3TZ     HAL     H       H       0       0.867       11.643      24.950      
-3TZ     HAM     H       H       0       -1.989      12.843      27.538      
-3TZ     HAN     H       H       0       2.841       21.439      24.769      
-3TZ     HAQ     H       H       0       1.217       16.583      27.096      
-3TZ     HAQA    H       H       0       -0.238      17.177      26.965      
-3TZ     HNAT    H       H       0       0.298       16.250      24.605      
+3TZ C    C C    0  -0.292 7.534  26.245
+3TZ N    N NH1  0  -1.165 9.748  25.589
+3TZ O    O OC   -1 0.794  7.731  25.665
+3TZ N1   N NR6  0  -3.155 18.639 23.908
+3TZ C2   C CR6  0  -3.276 19.793 23.173
+3TZ N3   N NRD6 0  -2.282 20.659 23.077
+3TZ C4   C CR56 0  -1.139 20.362 23.734
+3TZ C5   C CR56 0  -0.904 19.181 24.533
+3TZ C6   C CR6  0  -1.993 18.286 24.606
+3TZ O6   O O    0  -2.001 17.229 25.230
+3TZ CA   C CH1  0  -1.510 8.340  25.755
+3TZ CB   C CH2  0  -2.063 7.745  24.454
+3TZ CD   C C    0  -4.596 7.739  24.820
+3TZ CG   C CH2  0  -3.415 8.311  24.054
+3TZ NAA  N NH2  0  -4.442 20.015 22.550
+3TZ OAD  O O    0  -1.036 10.224 27.795
+3TZ CAH  C CR16 0  3.091  19.759 25.871
+3TZ CAI  C CR16 0  2.462  18.594 26.297
+3TZ CAJ  C CR16 0  0.692  13.648 25.091
+3TZ CAK  C CR16 0  -1.017 14.366 26.640
+3TZ CAL  C CR16 0  0.390  12.330 25.381
+3TZ CAM  C CR16 0  -1.310 13.044 26.918
+3TZ CAN  C CR16 0  2.423  20.648 25.062
+3TZ CAQ  C CH2  0  0.581  16.981 26.464
+3TZ NAT  N NH1  0  0.288  15.997 25.439
+3TZ SAV  S S2   0  0.200  21.332 23.721
+3TZ CAY  C C    0  -0.955 10.582 26.620
+3TZ CBA  C CR6  0  -0.009 14.684 25.721
+3TZ CBB  C CR6  0  -0.616 12.010 26.291
+3TZ CBD  C CR6  0  1.152  18.277 25.934
+3TZ CBE  C CR56 0  1.123  20.352 24.691
+3TZ CBG  C CR56 0  0.447  19.186 25.099
+3TZ OE1  O OC   -1 -5.217 8.494  25.594
+3TZ OE2  O O    0  -4.890 6.541  24.641
+3TZ OXT  O O    0  -0.475 6.738  27.189
+3TZ HN   H H    0  -1.101 10.051 24.772
+3TZ HN1  H H    0  -3.855 18.080 23.945
+3TZ HA   H H    0  -2.220 8.279  26.444
+3TZ HB   H H    0  -2.145 6.774  24.561
+3TZ HBA  H H    0  -1.421 7.915  23.733
+3TZ HG   H H    0  -3.558 8.142  23.098
+3TZ HGA  H H    0  -3.406 9.283  24.182
+3TZ HNAA H H    0  -4.775 20.826 22.525
+3TZ HNAB H H    0  -4.868 19.350 22.169
+3TZ HAH  H H    0  3.976  19.940 26.136
+3TZ HAI  H H    0  2.943  17.997 26.854
+3TZ HAJ  H H    0  1.372  13.851 24.472
+3TZ HAK  H H    0  -1.495 15.055 27.069
+3TZ HAL  H H    0  0.867  11.643 24.950
+3TZ HAM  H H    0  -1.989 12.843 27.538
+3TZ HAN  H H    0  2.841  21.439 24.769
+3TZ HAQ  H H    0  1.217  16.583 27.096
+3TZ HAQA H H    0  -0.238 17.177 26.965
+3TZ HNAT H H    0  0.298  16.250 24.605
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -85,63 +84,64 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-3TZ           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-3TZ           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-3TZ           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-3TZ           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-3TZ           N         CAY      SINGLE       n     1.337  0.0101     1.337  0.0101
-3TZ          N1          C2      SINGLE       y     1.374  0.0100     1.374  0.0100
-3TZ          N1          C6      SINGLE       y     1.395  0.0119     1.395  0.0119
-3TZ          C2         NAA      SINGLE       n     1.340  0.0101     1.340  0.0101
-3TZ          C2          N3      DOUBLE       y     1.324  0.0127     1.324  0.0127
-3TZ          N3          C4      SINGLE       y     1.338  0.0200     1.338  0.0200
-3TZ          C4          C5      DOUBLE       y     1.401  0.0200     1.401  0.0200
-3TZ          C4         SAV      SINGLE       y     1.695  0.0200     1.695  0.0200
-3TZ          C5          C6      SINGLE       y     1.396  0.0112     1.396  0.0112
-3TZ          C5         CBG      SINGLE       y     1.445  0.0100     1.445  0.0100
-3TZ          C6          O6      DOUBLE       n     1.231  0.0132     1.231  0.0132
-3TZ          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-3TZ          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-3TZ          CD         OE2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-3TZ          CD          CG      SINGLE       n     1.519  0.0109     1.519  0.0109
-3TZ          CD         OE1      SINGLE       n     1.247  0.0187     1.247  0.0187
-3TZ         OAD         CAY      DOUBLE       n     1.230  0.0114     1.230  0.0114
-3TZ         CAH         CAN      SINGLE       y     1.378  0.0108     1.378  0.0108
-3TZ         CAH         CAI      DOUBLE       y     1.392  0.0101     1.392  0.0101
-3TZ         CAI         CBD      SINGLE       y     1.389  0.0100     1.389  0.0100
-3TZ         CAJ         CAL      DOUBLE       y     1.379  0.0100     1.379  0.0100
-3TZ         CAJ         CBA      SINGLE       y     1.395  0.0124     1.395  0.0124
-3TZ         CAK         CBA      DOUBLE       y     1.395  0.0124     1.395  0.0124
-3TZ         CAK         CAM      SINGLE       y     1.379  0.0100     1.379  0.0100
-3TZ         CAL         CBB      SINGLE       y     1.390  0.0100     1.390  0.0100
-3TZ         CAM         CBB      DOUBLE       y     1.390  0.0100     1.390  0.0100
-3TZ         CAN         CBE      DOUBLE       y     1.381  0.0100     1.381  0.0100
-3TZ         CAQ         NAT      SINGLE       n     1.449  0.0112     1.449  0.0112
-3TZ         CAQ         CBD      SINGLE       n     1.510  0.0100     1.510  0.0100
-3TZ         NAT         CBA      SINGLE       n     1.375  0.0145     1.375  0.0145
-3TZ         SAV         CBE      SINGLE       y     1.695  0.0200     1.695  0.0200
-3TZ         CAY         CBB      SINGLE       n     1.502  0.0100     1.502  0.0100
-3TZ         CBD         CBG      DOUBLE       y     1.406  0.0100     1.406  0.0100
-3TZ         CBE         CBG      SINGLE       y     1.395  0.0100     1.395  0.0100
-3TZ           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
-3TZ          N1         HN1      SINGLE       n     1.016  0.0100     0.895  0.0200
-3TZ          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-3TZ          CB          HB      SINGLE       n     1.089  0.0100     0.980  0.0178
-3TZ          CB         HBA      SINGLE       n     1.089  0.0100     0.980  0.0178
-3TZ          CG          HG      SINGLE       n     1.089  0.0100     0.981  0.0185
-3TZ          CG         HGA      SINGLE       n     1.089  0.0100     0.981  0.0185
-3TZ         NAA        HNAA      SINGLE       n     1.016  0.0100     0.877  0.0200
-3TZ         NAA        HNAB      SINGLE       n     1.016  0.0100     0.877  0.0200
-3TZ         CAH         HAH      SINGLE       n     1.082  0.0130     0.942  0.0176
-3TZ         CAI         HAI      SINGLE       n     1.082  0.0130     0.948  0.0200
-3TZ         CAJ         HAJ      SINGLE       n     1.082  0.0130     0.942  0.0198
-3TZ         CAK         HAK      SINGLE       n     1.082  0.0130     0.942  0.0198
-3TZ         CAL         HAL      SINGLE       n     1.082  0.0130     0.941  0.0168
-3TZ         CAM         HAM      SINGLE       n     1.082  0.0130     0.941  0.0168
-3TZ         CAN         HAN      SINGLE       n     1.082  0.0130     0.941  0.0170
-3TZ         CAQ         HAQ      SINGLE       n     1.089  0.0100     0.981  0.0161
-3TZ         CAQ        HAQA      SINGLE       n     1.089  0.0100     0.981  0.0161
-3TZ         NAT        HNAT      SINGLE       n     1.016  0.0100     0.871  0.0200
+3TZ C   OXT  DOUBLE n 1.247 0.0187 1.247 0.0187
+3TZ C   O    SINGLE n 1.247 0.0187 1.247 0.0187
+3TZ C   CA   SINGLE n 1.539 0.0100 1.539 0.0100
+3TZ N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
+3TZ N   CAY  SINGLE n 1.337 0.0101 1.337 0.0101
+3TZ N1  C2   SINGLE y 1.374 0.0100 1.374 0.0100
+3TZ N1  C6   SINGLE y 1.395 0.0119 1.395 0.0119
+3TZ C2  NAA  SINGLE n 1.340 0.0101 1.340 0.0101
+3TZ C2  N3   DOUBLE y 1.324 0.0127 1.324 0.0127
+3TZ N3  C4   SINGLE y 1.338 0.0200 1.338 0.0200
+3TZ C4  C5   DOUBLE y 1.401 0.0200 1.401 0.0200
+3TZ C4  SAV  SINGLE y 1.695 0.0200 1.695 0.0200
+3TZ C5  C6   SINGLE y 1.396 0.0112 1.396 0.0112
+3TZ C5  CBG  SINGLE y 1.445 0.0100 1.445 0.0100
+3TZ C6  O6   DOUBLE n 1.231 0.0132 1.231 0.0132
+3TZ CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
+3TZ CB  CG   SINGLE n 1.518 0.0153 1.518 0.0153
+3TZ CD  OE2  DOUBLE n 1.247 0.0187 1.247 0.0187
+3TZ CD  CG   SINGLE n 1.519 0.0109 1.519 0.0109
+3TZ CD  OE1  SINGLE n 1.247 0.0187 1.247 0.0187
+3TZ OAD CAY  DOUBLE n 1.230 0.0114 1.230 0.0114
+3TZ CAH CAN  SINGLE y 1.378 0.0108 1.378 0.0108
+3TZ CAH CAI  DOUBLE y 1.392 0.0101 1.392 0.0101
+3TZ CAI CBD  SINGLE y 1.389 0.0100 1.389 0.0100
+3TZ CAJ CAL  DOUBLE y 1.379 0.0100 1.379 0.0100
+3TZ CAJ CBA  SINGLE y 1.395 0.0124 1.395 0.0124
+3TZ CAK CBA  DOUBLE y 1.395 0.0124 1.395 0.0124
+3TZ CAK CAM  SINGLE y 1.379 0.0100 1.379 0.0100
+3TZ CAL CBB  SINGLE y 1.390 0.0100 1.390 0.0100
+3TZ CAM CBB  DOUBLE y 1.390 0.0100 1.390 0.0100
+3TZ CAN CBE  DOUBLE y 1.381 0.0100 1.381 0.0100
+3TZ CAQ NAT  SINGLE n 1.449 0.0112 1.449 0.0112
+3TZ CAQ CBD  SINGLE n 1.510 0.0100 1.510 0.0100
+3TZ NAT CBA  SINGLE n 1.375 0.0145 1.375 0.0145
+3TZ SAV CBE  SINGLE y 1.695 0.0200 1.695 0.0200
+3TZ CAY CBB  SINGLE n 1.502 0.0100 1.502 0.0100
+3TZ CBD CBG  DOUBLE y 1.406 0.0100 1.406 0.0100
+3TZ CBE CBG  SINGLE y 1.395 0.0100 1.395 0.0100
+3TZ N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
+3TZ N1  HN1  SINGLE n 1.016 0.0100 0.895 0.0200
+3TZ CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
+3TZ CB  HB   SINGLE n 1.089 0.0100 0.980 0.0178
+3TZ CB  HBA  SINGLE n 1.089 0.0100 0.980 0.0178
+3TZ CG  HG   SINGLE n 1.089 0.0100 0.981 0.0185
+3TZ CG  HGA  SINGLE n 1.089 0.0100 0.981 0.0185
+3TZ NAA HNAA SINGLE n 1.016 0.0100 0.877 0.0200
+3TZ NAA HNAB SINGLE n 1.016 0.0100 0.877 0.0200
+3TZ CAH HAH  SINGLE n 1.082 0.0130 0.942 0.0176
+3TZ CAI HAI  SINGLE n 1.082 0.0130 0.948 0.0200
+3TZ CAJ HAJ  SINGLE n 1.082 0.0130 0.942 0.0198
+3TZ CAK HAK  SINGLE n 1.082 0.0130 0.942 0.0198
+3TZ CAL HAL  SINGLE n 1.082 0.0130 0.941 0.0168
+3TZ CAM HAM  SINGLE n 1.082 0.0130 0.941 0.0168
+3TZ CAN HAN  SINGLE n 1.082 0.0130 0.941 0.0170
+3TZ CAQ HAQ  SINGLE n 1.089 0.0100 0.981 0.0161
+3TZ CAQ HAQA SINGLE n 1.089 0.0100 0.981 0.0161
+3TZ NAT HNAT SINGLE n 1.016 0.0100 0.871 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -149,101 +149,102 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-3TZ         OXT           C           O     125.502    1.50
-3TZ         OXT           C          CA     117.249    1.61
-3TZ           O           C          CA     117.249    1.61
-3TZ          CA           N         CAY     122.253    1.50
-3TZ          CA           N          HN     118.320    2.24
-3TZ         CAY           N          HN     119.427    1.94
-3TZ          C2          N1          C6     123.505    1.50
-3TZ          C2          N1         HN1     118.533    2.71
-3TZ          C6          N1         HN1     117.963    1.86
-3TZ          N1          C2         NAA     117.132    1.50
-3TZ          N1          C2          N3     122.491    1.50
-3TZ         NAA          C2          N3     120.378    1.50
-3TZ          C2          N3          C4     116.989    1.79
-3TZ          N3          C4          C5     122.495    2.68
-3TZ          N3          C4         SAV     129.213    3.00
-3TZ          C5          C4         SAV     108.292    3.00
-3TZ          C4          C5          C6     118.817    2.44
-3TZ          C4          C5         CBG     107.978    1.50
-3TZ          C6          C5         CBG     133.205    1.50
-3TZ          N1          C6          C5     115.703    1.76
-3TZ          N1          C6          O6     119.883    1.50
-3TZ          C5          C6          O6     124.413    1.50
-3TZ           C          CA           N     110.522    1.86
-3TZ           C          CA          CB     111.638    2.31
-3TZ           C          CA          HA     108.327    1.50
-3TZ           N          CA          CB     110.984    1.61
-3TZ           N          CA          HA     107.930    1.50
-3TZ          CB          CA          HA     108.155    1.50
-3TZ          CA          CB          CG     112.938    1.50
-3TZ          CA          CB          HB     108.606    1.50
-3TZ          CA          CB         HBA     108.606    1.50
-3TZ          CG          CB          HB     108.890    1.50
-3TZ          CG          CB         HBA     108.890    1.50
-3TZ          HB          CB         HBA     107.844    1.50
-3TZ         OE2          CD          CG     118.214    1.64
-3TZ         OE2          CD         OE1     123.571    1.50
-3TZ          CG          CD         OE1     118.214    1.64
-3TZ          CB          CG          CD     114.629    2.24
-3TZ          CB          CG          HG     108.906    1.50
-3TZ          CB          CG         HGA     108.906    1.50
-3TZ          CD          CG          HG     108.404    1.50
-3TZ          CD          CG         HGA     108.404    1.50
-3TZ          HG          CG         HGA     107.521    1.50
-3TZ          C2         NAA        HNAA     119.868    1.50
-3TZ          C2         NAA        HNAB     119.868    1.50
-3TZ        HNAA         NAA        HNAB     120.263    1.96
-3TZ         CAN         CAH         CAI     120.925    1.50
-3TZ         CAN         CAH         HAH     119.494    1.50
-3TZ         CAI         CAH         HAH     119.581    1.50
-3TZ         CAH         CAI         CBD     121.833    1.50
-3TZ         CAH         CAI         HAI     119.089    1.50
-3TZ         CBD         CAI         HAI     119.078    1.50
-3TZ         CAL         CAJ         CBA     120.067    1.50
-3TZ         CAL         CAJ         HAJ     120.067    1.50
-3TZ         CBA         CAJ         HAJ     119.866    1.50
-3TZ         CBA         CAK         CAM     120.067    1.50
-3TZ         CBA         CAK         HAK     119.866    1.50
-3TZ         CAM         CAK         HAK     120.067    1.50
-3TZ         CAJ         CAL         CBB     120.771    1.50
-3TZ         CAJ         CAL         HAL     119.399    1.50
-3TZ         CBB         CAL         HAL     119.830    1.50
-3TZ         CAK         CAM         CBB     120.771    1.50
-3TZ         CAK         CAM         HAM     119.399    1.50
-3TZ         CBB         CAM         HAM     119.830    1.50
-3TZ         CAH         CAN         CBE     118.399    1.50
-3TZ         CAH         CAN         HAN     120.691    1.50
-3TZ         CBE         CAN         HAN     120.910    1.50
-3TZ         NAT         CAQ         CBD     113.601    1.88
-3TZ         NAT         CAQ         HAQ     108.831    1.50
-3TZ         NAT         CAQ        HAQA     108.831    1.50
-3TZ         CBD         CAQ         HAQ     108.989    1.50
-3TZ         CBD         CAQ        HAQA     108.989    1.50
-3TZ         HAQ         CAQ        HAQA     107.838    1.50
-3TZ         CAQ         NAT         CBA     123.205    1.76
-3TZ         CAQ         NAT        HNAT     118.360    1.57
-3TZ         CBA         NAT        HNAT     118.436    1.50
-3TZ          C4         SAV         CBE     108.292    3.00
-3TZ           N         CAY         OAD     122.394    1.50
-3TZ           N         CAY         CBB     116.740    1.50
-3TZ         OAD         CAY         CBB     120.865    1.50
-3TZ         CAJ         CBA         CAK     119.374    1.50
-3TZ         CAJ         CBA         NAT     120.313    1.76
-3TZ         CAK         CBA         NAT     120.313    1.76
-3TZ         CAL         CBB         CAM     118.950    1.50
-3TZ         CAL         CBB         CAY     120.525    2.80
-3TZ         CAM         CBB         CAY     120.525    2.80
-3TZ         CAI         CBD         CAQ     120.066    1.50
-3TZ         CAI         CBD         CBG     117.912    1.50
-3TZ         CAQ         CBD         CBG     122.022    2.87
-3TZ         CAN         CBE         SAV     130.832    3.00
-3TZ         CAN         CBE         CBG     120.876    2.16
-3TZ         SAV         CBE         CBG     108.292    3.00
-3TZ          C5         CBG         CBD     132.800    1.50
-3TZ          C5         CBG         CBE     107.146    1.50
-3TZ         CBD         CBG         CBE     120.055    2.02
+3TZ OXT  C   O    125.502 1.50
+3TZ OXT  C   CA   117.249 1.61
+3TZ O    C   CA   117.249 1.61
+3TZ CA   N   CAY  122.253 1.50
+3TZ CA   N   HN   118.320 2.24
+3TZ CAY  N   HN   119.427 1.94
+3TZ C2   N1  C6   123.505 1.50
+3TZ C2   N1  HN1  118.533 2.71
+3TZ C6   N1  HN1  117.963 1.86
+3TZ N1   C2  NAA  117.132 1.50
+3TZ N1   C2  N3   122.491 1.50
+3TZ NAA  C2  N3   120.378 1.50
+3TZ C2   N3  C4   116.989 1.79
+3TZ N3   C4  C5   122.495 2.68
+3TZ N3   C4  SAV  129.213 3.00
+3TZ C5   C4  SAV  108.292 3.00
+3TZ C4   C5  C6   118.817 2.44
+3TZ C4   C5  CBG  107.978 1.50
+3TZ C6   C5  CBG  133.205 1.50
+3TZ N1   C6  C5   115.703 1.76
+3TZ N1   C6  O6   119.883 1.50
+3TZ C5   C6  O6   124.413 1.50
+3TZ C    CA  N    110.522 1.86
+3TZ C    CA  CB   111.638 2.31
+3TZ C    CA  HA   108.327 1.50
+3TZ N    CA  CB   110.984 1.61
+3TZ N    CA  HA   107.930 1.50
+3TZ CB   CA  HA   108.155 1.50
+3TZ CA   CB  CG   112.938 1.50
+3TZ CA   CB  HB   108.606 1.50
+3TZ CA   CB  HBA  108.606 1.50
+3TZ CG   CB  HB   108.890 1.50
+3TZ CG   CB  HBA  108.890 1.50
+3TZ HB   CB  HBA  107.844 1.50
+3TZ OE2  CD  CG   118.214 1.64
+3TZ OE2  CD  OE1  123.571 1.50
+3TZ CG   CD  OE1  118.214 1.64
+3TZ CB   CG  CD   114.629 2.24
+3TZ CB   CG  HG   108.906 1.50
+3TZ CB   CG  HGA  108.906 1.50
+3TZ CD   CG  HG   108.404 1.50
+3TZ CD   CG  HGA  108.404 1.50
+3TZ HG   CG  HGA  107.521 1.50
+3TZ C2   NAA HNAA 119.868 1.50
+3TZ C2   NAA HNAB 119.868 1.50
+3TZ HNAA NAA HNAB 120.263 1.96
+3TZ CAN  CAH CAI  120.925 1.50
+3TZ CAN  CAH HAH  119.494 1.50
+3TZ CAI  CAH HAH  119.581 1.50
+3TZ CAH  CAI CBD  121.833 1.50
+3TZ CAH  CAI HAI  119.089 1.50
+3TZ CBD  CAI HAI  119.078 1.50
+3TZ CAL  CAJ CBA  120.067 1.50
+3TZ CAL  CAJ HAJ  120.067 1.50
+3TZ CBA  CAJ HAJ  119.866 1.50
+3TZ CBA  CAK CAM  120.067 1.50
+3TZ CBA  CAK HAK  119.866 1.50
+3TZ CAM  CAK HAK  120.067 1.50
+3TZ CAJ  CAL CBB  120.771 1.50
+3TZ CAJ  CAL HAL  119.399 1.50
+3TZ CBB  CAL HAL  119.830 1.50
+3TZ CAK  CAM CBB  120.771 1.50
+3TZ CAK  CAM HAM  119.399 1.50
+3TZ CBB  CAM HAM  119.830 1.50
+3TZ CAH  CAN CBE  118.399 1.50
+3TZ CAH  CAN HAN  120.691 1.50
+3TZ CBE  CAN HAN  120.910 1.50
+3TZ NAT  CAQ CBD  113.601 1.88
+3TZ NAT  CAQ HAQ  108.831 1.50
+3TZ NAT  CAQ HAQA 108.831 1.50
+3TZ CBD  CAQ HAQ  108.989 1.50
+3TZ CBD  CAQ HAQA 108.989 1.50
+3TZ HAQ  CAQ HAQA 107.838 1.50
+3TZ CAQ  NAT CBA  123.205 1.76
+3TZ CAQ  NAT HNAT 118.360 1.57
+3TZ CBA  NAT HNAT 118.436 1.50
+3TZ C4   SAV CBE  108.292 3.00
+3TZ N    CAY OAD  122.394 1.50
+3TZ N    CAY CBB  116.740 1.50
+3TZ OAD  CAY CBB  120.865 1.50
+3TZ CAJ  CBA CAK  119.374 1.50
+3TZ CAJ  CBA NAT  120.313 1.76
+3TZ CAK  CBA NAT  120.313 1.76
+3TZ CAL  CBB CAM  118.950 1.50
+3TZ CAL  CBB CAY  120.525 2.80
+3TZ CAM  CBB CAY  120.525 2.80
+3TZ CAI  CBD CAQ  120.066 1.50
+3TZ CAI  CBD CBG  117.912 1.50
+3TZ CAQ  CBD CBG  122.022 2.87
+3TZ CAN  CBE SAV  130.832 3.00
+3TZ CAN  CBE CBG  120.876 2.16
+3TZ SAV  CBE CBG  108.292 3.00
+3TZ C5   CBG CBD  132.800 1.50
+3TZ C5   CBG CBE  107.146 1.50
+3TZ CBD  CBG CBE  120.055 2.02
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -254,38 +255,39 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-3TZ             sp2_sp3_1         OXT           C          CA           N       0.000    10.0     6
-3TZ             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
-3TZ            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-3TZ            sp2_sp3_14         OE2          CD          CG          CB     120.000    10.0     6
-3TZ              const_69         CAN         CAH         CAI         CBD       0.000    10.0     2
-3TZ              const_27         CAI         CAH         CAN         CBE       0.000    10.0     2
-3TZ              const_40         CAH         CAI         CBD         CAQ     180.000    10.0     2
-3TZ              const_43         CBA         CAJ         CAL         CBB       0.000    10.0     2
-3TZ              const_74         CAL         CAJ         CBA         NAT     180.000    10.0     2
-3TZ              const_55         CBA         CAK         CAM         CBB       0.000    10.0     2
-3TZ              const_60         CAM         CAK         CBA         NAT     180.000    10.0     2
-3TZ             sp2_sp3_7         CAY           N          CA           C       0.000    10.0     6
-3TZ             sp2_sp2_3         OAD         CAY           N          CA       0.000     5.0     2
-3TZ              const_48         CAJ         CAL         CBB         CAY     180.000    10.0     2
-3TZ              const_52         CAK         CAM         CBB         CAY     180.000    10.0     2
-3TZ              const_32         CAH         CAN         CBE         SAV     180.000    10.0     2
-3TZ            sp2_sp3_20         CBA         NAT         CAQ         CBD     120.000    10.0     6
-3TZ            sp2_sp3_26         CAI         CBD         CAQ         NAT     -90.000    10.0     6
-3TZ             sp2_sp2_9         CAJ         CBA         NAT         CAQ     180.000     5.0     2
-3TZ              const_26         CAN         CBE         SAV          C4     180.000    10.0     2
-3TZ            sp2_sp2_13           N         CAY         CBB         CAL     180.000     5.0     2
-3TZ              const_38         CAQ         CBD         CBG          C5       0.000    10.0     2
-3TZ              const_22         CAN         CBE         CBG          C5     180.000    10.0     2
-3TZ       const_sp2_sp2_3         NAA          C2          N1          C6     180.000     5.0     2
-3TZ              const_65          O6          C6          N1          C2     180.000    10.0     2
-3TZ             sp2_sp2_5          N1          C2         NAA        HNAA     180.000     5.0     2
-3TZ       const_sp2_sp2_6         NAA          C2          N3          C4     180.000     5.0     2
-3TZ       const_sp2_sp2_7          C5          C4          N3          C2       0.000     5.0     2
-3TZ              const_68          N3          C4         SAV         CBE     180.000    10.0     2
-3TZ       const_sp2_sp2_9          N3          C4          C5          C6       0.000     5.0     2
-3TZ              const_18          C4          C5         CBG         CBD     180.000    10.0     2
-3TZ              const_14          C4          C5          C6          O6     180.000    10.0     2
+3TZ sp2_sp3_1       OXT C   CA  N    0.000   10.0 6
+3TZ sp3_sp3_1       C   CA  CB  CG   180.000 10.0 3
+3TZ sp3_sp3_10      CA  CB  CG  CD   180.000 10.0 3
+3TZ sp2_sp3_14      OE2 CD  CG  CB   120.000 10.0 6
+3TZ const_69        CAN CAH CAI CBD  0.000   10.0 2
+3TZ const_27        CAI CAH CAN CBE  0.000   10.0 2
+3TZ const_40        CAH CAI CBD CAQ  180.000 10.0 2
+3TZ const_43        CBA CAJ CAL CBB  0.000   10.0 2
+3TZ const_74        CAL CAJ CBA NAT  180.000 10.0 2
+3TZ const_55        CBA CAK CAM CBB  0.000   10.0 2
+3TZ const_60        CAM CAK CBA NAT  180.000 10.0 2
+3TZ sp2_sp3_7       CAY N   CA  C    0.000   10.0 6
+3TZ sp2_sp2_3       OAD CAY N   CA   0.000   5.0  2
+3TZ const_48        CAJ CAL CBB CAY  180.000 10.0 2
+3TZ const_52        CAK CAM CBB CAY  180.000 10.0 2
+3TZ const_32        CAH CAN CBE SAV  180.000 10.0 2
+3TZ sp2_sp3_20      CBA NAT CAQ CBD  120.000 10.0 6
+3TZ sp2_sp3_26      CAI CBD CAQ NAT  -90.000 10.0 6
+3TZ sp2_sp2_9       CAJ CBA NAT CAQ  180.000 5.0  2
+3TZ const_26        CAN CBE SAV C4   180.000 10.0 2
+3TZ sp2_sp2_13      N   CAY CBB CAL  180.000 5.0  2
+3TZ const_38        CAQ CBD CBG C5   0.000   10.0 2
+3TZ const_22        CAN CBE CBG C5   180.000 10.0 2
+3TZ const_sp2_sp2_3 NAA C2  N1  C6   180.000 5.0  2
+3TZ const_65        O6  C6  N1  C2   180.000 10.0 2
+3TZ sp2_sp2_5       N1  C2  NAA HNAA 180.000 5.0  2
+3TZ const_sp2_sp2_6 NAA C2  N3  C4   180.000 5.0  2
+3TZ const_sp2_sp2_7 C5  C4  N3  C2   0.000   5.0  2
+3TZ const_68        N3  C4  SAV CBE  180.000 10.0 2
+3TZ const_sp2_sp2_9 N3  C4  C5  C6   0.000   5.0  2
+3TZ const_18        C4  C5  CBG CBD  180.000 10.0 2
+3TZ const_14        C4  C5  C6  O6   180.000 10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -294,87 +296,100 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-3TZ    chir_1    CA    N    C    CB    positive
+3TZ chir_1 CA N C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-3TZ    plan-1          C2   0.020
-3TZ    plan-1          C4   0.020
-3TZ    plan-1          C5   0.020
-3TZ    plan-1          C6   0.020
-3TZ    plan-1         CAH   0.020
-3TZ    plan-1         CAI   0.020
-3TZ    plan-1         CAN   0.020
-3TZ    plan-1         CAQ   0.020
-3TZ    plan-1         CBD   0.020
-3TZ    plan-1         CBE   0.020
-3TZ    plan-1         CBG   0.020
-3TZ    plan-1         HAH   0.020
-3TZ    plan-1         HAI   0.020
-3TZ    plan-1         HAN   0.020
-3TZ    plan-1         HN1   0.020
-3TZ    plan-1          N1   0.020
-3TZ    plan-1          N3   0.020
-3TZ    plan-1         NAA   0.020
-3TZ    plan-1          O6   0.020
-3TZ    plan-1         SAV   0.020
-3TZ    plan-2         CAJ   0.020
-3TZ    plan-2         CAK   0.020
-3TZ    plan-2         CAL   0.020
-3TZ    plan-2         CAM   0.020
-3TZ    plan-2         CAY   0.020
-3TZ    plan-2         CBA   0.020
-3TZ    plan-2         CBB   0.020
-3TZ    plan-2         HAJ   0.020
-3TZ    plan-2         HAK   0.020
-3TZ    plan-2         HAL   0.020
-3TZ    plan-2         HAM   0.020
-3TZ    plan-2         NAT   0.020
-3TZ    plan-3           C   0.020
-3TZ    plan-3          CA   0.020
-3TZ    plan-3           O   0.020
-3TZ    plan-3         OXT   0.020
-3TZ    plan-4          CA   0.020
-3TZ    plan-4         CAY   0.020
-3TZ    plan-4          HN   0.020
-3TZ    plan-4           N   0.020
-3TZ    plan-5          CD   0.020
-3TZ    plan-5          CG   0.020
-3TZ    plan-5         OE1   0.020
-3TZ    plan-5         OE2   0.020
-3TZ    plan-6          C2   0.020
-3TZ    plan-6        HNAA   0.020
-3TZ    plan-6        HNAB   0.020
-3TZ    plan-6         NAA   0.020
-3TZ    plan-7         CAQ   0.020
-3TZ    plan-7         CBA   0.020
-3TZ    plan-7        HNAT   0.020
-3TZ    plan-7         NAT   0.020
-3TZ    plan-8         CAY   0.020
-3TZ    plan-8         CBB   0.020
-3TZ    plan-8           N   0.020
-3TZ    plan-8         OAD   0.020
+3TZ plan-1 C2   0.020
+3TZ plan-1 C4   0.020
+3TZ plan-1 C5   0.020
+3TZ plan-1 C6   0.020
+3TZ plan-1 CAH  0.020
+3TZ plan-1 CAI  0.020
+3TZ plan-1 CAN  0.020
+3TZ plan-1 CAQ  0.020
+3TZ plan-1 CBD  0.020
+3TZ plan-1 CBE  0.020
+3TZ plan-1 CBG  0.020
+3TZ plan-1 HAH  0.020
+3TZ plan-1 HAI  0.020
+3TZ plan-1 HAN  0.020
+3TZ plan-1 HN1  0.020
+3TZ plan-1 N1   0.020
+3TZ plan-1 N3   0.020
+3TZ plan-1 NAA  0.020
+3TZ plan-1 O6   0.020
+3TZ plan-1 SAV  0.020
+3TZ plan-2 CAJ  0.020
+3TZ plan-2 CAK  0.020
+3TZ plan-2 CAL  0.020
+3TZ plan-2 CAM  0.020
+3TZ plan-2 CAY  0.020
+3TZ plan-2 CBA  0.020
+3TZ plan-2 CBB  0.020
+3TZ plan-2 HAJ  0.020
+3TZ plan-2 HAK  0.020
+3TZ plan-2 HAL  0.020
+3TZ plan-2 HAM  0.020
+3TZ plan-2 NAT  0.020
+3TZ plan-3 C    0.020
+3TZ plan-3 CA   0.020
+3TZ plan-3 O    0.020
+3TZ plan-3 OXT  0.020
+3TZ plan-4 CA   0.020
+3TZ plan-4 CAY  0.020
+3TZ plan-4 HN   0.020
+3TZ plan-4 N    0.020
+3TZ plan-5 CD   0.020
+3TZ plan-5 CG   0.020
+3TZ plan-5 OE1  0.020
+3TZ plan-5 OE2  0.020
+3TZ plan-6 C2   0.020
+3TZ plan-6 HNAA 0.020
+3TZ plan-6 HNAB 0.020
+3TZ plan-6 NAA  0.020
+3TZ plan-7 CAQ  0.020
+3TZ plan-7 CBA  0.020
+3TZ plan-7 HNAT 0.020
+3TZ plan-7 NAT  0.020
+3TZ plan-8 CAY  0.020
+3TZ plan-8 CBB  0.020
+3TZ plan-8 N    0.020
+3TZ plan-8 OAD  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-3TZ           SMILES              ACDLabs 12.01                                                                                                                                            O=C(O)C(NC(=O)c1ccc(cc1)NCc4c2c(sc3N=C(NC(=O)c23)N)ccc4)CCC(=O)O
-3TZ SMILES_CANONICAL               CACTVS 3.370                                                                                                                                         NC1=Nc2sc3cccc(CNc4ccc(cc4)C(=O)N[C@@H](CCC(O)=O)C(O)=O)c3c2C(=O)N1
-3TZ           SMILES               CACTVS 3.370                                                                                                                                           NC1=Nc2sc3cccc(CNc4ccc(cc4)C(=O)N[CH](CCC(O)=O)C(O)=O)c3c2C(=O)N1
-3TZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                                     c1cc(c2c(c1)sc3c2C(=O)NC(=N3)N)CNc4ccc(cc4)C(=O)N[C@@H](CCC(=O)O)C(=O)O
-3TZ           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                          c1cc(c2c(c1)sc3c2C(=O)NC(=N3)N)CNc4ccc(cc4)C(=O)NC(CCC(=O)O)C(=O)O
-3TZ            InChI                InChI  1.03 InChI=1S/C23H21N5O6S/c24-23-27-20(32)18-17-12(2-1-3-15(17)35-21(18)28-23)10-25-13-6-4-11(5-7-13)19(31)26-14(22(33)34)8-9-16(29)30/h1-7,14,25H,8-10H2,(H,26,31)(H,29,30)(H,33,34)(H3,24,27,28,32)/t14-/m0/s1
-3TZ         InChIKey                InChI  1.03                                                                                                                                                                                 GLRZVZIDWYADTN-AWEZNQCLSA-N
+3TZ SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)c1ccc(cc1)NCc4c2c(sc3N=C(NC(=O)c23)N)ccc4)CCC(=O)O
+3TZ SMILES_CANONICAL CACTVS               3.370 NC1=Nc2sc3cccc(CNc4ccc(cc4)C(=O)N[C@@H](CCC(O)=O)C(O)=O)c3c2C(=O)N1
+3TZ SMILES           CACTVS               3.370 NC1=Nc2sc3cccc(CNc4ccc(cc4)C(=O)N[CH](CCC(O)=O)C(O)=O)c3c2C(=O)N1
+3TZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 c1cc(c2c(c1)sc3c2C(=O)NC(=N3)N)CNc4ccc(cc4)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+3TZ SMILES           "OpenEye OEToolkits" 1.7.0 c1cc(c2c(c1)sc3c2C(=O)NC(=N3)N)CNc4ccc(cc4)C(=O)NC(CCC(=O)O)C(=O)O
+3TZ InChI            InChI                1.03  InChI=1S/C23H21N5O6S/c24-23-27-20(32)18-17-12(2-1-3-15(17)35-21(18)28-23)10-25-13-6-4-11(5-7-13)19(31)26-14(22(33)34)8-9-16(29)30/h1-7,14,25H,8-10H2,(H,26,31)(H,29,30)(H,33,34)(H3,24,27,28,32)/t14-/m0/s1
+3TZ InChIKey         InChI                1.03  GLRZVZIDWYADTN-AWEZNQCLSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-3TZ acedrg               243         "dictionary generator"                  
-3TZ acedrg_database      11          "data source"                           
-3TZ rdkit                2017.03.2   "Chemoinformatics tool"
-3TZ refmac5              5.8.0238    "optimization tool"                     
+3TZ acedrg          243       "dictionary generator"
+3TZ acedrg_database 11        "data source"
+3TZ rdkit           2017.03.2 "Chemoinformatics tool"
+3TZ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+3TZ M-peptide OXT O
+3TZ M-peptide CAY CN
+3TZ M-peptide O   OXT
+3TZ M-peptide HN  H

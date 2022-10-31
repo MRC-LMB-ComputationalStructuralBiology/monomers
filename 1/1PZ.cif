@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-1PZ     1PZ      "(2S,3R,4E)-2-(dodecanoylamino)-3-hydroxyoctadec-4-en-1-yl dihydrogen phosphate"     NON-POLYMER     96     38     .     
-#
+1PZ 1PZ "(2S,3R,4E)-2-(dodecanoylamino)-3-hydroxyoctadec-4-en-1-yl dihydrogen phosphate" NON-POLYMER 96 38 .
+
 data_comp_1PZ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,102 +19,103 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-1PZ     CAS     C       CH3     0       8.127       58.646      51.626      
-1PZ     CAF     C       CH2     0       8.324       57.382      52.427      
-1PZ     CAG     C       CH2     0       8.558       57.624      53.896      
-1PZ     CAH     C       CH2     0       8.837       56.373      54.693      
-1PZ     CAI     C       CH2     0       8.943       56.595      56.181      
-1PZ     CAJ     C       CH2     0       9.318       55.359      56.963      
-1PZ     CAK     C       CH2     0       9.284       55.531      58.466      
-1PZ     CAL     C       CH2     0       7.896       55.647      59.061      
-1PZ     CAM     C       CH2     0       7.779       55.122      60.473      
-1PZ     CAN     C       CH2     0       6.396       55.238      61.069      
-1PZ     CAO     C       CH2     0       6.142       54.300      62.226      
-1PZ     CAP     C       CH2     0       4.816       54.522      62.943      
-1PZ     CAQ     C       CH2     0       4.813       55.655      63.925      
-1PZ     CAE     C       C1      0       5.499       55.339      65.218      
-1PZ     CAD     C       C1      0       6.754       55.551      65.474      
-1PZ     CAC     C       CH1     0       7.434       55.309      66.787      
-1PZ     OAR     O       OH1     0       7.627       53.916      66.988      
-1PZ     CAB     C       CH1     0       8.779       56.064      66.838      
-1PZ     CAA     C       CH2     0       9.551       55.861      68.137      
-1PZ     OBB     O       O2      0       8.753       56.221      69.298      
-1PZ     PAX     P       P       0       9.312       55.837      70.764      
-1PZ     OAZ     O       O       0       9.312       54.321      70.821      
-1PZ     OBA     O       OP      -1      10.706      56.430      70.843      
-1PZ     OAY     O       OP      -1      8.347       56.464      71.753      
-1PZ     NAW     N       NH1     0       8.555       57.487      66.610      
-1PZ     CAU     C       C       0       9.198       58.238      65.698      
-1PZ     OAV     O       O       0       10.239      57.875      65.153      
-1PZ     CAT     C       CH2     0       8.578       59.586      65.390      
-1PZ     CBC     C       CH2     0       7.313       59.482      64.577      
-1PZ     CBD     C       CH2     0       7.508       58.966      63.154      
-1PZ     CBE     C       CH2     0       8.214       59.925      62.226      
-1PZ     CBF     C       CH2     0       8.309       59.451      60.795      
-1PZ     CBG     C       CH2     0       8.934       60.455      59.858      
-1PZ     CBH     C       CH2     0       9.033       59.999      58.423      
-1PZ     CBI     C       CH2     0       9.583       61.048      57.486      
-1PZ     CBJ     C       CH2     0       9.658       60.621      56.041      
-1PZ     CBK     C       CH2     0       10.161      61.697      55.113      
-1PZ     CBL     C       CH3     0       10.181      61.292      53.658      
-1PZ     H1      H       H       0       7.984       58.420      50.691      
-1PZ     H2      H       H       0       8.917       59.208      51.705      
-1PZ     H3      H       H       0       7.353       59.128      51.964      
-1PZ     H4      H       H       0       9.093       56.891      52.063      
-1PZ     H5      H       H       0       7.530       56.813      52.324      
-1PZ     H6      H       H       0       7.766       58.066      54.271      
-1PZ     H7      H       H       0       9.317       58.238      53.997      
-1PZ     H8      H       H       0       9.676       55.979      54.373      
-1PZ     H9      H       H       0       8.120       55.726      54.522      
-1PZ     H10     H       H       0       8.082       56.929      56.511      
-1PZ     H11     H       H       0       9.616       57.289      56.349      
-1PZ     H12     H       H       0       10.224      55.086      56.701      
-1PZ     H13     H       H       0       8.708       54.632      56.715      
-1PZ     H14     H       H       0       9.793       56.337      58.699      
-1PZ     H15     H       H       0       9.740       54.765      58.877      
-1PZ     H16     H       H       0       7.265       55.158      58.493      
-1PZ     H17     H       H       0       7.631       56.592      59.055      
-1PZ     H18     H       H       0       8.409       55.613      61.044      
-1PZ     H19     H       H       0       8.046       54.178      60.479      
-1PZ     H20     H       H       0       5.734       55.058      60.367      
-1PZ     H21     H       H       0       6.261       56.160      61.374      
-1PZ     H22     H       H       0       6.871       54.398      62.873      
-1PZ     H23     H       H       0       6.166       53.379      61.891      
-1PZ     H24     H       H       0       4.575       53.697      63.415      
-1PZ     H25     H       H       0       4.122       54.688      62.271      
-1PZ     H26     H       H       0       3.882       55.907      64.114      
-1PZ     H27     H       H       0       5.256       56.431      63.514      
-1PZ     H28     H       H       0       4.972       54.952      65.901      
-1PZ     H30     H       H       0       7.291       55.887      64.772      
-1PZ     H32     H       H       0       6.857       55.655      67.511      
-1PZ     H33     H       H       0       8.156       53.614      66.397      
-1PZ     H34     H       H       0       9.337       55.708      66.104      
-1PZ     H35     H       H       0       10.364      56.408      68.115      
-1PZ     H36     H       H       0       9.822       54.921      68.205      
-1PZ     H39     H       H       0       7.957       57.869      67.119      
-1PZ     H40     H       H       0       9.230       60.132      64.903      
-1PZ     H41     H       H       0       8.376       60.043      66.234      
-1PZ     H42     H       H       0       6.896       60.367      64.533      
-1PZ     H43     H       H       0       6.691       58.885      65.043      
-1PZ     H44     H       H       0       6.626       58.761      62.776      
-1PZ     H45     H       H       0       8.015       58.128      63.183      
-1PZ     H46     H       H       0       9.121       60.081      62.563      
-1PZ     H47     H       H       0       7.739       60.783      62.241      
-1PZ     H48     H       H       0       7.407       59.238      60.473      
-1PZ     H49     H       H       0       8.837       58.625      60.771      
-1PZ     H50     H       H       0       9.835       60.667      60.182      
-1PZ     H51     H       H       0       8.407       61.282      59.888      
-1PZ     H52     H       H       0       8.141       59.736      58.113      
-1PZ     H53     H       H       0       9.610       59.206      58.382      
-1PZ     H54     H       H       0       10.484      61.295      57.787      
-1PZ     H55     H       H       0       9.020       61.849      57.548      
-1PZ     H56     H       H       0       8.764       60.344      55.746      
-1PZ     H57     H       H       0       10.250      59.842      55.971      
-1PZ     H58     H       H       0       11.071      61.946      55.385      
-1PZ     H59     H       H       0       9.592       62.491      55.213      
-1PZ     H60     H       H       0       10.508      62.032      53.118      
-1PZ     H61     H       H       0       9.280       61.058      53.373      
-1PZ     H62     H       H       0       10.766      60.523      53.542      
+1PZ CAS C CH3 0  8.127  58.646 51.626
+1PZ CAF C CH2 0  8.324  57.382 52.427
+1PZ CAG C CH2 0  8.558  57.624 53.896
+1PZ CAH C CH2 0  8.837  56.373 54.693
+1PZ CAI C CH2 0  8.943  56.595 56.181
+1PZ CAJ C CH2 0  9.318  55.359 56.963
+1PZ CAK C CH2 0  9.284  55.531 58.466
+1PZ CAL C CH2 0  7.896  55.647 59.061
+1PZ CAM C CH2 0  7.779  55.122 60.473
+1PZ CAN C CH2 0  6.396  55.238 61.069
+1PZ CAO C CH2 0  6.142  54.300 62.226
+1PZ CAP C CH2 0  4.816  54.522 62.943
+1PZ CAQ C CH2 0  4.813  55.655 63.925
+1PZ CAE C C1  0  5.499  55.339 65.218
+1PZ CAD C C1  0  6.754  55.551 65.474
+1PZ CAC C CH1 0  7.434  55.309 66.787
+1PZ OAR O OH1 0  7.627  53.916 66.988
+1PZ CAB C CH1 0  8.779  56.064 66.838
+1PZ CAA C CH2 0  9.551  55.861 68.137
+1PZ OBB O O2  0  8.753  56.221 69.298
+1PZ PAX P P   0  9.312  55.837 70.764
+1PZ OAZ O O   0  9.312  54.321 70.821
+1PZ OBA O OP  -1 10.706 56.430 70.843
+1PZ OAY O OP  -1 8.347  56.464 71.753
+1PZ NAW N NH1 0  8.555  57.487 66.610
+1PZ CAU C C   0  9.198  58.238 65.698
+1PZ OAV O O   0  10.239 57.875 65.153
+1PZ CAT C CH2 0  8.578  59.586 65.390
+1PZ CBC C CH2 0  7.313  59.482 64.577
+1PZ CBD C CH2 0  7.508  58.966 63.154
+1PZ CBE C CH2 0  8.214  59.925 62.226
+1PZ CBF C CH2 0  8.309  59.451 60.795
+1PZ CBG C CH2 0  8.934  60.455 59.858
+1PZ CBH C CH2 0  9.033  59.999 58.423
+1PZ CBI C CH2 0  9.583  61.048 57.486
+1PZ CBJ C CH2 0  9.658  60.621 56.041
+1PZ CBK C CH2 0  10.161 61.697 55.113
+1PZ CBL C CH3 0  10.181 61.292 53.658
+1PZ H1  H H   0  7.984  58.420 50.691
+1PZ H2  H H   0  8.917  59.208 51.705
+1PZ H3  H H   0  7.353  59.128 51.964
+1PZ H4  H H   0  9.093  56.891 52.063
+1PZ H5  H H   0  7.530  56.813 52.324
+1PZ H6  H H   0  7.766  58.066 54.271
+1PZ H7  H H   0  9.317  58.238 53.997
+1PZ H8  H H   0  9.676  55.979 54.373
+1PZ H9  H H   0  8.120  55.726 54.522
+1PZ H10 H H   0  8.082  56.929 56.511
+1PZ H11 H H   0  9.616  57.289 56.349
+1PZ H12 H H   0  10.224 55.086 56.701
+1PZ H13 H H   0  8.708  54.632 56.715
+1PZ H14 H H   0  9.793  56.337 58.699
+1PZ H15 H H   0  9.740  54.765 58.877
+1PZ H16 H H   0  7.265  55.158 58.493
+1PZ H17 H H   0  7.631  56.592 59.055
+1PZ H18 H H   0  8.409  55.613 61.044
+1PZ H19 H H   0  8.046  54.178 60.479
+1PZ H20 H H   0  5.734  55.058 60.367
+1PZ H21 H H   0  6.261  56.160 61.374
+1PZ H22 H H   0  6.871  54.398 62.873
+1PZ H23 H H   0  6.166  53.379 61.891
+1PZ H24 H H   0  4.575  53.697 63.415
+1PZ H25 H H   0  4.122  54.688 62.271
+1PZ H26 H H   0  3.882  55.907 64.114
+1PZ H27 H H   0  5.256  56.431 63.514
+1PZ H28 H H   0  4.972  54.952 65.901
+1PZ H30 H H   0  7.291  55.887 64.772
+1PZ H32 H H   0  6.857  55.655 67.511
+1PZ H33 H H   0  8.156  53.614 66.397
+1PZ H34 H H   0  9.337  55.708 66.104
+1PZ H35 H H   0  10.364 56.408 68.115
+1PZ H36 H H   0  9.822  54.921 68.205
+1PZ H39 H H   0  7.957  57.869 67.119
+1PZ H40 H H   0  9.230  60.132 64.903
+1PZ H41 H H   0  8.376  60.043 66.234
+1PZ H42 H H   0  6.896  60.367 64.533
+1PZ H43 H H   0  6.691  58.885 65.043
+1PZ H44 H H   0  6.626  58.761 62.776
+1PZ H45 H H   0  8.015  58.128 63.183
+1PZ H46 H H   0  9.121  60.081 62.563
+1PZ H47 H H   0  7.739  60.783 62.241
+1PZ H48 H H   0  7.407  59.238 60.473
+1PZ H49 H H   0  8.837  58.625 60.771
+1PZ H50 H H   0  9.835  60.667 60.182
+1PZ H51 H H   0  8.407  61.282 59.888
+1PZ H52 H H   0  8.141  59.736 58.113
+1PZ H53 H H   0  9.610  59.206 58.382
+1PZ H54 H H   0  10.484 61.295 57.787
+1PZ H55 H H   0  9.020  61.849 57.548
+1PZ H56 H H   0  8.764  60.344 55.746
+1PZ H57 H H   0  10.250 59.842 55.971
+1PZ H58 H H   0  11.071 61.946 55.385
+1PZ H59 H H   0  9.592  62.491 55.213
+1PZ H60 H H   0  10.508 62.032 53.118
+1PZ H61 H H   0  9.280  61.058 53.373
+1PZ H62 H H   0  10.766 60.523 53.542
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -127,101 +126,102 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-1PZ         CAS         CAF      SINGLE       n     1.510  0.0200     1.510  0.0200
-1PZ         CAF         CAG      SINGLE       n     1.507  0.0200     1.507  0.0200
-1PZ         CBK         CBL      SINGLE       n     1.510  0.0200     1.510  0.0200
-1PZ         CAG         CAH      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAH         CAI      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBJ         CBK      SINGLE       n     1.507  0.0200     1.507  0.0200
-1PZ         CBI         CBJ      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAI         CAJ      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAJ         CAK      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBH         CBI      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBG         CBH      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAK         CAL      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAL         CAM      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBF         CBG      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBE         CBF      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAM         CAN      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CAN         CAO      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBD         CBE      SINGLE       n     1.509  0.0200     1.509  0.0200
-1PZ         CBC         CBD      SINGLE       n     1.519  0.0164     1.519  0.0164
-1PZ         CAO         CAP      SINGLE       n     1.523  0.0117     1.523  0.0117
-1PZ         CAP         CAQ      SINGLE       n     1.497  0.0200     1.497  0.0200
-1PZ         CAQ         CAE      SINGLE       n     1.497  0.0127     1.497  0.0127
-1PZ         CAT         CBC      SINGLE       n     1.497  0.0200     1.497  0.0200
-1PZ         CAU         CAT      SINGLE       n     1.514  0.0100     1.514  0.0100
-1PZ         CAU         OAV      DOUBLE       n     1.229  0.0102     1.229  0.0102
-1PZ         CAE         CAD      DOUBLE       n     1.299  0.0200     1.299  0.0200
-1PZ         NAW         CAU      SINGLE       n     1.339  0.0121     1.339  0.0121
-1PZ         CAD         CAC      SINGLE       n     1.497  0.0113     1.497  0.0113
-1PZ         CAB         NAW      SINGLE       n     1.455  0.0100     1.455  0.0100
-1PZ         CAC         CAB      SINGLE       n     1.538  0.0159     1.538  0.0159
-1PZ         CAC         OAR      SINGLE       n     1.419  0.0162     1.419  0.0162
-1PZ         CAB         CAA      SINGLE       n     1.523  0.0123     1.523  0.0123
-1PZ         CAA         OBB      SINGLE       n     1.454  0.0165     1.454  0.0165
-1PZ         OBB         PAX      SINGLE       n     1.614  0.0178     1.614  0.0178
-1PZ         PAX         OAZ      DOUBLE       n     1.517  0.0192     1.517  0.0192
-1PZ         PAX         OAY      SINGLE       n     1.517  0.0192     1.517  0.0192
-1PZ         PAX         OBA      SINGLE       n     1.517  0.0192     1.517  0.0192
-1PZ         CAS          H1      SINGLE       n     1.089  0.0100     0.973  0.0157
-1PZ         CAS          H2      SINGLE       n     1.089  0.0100     0.973  0.0157
-1PZ         CAS          H3      SINGLE       n     1.089  0.0100     0.973  0.0157
-1PZ         CAF          H4      SINGLE       n     1.089  0.0100     0.982  0.0155
-1PZ         CAF          H5      SINGLE       n     1.089  0.0100     0.982  0.0155
-1PZ         CAG          H6      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAG          H7      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAH          H8      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAH          H9      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAI         H10      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAI         H11      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAJ         H12      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAJ         H13      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAK         H14      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAK         H15      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAL         H16      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAL         H17      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAM         H18      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAM         H19      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAN         H20      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAN         H21      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAO         H22      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAO         H23      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CAP         H24      SINGLE       n     1.089  0.0100     0.980  0.0160
-1PZ         CAP         H25      SINGLE       n     1.089  0.0100     0.980  0.0160
-1PZ         CAQ         H26      SINGLE       n     1.089  0.0100     0.983  0.0180
-1PZ         CAQ         H27      SINGLE       n     1.089  0.0100     0.983  0.0180
-1PZ         CAE         H28      SINGLE       n     1.082  0.0130     0.945  0.0200
-1PZ         CAD         H30      SINGLE       n     1.082  0.0130     0.945  0.0200
-1PZ         CAC         H32      SINGLE       n     1.089  0.0100     0.988  0.0129
-1PZ         OAR         H33      SINGLE       n     0.970  0.0120     0.848  0.0200
-1PZ         CAB         H34      SINGLE       n     1.089  0.0100     0.988  0.0127
-1PZ         CAA         H35      SINGLE       n     1.089  0.0100     0.980  0.0146
-1PZ         CAA         H36      SINGLE       n     1.089  0.0100     0.980  0.0146
-1PZ         NAW         H39      SINGLE       n     1.016  0.0100     0.872  0.0200
-1PZ         CAT         H40      SINGLE       n     1.089  0.0100     0.981  0.0185
-1PZ         CAT         H41      SINGLE       n     1.089  0.0100     0.981  0.0185
-1PZ         CBC         H42      SINGLE       n     1.089  0.0100     0.980  0.0160
-1PZ         CBC         H43      SINGLE       n     1.089  0.0100     0.980  0.0160
-1PZ         CBD         H44      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBD         H45      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBE         H46      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBE         H47      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBF         H48      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBF         H49      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBG         H50      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBG         H51      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBH         H52      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBH         H53      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBI         H54      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBI         H55      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBJ         H56      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBJ         H57      SINGLE       n     1.089  0.0100     0.981  0.0163
-1PZ         CBK         H58      SINGLE       n     1.089  0.0100     0.982  0.0155
-1PZ         CBK         H59      SINGLE       n     1.089  0.0100     0.982  0.0155
-1PZ         CBL         H60      SINGLE       n     1.089  0.0100     0.973  0.0157
-1PZ         CBL         H61      SINGLE       n     1.089  0.0100     0.973  0.0157
-1PZ         CBL         H62      SINGLE       n     1.089  0.0100     0.973  0.0157
+1PZ CAS CAF SINGLE n 1.510 0.0200 1.510 0.0200
+1PZ CAF CAG SINGLE n 1.507 0.0200 1.507 0.0200
+1PZ CBK CBL SINGLE n 1.510 0.0200 1.510 0.0200
+1PZ CAG CAH SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAH CAI SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBJ CBK SINGLE n 1.507 0.0200 1.507 0.0200
+1PZ CBI CBJ SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAI CAJ SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAJ CAK SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBH CBI SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBG CBH SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAK CAL SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAL CAM SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBF CBG SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBE CBF SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAM CAN SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CAN CAO SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBD CBE SINGLE n 1.509 0.0200 1.509 0.0200
+1PZ CBC CBD SINGLE n 1.519 0.0164 1.519 0.0164
+1PZ CAO CAP SINGLE n 1.523 0.0117 1.523 0.0117
+1PZ CAP CAQ SINGLE n 1.497 0.0200 1.497 0.0200
+1PZ CAQ CAE SINGLE n 1.497 0.0127 1.497 0.0127
+1PZ CAT CBC SINGLE n 1.497 0.0200 1.497 0.0200
+1PZ CAU CAT SINGLE n 1.514 0.0100 1.514 0.0100
+1PZ CAU OAV DOUBLE n 1.229 0.0102 1.229 0.0102
+1PZ CAE CAD DOUBLE n 1.299 0.0200 1.299 0.0200
+1PZ NAW CAU SINGLE n 1.339 0.0121 1.339 0.0121
+1PZ CAD CAC SINGLE n 1.497 0.0113 1.497 0.0113
+1PZ CAB NAW SINGLE n 1.455 0.0100 1.455 0.0100
+1PZ CAC CAB SINGLE n 1.538 0.0159 1.538 0.0159
+1PZ CAC OAR SINGLE n 1.419 0.0162 1.419 0.0162
+1PZ CAB CAA SINGLE n 1.523 0.0123 1.523 0.0123
+1PZ CAA OBB SINGLE n 1.454 0.0165 1.454 0.0165
+1PZ OBB PAX SINGLE n 1.614 0.0178 1.614 0.0178
+1PZ PAX OAZ DOUBLE n 1.517 0.0192 1.517 0.0192
+1PZ PAX OAY SINGLE n 1.517 0.0192 1.517 0.0192
+1PZ PAX OBA SINGLE n 1.517 0.0192 1.517 0.0192
+1PZ CAS H1  SINGLE n 1.089 0.0100 0.973 0.0157
+1PZ CAS H2  SINGLE n 1.089 0.0100 0.973 0.0157
+1PZ CAS H3  SINGLE n 1.089 0.0100 0.973 0.0157
+1PZ CAF H4  SINGLE n 1.089 0.0100 0.982 0.0155
+1PZ CAF H5  SINGLE n 1.089 0.0100 0.982 0.0155
+1PZ CAG H6  SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAG H7  SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAH H8  SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAH H9  SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAI H10 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAI H11 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAJ H12 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAJ H13 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAK H14 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAK H15 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAL H16 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAL H17 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAM H18 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAM H19 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAN H20 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAN H21 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAO H22 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAO H23 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CAP H24 SINGLE n 1.089 0.0100 0.980 0.0160
+1PZ CAP H25 SINGLE n 1.089 0.0100 0.980 0.0160
+1PZ CAQ H26 SINGLE n 1.089 0.0100 0.983 0.0180
+1PZ CAQ H27 SINGLE n 1.089 0.0100 0.983 0.0180
+1PZ CAE H28 SINGLE n 1.082 0.0130 0.945 0.0200
+1PZ CAD H30 SINGLE n 1.082 0.0130 0.945 0.0200
+1PZ CAC H32 SINGLE n 1.089 0.0100 0.988 0.0129
+1PZ OAR H33 SINGLE n 0.970 0.0120 0.848 0.0200
+1PZ CAB H34 SINGLE n 1.089 0.0100 0.988 0.0127
+1PZ CAA H35 SINGLE n 1.089 0.0100 0.980 0.0146
+1PZ CAA H36 SINGLE n 1.089 0.0100 0.980 0.0146
+1PZ NAW H39 SINGLE n 1.016 0.0100 0.872 0.0200
+1PZ CAT H40 SINGLE n 1.089 0.0100 0.981 0.0185
+1PZ CAT H41 SINGLE n 1.089 0.0100 0.981 0.0185
+1PZ CBC H42 SINGLE n 1.089 0.0100 0.980 0.0160
+1PZ CBC H43 SINGLE n 1.089 0.0100 0.980 0.0160
+1PZ CBD H44 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBD H45 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBE H46 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBE H47 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBF H48 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBF H49 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBG H50 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBG H51 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBH H52 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBH H53 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBI H54 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBI H55 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBJ H56 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBJ H57 SINGLE n 1.089 0.0100 0.981 0.0163
+1PZ CBK H58 SINGLE n 1.089 0.0100 0.982 0.0155
+1PZ CBK H59 SINGLE n 1.089 0.0100 0.982 0.0155
+1PZ CBL H60 SINGLE n 1.089 0.0100 0.973 0.0157
+1PZ CBL H61 SINGLE n 1.089 0.0100 0.973 0.0157
+1PZ CBL H62 SINGLE n 1.089 0.0100 0.973 0.0157
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -229,188 +229,189 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-1PZ         CAF         CAS          H1     109.554    1.50
-1PZ         CAF         CAS          H2     109.554    1.50
-1PZ         CAF         CAS          H3     109.554    1.50
-1PZ          H1         CAS          H2     109.380    1.50
-1PZ          H1         CAS          H3     109.380    1.50
-1PZ          H2         CAS          H3     109.380    1.50
-1PZ         CAS         CAF         CAG     113.719    3.00
-1PZ         CAS         CAF          H4     108.918    1.50
-1PZ         CAS         CAF          H5     108.918    1.50
-1PZ         CAG         CAF          H4     108.758    1.50
-1PZ         CAG         CAF          H5     108.758    1.50
-1PZ          H4         CAF          H5     107.763    1.50
-1PZ         CAF         CAG         CAH     114.362    3.00
-1PZ         CAF         CAG          H6     108.653    1.50
-1PZ         CAF         CAG          H7     108.653    1.50
-1PZ         CAH         CAG          H6     108.698    1.50
-1PZ         CAH         CAG          H7     108.698    1.50
-1PZ          H6         CAG          H7     107.646    1.50
-1PZ         CAG         CAH         CAI     114.243    1.69
-1PZ         CAG         CAH          H8     108.698    1.50
-1PZ         CAG         CAH          H9     108.698    1.50
-1PZ         CAI         CAH          H8     108.698    1.50
-1PZ         CAI         CAH          H9     108.698    1.50
-1PZ          H8         CAH          H9     107.646    1.50
-1PZ         CAH         CAI         CAJ     114.243    1.69
-1PZ         CAH         CAI         H10     108.698    1.50
-1PZ         CAH         CAI         H11     108.698    1.50
-1PZ         CAJ         CAI         H10     108.698    1.50
-1PZ         CAJ         CAI         H11     108.698    1.50
-1PZ         H10         CAI         H11     107.646    1.50
-1PZ         CAI         CAJ         CAK     114.243    1.69
-1PZ         CAI         CAJ         H12     108.698    1.50
-1PZ         CAI         CAJ         H13     108.698    1.50
-1PZ         CAK         CAJ         H12     108.698    1.50
-1PZ         CAK         CAJ         H13     108.698    1.50
-1PZ         H12         CAJ         H13     107.646    1.50
-1PZ         CAJ         CAK         CAL     114.243    1.69
-1PZ         CAJ         CAK         H14     108.698    1.50
-1PZ         CAJ         CAK         H15     108.698    1.50
-1PZ         CAL         CAK         H14     108.698    1.50
-1PZ         CAL         CAK         H15     108.698    1.50
-1PZ         H14         CAK         H15     107.646    1.50
-1PZ         CAK         CAL         CAM     114.243    1.69
-1PZ         CAK         CAL         H16     108.698    1.50
-1PZ         CAK         CAL         H17     108.698    1.50
-1PZ         CAM         CAL         H16     108.698    1.50
-1PZ         CAM         CAL         H17     108.698    1.50
-1PZ         H16         CAL         H17     107.646    1.50
-1PZ         CAL         CAM         CAN     114.243    1.69
-1PZ         CAL         CAM         H18     108.698    1.50
-1PZ         CAL         CAM         H19     108.698    1.50
-1PZ         CAN         CAM         H18     108.698    1.50
-1PZ         CAN         CAM         H19     108.698    1.50
-1PZ         H18         CAM         H19     107.646    1.50
-1PZ         CAM         CAN         CAO     114.243    1.69
-1PZ         CAM         CAN         H20     108.698    1.50
-1PZ         CAM         CAN         H21     108.698    1.50
-1PZ         CAO         CAN         H20     108.698    1.50
-1PZ         CAO         CAN         H21     108.698    1.50
-1PZ         H20         CAN         H21     107.646    1.50
-1PZ         CAN         CAO         CAP     114.243    1.69
-1PZ         CAN         CAO         H22     108.698    1.50
-1PZ         CAN         CAO         H23     108.698    1.50
-1PZ         CAP         CAO         H22     108.698    1.50
-1PZ         CAP         CAO         H23     108.698    1.50
-1PZ         H22         CAO         H23     107.646    1.50
-1PZ         CAO         CAP         CAQ     114.266    1.80
-1PZ         CAO         CAP         H24     108.698    1.50
-1PZ         CAO         CAP         H25     108.698    1.50
-1PZ         CAQ         CAP         H24     108.805    1.50
-1PZ         CAQ         CAP         H25     108.805    1.50
-1PZ         H24         CAP         H25     107.646    1.50
-1PZ         CAP         CAQ         CAE     113.226    1.94
-1PZ         CAP         CAQ         H26     108.819    1.50
-1PZ         CAP         CAQ         H27     108.819    1.50
-1PZ         CAE         CAQ         H26     108.886    1.50
-1PZ         CAE         CAQ         H27     108.886    1.50
-1PZ         H26         CAQ         H27     107.922    1.50
-1PZ         CAQ         CAE         CAD     125.662    2.06
-1PZ         CAQ         CAE         H28     116.866    1.61
-1PZ         CAD         CAE         H28     117.471    1.50
-1PZ         CAE         CAD         CAC     125.212    1.80
-1PZ         CAE         CAD         H30     117.843    1.50
-1PZ         CAC         CAD         H30     116.945    1.63
-1PZ         CAD         CAC         CAB     111.511    2.91
-1PZ         CAD         CAC         OAR     109.951    2.10
-1PZ         CAD         CAC         H32     108.883    1.50
-1PZ         CAB         CAC         OAR     110.423    2.15
-1PZ         CAB         CAC         H32     108.277    1.50
-1PZ         OAR         CAC         H32     108.675    1.50
-1PZ         CAC         OAR         H33     108.894    3.00
-1PZ         NAW         CAB         CAC     111.308    2.28
-1PZ         NAW         CAB         CAA     109.157    1.65
-1PZ         NAW         CAB         H34     108.194    1.50
-1PZ         CAC         CAB         CAA     111.094    2.85
-1PZ         CAC         CAB         H34     107.549    1.55
-1PZ         CAA         CAB         H34     107.627    1.50
-1PZ         CAB         CAA         OBB     110.589    2.35
-1PZ         CAB         CAA         H35     109.343    1.50
-1PZ         CAB         CAA         H36     109.343    1.50
-1PZ         OBB         CAA         H35     109.758    1.50
-1PZ         OBB         CAA         H36     109.758    1.50
-1PZ         H35         CAA         H36     108.157    1.50
-1PZ         CAA         OBB         PAX     118.609    1.50
-1PZ         OBB         PAX         OAZ     105.795    2.09
-1PZ         OBB         PAX         OAY     105.795    2.09
-1PZ         OBB         PAX         OBA     105.795    2.09
-1PZ         OAZ         PAX         OAY     112.864    1.69
-1PZ         OAZ         PAX         OBA     112.864    1.69
-1PZ         OAY         PAX         OBA     112.864    1.69
-1PZ         CAU         NAW         CAB     123.741    1.63
-1PZ         CAU         NAW         H39     118.656    1.50
-1PZ         CAB         NAW         H39     117.592    3.00
-1PZ         CAT         CAU         OAV     121.831    1.50
-1PZ         CAT         CAU         NAW     116.136    1.50
-1PZ         OAV         CAU         NAW     122.033    1.50
-1PZ         CBC         CAT         CAU     112.836    1.50
-1PZ         CBC         CAT         H40     108.897    1.50
-1PZ         CBC         CAT         H41     108.897    1.50
-1PZ         CAU         CAT         H40     108.930    1.50
-1PZ         CAU         CAT         H41     108.930    1.50
-1PZ         H40         CAT         H41     107.846    1.50
-1PZ         CBD         CBC         CAT     113.472    1.51
-1PZ         CBD         CBC         H42     108.698    1.50
-1PZ         CBD         CBC         H43     108.698    1.50
-1PZ         CAT         CBC         H42     108.795    1.50
-1PZ         CAT         CBC         H43     108.795    1.50
-1PZ         H42         CBC         H43     107.646    1.50
-1PZ         CBE         CBD         CBC     114.243    1.69
-1PZ         CBE         CBD         H44     108.698    1.50
-1PZ         CBE         CBD         H45     108.698    1.50
-1PZ         CBC         CBD         H44     108.698    1.50
-1PZ         CBC         CBD         H45     108.698    1.50
-1PZ         H44         CBD         H45     107.646    1.50
-1PZ         CBF         CBE         CBD     114.243    1.69
-1PZ         CBF         CBE         H46     108.698    1.50
-1PZ         CBF         CBE         H47     108.698    1.50
-1PZ         CBD         CBE         H46     108.698    1.50
-1PZ         CBD         CBE         H47     108.698    1.50
-1PZ         H46         CBE         H47     107.646    1.50
-1PZ         CBG         CBF         CBE     114.243    1.69
-1PZ         CBG         CBF         H48     108.698    1.50
-1PZ         CBG         CBF         H49     108.698    1.50
-1PZ         CBE         CBF         H48     108.698    1.50
-1PZ         CBE         CBF         H49     108.698    1.50
-1PZ         H48         CBF         H49     107.646    1.50
-1PZ         CBH         CBG         CBF     114.243    1.69
-1PZ         CBH         CBG         H50     108.698    1.50
-1PZ         CBH         CBG         H51     108.698    1.50
-1PZ         CBF         CBG         H50     108.698    1.50
-1PZ         CBF         CBG         H51     108.698    1.50
-1PZ         H50         CBG         H51     107.646    1.50
-1PZ         CBI         CBH         CBG     114.243    1.69
-1PZ         CBI         CBH         H52     108.698    1.50
-1PZ         CBI         CBH         H53     108.698    1.50
-1PZ         CBG         CBH         H52     108.698    1.50
-1PZ         CBG         CBH         H53     108.698    1.50
-1PZ         H52         CBH         H53     107.646    1.50
-1PZ         CBJ         CBI         CBH     114.243    1.69
-1PZ         CBJ         CBI         H54     108.698    1.50
-1PZ         CBJ         CBI         H55     108.698    1.50
-1PZ         CBH         CBI         H54     108.698    1.50
-1PZ         CBH         CBI         H55     108.698    1.50
-1PZ         H54         CBI         H55     107.646    1.50
-1PZ         CBK         CBJ         CBI     114.362    3.00
-1PZ         CBK         CBJ         H56     108.653    1.50
-1PZ         CBK         CBJ         H57     108.653    1.50
-1PZ         CBI         CBJ         H56     108.698    1.50
-1PZ         CBI         CBJ         H57     108.698    1.50
-1PZ         H56         CBJ         H57     107.646    1.50
-1PZ         CBL         CBK         CBJ     113.719    3.00
-1PZ         CBL         CBK         H58     108.918    1.50
-1PZ         CBL         CBK         H59     108.918    1.50
-1PZ         CBJ         CBK         H58     108.758    1.50
-1PZ         CBJ         CBK         H59     108.758    1.50
-1PZ         H58         CBK         H59     107.763    1.50
-1PZ         CBK         CBL         H60     109.554    1.50
-1PZ         CBK         CBL         H61     109.554    1.50
-1PZ         CBK         CBL         H62     109.554    1.50
-1PZ         H60         CBL         H61     109.380    1.50
-1PZ         H60         CBL         H62     109.380    1.50
-1PZ         H61         CBL         H62     109.380    1.50
+1PZ CAF CAS H1  109.554 1.50
+1PZ CAF CAS H2  109.554 1.50
+1PZ CAF CAS H3  109.554 1.50
+1PZ H1  CAS H2  109.380 1.50
+1PZ H1  CAS H3  109.380 1.50
+1PZ H2  CAS H3  109.380 1.50
+1PZ CAS CAF CAG 113.719 3.00
+1PZ CAS CAF H4  108.918 1.50
+1PZ CAS CAF H5  108.918 1.50
+1PZ CAG CAF H4  108.758 1.50
+1PZ CAG CAF H5  108.758 1.50
+1PZ H4  CAF H5  107.763 1.50
+1PZ CAF CAG CAH 114.362 3.00
+1PZ CAF CAG H6  108.653 1.50
+1PZ CAF CAG H7  108.653 1.50
+1PZ CAH CAG H6  108.698 1.50
+1PZ CAH CAG H7  108.698 1.50
+1PZ H6  CAG H7  107.646 1.50
+1PZ CAG CAH CAI 114.243 1.69
+1PZ CAG CAH H8  108.698 1.50
+1PZ CAG CAH H9  108.698 1.50
+1PZ CAI CAH H8  108.698 1.50
+1PZ CAI CAH H9  108.698 1.50
+1PZ H8  CAH H9  107.646 1.50
+1PZ CAH CAI CAJ 114.243 1.69
+1PZ CAH CAI H10 108.698 1.50
+1PZ CAH CAI H11 108.698 1.50
+1PZ CAJ CAI H10 108.698 1.50
+1PZ CAJ CAI H11 108.698 1.50
+1PZ H10 CAI H11 107.646 1.50
+1PZ CAI CAJ CAK 114.243 1.69
+1PZ CAI CAJ H12 108.698 1.50
+1PZ CAI CAJ H13 108.698 1.50
+1PZ CAK CAJ H12 108.698 1.50
+1PZ CAK CAJ H13 108.698 1.50
+1PZ H12 CAJ H13 107.646 1.50
+1PZ CAJ CAK CAL 114.243 1.69
+1PZ CAJ CAK H14 108.698 1.50
+1PZ CAJ CAK H15 108.698 1.50
+1PZ CAL CAK H14 108.698 1.50
+1PZ CAL CAK H15 108.698 1.50
+1PZ H14 CAK H15 107.646 1.50
+1PZ CAK CAL CAM 114.243 1.69
+1PZ CAK CAL H16 108.698 1.50
+1PZ CAK CAL H17 108.698 1.50
+1PZ CAM CAL H16 108.698 1.50
+1PZ CAM CAL H17 108.698 1.50
+1PZ H16 CAL H17 107.646 1.50
+1PZ CAL CAM CAN 114.243 1.69
+1PZ CAL CAM H18 108.698 1.50
+1PZ CAL CAM H19 108.698 1.50
+1PZ CAN CAM H18 108.698 1.50
+1PZ CAN CAM H19 108.698 1.50
+1PZ H18 CAM H19 107.646 1.50
+1PZ CAM CAN CAO 114.243 1.69
+1PZ CAM CAN H20 108.698 1.50
+1PZ CAM CAN H21 108.698 1.50
+1PZ CAO CAN H20 108.698 1.50
+1PZ CAO CAN H21 108.698 1.50
+1PZ H20 CAN H21 107.646 1.50
+1PZ CAN CAO CAP 114.243 1.69
+1PZ CAN CAO H22 108.698 1.50
+1PZ CAN CAO H23 108.698 1.50
+1PZ CAP CAO H22 108.698 1.50
+1PZ CAP CAO H23 108.698 1.50
+1PZ H22 CAO H23 107.646 1.50
+1PZ CAO CAP CAQ 114.266 1.80
+1PZ CAO CAP H24 108.698 1.50
+1PZ CAO CAP H25 108.698 1.50
+1PZ CAQ CAP H24 108.805 1.50
+1PZ CAQ CAP H25 108.805 1.50
+1PZ H24 CAP H25 107.646 1.50
+1PZ CAP CAQ CAE 113.226 1.94
+1PZ CAP CAQ H26 108.819 1.50
+1PZ CAP CAQ H27 108.819 1.50
+1PZ CAE CAQ H26 108.886 1.50
+1PZ CAE CAQ H27 108.886 1.50
+1PZ H26 CAQ H27 107.922 1.50
+1PZ CAQ CAE CAD 125.662 2.06
+1PZ CAQ CAE H28 116.866 1.61
+1PZ CAD CAE H28 117.471 1.50
+1PZ CAE CAD CAC 125.212 1.80
+1PZ CAE CAD H30 117.843 1.50
+1PZ CAC CAD H30 116.945 1.63
+1PZ CAD CAC CAB 111.511 2.91
+1PZ CAD CAC OAR 109.951 2.10
+1PZ CAD CAC H32 108.883 1.50
+1PZ CAB CAC OAR 110.423 2.15
+1PZ CAB CAC H32 108.277 1.50
+1PZ OAR CAC H32 108.675 1.50
+1PZ CAC OAR H33 108.894 3.00
+1PZ NAW CAB CAC 111.308 2.28
+1PZ NAW CAB CAA 109.157 1.65
+1PZ NAW CAB H34 108.194 1.50
+1PZ CAC CAB CAA 111.094 2.85
+1PZ CAC CAB H34 107.549 1.55
+1PZ CAA CAB H34 107.627 1.50
+1PZ CAB CAA OBB 110.589 2.35
+1PZ CAB CAA H35 109.343 1.50
+1PZ CAB CAA H36 109.343 1.50
+1PZ OBB CAA H35 109.758 1.50
+1PZ OBB CAA H36 109.758 1.50
+1PZ H35 CAA H36 108.157 1.50
+1PZ CAA OBB PAX 118.609 1.50
+1PZ OBB PAX OAZ 105.795 2.09
+1PZ OBB PAX OAY 105.795 2.09
+1PZ OBB PAX OBA 105.795 2.09
+1PZ OAZ PAX OAY 112.864 1.69
+1PZ OAZ PAX OBA 112.864 1.69
+1PZ OAY PAX OBA 112.864 1.69
+1PZ CAU NAW CAB 123.741 1.63
+1PZ CAU NAW H39 118.656 1.50
+1PZ CAB NAW H39 117.592 3.00
+1PZ CAT CAU OAV 121.831 1.50
+1PZ CAT CAU NAW 116.136 1.50
+1PZ OAV CAU NAW 122.033 1.50
+1PZ CBC CAT CAU 112.836 1.50
+1PZ CBC CAT H40 108.897 1.50
+1PZ CBC CAT H41 108.897 1.50
+1PZ CAU CAT H40 108.930 1.50
+1PZ CAU CAT H41 108.930 1.50
+1PZ H40 CAT H41 107.846 1.50
+1PZ CBD CBC CAT 113.472 1.51
+1PZ CBD CBC H42 108.698 1.50
+1PZ CBD CBC H43 108.698 1.50
+1PZ CAT CBC H42 108.795 1.50
+1PZ CAT CBC H43 108.795 1.50
+1PZ H42 CBC H43 107.646 1.50
+1PZ CBE CBD CBC 114.243 1.69
+1PZ CBE CBD H44 108.698 1.50
+1PZ CBE CBD H45 108.698 1.50
+1PZ CBC CBD H44 108.698 1.50
+1PZ CBC CBD H45 108.698 1.50
+1PZ H44 CBD H45 107.646 1.50
+1PZ CBF CBE CBD 114.243 1.69
+1PZ CBF CBE H46 108.698 1.50
+1PZ CBF CBE H47 108.698 1.50
+1PZ CBD CBE H46 108.698 1.50
+1PZ CBD CBE H47 108.698 1.50
+1PZ H46 CBE H47 107.646 1.50
+1PZ CBG CBF CBE 114.243 1.69
+1PZ CBG CBF H48 108.698 1.50
+1PZ CBG CBF H49 108.698 1.50
+1PZ CBE CBF H48 108.698 1.50
+1PZ CBE CBF H49 108.698 1.50
+1PZ H48 CBF H49 107.646 1.50
+1PZ CBH CBG CBF 114.243 1.69
+1PZ CBH CBG H50 108.698 1.50
+1PZ CBH CBG H51 108.698 1.50
+1PZ CBF CBG H50 108.698 1.50
+1PZ CBF CBG H51 108.698 1.50
+1PZ H50 CBG H51 107.646 1.50
+1PZ CBI CBH CBG 114.243 1.69
+1PZ CBI CBH H52 108.698 1.50
+1PZ CBI CBH H53 108.698 1.50
+1PZ CBG CBH H52 108.698 1.50
+1PZ CBG CBH H53 108.698 1.50
+1PZ H52 CBH H53 107.646 1.50
+1PZ CBJ CBI CBH 114.243 1.69
+1PZ CBJ CBI H54 108.698 1.50
+1PZ CBJ CBI H55 108.698 1.50
+1PZ CBH CBI H54 108.698 1.50
+1PZ CBH CBI H55 108.698 1.50
+1PZ H54 CBI H55 107.646 1.50
+1PZ CBK CBJ CBI 114.362 3.00
+1PZ CBK CBJ H56 108.653 1.50
+1PZ CBK CBJ H57 108.653 1.50
+1PZ CBI CBJ H56 108.698 1.50
+1PZ CBI CBJ H57 108.698 1.50
+1PZ H56 CBJ H57 107.646 1.50
+1PZ CBL CBK CBJ 113.719 3.00
+1PZ CBL CBK H58 108.918 1.50
+1PZ CBL CBK H59 108.918 1.50
+1PZ CBJ CBK H58 108.758 1.50
+1PZ CBJ CBK H59 108.758 1.50
+1PZ H58 CBK H59 107.763 1.50
+1PZ CBK CBL H60 109.554 1.50
+1PZ CBK CBL H61 109.554 1.50
+1PZ CBK CBL H62 109.554 1.50
+1PZ H60 CBL H61 109.380 1.50
+1PZ H60 CBL H62 109.380 1.50
+1PZ H61 CBL H62 109.380 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -421,39 +422,40 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-1PZ             sp3_sp3_1         CAG         CAF         CAS          H1     180.000    10.0     3
-1PZ           sp3_sp3_172         CAN         CAO         CAP         CAQ     180.000    10.0     3
-1PZ           sp3_sp3_181         CAO         CAP         CAQ         CAE     180.000    10.0     3
-1PZ             sp2_sp3_2         CAD         CAE         CAQ         CAP     120.000    10.0     6
-1PZ             sp2_sp2_1         CAC         CAD         CAE         CAQ     180.000     5.0     2
-1PZ            sp2_sp3_13         CAE         CAD         CAC         CAB       0.000    10.0     6
-1PZ           sp3_sp3_208         CAD         CAC         OAR         H33     180.000    10.0     3
-1PZ           sp3_sp3_199         NAW         CAB         CAC         CAD     180.000    10.0     3
-1PZ           sp3_sp3_211         OBB         CAA         CAB         NAW     180.000    10.0     3
-1PZ            sp2_sp3_19         CAU         NAW         CAB         CAC       0.000    10.0     6
-1PZ           sp3_sp3_220         CAB         CAA         OBB         PAX     180.000    10.0     3
-1PZ           sp3_sp3_225         CAA         OBB         PAX         OAZ      60.000    10.0     3
-1PZ            sp3_sp3_10         CAS         CAF         CAG         CAH     180.000    10.0     3
-1PZ             sp2_sp2_5         CAT         CAU         NAW         CAB     180.000     5.0     2
-1PZ             sp2_sp3_8         OAV         CAU         CAT         CBC     120.000    10.0     6
-1PZ           sp3_sp3_190         CAU         CAT         CBC         CBD     180.000    10.0     3
-1PZ           sp3_sp3_163         CAT         CBC         CBD         CBE     180.000    10.0     3
-1PZ           sp3_sp3_154         CBC         CBD         CBE         CBF     180.000    10.0     3
-1PZ            sp3_sp3_28         CAF         CAG         CAH         CAI     180.000    10.0     3
-1PZ           sp3_sp3_127         CBD         CBE         CBF         CBG     180.000    10.0     3
-1PZ           sp3_sp3_118         CBE         CBF         CBG         CBH     180.000    10.0     3
-1PZ            sp3_sp3_91         CBF         CBG         CBH         CBI     180.000    10.0     3
-1PZ            sp3_sp3_82         CBG         CBH         CBI         CBJ     180.000    10.0     3
-1PZ            sp3_sp3_55         CBH         CBI         CBJ         CBK     180.000    10.0     3
-1PZ            sp3_sp3_46         CBI         CBJ         CBK         CBL     180.000    10.0     3
-1PZ            sp3_sp3_19         CBJ         CBK         CBL         H60     180.000    10.0     3
-1PZ            sp3_sp3_37         CAG         CAH         CAI         CAJ     180.000    10.0     3
-1PZ            sp3_sp3_64         CAH         CAI         CAJ         CAK     180.000    10.0     3
-1PZ            sp3_sp3_73         CAI         CAJ         CAK         CAL     180.000    10.0     3
-1PZ           sp3_sp3_100         CAJ         CAK         CAL         CAM     180.000    10.0     3
-1PZ           sp3_sp3_109         CAK         CAL         CAM         CAN     180.000    10.0     3
-1PZ           sp3_sp3_136         CAL         CAM         CAN         CAO     180.000    10.0     3
-1PZ           sp3_sp3_145         CAM         CAN         CAO         CAP     180.000    10.0     3
+1PZ sp3_sp3_1   CAG CAF CAS H1  180.000 10.0 3
+1PZ sp3_sp3_172 CAN CAO CAP CAQ 180.000 10.0 3
+1PZ sp3_sp3_181 CAO CAP CAQ CAE 180.000 10.0 3
+1PZ sp2_sp3_2   CAD CAE CAQ CAP 120.000 10.0 6
+1PZ sp2_sp2_1   CAC CAD CAE CAQ 180.000 5.0  2
+1PZ sp2_sp3_13  CAE CAD CAC CAB 0.000   10.0 6
+1PZ sp3_sp3_208 CAD CAC OAR H33 180.000 10.0 3
+1PZ sp3_sp3_199 NAW CAB CAC CAD 180.000 10.0 3
+1PZ sp3_sp3_211 OBB CAA CAB NAW 180.000 10.0 3
+1PZ sp2_sp3_19  CAU NAW CAB CAC 0.000   10.0 6
+1PZ sp3_sp3_220 CAB CAA OBB PAX 180.000 10.0 3
+1PZ sp3_sp3_225 CAA OBB PAX OAZ 60.000  10.0 3
+1PZ sp3_sp3_10  CAS CAF CAG CAH 180.000 10.0 3
+1PZ sp2_sp2_5   CAT CAU NAW CAB 180.000 5.0  2
+1PZ sp2_sp3_8   OAV CAU CAT CBC 120.000 10.0 6
+1PZ sp3_sp3_190 CAU CAT CBC CBD 180.000 10.0 3
+1PZ sp3_sp3_163 CAT CBC CBD CBE 180.000 10.0 3
+1PZ sp3_sp3_154 CBC CBD CBE CBF 180.000 10.0 3
+1PZ sp3_sp3_28  CAF CAG CAH CAI 180.000 10.0 3
+1PZ sp3_sp3_127 CBD CBE CBF CBG 180.000 10.0 3
+1PZ sp3_sp3_118 CBE CBF CBG CBH 180.000 10.0 3
+1PZ sp3_sp3_91  CBF CBG CBH CBI 180.000 10.0 3
+1PZ sp3_sp3_82  CBG CBH CBI CBJ 180.000 10.0 3
+1PZ sp3_sp3_55  CBH CBI CBJ CBK 180.000 10.0 3
+1PZ sp3_sp3_46  CBI CBJ CBK CBL 180.000 10.0 3
+1PZ sp3_sp3_19  CBJ CBK CBL H60 180.000 10.0 3
+1PZ sp3_sp3_37  CAG CAH CAI CAJ 180.000 10.0 3
+1PZ sp3_sp3_64  CAH CAI CAJ CAK 180.000 10.0 3
+1PZ sp3_sp3_73  CAI CAJ CAK CAL 180.000 10.0 3
+1PZ sp3_sp3_100 CAJ CAK CAL CAM 180.000 10.0 3
+1PZ sp3_sp3_109 CAK CAL CAM CAN 180.000 10.0 3
+1PZ sp3_sp3_136 CAL CAM CAN CAO 180.000 10.0 3
+1PZ sp3_sp3_145 CAM CAN CAO CAP 180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -462,49 +464,68 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-1PZ    chir_1    CAC    OAR    CAB    CAD    negative
-1PZ    chir_2    CAB    NAW    CAC    CAA    positive
-1PZ    chir_3    PAX    OBB    OAY    OBA    both
+1PZ chir_1 CAC OAR CAB CAD negative
+1PZ chir_2 CAB NAW CAC CAA positive
+1PZ chir_3 PAX OBB OAY OBA both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-1PZ    plan-1         CAD   0.020
-1PZ    plan-1         CAE   0.020
-1PZ    plan-1         CAQ   0.020
-1PZ    plan-1         H28   0.020
-1PZ    plan-2         CAC   0.020
-1PZ    plan-2         CAD   0.020
-1PZ    plan-2         CAE   0.020
-1PZ    plan-2         H30   0.020
-1PZ    plan-3         CAB   0.020
-1PZ    plan-3         CAU   0.020
-1PZ    plan-3         H39   0.020
-1PZ    plan-3         NAW   0.020
-1PZ    plan-4         CAT   0.020
-1PZ    plan-4         CAU   0.020
-1PZ    plan-4         NAW   0.020
-1PZ    plan-4         OAV   0.020
+1PZ plan-1 CAD 0.020
+1PZ plan-1 CAE 0.020
+1PZ plan-1 CAQ 0.020
+1PZ plan-1 H28 0.020
+1PZ plan-2 CAC 0.020
+1PZ plan-2 CAD 0.020
+1PZ plan-2 CAE 0.020
+1PZ plan-2 H30 0.020
+1PZ plan-3 CAB 0.020
+1PZ plan-3 CAU 0.020
+1PZ plan-3 H39 0.020
+1PZ plan-3 NAW 0.020
+1PZ plan-4 CAT 0.020
+1PZ plan-4 CAU 0.020
+1PZ plan-4 NAW 0.020
+1PZ plan-4 OAV 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-1PZ           SMILES              ACDLabs 12.01                                                                                                                                                              O=C(NC(COP(=O)(O)O)C(O)/C=C/CCCCCCCCCCCCC)CCCCCCCCCCC
-1PZ            InChI                InChI  1.03 InChI=1S/C30H60NO6P/c1-3-5-7-9-11-13-14-15-16-18-19-21-23-25-29(32)28(27-37-38(34,35)36)31-30(33)26-24-22-20-17-12-10-8-6-4-2/h23,25,28-29,32H,3-22,24,26-27H2,1-2H3,(H,31,33)(H2,34,35,36)/b25-23+/t28-,29+/m0/s1
-1PZ         InChIKey                InChI  1.03                                                                                                                                                                                        KXEMZGPJXBKYJP-VARSQMIESA-N
-1PZ SMILES_CANONICAL               CACTVS 3.370                                                                                                                                                   CCCCCCCCCCCCC\C=C\[C@@H](O)[C@H](CO[P](O)(O)=O)NC(=O)CCCCCCCCCCC
-1PZ           SMILES               CACTVS 3.370                                                                                                                                                        CCCCCCCCCCCCCC=C[CH](O)[CH](CO[P](O)(O)=O)NC(=O)CCCCCCCCCCC
-1PZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                                      CCCCCCCCCCCCC/C=C/[C@H]([C@H](COP(=O)(O)O)NC(=O)CCCCCCCCCCC)O
-1PZ           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                                CCCCCCCCCCCCCC=CC(C(COP(=O)(O)O)NC(=O)CCCCCCCCCCC)O
+1PZ SMILES           ACDLabs              12.01 O=C(NC(COP(=O)(O)O)C(O)/C=C/CCCCCCCCCCCCC)CCCCCCCCCCC
+1PZ InChI            InChI                1.03  InChI=1S/C30H60NO6P/c1-3-5-7-9-11-13-14-15-16-18-19-21-23-25-29(32)28(27-37-38(34,35)36)31-30(33)26-24-22-20-17-12-10-8-6-4-2/h23,25,28-29,32H,3-22,24,26-27H2,1-2H3,(H,31,33)(H2,34,35,36)/b25-23+/t28-,29+/m0/s1
+1PZ InChIKey         InChI                1.03  KXEMZGPJXBKYJP-VARSQMIESA-N
+1PZ SMILES_CANONICAL CACTVS               3.370 CCCCCCCCCCCCC\C=C\[C@@H](O)[C@H](CO[P](O)(O)=O)NC(=O)CCCCCCCCCCC
+1PZ SMILES           CACTVS               3.370 CCCCCCCCCCCCCC=C[CH](O)[CH](CO[P](O)(O)=O)NC(=O)CCCCCCCCCCC
+1PZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CCCCCCCCCCCCC/C=C/[C@H]([C@H](COP(=O)(O)O)NC(=O)CCCCCCCCCCC)O
+1PZ SMILES           "OpenEye OEToolkits" 1.7.6 CCCCCCCCCCCCCC=CC(C(COP(=O)(O)O)NC(=O)CCCCCCCCCCC)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-1PZ acedrg               243         "dictionary generator"                  
-1PZ acedrg_database      11          "data source"                           
-1PZ rdkit                2017.03.2   "Chemoinformatics tool"
-1PZ refmac5              5.8.0238    "optimization tool"                     
+1PZ acedrg          243       "dictionary generator"
+1PZ acedrg_database 11        "data source"
+1PZ rdkit           2017.03.2 "Chemoinformatics tool"
+1PZ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+1PZ DNA/RNA OBA OP3
+1PZ DNA/RNA PAX P
+1PZ DNA/RNA OAZ OP1
+1PZ DNA/RNA OAY OP2
+1PZ DNA/RNA OBB O5'
+1PZ DNA/RNA CAA C5'
+1PZ DNA/RNA CAB C4'
+1PZ DNA/RNA CAC C3'
+1PZ DNA/RNA OAR O3'
+1PZ DNA/RNA H33 HO3'

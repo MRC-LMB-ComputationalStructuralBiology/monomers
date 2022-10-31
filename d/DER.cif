@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DER     DER      "D-4-PHOSPHOERYTHRONIC ACID"     NON-POLYMER     19     13     .     
-#
+DER DER "D-4-PHOSPHOERYTHRONIC ACID" NON-POLYMER 19 13 .
+
 data_comp_DER
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,25 +19,26 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DER     OH2     O       OC      -1      15.236      10.495      90.681      
-DER     C1      C       C       0       16.172      11.289      90.903      
-DER     OH1     O       O       0       16.074      12.381      91.496      
-DER     C2      C       CH1     0       17.565      10.887      90.401      
-DER     O2      O       OH1     0       18.539      10.992      91.432      
-DER     C3      C       CH1     0       17.977      11.741      89.196      
-DER     O3      O       OH1     0       18.108      13.109      89.601      
-DER     C4      C       CH2     0       19.269      11.278      88.556      
-DER     O4      O       O2      0       19.109      9.946       87.992      
-DER     P       P       P       0       20.392      9.228       87.326      
-DER     O1P     O       O       0       19.901      7.878       86.838      
-DER     O2P     O       OP      -1      21.426      9.115       88.431      
-DER     O3P     O       OP      -1      20.834      10.138      86.196      
-DER     H2      H       H       0       17.521      9.943       90.112      
-DER     HO2     H       H       0       18.531      11.772      91.766      
-DER     H3      H       H       0       17.252      11.683      88.518      
-DER     HO3     H       H       0       18.847      13.270      89.986      
-DER     H41     H       H       0       19.985      11.266      89.225      
-DER     H42     H       H       0       19.523      11.901      87.845      
+DER OH2 O OC  -1 15.236 10.495 90.681
+DER C1  C C   0  16.172 11.289 90.903
+DER OH1 O O   0  16.074 12.381 91.496
+DER C2  C CH1 0  17.565 10.887 90.401
+DER O2  O OH1 0  18.539 10.992 91.432
+DER C3  C CH1 0  17.977 11.741 89.196
+DER O3  O OH1 0  18.108 13.109 89.601
+DER C4  C CH2 0  19.269 11.278 88.556
+DER O4  O O2  0  19.109 9.946  87.992
+DER P   P P   0  20.392 9.228  87.326
+DER O1P O O   0  19.901 7.878  86.838
+DER O2P O OP  -1 21.426 9.115  88.431
+DER O3P O OP  -1 20.834 10.138 86.196
+DER H2  H H   0  17.521 9.943  90.112
+DER HO2 H H   0  18.531 11.772 91.766
+DER H3  H H   0  17.252 11.683 88.518
+DER HO3 H H   0  18.847 13.270 89.986
+DER H41 H H   0  19.985 11.266 89.225
+DER H42 H H   0  19.523 11.901 87.845
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -50,24 +49,25 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DER         OH2          C1      SINGLE       n     1.247  0.0187     1.247  0.0187
-DER          C1         OH1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-DER          C1          C2      SINGLE       n     1.533  0.0100     1.533  0.0100
-DER          C2          O2      SINGLE       n     1.419  0.0162     1.419  0.0162
-DER          C2          C3      SINGLE       n     1.531  0.0100     1.531  0.0100
-DER          C3          O3      SINGLE       n     1.426  0.0179     1.426  0.0179
-DER          C3          C4      SINGLE       n     1.512  0.0100     1.512  0.0100
-DER          C4          O4      SINGLE       n     1.454  0.0165     1.454  0.0165
-DER          O4           P      SINGLE       n     1.614  0.0178     1.614  0.0178
-DER           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-DER           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
-DER           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
-DER          C2          H2      SINGLE       n     1.089  0.0100     0.988  0.0129
-DER          O2         HO2      SINGLE       n     0.970  0.0120     0.848  0.0200
-DER          C3          H3      SINGLE       n     1.089  0.0100     0.995  0.0200
-DER          O3         HO3      SINGLE       n     0.970  0.0120     0.848  0.0200
-DER          C4         H41      SINGLE       n     1.089  0.0100     0.980  0.0146
-DER          C4         H42      SINGLE       n     1.089  0.0100     0.980  0.0146
+DER OH2 C1  SINGLE n 1.247 0.0187 1.247 0.0187
+DER C1  OH1 DOUBLE n 1.247 0.0187 1.247 0.0187
+DER C1  C2  SINGLE n 1.533 0.0100 1.533 0.0100
+DER C2  O2  SINGLE n 1.419 0.0162 1.419 0.0162
+DER C2  C3  SINGLE n 1.531 0.0100 1.531 0.0100
+DER C3  O3  SINGLE n 1.426 0.0179 1.426 0.0179
+DER C3  C4  SINGLE n 1.512 0.0100 1.512 0.0100
+DER C4  O4  SINGLE n 1.454 0.0165 1.454 0.0165
+DER O4  P   SINGLE n 1.614 0.0178 1.614 0.0178
+DER P   O1P DOUBLE n 1.517 0.0192 1.517 0.0192
+DER P   O2P SINGLE n 1.517 0.0192 1.517 0.0192
+DER P   O3P SINGLE n 1.517 0.0192 1.517 0.0192
+DER C2  H2  SINGLE n 1.089 0.0100 0.988 0.0129
+DER O2  HO2 SINGLE n 0.970 0.0120 0.848 0.0200
+DER C3  H3  SINGLE n 1.089 0.0100 0.995 0.0200
+DER O3  HO3 SINGLE n 0.970 0.0120 0.848 0.0200
+DER C4  H41 SINGLE n 1.089 0.0100 0.980 0.0146
+DER C4  H42 SINGLE n 1.089 0.0100 0.980 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -75,36 +75,37 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DER         OH2          C1         OH1     125.683    1.50
-DER         OH2          C1          C2     117.159    1.50
-DER         OH1          C1          C2     117.159    1.50
-DER          C1          C2          O2     111.490    1.56
-DER          C1          C2          C3     111.511    2.91
-DER          C1          C2          H2     108.467    1.50
-DER          O2          C2          C3     109.434    2.40
-DER          O2          C2          H2     108.747    1.50
-DER          C3          C2          H2     108.687    1.50
-DER          C2          O2         HO2     108.941    3.00
-DER          C2          C3          O3     109.317    1.50
-DER          C2          C3          C4     111.094    2.85
-DER          C2          C3          H3     108.238    1.72
-DER          O3          C3          C4     109.314    1.96
-DER          O3          C3          H3     108.591    1.50
-DER          C4          C3          H3     108.656    1.50
-DER          C3          O3         HO3     111.202    3.00
-DER          C3          C4          O4     109.438    2.56
-DER          C3          C4         H41     109.582    1.50
-DER          C3          C4         H42     109.582    1.50
-DER          O4          C4         H41     109.393    1.91
-DER          O4          C4         H42     109.393    1.91
-DER         H41          C4         H42     108.319    1.50
-DER          C4          O4           P     118.671    1.50
-DER          O4           P         O1P     105.795    2.09
-DER          O4           P         O2P     105.795    2.09
-DER          O4           P         O3P     105.795    2.09
-DER         O1P           P         O2P     112.864    1.69
-DER         O1P           P         O3P     112.864    1.69
-DER         O2P           P         O3P     112.864    1.69
+DER OH2 C1 OH1 125.683 1.50
+DER OH2 C1 C2  117.159 1.50
+DER OH1 C1 C2  117.159 1.50
+DER C1  C2 O2  111.490 1.56
+DER C1  C2 C3  111.511 2.91
+DER C1  C2 H2  108.467 1.50
+DER O2  C2 C3  109.434 2.40
+DER O2  C2 H2  108.747 1.50
+DER C3  C2 H2  108.687 1.50
+DER C2  O2 HO2 108.941 3.00
+DER C2  C3 O3  109.317 1.50
+DER C2  C3 C4  111.094 2.85
+DER C2  C3 H3  108.238 1.72
+DER O3  C3 C4  109.314 1.96
+DER O3  C3 H3  108.591 1.50
+DER C4  C3 H3  108.656 1.50
+DER C3  O3 HO3 111.202 3.00
+DER C3  C4 O4  109.438 2.56
+DER C3  C4 H41 109.582 1.50
+DER C3  C4 H42 109.582 1.50
+DER O4  C4 H41 109.393 1.91
+DER O4  C4 H42 109.393 1.91
+DER H41 C4 H42 108.319 1.50
+DER C4  O4 P   118.671 1.50
+DER O4  P  O1P 105.795 2.09
+DER O4  P  O2P 105.795 2.09
+DER O4  P  O3P 105.795 2.09
+DER O1P P  O2P 112.864 1.69
+DER O1P P  O3P 112.864 1.69
+DER O2P P  O3P 112.864 1.69
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -115,13 +116,14 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DER             sp2_sp3_1         OH2          C1          C2          O2       0.000    10.0     6
-DER             sp3_sp3_1          C1          C2          O2         HO2     180.000    10.0     3
-DER             sp3_sp3_4          C1          C2          C3          O3     180.000    10.0     3
-DER            sp3_sp3_13          C2          C3          O3         HO3     180.000    10.0     3
-DER            sp3_sp3_16          C2          C3          C4          O4     180.000    10.0     3
-DER            sp3_sp3_25          C3          C4          O4           P     180.000    10.0     3
-DER            sp3_sp3_30          C4          O4           P         O1P      60.000    10.0     3
+DER sp2_sp3_1  OH2 C1 C2 O2  0.000   10.0 6
+DER sp3_sp3_1  C1  C2 O2 HO2 180.000 10.0 3
+DER sp3_sp3_4  C1  C2 C3 O3  180.000 10.0 3
+DER sp3_sp3_13 C2  C3 O3 HO3 180.000 10.0 3
+DER sp3_sp3_16 C2  C3 C4 O4  180.000 10.0 3
+DER sp3_sp3_25 C3  C4 O4 P   180.000 10.0 3
+DER sp3_sp3_30 C4  O4 P  O1P 60.000  10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -130,37 +132,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DER    chir_1    C2    O2    C1    C3    negative
-DER    chir_2    C3    O3    C2    C4    positive
-DER    chir_3    P    O4    O2P    O3P    both
+DER chir_1 C2 O2 C1  C3  negative
+DER chir_2 C3 O3 C2  C4  positive
+DER chir_3 P  O4 O2P O3P both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DER    plan-1          C1   0.020
-DER    plan-1          C2   0.020
-DER    plan-1         OH1   0.020
-DER    plan-1         OH2   0.020
+DER plan-1 C1  0.020
+DER plan-1 C2  0.020
+DER plan-1 OH1 0.020
+DER plan-1 OH2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DER           SMILES              ACDLabs 10.04                                                                      O=P(O)(O)OCC(O)C(O)C(=O)O
-DER SMILES_CANONICAL               CACTVS 3.341                                                          O[C@@H](CO[P](O)(O)=O)[C@@H](O)C(O)=O
-DER           SMILES               CACTVS 3.341                                                              O[CH](CO[P](O)(O)=O)[CH](O)C(O)=O
-DER SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                           C([C@@H]([C@H](C(=O)O)O)O)OP(=O)(O)O
-DER           SMILES "OpenEye OEToolkits" 1.5.0                                                                    C(C(C(C(=O)O)O)O)OP(=O)(O)O
-DER            InChI                InChI  1.03 InChI=1S/C4H9O8P/c5-2(3(6)4(7)8)1-12-13(9,10)11/h2-3,5-6H,1H2,(H,7,8)(H2,9,10,11)/t2-,3+/m0/s1
-DER         InChIKey                InChI  1.03                                                                    ZCZXOHUILRHRQJ-STHAYSLISA-N
+DER SMILES           ACDLabs              10.04 O=P(O)(O)OCC(O)C(O)C(=O)O
+DER SMILES_CANONICAL CACTVS               3.341 O[C@@H](CO[P](O)(O)=O)[C@@H](O)C(O)=O
+DER SMILES           CACTVS               3.341 O[CH](CO[P](O)(O)=O)[CH](O)C(O)=O
+DER SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C([C@@H]([C@H](C(=O)O)O)O)OP(=O)(O)O
+DER SMILES           "OpenEye OEToolkits" 1.5.0 C(C(C(C(=O)O)O)O)OP(=O)(O)O
+DER InChI            InChI                1.03  InChI=1S/C4H9O8P/c5-2(3(6)4(7)8)1-12-13(9,10)11/h2-3,5-6H,1H2,(H,7,8)(H2,9,10,11)/t2-,3+/m0/s1
+DER InChIKey         InChI                1.03  ZCZXOHUILRHRQJ-STHAYSLISA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DER acedrg               243         "dictionary generator"                  
-DER acedrg_database      11          "data source"                           
-DER rdkit                2017.03.2   "Chemoinformatics tool"
-DER refmac5              5.8.0238    "optimization tool"                     
+DER acedrg          243       "dictionary generator"
+DER acedrg_database 11        "data source"
+DER rdkit           2017.03.2 "Chemoinformatics tool"
+DER refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+DER DNA/RNA O2P OP3
+DER DNA/RNA O1P OP1
+DER DNA/RNA O3P OP2
+DER DNA/RNA O4  O5'
+DER DNA/RNA C4  C5'
+DER DNA/RNA C3  C4'
+DER DNA/RNA C2  C3'
+DER DNA/RNA O2  O3'
+DER DNA/RNA HO2 HO3'

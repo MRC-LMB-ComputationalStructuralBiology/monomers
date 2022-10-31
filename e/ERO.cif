@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-ERO     ERO      "5-ethenyl-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"     NON-POLYMER     18     13     .     
-#
+ERO ERO "5-ethenyl-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" NON-POLYMER 18 13 .
+
 data_comp_ERO
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,24 +19,25 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-ERO     OAB     O       OC      -1      4.428       52.380      74.996      
-ERO     CAI     C       C       0       5.605       52.148      75.215      
-ERO     OAE     O       O       0       6.463       52.970      75.485      
-ERO     CAK     C       CR6     0       6.038       50.712      75.145      
-ERO     NAG     N       NR6     0       5.556       49.886      76.125      
-ERO     CAL     C       CR6     0       5.864       48.543      76.196      
-ERO     OAC     O       O       0       5.427       47.814      77.078      
-ERO     NAH     N       NR6     0       6.696       48.070      75.211      
-ERO     CAM     C       CR6     0       7.242       48.807      74.174      
-ERO     OAD     O       O       0       7.977       48.242      73.357      
-ERO     CAJ     C       CR6     0       6.892       50.205      74.142      
-ERO     CAF     C       C1      0       7.431       51.063      73.068      
-ERO     CAA     C       C2      0       8.683       51.309      72.814      
-ERO     H9      H       H       0       5.025       50.215      76.745      
-ERO     H2      H       H       0       6.899       47.201      75.250      
-ERO     H4      H       H       0       6.795       51.477      72.506      
-ERO     H6      H       H       0       8.918       51.965      72.172      
-ERO     H7      H       H       0       9.364       50.834      73.268      
+ERO OAB O OC  -1 4.428 52.380 74.996
+ERO CAI C C   0  5.605 52.148 75.215
+ERO OAE O O   0  6.463 52.970 75.485
+ERO CAK C CR6 0  6.038 50.712 75.145
+ERO NAG N NR6 0  5.556 49.886 76.125
+ERO CAL C CR6 0  5.864 48.543 76.196
+ERO OAC O O   0  5.427 47.814 77.078
+ERO NAH N NR6 0  6.696 48.070 75.211
+ERO CAM C CR6 0  7.242 48.807 74.174
+ERO OAD O O   0  7.977 48.242 73.357
+ERO CAJ C CR6 0  6.892 50.205 74.142
+ERO CAF C C1  0  7.431 51.063 73.068
+ERO CAA C C2  0  8.683 51.309 72.814
+ERO H9  H H   0  5.025 50.215 76.745
+ERO H2  H H   0  6.899 47.201 75.250
+ERO H4  H H   0  6.795 51.477 72.506
+ERO H6  H H   0  8.918 51.965 72.172
+ERO H7  H H   0  9.364 50.834 73.268
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -49,24 +48,25 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-ERO         CAF         CAA      DOUBLE       n     1.300  0.0200     1.300  0.0200
-ERO         CAJ         CAF      SINGLE       n     1.475  0.0100     1.475  0.0100
-ERO         CAM         OAD      DOUBLE       n     1.235  0.0126     1.235  0.0126
-ERO         CAM         CAJ      SINGLE       y     1.440  0.0100     1.440  0.0100
-ERO         NAH         CAM      SINGLE       y     1.383  0.0100     1.383  0.0100
-ERO         CAK         CAJ      DOUBLE       y     1.404  0.0125     1.404  0.0125
-ERO         CAL         NAH      SINGLE       y     1.370  0.0100     1.370  0.0100
-ERO         CAI         OAE      DOUBLE       n     1.219  0.0200     1.219  0.0200
-ERO         CAI         CAK      SINGLE       n     1.496  0.0200     1.496  0.0200
-ERO         CAK         NAG      SINGLE       y     1.363  0.0100     1.363  0.0100
-ERO         OAB         CAI      SINGLE       n     1.219  0.0200     1.219  0.0200
-ERO         NAG         CAL      SINGLE       y     1.374  0.0100     1.374  0.0100
-ERO         CAL         OAC      DOUBLE       n     1.225  0.0100     1.225  0.0100
-ERO         NAG          H9      SINGLE       n     1.016  0.0100     0.879  0.0200
-ERO         NAH          H2      SINGLE       n     1.016  0.0100     0.892  0.0200
-ERO         CAF          H4      SINGLE       n     1.082  0.0130     0.945  0.0173
-ERO         CAA          H6      SINGLE       n     1.082  0.0130     0.947  0.0196
-ERO         CAA          H7      SINGLE       n     1.082  0.0130     0.947  0.0196
+ERO CAF CAA DOUBLE n 1.300 0.0200 1.300 0.0200
+ERO CAJ CAF SINGLE n 1.475 0.0100 1.475 0.0100
+ERO CAM OAD DOUBLE n 1.235 0.0126 1.235 0.0126
+ERO CAM CAJ SINGLE y 1.440 0.0100 1.440 0.0100
+ERO NAH CAM SINGLE y 1.383 0.0100 1.383 0.0100
+ERO CAK CAJ DOUBLE y 1.404 0.0125 1.404 0.0125
+ERO CAL NAH SINGLE y 1.370 0.0100 1.370 0.0100
+ERO CAI OAE DOUBLE n 1.219 0.0200 1.219 0.0200
+ERO CAI CAK SINGLE n 1.496 0.0200 1.496 0.0200
+ERO CAK NAG SINGLE y 1.363 0.0100 1.363 0.0100
+ERO OAB CAI SINGLE n 1.219 0.0200 1.219 0.0200
+ERO NAG CAL SINGLE y 1.374 0.0100 1.374 0.0100
+ERO CAL OAC DOUBLE n 1.225 0.0100 1.225 0.0100
+ERO NAG H9  SINGLE n 1.016 0.0100 0.879 0.0200
+ERO NAH H2  SINGLE n 1.016 0.0100 0.892 0.0200
+ERO CAF H4  SINGLE n 1.082 0.0130 0.945 0.0173
+ERO CAA H6  SINGLE n 1.082 0.0130 0.947 0.0196
+ERO CAA H7  SINGLE n 1.082 0.0130 0.947 0.0196
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -74,33 +74,34 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-ERO         OAE         CAI         CAK     116.880    1.50
-ERO         OAE         CAI         OAB     126.239    1.50
-ERO         CAK         CAI         OAB     116.880    1.50
-ERO         CAJ         CAK         CAI     123.835    2.32
-ERO         CAJ         CAK         NAG     119.689    3.00
-ERO         CAI         CAK         NAG     116.476    1.50
-ERO         CAK         NAG         CAL     121.861    1.50
-ERO         CAK         NAG          H9     119.921    2.44
-ERO         CAL         NAG          H9     118.217    1.73
-ERO         NAH         CAL         NAG     115.175    1.50
-ERO         NAH         CAL         OAC     122.001    1.50
-ERO         NAG         CAL         OAC     122.824    1.50
-ERO         CAM         NAH         CAL     126.750    1.50
-ERO         CAM         NAH          H2     117.240    1.81
-ERO         CAL         NAH          H2     116.011    2.30
-ERO         OAD         CAM         CAJ     124.440    1.50
-ERO         OAD         CAM         NAH     118.830    1.50
-ERO         CAJ         CAM         NAH     116.730    1.50
-ERO         CAF         CAJ         CAM     118.777    3.00
-ERO         CAF         CAJ         CAK     121.428    2.04
-ERO         CAM         CAJ         CAK     119.795    1.80
-ERO         CAA         CAF         CAJ     127.119    1.50
-ERO         CAA         CAF          H4     116.684    1.50
-ERO         CAJ         CAF          H4     116.196    1.50
-ERO         CAF         CAA          H6     120.181    1.50
-ERO         CAF         CAA          H7     120.177    1.50
-ERO          H6         CAA          H7     119.633    1.50
+ERO OAE CAI CAK 116.880 1.50
+ERO OAE CAI OAB 126.239 1.50
+ERO CAK CAI OAB 116.880 1.50
+ERO CAJ CAK CAI 123.835 2.32
+ERO CAJ CAK NAG 119.689 3.00
+ERO CAI CAK NAG 116.476 1.50
+ERO CAK NAG CAL 121.861 1.50
+ERO CAK NAG H9  119.921 2.44
+ERO CAL NAG H9  118.217 1.73
+ERO NAH CAL NAG 115.175 1.50
+ERO NAH CAL OAC 122.001 1.50
+ERO NAG CAL OAC 122.824 1.50
+ERO CAM NAH CAL 126.750 1.50
+ERO CAM NAH H2  117.240 1.81
+ERO CAL NAH H2  116.011 2.30
+ERO OAD CAM CAJ 124.440 1.50
+ERO OAD CAM NAH 118.830 1.50
+ERO CAJ CAM NAH 116.730 1.50
+ERO CAF CAJ CAM 118.777 3.00
+ERO CAF CAJ CAK 121.428 2.04
+ERO CAM CAJ CAK 119.795 1.80
+ERO CAA CAF CAJ 127.119 1.50
+ERO CAA CAF H4  116.684 1.50
+ERO CAJ CAF H4  116.196 1.50
+ERO CAF CAA H6  120.181 1.50
+ERO CAF CAA H7  120.177 1.50
+ERO H6  CAA H7  119.633 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -111,63 +112,79 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-ERO             sp2_sp2_5         CAA         CAF         CAJ         CAM     180.000     5.0     2
-ERO             sp2_sp2_1          H6         CAA         CAF         CAJ     180.000     5.0     2
-ERO             sp2_sp2_9         OAE         CAI         CAK         CAJ     180.000     5.0     2
-ERO       const_sp2_sp2_4         CAF         CAJ         CAK         CAI       0.000     5.0     2
-ERO              const_23         CAI         CAK         NAG         CAL     180.000    10.0     2
-ERO              const_19         OAC         CAL         NAG         CAK     180.000    10.0     2
-ERO              const_15         OAC         CAL         NAH         CAM     180.000    10.0     2
-ERO              const_11         OAD         CAM         NAH         CAL     180.000    10.0     2
-ERO       const_sp2_sp2_8         CAF         CAJ         CAM         OAD       0.000     5.0     2
+ERO sp2_sp2_5       CAA CAF CAJ CAM 180.000 5.0  2
+ERO sp2_sp2_1       H6  CAA CAF CAJ 180.000 5.0  2
+ERO sp2_sp2_9       OAE CAI CAK CAJ 180.000 5.0  2
+ERO const_sp2_sp2_4 CAF CAJ CAK CAI 0.000   5.0  2
+ERO const_23        CAI CAK NAG CAL 180.000 10.0 2
+ERO const_19        OAC CAL NAG CAK 180.000 10.0 2
+ERO const_15        OAC CAL NAH CAM 180.000 10.0 2
+ERO const_11        OAD CAM NAH CAL 180.000 10.0 2
+ERO const_sp2_sp2_8 CAF CAJ CAM OAD 0.000   5.0  2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-ERO    plan-1         CAF   0.020
-ERO    plan-1         CAI   0.020
-ERO    plan-1         CAJ   0.020
-ERO    plan-1         CAK   0.020
-ERO    plan-1         CAL   0.020
-ERO    plan-1         CAM   0.020
-ERO    plan-1          H2   0.020
-ERO    plan-1          H9   0.020
-ERO    plan-1         NAG   0.020
-ERO    plan-1         NAH   0.020
-ERO    plan-1         OAC   0.020
-ERO    plan-1         OAD   0.020
-ERO    plan-2         CAI   0.020
-ERO    plan-2         CAK   0.020
-ERO    plan-2         OAB   0.020
-ERO    plan-2         OAE   0.020
-ERO    plan-3         CAA   0.020
-ERO    plan-3         CAF   0.020
-ERO    plan-3         CAJ   0.020
-ERO    plan-3          H4   0.020
-ERO    plan-4         CAA   0.020
-ERO    plan-4         CAF   0.020
-ERO    plan-4          H6   0.020
-ERO    plan-4          H7   0.020
+ERO plan-1 CAF 0.020
+ERO plan-1 CAI 0.020
+ERO plan-1 CAJ 0.020
+ERO plan-1 CAK 0.020
+ERO plan-1 CAL 0.020
+ERO plan-1 CAM 0.020
+ERO plan-1 H2  0.020
+ERO plan-1 H9  0.020
+ERO plan-1 NAG 0.020
+ERO plan-1 NAH 0.020
+ERO plan-1 OAC 0.020
+ERO plan-1 OAD 0.020
+ERO plan-2 CAI 0.020
+ERO plan-2 CAK 0.020
+ERO plan-2 OAB 0.020
+ERO plan-2 OAE 0.020
+ERO plan-3 CAA 0.020
+ERO plan-3 CAF 0.020
+ERO plan-3 CAJ 0.020
+ERO plan-3 H4  0.020
+ERO plan-4 CAA 0.020
+ERO plan-4 CAF 0.020
+ERO plan-4 H6  0.020
+ERO plan-4 H7  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-ERO           SMILES              ACDLabs 12.01                                                      O=C1NC(C(=O)O)=C(C(=O)N1)/C=C
-ERO            InChI                InChI  1.03 InChI=1S/C7H6N2O4/c1-2-3-4(6(11)12)8-7(13)9-5(3)10/h2H,1H2,(H,11,12)(H2,8,9,10,13)
-ERO         InChIKey                InChI  1.03                                                        HSXVSUXAHMUYQD-UHFFFAOYSA-N
-ERO SMILES_CANONICAL               CACTVS 3.370                                                       OC(=O)C1=C(C=C)C(=O)NC(=O)N1
-ERO           SMILES               CACTVS 3.370                                                       OC(=O)C1=C(C=C)C(=O)NC(=O)N1
-ERO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                         C=CC1=C(NC(=O)NC1=O)C(=O)O
-ERO           SMILES "OpenEye OEToolkits" 1.7.6                                                         C=CC1=C(NC(=O)NC1=O)C(=O)O
+ERO SMILES           ACDLabs              12.01 O=C1NC(C(=O)O)=C(C(=O)N1)/C=C
+ERO InChI            InChI                1.03  InChI=1S/C7H6N2O4/c1-2-3-4(6(11)12)8-7(13)9-5(3)10/h2H,1H2,(H,11,12)(H2,8,9,10,13)
+ERO InChIKey         InChI                1.03  HSXVSUXAHMUYQD-UHFFFAOYSA-N
+ERO SMILES_CANONICAL CACTVS               3.370 OC(=O)C1=C(C=C)C(=O)NC(=O)N1
+ERO SMILES           CACTVS               3.370 OC(=O)C1=C(C=C)C(=O)NC(=O)N1
+ERO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C=CC1=C(NC(=O)NC1=O)C(=O)O
+ERO SMILES           "OpenEye OEToolkits" 1.7.6 C=CC1=C(NC(=O)NC1=O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-ERO acedrg               243         "dictionary generator"                  
-ERO acedrg_database      11          "data source"                           
-ERO rdkit                2017.03.2   "Chemoinformatics tool"
-ERO refmac5              5.8.0238    "optimization tool"                     
+ERO acedrg          243       "dictionary generator"
+ERO acedrg_database 11        "data source"
+ERO rdkit           2017.03.2 "Chemoinformatics tool"
+ERO refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+ERO M-peptide OAE O
+ERO M-peptide CAI C
+ERO M-peptide CAK CA
+ERO M-peptide NAG N
+ERO M-peptide CAL CN
+ERO M-peptide OAB OXT
+ERO M-peptide H9  H

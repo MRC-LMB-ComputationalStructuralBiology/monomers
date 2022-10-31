@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-COP     COP      "N-(4-CARBOXY-4-{4-[(2,4-DIAMINO-PTERIDIN-6-YLMETHYL)-AMINO]-BENZOYLAMINO}-BUTYL)-PHTHALAMIC ACID"     NON-POLYMER     68     42     .     
-#
+COP COP "N-(4-CARBOXY-4-{4-[(2,4-DIAMINO-PTERIDIN-6-YLMETHYL)-AMINO]-BENZOYLAMINO}-BUTYL)-PHTHALAMIC ACID" NON-POLYMER 68 42 .
+
 data_comp_COP
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,74 +19,75 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-COP     C3      C       CR6     0       10.574      29.213      13.839      
-COP     C1      C       CR6     0       12.254      28.670      15.353      
-COP     C10     C       CR66    0       13.189      28.642      14.267      
-COP     C8      C       CR6     0       15.322      28.347      13.432      
-COP     C7      C       CR16    0       14.834      28.625      12.127      
-COP     C5      C       CR66    0       12.714      28.920      12.966      
-COP     C11     C       CH2     0       16.778      28.025      13.667      
-COP     C13     C       CR6     0       17.567      30.251      14.487      
-COP     C18     C       CR16    0       17.760      31.545      13.989      
-COP     C17     C       CR16    0       17.696      32.635      14.837      
-COP     C16     C       CR6     0       17.438      32.469      16.196      
-COP     C15     C       CR16    0       17.259      31.180      16.693      
-COP     C14     C       CR16    0       17.320      30.080      15.857      
-COP     C19     C       C       0       17.383      33.666      17.106      
-COP     C21     C       CH1     0       16.132      34.819      18.908      
-COP     C24     C       C       0       16.005      34.156      20.291      
-COP     C27     C       CH2     0       14.926      35.716      18.615      
-COP     C28     C       CH2     0       15.003      36.425      17.269      
-COP     C29     C       CH2     0       14.343      37.793      17.258      
-COP     N4      N       NRD6    0       11.394      29.207      12.759      
-COP     N3      N       NH2     0       9.284       29.493      13.635      
-COP     N2      N       NRD6    0       10.967      28.956      15.111      
-COP     N1      N       NH2     0       12.641      28.416      16.612      
-COP     N9      N       NRD6    0       14.515      28.354      14.476      
-COP     N6      N       NRD6    0       13.561      28.906      11.895      
-COP     N12     N       NH1     0       17.645      29.172      13.631      
-COP     N20     N       NH1     0       16.289      33.798      17.876      
-COP     O19     O       O       0       18.329      34.453      17.140      
-COP     O24     O       O       0       16.881      34.424      21.138      
-COP     O25     O       OC      -1      15.035      33.393      20.470      
-COP     N30     N       NH1     0       14.275      38.355      15.914      
-COP     C31     C       C       0       13.830      39.588      15.635      
-COP     O32     O       O       0       13.791      40.014      14.481      
-COP     C33     C       CR6     0       13.372      40.460      16.785      
-COP     C38     C       CR6     0       14.211      41.417      17.388      
-COP     C37     C       CR16    0       13.715      42.187      18.439      
-COP     C36     C       CR16    0       12.417      42.025      18.889      
-COP     C35     C       CR16    0       11.592      41.088      18.294      
-COP     C34     C       CR16    0       12.063      40.312      17.250      
-COP     C39     C       C       0       15.631      41.644      16.947      
-COP     O40     O       O       0       16.497      40.795      17.093      
-COP     O41     O       OH1     0       15.824      42.847      16.395      
-COP     H7      H       H       0       15.433      28.612      11.398      
-COP     H111    H       H       0       17.071      27.393      12.984      
-COP     H112    H       H       0       16.871      27.585      14.533      
-COP     H18     H       H       0       17.931      31.673      13.071      
-COP     H17     H       H       0       17.824      33.500      14.488      
-COP     H15     H       H       0       17.087      31.052      17.610      
-COP     H14     H       H       0       17.192      29.217      16.208      
-COP     H21     H       H       0       16.939      35.393      18.916      
-COP     H271    H       H       0       14.855      36.388      19.325      
-COP     H272    H       H       0       14.114      35.168      18.637      
-COP     H281    H       H       0       14.574      35.864      16.588      
-COP     H282    H       H       0       15.946      36.530      17.016      
-COP     H291    H       H       0       14.854      38.396      17.839      
-COP     H292    H       H       0       13.435      37.715      17.623      
-COP     HN31    H       H       0       8.868       30.047      14.173      
-COP     HN32    H       H       0       8.858       29.123      12.965      
-COP     HN11    H       H       0       12.280      28.861      17.280      
-COP     HN12    H       H       0       13.255      27.805      16.767      
-COP     HN2     H       H       0       18.265      29.180      13.019      
-COP     HN0     H       H       0       15.619      33.251      17.759      
-COP     HN3     H       H       0       14.541      37.854      15.247      
-COP     H37     H       H       0       14.272      42.826      18.847      
-COP     H36     H       H       0       12.096      42.553      19.601      
-COP     H35     H       H       0       10.707      40.977      18.601      
-COP     H34     H       H       0       11.496      39.677      16.850      
-COP     HO1     H       H       0       16.600      43.220      16.435      
+COP C3   C CR6  0  10.574 29.213 13.839
+COP C1   C CR6  0  12.254 28.670 15.353
+COP C10  C CR66 0  13.189 28.642 14.267
+COP C8   C CR6  0  15.322 28.347 13.432
+COP C7   C CR16 0  14.834 28.625 12.127
+COP C5   C CR66 0  12.714 28.920 12.966
+COP C11  C CH2  0  16.778 28.025 13.667
+COP C13  C CR6  0  17.567 30.251 14.487
+COP C18  C CR16 0  17.760 31.545 13.989
+COP C17  C CR16 0  17.696 32.635 14.837
+COP C16  C CR6  0  17.438 32.469 16.196
+COP C15  C CR16 0  17.259 31.180 16.693
+COP C14  C CR16 0  17.320 30.080 15.857
+COP C19  C C    0  17.383 33.666 17.106
+COP C21  C CH1  0  16.132 34.819 18.908
+COP C24  C C    0  16.005 34.156 20.291
+COP C27  C CH2  0  14.926 35.716 18.615
+COP C28  C CH2  0  15.003 36.425 17.269
+COP C29  C CH2  0  14.343 37.793 17.258
+COP N4   N NRD6 0  11.394 29.207 12.759
+COP N3   N NH2  0  9.284  29.493 13.635
+COP N2   N NRD6 0  10.967 28.956 15.111
+COP N1   N NH2  0  12.641 28.416 16.612
+COP N9   N NRD6 0  14.515 28.354 14.476
+COP N6   N NRD6 0  13.561 28.906 11.895
+COP N12  N NH1  0  17.645 29.172 13.631
+COP N20  N NH1  0  16.289 33.798 17.876
+COP O19  O O    0  18.329 34.453 17.140
+COP O24  O O    0  16.881 34.424 21.138
+COP O25  O OC   -1 15.035 33.393 20.470
+COP N30  N NH1  0  14.275 38.355 15.914
+COP C31  C C    0  13.830 39.588 15.635
+COP O32  O O    0  13.791 40.014 14.481
+COP C33  C CR6  0  13.372 40.460 16.785
+COP C38  C CR6  0  14.211 41.417 17.388
+COP C37  C CR16 0  13.715 42.187 18.439
+COP C36  C CR16 0  12.417 42.025 18.889
+COP C35  C CR16 0  11.592 41.088 18.294
+COP C34  C CR16 0  12.063 40.312 17.250
+COP C39  C C    0  15.631 41.644 16.947
+COP O40  O O    0  16.497 40.795 17.093
+COP O41  O OH1  0  15.824 42.847 16.395
+COP H7   H H    0  15.433 28.612 11.398
+COP H111 H H    0  17.071 27.393 12.984
+COP H112 H H    0  16.871 27.585 14.533
+COP H18  H H    0  17.931 31.673 13.071
+COP H17  H H    0  17.824 33.500 14.488
+COP H15  H H    0  17.087 31.052 17.610
+COP H14  H H    0  17.192 29.217 16.208
+COP H21  H H    0  16.939 35.393 18.916
+COP H271 H H    0  14.855 36.388 19.325
+COP H272 H H    0  14.114 35.168 18.637
+COP H281 H H    0  14.574 35.864 16.588
+COP H282 H H    0  15.946 36.530 17.016
+COP H291 H H    0  14.854 38.396 17.839
+COP H292 H H    0  13.435 37.715 17.623
+COP HN31 H H    0  8.868  30.047 14.173
+COP HN32 H H    0  8.858  29.123 12.965
+COP HN11 H H    0  12.280 28.861 17.280
+COP HN12 H H    0  13.255 27.805 16.767
+COP HN2  H H    0  18.265 29.180 13.019
+COP HN0  H H    0  15.619 33.251 17.759
+COP HN3  H H    0  14.541 37.854 15.247
+COP H37  H H    0  14.272 42.826 18.847
+COP H36  H H    0  12.096 42.553 19.601
+COP H35  H H    0  10.707 40.977 18.601
+COP H34  H H    0  11.496 39.677 16.850
+COP HO1  H H    0  16.600 43.220 16.435
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -99,77 +98,78 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-COP          C3          N4      DOUBLE       y     1.349  0.0118     1.349  0.0118
-COP          C3          N3      SINGLE       n     1.335  0.0101     1.335  0.0101
-COP          C3          N2      SINGLE       y     1.348  0.0113     1.348  0.0113
-COP          C1         C10      SINGLE       y     1.420  0.0200     1.420  0.0200
-COP          C1          N2      DOUBLE       y     1.335  0.0100     1.335  0.0100
-COP          C1          N1      SINGLE       n     1.341  0.0100     1.341  0.0100
-COP         C10          C5      DOUBLE       y     1.410  0.0100     1.410  0.0100
-COP         C10          N9      SINGLE       y     1.370  0.0100     1.370  0.0100
-COP          C8          C7      SINGLE       y     1.410  0.0142     1.410  0.0142
-COP          C8         C11      SINGLE       n     1.509  0.0100     1.509  0.0100
-COP          C8          N9      DOUBLE       y     1.315  0.0100     1.315  0.0100
-COP          C7          N6      DOUBLE       y     1.319  0.0100     1.319  0.0100
-COP          C5          N4      SINGLE       y     1.364  0.0100     1.364  0.0100
-COP          C5          N6      SINGLE       y     1.362  0.0100     1.362  0.0100
-COP         C11         N12      SINGLE       n     1.436  0.0100     1.436  0.0100
-COP         C13         C18      DOUBLE       y     1.395  0.0124     1.395  0.0124
-COP         C13         C14      SINGLE       y     1.395  0.0124     1.395  0.0124
-COP         C13         N12      SINGLE       n     1.375  0.0145     1.375  0.0145
-COP         C18         C17      SINGLE       y     1.379  0.0100     1.379  0.0100
-COP         C17         C16      DOUBLE       y     1.390  0.0100     1.390  0.0100
-COP         C16         C15      SINGLE       y     1.390  0.0100     1.390  0.0100
-COP         C16         C19      SINGLE       n     1.502  0.0100     1.502  0.0100
-COP         C15         C14      DOUBLE       y     1.379  0.0100     1.379  0.0100
-COP         C19         N20      SINGLE       n     1.337  0.0101     1.337  0.0101
-COP         C19         O19      DOUBLE       n     1.230  0.0114     1.230  0.0114
-COP         C21         C24      SINGLE       n     1.539  0.0100     1.539  0.0100
-COP         C21         C27      SINGLE       n     1.531  0.0123     1.531  0.0123
-COP         C21         N20      SINGLE       n     1.456  0.0100     1.456  0.0100
-COP         C24         O24      DOUBLE       n     1.247  0.0187     1.247  0.0187
-COP         C24         O25      SINGLE       n     1.247  0.0187     1.247  0.0187
-COP         C27         C28      SINGLE       n     1.522  0.0100     1.522  0.0100
-COP         C28         C29      SINGLE       n     1.517  0.0143     1.517  0.0143
-COP         C29         N30      SINGLE       n     1.455  0.0100     1.455  0.0100
-COP         N30         C31      SINGLE       n     1.333  0.0111     1.333  0.0111
-COP         C31         O32      DOUBLE       n     1.230  0.0114     1.230  0.0114
-COP         C31         C33      SINGLE       n     1.511  0.0100     1.511  0.0100
-COP         C33         C38      DOUBLE       y     1.402  0.0100     1.402  0.0100
-COP         C33         C34      SINGLE       y     1.393  0.0100     1.393  0.0100
-COP         C38         C37      SINGLE       y     1.391  0.0100     1.391  0.0100
-COP         C38         C39      SINGLE       n     1.502  0.0145     1.502  0.0145
-COP         C37         C36      DOUBLE       y     1.380  0.0100     1.380  0.0100
-COP         C36         C35      SINGLE       y     1.378  0.0129     1.378  0.0129
-COP         C35         C34      DOUBLE       y     1.380  0.0100     1.380  0.0100
-COP         C39         O40      DOUBLE       n     1.221  0.0175     1.221  0.0175
-COP         C39         O41      SINGLE       n     1.338  0.0153     1.338  0.0153
-COP          C7          H7      SINGLE       n     1.082  0.0130     0.944  0.0200
-COP         C11        H111      SINGLE       n     1.089  0.0100     0.976  0.0145
-COP         C11        H112      SINGLE       n     1.089  0.0100     0.976  0.0145
-COP         C18         H18      SINGLE       n     1.082  0.0130     0.942  0.0198
-COP         C17         H17      SINGLE       n     1.082  0.0130     0.941  0.0168
-COP         C15         H15      SINGLE       n     1.082  0.0130     0.941  0.0168
-COP         C14         H14      SINGLE       n     1.082  0.0130     0.942  0.0198
-COP         C21         H21      SINGLE       n     1.089  0.0100     0.991  0.0200
-COP         C27        H271      SINGLE       n     1.089  0.0100     0.980  0.0160
-COP         C27        H272      SINGLE       n     1.089  0.0100     0.980  0.0160
-COP         C28        H281      SINGLE       n     1.089  0.0100     0.981  0.0160
-COP         C28        H282      SINGLE       n     1.089  0.0100     0.981  0.0160
-COP         C29        H291      SINGLE       n     1.089  0.0100     0.981  0.0152
-COP         C29        H292      SINGLE       n     1.089  0.0100     0.981  0.0152
-COP          N3        HN31      SINGLE       n     1.016  0.0100     0.877  0.0200
-COP          N3        HN32      SINGLE       n     1.016  0.0100     0.877  0.0200
-COP          N1        HN11      SINGLE       n     1.016  0.0100     0.880  0.0200
-COP          N1        HN12      SINGLE       n     1.016  0.0100     0.880  0.0200
-COP         N12         HN2      SINGLE       n     1.016  0.0100     0.871  0.0200
-COP         N20         HN0      SINGLE       n     1.016  0.0100     0.872  0.0200
-COP         N30         HN3      SINGLE       n     1.016  0.0100     0.873  0.0200
-COP         C37         H37      SINGLE       n     1.082  0.0130     0.941  0.0168
-COP         C36         H36      SINGLE       n     1.082  0.0130     0.943  0.0180
-COP         C35         H35      SINGLE       n     1.082  0.0130     0.943  0.0180
-COP         C34         H34      SINGLE       n     1.082  0.0130     0.941  0.0168
-COP         O41         HO1      SINGLE       n     0.966  0.0059     0.861  0.0200
+COP C3  N4   DOUBLE y 1.349 0.0118 1.349 0.0118
+COP C3  N3   SINGLE n 1.335 0.0101 1.335 0.0101
+COP C3  N2   SINGLE y 1.348 0.0113 1.348 0.0113
+COP C1  C10  SINGLE y 1.420 0.0200 1.420 0.0200
+COP C1  N2   DOUBLE y 1.335 0.0100 1.335 0.0100
+COP C1  N1   SINGLE n 1.341 0.0100 1.341 0.0100
+COP C10 C5   DOUBLE y 1.410 0.0100 1.410 0.0100
+COP C10 N9   SINGLE y 1.370 0.0100 1.370 0.0100
+COP C8  C7   SINGLE y 1.410 0.0142 1.410 0.0142
+COP C8  C11  SINGLE n 1.509 0.0100 1.509 0.0100
+COP C8  N9   DOUBLE y 1.315 0.0100 1.315 0.0100
+COP C7  N6   DOUBLE y 1.319 0.0100 1.319 0.0100
+COP C5  N4   SINGLE y 1.364 0.0100 1.364 0.0100
+COP C5  N6   SINGLE y 1.362 0.0100 1.362 0.0100
+COP C11 N12  SINGLE n 1.436 0.0100 1.436 0.0100
+COP C13 C18  DOUBLE y 1.395 0.0124 1.395 0.0124
+COP C13 C14  SINGLE y 1.395 0.0124 1.395 0.0124
+COP C13 N12  SINGLE n 1.375 0.0145 1.375 0.0145
+COP C18 C17  SINGLE y 1.379 0.0100 1.379 0.0100
+COP C17 C16  DOUBLE y 1.390 0.0100 1.390 0.0100
+COP C16 C15  SINGLE y 1.390 0.0100 1.390 0.0100
+COP C16 C19  SINGLE n 1.502 0.0100 1.502 0.0100
+COP C15 C14  DOUBLE y 1.379 0.0100 1.379 0.0100
+COP C19 N20  SINGLE n 1.337 0.0101 1.337 0.0101
+COP C19 O19  DOUBLE n 1.230 0.0114 1.230 0.0114
+COP C21 C24  SINGLE n 1.539 0.0100 1.539 0.0100
+COP C21 C27  SINGLE n 1.531 0.0123 1.531 0.0123
+COP C21 N20  SINGLE n 1.456 0.0100 1.456 0.0100
+COP C24 O24  DOUBLE n 1.247 0.0187 1.247 0.0187
+COP C24 O25  SINGLE n 1.247 0.0187 1.247 0.0187
+COP C27 C28  SINGLE n 1.522 0.0100 1.522 0.0100
+COP C28 C29  SINGLE n 1.517 0.0143 1.517 0.0143
+COP C29 N30  SINGLE n 1.455 0.0100 1.455 0.0100
+COP N30 C31  SINGLE n 1.333 0.0111 1.333 0.0111
+COP C31 O32  DOUBLE n 1.230 0.0114 1.230 0.0114
+COP C31 C33  SINGLE n 1.511 0.0100 1.511 0.0100
+COP C33 C38  DOUBLE y 1.402 0.0100 1.402 0.0100
+COP C33 C34  SINGLE y 1.393 0.0100 1.393 0.0100
+COP C38 C37  SINGLE y 1.391 0.0100 1.391 0.0100
+COP C38 C39  SINGLE n 1.502 0.0145 1.502 0.0145
+COP C37 C36  DOUBLE y 1.380 0.0100 1.380 0.0100
+COP C36 C35  SINGLE y 1.378 0.0129 1.378 0.0129
+COP C35 C34  DOUBLE y 1.380 0.0100 1.380 0.0100
+COP C39 O40  DOUBLE n 1.221 0.0175 1.221 0.0175
+COP C39 O41  SINGLE n 1.338 0.0153 1.338 0.0153
+COP C7  H7   SINGLE n 1.082 0.0130 0.944 0.0200
+COP C11 H111 SINGLE n 1.089 0.0100 0.976 0.0145
+COP C11 H112 SINGLE n 1.089 0.0100 0.976 0.0145
+COP C18 H18  SINGLE n 1.082 0.0130 0.942 0.0198
+COP C17 H17  SINGLE n 1.082 0.0130 0.941 0.0168
+COP C15 H15  SINGLE n 1.082 0.0130 0.941 0.0168
+COP C14 H14  SINGLE n 1.082 0.0130 0.942 0.0198
+COP C21 H21  SINGLE n 1.089 0.0100 0.991 0.0200
+COP C27 H271 SINGLE n 1.089 0.0100 0.980 0.0160
+COP C27 H272 SINGLE n 1.089 0.0100 0.980 0.0160
+COP C28 H281 SINGLE n 1.089 0.0100 0.981 0.0160
+COP C28 H282 SINGLE n 1.089 0.0100 0.981 0.0160
+COP C29 H291 SINGLE n 1.089 0.0100 0.981 0.0152
+COP C29 H292 SINGLE n 1.089 0.0100 0.981 0.0152
+COP N3  HN31 SINGLE n 1.016 0.0100 0.877 0.0200
+COP N3  HN32 SINGLE n 1.016 0.0100 0.877 0.0200
+COP N1  HN11 SINGLE n 1.016 0.0100 0.880 0.0200
+COP N1  HN12 SINGLE n 1.016 0.0100 0.880 0.0200
+COP N12 HN2  SINGLE n 1.016 0.0100 0.871 0.0200
+COP N20 HN0  SINGLE n 1.016 0.0100 0.872 0.0200
+COP N30 HN3  SINGLE n 1.016 0.0100 0.873 0.0200
+COP C37 H37  SINGLE n 1.082 0.0130 0.941 0.0168
+COP C36 H36  SINGLE n 1.082 0.0130 0.943 0.0180
+COP C35 H35  SINGLE n 1.082 0.0130 0.943 0.0180
+COP C34 H34  SINGLE n 1.082 0.0130 0.941 0.0168
+COP O41 HO1  SINGLE n 0.966 0.0059 0.861 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -177,122 +177,123 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-COP          N4          C3          N3     117.847    1.50
-COP          N4          C3          N2     124.310    1.50
-COP          N3          C3          N2     117.843    1.50
-COP         C10          C1          N2     119.854    1.50
-COP         C10          C1          N1     120.810    2.28
-COP          N2          C1          N1     119.336    1.50
-COP          C1         C10          C5     119.153    1.50
-COP          C1         C10          N9     119.974    1.50
-COP          C5         C10          N9     120.874    1.50
-COP          C7          C8         C11     121.228    1.56
-COP          C7          C8          N9     121.047    1.50
-COP         C11          C8          N9     117.726    1.50
-COP          C8          C7          N6     121.921    1.50
-COP          C8          C7          H7     119.362    1.50
-COP          N6          C7          H7     118.717    1.50
-COP         C10          C5          N4     120.914    1.50
-COP         C10          C5          N6     121.044    1.50
-COP          N4          C5          N6     118.042    1.50
-COP          C8         C11         N12     112.551    2.18
-COP          C8         C11        H111     108.707    1.50
-COP          C8         C11        H112     108.707    1.50
-COP         N12         C11        H111     108.637    1.50
-COP         N12         C11        H112     108.637    1.50
-COP        H111         C11        H112     107.618    1.50
-COP         C18         C13         C14     119.374    1.50
-COP         C18         C13         N12     120.313    1.76
-COP         C14         C13         N12     120.313    1.76
-COP         C13         C18         C17     120.067    1.50
-COP         C13         C18         H18     119.866    1.50
-COP         C17         C18         H18     120.067    1.50
-COP         C18         C17         C16     120.771    1.50
-COP         C18         C17         H17     119.399    1.50
-COP         C16         C17         H17     119.830    1.50
-COP         C17         C16         C15     118.950    1.50
-COP         C17         C16         C19     120.525    2.80
-COP         C15         C16         C19     120.525    2.80
-COP         C16         C15         C14     120.771    1.50
-COP         C16         C15         H15     119.830    1.50
-COP         C14         C15         H15     119.399    1.50
-COP         C13         C14         C15     120.067    1.50
-COP         C13         C14         H14     119.866    1.50
-COP         C15         C14         H14     120.067    1.50
-COP         C16         C19         N20     116.740    1.50
-COP         C16         C19         O19     120.865    1.50
-COP         N20         C19         O19     122.394    1.50
-COP         C24         C21         C27     111.638    2.31
-COP         C24         C21         N20     110.522    1.86
-COP         C24         C21         H21     108.327    1.50
-COP         C27         C21         N20     110.984    1.61
-COP         C27         C21         H21     108.155    1.50
-COP         N20         C21         H21     107.930    1.50
-COP         C21         C24         O24     117.249    1.61
-COP         C21         C24         O25     117.249    1.61
-COP         O24         C24         O25     125.502    1.50
-COP         C21         C27         C28     113.381    1.99
-COP         C21         C27        H271     108.606    1.50
-COP         C21         C27        H272     108.606    1.50
-COP         C28         C27        H271     108.775    1.50
-COP         C28         C27        H272     108.775    1.50
-COP        H271         C27        H272     107.844    1.50
-COP         C27         C28         C29     112.387    3.00
-COP         C27         C28        H281     109.262    1.50
-COP         C27         C28        H282     109.262    1.50
-COP         C29         C28        H281     108.956    1.50
-COP         C29         C28        H282     108.956    1.50
-COP        H281         C28        H282     107.927    1.57
-COP         C28         C29         N30     112.199    1.50
-COP         C28         C29        H291     109.197    1.51
-COP         C28         C29        H292     109.197    1.51
-COP         N30         C29        H291     109.020    1.50
-COP         N30         C29        H292     109.020    1.50
-COP        H291         C29        H292     107.877    1.50
-COP          C3          N4          C5     117.729    1.50
-COP          C3          N3        HN31     119.843    1.50
-COP          C3          N3        HN32     119.843    1.50
-COP        HN31          N3        HN32     120.314    1.96
-COP          C3          N2          C1     118.040    1.50
-COP          C1          N1        HN11     119.904    1.50
-COP          C1          N1        HN12     119.904    1.50
-COP        HN11          N1        HN12     120.193    1.50
-COP         C10          N9          C8     118.081    1.50
-COP          C7          N6          C5     117.033    1.50
-COP         C11         N12         C13     123.928    1.50
-COP         C11         N12         HN2     117.633    1.54
-COP         C13         N12         HN2     118.439    1.50
-COP         C19         N20         C21     122.253    1.50
-COP         C19         N20         HN0     119.427    1.94
-COP         C21         N20         HN0     118.320    2.24
-COP         C29         N30         C31     121.796    1.50
-COP         C29         N30         HN3     118.813    1.50
-COP         C31         N30         HN3     119.379    1.77
-COP         N30         C31         O32     122.570    1.50
-COP         N30         C31         C33     115.971    1.50
-COP         O32         C31         C33     121.459    1.50
-COP         C31         C33         C38     121.926    2.10
-COP         C31         C33         C34     118.786    1.50
-COP         C38         C33         C34     119.288    1.50
-COP         C33         C38         C37     119.148    1.50
-COP         C33         C38         C39     122.099    1.50
-COP         C37         C38         C39     118.753    2.62
-COP         C38         C37         C36     121.007    1.50
-COP         C38         C37         H37     119.350    1.50
-COP         C36         C37         H37     119.642    1.50
-COP         C37         C36         C35     120.037    1.50
-COP         C37         C36         H36     119.936    1.50
-COP         C35         C36         H36     120.027    1.50
-COP         C36         C35         C34     120.037    1.50
-COP         C36         C35         H35     120.027    1.50
-COP         C34         C35         H35     119.936    1.50
-COP         C33         C34         C35     120.484    1.50
-COP         C33         C34         H34     119.764    1.50
-COP         C35         C34         H34     119.752    1.50
-COP         C38         C39         O40     121.967    2.04
-COP         C38         C39         O41     113.120    1.50
-COP         O40         C39         O41     124.913    1.64
-COP         C39         O41         HO1     120.000    3.00
+COP N4   C3  N3   117.847 1.50
+COP N4   C3  N2   124.310 1.50
+COP N3   C3  N2   117.843 1.50
+COP C10  C1  N2   119.854 1.50
+COP C10  C1  N1   120.810 2.28
+COP N2   C1  N1   119.336 1.50
+COP C1   C10 C5   119.153 1.50
+COP C1   C10 N9   119.974 1.50
+COP C5   C10 N9   120.874 1.50
+COP C7   C8  C11  121.228 1.56
+COP C7   C8  N9   121.047 1.50
+COP C11  C8  N9   117.726 1.50
+COP C8   C7  N6   121.921 1.50
+COP C8   C7  H7   119.362 1.50
+COP N6   C7  H7   118.717 1.50
+COP C10  C5  N4   120.914 1.50
+COP C10  C5  N6   121.044 1.50
+COP N4   C5  N6   118.042 1.50
+COP C8   C11 N12  112.551 2.18
+COP C8   C11 H111 108.707 1.50
+COP C8   C11 H112 108.707 1.50
+COP N12  C11 H111 108.637 1.50
+COP N12  C11 H112 108.637 1.50
+COP H111 C11 H112 107.618 1.50
+COP C18  C13 C14  119.374 1.50
+COP C18  C13 N12  120.313 1.76
+COP C14  C13 N12  120.313 1.76
+COP C13  C18 C17  120.067 1.50
+COP C13  C18 H18  119.866 1.50
+COP C17  C18 H18  120.067 1.50
+COP C18  C17 C16  120.771 1.50
+COP C18  C17 H17  119.399 1.50
+COP C16  C17 H17  119.830 1.50
+COP C17  C16 C15  118.950 1.50
+COP C17  C16 C19  120.525 2.80
+COP C15  C16 C19  120.525 2.80
+COP C16  C15 C14  120.771 1.50
+COP C16  C15 H15  119.830 1.50
+COP C14  C15 H15  119.399 1.50
+COP C13  C14 C15  120.067 1.50
+COP C13  C14 H14  119.866 1.50
+COP C15  C14 H14  120.067 1.50
+COP C16  C19 N20  116.740 1.50
+COP C16  C19 O19  120.865 1.50
+COP N20  C19 O19  122.394 1.50
+COP C24  C21 C27  111.638 2.31
+COP C24  C21 N20  110.522 1.86
+COP C24  C21 H21  108.327 1.50
+COP C27  C21 N20  110.984 1.61
+COP C27  C21 H21  108.155 1.50
+COP N20  C21 H21  107.930 1.50
+COP C21  C24 O24  117.249 1.61
+COP C21  C24 O25  117.249 1.61
+COP O24  C24 O25  125.502 1.50
+COP C21  C27 C28  113.381 1.99
+COP C21  C27 H271 108.606 1.50
+COP C21  C27 H272 108.606 1.50
+COP C28  C27 H271 108.775 1.50
+COP C28  C27 H272 108.775 1.50
+COP H271 C27 H272 107.844 1.50
+COP C27  C28 C29  112.387 3.00
+COP C27  C28 H281 109.262 1.50
+COP C27  C28 H282 109.262 1.50
+COP C29  C28 H281 108.956 1.50
+COP C29  C28 H282 108.956 1.50
+COP H281 C28 H282 107.927 1.57
+COP C28  C29 N30  112.199 1.50
+COP C28  C29 H291 109.197 1.51
+COP C28  C29 H292 109.197 1.51
+COP N30  C29 H291 109.020 1.50
+COP N30  C29 H292 109.020 1.50
+COP H291 C29 H292 107.877 1.50
+COP C3   N4  C5   117.729 1.50
+COP C3   N3  HN31 119.843 1.50
+COP C3   N3  HN32 119.843 1.50
+COP HN31 N3  HN32 120.314 1.96
+COP C3   N2  C1   118.040 1.50
+COP C1   N1  HN11 119.904 1.50
+COP C1   N1  HN12 119.904 1.50
+COP HN11 N1  HN12 120.193 1.50
+COP C10  N9  C8   118.081 1.50
+COP C7   N6  C5   117.033 1.50
+COP C11  N12 C13  123.928 1.50
+COP C11  N12 HN2  117.633 1.54
+COP C13  N12 HN2  118.439 1.50
+COP C19  N20 C21  122.253 1.50
+COP C19  N20 HN0  119.427 1.94
+COP C21  N20 HN0  118.320 2.24
+COP C29  N30 C31  121.796 1.50
+COP C29  N30 HN3  118.813 1.50
+COP C31  N30 HN3  119.379 1.77
+COP N30  C31 O32  122.570 1.50
+COP N30  C31 C33  115.971 1.50
+COP O32  C31 C33  121.459 1.50
+COP C31  C33 C38  121.926 2.10
+COP C31  C33 C34  118.786 1.50
+COP C38  C33 C34  119.288 1.50
+COP C33  C38 C37  119.148 1.50
+COP C33  C38 C39  122.099 1.50
+COP C37  C38 C39  118.753 2.62
+COP C38  C37 C36  121.007 1.50
+COP C38  C37 H37  119.350 1.50
+COP C36  C37 H37  119.642 1.50
+COP C37  C36 C35  120.037 1.50
+COP C37  C36 H36  119.936 1.50
+COP C35  C36 H36  120.027 1.50
+COP C36  C35 C34  120.037 1.50
+COP C36  C35 H35  120.027 1.50
+COP C34  C35 H35  119.936 1.50
+COP C33  C34 C35  120.484 1.50
+COP C33  C34 H34  119.764 1.50
+COP C35  C34 H34  119.752 1.50
+COP C38  C39 O40  121.967 2.04
+COP C38  C39 O41  113.120 1.50
+COP O40  C39 O41  124.913 1.64
+COP C39  O41 HO1  120.000 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -303,46 +304,47 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-COP       const_sp2_sp2_2          N3          C3          N4          C5     180.000     5.0     2
-COP             sp2_sp2_1          N4          C3          N3        HN31     180.000     5.0     2
-COP              const_66          N3          C3          N2          C1     180.000    10.0     2
-COP              const_38         C14         C15         C16         C19     180.000    10.0     2
-COP            sp2_sp2_13         C17         C16         C19         N20     180.000     5.0     2
-COP              const_41         C13         C14         C15         C16       0.000    10.0     2
-COP            sp2_sp2_19         O19         C19         N20         C21       0.000     5.0     2
-COP            sp2_sp3_13         O24         C24         C21         C27       0.000    10.0     6
-COP             sp3_sp3_1         C24         C21         C27         C28     180.000    10.0     3
-COP            sp2_sp3_19         C19         N20         C21         C24       0.000    10.0     6
-COP            sp3_sp3_10         C21         C27         C28         C29     180.000    10.0     3
-COP            sp3_sp3_19         C27         C28         C29         N30     180.000    10.0     3
-COP            sp2_sp3_26         C31         N30         C29         C28     120.000    10.0     6
-COP              const_11          N1          C1         C10          C5     180.000    10.0     2
-COP              const_14          N1          C1          N2          C3     180.000    10.0     2
-COP             sp2_sp2_5         C10          C1          N1        HN11     180.000     5.0     2
-COP              const_68          C1         C10          N9          C8     180.000    10.0     2
-COP       const_sp2_sp2_5          C1         C10          C5          N4       0.000     5.0     2
-COP            sp2_sp2_23         O32         C31         N30         C29       0.000     5.0     2
-COP            sp2_sp2_25         N30         C31         C33         C38     180.000     5.0     2
-COP              const_48         C31         C33         C38         C39       0.000    10.0     2
-COP              const_75         C31         C33         C34         C35     180.000    10.0     2
-COP              const_50         C36         C37         C38         C39     180.000    10.0     2
-COP            sp2_sp2_30         C33         C38         C39         O40       0.000     5.0     2
-COP              const_53         C35         C36         C37         C38       0.000    10.0     2
-COP              const_57         C34         C35         C36         C37       0.000    10.0     2
-COP              const_61         C33         C34         C35         C36       0.000    10.0     2
-COP            sp2_sp2_34         O40         C39         O41         HO1       0.000     5.0     2
-COP              const_24         C11          C8          N9         C10     180.000    10.0     2
-COP              const_20          N6          C7          C8         C11     180.000    10.0     2
-COP             sp2_sp3_2          C7          C8         C11         N12     -90.000    10.0     6
-COP              const_17          C8          C7          N6          C5       0.000    10.0     2
-COP       const_sp2_sp2_3         C10          C5          N4          C3       0.000     5.0     2
-COP              const_15         C10          C5          N6          C7       0.000    10.0     2
-COP             sp2_sp3_8         C13         N12         C11          C8     120.000    10.0     6
-COP              const_71         N12         C13         C14         C15     180.000    10.0     2
-COP             sp2_sp2_9         C18         C13         N12         C11     180.000     5.0     2
-COP              const_27         N12         C13         C18         C17     180.000    10.0     2
-COP              const_29         C16         C17         C18         C13       0.000    10.0     2
-COP              const_35         C19         C16         C17         C18     180.000    10.0     2
+COP const_sp2_sp2_2 N3  C3  N4  C5   180.000 5.0  2
+COP sp2_sp2_1       N4  C3  N3  HN31 180.000 5.0  2
+COP const_66        N3  C3  N2  C1   180.000 10.0 2
+COP const_38        C14 C15 C16 C19  180.000 10.0 2
+COP sp2_sp2_13      C17 C16 C19 N20  180.000 5.0  2
+COP const_41        C13 C14 C15 C16  0.000   10.0 2
+COP sp2_sp2_19      O19 C19 N20 C21  0.000   5.0  2
+COP sp2_sp3_13      O24 C24 C21 C27  0.000   10.0 6
+COP sp3_sp3_1       C24 C21 C27 C28  180.000 10.0 3
+COP sp2_sp3_19      C19 N20 C21 C24  0.000   10.0 6
+COP sp3_sp3_10      C21 C27 C28 C29  180.000 10.0 3
+COP sp3_sp3_19      C27 C28 C29 N30  180.000 10.0 3
+COP sp2_sp3_26      C31 N30 C29 C28  120.000 10.0 6
+COP const_11        N1  C1  C10 C5   180.000 10.0 2
+COP const_14        N1  C1  N2  C3   180.000 10.0 2
+COP sp2_sp2_5       C10 C1  N1  HN11 180.000 5.0  2
+COP const_68        C1  C10 N9  C8   180.000 10.0 2
+COP const_sp2_sp2_5 C1  C10 C5  N4   0.000   5.0  2
+COP sp2_sp2_23      O32 C31 N30 C29  0.000   5.0  2
+COP sp2_sp2_25      N30 C31 C33 C38  180.000 5.0  2
+COP const_48        C31 C33 C38 C39  0.000   10.0 2
+COP const_75        C31 C33 C34 C35  180.000 10.0 2
+COP const_50        C36 C37 C38 C39  180.000 10.0 2
+COP sp2_sp2_30      C33 C38 C39 O40  0.000   5.0  2
+COP const_53        C35 C36 C37 C38  0.000   10.0 2
+COP const_57        C34 C35 C36 C37  0.000   10.0 2
+COP const_61        C33 C34 C35 C36  0.000   10.0 2
+COP sp2_sp2_34      O40 C39 O41 HO1  0.000   5.0  2
+COP const_24        C11 C8  N9  C10  180.000 10.0 2
+COP const_20        N6  C7  C8  C11  180.000 10.0 2
+COP sp2_sp3_2       C7  C8  C11 N12  -90.000 10.0 6
+COP const_17        C8  C7  N6  C5   0.000   10.0 2
+COP const_sp2_sp2_3 C10 C5  N4  C3   0.000   5.0  2
+COP const_15        C10 C5  N6  C7   0.000   10.0 2
+COP sp2_sp3_8       C13 N12 C11 C8   120.000 10.0 6
+COP const_71        N12 C13 C14 C15  180.000 10.0 2
+COP sp2_sp2_9       C18 C13 N12 C11  180.000 5.0  2
+COP const_27        N12 C13 C18 C17  180.000 10.0 2
+COP const_29        C16 C17 C18 C13  0.000   10.0 2
+COP const_35        C19 C16 C17 C18  180.000 10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -351,105 +353,121 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-COP    chir_1    C21    N20    C24    C27    positive
+COP chir_1 C21 N20 C24 C27 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-COP    plan-1          C1   0.020
-COP    plan-1         C10   0.020
-COP    plan-1         C11   0.020
-COP    plan-1          C3   0.020
-COP    plan-1          C5   0.020
-COP    plan-1          C7   0.020
-COP    plan-1          C8   0.020
-COP    plan-1          H7   0.020
-COP    plan-1          N1   0.020
-COP    plan-1          N2   0.020
-COP    plan-1          N3   0.020
-COP    plan-1          N4   0.020
-COP    plan-1          N6   0.020
-COP    plan-1          N9   0.020
-COP    plan-2         C13   0.020
-COP    plan-2         C14   0.020
-COP    plan-2         C15   0.020
-COP    plan-2         C16   0.020
-COP    plan-2         C17   0.020
-COP    plan-2         C18   0.020
-COP    plan-2         C19   0.020
-COP    plan-2         H14   0.020
-COP    plan-2         H15   0.020
-COP    plan-2         H17   0.020
-COP    plan-2         H18   0.020
-COP    plan-2         N12   0.020
-COP    plan-3         C31   0.020
-COP    plan-3         C33   0.020
-COP    plan-3         C34   0.020
-COP    plan-3         C35   0.020
-COP    plan-3         C36   0.020
-COP    plan-3         C37   0.020
-COP    plan-3         C38   0.020
-COP    plan-3         C39   0.020
-COP    plan-3         H34   0.020
-COP    plan-3         H35   0.020
-COP    plan-3         H36   0.020
-COP    plan-3         H37   0.020
-COP    plan-4         C16   0.020
-COP    plan-4         C19   0.020
-COP    plan-4         N20   0.020
-COP    plan-4         O19   0.020
-COP    plan-5         C21   0.020
-COP    plan-5         C24   0.020
-COP    plan-5         O24   0.020
-COP    plan-5         O25   0.020
-COP    plan-6          C3   0.020
-COP    plan-6        HN31   0.020
-COP    plan-6        HN32   0.020
-COP    plan-6          N3   0.020
-COP    plan-7          C1   0.020
-COP    plan-7        HN11   0.020
-COP    plan-7        HN12   0.020
-COP    plan-7          N1   0.020
-COP    plan-8         C11   0.020
-COP    plan-8         C13   0.020
-COP    plan-8         HN2   0.020
-COP    plan-8         N12   0.020
-COP    plan-9         C19   0.020
-COP    plan-9         C21   0.020
-COP    plan-9         HN0   0.020
-COP    plan-9         N20   0.020
-COP   plan-10         C29   0.020
-COP   plan-10         C31   0.020
-COP   plan-10         HN3   0.020
-COP   plan-10         N30   0.020
-COP   plan-11         C31   0.020
-COP   plan-11         C33   0.020
-COP   plan-11         N30   0.020
-COP   plan-11         O32   0.020
-COP   plan-12         C38   0.020
-COP   plan-12         C39   0.020
-COP   plan-12         O40   0.020
-COP   plan-12         O41   0.020
+COP plan-1  C1   0.020
+COP plan-1  C10  0.020
+COP plan-1  C11  0.020
+COP plan-1  C3   0.020
+COP plan-1  C5   0.020
+COP plan-1  C7   0.020
+COP plan-1  C8   0.020
+COP plan-1  H7   0.020
+COP plan-1  N1   0.020
+COP plan-1  N2   0.020
+COP plan-1  N3   0.020
+COP plan-1  N4   0.020
+COP plan-1  N6   0.020
+COP plan-1  N9   0.020
+COP plan-2  C13  0.020
+COP plan-2  C14  0.020
+COP plan-2  C15  0.020
+COP plan-2  C16  0.020
+COP plan-2  C17  0.020
+COP plan-2  C18  0.020
+COP plan-2  C19  0.020
+COP plan-2  H14  0.020
+COP plan-2  H15  0.020
+COP plan-2  H17  0.020
+COP plan-2  H18  0.020
+COP plan-2  N12  0.020
+COP plan-3  C31  0.020
+COP plan-3  C33  0.020
+COP plan-3  C34  0.020
+COP plan-3  C35  0.020
+COP plan-3  C36  0.020
+COP plan-3  C37  0.020
+COP plan-3  C38  0.020
+COP plan-3  C39  0.020
+COP plan-3  H34  0.020
+COP plan-3  H35  0.020
+COP plan-3  H36  0.020
+COP plan-3  H37  0.020
+COP plan-4  C16  0.020
+COP plan-4  C19  0.020
+COP plan-4  N20  0.020
+COP plan-4  O19  0.020
+COP plan-5  C21  0.020
+COP plan-5  C24  0.020
+COP plan-5  O24  0.020
+COP plan-5  O25  0.020
+COP plan-6  C3   0.020
+COP plan-6  HN31 0.020
+COP plan-6  HN32 0.020
+COP plan-6  N3   0.020
+COP plan-7  C1   0.020
+COP plan-7  HN11 0.020
+COP plan-7  HN12 0.020
+COP plan-7  N1   0.020
+COP plan-8  C11  0.020
+COP plan-8  C13  0.020
+COP plan-8  HN2  0.020
+COP plan-8  N12  0.020
+COP plan-9  C19  0.020
+COP plan-9  C21  0.020
+COP plan-9  HN0  0.020
+COP plan-9  N20  0.020
+COP plan-10 C29  0.020
+COP plan-10 C31  0.020
+COP plan-10 HN3  0.020
+COP plan-10 N30  0.020
+COP plan-11 C31  0.020
+COP plan-11 C33  0.020
+COP plan-11 N30  0.020
+COP plan-11 O32  0.020
+COP plan-12 C38  0.020
+COP plan-12 C39  0.020
+COP plan-12 O40  0.020
+COP plan-12 O41  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-COP           SMILES              ACDLabs 10.04                                                                                                                                                                                       O=C(O)c1ccccc1C(=O)NCCCC(C(=O)O)NC(=O)c2ccc(cc2)NCc3nc4c(nc3)nc(nc4N)N
-COP SMILES_CANONICAL               CACTVS 3.341                                                                                                                                                                                  Nc1nc(N)c2nc(CNc3ccc(cc3)C(=O)N[C@@H](CCCNC(=O)c4ccccc4C(O)=O)C(O)=O)cnc2n1
-COP           SMILES               CACTVS 3.341                                                                                                                                                                                    Nc1nc(N)c2nc(CNc3ccc(cc3)C(=O)N[CH](CCCNC(=O)c4ccccc4C(O)=O)C(O)=O)cnc2n1
-COP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                                                            c1ccc(c(c1)C(=O)NCCC[C@@H](C(=O)O)NC(=O)c2ccc(cc2)NCc3cnc4c(n3)c(nc(n4)N)N)C(=O)O
-COP           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                                                 c1ccc(c(c1)C(=O)NCCCC(C(=O)O)NC(=O)c2ccc(cc2)NCc3cnc4c(n3)c(nc(n4)N)N)C(=O)O
-COP            InChI                InChI  1.03 InChI=1S/C27H27N9O6/c28-21-20-22(36-27(29)35-21)32-13-16(33-20)12-31-15-9-7-14(8-10-15)23(37)34-19(26(41)42)6-3-11-30-24(38)17-4-1-2-5-18(17)25(39)40/h1-2,4-5,7-10,13,19,31H,3,6,11-12H2,(H,30,38)(H,34,37)(H,39,40)(H,41,42)(H4,28,29,32,35,36)/t19-/m0/s1
-COP         InChIKey                InChI  1.03                                                                                                                                                                                                                                  NYQPLPNEESYGNO-IBGZPJMESA-N
+COP SMILES           ACDLabs              10.04 O=C(O)c1ccccc1C(=O)NCCCC(C(=O)O)NC(=O)c2ccc(cc2)NCc3nc4c(nc3)nc(nc4N)N
+COP SMILES_CANONICAL CACTVS               3.341 Nc1nc(N)c2nc(CNc3ccc(cc3)C(=O)N[C@@H](CCCNC(=O)c4ccccc4C(O)=O)C(O)=O)cnc2n1
+COP SMILES           CACTVS               3.341 Nc1nc(N)c2nc(CNc3ccc(cc3)C(=O)N[CH](CCCNC(=O)c4ccccc4C(O)=O)C(O)=O)cnc2n1
+COP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1ccc(c(c1)C(=O)NCCC[C@@H](C(=O)O)NC(=O)c2ccc(cc2)NCc3cnc4c(n3)c(nc(n4)N)N)C(=O)O
+COP SMILES           "OpenEye OEToolkits" 1.5.0 c1ccc(c(c1)C(=O)NCCCC(C(=O)O)NC(=O)c2ccc(cc2)NCc3cnc4c(n3)c(nc(n4)N)N)C(=O)O
+COP InChI            InChI                1.03  InChI=1S/C27H27N9O6/c28-21-20-22(36-27(29)35-21)32-13-16(33-20)12-31-15-9-7-14(8-10-15)23(37)34-19(26(41)42)6-3-11-30-24(38)17-4-1-2-5-18(17)25(39)40/h1-2,4-5,7-10,13,19,31H,3,6,11-12H2,(H,30,38)(H,34,37)(H,39,40)(H,41,42)(H4,28,29,32,35,36)/t19-/m0/s1
+COP InChIKey         InChI                1.03  NYQPLPNEESYGNO-IBGZPJMESA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-COP acedrg               243         "dictionary generator"                  
-COP acedrg_database      11          "data source"                           
-COP rdkit                2017.03.2   "Chemoinformatics tool"
-COP refmac5              5.8.0238    "optimization tool"                     
+COP acedrg          243       "dictionary generator"
+COP acedrg_database 11        "data source"
+COP rdkit           2017.03.2 "Chemoinformatics tool"
+COP refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+COP M-peptide O24 O
+COP M-peptide C24 C
+COP M-peptide C21 CA
+COP M-peptide N20 N
+COP M-peptide C19 CN
+COP M-peptide O25 OXT
+COP M-peptide HN0 H

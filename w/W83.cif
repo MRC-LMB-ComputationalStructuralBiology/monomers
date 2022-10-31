@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-W83     W83      "5-{2-[7-(methoxymethoxy)naphthalen-2-yl]ethyl}-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"     NON-POLYMER     44     27     .     
-#
+W83 W83 "5-{2-[7-(methoxymethoxy)naphthalen-2-yl]ethyl}-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" NON-POLYMER 44 27 .
+
 data_comp_W83
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,50 +19,51 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-W83     OAB     O       OC      -1      7.370       18.740      13.337      
-W83     CAS     C       C       0       6.534       17.878      13.549      
-W83     OAE     O       O       0       5.349       17.940      13.271      
-W83     CAV     C       CR6     0       7.009       16.622      14.224      
-W83     NAO     N       NR6     0       6.621       16.463      15.538      
-W83     CAX     C       CR6     0       6.971       15.369      16.298      
-W83     OAC     O       O       0       6.620       15.238      17.465      
-W83     NAP     N       NR6     0       7.741       14.427      15.664      
-W83     CAY     C       CR6     0       8.192       14.474      14.355      
-W83     OAD     O       O       0       8.881       13.545      13.919      
-W83     CAW     C       CR6     0       7.803       15.643      13.595      
-W83     CAM     C       CH2     0       8.272       15.730      12.158      
-W83     CAL     C       CH2     0       7.377       14.952      11.163      
-W83     CAT     C       CR6     0       5.971       15.495      11.065      
-W83     CAJ     C       CR16    0       5.703       16.638      10.360      
-W83     CBA     C       CR66    0       4.389       17.161      10.261      
-W83     CAK     C       CR16    0       4.105       18.346      9.530       
-W83     CAF     C       CR16    0       4.902       14.824      11.711      
-W83     CAH     C       CR16    0       3.622       15.296      11.639      
-W83     CAZ     C       CR66    0       3.326       16.475      10.915      
-W83     CAI     C       CR16    0       2.017       16.998      10.814      
-W83     CAG     C       CR16    0       1.762       18.135      10.110      
-W83     CAU     C       CR6     0       2.814       18.822      9.458       
-W83     OAR     O       O2      0       2.405       19.950      8.788       
-W83     CAN     C       CH2     0       3.348       20.786      8.112       
-W83     OAQ     O       O2      0       2.727       21.875      7.520       
-W83     CAA     C       CH3     0       3.623       22.730      6.813       
-W83     H2      H       H       0       6.126       17.083      15.921      
-W83     H3      H       H       0       7.971       13.717      16.149      
-W83     H4      H       H       0       9.188       15.380      12.097      
-W83     H5      H       H       0       8.311       16.670      11.881      
-W83     H6      H       H       0       7.338       14.010      11.442      
-W83     H7      H       H       0       7.793       14.984      10.273      
-W83     H8      H       H       0       6.407       17.087      9.931       
-W83     H9      H       H       0       4.807       18.800      9.098       
-W83     H10     H       H       0       5.081       14.039      12.197      
-W83     H11     H       H       0       2.927       14.831      12.077      
-W83     H12     H       H       0       1.308       16.552      11.242      
-W83     H13     H       H       0       0.884       18.467      10.055      
-W83     H14     H       H       0       3.805       20.260      7.425       
-W83     H15     H       H       0       4.013       21.103      8.757       
-W83     H16     H       H       0       3.127       23.473      6.433       
-W83     H17     H       H       0       4.053       22.231      6.099       
-W83     H18     H       H       0       4.298       23.070      7.423       
+W83 OAB O OC   -1 7.370 18.740 13.337
+W83 CAS C C    0  6.534 17.878 13.549
+W83 OAE O O    0  5.349 17.940 13.271
+W83 CAV C CR6  0  7.009 16.622 14.224
+W83 NAO N NR6  0  6.621 16.463 15.538
+W83 CAX C CR6  0  6.971 15.369 16.298
+W83 OAC O O    0  6.620 15.238 17.465
+W83 NAP N NR6  0  7.741 14.427 15.664
+W83 CAY C CR6  0  8.192 14.474 14.355
+W83 OAD O O    0  8.881 13.545 13.919
+W83 CAW C CR6  0  7.803 15.643 13.595
+W83 CAM C CH2  0  8.272 15.730 12.158
+W83 CAL C CH2  0  7.377 14.952 11.163
+W83 CAT C CR6  0  5.971 15.495 11.065
+W83 CAJ C CR16 0  5.703 16.638 10.360
+W83 CBA C CR66 0  4.389 17.161 10.261
+W83 CAK C CR16 0  4.105 18.346 9.530
+W83 CAF C CR16 0  4.902 14.824 11.711
+W83 CAH C CR16 0  3.622 15.296 11.639
+W83 CAZ C CR66 0  3.326 16.475 10.915
+W83 CAI C CR16 0  2.017 16.998 10.814
+W83 CAG C CR16 0  1.762 18.135 10.110
+W83 CAU C CR6  0  2.814 18.822 9.458
+W83 OAR O O2   0  2.405 19.950 8.788
+W83 CAN C CH2  0  3.348 20.786 8.112
+W83 OAQ O O2   0  2.727 21.875 7.520
+W83 CAA C CH3  0  3.623 22.730 6.813
+W83 H2  H H    0  6.126 17.083 15.921
+W83 H3  H H    0  7.971 13.717 16.149
+W83 H4  H H    0  9.188 15.380 12.097
+W83 H5  H H    0  8.311 16.670 11.881
+W83 H6  H H    0  7.338 14.010 11.442
+W83 H7  H H    0  7.793 14.984 10.273
+W83 H8  H H    0  6.407 17.087 9.931
+W83 H9  H H    0  4.807 18.800 9.098
+W83 H10 H H    0  5.081 14.039 12.197
+W83 H11 H H    0  2.927 14.831 12.077
+W83 H12 H H    0  1.308 16.552 11.242
+W83 H13 H H    0  0.884 18.467 10.055
+W83 H14 H H    0  3.805 20.260 7.425
+W83 H15 H H    0  4.013 21.103 8.757
+W83 H16 H H    0  3.127 23.473 6.433
+W83 H17 H H    0  4.053 22.231 6.099
+W83 H18 H H    0  4.298 23.070 7.423
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -75,52 +74,53 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-W83         OAQ         CAA      SINGLE       n     1.423  0.0146     1.423  0.0146
-W83         CAN         OAQ      SINGLE       n     1.383  0.0160     1.383  0.0160
-W83         OAR         CAN      SINGLE       n     1.422  0.0200     1.422  0.0200
-W83         CAU         OAR      SINGLE       n     1.369  0.0107     1.369  0.0107
-W83         CAK         CAU      DOUBLE       y     1.370  0.0100     1.370  0.0100
-W83         CAG         CAU      SINGLE       y     1.410  0.0112     1.410  0.0112
-W83         CBA         CAK      SINGLE       y     1.417  0.0100     1.417  0.0100
-W83         CAI         CAG      DOUBLE       y     1.359  0.0100     1.359  0.0100
-W83         CAJ         CBA      DOUBLE       y     1.413  0.0100     1.413  0.0100
-W83         CBA         CAZ      SINGLE       y     1.418  0.0105     1.418  0.0105
-W83         CAT         CAJ      SINGLE       y     1.365  0.0100     1.365  0.0100
-W83         CAZ         CAI      SINGLE       y     1.411  0.0100     1.411  0.0100
-W83         CAH         CAZ      DOUBLE       y     1.411  0.0135     1.411  0.0135
-W83         CAL         CAT      SINGLE       n     1.510  0.0100     1.510  0.0100
-W83         CAT         CAF      DOUBLE       y     1.412  0.0118     1.412  0.0118
-W83         CAM         CAL      SINGLE       n     1.546  0.0200     1.546  0.0200
-W83         CAF         CAH      SINGLE       y     1.364  0.0100     1.364  0.0100
-W83         CAW         CAM      SINGLE       n     1.510  0.0100     1.510  0.0100
-W83         CAY         OAD      DOUBLE       n     1.234  0.0141     1.234  0.0141
-W83         CAY         CAW      SINGLE       y     1.443  0.0100     1.443  0.0100
-W83         CAV         CAW      DOUBLE       y     1.401  0.0100     1.401  0.0100
-W83         NAP         CAY      SINGLE       y     1.383  0.0100     1.383  0.0100
-W83         CAS         OAE      DOUBLE       n     1.219  0.0200     1.219  0.0200
-W83         OAB         CAS      SINGLE       n     1.219  0.0200     1.219  0.0200
-W83         CAS         CAV      SINGLE       n     1.496  0.0200     1.496  0.0200
-W83         CAV         NAO      SINGLE       y     1.365  0.0158     1.365  0.0158
-W83         CAX         NAP      SINGLE       y     1.370  0.0100     1.370  0.0100
-W83         NAO         CAX      SINGLE       y     1.374  0.0100     1.374  0.0100
-W83         CAX         OAC      DOUBLE       n     1.225  0.0100     1.225  0.0100
-W83         NAO          H2      SINGLE       n     1.016  0.0100     0.879  0.0200
-W83         NAP          H3      SINGLE       n     1.016  0.0100     0.889  0.0200
-W83         CAM          H4      SINGLE       n     1.089  0.0100     0.983  0.0181
-W83         CAM          H5      SINGLE       n     1.089  0.0100     0.983  0.0181
-W83         CAL          H6      SINGLE       n     1.089  0.0100     0.983  0.0181
-W83         CAL          H7      SINGLE       n     1.089  0.0100     0.983  0.0181
-W83         CAJ          H8      SINGLE       n     1.082  0.0130     0.939  0.0158
-W83         CAK          H9      SINGLE       n     1.082  0.0130     0.942  0.0157
-W83         CAF         H10      SINGLE       n     1.082  0.0130     0.941  0.0105
-W83         CAH         H11      SINGLE       n     1.082  0.0130     0.943  0.0180
-W83         CAI         H12      SINGLE       n     1.082  0.0130     0.941  0.0145
-W83         CAG         H13      SINGLE       n     1.082  0.0130     0.941  0.0131
-W83         CAN         H14      SINGLE       n     1.089  0.0100     0.978  0.0130
-W83         CAN         H15      SINGLE       n     1.089  0.0100     0.978  0.0130
-W83         CAA         H16      SINGLE       n     1.089  0.0100     0.971  0.0146
-W83         CAA         H17      SINGLE       n     1.089  0.0100     0.971  0.0146
-W83         CAA         H18      SINGLE       n     1.089  0.0100     0.971  0.0146
+W83 OAQ CAA SINGLE n 1.423 0.0146 1.423 0.0146
+W83 CAN OAQ SINGLE n 1.383 0.0160 1.383 0.0160
+W83 OAR CAN SINGLE n 1.422 0.0200 1.422 0.0200
+W83 CAU OAR SINGLE n 1.369 0.0107 1.369 0.0107
+W83 CAK CAU DOUBLE y 1.370 0.0100 1.370 0.0100
+W83 CAG CAU SINGLE y 1.410 0.0112 1.410 0.0112
+W83 CBA CAK SINGLE y 1.417 0.0100 1.417 0.0100
+W83 CAI CAG DOUBLE y 1.359 0.0100 1.359 0.0100
+W83 CAJ CBA DOUBLE y 1.413 0.0100 1.413 0.0100
+W83 CBA CAZ SINGLE y 1.418 0.0105 1.418 0.0105
+W83 CAT CAJ SINGLE y 1.365 0.0100 1.365 0.0100
+W83 CAZ CAI SINGLE y 1.411 0.0100 1.411 0.0100
+W83 CAH CAZ DOUBLE y 1.411 0.0135 1.411 0.0135
+W83 CAL CAT SINGLE n 1.510 0.0100 1.510 0.0100
+W83 CAT CAF DOUBLE y 1.412 0.0118 1.412 0.0118
+W83 CAM CAL SINGLE n 1.546 0.0200 1.546 0.0200
+W83 CAF CAH SINGLE y 1.364 0.0100 1.364 0.0100
+W83 CAW CAM SINGLE n 1.510 0.0100 1.510 0.0100
+W83 CAY OAD DOUBLE n 1.234 0.0141 1.234 0.0141
+W83 CAY CAW SINGLE y 1.443 0.0100 1.443 0.0100
+W83 CAV CAW DOUBLE y 1.401 0.0100 1.401 0.0100
+W83 NAP CAY SINGLE y 1.383 0.0100 1.383 0.0100
+W83 CAS OAE DOUBLE n 1.219 0.0200 1.219 0.0200
+W83 OAB CAS SINGLE n 1.219 0.0200 1.219 0.0200
+W83 CAS CAV SINGLE n 1.496 0.0200 1.496 0.0200
+W83 CAV NAO SINGLE y 1.365 0.0158 1.365 0.0158
+W83 CAX NAP SINGLE y 1.370 0.0100 1.370 0.0100
+W83 NAO CAX SINGLE y 1.374 0.0100 1.374 0.0100
+W83 CAX OAC DOUBLE n 1.225 0.0100 1.225 0.0100
+W83 NAO H2  SINGLE n 1.016 0.0100 0.879 0.0200
+W83 NAP H3  SINGLE n 1.016 0.0100 0.889 0.0200
+W83 CAM H4  SINGLE n 1.089 0.0100 0.983 0.0181
+W83 CAM H5  SINGLE n 1.089 0.0100 0.983 0.0181
+W83 CAL H6  SINGLE n 1.089 0.0100 0.983 0.0181
+W83 CAL H7  SINGLE n 1.089 0.0100 0.983 0.0181
+W83 CAJ H8  SINGLE n 1.082 0.0130 0.939 0.0158
+W83 CAK H9  SINGLE n 1.082 0.0130 0.942 0.0157
+W83 CAF H10 SINGLE n 1.082 0.0130 0.941 0.0105
+W83 CAH H11 SINGLE n 1.082 0.0130 0.943 0.0180
+W83 CAI H12 SINGLE n 1.082 0.0130 0.941 0.0145
+W83 CAG H13 SINGLE n 1.082 0.0130 0.941 0.0131
+W83 CAN H14 SINGLE n 1.089 0.0100 0.978 0.0130
+W83 CAN H15 SINGLE n 1.089 0.0100 0.978 0.0130
+W83 CAA H16 SINGLE n 1.089 0.0100 0.971 0.0146
+W83 CAA H17 SINGLE n 1.089 0.0100 0.971 0.0146
+W83 CAA H18 SINGLE n 1.089 0.0100 0.971 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -128,83 +128,84 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-W83         OAE         CAS         OAB     126.239    1.50
-W83         OAE         CAS         CAV     116.880    1.50
-W83         OAB         CAS         CAV     116.880    1.50
-W83         CAW         CAV         CAS     123.296    2.15
-W83         CAW         CAV         NAO     119.954    3.00
-W83         CAS         CAV         NAO     116.751    1.50
-W83         CAV         NAO         CAX     122.126    1.50
-W83         CAV         NAO          H2     119.789    2.44
-W83         CAX         NAO          H2     118.085    1.73
-W83         NAP         CAX         NAO     115.440    1.50
-W83         NAP         CAX         OAC     121.869    1.50
-W83         NAO         CAX         OAC     122.691    1.50
-W83         CAY         NAP         CAX     127.015    1.50
-W83         CAY         NAP          H3     117.107    1.81
-W83         CAX         NAP          H3     115.878    2.30
-W83         OAD         CAY         CAW     124.355    1.50
-W83         OAD         CAY         NAP     119.516    1.50
-W83         CAW         CAY         NAP     116.129    1.50
-W83         CAM         CAW         CAY     117.768    1.50
-W83         CAM         CAW         CAV     122.895    2.15
-W83         CAY         CAW         CAV     119.337    1.50
-W83         CAL         CAM         CAW     113.312    1.99
-W83         CAL         CAM          H4     108.746    1.50
-W83         CAL         CAM          H5     108.746    1.50
-W83         CAW         CAM          H4     108.906    1.50
-W83         CAW         CAM          H5     108.906    1.50
-W83          H4         CAM          H5     107.732    2.63
-W83         CAT         CAL         CAM     113.312    1.99
-W83         CAT         CAL          H6     108.906    1.50
-W83         CAT         CAL          H7     108.906    1.50
-W83         CAM         CAL          H6     108.746    1.50
-W83         CAM         CAL          H7     108.746    1.50
-W83          H6         CAL          H7     107.732    2.63
-W83         CAJ         CAT         CAL     121.221    1.50
-W83         CAJ         CAT         CAF     118.639    1.50
-W83         CAL         CAT         CAF     120.141    1.50
-W83         CBA         CAJ         CAT     121.279    1.50
-W83         CBA         CAJ          H8     119.325    1.50
-W83         CAT         CAJ          H8     119.396    1.50
-W83         CAK         CBA         CAJ     122.125    1.50
-W83         CAK         CBA         CAZ     119.186    1.50
-W83         CAJ         CBA         CAZ     118.689    1.50
-W83         CAU         CAK         CBA     119.876    1.50
-W83         CAU         CAK          H9     120.229    1.50
-W83         CBA         CAK          H9     119.895    1.50
-W83         CAT         CAF         CAH     121.502    1.50
-W83         CAT         CAF         H10     119.025    1.50
-W83         CAH         CAF         H10     119.473    1.50
-W83         CAZ         CAH         CAF     121.011    1.50
-W83         CAZ         CAH         H11     119.406    1.50
-W83         CAF         CAH         H11     119.582    1.50
-W83         CBA         CAZ         CAI     118.806    1.50
-W83         CBA         CAZ         CAH     118.880    1.50
-W83         CAI         CAZ         CAH     122.313    1.50
-W83         CAG         CAI         CAZ     121.415    1.50
-W83         CAG         CAI         H12     119.263    1.50
-W83         CAZ         CAI         H12     119.322    1.50
-W83         CAU         CAG         CAI     120.072    1.50
-W83         CAU         CAG         H13     119.843    1.50
-W83         CAI         CAG         H13     120.085    1.50
-W83         OAR         CAU         CAK     121.289    2.49
-W83         OAR         CAU         CAG     118.067    3.00
-W83         CAK         CAU         CAG     120.644    1.50
-W83         CAN         OAR         CAU     117.406    1.75
-W83         OAQ         CAN         OAR     111.815    3.00
-W83         OAQ         CAN         H14     109.265    1.50
-W83         OAQ         CAN         H15     109.265    1.50
-W83         OAR         CAN         H14     108.958    1.50
-W83         OAR         CAN         H15     108.958    1.50
-W83         H14         CAN         H15     108.506    1.59
-W83         CAA         OAQ         CAN     113.041    1.50
-W83         OAQ         CAA         H16     109.547    1.50
-W83         OAQ         CAA         H17     109.547    1.50
-W83         OAQ         CAA         H18     109.547    1.50
-W83         H16         CAA         H17     109.532    1.53
-W83         H16         CAA         H18     109.532    1.53
-W83         H17         CAA         H18     109.532    1.53
+W83 OAE CAS OAB 126.239 1.50
+W83 OAE CAS CAV 116.880 1.50
+W83 OAB CAS CAV 116.880 1.50
+W83 CAW CAV CAS 123.296 2.15
+W83 CAW CAV NAO 119.954 3.00
+W83 CAS CAV NAO 116.751 1.50
+W83 CAV NAO CAX 122.126 1.50
+W83 CAV NAO H2  119.789 2.44
+W83 CAX NAO H2  118.085 1.73
+W83 NAP CAX NAO 115.440 1.50
+W83 NAP CAX OAC 121.869 1.50
+W83 NAO CAX OAC 122.691 1.50
+W83 CAY NAP CAX 127.015 1.50
+W83 CAY NAP H3  117.107 1.81
+W83 CAX NAP H3  115.878 2.30
+W83 OAD CAY CAW 124.355 1.50
+W83 OAD CAY NAP 119.516 1.50
+W83 CAW CAY NAP 116.129 1.50
+W83 CAM CAW CAY 117.768 1.50
+W83 CAM CAW CAV 122.895 2.15
+W83 CAY CAW CAV 119.337 1.50
+W83 CAL CAM CAW 113.312 1.99
+W83 CAL CAM H4  108.746 1.50
+W83 CAL CAM H5  108.746 1.50
+W83 CAW CAM H4  108.906 1.50
+W83 CAW CAM H5  108.906 1.50
+W83 H4  CAM H5  107.732 2.63
+W83 CAT CAL CAM 113.312 1.99
+W83 CAT CAL H6  108.906 1.50
+W83 CAT CAL H7  108.906 1.50
+W83 CAM CAL H6  108.746 1.50
+W83 CAM CAL H7  108.746 1.50
+W83 H6  CAL H7  107.732 2.63
+W83 CAJ CAT CAL 121.221 1.50
+W83 CAJ CAT CAF 118.639 1.50
+W83 CAL CAT CAF 120.141 1.50
+W83 CBA CAJ CAT 121.279 1.50
+W83 CBA CAJ H8  119.325 1.50
+W83 CAT CAJ H8  119.396 1.50
+W83 CAK CBA CAJ 122.125 1.50
+W83 CAK CBA CAZ 119.186 1.50
+W83 CAJ CBA CAZ 118.689 1.50
+W83 CAU CAK CBA 119.876 1.50
+W83 CAU CAK H9  120.229 1.50
+W83 CBA CAK H9  119.895 1.50
+W83 CAT CAF CAH 121.502 1.50
+W83 CAT CAF H10 119.025 1.50
+W83 CAH CAF H10 119.473 1.50
+W83 CAZ CAH CAF 121.011 1.50
+W83 CAZ CAH H11 119.406 1.50
+W83 CAF CAH H11 119.582 1.50
+W83 CBA CAZ CAI 118.806 1.50
+W83 CBA CAZ CAH 118.880 1.50
+W83 CAI CAZ CAH 122.313 1.50
+W83 CAG CAI CAZ 121.415 1.50
+W83 CAG CAI H12 119.263 1.50
+W83 CAZ CAI H12 119.322 1.50
+W83 CAU CAG CAI 120.072 1.50
+W83 CAU CAG H13 119.843 1.50
+W83 CAI CAG H13 120.085 1.50
+W83 OAR CAU CAK 121.289 2.49
+W83 OAR CAU CAG 118.067 3.00
+W83 CAK CAU CAG 120.644 1.50
+W83 CAN OAR CAU 117.406 1.75
+W83 OAQ CAN OAR 111.815 3.00
+W83 OAQ CAN H14 109.265 1.50
+W83 OAQ CAN H15 109.265 1.50
+W83 OAR CAN H14 108.958 1.50
+W83 OAR CAN H15 108.958 1.50
+W83 H14 CAN H15 108.506 1.59
+W83 CAA OAQ CAN 113.041 1.50
+W83 OAQ CAA H16 109.547 1.50
+W83 OAQ CAA H17 109.547 1.50
+W83 OAQ CAA H18 109.547 1.50
+W83 H16 CAA H17 109.532 1.53
+W83 H16 CAA H18 109.532 1.53
+W83 H17 CAA H18 109.532 1.53
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -215,89 +216,105 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-W83             sp2_sp3_8         CAY         CAW         CAM         CAL     -90.000    10.0     6
-W83            sp3_sp3_10         CAT         CAL         CAM         CAW     180.000    10.0     3
-W83             sp2_sp3_2         CAJ         CAT         CAL         CAM     -90.000    10.0     6
-W83       const_sp2_sp2_2         CBA         CAJ         CAT         CAL     180.000     5.0     2
-W83              const_62         CAH         CAF         CAT         CAL     180.000    10.0     2
-W83       const_sp2_sp2_6         CAT         CAJ         CBA         CAK     180.000     5.0     2
-W83              const_22         CAU         CAK         CBA         CAJ     180.000    10.0     2
-W83       const_sp2_sp2_9         CAI         CAZ         CBA         CAK       0.000     5.0     2
-W83              const_26         CBA         CAK         CAU         OAR     180.000    10.0     2
-W83              const_17         CAT         CAF         CAH         CAZ       0.000    10.0     2
-W83              const_13         CAF         CAH         CAZ         CBA       0.000    10.0     2
-W83              const_37         CAG         CAI         CAZ         CBA       0.000    10.0     2
-W83             sp2_sp2_3         OAE         CAS         CAV         CAW     180.000     5.0     2
-W83              const_33         CAU         CAG         CAI         CAZ       0.000    10.0     2
-W83              const_30         CAI         CAG         CAU         OAR     180.000    10.0     2
-W83             sp2_sp2_1         CAK         CAU         OAR         CAN     180.000     5.0     2
-W83             sp3_sp3_7         OAQ         CAN         OAR         CAU     180.000    10.0     3
-W83             sp3_sp3_4         OAR         CAN         OAQ         CAA     180.000    10.0     3
-W83             sp3_sp3_1         H16         CAA         OAQ         CAN     180.000    10.0     3
-W83              const_44         CAS         CAV         CAW         CAM       0.000    10.0     2
-W83              const_67         CAS         CAV         NAO         CAX     180.000    10.0     2
-W83              const_59         OAC         CAX         NAO         CAV     180.000    10.0     2
-W83              const_55         OAC         CAX         NAP         CAY     180.000    10.0     2
-W83              const_51         OAD         CAY         NAP         CAX     180.000    10.0     2
-W83              const_48         CAM         CAW         CAY         OAD       0.000    10.0     2
+W83 sp2_sp3_8       CAY CAW CAM CAL -90.000 10.0 6
+W83 sp3_sp3_10      CAT CAL CAM CAW 180.000 10.0 3
+W83 sp2_sp3_2       CAJ CAT CAL CAM -90.000 10.0 6
+W83 const_sp2_sp2_2 CBA CAJ CAT CAL 180.000 5.0  2
+W83 const_62        CAH CAF CAT CAL 180.000 10.0 2
+W83 const_sp2_sp2_6 CAT CAJ CBA CAK 180.000 5.0  2
+W83 const_22        CAU CAK CBA CAJ 180.000 10.0 2
+W83 const_sp2_sp2_9 CAI CAZ CBA CAK 0.000   5.0  2
+W83 const_26        CBA CAK CAU OAR 180.000 10.0 2
+W83 const_17        CAT CAF CAH CAZ 0.000   10.0 2
+W83 const_13        CAF CAH CAZ CBA 0.000   10.0 2
+W83 const_37        CAG CAI CAZ CBA 0.000   10.0 2
+W83 sp2_sp2_3       OAE CAS CAV CAW 180.000 5.0  2
+W83 const_33        CAU CAG CAI CAZ 0.000   10.0 2
+W83 const_30        CAI CAG CAU OAR 180.000 10.0 2
+W83 sp2_sp2_1       CAK CAU OAR CAN 180.000 5.0  2
+W83 sp3_sp3_7       OAQ CAN OAR CAU 180.000 10.0 3
+W83 sp3_sp3_4       OAR CAN OAQ CAA 180.000 10.0 3
+W83 sp3_sp3_1       H16 CAA OAQ CAN 180.000 10.0 3
+W83 const_44        CAS CAV CAW CAM 0.000   10.0 2
+W83 const_67        CAS CAV NAO CAX 180.000 10.0 2
+W83 const_59        OAC CAX NAO CAV 180.000 10.0 2
+W83 const_55        OAC CAX NAP CAY 180.000 10.0 2
+W83 const_51        OAD CAY NAP CAX 180.000 10.0 2
+W83 const_48        CAM CAW CAY OAD 0.000   10.0 2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-W83    plan-1         CAF   0.020
-W83    plan-1         CAG   0.020
-W83    plan-1         CAH   0.020
-W83    plan-1         CAI   0.020
-W83    plan-1         CAJ   0.020
-W83    plan-1         CAK   0.020
-W83    plan-1         CAL   0.020
-W83    plan-1         CAT   0.020
-W83    plan-1         CAU   0.020
-W83    plan-1         CAZ   0.020
-W83    plan-1         CBA   0.020
-W83    plan-1         H10   0.020
-W83    plan-1         H11   0.020
-W83    plan-1         H12   0.020
-W83    plan-1         H13   0.020
-W83    plan-1          H8   0.020
-W83    plan-1          H9   0.020
-W83    plan-1         OAR   0.020
-W83    plan-2         CAM   0.020
-W83    plan-2         CAS   0.020
-W83    plan-2         CAV   0.020
-W83    plan-2         CAW   0.020
-W83    plan-2         CAX   0.020
-W83    plan-2         CAY   0.020
-W83    plan-2          H2   0.020
-W83    plan-2          H3   0.020
-W83    plan-2         NAO   0.020
-W83    plan-2         NAP   0.020
-W83    plan-2         OAC   0.020
-W83    plan-2         OAD   0.020
-W83    plan-3         CAS   0.020
-W83    plan-3         CAV   0.020
-W83    plan-3         OAB   0.020
-W83    plan-3         OAE   0.020
+W83 plan-1 CAF 0.020
+W83 plan-1 CAG 0.020
+W83 plan-1 CAH 0.020
+W83 plan-1 CAI 0.020
+W83 plan-1 CAJ 0.020
+W83 plan-1 CAK 0.020
+W83 plan-1 CAL 0.020
+W83 plan-1 CAT 0.020
+W83 plan-1 CAU 0.020
+W83 plan-1 CAZ 0.020
+W83 plan-1 CBA 0.020
+W83 plan-1 H10 0.020
+W83 plan-1 H11 0.020
+W83 plan-1 H12 0.020
+W83 plan-1 H13 0.020
+W83 plan-1 H8  0.020
+W83 plan-1 H9  0.020
+W83 plan-1 OAR 0.020
+W83 plan-2 CAM 0.020
+W83 plan-2 CAS 0.020
+W83 plan-2 CAV 0.020
+W83 plan-2 CAW 0.020
+W83 plan-2 CAX 0.020
+W83 plan-2 CAY 0.020
+W83 plan-2 H2  0.020
+W83 plan-2 H3  0.020
+W83 plan-2 NAO 0.020
+W83 plan-2 NAP 0.020
+W83 plan-2 OAC 0.020
+W83 plan-2 OAD 0.020
+W83 plan-3 CAS 0.020
+W83 plan-3 CAV 0.020
+W83 plan-3 OAB 0.020
+W83 plan-3 OAE 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-W83           SMILES              ACDLabs 12.01                                                                                                          O=C1NC(C(=O)O)=C(C(=O)N1)CCc3cc2cc(OCOC)ccc2cc3
-W83            InChI                InChI  1.03 InChI=1S/C19H18N2O6/c1-26-10-27-14-6-5-12-4-2-11(8-13(12)9-14)3-7-15-16(18(23)24)20-19(25)21-17(15)22/h2,4-6,8-9H,3,7,10H2,1H3,(H,23,24)(H2,20,21,22,25)
-W83         InChIKey                InChI  1.03                                                                                                                              YZUWJJNBVMZPLF-UHFFFAOYSA-N
-W83 SMILES_CANONICAL               CACTVS 3.370                                                                                                            COCOc1ccc2ccc(CCC3=C(NC(=O)NC3=O)C(O)=O)cc2c1
-W83           SMILES               CACTVS 3.370                                                                                                            COCOc1ccc2ccc(CCC3=C(NC(=O)NC3=O)C(O)=O)cc2c1
-W83 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                            COCOc1ccc2ccc(cc2c1)CCC3=C(NC(=O)NC3=O)C(=O)O
-W83           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                            COCOc1ccc2ccc(cc2c1)CCC3=C(NC(=O)NC3=O)C(=O)O
+W83 SMILES           ACDLabs              12.01 O=C1NC(C(=O)O)=C(C(=O)N1)CCc3cc2cc(OCOC)ccc2cc3
+W83 InChI            InChI                1.03  InChI=1S/C19H18N2O6/c1-26-10-27-14-6-5-12-4-2-11(8-13(12)9-14)3-7-15-16(18(23)24)20-19(25)21-17(15)22/h2,4-6,8-9H,3,7,10H2,1H3,(H,23,24)(H2,20,21,22,25)
+W83 InChIKey         InChI                1.03  YZUWJJNBVMZPLF-UHFFFAOYSA-N
+W83 SMILES_CANONICAL CACTVS               3.370 COCOc1ccc2ccc(CCC3=C(NC(=O)NC3=O)C(O)=O)cc2c1
+W83 SMILES           CACTVS               3.370 COCOc1ccc2ccc(CCC3=C(NC(=O)NC3=O)C(O)=O)cc2c1
+W83 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 COCOc1ccc2ccc(cc2c1)CCC3=C(NC(=O)NC3=O)C(=O)O
+W83 SMILES           "OpenEye OEToolkits" 1.7.6 COCOc1ccc2ccc(cc2c1)CCC3=C(NC(=O)NC3=O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-W83 acedrg               243         "dictionary generator"                  
-W83 acedrg_database      11          "data source"                           
-W83 rdkit                2017.03.2   "Chemoinformatics tool"
-W83 refmac5              5.8.0238    "optimization tool"                     
+W83 acedrg          243       "dictionary generator"
+W83 acedrg_database 11        "data source"
+W83 rdkit           2017.03.2 "Chemoinformatics tool"
+W83 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+W83 M-peptide OAE O
+W83 M-peptide CAS C
+W83 M-peptide CAV CA
+W83 M-peptide NAO N
+W83 M-peptide CAX CN
+W83 M-peptide OAB OXT
+W83 M-peptide H2  H

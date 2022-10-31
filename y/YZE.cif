@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-YZE     YZE      N~2~-{[(1S)-1-carboxybut-3-en-1-yl]carbamoyl}-N~6~-[(4-iodophenyl)carbonyl]-L-lysine     NON-POLYMER     51     29     .     
-#
+YZE YZE N~2~-{[(1S)-1-carboxybut-3-en-1-yl]carbamoyl}-N~6~-[(4-iodophenyl)carbonyl]-L-lysine NON-POLYMER 51 29 .
+
 data_comp_YZE
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,57 +19,58 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-YZE     C2      C       C2      0       13.397      46.810      40.266      
-YZE     C4      C       C1      0       14.529      46.305      40.644      
-YZE     C5      C       CH2     0       14.781      44.868      40.974      
-YZE     C6      C       CH1     0       16.268      44.501      41.002      
-YZE     C7      C       C       0       16.916      44.728      39.623      
-YZE     O8      O       O       0       16.873      43.782      38.812      
-YZE     O9      O       OC      -1      17.439      45.841      39.408      
-YZE     N10     N       NH1     0       17.002      45.201      42.051      
-YZE     C11     C       C       0       18.231      44.837      42.491      
-YZE     N12     N       NH1     0       18.783      45.616      43.452      
-YZE     C13     C       CH1     0       20.102      45.396      44.035      
-YZE     C14     C       CH2     0       21.202      45.899      43.094      
-YZE     C15     C       CH2     0       22.602      45.416      43.453      
-YZE     C16     C       CH2     0       23.685      45.869      42.483      
-YZE     C17     C       CH2     0       23.904      47.372      42.397      
-YZE     N18     N       NH1     0       24.022      47.992      43.713      
-YZE     C19     C       C       0       23.087      48.799      44.236      
-YZE     C20     C       CR6     0       23.134      49.035      45.722      
-YZE     C21     C       CR16    0       22.773      50.281      46.239      
-YZE     C22     C       CR16    0       22.797      50.519      47.605      
-YZE     C23     C       CR6     0       23.178      49.503      48.469      
-YZE     I24     I       I       0       23.218      49.857      50.535      
-YZE     C25     C       CR16    0       23.534      48.255      47.980      
-YZE     C26     C       CR16    0       23.504      48.024      46.613      
-YZE     O27     O       O       0       22.173      49.282      43.567      
-YZE     C28     C       C       0       20.201      46.062      45.420      
-YZE     O29     O       O       0       19.948      47.281      45.487      
-YZE     O30     O       OC      -1      20.527      45.336      46.381      
-YZE     O31     O       O       0       18.824      43.837      42.035      
-YZE     H2      H       H       0       13.330      47.738      40.077      
-YZE     H2A     H       H       0       12.634      46.254      40.179      
-YZE     H4      H       H       0       15.263      46.897      40.720      
-YZE     H5      H       H       0       14.331      44.313      40.315      
-YZE     H5A     H       H       0       14.390      44.674      41.842      
-YZE     H6      H       H       0       16.317      43.535      41.200      
-YZE     HN10    H       H       0       16.623      45.893      42.423      
-YZE     HN12    H       H       0       18.321      46.302      43.738      
-YZE     H13     H       H       0       20.228      44.421      44.158      
-YZE     H14     H       H       0       21.192      46.877      43.101      
-YZE     H23     H       H       0       20.995      45.605      42.182      
-YZE     H15     H       H       0       22.595      44.435      43.479      
-YZE     H24     H       H       0       22.827      45.732      44.353      
-YZE     H16     H       H       0       23.459      45.538      41.588      
-YZE     H16A    H       H       0       24.532      45.448      42.745      
-YZE     H17     H       H       0       23.161      47.775      41.900      
-YZE     H17A    H       H       0       24.727      47.545      41.892      
-YZE     HN18    H       H       0       24.754      47.845      44.167      
-YZE     H21     H       H       0       22.514      50.971      45.655      
-YZE     H22     H       H       0       22.556      51.367      47.945      
-YZE     H25     H       H       0       23.793      47.566      48.574      
-YZE     H26     H       H       0       23.748      47.177      46.283      
+YZE C2   C C2   0  13.397 46.810 40.266
+YZE C4   C C1   0  14.529 46.305 40.644
+YZE C5   C CH2  0  14.781 44.868 40.974
+YZE C6   C CH1  0  16.268 44.501 41.002
+YZE C7   C C    0  16.916 44.728 39.623
+YZE O8   O O    0  16.873 43.782 38.812
+YZE O9   O OC   -1 17.439 45.841 39.408
+YZE N10  N NH1  0  17.002 45.201 42.051
+YZE C11  C C    0  18.231 44.837 42.491
+YZE N12  N NH1  0  18.783 45.616 43.452
+YZE C13  C CH1  0  20.102 45.396 44.035
+YZE C14  C CH2  0  21.202 45.899 43.094
+YZE C15  C CH2  0  22.602 45.416 43.453
+YZE C16  C CH2  0  23.685 45.869 42.483
+YZE C17  C CH2  0  23.904 47.372 42.397
+YZE N18  N NH1  0  24.022 47.992 43.713
+YZE C19  C C    0  23.087 48.799 44.236
+YZE C20  C CR6  0  23.134 49.035 45.722
+YZE C21  C CR16 0  22.773 50.281 46.239
+YZE C22  C CR16 0  22.797 50.519 47.605
+YZE C23  C CR6  0  23.178 49.503 48.469
+YZE I24  I I    0  23.218 49.857 50.535
+YZE C25  C CR16 0  23.534 48.255 47.980
+YZE C26  C CR16 0  23.504 48.024 46.613
+YZE O27  O O    0  22.173 49.282 43.567
+YZE C28  C C    0  20.201 46.062 45.420
+YZE O29  O O    0  19.948 47.281 45.487
+YZE O30  O OC   -1 20.527 45.336 46.381
+YZE O31  O O    0  18.824 43.837 42.035
+YZE H2   H H    0  13.330 47.738 40.077
+YZE H2A  H H    0  12.634 46.254 40.179
+YZE H4   H H    0  15.263 46.897 40.720
+YZE H5   H H    0  14.331 44.313 40.315
+YZE H5A  H H    0  14.390 44.674 41.842
+YZE H6   H H    0  16.317 43.535 41.200
+YZE HN10 H H    0  16.623 45.893 42.423
+YZE HN12 H H    0  18.321 46.302 43.738
+YZE H13  H H    0  20.228 44.421 44.158
+YZE H14  H H    0  21.192 46.877 43.101
+YZE H23  H H    0  20.995 45.605 42.182
+YZE H15  H H    0  22.595 44.435 43.479
+YZE H24  H H    0  22.827 45.732 44.353
+YZE H16  H H    0  23.459 45.538 41.588
+YZE H16A H H    0  24.532 45.448 42.745
+YZE H17  H H    0  23.161 47.775 41.900
+YZE H17A H H    0  24.727 47.545 41.892
+YZE HN18 H H    0  24.754 47.845 44.167
+YZE H21  H H    0  22.514 50.971 45.655
+YZE H22  H H    0  22.556 51.367 47.945
+YZE H25  H H    0  23.793 47.566 48.574
+YZE H26  H H    0  23.748 47.177 46.283
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -82,57 +81,58 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-YZE          C2          C4      DOUBLE       n     1.296  0.0200     1.296  0.0200
-YZE          C4          C5      SINGLE       n     1.495  0.0100     1.495  0.0100
-YZE          C5          C6      SINGLE       n     1.529  0.0102     1.529  0.0102
-YZE          C6         N10      SINGLE       n     1.455  0.0100     1.455  0.0100
-YZE          C6          C7      SINGLE       n     1.539  0.0100     1.539  0.0100
-YZE          C7          O9      SINGLE       n     1.247  0.0187     1.247  0.0187
-YZE          C7          O8      DOUBLE       n     1.247  0.0187     1.247  0.0187
-YZE         N10         C11      SINGLE       n     1.349  0.0100     1.349  0.0100
-YZE         C11         N12      SINGLE       n     1.349  0.0100     1.349  0.0100
-YZE         N12         C13      SINGLE       n     1.454  0.0128     1.454  0.0128
-YZE         C13         C28      SINGLE       n     1.539  0.0100     1.539  0.0100
-YZE         C13         C14      SINGLE       n     1.531  0.0123     1.531  0.0123
-YZE         C14         C15      SINGLE       n     1.523  0.0114     1.523  0.0114
-YZE         C15         C16      SINGLE       n     1.514  0.0200     1.514  0.0200
-YZE         C16         C17      SINGLE       n     1.517  0.0143     1.517  0.0143
-YZE         C17         N18      SINGLE       n     1.455  0.0100     1.455  0.0100
-YZE         N18         C19      SINGLE       n     1.333  0.0111     1.333  0.0111
-YZE         C19         C20      SINGLE       n     1.502  0.0100     1.502  0.0100
-YZE         C20         C21      DOUBLE       y     1.393  0.0100     1.393  0.0100
-YZE         C20         C26      SINGLE       y     1.393  0.0100     1.393  0.0100
-YZE         C21         C22      SINGLE       y     1.383  0.0104     1.383  0.0104
-YZE         C22         C23      DOUBLE       y     1.383  0.0112     1.383  0.0112
-YZE         C23         I24      SINGLE       n     2.097  0.0157     2.097  0.0157
-YZE         C23         C25      SINGLE       y     1.383  0.0112     1.383  0.0112
-YZE         C25         C26      DOUBLE       y     1.383  0.0104     1.383  0.0104
-YZE         C19         O27      DOUBLE       n     1.230  0.0114     1.230  0.0114
-YZE         C28         O29      DOUBLE       n     1.247  0.0187     1.247  0.0187
-YZE         C28         O30      SINGLE       n     1.247  0.0187     1.247  0.0187
-YZE         C11         O31      DOUBLE       n     1.243  0.0179     1.243  0.0179
-YZE          C2          H2      SINGLE       n     1.082  0.0130     0.949  0.0200
-YZE          C2         H2A      SINGLE       n     1.082  0.0130     0.949  0.0200
-YZE          C4          H4      SINGLE       n     1.082  0.0130     0.945  0.0200
-YZE          C5          H5      SINGLE       n     1.089  0.0100     0.972  0.0100
-YZE          C5         H5A      SINGLE       n     1.089  0.0100     0.972  0.0100
-YZE          C6          H6      SINGLE       n     1.089  0.0100     0.987  0.0159
-YZE         N10        HN10      SINGLE       n     1.016  0.0100     0.873  0.0200
-YZE         N12        HN12      SINGLE       n     1.016  0.0100     0.873  0.0200
-YZE         C13         H13      SINGLE       n     1.089  0.0100     0.991  0.0200
-YZE         C14         H14      SINGLE       n     1.089  0.0100     0.980  0.0160
-YZE         C14         H23      SINGLE       n     1.089  0.0100     0.980  0.0160
-YZE         C15         H15      SINGLE       n     1.089  0.0100     0.981  0.0163
-YZE         C15         H24      SINGLE       n     1.089  0.0100     0.981  0.0163
-YZE         C16         H16      SINGLE       n     1.089  0.0100     0.981  0.0160
-YZE         C16        H16A      SINGLE       n     1.089  0.0100     0.981  0.0160
-YZE         C17         H17      SINGLE       n     1.089  0.0100     0.981  0.0152
-YZE         C17        H17A      SINGLE       n     1.089  0.0100     0.981  0.0152
-YZE         N18        HN18      SINGLE       n     1.016  0.0100     0.873  0.0200
-YZE         C21         H21      SINGLE       n     1.082  0.0130     0.941  0.0168
-YZE         C22         H22      SINGLE       n     1.082  0.0130     0.945  0.0136
-YZE         C25         H25      SINGLE       n     1.082  0.0130     0.945  0.0136
-YZE         C26         H26      SINGLE       n     1.082  0.0130     0.941  0.0168
+YZE C2  C4   DOUBLE n 1.296 0.0200 1.296 0.0200
+YZE C4  C5   SINGLE n 1.495 0.0100 1.495 0.0100
+YZE C5  C6   SINGLE n 1.529 0.0102 1.529 0.0102
+YZE C6  N10  SINGLE n 1.455 0.0100 1.455 0.0100
+YZE C6  C7   SINGLE n 1.539 0.0100 1.539 0.0100
+YZE C7  O9   SINGLE n 1.247 0.0187 1.247 0.0187
+YZE C7  O8   DOUBLE n 1.247 0.0187 1.247 0.0187
+YZE N10 C11  SINGLE n 1.349 0.0100 1.349 0.0100
+YZE C11 N12  SINGLE n 1.349 0.0100 1.349 0.0100
+YZE N12 C13  SINGLE n 1.454 0.0128 1.454 0.0128
+YZE C13 C28  SINGLE n 1.539 0.0100 1.539 0.0100
+YZE C13 C14  SINGLE n 1.531 0.0123 1.531 0.0123
+YZE C14 C15  SINGLE n 1.523 0.0114 1.523 0.0114
+YZE C15 C16  SINGLE n 1.514 0.0200 1.514 0.0200
+YZE C16 C17  SINGLE n 1.517 0.0143 1.517 0.0143
+YZE C17 N18  SINGLE n 1.455 0.0100 1.455 0.0100
+YZE N18 C19  SINGLE n 1.333 0.0111 1.333 0.0111
+YZE C19 C20  SINGLE n 1.502 0.0100 1.502 0.0100
+YZE C20 C21  DOUBLE y 1.393 0.0100 1.393 0.0100
+YZE C20 C26  SINGLE y 1.393 0.0100 1.393 0.0100
+YZE C21 C22  SINGLE y 1.383 0.0104 1.383 0.0104
+YZE C22 C23  DOUBLE y 1.383 0.0112 1.383 0.0112
+YZE C23 I24  SINGLE n 2.097 0.0157 2.097 0.0157
+YZE C23 C25  SINGLE y 1.383 0.0112 1.383 0.0112
+YZE C25 C26  DOUBLE y 1.383 0.0104 1.383 0.0104
+YZE C19 O27  DOUBLE n 1.230 0.0114 1.230 0.0114
+YZE C28 O29  DOUBLE n 1.247 0.0187 1.247 0.0187
+YZE C28 O30  SINGLE n 1.247 0.0187 1.247 0.0187
+YZE C11 O31  DOUBLE n 1.243 0.0179 1.243 0.0179
+YZE C2  H2   SINGLE n 1.082 0.0130 0.949 0.0200
+YZE C2  H2A  SINGLE n 1.082 0.0130 0.949 0.0200
+YZE C4  H4   SINGLE n 1.082 0.0130 0.945 0.0200
+YZE C5  H5   SINGLE n 1.089 0.0100 0.972 0.0100
+YZE C5  H5A  SINGLE n 1.089 0.0100 0.972 0.0100
+YZE C6  H6   SINGLE n 1.089 0.0100 0.987 0.0159
+YZE N10 HN10 SINGLE n 1.016 0.0100 0.873 0.0200
+YZE N12 HN12 SINGLE n 1.016 0.0100 0.873 0.0200
+YZE C13 H13  SINGLE n 1.089 0.0100 0.991 0.0200
+YZE C14 H14  SINGLE n 1.089 0.0100 0.980 0.0160
+YZE C14 H23  SINGLE n 1.089 0.0100 0.980 0.0160
+YZE C15 H15  SINGLE n 1.089 0.0100 0.981 0.0163
+YZE C15 H24  SINGLE n 1.089 0.0100 0.981 0.0163
+YZE C16 H16  SINGLE n 1.089 0.0100 0.981 0.0160
+YZE C16 H16A SINGLE n 1.089 0.0100 0.981 0.0160
+YZE C17 H17  SINGLE n 1.089 0.0100 0.981 0.0152
+YZE C17 H17A SINGLE n 1.089 0.0100 0.981 0.0152
+YZE N18 HN18 SINGLE n 1.016 0.0100 0.873 0.0200
+YZE C21 H21  SINGLE n 1.082 0.0130 0.941 0.0168
+YZE C22 H22  SINGLE n 1.082 0.0130 0.945 0.0136
+YZE C25 H25  SINGLE n 1.082 0.0130 0.945 0.0136
+YZE C26 H26  SINGLE n 1.082 0.0130 0.941 0.0168
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -140,93 +140,94 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-YZE          C4          C2          H2     120.077    2.71
-YZE          C4          C2         H2A     120.077    2.71
-YZE          H2          C2         H2A     119.846    2.15
-YZE          C2          C4          C5     125.820    3.00
-YZE          C2          C4          H4     117.255    2.13
-YZE          C5          C4          H4     116.926    1.85
-YZE          C4          C5          C6     112.026    1.65
-YZE          C4          C5          H5     108.659    1.50
-YZE          C4          C5         H5A     108.659    1.50
-YZE          C6          C5          H5     108.988    1.50
-YZE          C6          C5         H5A     108.988    1.50
-YZE          H5          C5         H5A     107.673    1.50
-YZE          C5          C6         N10     112.687    1.50
-YZE          C5          C6          C7     111.511    2.91
-YZE          C5          C6          H6     107.587    1.50
-YZE         N10          C6          C7     110.939    1.74
-YZE         N10          C6          H6     108.161    1.50
-YZE          C7          C6          H6     108.327    1.50
-YZE          C6          C7          O9     117.249    1.61
-YZE          C6          C7          O8     117.249    1.61
-YZE          O9          C7          O8     125.502    1.50
-YZE          C6         N10         C11     122.812    3.00
-YZE          C6         N10        HN10     119.090    1.92
-YZE         C11         N10        HN10     118.098    1.50
-YZE         N10         C11         N12     115.881    1.50
-YZE         N10         C11         O31     122.060    1.50
-YZE         N12         C11         O31     122.060    1.50
-YZE         C11         N12         C13     122.812    3.00
-YZE         C11         N12        HN12     118.098    1.50
-YZE         C13         N12        HN12     119.090    1.92
-YZE         N12         C13         C28     110.939    1.74
-YZE         N12         C13         C14     111.076    1.75
-YZE         N12         C13         H13     108.161    1.50
-YZE         C28         C13         C14     111.638    2.31
-YZE         C28         C13         H13     108.327    1.50
-YZE         C14         C13         H13     108.155    1.50
-YZE         C13         C14         C15     113.671    1.50
-YZE         C13         C14         H14     108.606    1.50
-YZE         C13         C14         H23     108.606    1.50
-YZE         C15         C14         H14     108.650    1.50
-YZE         C15         C14         H23     108.650    1.50
-YZE         H14         C14         H23     107.844    1.50
-YZE         C14         C15         C16     113.328    2.00
-YZE         C14         C15         H15     108.601    1.50
-YZE         C14         C15         H24     108.601    1.50
-YZE         C16         C15         H15     108.806    1.50
-YZE         C16         C15         H24     108.806    1.50
-YZE         H15         C15         H24     107.646    1.50
-YZE         C15         C16         C17     113.159    3.00
-YZE         C15         C16         H16     109.041    1.50
-YZE         C15         C16        H16A     109.041    1.50
-YZE         C17         C16         H16     108.956    1.50
-YZE         C17         C16        H16A     108.956    1.50
-YZE         H16         C16        H16A     107.927    1.57
-YZE         C16         C17         N18     112.199    1.50
-YZE         C16         C17         H17     109.197    1.51
-YZE         C16         C17        H17A     109.197    1.51
-YZE         N18         C17         H17     109.020    1.50
-YZE         N18         C17        H17A     109.020    1.50
-YZE         H17         C17        H17A     107.877    1.50
-YZE         C17         N18         C19     121.796    1.50
-YZE         C17         N18        HN18     118.813    1.50
-YZE         C19         N18        HN18     119.379    1.77
-YZE         N18         C19         C20     116.868    1.50
-YZE         N18         C19         O27     122.165    1.50
-YZE         C20         C19         O27     120.968    1.50
-YZE         C19         C20         C21     120.509    2.80
-YZE         C19         C20         C26     120.509    2.80
-YZE         C21         C20         C26     118.982    1.50
-YZE         C20         C21         C22     120.777    1.50
-YZE         C20         C21         H21     119.731    1.50
-YZE         C22         C21         H21     119.491    1.50
-YZE         C21         C22         C23     119.339    1.50
-YZE         C21         C22         H22     120.324    1.50
-YZE         C23         C22         H22     120.341    1.50
-YZE         C22         C23         I24     119.611    1.50
-YZE         C22         C23         C25     120.778    1.50
-YZE         I24         C23         C25     119.611    1.50
-YZE         C23         C25         C26     119.339    1.50
-YZE         C23         C25         H25     120.341    1.50
-YZE         C26         C25         H25     120.324    1.50
-YZE         C20         C26         C25     120.777    1.50
-YZE         C20         C26         H26     119.731    1.50
-YZE         C25         C26         H26     119.491    1.50
-YZE         C13         C28         O29     117.249    1.61
-YZE         C13         C28         O30     117.249    1.61
-YZE         O29         C28         O30     125.502    1.50
+YZE C4  C2  H2   120.077 2.71
+YZE C4  C2  H2A  120.077 2.71
+YZE H2  C2  H2A  119.846 2.15
+YZE C2  C4  C5   125.820 3.00
+YZE C2  C4  H4   117.255 2.13
+YZE C5  C4  H4   116.926 1.85
+YZE C4  C5  C6   112.026 1.65
+YZE C4  C5  H5   108.659 1.50
+YZE C4  C5  H5A  108.659 1.50
+YZE C6  C5  H5   108.988 1.50
+YZE C6  C5  H5A  108.988 1.50
+YZE H5  C5  H5A  107.673 1.50
+YZE C5  C6  N10  112.687 1.50
+YZE C5  C6  C7   111.511 2.91
+YZE C5  C6  H6   107.587 1.50
+YZE N10 C6  C7   110.939 1.74
+YZE N10 C6  H6   108.161 1.50
+YZE C7  C6  H6   108.327 1.50
+YZE C6  C7  O9   117.249 1.61
+YZE C6  C7  O8   117.249 1.61
+YZE O9  C7  O8   125.502 1.50
+YZE C6  N10 C11  122.812 3.00
+YZE C6  N10 HN10 119.090 1.92
+YZE C11 N10 HN10 118.098 1.50
+YZE N10 C11 N12  115.881 1.50
+YZE N10 C11 O31  122.060 1.50
+YZE N12 C11 O31  122.060 1.50
+YZE C11 N12 C13  122.812 3.00
+YZE C11 N12 HN12 118.098 1.50
+YZE C13 N12 HN12 119.090 1.92
+YZE N12 C13 C28  110.939 1.74
+YZE N12 C13 C14  111.076 1.75
+YZE N12 C13 H13  108.161 1.50
+YZE C28 C13 C14  111.638 2.31
+YZE C28 C13 H13  108.327 1.50
+YZE C14 C13 H13  108.155 1.50
+YZE C13 C14 C15  113.671 1.50
+YZE C13 C14 H14  108.606 1.50
+YZE C13 C14 H23  108.606 1.50
+YZE C15 C14 H14  108.650 1.50
+YZE C15 C14 H23  108.650 1.50
+YZE H14 C14 H23  107.844 1.50
+YZE C14 C15 C16  113.328 2.00
+YZE C14 C15 H15  108.601 1.50
+YZE C14 C15 H24  108.601 1.50
+YZE C16 C15 H15  108.806 1.50
+YZE C16 C15 H24  108.806 1.50
+YZE H15 C15 H24  107.646 1.50
+YZE C15 C16 C17  113.159 3.00
+YZE C15 C16 H16  109.041 1.50
+YZE C15 C16 H16A 109.041 1.50
+YZE C17 C16 H16  108.956 1.50
+YZE C17 C16 H16A 108.956 1.50
+YZE H16 C16 H16A 107.927 1.57
+YZE C16 C17 N18  112.199 1.50
+YZE C16 C17 H17  109.197 1.51
+YZE C16 C17 H17A 109.197 1.51
+YZE N18 C17 H17  109.020 1.50
+YZE N18 C17 H17A 109.020 1.50
+YZE H17 C17 H17A 107.877 1.50
+YZE C17 N18 C19  121.796 1.50
+YZE C17 N18 HN18 118.813 1.50
+YZE C19 N18 HN18 119.379 1.77
+YZE N18 C19 C20  116.868 1.50
+YZE N18 C19 O27  122.165 1.50
+YZE C20 C19 O27  120.968 1.50
+YZE C19 C20 C21  120.509 2.80
+YZE C19 C20 C26  120.509 2.80
+YZE C21 C20 C26  118.982 1.50
+YZE C20 C21 C22  120.777 1.50
+YZE C20 C21 H21  119.731 1.50
+YZE C22 C21 H21  119.491 1.50
+YZE C21 C22 C23  119.339 1.50
+YZE C21 C22 H22  120.324 1.50
+YZE C23 C22 H22  120.341 1.50
+YZE C22 C23 I24  119.611 1.50
+YZE C22 C23 C25  120.778 1.50
+YZE I24 C23 C25  119.611 1.50
+YZE C23 C25 C26  119.339 1.50
+YZE C23 C25 H25  120.341 1.50
+YZE C26 C25 H25  120.324 1.50
+YZE C20 C26 C25  120.777 1.50
+YZE C20 C26 H26  119.731 1.50
+YZE C25 C26 H26  119.491 1.50
+YZE C13 C28 O29  117.249 1.61
+YZE C13 C28 O30  117.249 1.61
+YZE O29 C28 O30  125.502 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -237,28 +238,29 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-YZE             sp2_sp2_1          H2          C2          C4          C5     180.000     5.0     2
-YZE            sp3_sp3_10         N12         C13         C14         C15     180.000    10.0     3
-YZE            sp2_sp3_25         O29         C28         C13         N12       0.000    10.0     6
-YZE            sp3_sp3_19         C13         C14         C15         C16     180.000    10.0     3
-YZE            sp3_sp3_28         C14         C15         C16         C17     180.000    10.0     3
-YZE            sp3_sp3_37         C15         C16         C17         N18     180.000    10.0     3
-YZE            sp2_sp3_32         C19         N18         C17         C16     120.000    10.0     6
-YZE            sp2_sp2_15         O27         C19         N18         C17       0.000     5.0     2
-YZE            sp2_sp2_17         N18         C19         C20         C21     180.000     5.0     2
-YZE       const_sp2_sp2_3         C19         C20         C21         C22     180.000     5.0     2
-YZE              const_23         C19         C20         C26         C25     180.000    10.0     2
-YZE       const_sp2_sp2_5         C20         C21         C22         C23       0.000     5.0     2
-YZE              const_10         C21         C22         C23         I24     180.000    10.0     2
-YZE             sp2_sp3_2          C2          C4          C5          C6     120.000    10.0     6
-YZE              const_15         I24         C23         C25         C26     180.000    10.0     2
-YZE              const_17         C23         C25         C26         C20       0.000    10.0     2
-YZE             sp3_sp3_1          C4          C5          C6         N10     180.000    10.0     3
-YZE            sp2_sp3_13          O9          C7          C6          C5       0.000    10.0     6
-YZE             sp2_sp3_7         C11         N10          C6          C5       0.000    10.0     6
-YZE             sp2_sp2_5         N12         C11         N10          C6     180.000     5.0     2
-YZE             sp2_sp2_9         N10         C11         N12         C13     180.000     5.0     2
-YZE            sp2_sp3_19         C11         N12         C13         C28       0.000    10.0     6
+YZE sp2_sp2_1       H2  C2  C4  C5  180.000 5.0  2
+YZE sp3_sp3_10      N12 C13 C14 C15 180.000 10.0 3
+YZE sp2_sp3_25      O29 C28 C13 N12 0.000   10.0 6
+YZE sp3_sp3_19      C13 C14 C15 C16 180.000 10.0 3
+YZE sp3_sp3_28      C14 C15 C16 C17 180.000 10.0 3
+YZE sp3_sp3_37      C15 C16 C17 N18 180.000 10.0 3
+YZE sp2_sp3_32      C19 N18 C17 C16 120.000 10.0 6
+YZE sp2_sp2_15      O27 C19 N18 C17 0.000   5.0  2
+YZE sp2_sp2_17      N18 C19 C20 C21 180.000 5.0  2
+YZE const_sp2_sp2_3 C19 C20 C21 C22 180.000 5.0  2
+YZE const_23        C19 C20 C26 C25 180.000 10.0 2
+YZE const_sp2_sp2_5 C20 C21 C22 C23 0.000   5.0  2
+YZE const_10        C21 C22 C23 I24 180.000 10.0 2
+YZE sp2_sp3_2       C2  C4  C5  C6  120.000 10.0 6
+YZE const_15        I24 C23 C25 C26 180.000 10.0 2
+YZE const_17        C23 C25 C26 C20 0.000   10.0 2
+YZE sp3_sp3_1       C4  C5  C6  N10 180.000 10.0 3
+YZE sp2_sp3_13      O9  C7  C6  C5  0.000   10.0 6
+YZE sp2_sp3_7       C11 N10 C6  C5  0.000   10.0 6
+YZE sp2_sp2_5       N12 C11 N10 C6  180.000 5.0  2
+YZE sp2_sp2_9       N10 C11 N12 C13 180.000 5.0  2
+YZE sp2_sp3_19      C11 N12 C13 C28 0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -267,80 +269,96 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-YZE    chir_1    C6    N10    C7    C5    positive
-YZE    chir_2    C13    N12    C28    C14    positive
+YZE chir_1 C6  N10 C7  C5  positive
+YZE chir_2 C13 N12 C28 C14 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-YZE    plan-1         C19   0.020
-YZE    plan-1         C20   0.020
-YZE    plan-1         C21   0.020
-YZE    plan-1         C22   0.020
-YZE    plan-1         C23   0.020
-YZE    plan-1         C25   0.020
-YZE    plan-1         C26   0.020
-YZE    plan-1         H21   0.020
-YZE    plan-1         H22   0.020
-YZE    plan-1         H25   0.020
-YZE    plan-1         H26   0.020
-YZE    plan-1         I24   0.020
-YZE    plan-2          C2   0.020
-YZE    plan-2          C4   0.020
-YZE    plan-2          H2   0.020
-YZE    plan-2         H2A   0.020
-YZE    plan-3          C2   0.020
-YZE    plan-3          C4   0.020
-YZE    plan-3          C5   0.020
-YZE    plan-3          H4   0.020
-YZE    plan-4          C6   0.020
-YZE    plan-4          C7   0.020
-YZE    plan-4          O8   0.020
-YZE    plan-4          O9   0.020
-YZE    plan-5         C11   0.020
-YZE    plan-5          C6   0.020
-YZE    plan-5        HN10   0.020
-YZE    plan-5         N10   0.020
-YZE    plan-6         C11   0.020
-YZE    plan-6         N10   0.020
-YZE    plan-6         N12   0.020
-YZE    plan-6         O31   0.020
-YZE    plan-7         C11   0.020
-YZE    plan-7         C13   0.020
-YZE    plan-7        HN12   0.020
-YZE    plan-7         N12   0.020
-YZE    plan-8         C17   0.020
-YZE    plan-8         C19   0.020
-YZE    plan-8        HN18   0.020
-YZE    plan-8         N18   0.020
-YZE    plan-9         C19   0.020
-YZE    plan-9         C20   0.020
-YZE    plan-9         N18   0.020
-YZE    plan-9         O27   0.020
-YZE   plan-10         C13   0.020
-YZE   plan-10         C28   0.020
-YZE   plan-10         O29   0.020
-YZE   plan-10         O30   0.020
+YZE plan-1  C19  0.020
+YZE plan-1  C20  0.020
+YZE plan-1  C21  0.020
+YZE plan-1  C22  0.020
+YZE plan-1  C23  0.020
+YZE plan-1  C25  0.020
+YZE plan-1  C26  0.020
+YZE plan-1  H21  0.020
+YZE plan-1  H22  0.020
+YZE plan-1  H25  0.020
+YZE plan-1  H26  0.020
+YZE plan-1  I24  0.020
+YZE plan-2  C2   0.020
+YZE plan-2  C4   0.020
+YZE plan-2  H2   0.020
+YZE plan-2  H2A  0.020
+YZE plan-3  C2   0.020
+YZE plan-3  C4   0.020
+YZE plan-3  C5   0.020
+YZE plan-3  H4   0.020
+YZE plan-4  C6   0.020
+YZE plan-4  C7   0.020
+YZE plan-4  O8   0.020
+YZE plan-4  O9   0.020
+YZE plan-5  C11  0.020
+YZE plan-5  C6   0.020
+YZE plan-5  HN10 0.020
+YZE plan-5  N10  0.020
+YZE plan-6  C11  0.020
+YZE plan-6  N10  0.020
+YZE plan-6  N12  0.020
+YZE plan-6  O31  0.020
+YZE plan-7  C11  0.020
+YZE plan-7  C13  0.020
+YZE plan-7  HN12 0.020
+YZE plan-7  N12  0.020
+YZE plan-8  C17  0.020
+YZE plan-8  C19  0.020
+YZE plan-8  HN18 0.020
+YZE plan-8  N18  0.020
+YZE plan-9  C19  0.020
+YZE plan-9  C20  0.020
+YZE plan-9  N18  0.020
+YZE plan-9  O27  0.020
+YZE plan-10 C13  0.020
+YZE plan-10 C28  0.020
+YZE plan-10 O29  0.020
+YZE plan-10 O30  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-YZE           SMILES              ACDLabs 11.02                                                                                                                                      O=C(c1ccc(I)cc1)NCCCCC(C(=O)O)NC(=O)NC(C(=O)O)C/C=C
-YZE SMILES_CANONICAL               CACTVS 3.352                                                                                                                              OC(=O)[C@H](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[C@@H](CC=C)C(O)=O
-YZE           SMILES               CACTVS 3.352                                                                                                                                 OC(=O)[CH](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[CH](CC=C)C(O)=O
-YZE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                             C=CC[C@@H](C(=O)O)NC(=O)N[C@@H](CCCCNC(=O)c1ccc(cc1)I)C(=O)O
-YZE           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                       C=CCC(C(=O)O)NC(=O)NC(CCCCNC(=O)c1ccc(cc1)I)C(=O)O
-YZE            InChI                InChI  1.03 InChI=1S/C19H24IN3O6/c1-2-5-14(17(25)26)22-19(29)23-15(18(27)28)6-3-4-11-21-16(24)12-7-9-13(20)10-8-12/h2,7-10,14-15H,1,3-6,11H2,(H,21,24)(H,25,26)(H,27,28)(H2,22,23,29)/t14-,15-/m0/s1
-YZE         InChIKey                InChI  1.03                                                                                                                                                              CPITYBQMVPBERS-GJZGRUSLSA-N
+YZE SMILES           ACDLabs              11.02 O=C(c1ccc(I)cc1)NCCCCC(C(=O)O)NC(=O)NC(C(=O)O)C/C=C
+YZE SMILES_CANONICAL CACTVS               3.352 OC(=O)[C@H](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[C@@H](CC=C)C(O)=O
+YZE SMILES           CACTVS               3.352 OC(=O)[CH](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[CH](CC=C)C(O)=O
+YZE SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 C=CC[C@@H](C(=O)O)NC(=O)N[C@@H](CCCCNC(=O)c1ccc(cc1)I)C(=O)O
+YZE SMILES           "OpenEye OEToolkits" 1.7.0 C=CCC(C(=O)O)NC(=O)NC(CCCCNC(=O)c1ccc(cc1)I)C(=O)O
+YZE InChI            InChI                1.03  InChI=1S/C19H24IN3O6/c1-2-5-14(17(25)26)22-19(29)23-15(18(27)28)6-3-4-11-21-16(24)12-7-9-13(20)10-8-12/h2,7-10,14-15H,1,3-6,11H2,(H,21,24)(H,25,26)(H,27,28)(H2,22,23,29)/t14-,15-/m0/s1
+YZE InChIKey         InChI                1.03  CPITYBQMVPBERS-GJZGRUSLSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-YZE acedrg               243         "dictionary generator"                  
-YZE acedrg_database      11          "data source"                           
-YZE rdkit                2017.03.2   "Chemoinformatics tool"
-YZE refmac5              5.8.0238    "optimization tool"                     
+YZE acedrg          243       "dictionary generator"
+YZE acedrg_database 11        "data source"
+YZE rdkit           2017.03.2 "Chemoinformatics tool"
+YZE refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+YZE M-peptide O8   O
+YZE M-peptide C7   C
+YZE M-peptide C6   CA
+YZE M-peptide N10  N
+YZE M-peptide C11  CN
+YZE M-peptide O9   OXT
+YZE M-peptide HN10 H

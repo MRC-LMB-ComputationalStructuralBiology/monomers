@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-MTX     MTX      METHOTREXATE     NON-POLYMER     53     33     .     
-#
+MTX MTX METHOTREXATE NON-POLYMER 53 33 .
+
 data_comp_MTX
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,59 +19,60 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-MTX     N1      N       NRD6    0       16.909      64.861      44.134      
-MTX     C2      C       CR6     0       15.909      65.752      44.348      
-MTX     NA2     N       NH2     0       14.654      65.315      44.225      
-MTX     N3      N       NRD6    0       16.091      67.055      44.677      
-MTX     C4      C       CR6     0       17.338      67.529      44.808      
-MTX     NA4     N       NH2     0       17.515      68.819      45.133      
-MTX     C4A     C       CR66    0       18.454      66.653      44.599      
-MTX     N5      N       NRD6    0       19.746      67.098      44.731      
-MTX     C6      C       CR6     0       20.728      66.241      44.522      
-MTX     C7      C       CR16    0       20.456      64.891      44.176      
-MTX     N8      N       NRD6    0       19.221      64.430      44.048      
-MTX     C8A     C       CR66    0       18.195      65.307      44.258      
-MTX     C9      C       CH2     0       22.147      66.748      44.650      
-MTX     N10     N       N       0       22.606      67.506      43.480      
-MTX     CM      C       CH3     0       23.937      67.233      42.973      
-MTX     C11     C       CR6     0       20.006      70.306      41.724      
-MTX     C12     C       CR16    0       20.281      69.101      41.082      
-MTX     C13     C       CR16    0       21.145      68.181      41.646      
-MTX     C14     C       CR6     0       21.777      68.445      42.881      
-MTX     C15     C       CR16    0       21.456      69.653      43.538      
-MTX     C16     C       CR16    0       20.591      70.564      42.962      
-MTX     C       C       C       0       19.042      71.288      41.124      
-MTX     O       O       O       0       19.299      71.861      40.065      
-MTX     N       N       NH1     0       17.872      71.412      41.768      
-MTX     CA      C       CH1     0       16.682      72.034      41.200      
-MTX     CT      C       C       0       16.657      73.543      41.507      
-MTX     O1      O       O       0       16.969      73.901      42.661      
-MTX     O2      O       OC      -1      16.319      74.306      40.581      
-MTX     CB      C       CH2     0       15.411      71.347      41.719      
-MTX     CG      C       CH2     0       15.381      69.841      41.491      
-MTX     CD      C       C       0       15.342      69.409      40.035      
-MTX     OE1     O       O       0       16.400      69.008      39.509      
-MTX     OE2     O       OC      -1      14.254      69.475      39.429      
-MTX     HN21    H       H       0       14.067      65.792      43.781      
-MTX     HN22    H       H       0       14.420      64.552      44.588      
-MTX     HN41    H       H       0       18.181      69.052      45.658      
-MTX     HN42    H       H       0       16.964      69.430      44.819      
-MTX     H7      H       H       0       21.176      64.298      44.033      
-MTX     H91     H       H       0       22.744      65.983      44.794      
-MTX     H92     H       H       0       22.206      67.324      45.442      
-MTX     HM1     H       H       0       24.074      67.706      42.135      
-MTX     HM2     H       H       0       24.037      66.279      42.824      
-MTX     HM3     H       H       0       24.597      67.529      43.621      
-MTX     H12     H       H       0       19.884      68.912      40.250      
-MTX     H13     H       H       0       21.329      67.374      41.196      
-MTX     H15     H       H       0       21.851      69.845      44.371      
-MTX     H16     H       H       0       20.404      71.370      43.410      
-MTX     HN      H       H       0       17.806      71.113      42.587      
-MTX     HA      H       H       0       16.711      71.921      40.216      
-MTX     HB1     H       H       0       14.636      71.750      41.276      
-MTX     HB2     H       H       0       15.333      71.522      42.680      
-MTX     HG1     H       H       0       14.589      69.473      41.939      
-MTX     HG2     H       H       0       16.167      69.435      41.913      
+MTX N1   N NRD6 0  16.909 64.861 44.134
+MTX C2   C CR6  0  15.909 65.752 44.348
+MTX NA2  N NH2  0  14.654 65.315 44.225
+MTX N3   N NRD6 0  16.091 67.055 44.677
+MTX C4   C CR6  0  17.338 67.529 44.808
+MTX NA4  N NH2  0  17.515 68.819 45.133
+MTX C4A  C CR66 0  18.454 66.653 44.599
+MTX N5   N NRD6 0  19.746 67.098 44.731
+MTX C6   C CR6  0  20.728 66.241 44.522
+MTX C7   C CR16 0  20.456 64.891 44.176
+MTX N8   N NRD6 0  19.221 64.430 44.048
+MTX C8A  C CR66 0  18.195 65.307 44.258
+MTX C9   C CH2  0  22.147 66.748 44.650
+MTX N10  N N    0  22.606 67.506 43.480
+MTX CM   C CH3  0  23.937 67.233 42.973
+MTX C11  C CR6  0  20.006 70.306 41.724
+MTX C12  C CR16 0  20.281 69.101 41.082
+MTX C13  C CR16 0  21.145 68.181 41.646
+MTX C14  C CR6  0  21.777 68.445 42.881
+MTX C15  C CR16 0  21.456 69.653 43.538
+MTX C16  C CR16 0  20.591 70.564 42.962
+MTX C    C C    0  19.042 71.288 41.124
+MTX O    O O    0  19.299 71.861 40.065
+MTX N    N NH1  0  17.872 71.412 41.768
+MTX CA   C CH1  0  16.682 72.034 41.200
+MTX CT   C C    0  16.657 73.543 41.507
+MTX O1   O O    0  16.969 73.901 42.661
+MTX O2   O OC   -1 16.319 74.306 40.581
+MTX CB   C CH2  0  15.411 71.347 41.719
+MTX CG   C CH2  0  15.381 69.841 41.491
+MTX CD   C C    0  15.342 69.409 40.035
+MTX OE1  O O    0  16.400 69.008 39.509
+MTX OE2  O OC   -1 14.254 69.475 39.429
+MTX HN21 H H    0  14.067 65.792 43.781
+MTX HN22 H H    0  14.420 64.552 44.588
+MTX HN41 H H    0  18.181 69.052 45.658
+MTX HN42 H H    0  16.964 69.430 44.819
+MTX H7   H H    0  21.176 64.298 44.033
+MTX H91  H H    0  22.744 65.983 44.794
+MTX H92  H H    0  22.206 67.324 45.442
+MTX HM1  H H    0  24.074 67.706 42.135
+MTX HM2  H H    0  24.037 66.279 42.824
+MTX HM3  H H    0  24.597 67.529 43.621
+MTX H12  H H    0  19.884 68.912 40.250
+MTX H13  H H    0  21.329 67.374 41.196
+MTX H15  H H    0  21.851 69.845 44.371
+MTX H16  H H    0  20.404 71.370 43.410
+MTX HN   H H    0  17.806 71.113 42.587
+MTX HA   H H    0  16.711 71.921 40.216
+MTX HB1  H H    0  14.636 71.750 41.276
+MTX HB2  H H    0  15.333 71.522 42.680
+MTX HG1  H H    0  14.589 69.473 41.939
+MTX HG2  H H    0  16.167 69.435 41.913
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -84,61 +83,62 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-MTX          N1          C2      DOUBLE       y     1.349  0.0118     1.349  0.0118
-MTX          N1         C8A      SINGLE       y     1.364  0.0100     1.364  0.0100
-MTX          C2         NA2      SINGLE       n     1.335  0.0101     1.335  0.0101
-MTX          C2          N3      SINGLE       y     1.348  0.0113     1.348  0.0113
-MTX          N3          C4      DOUBLE       y     1.335  0.0100     1.335  0.0100
-MTX          C4         NA4      SINGLE       n     1.341  0.0100     1.341  0.0100
-MTX          C4         C4A      SINGLE       y     1.420  0.0200     1.420  0.0200
-MTX         C4A          N5      SINGLE       y     1.370  0.0100     1.370  0.0100
-MTX         C4A         C8A      DOUBLE       y     1.410  0.0100     1.410  0.0100
-MTX          N5          C6      DOUBLE       y     1.315  0.0100     1.315  0.0100
-MTX          C6          C7      SINGLE       y     1.410  0.0142     1.410  0.0142
-MTX          C6          C9      SINGLE       n     1.509  0.0100     1.509  0.0100
-MTX          C7          N8      DOUBLE       y     1.319  0.0100     1.319  0.0100
-MTX          N8         C8A      SINGLE       y     1.362  0.0100     1.362  0.0100
-MTX          C9         N10      SINGLE       n     1.461  0.0124     1.461  0.0124
-MTX         N10          CM      SINGLE       n     1.448  0.0100     1.448  0.0100
-MTX         N10         C14      SINGLE       n     1.387  0.0137     1.387  0.0137
-MTX         C11         C12      DOUBLE       y     1.390  0.0100     1.390  0.0100
-MTX         C11         C16      SINGLE       y     1.390  0.0100     1.390  0.0100
-MTX         C11           C      SINGLE       n     1.502  0.0100     1.502  0.0100
-MTX         C12         C13      SINGLE       y     1.379  0.0100     1.379  0.0100
-MTX         C13         C14      DOUBLE       y     1.409  0.0111     1.409  0.0111
-MTX         C14         C15      SINGLE       y     1.409  0.0111     1.409  0.0111
-MTX         C15         C16      DOUBLE       y     1.379  0.0100     1.379  0.0100
-MTX           C           O      DOUBLE       n     1.230  0.0114     1.230  0.0114
-MTX           C           N      SINGLE       n     1.337  0.0101     1.337  0.0101
-MTX           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-MTX          CA          CT      SINGLE       n     1.539  0.0100     1.539  0.0100
-MTX          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-MTX          CT          O1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-MTX          CT          O2      SINGLE       n     1.247  0.0187     1.247  0.0187
-MTX          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-MTX          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
-MTX          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-MTX          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
-MTX         NA2        HN21      SINGLE       n     1.016  0.0100     0.877  0.0200
-MTX         NA2        HN22      SINGLE       n     1.016  0.0100     0.877  0.0200
-MTX         NA4        HN41      SINGLE       n     1.016  0.0100     0.880  0.0200
-MTX         NA4        HN42      SINGLE       n     1.016  0.0100     0.880  0.0200
-MTX          C7          H7      SINGLE       n     1.082  0.0130     0.944  0.0200
-MTX          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0101
-MTX          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0101
-MTX          CM         HM1      SINGLE       n     1.089  0.0100     0.971  0.0181
-MTX          CM         HM2      SINGLE       n     1.089  0.0100     0.971  0.0181
-MTX          CM         HM3      SINGLE       n     1.089  0.0100     0.971  0.0181
-MTX         C12         H12      SINGLE       n     1.082  0.0130     0.941  0.0168
-MTX         C13         H13      SINGLE       n     1.082  0.0130     0.942  0.0198
-MTX         C15         H15      SINGLE       n     1.082  0.0130     0.942  0.0198
-MTX         C16         H16      SINGLE       n     1.082  0.0130     0.941  0.0168
-MTX           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
-MTX          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-MTX          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0178
-MTX          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0178
-MTX          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0185
-MTX          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0185
+MTX N1  C2   DOUBLE y 1.349 0.0118 1.349 0.0118
+MTX N1  C8A  SINGLE y 1.364 0.0100 1.364 0.0100
+MTX C2  NA2  SINGLE n 1.335 0.0101 1.335 0.0101
+MTX C2  N3   SINGLE y 1.348 0.0113 1.348 0.0113
+MTX N3  C4   DOUBLE y 1.335 0.0100 1.335 0.0100
+MTX C4  NA4  SINGLE n 1.341 0.0100 1.341 0.0100
+MTX C4  C4A  SINGLE y 1.420 0.0200 1.420 0.0200
+MTX C4A N5   SINGLE y 1.370 0.0100 1.370 0.0100
+MTX C4A C8A  DOUBLE y 1.410 0.0100 1.410 0.0100
+MTX N5  C6   DOUBLE y 1.315 0.0100 1.315 0.0100
+MTX C6  C7   SINGLE y 1.410 0.0142 1.410 0.0142
+MTX C6  C9   SINGLE n 1.509 0.0100 1.509 0.0100
+MTX C7  N8   DOUBLE y 1.319 0.0100 1.319 0.0100
+MTX N8  C8A  SINGLE y 1.362 0.0100 1.362 0.0100
+MTX C9  N10  SINGLE n 1.461 0.0124 1.461 0.0124
+MTX N10 CM   SINGLE n 1.448 0.0100 1.448 0.0100
+MTX N10 C14  SINGLE n 1.387 0.0137 1.387 0.0137
+MTX C11 C12  DOUBLE y 1.390 0.0100 1.390 0.0100
+MTX C11 C16  SINGLE y 1.390 0.0100 1.390 0.0100
+MTX C11 C    SINGLE n 1.502 0.0100 1.502 0.0100
+MTX C12 C13  SINGLE y 1.379 0.0100 1.379 0.0100
+MTX C13 C14  DOUBLE y 1.409 0.0111 1.409 0.0111
+MTX C14 C15  SINGLE y 1.409 0.0111 1.409 0.0111
+MTX C15 C16  DOUBLE y 1.379 0.0100 1.379 0.0100
+MTX C   O    DOUBLE n 1.230 0.0114 1.230 0.0114
+MTX C   N    SINGLE n 1.337 0.0101 1.337 0.0101
+MTX N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
+MTX CA  CT   SINGLE n 1.539 0.0100 1.539 0.0100
+MTX CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
+MTX CT  O1   DOUBLE n 1.247 0.0187 1.247 0.0187
+MTX CT  O2   SINGLE n 1.247 0.0187 1.247 0.0187
+MTX CB  CG   SINGLE n 1.518 0.0153 1.518 0.0153
+MTX CG  CD   SINGLE n 1.519 0.0109 1.519 0.0109
+MTX CD  OE1  DOUBLE n 1.247 0.0187 1.247 0.0187
+MTX CD  OE2  SINGLE n 1.247 0.0187 1.247 0.0187
+MTX NA2 HN21 SINGLE n 1.016 0.0100 0.877 0.0200
+MTX NA2 HN22 SINGLE n 1.016 0.0100 0.877 0.0200
+MTX NA4 HN41 SINGLE n 1.016 0.0100 0.880 0.0200
+MTX NA4 HN42 SINGLE n 1.016 0.0100 0.880 0.0200
+MTX C7  H7   SINGLE n 1.082 0.0130 0.944 0.0200
+MTX C9  H91  SINGLE n 1.089 0.0100 0.981 0.0101
+MTX C9  H92  SINGLE n 1.089 0.0100 0.981 0.0101
+MTX CM  HM1  SINGLE n 1.089 0.0100 0.971 0.0181
+MTX CM  HM2  SINGLE n 1.089 0.0100 0.971 0.0181
+MTX CM  HM3  SINGLE n 1.089 0.0100 0.971 0.0181
+MTX C12 H12  SINGLE n 1.082 0.0130 0.941 0.0168
+MTX C13 H13  SINGLE n 1.082 0.0130 0.942 0.0198
+MTX C15 H15  SINGLE n 1.082 0.0130 0.942 0.0198
+MTX C16 H16  SINGLE n 1.082 0.0130 0.941 0.0168
+MTX N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
+MTX CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
+MTX CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0178
+MTX CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0178
+MTX CG  HG1  SINGLE n 1.089 0.0100 0.981 0.0185
+MTX CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0185
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -146,97 +146,98 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-MTX          C2          N1         C8A     117.729    1.50
-MTX          N1          C2         NA2     117.847    1.50
-MTX          N1          C2          N3     124.310    1.50
-MTX         NA2          C2          N3     117.843    1.50
-MTX          C2         NA2        HN21     119.843    1.50
-MTX          C2         NA2        HN22     119.843    1.50
-MTX        HN21         NA2        HN22     120.314    1.96
-MTX          C2          N3          C4     118.040    1.50
-MTX          N3          C4         NA4     119.336    1.50
-MTX          N3          C4         C4A     119.854    1.50
-MTX         NA4          C4         C4A     120.810    2.28
-MTX          C4         NA4        HN41     119.904    1.50
-MTX          C4         NA4        HN42     119.904    1.50
-MTX        HN41         NA4        HN42     120.193    1.50
-MTX          C4         C4A          N5     119.974    1.50
-MTX          C4         C4A         C8A     119.153    1.50
-MTX          N5         C4A         C8A     120.874    1.50
-MTX         C4A          N5          C6     118.081    1.50
-MTX          N5          C6          C7     121.047    1.50
-MTX          N5          C6          C9     117.726    1.50
-MTX          C7          C6          C9     121.228    1.56
-MTX          C6          C7          N8     121.921    1.50
-MTX          C6          C7          H7     119.362    1.50
-MTX          N8          C7          H7     118.717    1.50
-MTX          C7          N8         C8A     117.033    1.50
-MTX          N1         C8A         C4A     120.914    1.50
-MTX          N1         C8A          N8     118.042    1.50
-MTX         C4A         C8A          N8     121.044    1.50
-MTX          C6          C9         N10     112.551    2.18
-MTX          C6          C9         H91     108.707    1.50
-MTX          C6          C9         H92     108.707    1.50
-MTX         N10          C9         H91     108.670    1.50
-MTX         N10          C9         H92     108.670    1.50
-MTX         H91          C9         H92     107.525    1.50
-MTX          C9         N10          CM     117.461    1.50
-MTX          C9         N10         C14     121.386    1.50
-MTX          CM         N10         C14     121.153    1.50
-MTX         N10          CM         HM1     109.457    1.50
-MTX         N10          CM         HM2     109.457    1.50
-MTX         N10          CM         HM3     109.457    1.50
-MTX         HM1          CM         HM2     109.352    1.56
-MTX         HM1          CM         HM3     109.352    1.56
-MTX         HM2          CM         HM3     109.352    1.56
-MTX         C12         C11         C16     118.909    1.50
-MTX         C12         C11           C     120.546    2.80
-MTX         C16         C11           C     120.546    2.80
-MTX         C11         C12         C13     120.730    1.50
-MTX         C11         C12         H12     119.851    1.50
-MTX         C13         C12         H12     119.420    1.50
-MTX         C12         C13         C14     120.965    1.50
-MTX         C12         C13         H13     119.753    1.50
-MTX         C14         C13         H13     119.282    1.50
-MTX         N10         C14         C13     121.149    1.50
-MTX         N10         C14         C15     121.149    1.50
-MTX         C13         C14         C15     117.702    1.50
-MTX         C14         C15         C16     120.965    1.50
-MTX         C14         C15         H15     119.282    1.50
-MTX         C16         C15         H15     119.753    1.50
-MTX         C11         C16         C15     120.730    1.50
-MTX         C11         C16         H16     119.851    1.50
-MTX         C15         C16         H16     119.420    1.50
-MTX         C11           C           O     120.865    1.50
-MTX         C11           C           N     116.740    1.50
-MTX           O           C           N     122.394    1.50
-MTX           C           N          CA     122.253    1.50
-MTX           C           N          HN     119.427    1.94
-MTX          CA           N          HN     118.320    2.24
-MTX           N          CA          CT     110.522    1.86
-MTX           N          CA          CB     110.984    1.61
-MTX           N          CA          HA     107.930    1.50
-MTX          CT          CA          CB     111.638    2.31
-MTX          CT          CA          HA     108.327    1.50
-MTX          CB          CA          HA     108.155    1.50
-MTX          CA          CT          O1     117.249    1.61
-MTX          CA          CT          O2     117.249    1.61
-MTX          O1          CT          O2     125.502    1.50
-MTX          CA          CB          CG     112.938    1.50
-MTX          CA          CB         HB1     108.606    1.50
-MTX          CA          CB         HB2     108.606    1.50
-MTX          CG          CB         HB1     108.890    1.50
-MTX          CG          CB         HB2     108.890    1.50
-MTX         HB1          CB         HB2     107.844    1.50
-MTX          CB          CG          CD     114.629    2.24
-MTX          CB          CG         HG1     108.906    1.50
-MTX          CB          CG         HG2     108.906    1.50
-MTX          CD          CG         HG1     108.404    1.50
-MTX          CD          CG         HG2     108.404    1.50
-MTX         HG1          CG         HG2     107.521    1.50
-MTX          CG          CD         OE1     118.214    1.64
-MTX          CG          CD         OE2     118.214    1.64
-MTX         OE1          CD         OE2     123.571    1.50
+MTX C2   N1  C8A  117.729 1.50
+MTX N1   C2  NA2  117.847 1.50
+MTX N1   C2  N3   124.310 1.50
+MTX NA2  C2  N3   117.843 1.50
+MTX C2   NA2 HN21 119.843 1.50
+MTX C2   NA2 HN22 119.843 1.50
+MTX HN21 NA2 HN22 120.314 1.96
+MTX C2   N3  C4   118.040 1.50
+MTX N3   C4  NA4  119.336 1.50
+MTX N3   C4  C4A  119.854 1.50
+MTX NA4  C4  C4A  120.810 2.28
+MTX C4   NA4 HN41 119.904 1.50
+MTX C4   NA4 HN42 119.904 1.50
+MTX HN41 NA4 HN42 120.193 1.50
+MTX C4   C4A N5   119.974 1.50
+MTX C4   C4A C8A  119.153 1.50
+MTX N5   C4A C8A  120.874 1.50
+MTX C4A  N5  C6   118.081 1.50
+MTX N5   C6  C7   121.047 1.50
+MTX N5   C6  C9   117.726 1.50
+MTX C7   C6  C9   121.228 1.56
+MTX C6   C7  N8   121.921 1.50
+MTX C6   C7  H7   119.362 1.50
+MTX N8   C7  H7   118.717 1.50
+MTX C7   N8  C8A  117.033 1.50
+MTX N1   C8A C4A  120.914 1.50
+MTX N1   C8A N8   118.042 1.50
+MTX C4A  C8A N8   121.044 1.50
+MTX C6   C9  N10  112.551 2.18
+MTX C6   C9  H91  108.707 1.50
+MTX C6   C9  H92  108.707 1.50
+MTX N10  C9  H91  108.670 1.50
+MTX N10  C9  H92  108.670 1.50
+MTX H91  C9  H92  107.525 1.50
+MTX C9   N10 CM   117.461 1.50
+MTX C9   N10 C14  121.386 1.50
+MTX CM   N10 C14  121.153 1.50
+MTX N10  CM  HM1  109.457 1.50
+MTX N10  CM  HM2  109.457 1.50
+MTX N10  CM  HM3  109.457 1.50
+MTX HM1  CM  HM2  109.352 1.56
+MTX HM1  CM  HM3  109.352 1.56
+MTX HM2  CM  HM3  109.352 1.56
+MTX C12  C11 C16  118.909 1.50
+MTX C12  C11 C    120.546 2.80
+MTX C16  C11 C    120.546 2.80
+MTX C11  C12 C13  120.730 1.50
+MTX C11  C12 H12  119.851 1.50
+MTX C13  C12 H12  119.420 1.50
+MTX C12  C13 C14  120.965 1.50
+MTX C12  C13 H13  119.753 1.50
+MTX C14  C13 H13  119.282 1.50
+MTX N10  C14 C13  121.149 1.50
+MTX N10  C14 C15  121.149 1.50
+MTX C13  C14 C15  117.702 1.50
+MTX C14  C15 C16  120.965 1.50
+MTX C14  C15 H15  119.282 1.50
+MTX C16  C15 H15  119.753 1.50
+MTX C11  C16 C15  120.730 1.50
+MTX C11  C16 H16  119.851 1.50
+MTX C15  C16 H16  119.420 1.50
+MTX C11  C   O    120.865 1.50
+MTX C11  C   N    116.740 1.50
+MTX O    C   N    122.394 1.50
+MTX C    N   CA   122.253 1.50
+MTX C    N   HN   119.427 1.94
+MTX CA   N   HN   118.320 2.24
+MTX N    CA  CT   110.522 1.86
+MTX N    CA  CB   110.984 1.61
+MTX N    CA  HA   107.930 1.50
+MTX CT   CA  CB   111.638 2.31
+MTX CT   CA  HA   108.327 1.50
+MTX CB   CA  HA   108.155 1.50
+MTX CA   CT  O1   117.249 1.61
+MTX CA   CT  O2   117.249 1.61
+MTX O1   CT  O2   125.502 1.50
+MTX CA   CB  CG   112.938 1.50
+MTX CA   CB  HB1  108.606 1.50
+MTX CA   CB  HB2  108.606 1.50
+MTX CG   CB  HB1  108.890 1.50
+MTX CG   CB  HB2  108.890 1.50
+MTX HB1  CB  HB2  107.844 1.50
+MTX CB   CG  CD   114.629 2.24
+MTX CB   CG  HG1  108.906 1.50
+MTX CB   CG  HG2  108.906 1.50
+MTX CD   CG  HG1  108.404 1.50
+MTX CD   CG  HG2  108.404 1.50
+MTX HG1  CG  HG2  107.521 1.50
+MTX CG   CD  OE1  118.214 1.64
+MTX CG   CD  OE2  118.214 1.64
+MTX OE1  CD  OE2  123.571 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -247,36 +248,37 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-MTX              const_22         NA2          C2          N1         C8A     180.000    10.0     2
-MTX              const_47         C4A         C8A          N1          C2       0.000    10.0     2
-MTX              const_46          N1         C8A          N8          C7     180.000    10.0     2
-MTX             sp2_sp3_8          CM         N10          C9          C6     120.000    10.0     6
-MTX            sp2_sp3_13          C9         N10          CM         HM1       0.000    10.0     6
-MTX             sp2_sp2_9         C13         C14         N10          C9     180.000     5.0     2
-MTX       const_sp2_sp2_3           C         C11         C12         C13     180.000     5.0     2
-MTX              const_51           C         C11         C16         C15     180.000    10.0     2
-MTX            sp2_sp2_15           O           C         C11         C12       0.000     5.0     2
-MTX       const_sp2_sp2_5         C11         C12         C13         C14       0.000     5.0     2
-MTX              const_10         C12         C13         C14         N10     180.000    10.0     2
-MTX              const_15         N10         C14         C15         C16     180.000    10.0     2
-MTX              const_17         C14         C15         C16         C11       0.000    10.0     2
-MTX             sp2_sp2_1          N1          C2         NA2        HN21     180.000     5.0     2
-MTX              const_24         NA2          C2          N3          C4     180.000    10.0     2
-MTX            sp2_sp2_19           O           C           N          CA       0.000     5.0     2
-MTX            sp2_sp3_19           C           N          CA          CT       0.000    10.0     6
-MTX            sp2_sp3_25          O1          CT          CA           N       0.000    10.0     6
-MTX             sp3_sp3_1           N          CA          CB          CG     180.000    10.0     3
-MTX            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-MTX            sp2_sp3_32         OE1          CD          CG          CB     120.000    10.0     6
-MTX              const_26         NA4          C4          N3          C2     180.000    10.0     2
-MTX             sp2_sp2_7          N3          C4         NA4        HN41       0.000     5.0     2
-MTX              const_30         NA4          C4         C4A          N5       0.000    10.0     2
-MTX              const_31          C4         C4A         C8A          N1       0.000    10.0     2
-MTX              const_36          C4         C4A          N5          C6     180.000    10.0     2
-MTX              const_38          C9          C6          N5         C4A     180.000    10.0     2
-MTX             sp2_sp3_2          N5          C6          C9         N10     -90.000    10.0     6
-MTX              const_41          C9          C6          C7          N8     180.000    10.0     2
-MTX              const_43          C6          C7          N8         C8A       0.000    10.0     2
+MTX const_22        NA2 C2  N1  C8A  180.000 10.0 2
+MTX const_47        C4A C8A N1  C2   0.000   10.0 2
+MTX const_46        N1  C8A N8  C7   180.000 10.0 2
+MTX sp2_sp3_8       CM  N10 C9  C6   120.000 10.0 6
+MTX sp2_sp3_13      C9  N10 CM  HM1  0.000   10.0 6
+MTX sp2_sp2_9       C13 C14 N10 C9   180.000 5.0  2
+MTX const_sp2_sp2_3 C   C11 C12 C13  180.000 5.0  2
+MTX const_51        C   C11 C16 C15  180.000 10.0 2
+MTX sp2_sp2_15      O   C   C11 C12  0.000   5.0  2
+MTX const_sp2_sp2_5 C11 C12 C13 C14  0.000   5.0  2
+MTX const_10        C12 C13 C14 N10  180.000 10.0 2
+MTX const_15        N10 C14 C15 C16  180.000 10.0 2
+MTX const_17        C14 C15 C16 C11  0.000   10.0 2
+MTX sp2_sp2_1       N1  C2  NA2 HN21 180.000 5.0  2
+MTX const_24        NA2 C2  N3  C4   180.000 10.0 2
+MTX sp2_sp2_19      O   C   N   CA   0.000   5.0  2
+MTX sp2_sp3_19      C   N   CA  CT   0.000   10.0 6
+MTX sp2_sp3_25      O1  CT  CA  N    0.000   10.0 6
+MTX sp3_sp3_1       N   CA  CB  CG   180.000 10.0 3
+MTX sp3_sp3_10      CA  CB  CG  CD   180.000 10.0 3
+MTX sp2_sp3_32      OE1 CD  CG  CB   120.000 10.0 6
+MTX const_26        NA4 C4  N3  C2   180.000 10.0 2
+MTX sp2_sp2_7       N3  C4  NA4 HN41 0.000   5.0  2
+MTX const_30        NA4 C4  C4A N5   0.000   10.0 2
+MTX const_31        C4  C4A C8A N1   0.000   10.0 2
+MTX const_36        C4  C4A N5  C6   180.000 10.0 2
+MTX const_38        C9  C6  N5  C4A  180.000 10.0 2
+MTX sp2_sp3_2       N5  C6  C9  N10  -90.000 10.0 6
+MTX const_41        C9  C6  C7  N8   180.000 10.0 2
+MTX const_43        C6  C7  N8  C8A  0.000   10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -285,85 +287,99 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-MTX    chir_1    CA    N    CT    CB    positive
+MTX chir_1 CA N CT CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-MTX    plan-1          C2   0.020
-MTX    plan-1          C4   0.020
-MTX    plan-1         C4A   0.020
-MTX    plan-1          C6   0.020
-MTX    plan-1          C7   0.020
-MTX    plan-1         C8A   0.020
-MTX    plan-1          C9   0.020
-MTX    plan-1          H7   0.020
-MTX    plan-1          N1   0.020
-MTX    plan-1          N3   0.020
-MTX    plan-1          N5   0.020
-MTX    plan-1          N8   0.020
-MTX    plan-1         NA2   0.020
-MTX    plan-1         NA4   0.020
-MTX    plan-2           C   0.020
-MTX    plan-2         C11   0.020
-MTX    plan-2         C12   0.020
-MTX    plan-2         C13   0.020
-MTX    plan-2         C14   0.020
-MTX    plan-2         C15   0.020
-MTX    plan-2         C16   0.020
-MTX    plan-2         H12   0.020
-MTX    plan-2         H13   0.020
-MTX    plan-2         H15   0.020
-MTX    plan-2         H16   0.020
-MTX    plan-2         N10   0.020
-MTX    plan-3          C2   0.020
-MTX    plan-3        HN21   0.020
-MTX    plan-3        HN22   0.020
-MTX    plan-3         NA2   0.020
-MTX    plan-4          C4   0.020
-MTX    plan-4        HN41   0.020
-MTX    plan-4        HN42   0.020
-MTX    plan-4         NA4   0.020
-MTX    plan-5         C14   0.020
-MTX    plan-5          C9   0.020
-MTX    plan-5          CM   0.020
-MTX    plan-5         N10   0.020
-MTX    plan-6           C   0.020
-MTX    plan-6         C11   0.020
-MTX    plan-6           N   0.020
-MTX    plan-6           O   0.020
-MTX    plan-7           C   0.020
-MTX    plan-7          CA   0.020
-MTX    plan-7          HN   0.020
-MTX    plan-7           N   0.020
-MTX    plan-8          CA   0.020
-MTX    plan-8          CT   0.020
-MTX    plan-8          O1   0.020
-MTX    plan-8          O2   0.020
-MTX    plan-9          CD   0.020
-MTX    plan-9          CG   0.020
-MTX    plan-9         OE1   0.020
-MTX    plan-9         OE2   0.020
+MTX plan-1 C2   0.020
+MTX plan-1 C4   0.020
+MTX plan-1 C4A  0.020
+MTX plan-1 C6   0.020
+MTX plan-1 C7   0.020
+MTX plan-1 C8A  0.020
+MTX plan-1 C9   0.020
+MTX plan-1 H7   0.020
+MTX plan-1 N1   0.020
+MTX plan-1 N3   0.020
+MTX plan-1 N5   0.020
+MTX plan-1 N8   0.020
+MTX plan-1 NA2  0.020
+MTX plan-1 NA4  0.020
+MTX plan-2 C    0.020
+MTX plan-2 C11  0.020
+MTX plan-2 C12  0.020
+MTX plan-2 C13  0.020
+MTX plan-2 C14  0.020
+MTX plan-2 C15  0.020
+MTX plan-2 C16  0.020
+MTX plan-2 H12  0.020
+MTX plan-2 H13  0.020
+MTX plan-2 H15  0.020
+MTX plan-2 H16  0.020
+MTX plan-2 N10  0.020
+MTX plan-3 C2   0.020
+MTX plan-3 HN21 0.020
+MTX plan-3 HN22 0.020
+MTX plan-3 NA2  0.020
+MTX plan-4 C4   0.020
+MTX plan-4 HN41 0.020
+MTX plan-4 HN42 0.020
+MTX plan-4 NA4  0.020
+MTX plan-5 C14  0.020
+MTX plan-5 C9   0.020
+MTX plan-5 CM   0.020
+MTX plan-5 N10  0.020
+MTX plan-6 C    0.020
+MTX plan-6 C11  0.020
+MTX plan-6 N    0.020
+MTX plan-6 O    0.020
+MTX plan-7 C    0.020
+MTX plan-7 CA   0.020
+MTX plan-7 HN   0.020
+MTX plan-7 N    0.020
+MTX plan-8 CA   0.020
+MTX plan-8 CT   0.020
+MTX plan-8 O1   0.020
+MTX plan-8 O2   0.020
+MTX plan-9 CD   0.020
+MTX plan-9 CG   0.020
+MTX plan-9 OE1  0.020
+MTX plan-9 OE2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-MTX           SMILES              ACDLabs 10.04                                                                                                                                               O=C(O)C(NC(=O)c1ccc(cc1)N(C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
-MTX SMILES_CANONICAL               CACTVS 3.341                                                                                                                                          CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
-MTX           SMILES               CACTVS 3.341                                                                                                                                            CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O
-MTX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                        CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
-MTX           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                             CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O
-MTX            InChI                InChI  1.03 InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m0/s1
-MTX         InChIKey                InChI  1.03                                                                                                                                                                              FBOZXECLQNJBKD-ZDUSSCGKSA-N
+MTX SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)c1ccc(cc1)N(C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
+MTX SMILES_CANONICAL CACTVS               3.341 CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+MTX SMILES           CACTVS               3.341 CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O
+MTX SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+MTX SMILES           "OpenEye OEToolkits" 1.5.0 CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O
+MTX InChI            InChI                1.03  InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m0/s1
+MTX InChIKey         InChI                1.03  FBOZXECLQNJBKD-ZDUSSCGKSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-MTX acedrg               243         "dictionary generator"                  
-MTX acedrg_database      11          "data source"                           
-MTX rdkit                2017.03.2   "Chemoinformatics tool"
-MTX refmac5              5.8.0238    "optimization tool"                     
+MTX acedrg          243       "dictionary generator"
+MTX acedrg_database 11        "data source"
+MTX rdkit           2017.03.2 "Chemoinformatics tool"
+MTX refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+MTX M-peptide O1 O
+MTX M-peptide CT C
+MTX M-peptide C  CN
+MTX M-peptide O2 OXT
+MTX M-peptide HN H

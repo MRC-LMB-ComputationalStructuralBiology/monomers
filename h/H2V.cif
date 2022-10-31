@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-H2V     H2V      "S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] aminoethanethioate"     NON-POLYMER     50     26     .     
-#
+H2V H2V "S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] aminoethanethioate" NON-POLYMER 50 26 .
+
 data_comp_H2V
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,56 +19,57 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-H2V     C       C       CH3     0       93.501      35.920      9.450       
-H2V     N       N       NH1     0       89.018      37.196      9.394       
-H2V     O       O       O2      0       92.019      33.851      7.869       
-H2V     P       P       P       0       91.842      32.747      6.706       
-H2V     S       S       S2      0       86.877      36.459      16.095      
-H2V     C1      C       CT      0       92.154      36.130      8.746       
-H2V     N1      N       NH1     0       87.265      35.972      12.060      
-H2V     O1      O       OP      -1      91.904      31.400      7.402       
-H2V     C2      C       CH3     0       92.083      37.600      8.314       
-H2V     N2      N       NT2     0       84.816      39.859      16.932      
-H2V     O2      O       O       0       90.489      33.023      6.077       
-H2V     C3      C       CH2     0       92.114      35.254      7.492       
-H2V     O3      O       OP      -1      92.995      32.968      5.746       
-H2V     C4      C       CH1     0       91.016      35.836      9.743       
-H2V     O4      O       OH1     0       91.132      34.511      10.251      
-H2V     C5      C       C       0       89.614      36.027      9.177       
-H2V     O5      O       O       0       89.089      35.115      8.539       
-H2V     C6      C       CH2     0       87.646      37.490      8.993       
-H2V     O6      O       O       0       86.538      38.085      11.787      
-H2V     C7      C       CH2     0       86.621      36.738      9.822       
-H2V     O7      O       O       0       86.690      38.138      18.092      
-H2V     C8      C       C       0       86.792      36.980      11.309      
-H2V     C9      C       CH2     0       87.622      36.099      13.466      
-H2V     C10     C       CH2     0       86.414      36.149      14.372      
-H2V     C11     C       C       0       86.364      37.913      16.952      
-H2V     C12     C       CH2     0       85.485      38.825      16.133      
-H2V     H       H       H       0       93.513      36.421      10.284      
-H2V     HA      H       H       0       94.222      36.233      8.876       
-H2V     HB      H       H       0       93.633      34.975      9.640       
-H2V     HN      H       H       0       89.466      37.831      9.789       
-H2V     HN1     H       H       0       87.363      35.191      11.685      
-H2V     H2      H       H       0       91.967      38.166      9.097       
-H2V     H2A     H       H       0       91.332      37.731      7.709       
-H2V     H2B     H       H       0       92.906      37.848      7.858       
-H2V     HN2     H       H       0       84.266      40.238      16.325      
-H2V     H24     H       H       0       85.486      40.442      17.087      
-H2V     H3      H       H       0       91.347      35.501      6.939       
-H2V     H3A     H       H       0       92.926      35.400      6.968       
-H2V     H4      H       H       0       91.127      36.459      10.502      
-H2V     HO4     H       H       0       90.729      34.465      10.996      
-H2V     H6      H       H       0       87.529      37.255      8.049       
-H2V     H6A     H       H       0       87.486      38.452      9.086       
-H2V     H7      H       H       0       86.694      35.785      9.638       
-H2V     H7A     H       H       0       85.727      37.018      9.559       
-H2V     H9      H       H       0       88.151      36.915      13.592      
-H2V     H9A     H       H       0       88.181      35.335      13.723      
-H2V     H10     H       H       0       85.812      36.855      14.067      
-H2V     H10A    H       H       0       85.935      35.298      14.316      
-H2V     H12     H       H       0       86.029      39.254      15.453      
-H2V     H26     H       H       0       84.812      38.289      15.685      
+H2V C    C CH3 0  93.501 35.920 9.450
+H2V N    N NH1 0  89.018 37.196 9.394
+H2V O    O O2  0  92.019 33.851 7.869
+H2V P    P P   0  91.842 32.747 6.706
+H2V S    S S2  0  86.877 36.459 16.095
+H2V C1   C CT  0  92.154 36.130 8.746
+H2V N1   N NH1 0  87.265 35.972 12.060
+H2V O1   O OP  -1 91.904 31.400 7.402
+H2V C2   C CH3 0  92.083 37.600 8.314
+H2V N2   N NT2 0  84.816 39.859 16.932
+H2V O2   O O   0  90.489 33.023 6.077
+H2V C3   C CH2 0  92.114 35.254 7.492
+H2V O3   O OP  -1 92.995 32.968 5.746
+H2V C4   C CH1 0  91.016 35.836 9.743
+H2V O4   O OH1 0  91.132 34.511 10.251
+H2V C5   C C   0  89.614 36.027 9.177
+H2V O5   O O   0  89.089 35.115 8.539
+H2V C6   C CH2 0  87.646 37.490 8.993
+H2V O6   O O   0  86.538 38.085 11.787
+H2V C7   C CH2 0  86.621 36.738 9.822
+H2V O7   O O   0  86.690 38.138 18.092
+H2V C8   C C   0  86.792 36.980 11.309
+H2V C9   C CH2 0  87.622 36.099 13.466
+H2V C10  C CH2 0  86.414 36.149 14.372
+H2V C11  C C   0  86.364 37.913 16.952
+H2V C12  C CH2 0  85.485 38.825 16.133
+H2V H    H H   0  93.513 36.421 10.284
+H2V HA   H H   0  94.222 36.233 8.876
+H2V HB   H H   0  93.633 34.975 9.640
+H2V HN   H H   0  89.466 37.831 9.789
+H2V HN1  H H   0  87.363 35.191 11.685
+H2V H2   H H   0  91.967 38.166 9.097
+H2V H2A  H H   0  91.332 37.731 7.709
+H2V H2B  H H   0  92.906 37.848 7.858
+H2V HN2  H H   0  84.266 40.238 16.325
+H2V H24  H H   0  85.486 40.442 17.087
+H2V H3   H H   0  91.347 35.501 6.939
+H2V H3A  H H   0  92.926 35.400 6.968
+H2V H4   H H   0  91.127 36.459 10.502
+H2V HO4  H H   0  90.729 34.465 10.996
+H2V H6   H H   0  87.529 37.255 8.049
+H2V H6A  H H   0  87.486 38.452 9.086
+H2V H7   H H   0  86.694 35.785 9.638
+H2V H7A  H H   0  85.727 37.018 9.559
+H2V H9   H H   0  88.151 36.915 13.592
+H2V H9A  H H   0  88.181 35.335 13.723
+H2V H10  H H   0  85.812 36.855 14.067
+H2V H10A H H   0  85.935 35.298 14.316
+H2V H12  H H   0  86.029 39.254 15.453
+H2V H26  H H   0  84.812 38.289 15.685
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -81,55 +80,56 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-H2V           N          C6      SINGLE       n     1.457  0.0100     1.457  0.0100
-H2V           O          C3      SINGLE       n     1.454  0.0165     1.454  0.0165
-H2V           O           P      SINGLE       n     1.614  0.0178     1.614  0.0178
-H2V           P          O1      SINGLE       n     1.517  0.0192     1.517  0.0192
-H2V           P          O3      SINGLE       n     1.517  0.0192     1.517  0.0192
-H2V           C          C1      SINGLE       n     1.531  0.0109     1.531  0.0109
-H2V          C1          C2      SINGLE       n     1.531  0.0109     1.531  0.0109
-H2V          C1          C4      SINGLE       n     1.532  0.0112     1.532  0.0112
-H2V          N1          C9      SINGLE       n     1.455  0.0100     1.455  0.0100
-H2V           P          O2      DOUBLE       n     1.517  0.0192     1.517  0.0192
-H2V          C1          C3      SINGLE       n     1.526  0.0108     1.526  0.0108
-H2V          C4          O4      SINGLE       n     1.419  0.0162     1.419  0.0162
-H2V           N          C5      SINGLE       n     1.326  0.0100     1.326  0.0100
-H2V          C4          C5      SINGLE       n     1.519  0.0108     1.519  0.0108
-H2V          C5          O5      DOUBLE       n     1.229  0.0102     1.229  0.0102
-H2V          C6          C7      SINGLE       n     1.513  0.0195     1.513  0.0195
-H2V          O6          C8      DOUBLE       n     1.229  0.0102     1.229  0.0102
-H2V          C7          C8      SINGLE       n     1.514  0.0100     1.514  0.0100
-H2V          O7         C11      DOUBLE       n     1.207  0.0100     1.207  0.0100
-H2V          N1          C8      SINGLE       n     1.337  0.0118     1.337  0.0118
-H2V           S         C10      SINGLE       n     1.809  0.0191     1.809  0.0191
-H2V          C9         C10      SINGLE       n     1.510  0.0158     1.510  0.0158
-H2V           S         C11      SINGLE       n     1.762  0.0200     1.762  0.0200
-H2V         C11         C12      SINGLE       n     1.507  0.0121     1.507  0.0121
-H2V          N2         C12      SINGLE       n     1.467  0.0144     1.467  0.0144
-H2V           C           H      SINGLE       n     1.089  0.0100     0.973  0.0146
-H2V           C          HA      SINGLE       n     1.089  0.0100     0.973  0.0146
-H2V           C          HB      SINGLE       n     1.089  0.0100     0.973  0.0146
-H2V           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
-H2V          N1         HN1      SINGLE       n     1.016  0.0100     0.872  0.0200
-H2V          C2          H2      SINGLE       n     1.089  0.0100     0.973  0.0146
-H2V          C2         H2A      SINGLE       n     1.089  0.0100     0.973  0.0146
-H2V          C2         H2B      SINGLE       n     1.089  0.0100     0.973  0.0146
-H2V          N2         HN2      SINGLE       n     1.036  0.0160     0.902  0.0200
-H2V          N2         H24      SINGLE       n     1.036  0.0160     0.902  0.0200
-H2V          C3          H3      SINGLE       n     1.089  0.0100     0.978  0.0102
-H2V          C3         H3A      SINGLE       n     1.089  0.0100     0.978  0.0102
-H2V          C4          H4      SINGLE       n     1.089  0.0100     0.988  0.0129
-H2V          O4         HO4      SINGLE       n     0.970  0.0120     0.848  0.0200
-H2V          C6          H6      SINGLE       n     1.089  0.0100     0.980  0.0159
-H2V          C6         H6A      SINGLE       n     1.089  0.0100     0.980  0.0159
-H2V          C7          H7      SINGLE       n     1.089  0.0100     0.973  0.0156
-H2V          C7         H7A      SINGLE       n     1.089  0.0100     0.973  0.0156
-H2V          C9          H9      SINGLE       n     1.089  0.0100     0.981  0.0127
-H2V          C9         H9A      SINGLE       n     1.089  0.0100     0.981  0.0127
-H2V         C10         H10      SINGLE       n     1.089  0.0100     0.978  0.0177
-H2V         C10        H10A      SINGLE       n     1.089  0.0100     0.978  0.0177
-H2V         C12         H12      SINGLE       n     1.089  0.0100     0.971  0.0200
-H2V         C12         H26      SINGLE       n     1.089  0.0100     0.971  0.0200
+H2V N   C6   SINGLE n 1.457 0.0100 1.457 0.0100
+H2V O   C3   SINGLE n 1.454 0.0165 1.454 0.0165
+H2V O   P    SINGLE n 1.614 0.0178 1.614 0.0178
+H2V P   O1   SINGLE n 1.517 0.0192 1.517 0.0192
+H2V P   O3   SINGLE n 1.517 0.0192 1.517 0.0192
+H2V C   C1   SINGLE n 1.531 0.0109 1.531 0.0109
+H2V C1  C2   SINGLE n 1.531 0.0109 1.531 0.0109
+H2V C1  C4   SINGLE n 1.532 0.0112 1.532 0.0112
+H2V N1  C9   SINGLE n 1.455 0.0100 1.455 0.0100
+H2V P   O2   DOUBLE n 1.517 0.0192 1.517 0.0192
+H2V C1  C3   SINGLE n 1.526 0.0108 1.526 0.0108
+H2V C4  O4   SINGLE n 1.419 0.0162 1.419 0.0162
+H2V N   C5   SINGLE n 1.326 0.0100 1.326 0.0100
+H2V C4  C5   SINGLE n 1.519 0.0108 1.519 0.0108
+H2V C5  O5   DOUBLE n 1.229 0.0102 1.229 0.0102
+H2V C6  C7   SINGLE n 1.513 0.0195 1.513 0.0195
+H2V O6  C8   DOUBLE n 1.229 0.0102 1.229 0.0102
+H2V C7  C8   SINGLE n 1.514 0.0100 1.514 0.0100
+H2V O7  C11  DOUBLE n 1.207 0.0100 1.207 0.0100
+H2V N1  C8   SINGLE n 1.337 0.0118 1.337 0.0118
+H2V S   C10  SINGLE n 1.809 0.0191 1.809 0.0191
+H2V C9  C10  SINGLE n 1.510 0.0158 1.510 0.0158
+H2V S   C11  SINGLE n 1.762 0.0200 1.762 0.0200
+H2V C11 C12  SINGLE n 1.507 0.0121 1.507 0.0121
+H2V N2  C12  SINGLE n 1.467 0.0144 1.467 0.0144
+H2V C   H    SINGLE n 1.089 0.0100 0.973 0.0146
+H2V C   HA   SINGLE n 1.089 0.0100 0.973 0.0146
+H2V C   HB   SINGLE n 1.089 0.0100 0.973 0.0146
+H2V N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
+H2V N1  HN1  SINGLE n 1.016 0.0100 0.872 0.0200
+H2V C2  H2   SINGLE n 1.089 0.0100 0.973 0.0146
+H2V C2  H2A  SINGLE n 1.089 0.0100 0.973 0.0146
+H2V C2  H2B  SINGLE n 1.089 0.0100 0.973 0.0146
+H2V N2  HN2  SINGLE n 1.036 0.0160 0.902 0.0200
+H2V N2  H24  SINGLE n 1.036 0.0160 0.902 0.0200
+H2V C3  H3   SINGLE n 1.089 0.0100 0.978 0.0102
+H2V C3  H3A  SINGLE n 1.089 0.0100 0.978 0.0102
+H2V C4  H4   SINGLE n 1.089 0.0100 0.988 0.0129
+H2V O4  HO4  SINGLE n 0.970 0.0120 0.848 0.0200
+H2V C6  H6   SINGLE n 1.089 0.0100 0.980 0.0159
+H2V C6  H6A  SINGLE n 1.089 0.0100 0.980 0.0159
+H2V C7  H7   SINGLE n 1.089 0.0100 0.973 0.0156
+H2V C7  H7A  SINGLE n 1.089 0.0100 0.973 0.0156
+H2V C9  H9   SINGLE n 1.089 0.0100 0.981 0.0127
+H2V C9  H9A  SINGLE n 1.089 0.0100 0.981 0.0127
+H2V C10 H10  SINGLE n 1.089 0.0100 0.978 0.0177
+H2V C10 H10A SINGLE n 1.089 0.0100 0.978 0.0177
+H2V C12 H12  SINGLE n 1.089 0.0100 0.971 0.0200
+H2V C12 H26  SINGLE n 1.089 0.0100 0.971 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -137,93 +137,94 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-H2V          C1           C           H     109.575    1.50
-H2V          C1           C          HA     109.575    1.50
-H2V          C1           C          HB     109.575    1.50
-H2V           H           C          HA     109.377    1.50
-H2V           H           C          HB     109.377    1.50
-H2V          HA           C          HB     109.377    1.50
-H2V          C6           N          C5     122.964    1.80
-H2V          C6           N          HN     118.351    1.90
-H2V          C5           N          HN     118.685    1.94
-H2V          C3           O           P     118.671    1.50
-H2V           O           P          O1     105.795    2.09
-H2V           O           P          O3     105.795    2.09
-H2V           O           P          O2     105.795    2.09
-H2V          O1           P          O3     112.864    1.69
-H2V          O1           P          O2     112.864    1.69
-H2V          O3           P          O2     112.864    1.69
-H2V         C10           S         C11     120.000    3.00
-H2V           C          C1          C2     108.765    1.50
-H2V           C          C1          C4     109.534    1.52
-H2V           C          C1          C3     109.385    1.50
-H2V          C2          C1          C4     109.534    1.52
-H2V          C2          C1          C3     109.385    1.50
-H2V          C4          C1          C3     111.094    2.85
-H2V          C9          N1          C8     123.437    1.80
-H2V          C9          N1         HN1     118.700    1.83
-H2V          C8          N1         HN1     117.862    2.10
-H2V          C1          C2          H2     109.575    1.50
-H2V          C1          C2         H2A     109.575    1.50
-H2V          C1          C2         H2B     109.575    1.50
-H2V          H2          C2         H2A     109.377    1.50
-H2V          H2          C2         H2B     109.377    1.50
-H2V         H2A          C2         H2B     109.377    1.50
-H2V         C12          N2         HN2     102.011    3.00
-H2V         C12          N2         H24     102.011    3.00
-H2V         HN2          N2         H24     107.243    3.00
-H2V           O          C3          C1     108.435    1.69
-H2V           O          C3          H3     109.739    1.50
-H2V           O          C3         H3A     109.739    1.50
-H2V          C1          C3          H3     109.473    1.50
-H2V          C1          C3         H3A     109.473    1.50
-H2V          H3          C3         H3A     108.108    1.50
-H2V          C1          C4          O4     109.482    3.00
-H2V          C1          C4          C5     111.511    2.91
-H2V          C1          C4          H4     107.825    1.50
-H2V          O4          C4          C5     109.850    1.55
-H2V          O4          C4          H4     108.675    1.50
-H2V          C5          C4          H4     108.529    1.70
-H2V          C4          O4         HO4     108.894    3.00
-H2V           N          C5          C4     117.155    1.50
-H2V           N          C5          O5     122.977    1.50
-H2V          C4          C5          O5     119.851    1.78
-H2V           N          C6          C7     112.257    1.50
-H2V           N          C6          H6     108.979    1.50
-H2V           N          C6         H6A     108.979    1.50
-H2V          C7          C6          H6     108.971    1.50
-H2V          C7          C6         H6A     108.971    1.50
-H2V          H6          C6         H6A     107.877    1.50
-H2V          C6          C7          C8     112.120    2.79
-H2V          C6          C7          H7     109.432    1.50
-H2V          C6          C7         H7A     109.432    1.50
-H2V          C8          C7          H7     108.945    1.50
-H2V          C8          C7         H7A     108.945    1.50
-H2V          H7          C7         H7A     107.745    2.07
-H2V          O6          C8          C7     120.987    1.50
-H2V          O6          C8          N1     121.943    1.50
-H2V          C7          C8          N1     117.070    1.96
-H2V          N1          C9         C10     112.117    1.54
-H2V          N1          C9          H9     109.102    1.50
-H2V          N1          C9         H9A     109.102    1.50
-H2V         C10          C9          H9     109.038    1.50
-H2V         C10          C9         H9A     109.038    1.50
-H2V          H9          C9         H9A     107.995    1.50
-H2V           S         C10          C9     112.239    3.00
-H2V           S         C10         H10     109.066    1.50
-H2V           S         C10        H10A     109.066    1.50
-H2V          C9         C10         H10     108.964    1.50
-H2V          C9         C10        H10A     108.964    1.50
-H2V         H10         C10        H10A     107.807    1.50
-H2V          O7         C11           S     122.937    2.65
-H2V          O7         C11         C12     123.745    1.88
-H2V           S         C11         C12     113.318    2.65
-H2V         C11         C12          N2     112.134    2.59
-H2V         C11         C12         H12     108.659    1.50
-H2V         C11         C12         H26     108.659    1.50
-H2V          N2         C12         H12     108.833    1.50
-H2V          N2         C12         H26     108.833    1.50
-H2V         H12         C12         H26     107.908    1.50
+H2V C1  C   H    109.575 1.50
+H2V C1  C   HA   109.575 1.50
+H2V C1  C   HB   109.575 1.50
+H2V H   C   HA   109.377 1.50
+H2V H   C   HB   109.377 1.50
+H2V HA  C   HB   109.377 1.50
+H2V C6  N   C5   122.964 1.80
+H2V C6  N   HN   118.351 1.90
+H2V C5  N   HN   118.685 1.94
+H2V C3  O   P    118.671 1.50
+H2V O   P   O1   105.795 2.09
+H2V O   P   O3   105.795 2.09
+H2V O   P   O2   105.795 2.09
+H2V O1  P   O3   112.864 1.69
+H2V O1  P   O2   112.864 1.69
+H2V O3  P   O2   112.864 1.69
+H2V C10 S   C11  120.000 3.00
+H2V C   C1  C2   108.765 1.50
+H2V C   C1  C4   109.534 1.52
+H2V C   C1  C3   109.385 1.50
+H2V C2  C1  C4   109.534 1.52
+H2V C2  C1  C3   109.385 1.50
+H2V C4  C1  C3   111.094 2.85
+H2V C9  N1  C8   123.437 1.80
+H2V C9  N1  HN1  118.700 1.83
+H2V C8  N1  HN1  117.862 2.10
+H2V C1  C2  H2   109.575 1.50
+H2V C1  C2  H2A  109.575 1.50
+H2V C1  C2  H2B  109.575 1.50
+H2V H2  C2  H2A  109.377 1.50
+H2V H2  C2  H2B  109.377 1.50
+H2V H2A C2  H2B  109.377 1.50
+H2V C12 N2  HN2  102.011 3.00
+H2V C12 N2  H24  102.011 3.00
+H2V HN2 N2  H24  107.243 3.00
+H2V O   C3  C1   108.435 1.69
+H2V O   C3  H3   109.739 1.50
+H2V O   C3  H3A  109.739 1.50
+H2V C1  C3  H3   109.473 1.50
+H2V C1  C3  H3A  109.473 1.50
+H2V H3  C3  H3A  108.108 1.50
+H2V C1  C4  O4   109.482 3.00
+H2V C1  C4  C5   111.511 2.91
+H2V C1  C4  H4   107.825 1.50
+H2V O4  C4  C5   109.850 1.55
+H2V O4  C4  H4   108.675 1.50
+H2V C5  C4  H4   108.529 1.70
+H2V C4  O4  HO4  108.894 3.00
+H2V N   C5  C4   117.155 1.50
+H2V N   C5  O5   122.977 1.50
+H2V C4  C5  O5   119.851 1.78
+H2V N   C6  C7   112.257 1.50
+H2V N   C6  H6   108.979 1.50
+H2V N   C6  H6A  108.979 1.50
+H2V C7  C6  H6   108.971 1.50
+H2V C7  C6  H6A  108.971 1.50
+H2V H6  C6  H6A  107.877 1.50
+H2V C6  C7  C8   112.120 2.79
+H2V C6  C7  H7   109.432 1.50
+H2V C6  C7  H7A  109.432 1.50
+H2V C8  C7  H7   108.945 1.50
+H2V C8  C7  H7A  108.945 1.50
+H2V H7  C7  H7A  107.745 2.07
+H2V O6  C8  C7   120.987 1.50
+H2V O6  C8  N1   121.943 1.50
+H2V C7  C8  N1   117.070 1.96
+H2V N1  C9  C10  112.117 1.54
+H2V N1  C9  H9   109.102 1.50
+H2V N1  C9  H9A  109.102 1.50
+H2V C10 C9  H9   109.038 1.50
+H2V C10 C9  H9A  109.038 1.50
+H2V H9  C9  H9A  107.995 1.50
+H2V S   C10 C9   112.239 3.00
+H2V S   C10 H10  109.066 1.50
+H2V S   C10 H10A 109.066 1.50
+H2V C9  C10 H10  108.964 1.50
+H2V C9  C10 H10A 108.964 1.50
+H2V H10 C10 H10A 107.807 1.50
+H2V O7  C11 S    122.937 2.65
+H2V O7  C11 C12  123.745 1.88
+H2V S   C11 C12  113.318 2.65
+H2V C11 C12 N2   112.134 2.59
+H2V C11 C12 H12  108.659 1.50
+H2V C11 C12 H26  108.659 1.50
+H2V N2  C12 H12  108.833 1.50
+H2V N2  C12 H26  108.833 1.50
+H2V H12 C12 H26  107.908 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -234,25 +235,26 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-H2V             sp3_sp3_9           H           C          C1          C2      60.000    10.0     3
-H2V            sp3_sp3_43          C1          C4          O4         HO4     180.000    10.0     3
-H2V            sp2_sp3_13           N          C5          C4          C1       0.000    10.0     6
-H2V            sp3_sp3_46           N          C6          C7          C8     180.000    10.0     3
-H2V            sp2_sp3_20          O6          C8          C7          C6     120.000    10.0     6
-H2V             sp2_sp2_1          C4          C5           N          C6     180.000     5.0     2
-H2V             sp2_sp3_2          C5           N          C6          C7     120.000    10.0     6
-H2V            sp3_sp3_58           S         C10          C9          N1     180.000    10.0     3
-H2V            sp2_sp3_26          O7         C11         C12          N2     120.000    10.0     6
-H2V             sp3_sp3_1          C1          C3           O           P     180.000    10.0     3
-H2V             sp3_sp3_5          C3           O           P          O1     -60.000    10.0     3
-H2V            sp3_sp3_55          C9         C10           S         C11     180.000    10.0     3
-H2V             sp2_sp2_9          O7         C11           S         C10     180.000     5.0     2
-H2V            sp3_sp3_37           C          C1          C3           O      60.000    10.0     3
-H2V            sp3_sp3_25           C          C1          C4          O4     180.000    10.0     3
-H2V            sp3_sp3_22           C          C1          C2          H2     -60.000    10.0     3
-H2V             sp2_sp2_7          O6          C8          N1          C9       0.000     5.0     2
-H2V             sp2_sp3_8          C8          N1          C9         C10     120.000    10.0     6
-H2V            sp3_sp3_67         C11         C12          N2         HN2     180.000    10.0     3
+H2V sp3_sp3_9  H   C   C1  C2  60.000  10.0 3
+H2V sp3_sp3_43 C1  C4  O4  HO4 180.000 10.0 3
+H2V sp2_sp3_13 N   C5  C4  C1  0.000   10.0 6
+H2V sp3_sp3_46 N   C6  C7  C8  180.000 10.0 3
+H2V sp2_sp3_20 O6  C8  C7  C6  120.000 10.0 6
+H2V sp2_sp2_1  C4  C5  N   C6  180.000 5.0  2
+H2V sp2_sp3_2  C5  N   C6  C7  120.000 10.0 6
+H2V sp3_sp3_58 S   C10 C9  N1  180.000 10.0 3
+H2V sp2_sp3_26 O7  C11 C12 N2  120.000 10.0 6
+H2V sp3_sp3_1  C1  C3  O   P   180.000 10.0 3
+H2V sp3_sp3_5  C3  O   P   O1  -60.000 10.0 3
+H2V sp3_sp3_55 C9  C10 S   C11 180.000 10.0 3
+H2V sp2_sp2_9  O7  C11 S   C10 180.000 5.0  2
+H2V sp3_sp3_37 C   C1  C3  O   60.000  10.0 3
+H2V sp3_sp3_25 C   C1  C4  O4  180.000 10.0 3
+H2V sp3_sp3_22 C   C1  C2  H2  -60.000 10.0 3
+H2V sp2_sp2_7  O6  C8  N1  C9  0.000   5.0  2
+H2V sp2_sp3_8  C8  N1  C9  C10 120.000 10.0 6
+H2V sp3_sp3_67 C11 C12 N2  HN2 180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -261,53 +263,71 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-H2V    chir_1    P    O    O1    O3    both
-H2V    chir_2    C1    C4    C3    C    both
-H2V    chir_3    C4    O4    C5    C1    positive
+H2V chir_1 P  O  O1 O3 both
+H2V chir_2 C1 C4 C3 C  both
+H2V chir_3 C4 O4 C5 C1 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-H2V    plan-1          C5   0.020
-H2V    plan-1          C6   0.020
-H2V    plan-1          HN   0.020
-H2V    plan-1           N   0.020
-H2V    plan-2          C8   0.020
-H2V    plan-2          C9   0.020
-H2V    plan-2         HN1   0.020
-H2V    plan-2          N1   0.020
-H2V    plan-3          C4   0.020
-H2V    plan-3          C5   0.020
-H2V    plan-3           N   0.020
-H2V    plan-3          O5   0.020
-H2V    plan-4          C7   0.020
-H2V    plan-4          C8   0.020
-H2V    plan-4          N1   0.020
-H2V    plan-4          O6   0.020
-H2V    plan-5         C11   0.020
-H2V    plan-5         C12   0.020
-H2V    plan-5          O7   0.020
-H2V    plan-5           S   0.020
+H2V plan-1 C5  0.020
+H2V plan-1 C6  0.020
+H2V plan-1 HN  0.020
+H2V plan-1 N   0.020
+H2V plan-2 C8  0.020
+H2V plan-2 C9  0.020
+H2V plan-2 HN1 0.020
+H2V plan-2 N1  0.020
+H2V plan-3 C4  0.020
+H2V plan-3 C5  0.020
+H2V plan-3 N   0.020
+H2V plan-3 O5  0.020
+H2V plan-4 C7  0.020
+H2V plan-4 C8  0.020
+H2V plan-4 N1  0.020
+H2V plan-4 O6  0.020
+H2V plan-5 C11 0.020
+H2V plan-5 C12 0.020
+H2V plan-5 O7  0.020
+H2V plan-5 S   0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-H2V           SMILES              ACDLabs 12.01                                                                                                                O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O)CN
-H2V            InChI                InChI  1.03 InChI=1S/C13H26N3O8PS/c1-13(2,8-24-25(21,22)23)11(19)12(20)16-4-3-9(17)15-5-6-26-10(18)7-14/h11,19H,3-8,14H2,1-2H3,(H,15,17)(H,16,20)(H2,21,22,23)/t11-/m1/s1
-H2V         InChIKey                InChI  1.03                                                                                                                                   CGYKHWUDQZHKBD-LLVKDONJSA-N
-H2V SMILES_CANONICAL               CACTVS 3.370                                                                                                          CC(C)(CO[P](O)(O)=O)[C@H](O)C(=O)NCCC(=O)NCCSC(=O)CN
-H2V           SMILES               CACTVS 3.370                                                                                                           CC(C)(CO[P](O)(O)=O)[CH](O)C(=O)NCCC(=O)NCCSC(=O)CN
-H2V SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CN)O
-H2V           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CN)O
+H2V SMILES           ACDLabs              12.01 O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O)CN
+H2V InChI            InChI                1.03  InChI=1S/C13H26N3O8PS/c1-13(2,8-24-25(21,22)23)11(19)12(20)16-4-3-9(17)15-5-6-26-10(18)7-14/h11,19H,3-8,14H2,1-2H3,(H,15,17)(H,16,20)(H2,21,22,23)/t11-/m1/s1
+H2V InChIKey         InChI                1.03  CGYKHWUDQZHKBD-LLVKDONJSA-N
+H2V SMILES_CANONICAL CACTVS               3.370 CC(C)(CO[P](O)(O)=O)[C@H](O)C(=O)NCCC(=O)NCCSC(=O)CN
+H2V SMILES           CACTVS               3.370 CC(C)(CO[P](O)(O)=O)[CH](O)C(=O)NCCC(=O)NCCSC(=O)CN
+H2V SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CN)O
+H2V SMILES           "OpenEye OEToolkits" 1.7.6 CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CN)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-H2V acedrg               243         "dictionary generator"                  
-H2V acedrg_database      11          "data source"                           
-H2V rdkit                2017.03.2   "Chemoinformatics tool"
-H2V refmac5              5.8.0238    "optimization tool"                     
+H2V acedrg          243       "dictionary generator"
+H2V acedrg_database 11        "data source"
+H2V rdkit           2017.03.2 "Chemoinformatics tool"
+H2V refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+H2V DNA/RNA O1  OP3
+H2V DNA/RNA O2  OP1
+H2V DNA/RNA O3  OP2
+H2V DNA/RNA O   O5'
+H2V DNA/RNA C3  C5'
+H2V DNA/RNA C1  C4'
+H2V DNA/RNA C4  C3'
+H2V DNA/RNA O4  O3'
+H2V DNA/RNA HO4 HO3'

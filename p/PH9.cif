@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-PH9     PH9      "(2Z)-2-[(1-ADAMANTYLCARBONYL)AMINO]-3-[4-(2-BROMOPHENOXY)PHENYL]PROP-2-ENOIC ACID"     NON-POLYMER     59     32     .     
-#
+PH9 PH9 "(2Z)-2-[(1-ADAMANTYLCARBONYL)AMINO]-3-[4-(2-BROMOPHENOXY)PHENYL]PROP-2-ENOIC ACID" NON-POLYMER 59 32 .
+
 data_comp_PH9
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,65 +19,66 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-PH9     CB2     C       CR6     0       -10.791     55.391      47.881      
-PH9     CB3     C       CR16    0       -11.063     56.746      47.748      
-PH9     CB4     C       CR16    0       -11.981     57.386      48.570      
-PH9     CB6     C       CR6     0       -12.635     56.665      49.549      
-PH9     CB5     C       CR16    0       -12.384     55.314      49.709      
-PH9     CB1     C       CR16    0       -11.462     54.692      48.877      
-PH9     C2      C       CH1     0       -8.319      54.929      47.407      
-PH9     C1      C       CH2     0       -9.785      54.701      46.991      
-PH9     N       N       NH1     0       -8.147      54.774      48.846      
-PH9     C       C       C       0       -7.232      55.460      49.556      
-PH9     CO2     C       C       0       -7.404      53.958      46.638      
-PH9     O       O       O       0       -6.283      56.037      49.017      
-PH9     OC1     O       OC      -1      -6.683      54.443      45.743      
-PH9     OC2     O       O       0       -7.446      52.754      46.961      
-PH9     OAB     O       O2      0       -13.540     57.400      50.315      
-PH9     CA1     C       CR6     0       -14.157     56.952      51.482      
-PH9     CA2     C       CR6     0       -13.746     57.486      52.702      
-PH9     CA3     C       CR16    0       -14.333     57.078      53.890      
-PH9     CA4     C       CR16    0       -15.345     56.133      53.865      
-PH9     CA5     C       CR16    0       -15.762     55.601      52.659      
-PH9     CA6     C       CR16    0       -15.177     56.009      51.465      
-PH9     BRA2    BR      BR      0       -12.367     58.778      52.761      
-PH9     CC4     C       CH2     0       -8.137      57.303      53.417      
-PH9     CC3     C       CH1     0       -6.744      56.694      53.232      
-PH9     CC5     C       CH1     0       -9.183      56.376      52.789      
-PH9     CC2     C       CH2     0       -8.893      56.213      51.284      
-PH9     CC6     C       CH2     0       -6.449      56.534      51.727      
-PH9     CC1     C       CT      0       -7.489      55.601      51.065      
-PH9     C10     C       CH2     0       -9.129      55.003      53.467      
-PH9     CC8     C       CH1     0       -7.733      54.399      53.285      
-PH9     CC9     C       CH2     0       -6.688      55.325      53.916      
-PH9     CC7     C       CH2     0       -7.432      54.232      51.783      
-PH9     HB3     H       H       0       -10.617     57.242      47.082      
-PH9     HB4     H       H       0       -12.154     58.306      48.460      
-PH9     HB5     H       H       0       -12.828     54.814      50.373      
-PH9     HB1     H       H       0       -11.291     53.771      48.989      
-PH9     H2      H       H       0       -8.075      55.854      47.157      
-PH9     H11     H       H       0       -9.904      55.023      46.073      
-PH9     H12     H       H       0       -9.969      53.738      46.995      
-PH9     HN      H       H       0       -8.640      54.182      49.248      
-PH9     HA3     H       H       0       -14.045     57.442      54.704      
-PH9     HA4     H       H       0       -15.746     55.853      54.667      
-PH9     HA5     H       H       0       -16.451     54.958      52.642      
-PH9     HA6     H       H       0       -15.464     55.643      50.647      
-PH9     HC41    H       H       0       -8.327      57.418      54.375      
-PH9     HC42    H       H       0       -8.175      58.187      52.987      
-PH9     HC3     H       H       0       -6.065      57.294      53.638      
-PH9     HC5     H       H       0       -10.087     56.768      52.908      
-PH9     HC21    H       H       0       -9.578      55.631      50.883      
-PH9     HC22    H       H       0       -8.941      57.093      50.842      
-PH9     HC61    H       H       0       -6.474      57.419      51.293      
-PH9     HC62    H       H       0       -5.544      56.159      51.608      
-PH9     H101    H       H       0       -9.804      54.408      53.069      
-PH9     H102    H       H       0       -9.329      55.098      54.426      
-PH9     HC8     H       H       0       -7.697      53.511      53.728      
-PH9     HC91    H       H       0       -6.869      55.425      54.878      
-PH9     HC92    H       H       0       -5.791      54.935      53.810      
-PH9     HC71    H       H       0       -6.536      53.836      51.668      
-PH9     HC72    H       H       0       -8.090      53.618      51.385      
+PH9 CB2  C  CR6  0  -10.791 55.391 47.881
+PH9 CB3  C  CR16 0  -11.063 56.746 47.748
+PH9 CB4  C  CR16 0  -11.981 57.386 48.570
+PH9 CB6  C  CR6  0  -12.635 56.665 49.549
+PH9 CB5  C  CR16 0  -12.384 55.314 49.709
+PH9 CB1  C  CR16 0  -11.462 54.692 48.877
+PH9 C2   C  CH1  0  -8.319  54.929 47.407
+PH9 C1   C  CH2  0  -9.785  54.701 46.991
+PH9 N    N  NH1  0  -8.147  54.774 48.846
+PH9 C    C  C    0  -7.232  55.460 49.556
+PH9 CO2  C  C    0  -7.404  53.958 46.638
+PH9 O    O  O    0  -6.283  56.037 49.017
+PH9 OC1  O  OC   -1 -6.683  54.443 45.743
+PH9 OC2  O  O    0  -7.446  52.754 46.961
+PH9 OAB  O  O2   0  -13.540 57.400 50.315
+PH9 CA1  C  CR6  0  -14.157 56.952 51.482
+PH9 CA2  C  CR6  0  -13.746 57.486 52.702
+PH9 CA3  C  CR16 0  -14.333 57.078 53.890
+PH9 CA4  C  CR16 0  -15.345 56.133 53.865
+PH9 CA5  C  CR16 0  -15.762 55.601 52.659
+PH9 CA6  C  CR16 0  -15.177 56.009 51.465
+PH9 BRA2 BR BR   0  -12.367 58.778 52.761
+PH9 CC4  C  CH2  0  -8.137  57.303 53.417
+PH9 CC3  C  CH1  0  -6.744  56.694 53.232
+PH9 CC5  C  CH1  0  -9.183  56.376 52.789
+PH9 CC2  C  CH2  0  -8.893  56.213 51.284
+PH9 CC6  C  CH2  0  -6.449  56.534 51.727
+PH9 CC1  C  CT   0  -7.489  55.601 51.065
+PH9 C10  C  CH2  0  -9.129  55.003 53.467
+PH9 CC8  C  CH1  0  -7.733  54.399 53.285
+PH9 CC9  C  CH2  0  -6.688  55.325 53.916
+PH9 CC7  C  CH2  0  -7.432  54.232 51.783
+PH9 HB3  H  H    0  -10.617 57.242 47.082
+PH9 HB4  H  H    0  -12.154 58.306 48.460
+PH9 HB5  H  H    0  -12.828 54.814 50.373
+PH9 HB1  H  H    0  -11.291 53.771 48.989
+PH9 H2   H  H    0  -8.075  55.854 47.157
+PH9 H11  H  H    0  -9.904  55.023 46.073
+PH9 H12  H  H    0  -9.969  53.738 46.995
+PH9 HN   H  H    0  -8.640  54.182 49.248
+PH9 HA3  H  H    0  -14.045 57.442 54.704
+PH9 HA4  H  H    0  -15.746 55.853 54.667
+PH9 HA5  H  H    0  -16.451 54.958 52.642
+PH9 HA6  H  H    0  -15.464 55.643 50.647
+PH9 HC41 H  H    0  -8.327  57.418 54.375
+PH9 HC42 H  H    0  -8.175  58.187 52.987
+PH9 HC3  H  H    0  -6.065  57.294 53.638
+PH9 HC5  H  H    0  -10.087 56.768 52.908
+PH9 HC21 H  H    0  -9.578  55.631 50.883
+PH9 HC22 H  H    0  -8.941  57.093 50.842
+PH9 HC61 H  H    0  -6.474  57.419 51.293
+PH9 HC62 H  H    0  -5.544  56.159 51.608
+PH9 H101 H  H    0  -9.804  54.408 53.069
+PH9 H102 H  H    0  -9.329  55.098 54.426
+PH9 HC8  H  H    0  -7.697  53.511 53.728
+PH9 HC91 H  H    0  -6.869  55.425 54.878
+PH9 HC92 H  H    0  -5.791  54.935 53.810
+PH9 HC71 H  H    0  -6.536  53.836 51.668
+PH9 HC72 H  H    0  -8.090  53.618 51.385
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -90,69 +89,70 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-PH9         CB2         CB3      DOUBLE       y     1.385  0.0110     1.385  0.0110
-PH9         CB2         CB1      SINGLE       y     1.385  0.0110     1.385  0.0110
-PH9         CB2          C1      SINGLE       n     1.508  0.0100     1.508  0.0100
-PH9         CB3         CB4      SINGLE       y     1.385  0.0100     1.385  0.0100
-PH9         CB4         CB6      DOUBLE       y     1.377  0.0100     1.377  0.0100
-PH9         CB6         CB5      SINGLE       y     1.377  0.0100     1.377  0.0100
-PH9         CB6         OAB      SINGLE       n     1.390  0.0100     1.390  0.0100
-PH9         CB5         CB1      DOUBLE       y     1.385  0.0100     1.385  0.0100
-PH9          C2          C1      SINGLE       n     1.538  0.0100     1.538  0.0100
-PH9          C2           N      SINGLE       n     1.454  0.0100     1.454  0.0100
-PH9          C2         CO2      SINGLE       n     1.539  0.0100     1.539  0.0100
-PH9           N           C      SINGLE       n     1.339  0.0108     1.339  0.0108
-PH9           C           O      DOUBLE       n     1.233  0.0100     1.233  0.0100
-PH9           C         CC1      SINGLE       n     1.528  0.0120     1.528  0.0120
-PH9         CO2         OC1      SINGLE       n     1.247  0.0187     1.247  0.0187
-PH9         CO2         OC2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-PH9         OAB         CA1      SINGLE       n     1.391  0.0100     1.391  0.0100
-PH9         CA1         CA2      DOUBLE       y     1.388  0.0132     1.388  0.0132
-PH9         CA1         CA6      SINGLE       y     1.384  0.0116     1.384  0.0116
-PH9         CA2         CA3      SINGLE       y     1.383  0.0100     1.383  0.0100
-PH9         CA2        BRA2      SINGLE       n     1.890  0.0100     1.890  0.0100
-PH9         CA3         CA4      DOUBLE       y     1.381  0.0100     1.381  0.0100
-PH9         CA4         CA5      SINGLE       y     1.376  0.0124     1.376  0.0124
-PH9         CA5         CA6      DOUBLE       y     1.387  0.0100     1.387  0.0100
-PH9         CC4         CC3      SINGLE       n     1.529  0.0100     1.529  0.0100
-PH9         CC4         CC5      SINGLE       n     1.529  0.0100     1.529  0.0100
-PH9         CC3         CC6      SINGLE       n     1.536  0.0116     1.536  0.0116
-PH9         CC3         CC9      SINGLE       n     1.529  0.0100     1.529  0.0100
-PH9         CC5         CC2      SINGLE       n     1.536  0.0116     1.536  0.0116
-PH9         CC5         C10      SINGLE       n     1.529  0.0100     1.529  0.0100
-PH9         CC2         CC1      SINGLE       n     1.541  0.0100     1.541  0.0100
-PH9         CC6         CC1      SINGLE       n     1.541  0.0100     1.541  0.0100
-PH9         CC1         CC7      SINGLE       n     1.541  0.0100     1.541  0.0100
-PH9         C10         CC8      SINGLE       n     1.529  0.0100     1.529  0.0100
-PH9         CC8         CC9      SINGLE       n     1.529  0.0100     1.529  0.0100
-PH9         CC8         CC7      SINGLE       n     1.536  0.0116     1.536  0.0116
-PH9         CB3         HB3      SINGLE       n     1.082  0.0130     0.943  0.0173
-PH9         CB4         HB4      SINGLE       n     1.082  0.0130     0.943  0.0169
-PH9         CB5         HB5      SINGLE       n     1.082  0.0130     0.943  0.0169
-PH9         CB1         HB1      SINGLE       n     1.082  0.0130     0.943  0.0173
-PH9          C2          H2      SINGLE       n     1.089  0.0100     0.988  0.0135
-PH9          C1         H11      SINGLE       n     1.089  0.0100     0.980  0.0164
-PH9          C1         H12      SINGLE       n     1.089  0.0100     0.980  0.0164
-PH9           N          HN      SINGLE       n     1.016  0.0100     0.869  0.0200
-PH9         CA3         HA3      SINGLE       n     1.082  0.0130     0.937  0.0101
-PH9         CA4         HA4      SINGLE       n     1.082  0.0130     0.940  0.0105
-PH9         CA5         HA5      SINGLE       n     1.082  0.0130     0.943  0.0183
-PH9         CA6         HA6      SINGLE       n     1.082  0.0130     0.941  0.0112
-PH9         CC4        HC41      SINGLE       n     1.089  0.0100     0.984  0.0144
-PH9         CC4        HC42      SINGLE       n     1.089  0.0100     0.984  0.0144
-PH9         CC3         HC3      SINGLE       n     1.089  0.0100     0.993  0.0134
-PH9         CC5         HC5      SINGLE       n     1.089  0.0100     0.993  0.0134
-PH9         CC2        HC21      SINGLE       n     1.089  0.0100     0.986  0.0200
-PH9         CC2        HC22      SINGLE       n     1.089  0.0100     0.986  0.0200
-PH9         CC6        HC61      SINGLE       n     1.089  0.0100     0.986  0.0200
-PH9         CC6        HC62      SINGLE       n     1.089  0.0100     0.986  0.0200
-PH9         C10        H101      SINGLE       n     1.089  0.0100     0.984  0.0144
-PH9         C10        H102      SINGLE       n     1.089  0.0100     0.984  0.0144
-PH9         CC8         HC8      SINGLE       n     1.089  0.0100     0.993  0.0134
-PH9         CC9        HC91      SINGLE       n     1.089  0.0100     0.984  0.0144
-PH9         CC9        HC92      SINGLE       n     1.089  0.0100     0.984  0.0144
-PH9         CC7        HC71      SINGLE       n     1.089  0.0100     0.986  0.0200
-PH9         CC7        HC72      SINGLE       n     1.089  0.0100     0.986  0.0200
+PH9 CB2 CB3  DOUBLE y 1.385 0.0110 1.385 0.0110
+PH9 CB2 CB1  SINGLE y 1.385 0.0110 1.385 0.0110
+PH9 CB2 C1   SINGLE n 1.508 0.0100 1.508 0.0100
+PH9 CB3 CB4  SINGLE y 1.385 0.0100 1.385 0.0100
+PH9 CB4 CB6  DOUBLE y 1.377 0.0100 1.377 0.0100
+PH9 CB6 CB5  SINGLE y 1.377 0.0100 1.377 0.0100
+PH9 CB6 OAB  SINGLE n 1.390 0.0100 1.390 0.0100
+PH9 CB5 CB1  DOUBLE y 1.385 0.0100 1.385 0.0100
+PH9 C2  C1   SINGLE n 1.538 0.0100 1.538 0.0100
+PH9 C2  N    SINGLE n 1.454 0.0100 1.454 0.0100
+PH9 C2  CO2  SINGLE n 1.539 0.0100 1.539 0.0100
+PH9 N   C    SINGLE n 1.339 0.0108 1.339 0.0108
+PH9 C   O    DOUBLE n 1.233 0.0100 1.233 0.0100
+PH9 C   CC1  SINGLE n 1.528 0.0120 1.528 0.0120
+PH9 CO2 OC1  SINGLE n 1.247 0.0187 1.247 0.0187
+PH9 CO2 OC2  DOUBLE n 1.247 0.0187 1.247 0.0187
+PH9 OAB CA1  SINGLE n 1.391 0.0100 1.391 0.0100
+PH9 CA1 CA2  DOUBLE y 1.388 0.0132 1.388 0.0132
+PH9 CA1 CA6  SINGLE y 1.384 0.0116 1.384 0.0116
+PH9 CA2 CA3  SINGLE y 1.383 0.0100 1.383 0.0100
+PH9 CA2 BRA2 SINGLE n 1.890 0.0100 1.890 0.0100
+PH9 CA3 CA4  DOUBLE y 1.381 0.0100 1.381 0.0100
+PH9 CA4 CA5  SINGLE y 1.376 0.0124 1.376 0.0124
+PH9 CA5 CA6  DOUBLE y 1.387 0.0100 1.387 0.0100
+PH9 CC4 CC3  SINGLE n 1.529 0.0100 1.529 0.0100
+PH9 CC4 CC5  SINGLE n 1.529 0.0100 1.529 0.0100
+PH9 CC3 CC6  SINGLE n 1.536 0.0116 1.536 0.0116
+PH9 CC3 CC9  SINGLE n 1.529 0.0100 1.529 0.0100
+PH9 CC5 CC2  SINGLE n 1.536 0.0116 1.536 0.0116
+PH9 CC5 C10  SINGLE n 1.529 0.0100 1.529 0.0100
+PH9 CC2 CC1  SINGLE n 1.541 0.0100 1.541 0.0100
+PH9 CC6 CC1  SINGLE n 1.541 0.0100 1.541 0.0100
+PH9 CC1 CC7  SINGLE n 1.541 0.0100 1.541 0.0100
+PH9 C10 CC8  SINGLE n 1.529 0.0100 1.529 0.0100
+PH9 CC8 CC9  SINGLE n 1.529 0.0100 1.529 0.0100
+PH9 CC8 CC7  SINGLE n 1.536 0.0116 1.536 0.0116
+PH9 CB3 HB3  SINGLE n 1.082 0.0130 0.943 0.0173
+PH9 CB4 HB4  SINGLE n 1.082 0.0130 0.943 0.0169
+PH9 CB5 HB5  SINGLE n 1.082 0.0130 0.943 0.0169
+PH9 CB1 HB1  SINGLE n 1.082 0.0130 0.943 0.0173
+PH9 C2  H2   SINGLE n 1.089 0.0100 0.988 0.0135
+PH9 C1  H11  SINGLE n 1.089 0.0100 0.980 0.0164
+PH9 C1  H12  SINGLE n 1.089 0.0100 0.980 0.0164
+PH9 N   HN   SINGLE n 1.016 0.0100 0.869 0.0200
+PH9 CA3 HA3  SINGLE n 1.082 0.0130 0.937 0.0101
+PH9 CA4 HA4  SINGLE n 1.082 0.0130 0.940 0.0105
+PH9 CA5 HA5  SINGLE n 1.082 0.0130 0.943 0.0183
+PH9 CA6 HA6  SINGLE n 1.082 0.0130 0.941 0.0112
+PH9 CC4 HC41 SINGLE n 1.089 0.0100 0.984 0.0144
+PH9 CC4 HC42 SINGLE n 1.089 0.0100 0.984 0.0144
+PH9 CC3 HC3  SINGLE n 1.089 0.0100 0.993 0.0134
+PH9 CC5 HC5  SINGLE n 1.089 0.0100 0.993 0.0134
+PH9 CC2 HC21 SINGLE n 1.089 0.0100 0.986 0.0200
+PH9 CC2 HC22 SINGLE n 1.089 0.0100 0.986 0.0200
+PH9 CC6 HC61 SINGLE n 1.089 0.0100 0.986 0.0200
+PH9 CC6 HC62 SINGLE n 1.089 0.0100 0.986 0.0200
+PH9 C10 H101 SINGLE n 1.089 0.0100 0.984 0.0144
+PH9 C10 H102 SINGLE n 1.089 0.0100 0.984 0.0144
+PH9 CC8 HC8  SINGLE n 1.089 0.0100 0.993 0.0134
+PH9 CC9 HC91 SINGLE n 1.089 0.0100 0.984 0.0144
+PH9 CC9 HC92 SINGLE n 1.089 0.0100 0.984 0.0144
+PH9 CC7 HC71 SINGLE n 1.089 0.0100 0.986 0.0200
+PH9 CC7 HC72 SINGLE n 1.089 0.0100 0.986 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -160,124 +160,125 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-PH9         CB3         CB2         CB1     117.815    1.50
-PH9         CB3         CB2          C1     121.092    1.50
-PH9         CB1         CB2          C1     121.092    1.50
-PH9         CB2         CB3         CB4     121.453    1.50
-PH9         CB2         CB3         HB3     119.327    1.50
-PH9         CB4         CB3         HB3     119.220    1.50
-PH9         CB3         CB4         CB6     119.144    1.50
-PH9         CB3         CB4         HB4     120.340    1.50
-PH9         CB6         CB4         HB4     120.516    1.50
-PH9         CB4         CB6         CB5     120.990    1.50
-PH9         CB4         CB6         OAB     119.505    3.00
-PH9         CB5         CB6         OAB     119.505    3.00
-PH9         CB6         CB5         CB1     119.144    1.50
-PH9         CB6         CB5         HB5     120.516    1.50
-PH9         CB1         CB5         HB5     120.340    1.50
-PH9         CB2         CB1         CB5     121.453    1.50
-PH9         CB2         CB1         HB1     119.327    1.50
-PH9         CB5         CB1         HB1     119.220    1.50
-PH9          C1          C2           N     111.151    1.50
-PH9          C1          C2         CO2     108.347    3.00
-PH9          C1          C2          H2     108.204    1.50
-PH9           N          C2         CO2     110.522    1.86
-PH9           N          C2          H2     108.209    1.50
-PH9         CO2          C2          H2     108.456    1.50
-PH9         CB2          C1          C2     113.563    1.55
-PH9         CB2          C1         H11     108.862    1.50
-PH9         CB2          C1         H12     108.862    1.50
-PH9          C2          C1         H11     108.745    1.50
-PH9          C2          C1         H12     108.745    1.50
-PH9         H11          C1         H12     107.782    1.50
-PH9          C2           N           C     122.040    1.50
-PH9          C2           N          HN     118.940    1.91
-PH9           C           N          HN     119.020    2.48
-PH9           N           C           O     122.436    1.55
-PH9           N           C         CC1     116.221    1.50
-PH9           O           C         CC1     121.343    1.50
-PH9          C2         CO2         OC1     117.245    1.50
-PH9          C2         CO2         OC2     117.245    1.50
-PH9         OC1         CO2         OC2     125.509    1.50
-PH9         CB6         OAB         CA1     118.469    2.57
-PH9         OAB         CA1         CA2     117.776    2.49
-PH9         OAB         CA1         CA6     122.596    2.35
-PH9         CA2         CA1         CA6     119.628    1.50
-PH9         CA1         CA2         CA3     121.226    1.50
-PH9         CA1         CA2        BRA2     119.822    1.50
-PH9         CA3         CA2        BRA2     118.952    1.50
-PH9         CA2         CA3         CA4     119.549    1.50
-PH9         CA2         CA3         HA3     120.002    1.50
-PH9         CA4         CA3         HA3     120.449    1.50
-PH9         CA3         CA4         CA5     119.655    1.50
-PH9         CA3         CA4         HA4     120.081    1.50
-PH9         CA5         CA4         HA4     120.264    1.50
-PH9         CA4         CA5         CA6     120.294    1.50
-PH9         CA4         CA5         HA5     120.038    1.50
-PH9         CA6         CA5         HA5     119.669    1.50
-PH9         CA1         CA6         CA5     119.648    1.50
-PH9         CA1         CA6         HA6     120.013    1.50
-PH9         CA5         CA6         HA6     120.339    1.50
-PH9         CC3         CC4         CC5     109.494    1.50
-PH9         CC3         CC4        HC41     109.767    1.50
-PH9         CC3         CC4        HC42     109.767    1.50
-PH9         CC5         CC4        HC41     109.767    1.50
-PH9         CC5         CC4        HC42     109.767    1.50
-PH9        HC41         CC4        HC42     108.211    1.50
-PH9         CC4         CC3         CC6     109.438    1.50
-PH9         CC4         CC3         CC9     109.627    1.50
-PH9         CC4         CC3         HC3     109.490    1.50
-PH9         CC6         CC3         CC9     109.438    1.50
-PH9         CC6         CC3         HC3     109.352    1.50
-PH9         CC9         CC3         HC3     109.490    1.50
-PH9         CC4         CC5         CC2     109.438    1.50
-PH9         CC4         CC5         C10     109.627    1.50
-PH9         CC4         CC5         HC5     109.490    1.50
-PH9         CC2         CC5         C10     109.438    1.50
-PH9         CC2         CC5         HC5     109.352    1.50
-PH9         C10         CC5         HC5     109.490    1.50
-PH9         CC5         CC2         CC1     109.590    1.50
-PH9         CC5         CC2        HC21     109.662    1.50
-PH9         CC5         CC2        HC22     109.662    1.50
-PH9         CC1         CC2        HC21     109.673    1.50
-PH9         CC1         CC2        HC22     109.673    1.50
-PH9        HC21         CC2        HC22     108.213    1.50
-PH9         CC3         CC6         CC1     109.590    1.50
-PH9         CC3         CC6        HC61     109.662    1.50
-PH9         CC3         CC6        HC62     109.662    1.50
-PH9         CC1         CC6        HC61     109.673    1.50
-PH9         CC1         CC6        HC62     109.673    1.50
-PH9        HC61         CC6        HC62     108.213    1.50
-PH9           C         CC1         CC2     110.185    3.00
-PH9           C         CC1         CC6     110.185    3.00
-PH9           C         CC1         CC7     110.185    3.00
-PH9         CC2         CC1         CC6     108.742    1.50
-PH9         CC2         CC1         CC7     108.742    1.50
-PH9         CC6         CC1         CC7     108.742    1.50
-PH9         CC5         C10         CC8     109.494    1.50
-PH9         CC5         C10        H101     109.767    1.50
-PH9         CC5         C10        H102     109.767    1.50
-PH9         CC8         C10        H101     109.767    1.50
-PH9         CC8         C10        H102     109.767    1.50
-PH9        H101         C10        H102     108.211    1.50
-PH9         C10         CC8         CC9     109.627    1.50
-PH9         C10         CC8         CC7     109.438    1.50
-PH9         C10         CC8         HC8     109.490    1.50
-PH9         CC9         CC8         CC7     109.438    1.50
-PH9         CC9         CC8         HC8     109.490    1.50
-PH9         CC7         CC8         HC8     109.352    1.50
-PH9         CC3         CC9         CC8     109.494    1.50
-PH9         CC3         CC9        HC91     109.767    1.50
-PH9         CC3         CC9        HC92     109.767    1.50
-PH9         CC8         CC9        HC91     109.767    1.50
-PH9         CC8         CC9        HC92     109.767    1.50
-PH9        HC91         CC9        HC92     108.211    1.50
-PH9         CC1         CC7         CC8     109.590    1.50
-PH9         CC1         CC7        HC71     109.673    1.50
-PH9         CC1         CC7        HC72     109.673    1.50
-PH9         CC8         CC7        HC71     109.662    1.50
-PH9         CC8         CC7        HC72     109.662    1.50
-PH9        HC71         CC7        HC72     108.213    1.50
+PH9 CB3  CB2 CB1  117.815 1.50
+PH9 CB3  CB2 C1   121.092 1.50
+PH9 CB1  CB2 C1   121.092 1.50
+PH9 CB2  CB3 CB4  121.453 1.50
+PH9 CB2  CB3 HB3  119.327 1.50
+PH9 CB4  CB3 HB3  119.220 1.50
+PH9 CB3  CB4 CB6  119.144 1.50
+PH9 CB3  CB4 HB4  120.340 1.50
+PH9 CB6  CB4 HB4  120.516 1.50
+PH9 CB4  CB6 CB5  120.990 1.50
+PH9 CB4  CB6 OAB  119.505 3.00
+PH9 CB5  CB6 OAB  119.505 3.00
+PH9 CB6  CB5 CB1  119.144 1.50
+PH9 CB6  CB5 HB5  120.516 1.50
+PH9 CB1  CB5 HB5  120.340 1.50
+PH9 CB2  CB1 CB5  121.453 1.50
+PH9 CB2  CB1 HB1  119.327 1.50
+PH9 CB5  CB1 HB1  119.220 1.50
+PH9 C1   C2  N    111.151 1.50
+PH9 C1   C2  CO2  108.347 3.00
+PH9 C1   C2  H2   108.204 1.50
+PH9 N    C2  CO2  110.522 1.86
+PH9 N    C2  H2   108.209 1.50
+PH9 CO2  C2  H2   108.456 1.50
+PH9 CB2  C1  C2   113.563 1.55
+PH9 CB2  C1  H11  108.862 1.50
+PH9 CB2  C1  H12  108.862 1.50
+PH9 C2   C1  H11  108.745 1.50
+PH9 C2   C1  H12  108.745 1.50
+PH9 H11  C1  H12  107.782 1.50
+PH9 C2   N   C    122.040 1.50
+PH9 C2   N   HN   118.940 1.91
+PH9 C    N   HN   119.020 2.48
+PH9 N    C   O    122.436 1.55
+PH9 N    C   CC1  116.221 1.50
+PH9 O    C   CC1  121.343 1.50
+PH9 C2   CO2 OC1  117.245 1.50
+PH9 C2   CO2 OC2  117.245 1.50
+PH9 OC1  CO2 OC2  125.509 1.50
+PH9 CB6  OAB CA1  118.469 2.57
+PH9 OAB  CA1 CA2  117.776 2.49
+PH9 OAB  CA1 CA6  122.596 2.35
+PH9 CA2  CA1 CA6  119.628 1.50
+PH9 CA1  CA2 CA3  121.226 1.50
+PH9 CA1  CA2 BRA2 119.822 1.50
+PH9 CA3  CA2 BRA2 118.952 1.50
+PH9 CA2  CA3 CA4  119.549 1.50
+PH9 CA2  CA3 HA3  120.002 1.50
+PH9 CA4  CA3 HA3  120.449 1.50
+PH9 CA3  CA4 CA5  119.655 1.50
+PH9 CA3  CA4 HA4  120.081 1.50
+PH9 CA5  CA4 HA4  120.264 1.50
+PH9 CA4  CA5 CA6  120.294 1.50
+PH9 CA4  CA5 HA5  120.038 1.50
+PH9 CA6  CA5 HA5  119.669 1.50
+PH9 CA1  CA6 CA5  119.648 1.50
+PH9 CA1  CA6 HA6  120.013 1.50
+PH9 CA5  CA6 HA6  120.339 1.50
+PH9 CC3  CC4 CC5  109.494 1.50
+PH9 CC3  CC4 HC41 109.767 1.50
+PH9 CC3  CC4 HC42 109.767 1.50
+PH9 CC5  CC4 HC41 109.767 1.50
+PH9 CC5  CC4 HC42 109.767 1.50
+PH9 HC41 CC4 HC42 108.211 1.50
+PH9 CC4  CC3 CC6  109.438 1.50
+PH9 CC4  CC3 CC9  109.627 1.50
+PH9 CC4  CC3 HC3  109.490 1.50
+PH9 CC6  CC3 CC9  109.438 1.50
+PH9 CC6  CC3 HC3  109.352 1.50
+PH9 CC9  CC3 HC3  109.490 1.50
+PH9 CC4  CC5 CC2  109.438 1.50
+PH9 CC4  CC5 C10  109.627 1.50
+PH9 CC4  CC5 HC5  109.490 1.50
+PH9 CC2  CC5 C10  109.438 1.50
+PH9 CC2  CC5 HC5  109.352 1.50
+PH9 C10  CC5 HC5  109.490 1.50
+PH9 CC5  CC2 CC1  109.590 1.50
+PH9 CC5  CC2 HC21 109.662 1.50
+PH9 CC5  CC2 HC22 109.662 1.50
+PH9 CC1  CC2 HC21 109.673 1.50
+PH9 CC1  CC2 HC22 109.673 1.50
+PH9 HC21 CC2 HC22 108.213 1.50
+PH9 CC3  CC6 CC1  109.590 1.50
+PH9 CC3  CC6 HC61 109.662 1.50
+PH9 CC3  CC6 HC62 109.662 1.50
+PH9 CC1  CC6 HC61 109.673 1.50
+PH9 CC1  CC6 HC62 109.673 1.50
+PH9 HC61 CC6 HC62 108.213 1.50
+PH9 C    CC1 CC2  110.185 3.00
+PH9 C    CC1 CC6  110.185 3.00
+PH9 C    CC1 CC7  110.185 3.00
+PH9 CC2  CC1 CC6  108.742 1.50
+PH9 CC2  CC1 CC7  108.742 1.50
+PH9 CC6  CC1 CC7  108.742 1.50
+PH9 CC5  C10 CC8  109.494 1.50
+PH9 CC5  C10 H101 109.767 1.50
+PH9 CC5  C10 H102 109.767 1.50
+PH9 CC8  C10 H101 109.767 1.50
+PH9 CC8  C10 H102 109.767 1.50
+PH9 H101 C10 H102 108.211 1.50
+PH9 C10  CC8 CC9  109.627 1.50
+PH9 C10  CC8 CC7  109.438 1.50
+PH9 C10  CC8 HC8  109.490 1.50
+PH9 CC9  CC8 CC7  109.438 1.50
+PH9 CC9  CC8 HC8  109.490 1.50
+PH9 CC7  CC8 HC8  109.352 1.50
+PH9 CC3  CC9 CC8  109.494 1.50
+PH9 CC3  CC9 HC91 109.767 1.50
+PH9 CC3  CC9 HC92 109.767 1.50
+PH9 CC8  CC9 HC91 109.767 1.50
+PH9 CC8  CC9 HC92 109.767 1.50
+PH9 HC91 CC9 HC92 108.211 1.50
+PH9 CC1  CC7 CC8  109.590 1.50
+PH9 CC1  CC7 HC71 109.673 1.50
+PH9 CC1  CC7 HC72 109.673 1.50
+PH9 CC8  CC7 HC71 109.662 1.50
+PH9 CC8  CC7 HC72 109.662 1.50
+PH9 HC71 CC7 HC72 108.213 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -288,38 +289,39 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-PH9              const_23          C1         CB2         CB3         CB4     180.000    10.0     2
-PH9              const_42         CB5         CB1         CB2          C1     180.000    10.0     2
-PH9             sp2_sp3_2         CB3         CB2          C1          C2     -90.000    10.0     6
-PH9             sp2_sp2_7         CA2         CA1         OAB         CB6     180.000     5.0     2
-PH9       const_sp2_sp2_4         OAB         CA1         CA2        BRA2       0.000     5.0     2
-PH9              const_47         OAB         CA1         CA6         CA5     180.000    10.0     2
-PH9       const_sp2_sp2_7        BRA2         CA2         CA3         CA4     180.000     5.0     2
-PH9       const_sp2_sp2_9         CA2         CA3         CA4         CA5       0.000     5.0     2
-PH9              const_13         CA3         CA4         CA5         CA6       0.000    10.0     2
-PH9              const_17         CA4         CA5         CA6         CA1       0.000    10.0     2
-PH9              const_25         CB2         CB3         CB4         CB6       0.000    10.0     2
-PH9            sp3_sp3_46         CC6         CC3         CC4         CC5      60.000    10.0     3
-PH9           sp3_sp3_109         CC3         CC4         CC5         CC2     180.000    10.0     3
-PH9            sp3_sp3_82         CC4         CC3         CC6         CC1     -60.000    10.0     3
-PH9            sp3_sp3_55         CC4         CC3         CC9         CC8     -60.000    10.0     3
-PH9             sp3_sp3_1         CC1         CC2         CC5         CC4      60.000    10.0     3
-PH9            sp3_sp3_73         CC8         C10         CC5         CC4      60.000    10.0     3
-PH9            sp3_sp3_16           C         CC1         CC2         CC5      60.000    10.0     3
-PH9            sp3_sp3_94           C         CC1         CC6         CC3     -60.000    10.0     3
-PH9            sp3_sp3_25           C         CC1         CC7         CC8     180.000    10.0     3
-PH9            sp3_sp3_37         CC5         C10         CC8         CC9      60.000    10.0     3
-PH9            sp3_sp3_64         C10         CC8         CC9         CC3      60.000    10.0     3
-PH9            sp3_sp3_28         CC1         CC7         CC8         C10     -60.000    10.0     3
-PH9              const_30         CB3         CB4         CB6         OAB     180.000    10.0     2
-PH9             sp2_sp2_1         CB4         CB6         OAB         CA1     180.000     5.0     2
-PH9              const_34         CB1         CB5         CB6         OAB     180.000    10.0     2
-PH9              const_37         CB2         CB1         CB5         CB6       0.000    10.0     2
-PH9            sp2_sp3_13         OC1         CO2          C2          C1       0.000    10.0     6
-PH9           sp3_sp3_100         CB2          C1          C2           N     180.000    10.0     3
-PH9             sp2_sp3_7           C           N          C2          C1       0.000    10.0     6
-PH9             sp2_sp2_5           O           C           N          C2       0.000     5.0     2
-PH9            sp2_sp3_20           N           C         CC1         CC2     120.000    10.0     6
+PH9 const_23        C1   CB2 CB3 CB4  180.000 10.0 2
+PH9 const_42        CB5  CB1 CB2 C1   180.000 10.0 2
+PH9 sp2_sp3_2       CB3  CB2 C1  C2   -90.000 10.0 6
+PH9 sp2_sp2_7       CA2  CA1 OAB CB6  180.000 5.0  2
+PH9 const_sp2_sp2_4 OAB  CA1 CA2 BRA2 0.000   5.0  2
+PH9 const_47        OAB  CA1 CA6 CA5  180.000 10.0 2
+PH9 const_sp2_sp2_7 BRA2 CA2 CA3 CA4  180.000 5.0  2
+PH9 const_sp2_sp2_9 CA2  CA3 CA4 CA5  0.000   5.0  2
+PH9 const_13        CA3  CA4 CA5 CA6  0.000   10.0 2
+PH9 const_17        CA4  CA5 CA6 CA1  0.000   10.0 2
+PH9 const_25        CB2  CB3 CB4 CB6  0.000   10.0 2
+PH9 sp3_sp3_46      CC6  CC3 CC4 CC5  60.000  10.0 3
+PH9 sp3_sp3_109     CC3  CC4 CC5 CC2  180.000 10.0 3
+PH9 sp3_sp3_82      CC4  CC3 CC6 CC1  -60.000 10.0 3
+PH9 sp3_sp3_55      CC4  CC3 CC9 CC8  -60.000 10.0 3
+PH9 sp3_sp3_1       CC1  CC2 CC5 CC4  60.000  10.0 3
+PH9 sp3_sp3_73      CC8  C10 CC5 CC4  60.000  10.0 3
+PH9 sp3_sp3_16      C    CC1 CC2 CC5  60.000  10.0 3
+PH9 sp3_sp3_94      C    CC1 CC6 CC3  -60.000 10.0 3
+PH9 sp3_sp3_25      C    CC1 CC7 CC8  180.000 10.0 3
+PH9 sp3_sp3_37      CC5  C10 CC8 CC9  60.000  10.0 3
+PH9 sp3_sp3_64      C10  CC8 CC9 CC3  60.000  10.0 3
+PH9 sp3_sp3_28      CC1  CC7 CC8 C10  -60.000 10.0 3
+PH9 const_30        CB3  CB4 CB6 OAB  180.000 10.0 2
+PH9 sp2_sp2_1       CB4  CB6 OAB CA1  180.000 5.0  2
+PH9 const_34        CB1  CB5 CB6 OAB  180.000 10.0 2
+PH9 const_37        CB2  CB1 CB5 CB6  0.000   10.0 2
+PH9 sp2_sp3_13      OC1  CO2 C2  C1   0.000   10.0 6
+PH9 sp3_sp3_100     CB2  C1  C2  N    180.000 10.0 3
+PH9 sp2_sp3_7       C    N   C2  C1   0.000   10.0 6
+PH9 sp2_sp2_5       O    C   N   C2   0.000   5.0  2
+PH9 sp2_sp3_20      N    C   CC1 CC2  120.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -328,71 +330,86 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-PH9    chir_1    C2    N    CO2    C1    negative
-PH9    chir_2    CC3    CC6    CC4    CC9    both
-PH9    chir_3    CC5    CC2    CC4    C10    both
-PH9    chir_4    CC1    C    CC2    CC6    both
-PH9    chir_5    CC8    CC7    C10    CC9    both
+PH9 chir_1 C2  N   CO2 C1  negative
+PH9 chir_2 CC3 CC6 CC4 CC9 both
+PH9 chir_3 CC5 CC2 CC4 C10 both
+PH9 chir_4 CC1 C   CC2 CC6 both
+PH9 chir_5 CC8 CC7 C10 CC9 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-PH9    plan-1          C1   0.020
-PH9    plan-1         CB1   0.020
-PH9    plan-1         CB2   0.020
-PH9    plan-1         CB3   0.020
-PH9    plan-1         CB4   0.020
-PH9    plan-1         CB5   0.020
-PH9    plan-1         CB6   0.020
-PH9    plan-1         HB1   0.020
-PH9    plan-1         HB3   0.020
-PH9    plan-1         HB4   0.020
-PH9    plan-1         HB5   0.020
-PH9    plan-1         OAB   0.020
-PH9    plan-2        BRA2   0.020
-PH9    plan-2         CA1   0.020
-PH9    plan-2         CA2   0.020
-PH9    plan-2         CA3   0.020
-PH9    plan-2         CA4   0.020
-PH9    plan-2         CA5   0.020
-PH9    plan-2         CA6   0.020
-PH9    plan-2         HA3   0.020
-PH9    plan-2         HA4   0.020
-PH9    plan-2         HA5   0.020
-PH9    plan-2         HA6   0.020
-PH9    plan-2         OAB   0.020
-PH9    plan-3           C   0.020
-PH9    plan-3          C2   0.020
-PH9    plan-3          HN   0.020
-PH9    plan-3           N   0.020
-PH9    plan-4           C   0.020
-PH9    plan-4         CC1   0.020
-PH9    plan-4           N   0.020
-PH9    plan-4           O   0.020
-PH9    plan-5          C2   0.020
-PH9    plan-5         CO2   0.020
-PH9    plan-5         OC1   0.020
-PH9    plan-5         OC2   0.020
+PH9 plan-1 C1   0.020
+PH9 plan-1 CB1  0.020
+PH9 plan-1 CB2  0.020
+PH9 plan-1 CB3  0.020
+PH9 plan-1 CB4  0.020
+PH9 plan-1 CB5  0.020
+PH9 plan-1 CB6  0.020
+PH9 plan-1 HB1  0.020
+PH9 plan-1 HB3  0.020
+PH9 plan-1 HB4  0.020
+PH9 plan-1 HB5  0.020
+PH9 plan-1 OAB  0.020
+PH9 plan-2 BRA2 0.020
+PH9 plan-2 CA1  0.020
+PH9 plan-2 CA2  0.020
+PH9 plan-2 CA3  0.020
+PH9 plan-2 CA4  0.020
+PH9 plan-2 CA5  0.020
+PH9 plan-2 CA6  0.020
+PH9 plan-2 HA3  0.020
+PH9 plan-2 HA4  0.020
+PH9 plan-2 HA5  0.020
+PH9 plan-2 HA6  0.020
+PH9 plan-2 OAB  0.020
+PH9 plan-3 C    0.020
+PH9 plan-3 C2   0.020
+PH9 plan-3 HN   0.020
+PH9 plan-3 N    0.020
+PH9 plan-4 C    0.020
+PH9 plan-4 CC1  0.020
+PH9 plan-4 N    0.020
+PH9 plan-4 O    0.020
+PH9 plan-5 C2   0.020
+PH9 plan-5 CO2  0.020
+PH9 plan-5 OC1  0.020
+PH9 plan-5 OC2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-PH9           SMILES              ACDLabs 10.04                                                                                                                                 Brc5ccccc5Oc1ccc(cc1)CC(C(=O)O)NC(=O)C24CC3CC(CC(C2)C3)C4
-PH9 SMILES_CANONICAL               CACTVS 3.341                                                                                                                            OC(=O)[C@@H](Cc1ccc(Oc2ccccc2Br)cc1)NC(=O)C34CC5CC(CC(C5)C3)C4
-PH9           SMILES               CACTVS 3.341                                                                                                                              OC(=O)[CH](Cc1ccc(Oc2ccccc2Br)cc1)NC(=O)C34CC5CC(CC(C5)C3)C4
-PH9 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                             c1ccc(c(c1)Oc2ccc(cc2)CC(C(=O)O)NC(=O)C34CC5CC(C3)CC(C5)C4)Br
-PH9           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                             c1ccc(c(c1)Oc2ccc(cc2)CC(C(=O)O)NC(=O)C34CC5CC(C3)CC(C5)C4)Br
-PH9            InChI                InChI  1.03 InChI=1S/C26H28BrNO4/c27-21-3-1-2-4-23(21)32-20-7-5-16(6-8-20)12-22(24(29)30)28-25(31)26-13-17-9-18(14-26)11-19(10-17)15-26/h1-8,17-19,22H,9-15H2,(H,28,31)(H,29,30)/t17-,18+,19-,22?,26+
-PH9         InChIKey                InChI  1.03                                                                                                                                                               SJHUUZUNPUEALW-ZDXWGTOVSA-N
+PH9 SMILES           ACDLabs              10.04 Brc5ccccc5Oc1ccc(cc1)CC(C(=O)O)NC(=O)C24CC3CC(CC(C2)C3)C4
+PH9 SMILES_CANONICAL CACTVS               3.341 OC(=O)[C@@H](Cc1ccc(Oc2ccccc2Br)cc1)NC(=O)C34CC5CC(CC(C5)C3)C4
+PH9 SMILES           CACTVS               3.341 OC(=O)[CH](Cc1ccc(Oc2ccccc2Br)cc1)NC(=O)C34CC5CC(CC(C5)C3)C4
+PH9 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1ccc(c(c1)Oc2ccc(cc2)CC(C(=O)O)NC(=O)C34CC5CC(C3)CC(C5)C4)Br
+PH9 SMILES           "OpenEye OEToolkits" 1.5.0 c1ccc(c(c1)Oc2ccc(cc2)CC(C(=O)O)NC(=O)C34CC5CC(C3)CC(C5)C4)Br
+PH9 InChI            InChI                1.03  InChI=1S/C26H28BrNO4/c27-21-3-1-2-4-23(21)32-20-7-5-16(6-8-20)12-22(24(29)30)28-25(31)26-13-17-9-18(14-26)11-19(10-17)15-26/h1-8,17-19,22H,9-15H2,(H,28,31)(H,29,30)/t17-,18+,19-,22?,26+
+PH9 InChIKey         InChI                1.03  SJHUUZUNPUEALW-ZDXWGTOVSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-PH9 acedrg               243         "dictionary generator"                  
-PH9 acedrg_database      11          "data source"                           
-PH9 rdkit                2017.03.2   "Chemoinformatics tool"
-PH9 refmac5              5.8.0238    "optimization tool"                     
+PH9 acedrg          243       "dictionary generator"
+PH9 acedrg_database 11        "data source"
+PH9 rdkit           2017.03.2 "Chemoinformatics tool"
+PH9 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+PH9 M-peptide OC2 O
+PH9 M-peptide CO2 C
+PH9 M-peptide C2  CA
+PH9 M-peptide C   CN
+PH9 M-peptide OC1 OXT
+PH9 M-peptide HN  H

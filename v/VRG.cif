@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-VRG     VRG      "N~2~-acetyl-N~5~-[N-(methylcarbamoyl)carbamimidoyl]-L-ornithyl-N-methyl-L-phenylalanyl-L-aspartic acid"     NON-POLYMER     73     39     .     
-#
+VRG VRG "N~2~-acetyl-N~5~-[N-(methylcarbamoyl)carbamimidoyl]-L-ornithyl-N-methyl-L-phenylalanyl-L-aspartic acid" NON-POLYMER 73 39 .
+
 data_comp_VRG
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,79 +19,80 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-VRG     CBB     C       C       0       96.533      71.299      -7.791      
-VRG     OAE     O       O       0       96.545      70.862      -8.941      
-VRG     CAB     C       CH3     0       97.252      70.588      -6.688      
-VRG     CAA     C       CH3     0       88.801      69.054      -2.179      
-VRG     NAD     N       NH2     1       92.325      72.695      -3.825      
-VRG     OAH     O       O       0       91.060      70.670      -2.462      
-VRG     OAJ     O       O       0       97.142      74.482      -8.750      
-VRG     CAR     C       CH2     0       93.074      73.393      -6.955      
-VRG     CAS     C       CH2     0       92.077      74.293      -6.245      
-VRG     CAT     C       CH2     0       94.152      74.150      -7.719      
-VRG     NAW     N       NH1     0       88.947      70.146      -3.112      
-VRG     NAX     N       NH1     0       91.034      73.515      -5.581      
-VRG     NAY     N       NH1     0       90.165      71.870      -4.191      
-VRG     NAZ     N       NH1     0       95.890      72.428      -7.461      
-VRG     CBD     C       C       0       91.202      72.705      -4.528      
-VRG     CBF     C       C       0       90.087      70.870      -3.202      
-VRG     CBH     C       C       0       96.119      74.054      -9.289      
-VRG     CBK     C       CH1     0       95.151      73.233      -8.425      
-VRG     CAC     C       CH3     0       96.968      74.819      -11.410     
-VRG     NBM     N       N       0       95.845      74.333      -10.599     
-VRG     CBL     C       CH1     0       94.528      74.258      -11.272     
-VRG     CBG     C       C       0       94.530      73.213      -12.415     
-VRG     OAI     O       O       0       94.296      73.538      -13.579     
-VRG     CAV     C       CH2     0       94.003      75.617      -11.759     
-VRG     CBI     C       CR6     0       93.770      76.594      -10.634     
-VRG     CAQ     C       CR16    0       92.509      76.731      -10.063     
-VRG     CAO     C       CR16    0       92.291      77.631      -9.027      
-VRG     CAM     C       CR16    0       93.328      78.405      -8.552      
-VRG     CAN     C       CR16    0       94.583      78.283      -9.108      
-VRG     CAP     C       CR16    0       94.804      77.385      -10.144     
-VRG     N       N       NH1     0       94.811      71.956      -12.039     
-VRG     CA      C       CH1     0       94.862      70.821      -12.955     
-VRG     C       C       C       0       93.518      70.071      -12.965     
-VRG     O       O       O       0       93.047      69.754      -14.075     
-VRG     CB      C       CH2     0       96.002      69.863      -12.624     
-VRG     CG      C       C       0       97.372      70.495      -12.809     
-VRG     OD1     O       O       0       98.074      70.682      -11.794     
-VRG     OD2     O       OC      -1      97.725      70.795      -13.966     
-VRG     OXT     O       OC      -1      92.993      69.827      -11.860     
-VRG     HAB     H       H       0       96.779      70.714      -5.849      
-VRG     HABA    H       H       0       98.153      70.942      -6.605      
-VRG     HABB    H       H       0       97.298      69.639      -6.889      
-VRG     HAA     H       H       0       89.535      68.426      -2.279      
-VRG     HAAA    H       H       0       87.967      68.584      -2.338      
-VRG     HAAB    H       H       0       88.800      69.387      -1.267      
-VRG     HNAD    H       H       0       92.978      73.240      -4.026      
-VRG     H1      H       H       0       92.417      72.140      -3.153      
-VRG     HAR     H       H       0       92.586      72.817      -7.580      
-VRG     HARA    H       H       0       93.503      72.814      -6.291      
-VRG     HAS     H       H       0       91.662      74.893      -6.901      
-VRG     HASA    H       H       0       92.546      74.847      -5.586      
-VRG     HAT     H       H       0       94.638      74.726      -7.093      
-VRG     HATA    H       H       0       93.722      74.725      -8.385      
-VRG     HNAW    H       H       0       88.257      70.347      -3.644      
-VRG     HNAX    H       H       0       90.224      73.596      -5.895      
-VRG     HNAY    H       H       0       89.429      71.968      -4.660      
-VRG     HNAZ    H       H       0       95.923      72.699      -6.630      
-VRG     HBK     H       H       0       94.639      72.613      -9.000      
-VRG     HAC     H       H       0       96.705      74.912      -12.339     
-VRG     HACA    H       H       0       97.707      74.190      -11.356     
-VRG     HACB    H       H       0       97.263      75.683      -11.081     
-VRG     HBL     H       H       0       93.877      73.950      -10.617     
-VRG     HAV     H       H       0       93.155      75.482      -12.233     
-VRG     HAVA    H       H       0       94.637      76.009      -12.394     
-VRG     HAQ     H       H       0       91.795      76.204      -10.383     
-VRG     HAO     H       H       0       91.430      77.711      -8.648      
-VRG     HAM     H       H       0       93.178      79.016      -7.848      
-VRG     HAN     H       H       0       95.295      78.812      -8.785      
-VRG     HAP     H       H       0       95.665      77.308      -10.519     
-VRG     HN      H       H       0       94.971      71.790      -11.198     
-VRG     HA      H       H       0       95.031      71.156      -13.868     
-VRG     HB      H       H       0       95.941      69.078      -13.205     
-VRG     HBA     H       H       0       95.912      69.567      -11.695     
+VRG CBB  C C    0  96.533 71.299 -7.791
+VRG OAE  O O    0  96.545 70.862 -8.941
+VRG CAB  C CH3  0  97.252 70.588 -6.688
+VRG CAA  C CH3  0  88.801 69.054 -2.179
+VRG NAD  N NH2  1  92.325 72.695 -3.825
+VRG OAH  O O    0  91.060 70.670 -2.462
+VRG OAJ  O O    0  97.142 74.482 -8.750
+VRG CAR  C CH2  0  93.074 73.393 -6.955
+VRG CAS  C CH2  0  92.077 74.293 -6.245
+VRG CAT  C CH2  0  94.152 74.150 -7.719
+VRG NAW  N NH1  0  88.947 70.146 -3.112
+VRG NAX  N NH1  0  91.034 73.515 -5.581
+VRG NAY  N NH1  0  90.165 71.870 -4.191
+VRG NAZ  N NH1  0  95.890 72.428 -7.461
+VRG CBD  C C    0  91.202 72.705 -4.528
+VRG CBF  C C    0  90.087 70.870 -3.202
+VRG CBH  C C    0  96.119 74.054 -9.289
+VRG CBK  C CH1  0  95.151 73.233 -8.425
+VRG CAC  C CH3  0  96.968 74.819 -11.410
+VRG NBM  N N    0  95.845 74.333 -10.599
+VRG CBL  C CH1  0  94.528 74.258 -11.272
+VRG CBG  C C    0  94.530 73.213 -12.415
+VRG OAI  O O    0  94.296 73.538 -13.579
+VRG CAV  C CH2  0  94.003 75.617 -11.759
+VRG CBI  C CR6  0  93.770 76.594 -10.634
+VRG CAQ  C CR16 0  92.509 76.731 -10.063
+VRG CAO  C CR16 0  92.291 77.631 -9.027
+VRG CAM  C CR16 0  93.328 78.405 -8.552
+VRG CAN  C CR16 0  94.583 78.283 -9.108
+VRG CAP  C CR16 0  94.804 77.385 -10.144
+VRG N    N NH1  0  94.811 71.956 -12.039
+VRG CA   C CH1  0  94.862 70.821 -12.955
+VRG C    C C    0  93.518 70.071 -12.965
+VRG O    O O    0  93.047 69.754 -14.075
+VRG CB   C CH2  0  96.002 69.863 -12.624
+VRG CG   C C    0  97.372 70.495 -12.809
+VRG OD1  O O    0  98.074 70.682 -11.794
+VRG OD2  O OC   -1 97.725 70.795 -13.966
+VRG OXT  O OC   -1 92.993 69.827 -11.860
+VRG HAB  H H    0  96.779 70.714 -5.849
+VRG HABA H H    0  98.153 70.942 -6.605
+VRG HABB H H    0  97.298 69.639 -6.889
+VRG HAA  H H    0  89.535 68.426 -2.279
+VRG HAAA H H    0  87.967 68.584 -2.338
+VRG HAAB H H    0  88.800 69.387 -1.267
+VRG HNAD H H    0  92.978 73.240 -4.026
+VRG H1   H H    0  92.417 72.140 -3.153
+VRG HAR  H H    0  92.586 72.817 -7.580
+VRG HARA H H    0  93.503 72.814 -6.291
+VRG HAS  H H    0  91.662 74.893 -6.901
+VRG HASA H H    0  92.546 74.847 -5.586
+VRG HAT  H H    0  94.638 74.726 -7.093
+VRG HATA H H    0  93.722 74.725 -8.385
+VRG HNAW H H    0  88.257 70.347 -3.644
+VRG HNAX H H    0  90.224 73.596 -5.895
+VRG HNAY H H    0  89.429 71.968 -4.660
+VRG HNAZ H H    0  95.923 72.699 -6.630
+VRG HBK  H H    0  94.639 72.613 -9.000
+VRG HAC  H H    0  96.705 74.912 -12.339
+VRG HACA H H    0  97.707 74.190 -11.356
+VRG HACB H H    0  97.263 75.683 -11.081
+VRG HBL  H H    0  93.877 73.950 -10.617
+VRG HAV  H H    0  93.155 75.482 -12.233
+VRG HAVA H H    0  94.637 76.009 -12.394
+VRG HAQ  H H    0  91.795 76.204 -10.383
+VRG HAO  H H    0  91.430 77.711 -8.648
+VRG HAM  H H    0  93.178 79.016 -7.848
+VRG HAN  H H    0  95.295 78.812 -8.785
+VRG HAP  H H    0  95.665 77.308 -10.519
+VRG HN   H H    0  94.971 71.790 -11.198
+VRG HA   H H    0  95.031 71.156 -13.868
+VRG HB   H H    0  95.941 69.078 -13.205
+VRG HBA  H H    0  95.912 69.567 -11.695
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -104,79 +103,80 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-VRG         CAA         NAW      SINGLE       n     1.443  0.0100     1.443  0.0100
-VRG         NAW         CBF      SINGLE       n     1.345  0.0158     1.345  0.0158
-VRG         OAH         CBF      DOUBLE       n     1.235  0.0158     1.235  0.0158
-VRG         NAY         CBF      SINGLE       n     1.399  0.0142     1.399  0.0142
-VRG         NAY         CBD      SINGLE       n     1.361  0.0133     1.361  0.0133
-VRG         NAD         CBD      DOUBLE       n     1.318  0.0103     1.318  0.0103
-VRG         NAX         CBD      SINGLE       n     1.331  0.0100     1.331  0.0100
-VRG         CAS         NAX      SINGLE       n     1.456  0.0136     1.456  0.0136
-VRG         CAR         CAS      SINGLE       n     1.517  0.0143     1.517  0.0143
-VRG         CAR         CAT      SINGLE       n     1.522  0.0100     1.522  0.0100
-VRG         CAT         CBK      SINGLE       n     1.528  0.0100     1.528  0.0100
-VRG         NAZ         CBK      SINGLE       n     1.453  0.0100     1.453  0.0100
-VRG         CBH         CBK      SINGLE       n     1.531  0.0100     1.531  0.0100
-VRG         CBB         NAZ      SINGLE       n     1.335  0.0100     1.335  0.0100
-VRG         CBB         CAB      SINGLE       n     1.495  0.0100     1.495  0.0100
-VRG         CBB         OAE      DOUBLE       n     1.229  0.0102     1.229  0.0102
-VRG         OAJ         CBH      DOUBLE       n     1.232  0.0100     1.232  0.0100
-VRG         CBH         NBM      SINGLE       n     1.349  0.0132     1.349  0.0132
-VRG         CAC         NBM      SINGLE       n     1.461  0.0100     1.461  0.0100
-VRG         NBM         CBL      SINGLE       n     1.470  0.0108     1.470  0.0108
-VRG         CBL         CBG      SINGLE       n     1.529  0.0185     1.529  0.0185
-VRG         CBL         CAV      SINGLE       n     1.532  0.0100     1.532  0.0100
-VRG         CBG         OAI      DOUBLE       n     1.229  0.0102     1.229  0.0102
-VRG         CBG           N      SINGLE       n     1.337  0.0100     1.337  0.0100
-VRG           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-VRG          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-VRG          CA          CB      SINGLE       n     1.526  0.0101     1.526  0.0101
-VRG           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-VRG           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-VRG          CB          CG      SINGLE       n     1.519  0.0109     1.519  0.0109
-VRG          CG         OD2      SINGLE       n     1.247  0.0187     1.247  0.0187
-VRG          CG         OD1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-VRG         CAV         CBI      SINGLE       n     1.508  0.0100     1.508  0.0100
-VRG         CBI         CAP      DOUBLE       y     1.385  0.0111     1.385  0.0111
-VRG         CBI         CAQ      SINGLE       y     1.385  0.0111     1.385  0.0111
-VRG         CAN         CAP      SINGLE       y     1.386  0.0100     1.386  0.0100
-VRG         CAM         CAN      DOUBLE       y     1.374  0.0127     1.374  0.0127
-VRG         CAO         CAM      SINGLE       y     1.374  0.0127     1.374  0.0127
-VRG         CAQ         CAO      DOUBLE       y     1.386  0.0100     1.386  0.0100
-VRG         CAB         HAB      SINGLE       n     1.089  0.0100     0.971  0.0140
-VRG         CAB        HABA      SINGLE       n     1.089  0.0100     0.971  0.0140
-VRG         CAB        HABB      SINGLE       n     1.089  0.0100     0.971  0.0140
-VRG         CAA         HAA      SINGLE       n     1.089  0.0100     0.971  0.0198
-VRG         CAA        HAAA      SINGLE       n     1.089  0.0100     0.971  0.0198
-VRG         CAA        HAAB      SINGLE       n     1.089  0.0100     0.971  0.0198
-VRG         NAD        HNAD      SINGLE       n     1.016  0.0100     0.879  0.0200
-VRG         NAD          H1      SINGLE       n     1.016  0.0100     0.879  0.0200
-VRG         CAR         HAR      SINGLE       n     1.089  0.0100     0.981  0.0160
-VRG         CAR        HARA      SINGLE       n     1.089  0.0100     0.981  0.0160
-VRG         CAS         HAS      SINGLE       n     1.089  0.0100     0.981  0.0152
-VRG         CAS        HASA      SINGLE       n     1.089  0.0100     0.981  0.0152
-VRG         CAT         HAT      SINGLE       n     1.089  0.0100     0.980  0.0160
-VRG         CAT        HATA      SINGLE       n     1.089  0.0100     0.980  0.0160
-VRG         NAW        HNAW      SINGLE       n     1.016  0.0100     0.894  0.0200
-VRG         NAX        HNAX      SINGLE       n     1.016  0.0100     0.872  0.0200
-VRG         NAY        HNAY      SINGLE       n     1.016  0.0100     0.878  0.0200
-VRG         NAZ        HNAZ      SINGLE       n     1.016  0.0100     0.873  0.0200
-VRG         CBK         HBK      SINGLE       n     1.089  0.0100     0.991  0.0200
-VRG         CAC         HAC      SINGLE       n     1.089  0.0100     0.971  0.0181
-VRG         CAC        HACA      SINGLE       n     1.089  0.0100     0.971  0.0181
-VRG         CAC        HACB      SINGLE       n     1.089  0.0100     0.971  0.0181
-VRG         CBL         HBL      SINGLE       n     1.089  0.0100     0.980  0.0200
-VRG         CAV         HAV      SINGLE       n     1.089  0.0100     0.980  0.0164
-VRG         CAV        HAVA      SINGLE       n     1.089  0.0100     0.980  0.0164
-VRG         CAQ         HAQ      SINGLE       n     1.082  0.0130     0.944  0.0174
-VRG         CAO         HAO      SINGLE       n     1.082  0.0130     0.944  0.0175
-VRG         CAM         HAM      SINGLE       n     1.082  0.0130     0.944  0.0161
-VRG         CAN         HAN      SINGLE       n     1.082  0.0130     0.944  0.0175
-VRG         CAP         HAP      SINGLE       n     1.082  0.0130     0.944  0.0174
-VRG           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
-VRG          CA          HA      SINGLE       n     1.089  0.0100     0.987  0.0159
-VRG          CB          HB      SINGLE       n     1.089  0.0100     0.979  0.0159
-VRG          CB         HBA      SINGLE       n     1.089  0.0100     0.979  0.0159
+VRG CAA NAW  SINGLE n 1.443 0.0100 1.443 0.0100
+VRG NAW CBF  SINGLE n 1.345 0.0158 1.345 0.0158
+VRG OAH CBF  DOUBLE n 1.235 0.0158 1.235 0.0158
+VRG NAY CBF  SINGLE n 1.399 0.0142 1.399 0.0142
+VRG NAY CBD  SINGLE n 1.361 0.0133 1.361 0.0133
+VRG NAD CBD  DOUBLE n 1.318 0.0103 1.318 0.0103
+VRG NAX CBD  SINGLE n 1.331 0.0100 1.331 0.0100
+VRG CAS NAX  SINGLE n 1.456 0.0136 1.456 0.0136
+VRG CAR CAS  SINGLE n 1.517 0.0143 1.517 0.0143
+VRG CAR CAT  SINGLE n 1.522 0.0100 1.522 0.0100
+VRG CAT CBK  SINGLE n 1.528 0.0100 1.528 0.0100
+VRG NAZ CBK  SINGLE n 1.453 0.0100 1.453 0.0100
+VRG CBH CBK  SINGLE n 1.531 0.0100 1.531 0.0100
+VRG CBB NAZ  SINGLE n 1.335 0.0100 1.335 0.0100
+VRG CBB CAB  SINGLE n 1.495 0.0100 1.495 0.0100
+VRG CBB OAE  DOUBLE n 1.229 0.0102 1.229 0.0102
+VRG OAJ CBH  DOUBLE n 1.232 0.0100 1.232 0.0100
+VRG CBH NBM  SINGLE n 1.349 0.0132 1.349 0.0132
+VRG CAC NBM  SINGLE n 1.461 0.0100 1.461 0.0100
+VRG NBM CBL  SINGLE n 1.470 0.0108 1.470 0.0108
+VRG CBL CBG  SINGLE n 1.529 0.0185 1.529 0.0185
+VRG CBL CAV  SINGLE n 1.532 0.0100 1.532 0.0100
+VRG CBG OAI  DOUBLE n 1.229 0.0102 1.229 0.0102
+VRG CBG N    SINGLE n 1.337 0.0100 1.337 0.0100
+VRG N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
+VRG CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+VRG CA  CB   SINGLE n 1.526 0.0101 1.526 0.0101
+VRG C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+VRG C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+VRG CB  CG   SINGLE n 1.519 0.0109 1.519 0.0109
+VRG CG  OD2  SINGLE n 1.247 0.0187 1.247 0.0187
+VRG CG  OD1  DOUBLE n 1.247 0.0187 1.247 0.0187
+VRG CAV CBI  SINGLE n 1.508 0.0100 1.508 0.0100
+VRG CBI CAP  DOUBLE y 1.385 0.0111 1.385 0.0111
+VRG CBI CAQ  SINGLE y 1.385 0.0111 1.385 0.0111
+VRG CAN CAP  SINGLE y 1.386 0.0100 1.386 0.0100
+VRG CAM CAN  DOUBLE y 1.374 0.0127 1.374 0.0127
+VRG CAO CAM  SINGLE y 1.374 0.0127 1.374 0.0127
+VRG CAQ CAO  DOUBLE y 1.386 0.0100 1.386 0.0100
+VRG CAB HAB  SINGLE n 1.089 0.0100 0.971 0.0140
+VRG CAB HABA SINGLE n 1.089 0.0100 0.971 0.0140
+VRG CAB HABB SINGLE n 1.089 0.0100 0.971 0.0140
+VRG CAA HAA  SINGLE n 1.089 0.0100 0.971 0.0198
+VRG CAA HAAA SINGLE n 1.089 0.0100 0.971 0.0198
+VRG CAA HAAB SINGLE n 1.089 0.0100 0.971 0.0198
+VRG NAD HNAD SINGLE n 1.016 0.0100 0.879 0.0200
+VRG NAD H1   SINGLE n 1.016 0.0100 0.879 0.0200
+VRG CAR HAR  SINGLE n 1.089 0.0100 0.981 0.0160
+VRG CAR HARA SINGLE n 1.089 0.0100 0.981 0.0160
+VRG CAS HAS  SINGLE n 1.089 0.0100 0.981 0.0152
+VRG CAS HASA SINGLE n 1.089 0.0100 0.981 0.0152
+VRG CAT HAT  SINGLE n 1.089 0.0100 0.980 0.0160
+VRG CAT HATA SINGLE n 1.089 0.0100 0.980 0.0160
+VRG NAW HNAW SINGLE n 1.016 0.0100 0.894 0.0200
+VRG NAX HNAX SINGLE n 1.016 0.0100 0.872 0.0200
+VRG NAY HNAY SINGLE n 1.016 0.0100 0.878 0.0200
+VRG NAZ HNAZ SINGLE n 1.016 0.0100 0.873 0.0200
+VRG CBK HBK  SINGLE n 1.089 0.0100 0.991 0.0200
+VRG CAC HAC  SINGLE n 1.089 0.0100 0.971 0.0181
+VRG CAC HACA SINGLE n 1.089 0.0100 0.971 0.0181
+VRG CAC HACB SINGLE n 1.089 0.0100 0.971 0.0181
+VRG CBL HBL  SINGLE n 1.089 0.0100 0.980 0.0200
+VRG CAV HAV  SINGLE n 1.089 0.0100 0.980 0.0164
+VRG CAV HAVA SINGLE n 1.089 0.0100 0.980 0.0164
+VRG CAQ HAQ  SINGLE n 1.082 0.0130 0.944 0.0174
+VRG CAO HAO  SINGLE n 1.082 0.0130 0.944 0.0175
+VRG CAM HAM  SINGLE n 1.082 0.0130 0.944 0.0161
+VRG CAN HAN  SINGLE n 1.082 0.0130 0.944 0.0175
+VRG CAP HAP  SINGLE n 1.082 0.0130 0.944 0.0174
+VRG N   HN   SINGLE n 1.016 0.0100 0.873 0.0200
+VRG CA  HA   SINGLE n 1.089 0.0100 0.987 0.0159
+VRG CB  HB   SINGLE n 1.089 0.0100 0.979 0.0159
+VRG CB  HBA  SINGLE n 1.089 0.0100 0.979 0.0159
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -184,132 +184,133 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-VRG         NAZ         CBB         CAB     116.420    1.50
-VRG         NAZ         CBB         OAE     121.667    1.50
-VRG         CAB         CBB         OAE     121.913    1.50
-VRG         CBB         CAB         HAB     109.678    1.50
-VRG         CBB         CAB        HABA     109.678    1.50
-VRG         CBB         CAB        HABB     109.678    1.50
-VRG         HAB         CAB        HABA     109.365    1.50
-VRG         HAB         CAB        HABB     109.365    1.50
-VRG        HABA         CAB        HABB     109.365    1.50
-VRG         NAW         CAA         HAA     110.997    1.85
-VRG         NAW         CAA        HAAA     110.997    1.85
-VRG         NAW         CAA        HAAB     110.997    1.85
-VRG         HAA         CAA        HAAA     109.279    1.79
-VRG         HAA         CAA        HAAB     109.279    1.79
-VRG        HAAA         CAA        HAAB     109.279    1.79
-VRG         CBD         NAD        HNAD     119.689    1.50
-VRG         CBD         NAD          H1     119.689    1.50
-VRG        HNAD         NAD          H1     120.621    2.09
-VRG         CAS         CAR         CAT     112.387    3.00
-VRG         CAS         CAR         HAR     108.956    1.50
-VRG         CAS         CAR        HARA     108.956    1.50
-VRG         CAT         CAR         HAR     109.262    1.50
-VRG         CAT         CAR        HARA     109.262    1.50
-VRG         HAR         CAR        HARA     107.927    1.57
-VRG         NAX         CAS         CAR     112.382    2.90
-VRG         NAX         CAS         HAS     109.183    1.50
-VRG         NAX         CAS        HASA     109.183    1.50
-VRG         CAR         CAS         HAS     109.197    1.51
-VRG         CAR         CAS        HASA     109.197    1.51
-VRG         HAS         CAS        HASA     107.877    1.50
-VRG         CAR         CAT         CBK     113.702    1.73
-VRG         CAR         CAT         HAT     108.775    1.50
-VRG         CAR         CAT        HATA     108.775    1.50
-VRG         CBK         CAT         HAT     108.827    1.50
-VRG         CBK         CAT        HATA     108.827    1.50
-VRG         HAT         CAT        HATA     107.844    1.50
-VRG         CAA         NAW         CBF     121.744    2.00
-VRG         CAA         NAW        HNAW     118.977    1.50
-VRG         CBF         NAW        HNAW     119.279    2.29
-VRG         CBD         NAX         CAS     124.700    1.50
-VRG         CBD         NAX        HNAX     117.447    2.01
-VRG         CAS         NAX        HNAX     117.853    1.50
-VRG         CBF         NAY         CBD     127.642    3.00
-VRG         CBF         NAY        HNAY     115.946    2.37
-VRG         CBD         NAY        HNAY     116.412    1.80
-VRG         CBK         NAZ         CBB     121.618    1.76
-VRG         CBK         NAZ        HNAZ     119.334    1.64
-VRG         CBB         NAZ        HNAZ     119.048    2.25
-VRG         NAY         CBD         NAD     120.375    2.74
-VRG         NAY         CBD         NAX     118.530    3.00
-VRG         NAD         CBD         NAX     121.095    1.50
-VRG         NAW         CBF         OAH     122.453    1.50
-VRG         NAW         CBF         NAY     117.770    1.50
-VRG         OAH         CBF         NAY     119.777    1.77
-VRG         CBK         CBH         OAJ     119.549    1.50
-VRG         CBK         CBH         NBM     118.701    1.96
-VRG         OAJ         CBH         NBM     121.750    1.50
-VRG         CAT         CBK         NAZ     111.528    2.08
-VRG         CAT         CBK         CBH     110.281    1.60
-VRG         CAT         CBK         HBK     108.242    1.50
-VRG         NAZ         CBK         CBH     111.106    2.53
-VRG         NAZ         CBK         HBK     107.954    1.50
-VRG         CBH         CBK         HBK     109.162    1.50
-VRG         NBM         CAC         HAC     110.029    1.50
-VRG         NBM         CAC        HACA     110.029    1.50
-VRG         NBM         CAC        HACB     110.029    1.50
-VRG         HAC         CAC        HACA     109.408    1.50
-VRG         HAC         CAC        HACB     109.408    1.50
-VRG        HACA         CAC        HACB     109.408    1.50
-VRG         CBH         NBM         CAC     120.569    3.00
-VRG         CBH         NBM         CBL     122.687    3.00
-VRG         CAC         NBM         CBL     116.744    1.50
-VRG         NBM         CBL         CBG     110.547    2.68
-VRG         NBM         CBL         CAV     112.953    2.03
-VRG         NBM         CBL         HBL     106.850    1.85
-VRG         CBG         CBL         CAV     109.987    1.83
-VRG         CBG         CBL         HBL     107.511    1.65
-VRG         CAV         CBL         HBL     106.614    1.50
-VRG         CBL         CBG         OAI     121.230    1.50
-VRG         CBL         CBG           N     115.631    2.61
-VRG         OAI         CBG           N     123.138    1.50
-VRG         CBL         CAV         CBI     111.817    3.00
-VRG         CBL         CAV         HAV     109.242    1.50
-VRG         CBL         CAV        HAVA     109.242    1.50
-VRG         CBI         CAV         HAV     108.862    1.50
-VRG         CBI         CAV        HAVA     108.862    1.50
-VRG         HAV         CAV        HAVA     107.782    1.50
-VRG         CAV         CBI         CAP     120.970    1.50
-VRG         CAV         CBI         CAQ     120.970    1.50
-VRG         CAP         CBI         CAQ     118.060    1.50
-VRG         CBI         CAQ         CAO     120.624    1.50
-VRG         CBI         CAQ         HAQ     119.591    1.50
-VRG         CAO         CAQ         HAQ     119.786    1.50
-VRG         CAM         CAO         CAQ     120.325    1.50
-VRG         CAM         CAO         HAO     119.883    1.50
-VRG         CAQ         CAO         HAO     119.792    1.50
-VRG         CAN         CAM         CAO     120.043    1.50
-VRG         CAN         CAM         HAM     119.979    1.50
-VRG         CAO         CAM         HAM     119.979    1.50
-VRG         CAP         CAN         CAM     120.325    1.50
-VRG         CAP         CAN         HAN     119.792    1.50
-VRG         CAM         CAN         HAN     119.883    1.50
-VRG         CBI         CAP         CAN     120.624    1.50
-VRG         CBI         CAP         HAP     119.591    1.50
-VRG         CAN         CAP         HAP     119.786    1.50
-VRG         CBG           N          CA     122.524    1.50
-VRG         CBG           N          HN     119.315    1.83
-VRG          CA           N          HN     118.161    2.15
-VRG           N          CA           C     110.976    1.55
-VRG           N          CA          CB     112.687    1.50
-VRG           N          CA          HA     108.343    1.63
-VRG           C          CA          CB     111.511    2.91
-VRG           C          CA          HA     108.327    1.50
-VRG          CB          CA          HA     107.393    1.50
-VRG          CA           C         OXT     117.249    1.61
-VRG          CA           C           O     117.249    1.61
-VRG         OXT           C           O     125.502    1.50
-VRG          CA          CB          CG     111.511    2.91
-VRG          CA          CB          HB     108.675    1.50
-VRG          CA          CB         HBA     108.675    1.50
-VRG          CG          CB          HB     107.840    2.14
-VRG          CG          CB         HBA     107.840    2.14
-VRG          HB          CB         HBA     107.891    1.66
-VRG          CB          CG         OD2     117.986    1.50
-VRG          CB          CG         OD1     117.986    1.50
-VRG         OD2          CG         OD1     124.027    1.50
+VRG NAZ  CBB CAB  116.420 1.50
+VRG NAZ  CBB OAE  121.667 1.50
+VRG CAB  CBB OAE  121.913 1.50
+VRG CBB  CAB HAB  109.678 1.50
+VRG CBB  CAB HABA 109.678 1.50
+VRG CBB  CAB HABB 109.678 1.50
+VRG HAB  CAB HABA 109.365 1.50
+VRG HAB  CAB HABB 109.365 1.50
+VRG HABA CAB HABB 109.365 1.50
+VRG NAW  CAA HAA  110.997 1.85
+VRG NAW  CAA HAAA 110.997 1.85
+VRG NAW  CAA HAAB 110.997 1.85
+VRG HAA  CAA HAAA 109.279 1.79
+VRG HAA  CAA HAAB 109.279 1.79
+VRG HAAA CAA HAAB 109.279 1.79
+VRG CBD  NAD HNAD 119.689 1.50
+VRG CBD  NAD H1   119.689 1.50
+VRG HNAD NAD H1   120.621 2.09
+VRG CAS  CAR CAT  112.387 3.00
+VRG CAS  CAR HAR  108.956 1.50
+VRG CAS  CAR HARA 108.956 1.50
+VRG CAT  CAR HAR  109.262 1.50
+VRG CAT  CAR HARA 109.262 1.50
+VRG HAR  CAR HARA 107.927 1.57
+VRG NAX  CAS CAR  112.382 2.90
+VRG NAX  CAS HAS  109.183 1.50
+VRG NAX  CAS HASA 109.183 1.50
+VRG CAR  CAS HAS  109.197 1.51
+VRG CAR  CAS HASA 109.197 1.51
+VRG HAS  CAS HASA 107.877 1.50
+VRG CAR  CAT CBK  113.702 1.73
+VRG CAR  CAT HAT  108.775 1.50
+VRG CAR  CAT HATA 108.775 1.50
+VRG CBK  CAT HAT  108.827 1.50
+VRG CBK  CAT HATA 108.827 1.50
+VRG HAT  CAT HATA 107.844 1.50
+VRG CAA  NAW CBF  121.744 2.00
+VRG CAA  NAW HNAW 118.977 1.50
+VRG CBF  NAW HNAW 119.279 2.29
+VRG CBD  NAX CAS  124.700 1.50
+VRG CBD  NAX HNAX 117.447 2.01
+VRG CAS  NAX HNAX 117.853 1.50
+VRG CBF  NAY CBD  127.642 3.00
+VRG CBF  NAY HNAY 115.946 2.37
+VRG CBD  NAY HNAY 116.412 1.80
+VRG CBK  NAZ CBB  121.618 1.76
+VRG CBK  NAZ HNAZ 119.334 1.64
+VRG CBB  NAZ HNAZ 119.048 2.25
+VRG NAY  CBD NAD  120.375 2.74
+VRG NAY  CBD NAX  118.530 3.00
+VRG NAD  CBD NAX  121.095 1.50
+VRG NAW  CBF OAH  122.453 1.50
+VRG NAW  CBF NAY  117.770 1.50
+VRG OAH  CBF NAY  119.777 1.77
+VRG CBK  CBH OAJ  119.549 1.50
+VRG CBK  CBH NBM  118.701 1.96
+VRG OAJ  CBH NBM  121.750 1.50
+VRG CAT  CBK NAZ  111.528 2.08
+VRG CAT  CBK CBH  110.281 1.60
+VRG CAT  CBK HBK  108.242 1.50
+VRG NAZ  CBK CBH  111.106 2.53
+VRG NAZ  CBK HBK  107.954 1.50
+VRG CBH  CBK HBK  109.162 1.50
+VRG NBM  CAC HAC  110.029 1.50
+VRG NBM  CAC HACA 110.029 1.50
+VRG NBM  CAC HACB 110.029 1.50
+VRG HAC  CAC HACA 109.408 1.50
+VRG HAC  CAC HACB 109.408 1.50
+VRG HACA CAC HACB 109.408 1.50
+VRG CBH  NBM CAC  120.569 3.00
+VRG CBH  NBM CBL  122.687 3.00
+VRG CAC  NBM CBL  116.744 1.50
+VRG NBM  CBL CBG  110.547 2.68
+VRG NBM  CBL CAV  112.953 2.03
+VRG NBM  CBL HBL  106.850 1.85
+VRG CBG  CBL CAV  109.987 1.83
+VRG CBG  CBL HBL  107.511 1.65
+VRG CAV  CBL HBL  106.614 1.50
+VRG CBL  CBG OAI  121.230 1.50
+VRG CBL  CBG N    115.631 2.61
+VRG OAI  CBG N    123.138 1.50
+VRG CBL  CAV CBI  111.817 3.00
+VRG CBL  CAV HAV  109.242 1.50
+VRG CBL  CAV HAVA 109.242 1.50
+VRG CBI  CAV HAV  108.862 1.50
+VRG CBI  CAV HAVA 108.862 1.50
+VRG HAV  CAV HAVA 107.782 1.50
+VRG CAV  CBI CAP  120.970 1.50
+VRG CAV  CBI CAQ  120.970 1.50
+VRG CAP  CBI CAQ  118.060 1.50
+VRG CBI  CAQ CAO  120.624 1.50
+VRG CBI  CAQ HAQ  119.591 1.50
+VRG CAO  CAQ HAQ  119.786 1.50
+VRG CAM  CAO CAQ  120.325 1.50
+VRG CAM  CAO HAO  119.883 1.50
+VRG CAQ  CAO HAO  119.792 1.50
+VRG CAN  CAM CAO  120.043 1.50
+VRG CAN  CAM HAM  119.979 1.50
+VRG CAO  CAM HAM  119.979 1.50
+VRG CAP  CAN CAM  120.325 1.50
+VRG CAP  CAN HAN  119.792 1.50
+VRG CAM  CAN HAN  119.883 1.50
+VRG CBI  CAP CAN  120.624 1.50
+VRG CBI  CAP HAP  119.591 1.50
+VRG CAN  CAP HAP  119.786 1.50
+VRG CBG  N   CA   122.524 1.50
+VRG CBG  N   HN   119.315 1.83
+VRG CA   N   HN   118.161 2.15
+VRG N    CA  C    110.976 1.55
+VRG N    CA  CB   112.687 1.50
+VRG N    CA  HA   108.343 1.63
+VRG C    CA  CB   111.511 2.91
+VRG C    CA  HA   108.327 1.50
+VRG CB   CA  HA   107.393 1.50
+VRG CA   C   OXT  117.249 1.61
+VRG CA   C   O    117.249 1.61
+VRG OXT  C   O    125.502 1.50
+VRG CA   CB  CG   111.511 2.91
+VRG CA   CB  HB   108.675 1.50
+VRG CA   CB  HBA  108.675 1.50
+VRG CG   CB  HB   107.840 2.14
+VRG CG   CB  HBA  107.840 2.14
+VRG HB   CB  HBA  107.891 1.66
+VRG CB   CG  OD2  117.986 1.50
+VRG CB   CG  OD1  117.986 1.50
+VRG OD2  CG  OD1  124.027 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -320,37 +321,38 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-VRG            sp2_sp2_21         CAB         CBB         NAZ         CBK     180.000     5.0     2
-VRG            sp2_sp3_25         NAZ         CBB         CAB         HAB       0.000    10.0     6
-VRG             sp2_sp2_3         OAH         CBF         NAW         CAA       0.000     5.0     2
-VRG            sp2_sp2_17         NAY         CBD         NAX         CAS     180.000     5.0     2
-VRG            sp2_sp2_11         NAD         CBD         NAY         CBF       0.000     5.0     2
-VRG             sp2_sp2_5         NAW         CBF         NAY         CBD     180.000     5.0     2
-VRG            sp2_sp3_13         CBB         NAZ         CBK         CAT       0.000    10.0     6
-VRG            sp2_sp3_19         OAJ         CBH         CBK         CAT       0.000    10.0     6
-VRG            sp2_sp2_26         CBK         CBH         NBM         CAC       0.000     5.0     2
-VRG            sp2_sp3_31         CBH         NBM         CAC         HAC       0.000    10.0     6
-VRG            sp2_sp3_37         CBH         NBM         CBL         CBG       0.000    10.0     6
-VRG            sp2_sp3_43         OAI         CBG         CBL         NBM       0.000    10.0     6
-VRG            sp3_sp3_28         CBI         CAV         CBL         NBM     180.000    10.0     3
-VRG            sp2_sp2_29         CBL         CBG           N          CA     180.000     5.0     2
-VRG            sp2_sp3_68         CAP         CBI         CAV         CBL     -90.000    10.0     6
-VRG              const_22         CAO         CAQ         CBI         CAV     180.000    10.0     2
-VRG       const_sp2_sp2_2         CAN         CAP         CBI         CAV     180.000     5.0     2
-VRG              const_17         CAM         CAO         CAQ         CBI       0.000    10.0     2
-VRG              const_13         CAN         CAM         CAO         CAQ       0.000    10.0     2
-VRG       const_sp2_sp2_9         CAO         CAM         CAN         CAP       0.000     5.0     2
-VRG       const_sp2_sp2_5         CAM         CAN         CAP         CBI       0.000     5.0     2
-VRG            sp2_sp3_49         CBG           N          CA           C       0.000    10.0     6
-VRG            sp2_sp3_55         OXT           C          CA           N       0.000    10.0     6
-VRG            sp3_sp3_37           N          CA          CB          CG     180.000    10.0     3
-VRG            sp2_sp3_62         OD2          CG          CB          CA     120.000    10.0     6
-VRG             sp2_sp3_1         CBF         NAW         CAA         HAA       0.000    10.0     6
-VRG            sp2_sp2_13         NAY         CBD         NAD        HNAD     180.000     5.0     2
-VRG             sp3_sp3_1         CAT         CAR         CAS         NAX     180.000    10.0     3
-VRG            sp3_sp3_10         CAS         CAR         CAT         CBK     180.000    10.0     3
-VRG             sp2_sp3_8         CBD         NAX         CAS         CAR     120.000    10.0     6
-VRG            sp3_sp3_19         CAR         CAT         CBK         NAZ     180.000    10.0     3
+VRG sp2_sp2_21      CAB CBB NAZ CBK  180.000 5.0  2
+VRG sp2_sp3_25      NAZ CBB CAB HAB  0.000   10.0 6
+VRG sp2_sp2_3       OAH CBF NAW CAA  0.000   5.0  2
+VRG sp2_sp2_17      NAY CBD NAX CAS  180.000 5.0  2
+VRG sp2_sp2_11      NAD CBD NAY CBF  0.000   5.0  2
+VRG sp2_sp2_5       NAW CBF NAY CBD  180.000 5.0  2
+VRG sp2_sp3_13      CBB NAZ CBK CAT  0.000   10.0 6
+VRG sp2_sp3_19      OAJ CBH CBK CAT  0.000   10.0 6
+VRG sp2_sp2_26      CBK CBH NBM CAC  0.000   5.0  2
+VRG sp2_sp3_31      CBH NBM CAC HAC  0.000   10.0 6
+VRG sp2_sp3_37      CBH NBM CBL CBG  0.000   10.0 6
+VRG sp2_sp3_43      OAI CBG CBL NBM  0.000   10.0 6
+VRG sp3_sp3_28      CBI CAV CBL NBM  180.000 10.0 3
+VRG sp2_sp2_29      CBL CBG N   CA   180.000 5.0  2
+VRG sp2_sp3_68      CAP CBI CAV CBL  -90.000 10.0 6
+VRG const_22        CAO CAQ CBI CAV  180.000 10.0 2
+VRG const_sp2_sp2_2 CAN CAP CBI CAV  180.000 5.0  2
+VRG const_17        CAM CAO CAQ CBI  0.000   10.0 2
+VRG const_13        CAN CAM CAO CAQ  0.000   10.0 2
+VRG const_sp2_sp2_9 CAO CAM CAN CAP  0.000   5.0  2
+VRG const_sp2_sp2_5 CAM CAN CAP CBI  0.000   5.0  2
+VRG sp2_sp3_49      CBG N   CA  C    0.000   10.0 6
+VRG sp2_sp3_55      OXT C   CA  N    0.000   10.0 6
+VRG sp3_sp3_37      N   CA  CB  CG   180.000 10.0 3
+VRG sp2_sp3_62      OD2 CG  CB  CA   120.000 10.0 6
+VRG sp2_sp3_1       CBF NAW CAA HAA  0.000   10.0 6
+VRG sp2_sp2_13      NAY CBD NAD HNAD 180.000 5.0  2
+VRG sp3_sp3_1       CAT CAR CAS NAX  180.000 10.0 3
+VRG sp3_sp3_10      CAS CAR CAT CBK  180.000 10.0 3
+VRG sp2_sp3_8       CBD NAX CAS CAR  120.000 10.0 6
+VRG sp3_sp3_19      CAR CAT CBK NAZ  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -359,101 +361,112 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-VRG    chir_1    CBK    NAZ    CBH    CAT    positive
-VRG    chir_2    CBL    NBM    CBG    CAV    positive
-VRG    chir_3    CA    N    C    CB    positive
+VRG chir_1 CBK NAZ CBH CAT positive
+VRG chir_2 CBL NBM CBG CAV positive
+VRG chir_3 CA  N   C   CB  positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-VRG    plan-1         CAM   0.020
-VRG    plan-1         CAN   0.020
-VRG    plan-1         CAO   0.020
-VRG    plan-1         CAP   0.020
-VRG    plan-1         CAQ   0.020
-VRG    plan-1         CAV   0.020
-VRG    plan-1         CBI   0.020
-VRG    plan-1         HAM   0.020
-VRG    plan-1         HAN   0.020
-VRG    plan-1         HAO   0.020
-VRG    plan-1         HAP   0.020
-VRG    plan-1         HAQ   0.020
-VRG    plan-2         CAB   0.020
-VRG    plan-2         CBB   0.020
-VRG    plan-2         NAZ   0.020
-VRG    plan-2         OAE   0.020
-VRG    plan-3         CBD   0.020
-VRG    plan-3          H1   0.020
-VRG    plan-3        HNAD   0.020
-VRG    plan-3         NAD   0.020
-VRG    plan-4         CAA   0.020
-VRG    plan-4         CBF   0.020
-VRG    plan-4        HNAW   0.020
-VRG    plan-4         NAW   0.020
-VRG    plan-5         CAS   0.020
-VRG    plan-5         CBD   0.020
-VRG    plan-5        HNAX   0.020
-VRG    plan-5         NAX   0.020
-VRG    plan-6         CBD   0.020
-VRG    plan-6         CBF   0.020
-VRG    plan-6        HNAY   0.020
-VRG    plan-6         NAY   0.020
-VRG    plan-7         CBB   0.020
-VRG    plan-7         CBK   0.020
-VRG    plan-7        HNAZ   0.020
-VRG    plan-7         NAZ   0.020
-VRG    plan-8         CBD   0.020
-VRG    plan-8         NAD   0.020
-VRG    plan-8         NAX   0.020
-VRG    plan-8         NAY   0.020
-VRG    plan-9         CBF   0.020
-VRG    plan-9         NAW   0.020
-VRG    plan-9         NAY   0.020
-VRG    plan-9         OAH   0.020
-VRG   plan-10         CBH   0.020
-VRG   plan-10         CBK   0.020
-VRG   plan-10         NBM   0.020
-VRG   plan-10         OAJ   0.020
-VRG   plan-11         CAC   0.020
-VRG   plan-11         CBH   0.020
-VRG   plan-11         CBL   0.020
-VRG   plan-11         NBM   0.020
-VRG   plan-12         CBG   0.020
-VRG   plan-12         CBL   0.020
-VRG   plan-12           N   0.020
-VRG   plan-12         OAI   0.020
-VRG   plan-13          CA   0.020
-VRG   plan-13         CBG   0.020
-VRG   plan-13          HN   0.020
-VRG   plan-13           N   0.020
-VRG   plan-14           C   0.020
-VRG   plan-14          CA   0.020
-VRG   plan-14           O   0.020
-VRG   plan-14         OXT   0.020
-VRG   plan-15          CB   0.020
-VRG   plan-15          CG   0.020
-VRG   plan-15         OD1   0.020
-VRG   plan-15         OD2   0.020
+VRG plan-1  CAM  0.020
+VRG plan-1  CAN  0.020
+VRG plan-1  CAO  0.020
+VRG plan-1  CAP  0.020
+VRG plan-1  CAQ  0.020
+VRG plan-1  CAV  0.020
+VRG plan-1  CBI  0.020
+VRG plan-1  HAM  0.020
+VRG plan-1  HAN  0.020
+VRG plan-1  HAO  0.020
+VRG plan-1  HAP  0.020
+VRG plan-1  HAQ  0.020
+VRG plan-2  CAB  0.020
+VRG plan-2  CBB  0.020
+VRG plan-2  NAZ  0.020
+VRG plan-2  OAE  0.020
+VRG plan-3  CBD  0.020
+VRG plan-3  H1   0.020
+VRG plan-3  HNAD 0.020
+VRG plan-3  NAD  0.020
+VRG plan-4  CAA  0.020
+VRG plan-4  CBF  0.020
+VRG plan-4  HNAW 0.020
+VRG plan-4  NAW  0.020
+VRG plan-5  CAS  0.020
+VRG plan-5  CBD  0.020
+VRG plan-5  HNAX 0.020
+VRG plan-5  NAX  0.020
+VRG plan-6  CBD  0.020
+VRG plan-6  CBF  0.020
+VRG plan-6  HNAY 0.020
+VRG plan-6  NAY  0.020
+VRG plan-7  CBB  0.020
+VRG plan-7  CBK  0.020
+VRG plan-7  HNAZ 0.020
+VRG plan-7  NAZ  0.020
+VRG plan-8  CBD  0.020
+VRG plan-8  NAD  0.020
+VRG plan-8  NAX  0.020
+VRG plan-8  NAY  0.020
+VRG plan-9  CBF  0.020
+VRG plan-9  NAW  0.020
+VRG plan-9  NAY  0.020
+VRG plan-9  OAH  0.020
+VRG plan-10 CBH  0.020
+VRG plan-10 CBK  0.020
+VRG plan-10 NBM  0.020
+VRG plan-10 OAJ  0.020
+VRG plan-11 CAC  0.020
+VRG plan-11 CBH  0.020
+VRG plan-11 CBL  0.020
+VRG plan-11 NBM  0.020
+VRG plan-12 CBG  0.020
+VRG plan-12 CBL  0.020
+VRG plan-12 N    0.020
+VRG plan-12 OAI  0.020
+VRG plan-13 CA   0.020
+VRG plan-13 CBG  0.020
+VRG plan-13 HN   0.020
+VRG plan-13 N    0.020
+VRG plan-14 C    0.020
+VRG plan-14 CA   0.020
+VRG plan-14 O    0.020
+VRG plan-14 OXT  0.020
+VRG plan-15 CB   0.020
+VRG plan-15 CG   0.020
+VRG plan-15 OD1  0.020
+VRG plan-15 OD2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-VRG           SMILES              ACDLabs 10.04                                                                                                                                                                     O=C(NC)NC(=[N@H])NCCCC(NC(=O)C)C(=O)N(C(C(=O)NC(C(=O)O)CC(=O)O)Cc1ccccc1)C
-VRG            InChI                InChI  1.03 InChI=1S/C24H35N7O8/c1-14(32)28-16(10-7-11-27-23(25)30-24(39)26-2)21(36)31(3)18(12-15-8-5-4-6-9-15)20(35)29-17(22(37)38)13-19(33)34/h4-6,8-9,16-18H,7,10-13H2,1-3H3,(H,28,32)(H,29,35)(H,33,34)(H,37,38)(H4,25,26,27,30,39)/t16-,17-,18-/m0/s1
-VRG         InChIKey                InChI  1.03                                                                                                                                                                                                                    UFMHANUUWPWJKF-BZSNNMDCSA-N
-VRG SMILES_CANONICAL               CACTVS 3.385                                                                                                                                                           CNC(=O)NC(=N)NCCC[C@H](NC(C)=O)C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(O)=O)C(O)=O
-VRG           SMILES               CACTVS 3.385                                                                                                                                                                CNC(=O)NC(=N)NCCC[CH](NC(C)=O)C(=O)N(C)[CH](Cc1ccccc1)C(=O)N[CH](CC(O)=O)C(O)=O
-VRG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5                                                                                                                                                  "[H]/N=C(\NCCC[C@@H](C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(=O)O)C(=O)O)NC(=O)C)/NC(=O)NC"
-VRG           SMILES "OpenEye OEToolkits" 1.7.5                                                                                                                                                                         CC(=O)NC(CCCNC(=N)NC(=O)NC)C(=O)N(C)C(Cc1ccccc1)C(=O)NC(CC(=O)O)C(=O)O
+VRG SMILES           ACDLabs              10.04 O=C(NC)NC(=[N@H])NCCCC(NC(=O)C)C(=O)N(C(C(=O)NC(C(=O)O)CC(=O)O)Cc1ccccc1)C
+VRG InChI            InChI                1.03  InChI=1S/C24H35N7O8/c1-14(32)28-16(10-7-11-27-23(25)30-24(39)26-2)21(36)31(3)18(12-15-8-5-4-6-9-15)20(35)29-17(22(37)38)13-19(33)34/h4-6,8-9,16-18H,7,10-13H2,1-3H3,(H,28,32)(H,29,35)(H,33,34)(H,37,38)(H4,25,26,27,30,39)/t16-,17-,18-/m0/s1
+VRG InChIKey         InChI                1.03  UFMHANUUWPWJKF-BZSNNMDCSA-N
+VRG SMILES_CANONICAL CACTVS               3.385 CNC(=O)NC(=N)NCCC[C@H](NC(C)=O)C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(O)=O)C(O)=O
+VRG SMILES           CACTVS               3.385 CNC(=O)NC(=N)NCCC[CH](NC(C)=O)C(=O)N(C)[CH](Cc1ccccc1)C(=O)N[CH](CC(O)=O)C(O)=O
+VRG SMILES_CANONICAL "OpenEye OEToolkits" 1.7.5 "[H]/N=C(\NCCC[C@@H](C(=O)N(C)[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(=O)O)C(=O)O)NC(=O)C)/NC(=O)NC"
+VRG SMILES           "OpenEye OEToolkits" 1.7.5 CC(=O)NC(CCCNC(=N)NC(=O)NC)C(=O)N(C)C(Cc1ccccc1)C(=O)NC(CC(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-VRG acedrg               243         "dictionary generator"                  
-VRG acedrg_database      11          "data source"                           
-VRG rdkit                2017.03.2   "Chemoinformatics tool"
-VRG refmac5              5.8.0238    "optimization tool"                     
+VRG acedrg          243       "dictionary generator"
+VRG acedrg_database 11        "data source"
+VRG rdkit           2017.03.2 "Chemoinformatics tool"
+VRG refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+VRG M-peptide CBG CN
+VRG M-peptide HN  H

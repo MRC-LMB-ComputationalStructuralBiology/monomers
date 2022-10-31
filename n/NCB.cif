@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-NCB     NCB      N-CARBAMOYL-ALANINE     NON-POLYMER     16     9     .     
-#
+NCB NCB N-CARBAMOYL-ALANINE NON-POLYMER 16 9 .
+
 data_comp_NCB
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,22 +19,23 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-NCB     N       N       NH1     0       26.175      -8.888      71.901      
-NCB     CA      C       CH1     0       24.973      -9.693      72.062      
-NCB     C       C       C       0       24.904      -10.323     73.465      
-NCB     O       O       O       0       24.731      -11.556     73.533      
-NCB     OXT     O       OC      -1      25.025      -9.555      74.440      
-NCB     CB      C       CH3     0       23.725      -8.851      71.829      
-NCB     O3      O       O       0       28.382      -8.525      71.581      
-NCB     C3      C       C       0       27.444      -9.333      71.722      
-NCB     N2      N       NH2     0       27.690      -10.654     71.706      
-NCB     H       H       H       0       26.063      -8.021      71.929      
-NCB     HA      H       H       0       24.987      -10.426     71.385      
-NCB     HB3     H       H       0       22.934      -9.408      71.925      
-NCB     HB2     H       H       0       23.749      -8.475      70.933      
-NCB     HB1     H       H       0       23.693      -8.130      72.481      
-NCB     H22     H       H       0       28.521      -10.923     71.583      
-NCB     H21     H       H       0       27.066      -11.260     71.814      
+NCB N   N NH1 0  26.175 -8.888  71.901
+NCB CA  C CH1 0  24.973 -9.693  72.062
+NCB C   C C   0  24.904 -10.323 73.465
+NCB O   O O   0  24.731 -11.556 73.533
+NCB OXT O OC  -1 25.025 -9.555  74.440
+NCB CB  C CH3 0  23.725 -8.851  71.829
+NCB O3  O O   0  28.382 -8.525  71.581
+NCB C3  C C   0  27.444 -9.333  71.722
+NCB N2  N NH2 0  27.690 -10.654 71.706
+NCB H   H H   0  26.063 -8.021  71.929
+NCB HA  H H   0  24.987 -10.426 71.385
+NCB HB3 H H   0  22.934 -9.408  71.925
+NCB HB2 H H   0  23.749 -8.475  70.933
+NCB HB1 H H   0  23.693 -8.130  72.481
+NCB H22 H H   0  28.521 -10.923 71.583
+NCB H21 H H   0  27.066 -11.260 71.814
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -47,21 +46,22 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-NCB           N          CA      SINGLE       n     1.452  0.0100     1.452  0.0100
-NCB           N          C3      SINGLE       n     1.350  0.0100     1.350  0.0100
-NCB          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-NCB          CA          CB      SINGLE       n     1.522  0.0106     1.522  0.0106
-NCB           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-NCB           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-NCB          O3          C3      DOUBLE       n     1.243  0.0179     1.243  0.0179
-NCB          C3          N2      SINGLE       n     1.334  0.0157     1.334  0.0157
-NCB           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
-NCB          CA          HA      SINGLE       n     1.089  0.0100     0.998  0.0200
-NCB          CB         HB3      SINGLE       n     1.089  0.0100     0.972  0.0152
-NCB          CB         HB2      SINGLE       n     1.089  0.0100     0.972  0.0152
-NCB          CB         HB1      SINGLE       n     1.089  0.0100     0.972  0.0152
-NCB          N2         H22      SINGLE       n     1.016  0.0100     0.881  0.0200
-NCB          N2         H21      SINGLE       n     1.016  0.0100     0.881  0.0200
+NCB N  CA  SINGLE n 1.452 0.0100 1.452 0.0100
+NCB N  C3  SINGLE n 1.350 0.0100 1.350 0.0100
+NCB CA C   SINGLE n 1.539 0.0100 1.539 0.0100
+NCB CA CB  SINGLE n 1.522 0.0106 1.522 0.0106
+NCB C  O   DOUBLE n 1.247 0.0187 1.247 0.0187
+NCB C  OXT SINGLE n 1.247 0.0187 1.247 0.0187
+NCB O3 C3  DOUBLE n 1.243 0.0179 1.243 0.0179
+NCB C3 N2  SINGLE n 1.334 0.0157 1.334 0.0157
+NCB N  H   SINGLE n 1.016 0.0100 0.873 0.0200
+NCB CA HA  SINGLE n 1.089 0.0100 0.998 0.0200
+NCB CB HB3 SINGLE n 1.089 0.0100 0.972 0.0152
+NCB CB HB2 SINGLE n 1.089 0.0100 0.972 0.0152
+NCB CB HB1 SINGLE n 1.089 0.0100 0.972 0.0152
+NCB N2 H22 SINGLE n 1.016 0.0100 0.881 0.0200
+NCB N2 H21 SINGLE n 1.016 0.0100 0.881 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -69,30 +69,31 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-NCB          CA           N          C3     122.563    3.00
-NCB          CA           N           H     118.841    1.92
-NCB          C3           N           H     118.596    1.50
-NCB           N          CA           C     110.939    1.74
-NCB           N          CA          CB     110.277    1.50
-NCB           N          CA          HA     108.161    1.50
-NCB           C          CA          CB     109.294    1.70
-NCB           C          CA          HA     108.101    1.50
-NCB          CB          CA          HA     108.430    1.50
-NCB          CA           C           O     117.260    2.00
-NCB          CA           C         OXT     117.260    2.00
-NCB           O           C         OXT     125.481    1.50
-NCB          CA          CB         HB3     109.550    1.50
-NCB          CA          CB         HB2     109.550    1.50
-NCB          CA          CB         HB1     109.550    1.50
-NCB         HB3          CB         HB2     109.386    1.50
-NCB         HB3          CB         HB1     109.386    1.50
-NCB         HB2          CB         HB1     109.386    1.50
-NCB           N          C3          O3     121.457    1.50
-NCB           N          C3          N2     117.179    1.50
-NCB          O3          C3          N2     121.364    1.81
-NCB          C3          N2         H22     119.809    2.97
-NCB          C3          N2         H21     119.809    2.97
-NCB         H22          N2         H21     120.382    2.62
+NCB CA  N  C3  122.563 3.00
+NCB CA  N  H   118.841 1.92
+NCB C3  N  H   118.596 1.50
+NCB N   CA C   110.939 1.74
+NCB N   CA CB  110.277 1.50
+NCB N   CA HA  108.161 1.50
+NCB C   CA CB  109.294 1.70
+NCB C   CA HA  108.101 1.50
+NCB CB  CA HA  108.430 1.50
+NCB CA  C  O   117.260 2.00
+NCB CA  C  OXT 117.260 2.00
+NCB O   C  OXT 125.481 1.50
+NCB CA  CB HB3 109.550 1.50
+NCB CA  CB HB2 109.550 1.50
+NCB CA  CB HB1 109.550 1.50
+NCB HB3 CB HB2 109.386 1.50
+NCB HB3 CB HB1 109.386 1.50
+NCB HB2 CB HB1 109.386 1.50
+NCB N   C3 O3  121.457 1.50
+NCB N   C3 N2  117.179 1.50
+NCB O3  C3 N2  121.364 1.81
+NCB C3  N2 H22 119.809 2.97
+NCB C3  N2 H21 119.809 2.97
+NCB H22 N2 H21 120.382 2.62
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -103,11 +104,12 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-NCB             sp2_sp3_1          C3           N          CA           C       0.000    10.0     6
-NCB             sp2_sp2_3          O3          C3           N          CA       0.000     5.0     2
-NCB             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-NCB             sp3_sp3_1           N          CA          CB         HB3     180.000    10.0     3
-NCB             sp2_sp2_5           N          C3          N2         H22     180.000     5.0     2
+NCB sp2_sp3_1 C3 N  CA C   0.000   10.0 6
+NCB sp2_sp2_3 O3 C3 N  CA  0.000   5.0  2
+NCB sp2_sp3_7 O  C  CA N   0.000   10.0 6
+NCB sp3_sp3_1 N  CA CB HB3 180.000 10.0 3
+NCB sp2_sp2_5 N  C3 N2 H22 180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -116,47 +118,57 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-NCB    chir_1    CA    N    C    CB    negative
+NCB chir_1 CA N C CB negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-NCB    plan-1          C3   0.020
-NCB    plan-1          CA   0.020
-NCB    plan-1           H   0.020
-NCB    plan-1           N   0.020
-NCB    plan-2           C   0.020
-NCB    plan-2          CA   0.020
-NCB    plan-2           O   0.020
-NCB    plan-2         OXT   0.020
-NCB    plan-3          C3   0.020
-NCB    plan-3           N   0.020
-NCB    plan-3          N2   0.020
-NCB    plan-3          O3   0.020
-NCB    plan-4          C3   0.020
-NCB    plan-4         H21   0.020
-NCB    plan-4         H22   0.020
-NCB    plan-4          N2   0.020
+NCB plan-1 C3  0.020
+NCB plan-1 CA  0.020
+NCB plan-1 H   0.020
+NCB plan-1 N   0.020
+NCB plan-2 C   0.020
+NCB plan-2 CA  0.020
+NCB plan-2 O   0.020
+NCB plan-2 OXT 0.020
+NCB plan-3 C3  0.020
+NCB plan-3 N   0.020
+NCB plan-3 N2  0.020
+NCB plan-3 O3  0.020
+NCB plan-4 C3  0.020
+NCB plan-4 H21 0.020
+NCB plan-4 H22 0.020
+NCB plan-4 N2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-NCB           SMILES              ACDLabs 10.04                                                        O=C(O)C(NC(=O)N)C
-NCB SMILES_CANONICAL               CACTVS 3.341                                                   C[C@@H](NC(N)=O)C(O)=O
-NCB           SMILES               CACTVS 3.341                                                     C[CH](NC(N)=O)C(O)=O
-NCB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                    C[C@H](C(=O)O)NC(=O)N
-NCB           SMILES "OpenEye OEToolkits" 1.5.0                                                        CC(C(=O)O)NC(=O)N
-NCB            InChI                InChI  1.03 InChI=1S/C4H8N2O3/c1-2(3(7)8)6-4(5)9/h2H,1H3,(H,7,8)(H3,5,6,9)/t2-/m1/s1
-NCB         InChIKey                InChI  1.03                                              LUSWEUMSEVLFEQ-UWTATZPHSA-N
+NCB SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)N)C
+NCB SMILES_CANONICAL CACTVS               3.341 C[C@@H](NC(N)=O)C(O)=O
+NCB SMILES           CACTVS               3.341 C[CH](NC(N)=O)C(O)=O
+NCB SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@H](C(=O)O)NC(=O)N
+NCB SMILES           "OpenEye OEToolkits" 1.5.0 CC(C(=O)O)NC(=O)N
+NCB InChI            InChI                1.03  InChI=1S/C4H8N2O3/c1-2(3(7)8)6-4(5)9/h2H,1H3,(H,7,8)(H3,5,6,9)/t2-/m1/s1
+NCB InChIKey         InChI                1.03  LUSWEUMSEVLFEQ-UWTATZPHSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-NCB acedrg               243         "dictionary generator"                  
-NCB acedrg_database      11          "data source"                           
-NCB rdkit                2017.03.2   "Chemoinformatics tool"
-NCB refmac5              5.8.0238    "optimization tool"                     
+NCB acedrg          243       "dictionary generator"
+NCB acedrg_database 11        "data source"
+NCB rdkit           2017.03.2 "Chemoinformatics tool"
+NCB refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+NCB M-peptide C3 CN

@@ -19,25 +19,25 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TJ4 O3 O O 0 37.315 -26.876 -12.823
-TJ4 C9 C CR6 0 36.941 -27.126 -13.985
-TJ4 N2 N NR6 0 36.686 -28.432 -14.343
-TJ4 N1 N NRD6 0 36.777 -26.133 -14.915
-TJ4 C4 C CR6 0 36.372 -26.431 -16.158
-TJ4 C5 C CH3 0 36.226 -25.265 -17.095
-TJ4 C3 C CR6 0 36.103 -27.736 -16.565
-TJ4 C6 C CH3 0 35.649 -28.019 -17.981
-TJ4 C2 C CR6 0 36.267 -28.764 -15.623
-TJ4 C1 C C 0 36.024 -30.227 -15.878
-TJ4 O1 O O 0 36.828 -30.802 -16.590
-TJ4 O2 O OC -1 35.042 -30.723 -15.352
-TJ4 H9 H H 0 36.795 -29.062 -13.736
-TJ4 H1 H H 0 36.452 -24.440 -16.635
-TJ4 H2 H H 0 35.309 -25.216 -17.411
-TJ4 H3 H H 0 36.821 -25.383 -17.854
-TJ4 H5 H H 0 35.504 -28.969 -18.110
-TJ4 H6 H H 0 36.327 -27.714 -18.605
-TJ4 H7 H H 0 34.819 -27.545 -18.155
+TJ4 O3 O O    0  37.315 -26.876 -12.823
+TJ4 C9 C CR6  0  36.941 -27.126 -13.985
+TJ4 N2 N NR6  0  36.686 -28.432 -14.343
+TJ4 N1 N NRD6 0  36.777 -26.133 -14.915
+TJ4 C4 C CR6  0  36.372 -26.431 -16.158
+TJ4 C5 C CH3  0  36.226 -25.265 -17.095
+TJ4 C3 C CR6  0  36.103 -27.736 -16.565
+TJ4 C6 C CH3  0  35.649 -28.019 -17.981
+TJ4 C2 C CR6  0  36.267 -28.764 -15.623
+TJ4 C1 C C    0  36.024 -30.227 -15.878
+TJ4 O1 O O    0  36.828 -30.802 -16.590
+TJ4 O2 O OC   -1 35.042 -30.723 -15.352
+TJ4 H9 H H    0  36.795 -29.062 -13.736
+TJ4 H1 H H    0  36.452 -24.440 -16.635
+TJ4 H2 H H    0  35.309 -25.216 -17.411
+TJ4 H3 H H    0  36.821 -25.383 -17.854
+TJ4 H5 H H    0  35.504 -28.969 -18.110
+TJ4 H6 H H    0  36.327 -27.714 -18.605
+TJ4 H7 H H    0  34.819 -27.545 -18.155
 
 loop_
 _chem_comp_bond.comp_id
@@ -118,15 +118,15 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TJ4 const_19 O3 C9 N2 C2 180.000 10.0 2
-TJ4 const_sp2_sp2_2 O3 C9 N1 C4 180.000 5.0 2
-TJ4 const_15 C1 C2 N2 C9 180.000 10.0 2
-TJ4 const_sp2_sp2_4 C5 C4 N1 C9 180.000 5.0 2
-TJ4 sp2_sp3_7 C3 C4 C5 H1 150.000 10.0 6
-TJ4 const_sp2_sp2_8 C6 C3 C4 C5 0.000 5.0 2
-TJ4 sp2_sp3_1 C4 C3 C6 H5 150.000 10.0 6
-TJ4 const_12 C1 C2 C3 C6 0.000 10.0 2
-TJ4 sp2_sp2_1 O1 C1 C2 C3 180.000 5.0 2
+TJ4 const_19        O3 C9 N2 C2 180.000 10.0 2
+TJ4 const_sp2_sp2_2 O3 C9 N1 C4 180.000 5.0  2
+TJ4 const_15        C1 C2 N2 C9 180.000 10.0 2
+TJ4 const_sp2_sp2_4 C5 C4 N1 C9 180.000 5.0  2
+TJ4 sp2_sp3_7       C3 C4 C5 H1 150.000 10.0 6
+TJ4 const_sp2_sp2_8 C6 C3 C4 C5 0.000   5.0  2
+TJ4 sp2_sp3_1       C4 C3 C6 H5 150.000 10.0 6
+TJ4 const_12        C1 C2 C3 C6 0.000   10.0 2
+TJ4 sp2_sp2_1       O1 C1 C2 C3 180.000 5.0  2
 
 loop_
 _chem_comp_plane_atom.comp_id
@@ -155,20 +155,33 @@ _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TJ4 SMILES ACDLabs 12.01 O=C1NC(=C(C(=N1)C)C)C(O)=O
-TJ4 InChI InChI 1.03 InChI=1S/C7H8N2O3/c1-3-4(2)8-7(12)9-5(3)6(10)11/h1-2H3,(H,10,11)(H,8,9,12)
-TJ4 InChIKey InChI 1.03 ZXECTTZQEACQGR-UHFFFAOYSA-N
-TJ4 SMILES_CANONICAL CACTVS 3.385 CC1=NC(=O)NC(=C1C)C(O)=O
-TJ4 SMILES CACTVS 3.385 CC1=NC(=O)NC(=C1C)C(O)=O
+TJ4 SMILES           ACDLabs              12.01 O=C1NC(=C(C(=N1)C)C)C(O)=O
+TJ4 InChI            InChI                1.03  InChI=1S/C7H8N2O3/c1-3-4(2)8-7(12)9-5(3)6(10)11/h1-2H3,(H,10,11)(H,8,9,12)
+TJ4 InChIKey         InChI                1.03  ZXECTTZQEACQGR-UHFFFAOYSA-N
+TJ4 SMILES_CANONICAL CACTVS               3.385 CC1=NC(=O)NC(=C1C)C(O)=O
+TJ4 SMILES           CACTVS               3.385 CC1=NC(=O)NC(=C1C)C(O)=O
 TJ4 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 CC1=C(NC(=O)N=C1C)C(=O)O
-TJ4 SMILES "OpenEye OEToolkits" 2.0.7 CC1=C(NC(=O)N=C1C)C(=O)O
+TJ4 SMILES           "OpenEye OEToolkits" 2.0.7 CC1=C(NC(=O)N=C1C)C(=O)O
 
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TJ4 acedrg 243 "dictionary generator"
-TJ4 acedrg_database 11 "data source"
-TJ4 rdkit 2017.03.2 "Chemoinformatics tool"
-TJ4 refmac5 5.8.0238 "optimization tool"
+TJ4 acedrg          243       "dictionary generator"
+TJ4 acedrg_database 11        "data source"
+TJ4 rdkit           2017.03.2 "Chemoinformatics tool"
+TJ4 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+TJ4 M-peptide O1 O
+TJ4 M-peptide C1 C
+TJ4 M-peptide C2 CA
+TJ4 M-peptide N2 N
+TJ4 M-peptide C9 CN
+TJ4 M-peptide O2 OXT
+TJ4 M-peptide H9 H

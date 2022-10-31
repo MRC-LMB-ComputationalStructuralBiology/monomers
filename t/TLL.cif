@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TLL     TLL      "N-[4-({[(6S)-2-amino-5-methyl-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)benzoyl]-L-gamma-glutamyl-L-glutamic acid"     NON-POLYMER     71     42     .     
-#
+TLL TLL "N-[4-({[(6S)-2-amino-5-methyl-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)benzoyl]-L-gamma-glutamyl-L-glutamic acid" NON-POLYMER 71 42 .
+
 data_comp_TLL
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,77 +19,78 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TLL     O2      O       O       0       63.520      10.868      219.210     
-TLL     CT      C       C       0       62.913      11.771      219.820     
-TLL     O1      O       OC      -1      62.645      11.769      221.038     
-TLL     CA      C       CH1     0       62.457      12.991      219.000     
-TLL     CB      C       CH2     0       61.473      12.580      217.898     
-TLL     CG      C       CH2     0       60.850      13.767      217.171     
-TLL     CD      C       C       0       59.862      13.384      216.085     
-TLL     OE2     O       O       0       59.508      12.218      215.912     
-TLL     N       N       NH1     0       63.612      13.679      218.432     
-TLL     C       C       C       0       63.936      14.955      218.700     
-TLL     O       O       O       0       63.398      15.605      219.598     
-TLL     C11     C       CR6     0       64.944      15.619      217.798     
-TLL     C16     C       CR16    0       64.987      15.349      216.431     
-TLL     C15     C       CR16    0       65.909      15.969      215.609     
-TLL     C14     C       CR6     0       66.809      16.909      216.136     
-TLL     C13     C       CR16    0       66.759      17.189      217.509     
-TLL     C12     C       CR16    0       65.835      16.554      218.320     
-TLL     N10     N       NH1     0       67.750      17.565      215.358     
-TLL     C9      C       CH2     0       67.771      17.590      213.900     
-TLL     C6      C       CH1     0       66.574      18.317      213.261     
-TLL     N5      N       NR6     0       66.542      18.059      211.803     
-TLL     C7      C       CH2     0       66.595      19.824      213.546     
-TLL     N8      N       NR6     0       67.507      20.533      212.653     
-TLL     C8A     C       CR66    0       67.898      20.025      211.428     
-TLL     C4A     C       CR66    0       67.417      18.761      210.986     
-TLL     N1      N       NR6     0       68.770      20.736      210.625     
-TLL     C2      C       CR6     0       69.172      20.242      209.414     
-TLL     NA2     N       NH2     0       70.013      20.975      208.681     
-TLL     N3      N       NRD6    0       68.749      19.062      208.957     
-TLL     C4      C       CR6     0       67.876      18.300      209.716     
-TLL     O4      O       O       0       67.532      17.216      209.224     
-TLL     N2      N       NH1     0       59.405      14.387      215.328     
-TLL     C3      C       CH1     0       58.465      14.249      214.225     
-TLL     C5      C       C       0       59.155      13.619      213.001     
-TLL     O6      O       O       0       58.523      12.742      212.378     
-TLL     O7      O       OC      -1      60.297      14.030      212.713     
-TLL     C8      C       CH2     0       57.803      15.578      213.841     
-TLL     C10     C       CH2     0       56.871      16.114      214.916     
-TLL     C17     C       C       0       56.105      17.379      214.559     
-TLL     O18     O       OC      -1      55.243      17.785      215.363     
-TLL     O19     O       O       0       56.368      17.958      213.484     
-TLL     C1      C       CH3     0       65.546      17.123      211.283     
-TLL     HA      H       H       0       61.983      13.609      219.611     
-TLL     HB1     H       H       0       60.761      12.040      218.300     
-TLL     HB2     H       H       0       61.947      12.018      217.249     
-TLL     HG2     H       H       0       61.565      14.303      216.766     
-TLL     HG1     H       H       0       60.391      14.335      217.826     
-TLL     HN      H       H       0       64.126      13.208      217.906     
-TLL     H16     H       H       0       64.391      14.723      216.060     
-TLL     H15     H       H       0       65.922      15.765      214.691     
-TLL     H13     H       H       0       67.357      17.814      217.882     
-TLL     H12     H       H       0       65.815      16.757      219.239     
-TLL     H10     H       H       0       68.394      18.002      215.770     
-TLL     H92     H       H       0       67.793      16.668      213.567     
-TLL     H91     H       H       0       68.596      18.033      213.607     
-TLL     H6      H       H       0       65.750      17.959      213.672     
-TLL     H72     H       H       0       66.870      19.974      214.476     
-TLL     H71     H       H       0       65.689      20.184      213.436     
-TLL     HN8     H       H       0       67.815      21.310      212.911     
-TLL     HN1     H       H       0       69.079      21.524      210.885     
-TLL     HA22    H       H       0       70.614      21.475      209.079     
-TLL     HA21    H       H       0       69.961      20.952      207.806     
-TLL     HN2     H       H       0       59.689      15.196      215.500     
-TLL     H3      H       H       0       57.745      13.633      214.518     
-TLL     H81     H       H       0       57.294      15.450      213.013     
-TLL     H8      H       H       0       58.504      16.240      213.666     
-TLL     H102    H       H       0       57.397      16.294      215.724     
-TLL     H101    H       H       0       56.219      15.416      215.141     
-TLL     H11     H       H       0       64.808      17.032      211.907     
-TLL     H14     H       H       0       65.950      16.250      211.148     
-TLL     H1      H       H       0       65.195      17.446      210.438     
+TLL O2   O O    0  63.520 10.868 219.210
+TLL CT   C C    0  62.913 11.771 219.820
+TLL O1   O OC   -1 62.645 11.769 221.038
+TLL CA   C CH1  0  62.457 12.991 219.000
+TLL CB   C CH2  0  61.473 12.580 217.898
+TLL CG   C CH2  0  60.850 13.767 217.171
+TLL CD   C C    0  59.862 13.384 216.085
+TLL OE2  O O    0  59.508 12.218 215.912
+TLL N    N NH1  0  63.612 13.679 218.432
+TLL C    C C    0  63.936 14.955 218.700
+TLL O    O O    0  63.398 15.605 219.598
+TLL C11  C CR6  0  64.944 15.619 217.798
+TLL C16  C CR16 0  64.987 15.349 216.431
+TLL C15  C CR16 0  65.909 15.969 215.609
+TLL C14  C CR6  0  66.809 16.909 216.136
+TLL C13  C CR16 0  66.759 17.189 217.509
+TLL C12  C CR16 0  65.835 16.554 218.320
+TLL N10  N NH1  0  67.750 17.565 215.358
+TLL C9   C CH2  0  67.771 17.590 213.900
+TLL C6   C CH1  0  66.574 18.317 213.261
+TLL N5   N NR6  0  66.542 18.059 211.803
+TLL C7   C CH2  0  66.595 19.824 213.546
+TLL N8   N NR6  0  67.507 20.533 212.653
+TLL C8A  C CR66 0  67.898 20.025 211.428
+TLL C4A  C CR66 0  67.417 18.761 210.986
+TLL N1   N NR6  0  68.770 20.736 210.625
+TLL C2   C CR6  0  69.172 20.242 209.414
+TLL NA2  N NH2  0  70.013 20.975 208.681
+TLL N3   N NRD6 0  68.749 19.062 208.957
+TLL C4   C CR6  0  67.876 18.300 209.716
+TLL O4   O O    0  67.532 17.216 209.224
+TLL N2   N NH1  0  59.405 14.387 215.328
+TLL C3   C CH1  0  58.465 14.249 214.225
+TLL C5   C C    0  59.155 13.619 213.001
+TLL O6   O O    0  58.523 12.742 212.378
+TLL O7   O OC   -1 60.297 14.030 212.713
+TLL C8   C CH2  0  57.803 15.578 213.841
+TLL C10  C CH2  0  56.871 16.114 214.916
+TLL C17  C C    0  56.105 17.379 214.559
+TLL O18  O OC   -1 55.243 17.785 215.363
+TLL O19  O O    0  56.368 17.958 213.484
+TLL C1   C CH3  0  65.546 17.123 211.283
+TLL HA   H H    0  61.983 13.609 219.611
+TLL HB1  H H    0  60.761 12.040 218.300
+TLL HB2  H H    0  61.947 12.018 217.249
+TLL HG2  H H    0  61.565 14.303 216.766
+TLL HG1  H H    0  60.391 14.335 217.826
+TLL HN   H H    0  64.126 13.208 217.906
+TLL H16  H H    0  64.391 14.723 216.060
+TLL H15  H H    0  65.922 15.765 214.691
+TLL H13  H H    0  67.357 17.814 217.882
+TLL H12  H H    0  65.815 16.757 219.239
+TLL H10  H H    0  68.394 18.002 215.770
+TLL H92  H H    0  67.793 16.668 213.567
+TLL H91  H H    0  68.596 18.033 213.607
+TLL H6   H H    0  65.750 17.959 213.672
+TLL H72  H H    0  66.870 19.974 214.476
+TLL H71  H H    0  65.689 20.184 213.436
+TLL HN8  H H    0  67.815 21.310 212.911
+TLL HN1  H H    0  69.079 21.524 210.885
+TLL HA22 H H    0  70.614 21.475 209.079
+TLL HA21 H H    0  69.961 20.952 207.806
+TLL HN2  H H    0  59.689 15.196 215.500
+TLL H3   H H    0  57.745 13.633 214.518
+TLL H81  H H    0  57.294 15.450 213.013
+TLL H8   H H    0  58.504 16.240 213.666
+TLL H102 H H    0  57.397 16.294 215.724
+TLL H101 H H    0  56.219 15.416 215.141
+TLL H11  H H    0  64.808 17.032 211.907
+TLL H14  H H    0  65.950 16.250 211.148
+TLL H1   H H    0  65.195 17.446 210.438
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -102,79 +101,80 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TLL          C2          N3      DOUBLE       y     1.328  0.0100     1.328  0.0100
-TLL          N3          C4      SINGLE       y     1.367  0.0200     1.367  0.0200
-TLL          C2         NA2      SINGLE       n     1.333  0.0100     1.333  0.0100
-TLL          C4          O4      DOUBLE       n     1.239  0.0136     1.239  0.0136
-TLL          N1          C2      SINGLE       y     1.362  0.0100     1.362  0.0100
-TLL         C4A          C4      SINGLE       y     1.402  0.0200     1.402  0.0200
-TLL         C8A          N1      SINGLE       y     1.376  0.0146     1.376  0.0146
-TLL         C8A         C4A      DOUBLE       y     1.422  0.0200     1.422  0.0200
-TLL          N5         C4A      SINGLE       n     1.380  0.0100     1.380  0.0100
-TLL          N5          C1      SINGLE       n     1.458  0.0100     1.458  0.0100
-TLL          N8         C8A      SINGLE       n     1.380  0.0164     1.380  0.0164
-TLL          C6          N5      SINGLE       n     1.475  0.0100     1.475  0.0100
-TLL          C5          O6      DOUBLE       n     1.247  0.0187     1.247  0.0187
-TLL          C7          N8      SINGLE       n     1.456  0.0100     1.456  0.0100
-TLL         C17         O19      DOUBLE       n     1.247  0.0187     1.247  0.0187
-TLL          C5          O7      SINGLE       n     1.247  0.0187     1.247  0.0187
-TLL          C3          C5      SINGLE       n     1.539  0.0100     1.539  0.0100
-TLL          C6          C7      SINGLE       n     1.527  0.0119     1.527  0.0119
-TLL          C9          C6      SINGLE       n     1.536  0.0125     1.536  0.0125
-TLL         N10          C9      SINGLE       n     1.454  0.0100     1.454  0.0100
-TLL          C3          C8      SINGLE       n     1.533  0.0100     1.533  0.0100
-TLL          C8         C10      SINGLE       n     1.518  0.0153     1.518  0.0153
-TLL          N2          C3      SINGLE       n     1.453  0.0100     1.453  0.0100
-TLL         C10         C17      SINGLE       n     1.519  0.0109     1.519  0.0109
-TLL         C17         O18      SINGLE       n     1.247  0.0187     1.247  0.0187
-TLL         C14         N10      SINGLE       n     1.375  0.0130     1.375  0.0130
-TLL          CD          N2      SINGLE       n     1.334  0.0100     1.334  0.0100
-TLL         C15         C14      DOUBLE       y     1.395  0.0124     1.395  0.0124
-TLL         C16         C15      SINGLE       y     1.379  0.0100     1.379  0.0100
-TLL         C14         C13      SINGLE       y     1.395  0.0124     1.395  0.0124
-TLL          CD         OE2      DOUBLE       n     1.229  0.0102     1.229  0.0102
-TLL          CG          CD      SINGLE       n     1.514  0.0100     1.514  0.0100
-TLL         C11         C16      DOUBLE       y     1.390  0.0100     1.390  0.0100
-TLL          CB          CG      SINGLE       n     1.522  0.0131     1.522  0.0131
-TLL         C13         C12      DOUBLE       y     1.379  0.0100     1.379  0.0100
-TLL         C11         C12      SINGLE       y     1.390  0.0100     1.390  0.0100
-TLL           C         C11      SINGLE       n     1.502  0.0100     1.502  0.0100
-TLL          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-TLL           N           C      SINGLE       n     1.337  0.0101     1.337  0.0101
-TLL          CA           N      SINGLE       n     1.456  0.0100     1.456  0.0100
-TLL           C           O      DOUBLE       n     1.230  0.0114     1.230  0.0114
-TLL          CT          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-TLL          O2          CT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-TLL          CT          O1      SINGLE       n     1.247  0.0187     1.247  0.0187
-TLL          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-TLL          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0178
-TLL          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0178
-TLL          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0185
-TLL          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0185
-TLL           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
-TLL         C16         H16      SINGLE       n     1.082  0.0130     0.941  0.0168
-TLL         C15         H15      SINGLE       n     1.082  0.0130     0.942  0.0198
-TLL         C13         H13      SINGLE       n     1.082  0.0130     0.942  0.0198
-TLL         C12         H12      SINGLE       n     1.082  0.0130     0.941  0.0168
-TLL         N10         H10      SINGLE       n     1.016  0.0100     0.880  0.0200
-TLL          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0200
-TLL          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0200
-TLL          C6          H6      SINGLE       n     1.089  0.0100     0.990  0.0145
-TLL          C7         H72      SINGLE       n     1.089  0.0100     0.981  0.0161
-TLL          C7         H71      SINGLE       n     1.089  0.0100     0.981  0.0161
-TLL          N8         HN8      SINGLE       n     1.016  0.0100     0.875  0.0200
-TLL          N1         HN1      SINGLE       n     1.016  0.0100     0.885  0.0200
-TLL         NA2        HA22      SINGLE       n     1.016  0.0100     0.877  0.0200
-TLL         NA2        HA21      SINGLE       n     1.016  0.0100     0.877  0.0200
-TLL          N2         HN2      SINGLE       n     1.016  0.0100     0.873  0.0200
-TLL          C3          H3      SINGLE       n     1.089  0.0100     0.991  0.0200
-TLL          C8         H81      SINGLE       n     1.089  0.0100     0.980  0.0178
-TLL          C8          H8      SINGLE       n     1.089  0.0100     0.980  0.0178
-TLL         C10        H102      SINGLE       n     1.089  0.0100     0.981  0.0185
-TLL         C10        H101      SINGLE       n     1.089  0.0100     0.981  0.0185
-TLL          C1         H11      SINGLE       n     1.089  0.0100     0.971  0.0199
-TLL          C1         H14      SINGLE       n     1.089  0.0100     0.971  0.0199
-TLL          C1          H1      SINGLE       n     1.089  0.0100     0.971  0.0199
+TLL C2  N3   DOUBLE y 1.328 0.0100 1.328 0.0100
+TLL N3  C4   SINGLE y 1.367 0.0200 1.367 0.0200
+TLL C2  NA2  SINGLE n 1.333 0.0100 1.333 0.0100
+TLL C4  O4   DOUBLE n 1.239 0.0136 1.239 0.0136
+TLL N1  C2   SINGLE y 1.362 0.0100 1.362 0.0100
+TLL C4A C4   SINGLE y 1.402 0.0200 1.402 0.0200
+TLL C8A N1   SINGLE y 1.376 0.0146 1.376 0.0146
+TLL C8A C4A  DOUBLE y 1.422 0.0200 1.422 0.0200
+TLL N5  C4A  SINGLE n 1.380 0.0100 1.380 0.0100
+TLL N5  C1   SINGLE n 1.458 0.0100 1.458 0.0100
+TLL N8  C8A  SINGLE n 1.380 0.0164 1.380 0.0164
+TLL C6  N5   SINGLE n 1.475 0.0100 1.475 0.0100
+TLL C5  O6   DOUBLE n 1.247 0.0187 1.247 0.0187
+TLL C7  N8   SINGLE n 1.456 0.0100 1.456 0.0100
+TLL C17 O19  DOUBLE n 1.247 0.0187 1.247 0.0187
+TLL C5  O7   SINGLE n 1.247 0.0187 1.247 0.0187
+TLL C3  C5   SINGLE n 1.539 0.0100 1.539 0.0100
+TLL C6  C7   SINGLE n 1.527 0.0119 1.527 0.0119
+TLL C9  C6   SINGLE n 1.536 0.0125 1.536 0.0125
+TLL N10 C9   SINGLE n 1.454 0.0100 1.454 0.0100
+TLL C3  C8   SINGLE n 1.533 0.0100 1.533 0.0100
+TLL C8  C10  SINGLE n 1.518 0.0153 1.518 0.0153
+TLL N2  C3   SINGLE n 1.453 0.0100 1.453 0.0100
+TLL C10 C17  SINGLE n 1.519 0.0109 1.519 0.0109
+TLL C17 O18  SINGLE n 1.247 0.0187 1.247 0.0187
+TLL C14 N10  SINGLE n 1.375 0.0130 1.375 0.0130
+TLL CD  N2   SINGLE n 1.334 0.0100 1.334 0.0100
+TLL C15 C14  DOUBLE y 1.395 0.0124 1.395 0.0124
+TLL C16 C15  SINGLE y 1.379 0.0100 1.379 0.0100
+TLL C14 C13  SINGLE y 1.395 0.0124 1.395 0.0124
+TLL CD  OE2  DOUBLE n 1.229 0.0102 1.229 0.0102
+TLL CG  CD   SINGLE n 1.514 0.0100 1.514 0.0100
+TLL C11 C16  DOUBLE y 1.390 0.0100 1.390 0.0100
+TLL CB  CG   SINGLE n 1.522 0.0131 1.522 0.0131
+TLL C13 C12  DOUBLE y 1.379 0.0100 1.379 0.0100
+TLL C11 C12  SINGLE y 1.390 0.0100 1.390 0.0100
+TLL C   C11  SINGLE n 1.502 0.0100 1.502 0.0100
+TLL CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
+TLL N   C    SINGLE n 1.337 0.0101 1.337 0.0101
+TLL CA  N    SINGLE n 1.456 0.0100 1.456 0.0100
+TLL C   O    DOUBLE n 1.230 0.0114 1.230 0.0114
+TLL CT  CA   SINGLE n 1.539 0.0100 1.539 0.0100
+TLL O2  CT   DOUBLE n 1.247 0.0187 1.247 0.0187
+TLL CT  O1   SINGLE n 1.247 0.0187 1.247 0.0187
+TLL CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
+TLL CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0178
+TLL CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0178
+TLL CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0185
+TLL CG  HG1  SINGLE n 1.089 0.0100 0.981 0.0185
+TLL N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
+TLL C16 H16  SINGLE n 1.082 0.0130 0.941 0.0168
+TLL C15 H15  SINGLE n 1.082 0.0130 0.942 0.0198
+TLL C13 H13  SINGLE n 1.082 0.0130 0.942 0.0198
+TLL C12 H12  SINGLE n 1.082 0.0130 0.941 0.0168
+TLL N10 H10  SINGLE n 1.016 0.0100 0.880 0.0200
+TLL C9  H92  SINGLE n 1.089 0.0100 0.981 0.0200
+TLL C9  H91  SINGLE n 1.089 0.0100 0.981 0.0200
+TLL C6  H6   SINGLE n 1.089 0.0100 0.990 0.0145
+TLL C7  H72  SINGLE n 1.089 0.0100 0.981 0.0161
+TLL C7  H71  SINGLE n 1.089 0.0100 0.981 0.0161
+TLL N8  HN8  SINGLE n 1.016 0.0100 0.875 0.0200
+TLL N1  HN1  SINGLE n 1.016 0.0100 0.885 0.0200
+TLL NA2 HA22 SINGLE n 1.016 0.0100 0.877 0.0200
+TLL NA2 HA21 SINGLE n 1.016 0.0100 0.877 0.0200
+TLL N2  HN2  SINGLE n 1.016 0.0100 0.873 0.0200
+TLL C3  H3   SINGLE n 1.089 0.0100 0.991 0.0200
+TLL C8  H81  SINGLE n 1.089 0.0100 0.980 0.0178
+TLL C8  H8   SINGLE n 1.089 0.0100 0.980 0.0178
+TLL C10 H102 SINGLE n 1.089 0.0100 0.981 0.0185
+TLL C10 H101 SINGLE n 1.089 0.0100 0.981 0.0185
+TLL C1  H11  SINGLE n 1.089 0.0100 0.971 0.0199
+TLL C1  H14  SINGLE n 1.089 0.0100 0.971 0.0199
+TLL C1  H1   SINGLE n 1.089 0.0100 0.971 0.0199
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -182,133 +182,134 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TLL          CA          CT          O2     117.249    1.61
-TLL          CA          CT          O1     117.249    1.61
-TLL          O2          CT          O1     125.502    1.50
-TLL          CB          CA           N     110.984    1.61
-TLL          CB          CA          CT     111.638    2.31
-TLL          CB          CA          HA     108.155    1.50
-TLL           N          CA          CT     110.522    1.86
-TLL           N          CA          HA     107.930    1.50
-TLL          CT          CA          HA     108.327    1.50
-TLL          CG          CB          CA     113.079    1.50
-TLL          CG          CB         HB1     109.107    1.50
-TLL          CG          CB         HB2     109.107    1.50
-TLL          CA          CB         HB1     108.606    1.50
-TLL          CA          CB         HB2     108.606    1.50
-TLL         HB1          CB         HB2     107.844    1.50
-TLL          CD          CG          CB     111.900    2.98
-TLL          CD          CG         HG2     108.930    1.50
-TLL          CD          CG         HG1     108.930    1.50
-TLL          CB          CG         HG2     109.204    1.50
-TLL          CB          CG         HG1     109.204    1.50
-TLL         HG2          CG         HG1     107.846    1.50
-TLL          N2          CD         OE2     122.033    1.50
-TLL          N2          CD          CG     116.136    1.50
-TLL         OE2          CD          CG     121.831    1.50
-TLL           C           N          CA     122.253    1.50
-TLL           C           N          HN     119.427    1.94
-TLL          CA           N          HN     118.320    2.24
-TLL         C11           C           N     116.740    1.50
-TLL         C11           C           O     120.865    1.50
-TLL           N           C           O     122.394    1.50
-TLL         C16         C11         C12     118.950    1.50
-TLL         C16         C11           C     120.525    2.80
-TLL         C12         C11           C     120.525    2.80
-TLL         C15         C16         C11     120.771    1.50
-TLL         C15         C16         H16     119.399    1.50
-TLL         C11         C16         H16     119.830    1.50
-TLL         C14         C15         C16     120.067    1.50
-TLL         C14         C15         H15     119.866    1.50
-TLL         C16         C15         H15     120.067    1.50
-TLL         N10         C14         C15     120.313    2.16
-TLL         N10         C14         C13     120.313    2.16
-TLL         C15         C14         C13     119.374    1.50
-TLL         C14         C13         C12     120.067    1.50
-TLL         C14         C13         H13     119.866    1.50
-TLL         C12         C13         H13     120.067    1.50
-TLL         C13         C12         C11     120.771    1.50
-TLL         C13         C12         H12     119.399    1.50
-TLL         C11         C12         H12     119.830    1.50
-TLL          C9         N10         C14     123.314    1.53
-TLL          C9         N10         H10     118.172    1.91
-TLL         C14         N10         H10     118.514    1.50
-TLL          C6          C9         N10     112.102    2.36
-TLL          C6          C9         H92     108.942    1.50
-TLL          C6          C9         H91     108.942    1.50
-TLL         N10          C9         H92     109.052    1.50
-TLL         N10          C9         H91     109.052    1.50
-TLL         H92          C9         H91     108.244    1.51
-TLL          N5          C6          C7     110.160    1.50
-TLL          N5          C6          C9     110.271    2.01
-TLL          N5          C6          H6     109.078    1.50
-TLL          C7          C6          C9     111.163    2.25
-TLL          C7          C6          H6     107.845    1.60
-TLL          C9          C6          H6     107.920    1.50
-TLL         C4A          N5          C1     121.020    1.64
-TLL         C4A          N5          C6     120.652    3.00
-TLL          C1          N5          C6     118.327    1.78
-TLL          N8          C7          C6     110.160    1.50
-TLL          N8          C7         H72     109.467    1.50
-TLL          N8          C7         H71     109.467    1.50
-TLL          C6          C7         H72     109.290    1.50
-TLL          C6          C7         H71     109.290    1.50
-TLL         H72          C7         H71     108.194    1.50
-TLL         C8A          N8          C7     122.056    2.07
-TLL         C8A          N8         HN8     119.509    1.74
-TLL          C7          N8         HN8     118.435    1.50
-TLL          N1         C8A         C4A     119.666    1.68
-TLL          N1         C8A          N8     119.579    2.02
-TLL         C4A         C8A          N8     120.755    1.50
-TLL          C4         C4A         C8A     119.271    1.50
-TLL          C4         C4A          N5     120.665    1.55
-TLL         C8A         C4A          N5     120.064    1.50
-TLL          C2          N1         C8A     120.171    1.90
-TLL          C2          N1         HN1     118.931    1.95
-TLL         C8A          N1         HN1     120.898    1.50
-TLL          N3          C2         NA2     120.486    1.50
-TLL          N3          C2          N1     120.908    1.50
-TLL         NA2          C2          N1     118.606    1.50
-TLL          C2         NA2        HA22     119.700    2.06
-TLL          C2         NA2        HA21     119.700    2.06
-TLL        HA22         NA2        HA21     120.601    1.96
-TLL          C2          N3          C4     118.282    1.50
-TLL          N3          C4          O4     117.020    1.50
-TLL          N3          C4         C4A     121.702    1.50
-TLL          O4          C4         C4A     121.278    1.69
-TLL          C3          N2          CD     123.902    2.62
-TLL          C3          N2         HN2     117.635    2.15
-TLL          CD          N2         HN2     118.462    1.50
-TLL          C5          C3          C8     111.638    2.31
-TLL          C5          C3          N2     110.976    1.55
-TLL          C5          C3          H3     108.327    1.50
-TLL          C8          C3          N2     113.029    1.50
-TLL          C8          C3          H3     108.155    1.50
-TLL          N2          C3          H3     108.343    1.63
-TLL          O6          C5          O7     125.502    1.50
-TLL          O6          C5          C3     117.249    1.61
-TLL          O7          C5          C3     117.249    1.61
-TLL          C3          C8         C10     112.938    1.50
-TLL          C3          C8         H81     108.606    1.50
-TLL          C3          C8          H8     108.606    1.50
-TLL         C10          C8         H81     108.890    1.50
-TLL         C10          C8          H8     108.890    1.50
-TLL         H81          C8          H8     107.844    1.50
-TLL          C8         C10         C17     114.629    2.24
-TLL          C8         C10        H102     108.906    1.50
-TLL          C8         C10        H101     108.906    1.50
-TLL         C17         C10        H102     108.404    1.50
-TLL         C17         C10        H101     108.404    1.50
-TLL        H102         C10        H101     107.521    1.50
-TLL         O19         C17         C10     118.214    1.64
-TLL         O19         C17         O18     123.571    1.50
-TLL         C10         C17         O18     118.214    1.64
-TLL          N5          C1         H11     109.953    1.50
-TLL          N5          C1         H14     109.953    1.50
-TLL          N5          C1          H1     109.953    1.50
-TLL         H11          C1         H14     109.129    1.97
-TLL         H11          C1          H1     109.129    1.97
-TLL         H14          C1          H1     109.129    1.97
+TLL CA   CT  O2   117.249 1.61
+TLL CA   CT  O1   117.249 1.61
+TLL O2   CT  O1   125.502 1.50
+TLL CB   CA  N    110.984 1.61
+TLL CB   CA  CT   111.638 2.31
+TLL CB   CA  HA   108.155 1.50
+TLL N    CA  CT   110.522 1.86
+TLL N    CA  HA   107.930 1.50
+TLL CT   CA  HA   108.327 1.50
+TLL CG   CB  CA   113.079 1.50
+TLL CG   CB  HB1  109.107 1.50
+TLL CG   CB  HB2  109.107 1.50
+TLL CA   CB  HB1  108.606 1.50
+TLL CA   CB  HB2  108.606 1.50
+TLL HB1  CB  HB2  107.844 1.50
+TLL CD   CG  CB   111.900 2.98
+TLL CD   CG  HG2  108.930 1.50
+TLL CD   CG  HG1  108.930 1.50
+TLL CB   CG  HG2  109.204 1.50
+TLL CB   CG  HG1  109.204 1.50
+TLL HG2  CG  HG1  107.846 1.50
+TLL N2   CD  OE2  122.033 1.50
+TLL N2   CD  CG   116.136 1.50
+TLL OE2  CD  CG   121.831 1.50
+TLL C    N   CA   122.253 1.50
+TLL C    N   HN   119.427 1.94
+TLL CA   N   HN   118.320 2.24
+TLL C11  C   N    116.740 1.50
+TLL C11  C   O    120.865 1.50
+TLL N    C   O    122.394 1.50
+TLL C16  C11 C12  118.950 1.50
+TLL C16  C11 C    120.525 2.80
+TLL C12  C11 C    120.525 2.80
+TLL C15  C16 C11  120.771 1.50
+TLL C15  C16 H16  119.399 1.50
+TLL C11  C16 H16  119.830 1.50
+TLL C14  C15 C16  120.067 1.50
+TLL C14  C15 H15  119.866 1.50
+TLL C16  C15 H15  120.067 1.50
+TLL N10  C14 C15  120.313 2.16
+TLL N10  C14 C13  120.313 2.16
+TLL C15  C14 C13  119.374 1.50
+TLL C14  C13 C12  120.067 1.50
+TLL C14  C13 H13  119.866 1.50
+TLL C12  C13 H13  120.067 1.50
+TLL C13  C12 C11  120.771 1.50
+TLL C13  C12 H12  119.399 1.50
+TLL C11  C12 H12  119.830 1.50
+TLL C9   N10 C14  123.314 1.53
+TLL C9   N10 H10  118.172 1.91
+TLL C14  N10 H10  118.514 1.50
+TLL C6   C9  N10  112.102 2.36
+TLL C6   C9  H92  108.942 1.50
+TLL C6   C9  H91  108.942 1.50
+TLL N10  C9  H92  109.052 1.50
+TLL N10  C9  H91  109.052 1.50
+TLL H92  C9  H91  108.244 1.51
+TLL N5   C6  C7   110.160 1.50
+TLL N5   C6  C9   110.271 2.01
+TLL N5   C6  H6   109.078 1.50
+TLL C7   C6  C9   111.163 2.25
+TLL C7   C6  H6   107.845 1.60
+TLL C9   C6  H6   107.920 1.50
+TLL C4A  N5  C1   121.020 1.64
+TLL C4A  N5  C6   120.652 3.00
+TLL C1   N5  C6   118.327 1.78
+TLL N8   C7  C6   110.160 1.50
+TLL N8   C7  H72  109.467 1.50
+TLL N8   C7  H71  109.467 1.50
+TLL C6   C7  H72  109.290 1.50
+TLL C6   C7  H71  109.290 1.50
+TLL H72  C7  H71  108.194 1.50
+TLL C8A  N8  C7   122.056 2.07
+TLL C8A  N8  HN8  119.509 1.74
+TLL C7   N8  HN8  118.435 1.50
+TLL N1   C8A C4A  119.666 1.68
+TLL N1   C8A N8   119.579 2.02
+TLL C4A  C8A N8   120.755 1.50
+TLL C4   C4A C8A  119.271 1.50
+TLL C4   C4A N5   120.665 1.55
+TLL C8A  C4A N5   120.064 1.50
+TLL C2   N1  C8A  120.171 1.90
+TLL C2   N1  HN1  118.931 1.95
+TLL C8A  N1  HN1  120.898 1.50
+TLL N3   C2  NA2  120.486 1.50
+TLL N3   C2  N1   120.908 1.50
+TLL NA2  C2  N1   118.606 1.50
+TLL C2   NA2 HA22 119.700 2.06
+TLL C2   NA2 HA21 119.700 2.06
+TLL HA22 NA2 HA21 120.601 1.96
+TLL C2   N3  C4   118.282 1.50
+TLL N3   C4  O4   117.020 1.50
+TLL N3   C4  C4A  121.702 1.50
+TLL O4   C4  C4A  121.278 1.69
+TLL C3   N2  CD   123.902 2.62
+TLL C3   N2  HN2  117.635 2.15
+TLL CD   N2  HN2  118.462 1.50
+TLL C5   C3  C8   111.638 2.31
+TLL C5   C3  N2   110.976 1.55
+TLL C5   C3  H3   108.327 1.50
+TLL C8   C3  N2   113.029 1.50
+TLL C8   C3  H3   108.155 1.50
+TLL N2   C3  H3   108.343 1.63
+TLL O6   C5  O7   125.502 1.50
+TLL O6   C5  C3   117.249 1.61
+TLL O7   C5  C3   117.249 1.61
+TLL C3   C8  C10  112.938 1.50
+TLL C3   C8  H81  108.606 1.50
+TLL C3   C8  H8   108.606 1.50
+TLL C10  C8  H81  108.890 1.50
+TLL C10  C8  H8   108.890 1.50
+TLL H81  C8  H8   107.844 1.50
+TLL C8   C10 C17  114.629 2.24
+TLL C8   C10 H102 108.906 1.50
+TLL C8   C10 H101 108.906 1.50
+TLL C17  C10 H102 108.404 1.50
+TLL C17  C10 H101 108.404 1.50
+TLL H102 C10 H101 107.521 1.50
+TLL O19  C17 C10  118.214 1.64
+TLL O19  C17 O18  123.571 1.50
+TLL C10  C17 O18  118.214 1.64
+TLL N5   C1  H11  109.953 1.50
+TLL N5   C1  H14  109.953 1.50
+TLL N5   C1  H1   109.953 1.50
+TLL H11  C1  H14  109.129 1.97
+TLL H11  C1  H1   109.129 1.97
+TLL H14  C1  H1   109.129 1.97
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -319,41 +320,42 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TLL       const_sp2_sp2_3           C         C11         C16         C15     180.000     5.0     2
-TLL              const_43           C         C11         C12         C13     180.000    10.0     2
-TLL       const_sp2_sp2_5         C14         C15         C16         C11       0.000     5.0     2
-TLL              const_11         N10         C14         C15         C16     180.000    10.0     2
-TLL              const_14         C12         C13         C14         N10     180.000    10.0     2
-TLL            sp2_sp2_13         C15         C14         N10          C9     180.000     5.0     2
-TLL              const_17         C11         C12         C13         C14       0.000    10.0     2
-TLL            sp2_sp3_26         C14         N10          C9          C6     120.000    10.0     6
-TLL            sp3_sp3_10          N5          C6          C9         N10     180.000    10.0     3
-TLL             sp2_sp3_5          C1          N5          C6          C9     -60.000    10.0     6
-TLL             sp3_sp3_4          C9          C6          C7          N8      60.000    10.0     3
-TLL            sp2_sp3_55          O2          CT          CA          CB       0.000    10.0     6
-TLL             sp2_sp2_4          C4         C4A          N5          C1       0.000     5.0     2
-TLL            sp2_sp3_13         C4A          N5          C1         H11     150.000    10.0     6
-TLL             sp2_sp3_7         C8A          N8          C7          C6       0.000    10.0     6
-TLL             sp2_sp2_7          N1         C8A          N8          C7     180.000     5.0     2
-TLL              const_37          C4         C4A         C8A          N1       0.000    10.0     2
-TLL              const_21         C4A         C8A          N1          C2       0.000    10.0     2
-TLL              const_35          O4          C4         C4A         C8A     180.000    10.0     2
-TLL              const_27         NA2          C2          N1         C8A     180.000    10.0     2
-TLL            sp2_sp2_11          N3          C2         NA2        HA22       0.000     5.0     2
-TLL              const_30         NA2          C2          N3          C4     180.000    10.0     2
-TLL              const_32          O4          C4          N3          C2     180.000    10.0     2
-TLL            sp2_sp3_31          CD          N2          C3          C5       0.000    10.0     6
-TLL            sp2_sp3_19          O6          C5          C3          C8       0.000    10.0     6
-TLL            sp3_sp3_19          C5          C3          C8         C10     180.000    10.0     3
-TLL            sp3_sp3_28         C17         C10          C8          C3     180.000    10.0     3
-TLL            sp2_sp3_38         O19         C17         C10          C8     120.000    10.0     6
-TLL            sp3_sp3_46           N          CA          CB          CG     180.000    10.0     3
-TLL            sp2_sp3_49           C           N          CA          CB       0.000    10.0     6
-TLL            sp3_sp3_37          CA          CB          CG          CD     180.000    10.0     3
-TLL            sp2_sp3_44          N2          CD          CG          CB     120.000    10.0     6
-TLL            sp2_sp2_19         OE2          CD          N2          C3       0.000     5.0     2
-TLL            sp2_sp2_27           O           C           N          CA       0.000     5.0     2
-TLL            sp2_sp2_21           N           C         C11         C16     180.000     5.0     2
+TLL const_sp2_sp2_3 C   C11 C16 C15  180.000 5.0  2
+TLL const_43        C   C11 C12 C13  180.000 10.0 2
+TLL const_sp2_sp2_5 C14 C15 C16 C11  0.000   5.0  2
+TLL const_11        N10 C14 C15 C16  180.000 10.0 2
+TLL const_14        C12 C13 C14 N10  180.000 10.0 2
+TLL sp2_sp2_13      C15 C14 N10 C9   180.000 5.0  2
+TLL const_17        C11 C12 C13 C14  0.000   10.0 2
+TLL sp2_sp3_26      C14 N10 C9  C6   120.000 10.0 6
+TLL sp3_sp3_10      N5  C6  C9  N10  180.000 10.0 3
+TLL sp2_sp3_5       C1  N5  C6  C9   -60.000 10.0 6
+TLL sp3_sp3_4       C9  C6  C7  N8   60.000  10.0 3
+TLL sp2_sp3_55      O2  CT  CA  CB   0.000   10.0 6
+TLL sp2_sp2_4       C4  C4A N5  C1   0.000   5.0  2
+TLL sp2_sp3_13      C4A N5  C1  H11  150.000 10.0 6
+TLL sp2_sp3_7       C8A N8  C7  C6   0.000   10.0 6
+TLL sp2_sp2_7       N1  C8A N8  C7   180.000 5.0  2
+TLL const_37        C4  C4A C8A N1   0.000   10.0 2
+TLL const_21        C4A C8A N1  C2   0.000   10.0 2
+TLL const_35        O4  C4  C4A C8A  180.000 10.0 2
+TLL const_27        NA2 C2  N1  C8A  180.000 10.0 2
+TLL sp2_sp2_11      N3  C2  NA2 HA22 0.000   5.0  2
+TLL const_30        NA2 C2  N3  C4   180.000 10.0 2
+TLL const_32        O4  C4  N3  C2   180.000 10.0 2
+TLL sp2_sp3_31      CD  N2  C3  C5   0.000   10.0 6
+TLL sp2_sp3_19      O6  C5  C3  C8   0.000   10.0 6
+TLL sp3_sp3_19      C5  C3  C8  C10  180.000 10.0 3
+TLL sp3_sp3_28      C17 C10 C8  C3   180.000 10.0 3
+TLL sp2_sp3_38      O19 C17 C10 C8   120.000 10.0 6
+TLL sp3_sp3_46      N   CA  CB  CG   180.000 10.0 3
+TLL sp2_sp3_49      C   N   CA  CB   0.000   10.0 6
+TLL sp3_sp3_37      CA  CB  CG  CD   180.000 10.0 3
+TLL sp2_sp3_44      N2  CD  CG  CB   120.000 10.0 6
+TLL sp2_sp2_19      OE2 CD  N2  C3   0.000   5.0  2
+TLL sp2_sp2_27      O   C   N   CA   0.000   5.0  2
+TLL sp2_sp2_21      N   C   C11 C16  180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -362,100 +364,114 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TLL    chir_1    CA    N    CT    CB    positive
-TLL    chir_2    C6    N5    C7    C9    positive
-TLL    chir_3    C3    N2    C5    C8    positive
+TLL chir_1 CA N  CT CB positive
+TLL chir_2 C6 N5 C7 C9 positive
+TLL chir_3 C3 N2 C5 C8 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TLL    plan-1           C   0.020
-TLL    plan-1         C11   0.020
-TLL    plan-1         C12   0.020
-TLL    plan-1         C13   0.020
-TLL    plan-1         C14   0.020
-TLL    plan-1         C15   0.020
-TLL    plan-1         C16   0.020
-TLL    plan-1         H12   0.020
-TLL    plan-1         H13   0.020
-TLL    plan-1         H15   0.020
-TLL    plan-1         H16   0.020
-TLL    plan-1         N10   0.020
-TLL    plan-2          C2   0.020
-TLL    plan-2          C4   0.020
-TLL    plan-2         C4A   0.020
-TLL    plan-2         C8A   0.020
-TLL    plan-2         HN1   0.020
-TLL    plan-2          N1   0.020
-TLL    plan-2          N3   0.020
-TLL    plan-2          N5   0.020
-TLL    plan-2          N8   0.020
-TLL    plan-2         NA2   0.020
-TLL    plan-2          O4   0.020
-TLL    plan-3          CA   0.020
-TLL    plan-3          CT   0.020
-TLL    plan-3          O1   0.020
-TLL    plan-3          O2   0.020
-TLL    plan-4          CD   0.020
-TLL    plan-4          CG   0.020
-TLL    plan-4          N2   0.020
-TLL    plan-4         OE2   0.020
-TLL    plan-5           C   0.020
-TLL    plan-5          CA   0.020
-TLL    plan-5          HN   0.020
-TLL    plan-5           N   0.020
-TLL    plan-6           C   0.020
-TLL    plan-6         C11   0.020
-TLL    plan-6           N   0.020
-TLL    plan-6           O   0.020
-TLL    plan-7         C14   0.020
-TLL    plan-7          C9   0.020
-TLL    plan-7         H10   0.020
-TLL    plan-7         N10   0.020
-TLL    plan-8          C1   0.020
-TLL    plan-8         C4A   0.020
-TLL    plan-8          C6   0.020
-TLL    plan-8          N5   0.020
-TLL    plan-9          C7   0.020
-TLL    plan-9         C8A   0.020
-TLL    plan-9         HN8   0.020
-TLL    plan-9          N8   0.020
-TLL   plan-10          C2   0.020
-TLL   plan-10        HA21   0.020
-TLL   plan-10        HA22   0.020
-TLL   plan-10         NA2   0.020
-TLL   plan-11          C3   0.020
-TLL   plan-11          CD   0.020
-TLL   plan-11         HN2   0.020
-TLL   plan-11          N2   0.020
-TLL   plan-12          C3   0.020
-TLL   plan-12          C5   0.020
-TLL   plan-12          O6   0.020
-TLL   plan-12          O7   0.020
-TLL   plan-13         C10   0.020
-TLL   plan-13         C17   0.020
-TLL   plan-13         O18   0.020
-TLL   plan-13         O19   0.020
+TLL plan-1  C    0.020
+TLL plan-1  C11  0.020
+TLL plan-1  C12  0.020
+TLL plan-1  C13  0.020
+TLL plan-1  C14  0.020
+TLL plan-1  C15  0.020
+TLL plan-1  C16  0.020
+TLL plan-1  H12  0.020
+TLL plan-1  H13  0.020
+TLL plan-1  H15  0.020
+TLL plan-1  H16  0.020
+TLL plan-1  N10  0.020
+TLL plan-2  C2   0.020
+TLL plan-2  C4   0.020
+TLL plan-2  C4A  0.020
+TLL plan-2  C8A  0.020
+TLL plan-2  HN1  0.020
+TLL plan-2  N1   0.020
+TLL plan-2  N3   0.020
+TLL plan-2  N5   0.020
+TLL plan-2  N8   0.020
+TLL plan-2  NA2  0.020
+TLL plan-2  O4   0.020
+TLL plan-3  CA   0.020
+TLL plan-3  CT   0.020
+TLL plan-3  O1   0.020
+TLL plan-3  O2   0.020
+TLL plan-4  CD   0.020
+TLL plan-4  CG   0.020
+TLL plan-4  N2   0.020
+TLL plan-4  OE2  0.020
+TLL plan-5  C    0.020
+TLL plan-5  CA   0.020
+TLL plan-5  HN   0.020
+TLL plan-5  N    0.020
+TLL plan-6  C    0.020
+TLL plan-6  C11  0.020
+TLL plan-6  N    0.020
+TLL plan-6  O    0.020
+TLL plan-7  C14  0.020
+TLL plan-7  C9   0.020
+TLL plan-7  H10  0.020
+TLL plan-7  N10  0.020
+TLL plan-8  C1   0.020
+TLL plan-8  C4A  0.020
+TLL plan-8  C6   0.020
+TLL plan-8  N5   0.020
+TLL plan-9  C7   0.020
+TLL plan-9  C8A  0.020
+TLL plan-9  HN8  0.020
+TLL plan-9  N8   0.020
+TLL plan-10 C2   0.020
+TLL plan-10 HA21 0.020
+TLL plan-10 HA22 0.020
+TLL plan-10 NA2  0.020
+TLL plan-11 C3   0.020
+TLL plan-11 CD   0.020
+TLL plan-11 HN2  0.020
+TLL plan-11 N2   0.020
+TLL plan-12 C3   0.020
+TLL plan-12 C5   0.020
+TLL plan-12 O6   0.020
+TLL plan-12 O7   0.020
+TLL plan-13 C10  0.020
+TLL plan-13 C17  0.020
+TLL plan-13 O18  0.020
+TLL plan-13 O19  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TLL           SMILES              ACDLabs 12.01                                                                                                                                                                                  O=C(O)C(NC(=O)CCC(C(=O)O)NC(=O)c1ccc(cc1)NCC2N(C=3C(=O)N=C(NC=3NC2)N)C)CCC(=O)O
-TLL            InChI                InChI  1.03 InChI=1S/C25H32N8O9/c1-33-14(11-28-20-19(33)22(38)32-25(26)31-20)10-27-13-4-2-12(3-5-13)21(37)30-16(24(41)42)6-8-17(34)29-15(23(39)40)7-9-18(35)36/h2-5,14-16,27H,6-11H2,1H3,(H,29,34)(H,30,37)(H,35,36)(H,39,40)(H,41,42)(H4,26,28,31,32,38)/t14-,15-,16-/m0/s1
-TLL         InChIKey                InChI  1.03                                                                                                                                                                                                                                      VNEFZDDORGCJSD-JYJNAYRXSA-N
-TLL SMILES_CANONICAL               CACTVS 3.385                                                                                                                                                                    CN1[C@@H](CNc2ccc(cc2)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O)CNC3=C1C(=O)N=C(N)N3
-TLL           SMILES               CACTVS 3.385                                                                                                                                                                          CN1[CH](CNc2ccc(cc2)C(=O)N[CH](CCC(=O)N[CH](CCC(O)=O)C(O)=O)C(O)=O)CNC3=C1C(=O)N=C(N)N3
-TLL SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                                                                                                                                                     CN1[C@H](CNC2=C1C(=O)N=C(N2)N)CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O
-TLL           SMILES "OpenEye OEToolkits" 1.9.2                                                                                                                                                                                   CN1C(CNC2=C1C(=O)N=C(N2)N)CNc3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O
+TLL SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)CCC(C(=O)O)NC(=O)c1ccc(cc1)NCC2N(C=3C(=O)N=C(NC=3NC2)N)C)CCC(=O)O
+TLL InChI            InChI                1.03  InChI=1S/C25H32N8O9/c1-33-14(11-28-20-19(33)22(38)32-25(26)31-20)10-27-13-4-2-12(3-5-13)21(37)30-16(24(41)42)6-8-17(34)29-15(23(39)40)7-9-18(35)36/h2-5,14-16,27H,6-11H2,1H3,(H,29,34)(H,30,37)(H,35,36)(H,39,40)(H,41,42)(H4,26,28,31,32,38)/t14-,15-,16-/m0/s1
+TLL InChIKey         InChI                1.03  VNEFZDDORGCJSD-JYJNAYRXSA-N
+TLL SMILES_CANONICAL CACTVS               3.385 CN1[C@@H](CNc2ccc(cc2)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O)CNC3=C1C(=O)N=C(N)N3
+TLL SMILES           CACTVS               3.385 CN1[CH](CNc2ccc(cc2)C(=O)N[CH](CCC(=O)N[CH](CCC(O)=O)C(O)=O)C(O)=O)CNC3=C1C(=O)N=C(N)N3
+TLL SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 CN1[C@H](CNC2=C1C(=O)N=C(N2)N)CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O
+TLL SMILES           "OpenEye OEToolkits" 1.9.2 CN1C(CNC2=C1C(=O)N=C(N2)N)CNc3ccc(cc3)C(=O)NC(CCC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TLL acedrg               243         "dictionary generator"                  
-TLL acedrg_database      11          "data source"                           
-TLL rdkit                2017.03.2   "Chemoinformatics tool"
-TLL refmac5              5.8.0238    "optimization tool"                     
+TLL acedrg          243       "dictionary generator"
+TLL acedrg_database 11        "data source"
+TLL rdkit           2017.03.2 "Chemoinformatics tool"
+TLL refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+TLL M-peptide O2 O
+TLL M-peptide CT C
+TLL M-peptide C  CN
+TLL M-peptide O1 OXT
+TLL M-peptide HN H

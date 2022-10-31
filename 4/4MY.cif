@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-4MY     4MY      "Myo inositol 3,4,5,6 tetrakisphosphate"     NON-POLYMER     36     28     .     
-#
+4MY 4MY "Myo inositol 3,4,5,6 tetrakisphosphate" NON-POLYMER 36 28 .
+
 data_comp_4MY
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,42 +19,43 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-4MY     C1      C       CH1     0       -20.590     -13.058     -10.862     
-4MY     C2      C       CH1     0       -20.221     -11.664     -11.363     
-4MY     C3      C       CH1     0       -19.944     -10.717     -10.200     
-4MY     P3      P       P       0       -20.356     -8.089      -10.707     
-4MY     C4      C       CH1     0       -18.877     -11.283     -9.275      
-4MY     P4      P       P       0       -17.290     -9.671      -7.794      
-4MY     C5      C       CH1     0       -19.302     -12.646     -8.755      
-4MY     P5      P       P       0       -18.470     -13.488     -6.325      
-4MY     C6      C       CH1     0       -19.528     -13.602     -9.914      
-4MY     P6      P       P       0       -19.147     -16.257     -9.548      
-4MY     O11     O       OH1     0       -20.750     -13.942     -11.972     
-4MY     O12     O       OH1     0       -19.076     -11.748     -12.213     
-4MY     O13     O       O2      0       -19.467     -9.437      -10.734     
-4MY     O14     O       O2      0       -18.704     -10.374     -8.138      
-4MY     O15     O       O2      0       -18.242     -13.179     -7.895      
-4MY     O16     O       O2      0       -19.988     -14.887     -9.380      
-4MY     O23     O       O       0       -21.643     -8.403      -11.447     
-4MY     O24     O       OP      -1      -17.526     -8.791      -6.581      
-4MY     O25     O       OP      -1      -17.165     -14.052     -5.796      
-4MY     O26     O       OP      -1      -17.767     -15.992     -8.978      
-4MY     O33     O       OP      -1      -20.601     -7.760      -9.247      
-4MY     O34     O       OP      -1      -16.309     -10.792     -7.506      
-4MY     O35     O       O       0       -19.604     -14.493     -6.242      
-4MY     O36     O       OP      -1      -19.894     -17.324     -8.769      
-4MY     O43     O       OP      -1      -19.542     -7.017      -11.406     
-4MY     O44     O       O       0       -16.897     -8.866      -9.018      
-4MY     O45     O       OP      -1      -18.829     -12.166     -5.672      
-4MY     O46     O       O       0       -19.104     -16.559     -11.034     
-4MY     H1      H       H       0       -21.453     -13.002     -10.378     
-4MY     H2      H       H       0       -20.980     -11.308     -11.892     
-4MY     H3      H       H       0       -20.787     -10.573     -9.682      
-4MY     H4      H       H       0       -18.015     -11.371     -9.774      
-4MY     H5      H       H       0       -20.149     -12.553     -8.231      
-4MY     H6      H       H       0       -18.670     -13.729     -10.413     
-4MY     HO11    H       H       0       -21.084     -14.665     -11.699     
-4MY     HO12    H       H       0       -18.967     -11.008     -12.597     
+4MY C1   C CH1 0  -20.590 -13.058 -10.862
+4MY C2   C CH1 0  -20.221 -11.664 -11.363
+4MY C3   C CH1 0  -19.944 -10.717 -10.200
+4MY P3   P P   0  -20.356 -8.089  -10.707
+4MY C4   C CH1 0  -18.877 -11.283 -9.275
+4MY P4   P P   0  -17.290 -9.671  -7.794
+4MY C5   C CH1 0  -19.302 -12.646 -8.755
+4MY P5   P P   0  -18.470 -13.488 -6.325
+4MY C6   C CH1 0  -19.528 -13.602 -9.914
+4MY P6   P P   0  -19.147 -16.257 -9.548
+4MY O11  O OH1 0  -20.750 -13.942 -11.972
+4MY O12  O OH1 0  -19.076 -11.748 -12.213
+4MY O13  O O2  0  -19.467 -9.437  -10.734
+4MY O14  O O2  0  -18.704 -10.374 -8.138
+4MY O15  O O2  0  -18.242 -13.179 -7.895
+4MY O16  O O2  0  -19.988 -14.887 -9.380
+4MY O23  O O   0  -21.643 -8.403  -11.447
+4MY O24  O OP  -1 -17.526 -8.791  -6.581
+4MY O25  O OP  -1 -17.165 -14.052 -5.796
+4MY O26  O OP  -1 -17.767 -15.992 -8.978
+4MY O33  O OP  -1 -20.601 -7.760  -9.247
+4MY O34  O OP  -1 -16.309 -10.792 -7.506
+4MY O35  O O   0  -19.604 -14.493 -6.242
+4MY O36  O OP  -1 -19.894 -17.324 -8.769
+4MY O43  O OP  -1 -19.542 -7.017  -11.406
+4MY O44  O O   0  -16.897 -8.866  -9.018
+4MY O45  O OP  -1 -18.829 -12.166 -5.672
+4MY O46  O O   0  -19.104 -16.559 -11.034
+4MY H1   H H   0  -21.453 -13.002 -10.378
+4MY H2   H H   0  -20.980 -11.308 -11.892
+4MY H3   H H   0  -20.787 -10.573 -9.682
+4MY H4   H H   0  -18.015 -11.371 -9.774
+4MY H5   H H   0  -20.149 -12.553 -8.231
+4MY H6   H H   0  -18.670 -13.729 -10.413
+4MY HO11 H H   0  -21.084 -14.665 -11.699
+4MY HO12 H H   0  -18.967 -11.008 -12.597
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -67,42 +66,43 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-4MY          C1         O11      SINGLE       n     1.427  0.0138     1.427  0.0138
-4MY          C1          C2      SINGLE       n     1.523  0.0100     1.523  0.0100
-4MY          C1          C6      SINGLE       n     1.522  0.0100     1.522  0.0100
-4MY          C2         O12      SINGLE       n     1.427  0.0138     1.427  0.0138
-4MY          C2          C3      SINGLE       n     1.522  0.0100     1.522  0.0100
-4MY          C3         O13      SINGLE       n     1.465  0.0114     1.465  0.0114
-4MY          C3          C4      SINGLE       n     1.519  0.0100     1.519  0.0100
-4MY          P3         O23      DOUBLE       n     1.517  0.0192     1.517  0.0192
-4MY          P3         O13      SINGLE       n     1.614  0.0178     1.614  0.0178
-4MY          P3         O43      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          P3         O33      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          C4          C5      SINGLE       n     1.519  0.0100     1.519  0.0100
-4MY          C4         O14      SINGLE       n     1.465  0.0114     1.465  0.0114
-4MY          P4         O44      DOUBLE       n     1.517  0.0192     1.517  0.0192
-4MY          P4         O14      SINGLE       n     1.614  0.0178     1.614  0.0178
-4MY          P4         O24      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          P4         O34      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          C5          C6      SINGLE       n     1.519  0.0100     1.519  0.0100
-4MY          C5         O15      SINGLE       n     1.465  0.0114     1.465  0.0114
-4MY          P5         O15      SINGLE       n     1.614  0.0178     1.614  0.0178
-4MY          P5         O35      DOUBLE       n     1.517  0.0192     1.517  0.0192
-4MY          P5         O25      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          P5         O45      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          C6         O16      SINGLE       n     1.465  0.0114     1.465  0.0114
-4MY          P6         O46      DOUBLE       n     1.517  0.0192     1.517  0.0192
-4MY          P6         O26      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          P6         O16      SINGLE       n     1.614  0.0178     1.614  0.0178
-4MY          P6         O36      SINGLE       n     1.517  0.0192     1.517  0.0192
-4MY          C1          H1      SINGLE       n     1.089  0.0100     0.991  0.0121
-4MY          C2          H2      SINGLE       n     1.089  0.0100     0.991  0.0121
-4MY          C3          H3      SINGLE       n     1.089  0.0100     1.000  0.0100
-4MY          C4          H4      SINGLE       n     1.089  0.0100     1.000  0.0100
-4MY          C5          H5      SINGLE       n     1.089  0.0100     1.000  0.0100
-4MY          C6          H6      SINGLE       n     1.089  0.0100     1.000  0.0100
-4MY         O11        HO11      SINGLE       n     0.970  0.0120     0.841  0.0200
-4MY         O12        HO12      SINGLE       n     0.970  0.0120     0.841  0.0200
+4MY C1  O11  SINGLE n 1.427 0.0138 1.427 0.0138
+4MY C1  C2   SINGLE n 1.523 0.0100 1.523 0.0100
+4MY C1  C6   SINGLE n 1.522 0.0100 1.522 0.0100
+4MY C2  O12  SINGLE n 1.427 0.0138 1.427 0.0138
+4MY C2  C3   SINGLE n 1.522 0.0100 1.522 0.0100
+4MY C3  O13  SINGLE n 1.465 0.0114 1.465 0.0114
+4MY C3  C4   SINGLE n 1.519 0.0100 1.519 0.0100
+4MY P3  O23  DOUBLE n 1.517 0.0192 1.517 0.0192
+4MY P3  O13  SINGLE n 1.614 0.0178 1.614 0.0178
+4MY P3  O43  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY P3  O33  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY C4  C5   SINGLE n 1.519 0.0100 1.519 0.0100
+4MY C4  O14  SINGLE n 1.465 0.0114 1.465 0.0114
+4MY P4  O44  DOUBLE n 1.517 0.0192 1.517 0.0192
+4MY P4  O14  SINGLE n 1.614 0.0178 1.614 0.0178
+4MY P4  O24  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY P4  O34  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY C5  C6   SINGLE n 1.519 0.0100 1.519 0.0100
+4MY C5  O15  SINGLE n 1.465 0.0114 1.465 0.0114
+4MY P5  O15  SINGLE n 1.614 0.0178 1.614 0.0178
+4MY P5  O35  DOUBLE n 1.517 0.0192 1.517 0.0192
+4MY P5  O25  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY P5  O45  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY C6  O16  SINGLE n 1.465 0.0114 1.465 0.0114
+4MY P6  O46  DOUBLE n 1.517 0.0192 1.517 0.0192
+4MY P6  O26  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY P6  O16  SINGLE n 1.614 0.0178 1.614 0.0178
+4MY P6  O36  SINGLE n 1.517 0.0192 1.517 0.0192
+4MY C1  H1   SINGLE n 1.089 0.0100 0.991 0.0121
+4MY C2  H2   SINGLE n 1.089 0.0100 0.991 0.0121
+4MY C3  H3   SINGLE n 1.089 0.0100 1.000 0.0100
+4MY C4  H4   SINGLE n 1.089 0.0100 1.000 0.0100
+4MY C5  H5   SINGLE n 1.089 0.0100 1.000 0.0100
+4MY C6  H6   SINGLE n 1.089 0.0100 1.000 0.0100
+4MY O11 HO11 SINGLE n 0.970 0.0120 0.841 0.0200
+4MY O12 HO12 SINGLE n 0.970 0.0120 0.841 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -110,72 +110,73 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-4MY         O11          C1          C2     109.587    1.51
-4MY         O11          C1          C6     110.081    2.02
-4MY         O11          C1          H1     108.767    1.50
-4MY          C2          C1          C6     110.796    1.54
-4MY          C2          C1          H1     108.868    1.50
-4MY          C6          C1          H1     109.166    1.50
-4MY          C1          C2         O12     109.587    1.51
-4MY          C1          C2          C3     110.796    1.54
-4MY          C1          C2          H2     108.868    1.50
-4MY         O12          C2          C3     110.081    2.02
-4MY         O12          C2          H2     108.767    1.50
-4MY          C3          C2          H2     109.166    1.50
-4MY          C2          C3         O13     108.118    1.66
-4MY          C2          C3          C4     110.796    1.54
-4MY          C2          C3          H3     109.166    1.50
-4MY         O13          C3          C4     108.118    1.66
-4MY         O13          C3          H3     109.322    1.50
-4MY          C4          C3          H3     109.166    1.50
-4MY         O23          P3         O13     106.518    3.00
-4MY         O23          P3         O43     112.139    1.52
-4MY         O23          P3         O33     112.139    1.52
-4MY         O13          P3         O43     106.518    3.00
-4MY         O13          P3         O33     106.518    3.00
-4MY         O43          P3         O33     112.139    1.52
-4MY          C3          C4          C5     110.796    1.54
-4MY          C3          C4         O14     108.118    1.66
-4MY          C3          C4          H4     109.166    1.50
-4MY          C5          C4         O14     108.118    1.66
-4MY          C5          C4          H4     109.166    1.50
-4MY         O14          C4          H4     109.322    1.50
-4MY         O44          P4         O14     106.518    3.00
-4MY         O44          P4         O24     112.139    1.52
-4MY         O44          P4         O34     112.139    1.52
-4MY         O14          P4         O24     106.518    3.00
-4MY         O14          P4         O34     106.518    3.00
-4MY         O24          P4         O34     112.139    1.52
-4MY          C4          C5          C6     110.796    1.54
-4MY          C4          C5         O15     108.118    1.66
-4MY          C4          C5          H5     109.166    1.50
-4MY          C6          C5         O15     108.118    1.66
-4MY          C6          C5          H5     109.166    1.50
-4MY         O15          C5          H5     109.322    1.50
-4MY         O15          P5         O35     106.518    3.00
-4MY         O15          P5         O25     106.518    3.00
-4MY         O15          P5         O45     106.518    3.00
-4MY         O35          P5         O25     112.139    1.52
-4MY         O35          P5         O45     112.139    1.52
-4MY         O25          P5         O45     112.139    1.52
-4MY          C1          C6          C5     110.796    1.54
-4MY          C1          C6         O16     108.118    1.66
-4MY          C1          C6          H6     109.166    1.50
-4MY          C5          C6         O16     108.118    1.66
-4MY          C5          C6          H6     109.166    1.50
-4MY         O16          C6          H6     109.322    1.50
-4MY         O46          P6         O26     112.139    1.52
-4MY         O46          P6         O16     106.518    3.00
-4MY         O46          P6         O36     112.139    1.52
-4MY         O26          P6         O16     106.518    3.00
-4MY         O26          P6         O36     112.139    1.52
-4MY         O16          P6         O36     106.518    3.00
-4MY          C1         O11        HO11     108.895    2.41
-4MY          C2         O12        HO12     108.895    2.41
-4MY          C3         O13          P3     122.306    2.63
-4MY          C4         O14          P4     122.306    2.63
-4MY          C5         O15          P5     122.306    2.63
-4MY          C6         O16          P6     122.306    2.63
+4MY O11 C1  C2   109.587 1.51
+4MY O11 C1  C6   110.081 2.02
+4MY O11 C1  H1   108.767 1.50
+4MY C2  C1  C6   110.796 1.54
+4MY C2  C1  H1   108.868 1.50
+4MY C6  C1  H1   109.166 1.50
+4MY C1  C2  O12  109.587 1.51
+4MY C1  C2  C3   110.796 1.54
+4MY C1  C2  H2   108.868 1.50
+4MY O12 C2  C3   110.081 2.02
+4MY O12 C2  H2   108.767 1.50
+4MY C3  C2  H2   109.166 1.50
+4MY C2  C3  O13  108.118 1.66
+4MY C2  C3  C4   110.796 1.54
+4MY C2  C3  H3   109.166 1.50
+4MY O13 C3  C4   108.118 1.66
+4MY O13 C3  H3   109.322 1.50
+4MY C4  C3  H3   109.166 1.50
+4MY O23 P3  O13  106.518 3.00
+4MY O23 P3  O43  112.139 1.52
+4MY O23 P3  O33  112.139 1.52
+4MY O13 P3  O43  106.518 3.00
+4MY O13 P3  O33  106.518 3.00
+4MY O43 P3  O33  112.139 1.52
+4MY C3  C4  C5   110.796 1.54
+4MY C3  C4  O14  108.118 1.66
+4MY C3  C4  H4   109.166 1.50
+4MY C5  C4  O14  108.118 1.66
+4MY C5  C4  H4   109.166 1.50
+4MY O14 C4  H4   109.322 1.50
+4MY O44 P4  O14  106.518 3.00
+4MY O44 P4  O24  112.139 1.52
+4MY O44 P4  O34  112.139 1.52
+4MY O14 P4  O24  106.518 3.00
+4MY O14 P4  O34  106.518 3.00
+4MY O24 P4  O34  112.139 1.52
+4MY C4  C5  C6   110.796 1.54
+4MY C4  C5  O15  108.118 1.66
+4MY C4  C5  H5   109.166 1.50
+4MY C6  C5  O15  108.118 1.66
+4MY C6  C5  H5   109.166 1.50
+4MY O15 C5  H5   109.322 1.50
+4MY O15 P5  O35  106.518 3.00
+4MY O15 P5  O25  106.518 3.00
+4MY O15 P5  O45  106.518 3.00
+4MY O35 P5  O25  112.139 1.52
+4MY O35 P5  O45  112.139 1.52
+4MY O25 P5  O45  112.139 1.52
+4MY C1  C6  C5   110.796 1.54
+4MY C1  C6  O16  108.118 1.66
+4MY C1  C6  H6   109.166 1.50
+4MY C5  C6  O16  108.118 1.66
+4MY C5  C6  H6   109.166 1.50
+4MY O16 C6  H6   109.322 1.50
+4MY O46 P6  O26  112.139 1.52
+4MY O46 P6  O16  106.518 3.00
+4MY O46 P6  O36  112.139 1.52
+4MY O26 P6  O16  106.518 3.00
+4MY O26 P6  O36  112.139 1.52
+4MY O16 P6  O36  106.518 3.00
+4MY C1  O11 HO11 108.895 2.41
+4MY C2  O12 HO12 108.895 2.41
+4MY C3  O13 P3   122.306 2.63
+4MY C4  O14 P4   122.306 2.63
+4MY C5  O15 P5   122.306 2.63
+4MY C6  O16 P6   122.306 2.63
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -186,22 +187,23 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-4MY             sp3_sp3_5         O11          C1          C2         O12      60.000    10.0     3
-4MY            sp3_sp3_46          C2          C1         O11        HO11     180.000    10.0     3
-4MY            sp3_sp3_53         O11          C1          C6         O16     180.000    10.0     3
-4MY            sp3_sp3_58          C1          C2         O12        HO12     180.000    10.0     3
-4MY            sp3_sp3_14         O12          C2          C3         O13     -60.000    10.0     3
-4MY            sp3_sp3_61          C2          C3         O13          P3     180.000    10.0     3
-4MY            sp3_sp3_23         O13          C3          C4         O14      60.000    10.0     3
-4MY            sp3_sp3_66          C3         O13          P3         O23      60.000    10.0     3
-4MY            sp3_sp3_67          C3          C4         O14          P4     180.000    10.0     3
-4MY            sp3_sp3_32         O14          C4          C5         O15     -60.000    10.0     3
-4MY            sp3_sp3_72          C4         O14          P4         O44      60.000    10.0     3
-4MY            sp3_sp3_73          C4          C5         O15          P5     180.000    10.0     3
-4MY            sp3_sp3_41         O15          C5          C6         O16      60.000    10.0     3
-4MY            sp3_sp3_78          C5         O15          P5         O35      60.000    10.0     3
-4MY            sp3_sp3_79          C1          C6         O16          P6     180.000    10.0     3
-4MY            sp3_sp3_84          C6         O16          P6         O46      60.000    10.0     3
+4MY sp3_sp3_5  O11 C1  C2  O12  60.000  10.0 3
+4MY sp3_sp3_46 C2  C1  O11 HO11 180.000 10.0 3
+4MY sp3_sp3_53 O11 C1  C6  O16  180.000 10.0 3
+4MY sp3_sp3_58 C1  C2  O12 HO12 180.000 10.0 3
+4MY sp3_sp3_14 O12 C2  C3  O13  -60.000 10.0 3
+4MY sp3_sp3_61 C2  C3  O13 P3   180.000 10.0 3
+4MY sp3_sp3_23 O13 C3  C4  O14  60.000  10.0 3
+4MY sp3_sp3_66 C3  O13 P3  O23  60.000  10.0 3
+4MY sp3_sp3_67 C3  C4  O14 P4   180.000 10.0 3
+4MY sp3_sp3_32 O14 C4  C5  O15  -60.000 10.0 3
+4MY sp3_sp3_72 C4  O14 P4  O44  60.000  10.0 3
+4MY sp3_sp3_73 C4  C5  O15 P5   180.000 10.0 3
+4MY sp3_sp3_41 O15 C5  C6  O16  60.000  10.0 3
+4MY sp3_sp3_78 C5  O15 P5  O35  60.000  10.0 3
+4MY sp3_sp3_79 C1  C6  O16 P6   180.000 10.0 3
+4MY sp3_sp3_84 C6  O16 P6  O46  60.000  10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -210,35 +212,53 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-4MY    chir_1    C1    O11    C6    C2    negative
-4MY    chir_2    C2    O12    C3    C1    positive
-4MY    chir_3    C3    O13    C4    C2    positive
-4MY    chir_4    P3    O13    O43    O33    both
-4MY    chir_5    C4    O14    C5    C3    negative
-4MY    chir_6    P4    O14    O24    O34    both
-4MY    chir_7    C5    O15    C4    C6    negative
-4MY    chir_8    P5    O15    O25    O45    both
-4MY    chir_9    C6    O16    C5    C1    positive
-4MY    chir_10    P6    O16    O26    O36    both
+4MY chir_1  C1 O11 C6  C2  negative
+4MY chir_2  C2 O12 C3  C1  positive
+4MY chir_3  C3 O13 C4  C2  positive
+4MY chir_4  P3 O13 O43 O33 both
+4MY chir_5  C4 O14 C5  C3  negative
+4MY chir_6  P4 O14 O24 O34 both
+4MY chir_7  C5 O15 C4  C6  negative
+4MY chir_8  P5 O15 O25 O45 both
+4MY chir_9  C6 O16 C5  C1  positive
+4MY chir_10 P6 O16 O26 O36 both
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-4MY            InChI                InChI  1.03 InChI=1S/C6H16O18P4/c7-1-2(8)4(22-26(12,13)14)6(24-28(18,19)20)5(23-27(15,16)17)3(1)21-25(9,10)11/h1-8H,(H2,9,10,11)(H2,12,13,14)(H2,15,16,17)(H2,18,19,20)/t1-,2+,3-,4-,5+,6+/m0/s1
-4MY         InChIKey                InChI  1.03                                                                                                                                                          MRVYFOANPDTYBY-UZAAGFTCSA-N
-4MY           SMILES              ACDLabs 12.01                                                                                                                           O=P(OC1C(OP(=O)(O)O)C(O)C(O)C(OP(=O)(O)O)C1OP(=O)(O)O)(O)O
-4MY SMILES_CANONICAL               CACTVS 3.370                                                                                         O[C@@H]1[C@H](O)[C@H](O[P](O)(O)=O)[C@@H](O[P](O)(O)=O)[C@H](O[P](O)(O)=O)[C@H]1O[P](O)(O)=O
-4MY           SMILES               CACTVS 3.370                                                                                                 O[CH]1[CH](O)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH]1O[P](O)(O)=O
-4MY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                            "[C@H]1([C@@H]([C@@H]([C@H]([C@@H]([C@H]1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)O)O"
-4MY           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                         C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)O)O
+4MY InChI            InChI                1.03  InChI=1S/C6H16O18P4/c7-1-2(8)4(22-26(12,13)14)6(24-28(18,19)20)5(23-27(15,16)17)3(1)21-25(9,10)11/h1-8H,(H2,9,10,11)(H2,12,13,14)(H2,15,16,17)(H2,18,19,20)/t1-,2+,3-,4-,5+,6+/m0/s1
+4MY InChIKey         InChI                1.03  MRVYFOANPDTYBY-UZAAGFTCSA-N
+4MY SMILES           ACDLabs              12.01 O=P(OC1C(OP(=O)(O)O)C(O)C(O)C(OP(=O)(O)O)C1OP(=O)(O)O)(O)O
+4MY SMILES_CANONICAL CACTVS               3.370 O[C@@H]1[C@H](O)[C@H](O[P](O)(O)=O)[C@@H](O[P](O)(O)=O)[C@H](O[P](O)(O)=O)[C@H]1O[P](O)(O)=O
+4MY SMILES           CACTVS               3.370 O[CH]1[CH](O)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH]1O[P](O)(O)=O
+4MY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[C@H]1([C@@H]([C@@H]([C@H]([C@@H]([C@H]1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)O)O"
+4MY SMILES           "OpenEye OEToolkits" 1.7.6 C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-4MY acedrg               243         "dictionary generator"                  
-4MY acedrg_database      11          "data source"                           
-4MY rdkit                2017.03.2   "Chemoinformatics tool"
-4MY refmac5              5.8.0238    "optimization tool"                     
+4MY acedrg          243       "dictionary generator"
+4MY acedrg_database 11        "data source"
+4MY rdkit           2017.03.2 "Chemoinformatics tool"
+4MY refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+4MY DNA/RNA O24  OP3
+4MY DNA/RNA P4   P
+4MY DNA/RNA O44  OP1
+4MY DNA/RNA O34  OP2
+4MY DNA/RNA O14  O5'
+4MY DNA/RNA C4   C5'
+4MY DNA/RNA C3   C4'
+4MY DNA/RNA C2   C3'
+4MY DNA/RNA O12  O3'
+4MY DNA/RNA HO12 HO3'

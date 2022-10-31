@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-PQQ     PQQ      "PYRROLOQUINOLINE QUINONE"     NON-POLYMER     27     24     .     
-#
+PQQ PQQ "PYRROLOQUINOLINE QUINONE" NON-POLYMER 27 24 .
+
 data_comp_PQQ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,33 +19,34 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-PQQ     N1      N       NT1     0       17.654      51.176      66.675      
-PQQ     C2      C       CR5     0       17.059      50.042      66.166      
-PQQ     C2X     C       C       0       17.524      49.328      64.989      
-PQQ     O2A     O       O       0       18.508      49.763      64.418      
-PQQ     O2B     O       OC      -1      16.899      48.338      64.649      
-PQQ     C3      C       CR15    0       15.984      49.736      66.962      
-PQQ     C3A     C       CR56    0       15.900      50.690      67.982      
-PQQ     C1A     C       CR56    0       16.953      51.590      67.793      
-PQQ     C4      C       CR6     0       14.948      50.800      69.072      
-PQQ     O4      O       O       0       13.998      50.064      69.240      
-PQQ     C5      C       CR6     0       15.195      51.927      70.090      
-PQQ     O5      O       O       0       14.452      51.998      71.064      
-PQQ     C6A     C       CR66    0       16.305      52.886      69.830      
-PQQ     N6      N       NRD6    0       16.452      53.915      70.702      
-PQQ     C7      C       CR6     0       17.418      54.804      70.515      
-PQQ     C7X     C       C       0       17.519      55.908      71.522      
-PQQ     O7A     O       O       0       16.473      56.521      71.811      
-PQQ     O7B     O       OC      -1      18.646      56.139      71.996      
-PQQ     C8      C       CR16    0       18.319      54.724      69.429      
-PQQ     C9      C       CR6     0       18.211      53.688      68.502      
-PQQ     C9X     C       C       0       19.213      53.681      67.372      
-PQQ     O9A     O       O       0       20.418      53.558      67.656      
-PQQ     O9B     O       OC      -1      18.787      53.798      66.210      
-PQQ     C9A     C       CR66    0       17.165      52.711      68.685      
-PQQ     HN1     H       H       0       18.373      51.561      66.321      
-PQQ     H3      H       H       0       15.397      48.999      66.837      
-PQQ     H8      H       H       0       18.994      55.368      69.324      
+PQQ N1  N NT1  0  17.654 51.176 66.675
+PQQ C2  C CR5  0  17.059 50.042 66.166
+PQQ C2X C C    0  17.524 49.328 64.989
+PQQ O2A O O    0  18.508 49.763 64.418
+PQQ O2B O OC   -1 16.899 48.338 64.649
+PQQ C3  C CR15 0  15.984 49.736 66.962
+PQQ C3A C CR56 0  15.900 50.690 67.982
+PQQ C1A C CR56 0  16.953 51.590 67.793
+PQQ C4  C CR6  0  14.948 50.800 69.072
+PQQ O4  O O    0  13.998 50.064 69.240
+PQQ C5  C CR6  0  15.195 51.927 70.090
+PQQ O5  O O    0  14.452 51.998 71.064
+PQQ C6A C CR66 0  16.305 52.886 69.830
+PQQ N6  N NRD6 0  16.452 53.915 70.702
+PQQ C7  C CR6  0  17.418 54.804 70.515
+PQQ C7X C C    0  17.519 55.908 71.522
+PQQ O7A O O    0  16.473 56.521 71.811
+PQQ O7B O OC   -1 18.646 56.139 71.996
+PQQ C8  C CR16 0  18.319 54.724 69.429
+PQQ C9  C CR6  0  18.211 53.688 68.502
+PQQ C9X C C    0  19.213 53.681 67.372
+PQQ O9A O O    0  20.418 53.558 67.656
+PQQ O9B O OC   -1 18.787 53.798 66.210
+PQQ C9A C CR66 0  17.165 52.711 68.685
+PQQ HN1 H H    0  18.373 51.561 66.321
+PQQ H3  H H    0  15.397 48.999 66.837
+PQQ H8  H H    0  18.994 55.368 69.324
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -58,35 +57,36 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-PQQ          N1          C2      SINGLE       y     1.379  0.0100     1.379  0.0100
-PQQ          N1         C1A      SINGLE       y     1.378  0.0111     1.378  0.0111
-PQQ          C2         C2X      SINGLE       n     1.447  0.0200     1.447  0.0200
-PQQ          C2          C3      DOUBLE       y     1.376  0.0128     1.376  0.0128
-PQQ         C2X         O2A      DOUBLE       n     1.217  0.0200     1.217  0.0200
-PQQ         C2X         O2B      SINGLE       n     1.217  0.0200     1.217  0.0200
-PQQ          C3         C3A      SINGLE       y     1.400  0.0200     1.400  0.0200
-PQQ         C3A         C1A      DOUBLE       y     1.389  0.0100     1.389  0.0100
-PQQ         C3A          C4      SINGLE       n     1.451  0.0113     1.451  0.0113
-PQQ         C1A         C9A      SINGLE       n     1.431  0.0107     1.431  0.0107
-PQQ          C4          O4      DOUBLE       n     1.213  0.0100     1.213  0.0100
-PQQ          C4          C5      SINGLE       n     1.543  0.0149     1.543  0.0149
-PQQ          C5          O5      DOUBLE       n     1.223  0.0173     1.223  0.0173
-PQQ          C5         C6A      SINGLE       n     1.489  0.0200     1.489  0.0200
-PQQ         C6A          N6      SINGLE       y     1.337  0.0200     1.337  0.0200
-PQQ         C6A         C9A      DOUBLE       y     1.416  0.0167     1.416  0.0167
-PQQ          N6          C7      DOUBLE       y     1.322  0.0106     1.322  0.0106
-PQQ          C7         C7X      SINGLE       n     1.495  0.0200     1.495  0.0200
-PQQ          C7          C8      SINGLE       y     1.411  0.0127     1.411  0.0127
-PQQ         C7X         O7A      DOUBLE       n     1.244  0.0200     1.244  0.0200
-PQQ         C7X         O7B      SINGLE       n     1.244  0.0200     1.244  0.0200
-PQQ          C8          C9      DOUBLE       y     1.390  0.0100     1.390  0.0100
-PQQ          C9         C9X      SINGLE       n     1.509  0.0115     1.509  0.0115
-PQQ          C9         C9A      SINGLE       y     1.418  0.0149     1.418  0.0149
-PQQ         C9X         O9A      DOUBLE       n     1.244  0.0200     1.244  0.0200
-PQQ         C9X         O9B      SINGLE       n     1.244  0.0200     1.244  0.0200
-PQQ          N1         HN1      SINGLE       n     1.016  0.0100     0.897  0.0200
-PQQ          C3          H3      SINGLE       n     1.082  0.0130     0.950  0.0200
-PQQ          C8          H8      SINGLE       n     1.082  0.0130     0.938  0.0152
+PQQ N1  C2  SINGLE y 1.379 0.0100 1.379 0.0100
+PQQ N1  C1A SINGLE y 1.378 0.0111 1.378 0.0111
+PQQ C2  C2X SINGLE n 1.447 0.0200 1.447 0.0200
+PQQ C2  C3  DOUBLE y 1.376 0.0128 1.376 0.0128
+PQQ C2X O2A DOUBLE n 1.217 0.0200 1.217 0.0200
+PQQ C2X O2B SINGLE n 1.217 0.0200 1.217 0.0200
+PQQ C3  C3A SINGLE y 1.400 0.0200 1.400 0.0200
+PQQ C3A C1A DOUBLE y 1.389 0.0100 1.389 0.0100
+PQQ C3A C4  SINGLE n 1.451 0.0113 1.451 0.0113
+PQQ C1A C9A SINGLE n 1.431 0.0107 1.431 0.0107
+PQQ C4  O4  DOUBLE n 1.213 0.0100 1.213 0.0100
+PQQ C4  C5  SINGLE n 1.543 0.0149 1.543 0.0149
+PQQ C5  O5  DOUBLE n 1.223 0.0173 1.223 0.0173
+PQQ C5  C6A SINGLE n 1.489 0.0200 1.489 0.0200
+PQQ C6A N6  SINGLE y 1.337 0.0200 1.337 0.0200
+PQQ C6A C9A DOUBLE y 1.416 0.0167 1.416 0.0167
+PQQ N6  C7  DOUBLE y 1.322 0.0106 1.322 0.0106
+PQQ C7  C7X SINGLE n 1.495 0.0200 1.495 0.0200
+PQQ C7  C8  SINGLE y 1.411 0.0127 1.411 0.0127
+PQQ C7X O7A DOUBLE n 1.244 0.0200 1.244 0.0200
+PQQ C7X O7B SINGLE n 1.244 0.0200 1.244 0.0200
+PQQ C8  C9  DOUBLE y 1.390 0.0100 1.390 0.0100
+PQQ C9  C9X SINGLE n 1.509 0.0115 1.509 0.0115
+PQQ C9  C9A SINGLE y 1.418 0.0149 1.418 0.0149
+PQQ C9X O9A DOUBLE n 1.244 0.0200 1.244 0.0200
+PQQ C9X O9B SINGLE n 1.244 0.0200 1.244 0.0200
+PQQ N1  HN1 SINGLE n 1.016 0.0100 0.897 0.0200
+PQQ C3  H3  SINGLE n 1.082 0.0130 0.950 0.0200
+PQQ C8  H8  SINGLE n 1.082 0.0130 0.938 0.0152
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -94,52 +94,53 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-PQQ          C2          N1         C1A     106.904    1.50
-PQQ          C2          N1         HN1     123.637    3.00
-PQQ         C1A          N1         HN1     125.143    1.75
-PQQ          N1          C2         C2X     124.626    2.38
-PQQ          N1          C2          C3     107.481    1.50
-PQQ         C2X          C2          C3     127.893    3.00
-PQQ          C2         C2X         O2A     117.409    1.50
-PQQ          C2         C2X         O2B     117.409    1.50
-PQQ         O2A         C2X         O2B     125.182    1.50
-PQQ          C2          C3         C3A     107.713    1.50
-PQQ          C2          C3          H3     125.948    1.50
-PQQ         C3A          C3          H3     126.340    1.50
-PQQ          C3         C3A         C1A     105.609    1.50
-PQQ          C3         C3A          C4     133.976    2.89
-PQQ         C1A         C3A          C4     120.415    3.00
-PQQ          N1         C1A         C3A     109.210    1.82
-PQQ          N1         C1A         C9A     129.115    3.00
-PQQ         C3A         C1A         C9A     121.676    1.66
-PQQ         C3A          C4          O4     124.585    1.50
-PQQ         C3A          C4          C5     117.582    1.50
-PQQ          O4          C4          C5     117.833    1.50
-PQQ          C4          C5          O5     117.200    1.50
-PQQ          C4          C5         C6A     120.038    1.50
-PQQ          O5          C5         C6A     122.762    1.50
-PQQ          C5         C6A          N6     118.350    2.50
-PQQ          C5         C6A         C9A     120.315    2.43
-PQQ          N6         C6A         C9A     121.335    1.74
-PQQ         C6A          N6          C7     118.477    1.50
-PQQ          N6          C7         C7X     116.589    1.72
-PQQ          N6          C7          C8     122.115    1.50
-PQQ         C7X          C7          C8     121.296    1.50
-PQQ          C7         C7X         O7A     117.189    1.92
-PQQ          C7         C7X         O7B     117.189    1.92
-PQQ         O7A         C7X         O7B     125.622    1.50
-PQQ          C7          C8          C9     119.878    1.50
-PQQ          C7          C8          H8     120.595    1.50
-PQQ          C9          C8          H8     119.527    1.50
-PQQ          C8          C9         C9X     118.651    1.55
-PQQ          C8          C9         C9A     118.875    1.69
-PQQ         C9X          C9         C9A     122.474    1.50
-PQQ          C9         C9X         O9A     118.166    2.93
-PQQ          C9         C9X         O9B     118.166    2.93
-PQQ         O9A         C9X         O9B     123.668    1.50
-PQQ         C1A         C9A         C6A     119.974    1.50
-PQQ         C1A         C9A          C9     120.705    1.70
-PQQ         C6A         C9A          C9     119.321    1.50
+PQQ C2  N1  C1A 106.904 1.50
+PQQ C2  N1  HN1 123.637 3.00
+PQQ C1A N1  HN1 125.143 1.75
+PQQ N1  C2  C2X 124.626 2.38
+PQQ N1  C2  C3  107.481 1.50
+PQQ C2X C2  C3  127.893 3.00
+PQQ C2  C2X O2A 117.409 1.50
+PQQ C2  C2X O2B 117.409 1.50
+PQQ O2A C2X O2B 125.182 1.50
+PQQ C2  C3  C3A 107.713 1.50
+PQQ C2  C3  H3  125.948 1.50
+PQQ C3A C3  H3  126.340 1.50
+PQQ C3  C3A C1A 105.609 1.50
+PQQ C3  C3A C4  133.976 2.89
+PQQ C1A C3A C4  120.415 3.00
+PQQ N1  C1A C3A 109.210 1.82
+PQQ N1  C1A C9A 129.115 3.00
+PQQ C3A C1A C9A 121.676 1.66
+PQQ C3A C4  O4  124.585 1.50
+PQQ C3A C4  C5  117.582 1.50
+PQQ O4  C4  C5  117.833 1.50
+PQQ C4  C5  O5  117.200 1.50
+PQQ C4  C5  C6A 120.038 1.50
+PQQ O5  C5  C6A 122.762 1.50
+PQQ C5  C6A N6  118.350 2.50
+PQQ C5  C6A C9A 120.315 2.43
+PQQ N6  C6A C9A 121.335 1.74
+PQQ C6A N6  C7  118.477 1.50
+PQQ N6  C7  C7X 116.589 1.72
+PQQ N6  C7  C8  122.115 1.50
+PQQ C7X C7  C8  121.296 1.50
+PQQ C7  C7X O7A 117.189 1.92
+PQQ C7  C7X O7B 117.189 1.92
+PQQ O7A C7X O7B 125.622 1.50
+PQQ C7  C8  C9  119.878 1.50
+PQQ C7  C8  H8  120.595 1.50
+PQQ C9  C8  H8  119.527 1.50
+PQQ C8  C9  C9X 118.651 1.55
+PQQ C8  C9  C9A 118.875 1.69
+PQQ C9X C9  C9A 122.474 1.50
+PQQ C9  C9X O9A 118.166 2.93
+PQQ C9  C9X O9B 118.166 2.93
+PQQ O9A C9X O9B 123.668 1.50
+PQQ C1A C9A C6A 119.974 1.50
+PQQ C1A C9A C9  120.705 1.70
+PQQ C6A C9A C9  119.321 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -150,89 +151,105 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-PQQ       const_sp2_sp2_3         C2X          C2          N1         C1A     180.000     5.0     2
-PQQ              const_37         C3A         C1A          N1          C2       0.000    10.0     2
-PQQ             sp2_sp2_8          O5          C5         C6A          N6       0.000     5.0     2
-PQQ              const_22          C5         C6A          N6          C7     180.000    10.0     2
-PQQ              const_17          C5         C6A         C9A         C1A       0.000    10.0     2
-PQQ              const_24         C7X          C7          N6         C6A     180.000    10.0     2
-PQQ            sp2_sp2_23          N6          C7         C7X         O7A       0.000     5.0     2
-PQQ              const_27         C7X          C7          C8          C9     180.000    10.0     2
-PQQ              const_30          C7          C8          C9         C9X     180.000    10.0     2
-PQQ            sp2_sp2_25          C8          C9         C9X         O9A     180.000     5.0     2
-PQQ              const_36         C9X          C9         C9A         C1A       0.000    10.0     2
-PQQ            sp2_sp2_13          N1          C2         C2X         O2A     180.000     5.0     2
-PQQ       const_sp2_sp2_7         C2X          C2          C3         C3A     180.000     5.0     2
-PQQ       const_sp2_sp2_9          C2          C3         C3A         C1A       0.000     5.0     2
-PQQ              const_13          N1         C1A         C3A          C3       0.000    10.0     2
-PQQ            sp2_sp2_20          C3         C3A          C4          O4       0.000     5.0     2
-PQQ             sp2_sp2_3          N1         C1A         C9A         C6A     180.000     5.0     2
-PQQ            sp2_sp2_12          O4          C4          C5          O5       0.000     5.0     2
+PQQ const_sp2_sp2_3 C2X C2  N1  C1A 180.000 5.0  2
+PQQ const_37        C3A C1A N1  C2  0.000   10.0 2
+PQQ sp2_sp2_8       O5  C5  C6A N6  0.000   5.0  2
+PQQ const_22        C5  C6A N6  C7  180.000 10.0 2
+PQQ const_17        C5  C6A C9A C1A 0.000   10.0 2
+PQQ const_24        C7X C7  N6  C6A 180.000 10.0 2
+PQQ sp2_sp2_23      N6  C7  C7X O7A 0.000   5.0  2
+PQQ const_27        C7X C7  C8  C9  180.000 10.0 2
+PQQ const_30        C7  C8  C9  C9X 180.000 10.0 2
+PQQ sp2_sp2_25      C8  C9  C9X O9A 180.000 5.0  2
+PQQ const_36        C9X C9  C9A C1A 0.000   10.0 2
+PQQ sp2_sp2_13      N1  C2  C2X O2A 180.000 5.0  2
+PQQ const_sp2_sp2_7 C2X C2  C3  C3A 180.000 5.0  2
+PQQ const_sp2_sp2_9 C2  C3  C3A C1A 0.000   5.0  2
+PQQ const_13        N1  C1A C3A C3  0.000   10.0 2
+PQQ sp2_sp2_20      C3  C3A C4  O4  0.000   5.0  2
+PQQ sp2_sp2_3       N1  C1A C9A C6A 180.000 5.0  2
+PQQ sp2_sp2_12      O4  C4  C5  O5  0.000   5.0  2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-PQQ    plan-1         C1A   0.020
-PQQ    plan-1          C2   0.020
-PQQ    plan-1         C2X   0.020
-PQQ    plan-1          C3   0.020
-PQQ    plan-1         C3A   0.020
-PQQ    plan-1          C4   0.020
-PQQ    plan-1         C9A   0.020
-PQQ    plan-1          H3   0.020
-PQQ    plan-1         HN1   0.020
-PQQ    plan-1          N1   0.020
-PQQ    plan-2         C1A   0.020
-PQQ    plan-2          C5   0.020
-PQQ    plan-2         C6A   0.020
-PQQ    plan-2          C7   0.020
-PQQ    plan-2         C7X   0.020
-PQQ    plan-2          C8   0.020
-PQQ    plan-2          C9   0.020
-PQQ    plan-2         C9A   0.020
-PQQ    plan-2         C9X   0.020
-PQQ    plan-2          H8   0.020
-PQQ    plan-2          N6   0.020
-PQQ    plan-3          C2   0.020
-PQQ    plan-3         C2X   0.020
-PQQ    plan-3         O2A   0.020
-PQQ    plan-3         O2B   0.020
-PQQ    plan-4         C3A   0.020
-PQQ    plan-4          C4   0.020
-PQQ    plan-4          C5   0.020
-PQQ    plan-4          O4   0.020
-PQQ    plan-5          C4   0.020
-PQQ    plan-5          C5   0.020
-PQQ    plan-5         C6A   0.020
-PQQ    plan-5          O5   0.020
-PQQ    plan-6          C7   0.020
-PQQ    plan-6         C7X   0.020
-PQQ    plan-6         O7A   0.020
-PQQ    plan-6         O7B   0.020
-PQQ    plan-7          C9   0.020
-PQQ    plan-7         C9X   0.020
-PQQ    plan-7         O9A   0.020
-PQQ    plan-7         O9B   0.020
+PQQ plan-1 C1A 0.020
+PQQ plan-1 C2  0.020
+PQQ plan-1 C2X 0.020
+PQQ plan-1 C3  0.020
+PQQ plan-1 C3A 0.020
+PQQ plan-1 C4  0.020
+PQQ plan-1 C9A 0.020
+PQQ plan-1 H3  0.020
+PQQ plan-1 HN1 0.020
+PQQ plan-1 N1  0.020
+PQQ plan-2 C1A 0.020
+PQQ plan-2 C5  0.020
+PQQ plan-2 C6A 0.020
+PQQ plan-2 C7  0.020
+PQQ plan-2 C7X 0.020
+PQQ plan-2 C8  0.020
+PQQ plan-2 C9  0.020
+PQQ plan-2 C9A 0.020
+PQQ plan-2 C9X 0.020
+PQQ plan-2 H8  0.020
+PQQ plan-2 N6  0.020
+PQQ plan-3 C2  0.020
+PQQ plan-3 C2X 0.020
+PQQ plan-3 O2A 0.020
+PQQ plan-3 O2B 0.020
+PQQ plan-4 C3A 0.020
+PQQ plan-4 C4  0.020
+PQQ plan-4 C5  0.020
+PQQ plan-4 O4  0.020
+PQQ plan-5 C4  0.020
+PQQ plan-5 C5  0.020
+PQQ plan-5 C6A 0.020
+PQQ plan-5 O5  0.020
+PQQ plan-6 C7  0.020
+PQQ plan-6 C7X 0.020
+PQQ plan-6 O7A 0.020
+PQQ plan-6 O7B 0.020
+PQQ plan-7 C9  0.020
+PQQ plan-7 C9X 0.020
+PQQ plan-7 O9A 0.020
+PQQ plan-7 O9B 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-PQQ           SMILES              ACDLabs 10.04                                                                            O=C(O)c1c3c(nc(C(=O)O)c1)C(=O)C(=O)c2cc(C(=O)O)nc23
-PQQ SMILES_CANONICAL               CACTVS 3.341                                                                         OC(=O)c1[nH]c2c(c1)C(=O)C(=O)c3nc(cc(C(O)=O)c23)C(O)=O
-PQQ           SMILES               CACTVS 3.341                                                                         OC(=O)c1[nH]c2c(c1)C(=O)C(=O)c3nc(cc(C(O)=O)c23)C(O)=O
-PQQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                          c1c2c([nH]c1C(=O)O)-c3c(cc(nc3C(=O)C2=O)C(=O)O)C(=O)O
-PQQ           SMILES "OpenEye OEToolkits" 1.5.0                                                                          c1c2c([nH]c1C(=O)O)-c3c(cc(nc3C(=O)C2=O)C(=O)O)C(=O)O
-PQQ            InChI                InChI  1.03 InChI=1S/C14H6N2O8/c17-10-4-2-6(14(23)24)15-8(4)7-3(12(19)20)1-5(13(21)22)16-9(7)11(10)18/h1-2,15H,(H,19,20)(H,21,22)(H,23,24)
-PQQ         InChIKey                InChI  1.03                                                                                                    MMXZSJMASHPLLR-UHFFFAOYSA-N
+PQQ SMILES           ACDLabs              10.04 O=C(O)c1c3c(nc(C(=O)O)c1)C(=O)C(=O)c2cc(C(=O)O)nc23
+PQQ SMILES_CANONICAL CACTVS               3.341 OC(=O)c1[nH]c2c(c1)C(=O)C(=O)c3nc(cc(C(O)=O)c23)C(O)=O
+PQQ SMILES           CACTVS               3.341 OC(=O)c1[nH]c2c(c1)C(=O)C(=O)c3nc(cc(C(O)=O)c23)C(O)=O
+PQQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1c2c([nH]c1C(=O)O)-c3c(cc(nc3C(=O)C2=O)C(=O)O)C(=O)O
+PQQ SMILES           "OpenEye OEToolkits" 1.5.0 c1c2c([nH]c1C(=O)O)-c3c(cc(nc3C(=O)C2=O)C(=O)O)C(=O)O
+PQQ InChI            InChI                1.03  InChI=1S/C14H6N2O8/c17-10-4-2-6(14(23)24)15-8(4)7-3(12(19)20)1-5(13(21)22)16-9(7)11(10)18/h1-2,15H,(H,19,20)(H,21,22)(H,23,24)
+PQQ InChIKey         InChI                1.03  MMXZSJMASHPLLR-UHFFFAOYSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-PQQ acedrg               243         "dictionary generator"                  
-PQQ acedrg_database      11          "data source"                           
-PQQ rdkit                2017.03.2   "Chemoinformatics tool"
-PQQ refmac5              5.8.0238    "optimization tool"                     
+PQQ acedrg          243       "dictionary generator"
+PQQ acedrg_database 11        "data source"
+PQQ rdkit           2017.03.2 "Chemoinformatics tool"
+PQQ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+PQQ P-peptide N1  N
+PQQ P-peptide C2  CA
+PQQ P-peptide C2X C
+PQQ P-peptide O2A O
+PQQ P-peptide C1A CD
+PQQ P-peptide O2B OXT
+PQQ P-peptide HN1 H

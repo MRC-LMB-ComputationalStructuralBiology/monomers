@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DLS     DLS      DI-ACETYL-LYSINE     NON-POLYMER     33     16     .     
-#
+DLS DLS DI-ACETYL-LYSINE NON-POLYMER 33 16 .
+
 data_comp_DLS
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,39 +19,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DLS     C2      C       CH3     0       0.576       -16.184     26.876      
-DLS     O1      O       O       0       -0.393      -14.500     25.509      
-DLS     C1      C       C       0       0.089       -14.795     26.602      
-DLS     N       N       NH1     0       0.205       -13.900     27.594      
-DLS     CA      C       CH1     0       -0.212      -12.509     27.478      
-DLS     C       C       C       0       0.788       -11.716     26.616      
-DLS     O       O       O       0       1.957       -11.619     27.040      
-DLS     CB      C       CH2     0       -0.399      -11.831     28.840      
-DLS     CG      C       CH2     0       -1.628      -12.311     29.601      
-DLS     CD      C       CH2     0       -1.744      -11.742     31.002      
-DLS     CE      C       CH2     0       -2.069      -10.259     31.034      
-DLS     NZ      N       NH1     0       -2.333      -9.776      32.389      
-DLS     CH3     C       CH3     0       -4.760      -9.680      32.090      
-DLS     OH      O       O       0       -3.624      -9.148      34.104      
-DLS     CH      C       C       0       -3.534      -9.514      32.934      
-DLS     OXT     O       OC      -1      0.361       -11.225     25.552      
-DLS     H21     H       H       0       0.884       -16.259     27.794      
-DLS     H22     H       H       0       1.310       -16.395     26.275      
-DLS     H23     H       H       0       -0.147      -16.816     26.729      
-DLS     H       H       H       0       0.550       -14.144     28.358      
-DLS     HCA     H       H       0       -1.089      -12.490     27.017      
-DLS     HB2     H       H       0       -0.473      -10.863     28.703      
-DLS     HB3     H       H       0       0.396       -11.998     29.387      
-DLS     HG2     H       H       0       -1.599      -13.290     29.658      
-DLS     HG3     H       H       0       -2.429      -12.066     29.091      
-DLS     HD2     H       H       0       -0.898      -11.890     31.475      
-DLS     HD3     H       H       0       -2.445      -12.229     31.485      
-DLS     HE2     H       H       0       -2.839      -10.084     30.456      
-DLS     HE3     H       H       0       -1.307      -9.761      30.669      
-DLS     HZ      H       H       0       -1.629      -9.646      32.889      
-DLS     HH31    H       H       0       -4.791      -10.579     31.725      
-DLS     HH32    H       H       0       -4.746      -9.036      31.363      
-DLS     HH33    H       H       0       -5.551      -9.529      32.634      
+DLS C2   C CH3 0  0.576  -16.184 26.876
+DLS O1   O O   0  -0.393 -14.500 25.509
+DLS C1   C C   0  0.089  -14.795 26.602
+DLS N    N NH1 0  0.205  -13.900 27.594
+DLS CA   C CH1 0  -0.212 -12.509 27.478
+DLS C    C C   0  0.788  -11.716 26.616
+DLS O    O O   0  1.957  -11.619 27.040
+DLS CB   C CH2 0  -0.399 -11.831 28.840
+DLS CG   C CH2 0  -1.628 -12.311 29.601
+DLS CD   C CH2 0  -1.744 -11.742 31.002
+DLS CE   C CH2 0  -2.069 -10.259 31.034
+DLS NZ   N NH1 0  -2.333 -9.776  32.389
+DLS CH3  C CH3 0  -4.760 -9.680  32.090
+DLS OH   O O   0  -3.624 -9.148  34.104
+DLS CH   C C   0  -3.534 -9.514  32.934
+DLS OXT  O OC  -1 0.361  -11.225 25.552
+DLS H21  H H   0  0.884  -16.259 27.794
+DLS H22  H H   0  1.310  -16.395 26.275
+DLS H23  H H   0  -0.147 -16.816 26.729
+DLS H    H H   0  0.550  -14.144 28.358
+DLS HCA  H H   0  -1.089 -12.490 27.017
+DLS HB2  H H   0  -0.473 -10.863 28.703
+DLS HB3  H H   0  0.396  -11.998 29.387
+DLS HG2  H H   0  -1.599 -13.290 29.658
+DLS HG3  H H   0  -2.429 -12.066 29.091
+DLS HD2  H H   0  -0.898 -11.890 31.475
+DLS HD3  H H   0  -2.445 -12.229 31.485
+DLS HE2  H H   0  -2.839 -10.084 30.456
+DLS HE3  H H   0  -1.307 -9.761  30.669
+DLS HZ   H H   0  -1.629 -9.646  32.889
+DLS HH31 H H   0  -4.791 -10.579 31.725
+DLS HH32 H H   0  -4.746 -9.036  31.363
+DLS HH33 H H   0  -5.551 -9.529  32.634
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,38 +63,39 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DLS          C2          C1      SINGLE       n     1.495  0.0100     1.495  0.0100
-DLS          O1          C1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-DLS          C1           N      SINGLE       n     1.335  0.0100     1.335  0.0100
-DLS           N          CA      SINGLE       n     1.453  0.0100     1.453  0.0100
-DLS          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-DLS          CA          CB      SINGLE       n     1.531  0.0123     1.531  0.0123
-DLS           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-DLS           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-DLS          CB          CG      SINGLE       n     1.523  0.0114     1.523  0.0114
-DLS          CG          CD      SINGLE       n     1.514  0.0200     1.514  0.0200
-DLS          CD          CE      SINGLE       n     1.517  0.0143     1.517  0.0143
-DLS          CE          NZ      SINGLE       n     1.456  0.0109     1.456  0.0109
-DLS          NZ          CH      SINGLE       n     1.336  0.0105     1.336  0.0105
-DLS         CH3          CH      SINGLE       n     1.495  0.0100     1.495  0.0100
-DLS          OH          CH      DOUBLE       n     1.229  0.0102     1.229  0.0102
-DLS          C2         H21      SINGLE       n     1.089  0.0100     0.971  0.0140
-DLS          C2         H22      SINGLE       n     1.089  0.0100     0.971  0.0140
-DLS          C2         H23      SINGLE       n     1.089  0.0100     0.971  0.0140
-DLS           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
-DLS          CA         HCA      SINGLE       n     1.089  0.0100     0.991  0.0200
-DLS          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0160
-DLS          CB         HB3      SINGLE       n     1.089  0.0100     0.980  0.0160
-DLS          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0163
-DLS          CG         HG3      SINGLE       n     1.089  0.0100     0.981  0.0163
-DLS          CD         HD2      SINGLE       n     1.089  0.0100     0.981  0.0160
-DLS          CD         HD3      SINGLE       n     1.089  0.0100     0.981  0.0160
-DLS          CE         HE2      SINGLE       n     1.089  0.0100     0.981  0.0152
-DLS          CE         HE3      SINGLE       n     1.089  0.0100     0.981  0.0152
-DLS          NZ          HZ      SINGLE       n     1.016  0.0100     0.872  0.0200
-DLS         CH3        HH31      SINGLE       n     1.089  0.0100     0.971  0.0140
-DLS         CH3        HH32      SINGLE       n     1.089  0.0100     0.971  0.0140
-DLS         CH3        HH33      SINGLE       n     1.089  0.0100     0.971  0.0140
+DLS C2  C1   SINGLE n 1.495 0.0100 1.495 0.0100
+DLS O1  C1   DOUBLE n 1.229 0.0102 1.229 0.0102
+DLS C1  N    SINGLE n 1.335 0.0100 1.335 0.0100
+DLS N   CA   SINGLE n 1.453 0.0100 1.453 0.0100
+DLS CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+DLS CA  CB   SINGLE n 1.531 0.0123 1.531 0.0123
+DLS C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+DLS C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+DLS CB  CG   SINGLE n 1.523 0.0114 1.523 0.0114
+DLS CG  CD   SINGLE n 1.514 0.0200 1.514 0.0200
+DLS CD  CE   SINGLE n 1.517 0.0143 1.517 0.0143
+DLS CE  NZ   SINGLE n 1.456 0.0109 1.456 0.0109
+DLS NZ  CH   SINGLE n 1.336 0.0105 1.336 0.0105
+DLS CH3 CH   SINGLE n 1.495 0.0100 1.495 0.0100
+DLS OH  CH   DOUBLE n 1.229 0.0102 1.229 0.0102
+DLS C2  H21  SINGLE n 1.089 0.0100 0.971 0.0140
+DLS C2  H22  SINGLE n 1.089 0.0100 0.971 0.0140
+DLS C2  H23  SINGLE n 1.089 0.0100 0.971 0.0140
+DLS N   H    SINGLE n 1.016 0.0100 0.873 0.0200
+DLS CA  HCA  SINGLE n 1.089 0.0100 0.991 0.0200
+DLS CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0160
+DLS CB  HB3  SINGLE n 1.089 0.0100 0.980 0.0160
+DLS CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0163
+DLS CG  HG3  SINGLE n 1.089 0.0100 0.981 0.0163
+DLS CD  HD2  SINGLE n 1.089 0.0100 0.981 0.0160
+DLS CD  HD3  SINGLE n 1.089 0.0100 0.981 0.0160
+DLS CE  HE2  SINGLE n 1.089 0.0100 0.981 0.0152
+DLS CE  HE3  SINGLE n 1.089 0.0100 0.981 0.0152
+DLS NZ  HZ   SINGLE n 1.016 0.0100 0.872 0.0200
+DLS CH3 HH31 SINGLE n 1.089 0.0100 0.971 0.0140
+DLS CH3 HH32 SINGLE n 1.089 0.0100 0.971 0.0140
+DLS CH3 HH33 SINGLE n 1.089 0.0100 0.971 0.0140
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -103,63 +103,64 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DLS          C1          C2         H21     109.678    1.50
-DLS          C1          C2         H22     109.678    1.50
-DLS          C1          C2         H23     109.678    1.50
-DLS         H21          C2         H22     109.365    1.50
-DLS         H21          C2         H23     109.365    1.50
-DLS         H22          C2         H23     109.365    1.50
-DLS          C2          C1          O1     121.913    1.50
-DLS          C2          C1           N     116.420    1.50
-DLS          O1          C1           N     121.667    1.50
-DLS          C1           N          CA     122.215    1.76
-DLS          C1           N           H     119.644    2.25
-DLS          CA           N           H     118.142    2.15
-DLS           N          CA           C     110.976    1.55
-DLS           N          CA          CB     113.029    1.50
-DLS           N          CA         HCA     108.343    1.63
-DLS           C          CA          CB     111.638    2.31
-DLS           C          CA         HCA     108.327    1.50
-DLS          CB          CA         HCA     108.155    1.50
-DLS          CA           C           O     117.249    1.61
-DLS          CA           C         OXT     117.249    1.61
-DLS           O           C         OXT     125.502    1.50
-DLS          CA          CB          CG     113.671    1.50
-DLS          CA          CB         HB2     108.606    1.50
-DLS          CA          CB         HB3     108.606    1.50
-DLS          CG          CB         HB2     108.650    1.50
-DLS          CG          CB         HB3     108.650    1.50
-DLS         HB2          CB         HB3     107.844    1.50
-DLS          CB          CG          CD     113.328    2.00
-DLS          CB          CG         HG2     108.601    1.50
-DLS          CB          CG         HG3     108.601    1.50
-DLS          CD          CG         HG2     108.806    1.50
-DLS          CD          CG         HG3     108.806    1.50
-DLS         HG2          CG         HG3     107.646    1.50
-DLS          CG          CD          CE     113.159    3.00
-DLS          CG          CD         HD2     109.041    1.50
-DLS          CG          CD         HD3     109.041    1.50
-DLS          CE          CD         HD2     108.956    1.50
-DLS          CE          CD         HD3     108.956    1.50
-DLS         HD2          CD         HD3     107.927    1.57
-DLS          CD          CE          NZ     112.624    1.50
-DLS          CD          CE         HE2     109.197    1.51
-DLS          CD          CE         HE3     109.197    1.51
-DLS          NZ          CE         HE2     108.979    1.50
-DLS          NZ          CE         HE3     108.979    1.50
-DLS         HE2          CE         HE3     107.877    1.50
-DLS          CE          NZ          CH     122.966    1.80
-DLS          CE          NZ          HZ     118.354    1.90
-DLS          CH          NZ          HZ     118.680    1.50
-DLS          CH         CH3        HH31     109.678    1.50
-DLS          CH         CH3        HH32     109.678    1.50
-DLS          CH         CH3        HH33     109.678    1.50
-DLS        HH31         CH3        HH32     109.365    1.50
-DLS        HH31         CH3        HH33     109.365    1.50
-DLS        HH32         CH3        HH33     109.365    1.50
-DLS          NZ          CH         CH3     116.322    1.50
-DLS          NZ          CH          OH     121.744    1.50
-DLS         CH3          CH          OH     121.942    1.50
+DLS C1   C2  H21  109.678 1.50
+DLS C1   C2  H22  109.678 1.50
+DLS C1   C2  H23  109.678 1.50
+DLS H21  C2  H22  109.365 1.50
+DLS H21  C2  H23  109.365 1.50
+DLS H22  C2  H23  109.365 1.50
+DLS C2   C1  O1   121.913 1.50
+DLS C2   C1  N    116.420 1.50
+DLS O1   C1  N    121.667 1.50
+DLS C1   N   CA   122.215 1.76
+DLS C1   N   H    119.644 2.25
+DLS CA   N   H    118.142 2.15
+DLS N    CA  C    110.976 1.55
+DLS N    CA  CB   113.029 1.50
+DLS N    CA  HCA  108.343 1.63
+DLS C    CA  CB   111.638 2.31
+DLS C    CA  HCA  108.327 1.50
+DLS CB   CA  HCA  108.155 1.50
+DLS CA   C   O    117.249 1.61
+DLS CA   C   OXT  117.249 1.61
+DLS O    C   OXT  125.502 1.50
+DLS CA   CB  CG   113.671 1.50
+DLS CA   CB  HB2  108.606 1.50
+DLS CA   CB  HB3  108.606 1.50
+DLS CG   CB  HB2  108.650 1.50
+DLS CG   CB  HB3  108.650 1.50
+DLS HB2  CB  HB3  107.844 1.50
+DLS CB   CG  CD   113.328 2.00
+DLS CB   CG  HG2  108.601 1.50
+DLS CB   CG  HG3  108.601 1.50
+DLS CD   CG  HG2  108.806 1.50
+DLS CD   CG  HG3  108.806 1.50
+DLS HG2  CG  HG3  107.646 1.50
+DLS CG   CD  CE   113.159 3.00
+DLS CG   CD  HD2  109.041 1.50
+DLS CG   CD  HD3  109.041 1.50
+DLS CE   CD  HD2  108.956 1.50
+DLS CE   CD  HD3  108.956 1.50
+DLS HD2  CD  HD3  107.927 1.57
+DLS CD   CE  NZ   112.624 1.50
+DLS CD   CE  HE2  109.197 1.51
+DLS CD   CE  HE3  109.197 1.51
+DLS NZ   CE  HE2  108.979 1.50
+DLS NZ   CE  HE3  108.979 1.50
+DLS HE2  CE  HE3  107.877 1.50
+DLS CE   NZ  CH   122.966 1.80
+DLS CE   NZ  HZ   118.354 1.90
+DLS CH   NZ  HZ   118.680 1.50
+DLS CH   CH3 HH31 109.678 1.50
+DLS CH   CH3 HH32 109.678 1.50
+DLS CH   CH3 HH33 109.678 1.50
+DLS HH31 CH3 HH32 109.365 1.50
+DLS HH31 CH3 HH33 109.365 1.50
+DLS HH32 CH3 HH33 109.365 1.50
+DLS NZ   CH  CH3  116.322 1.50
+DLS NZ   CH  OH   121.744 1.50
+DLS CH3  CH  OH   121.942 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -170,17 +171,18 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DLS             sp2_sp3_1          O1          C1          C2         H21       0.000    10.0     6
-DLS            sp2_sp3_20          CH          NZ          CE          CD     120.000    10.0     6
-DLS             sp2_sp2_5         CH3          CH          NZ          CE     180.000     5.0     2
-DLS            sp2_sp3_25          NZ          CH         CH3        HH31       0.000    10.0     6
-DLS             sp2_sp2_1          C2          C1           N          CA     180.000     5.0     2
-DLS             sp2_sp3_7          C1           N          CA           C       0.000    10.0     6
-DLS            sp2_sp3_13           O           C          CA           N       0.000    10.0     6
-DLS             sp3_sp3_1           N          CA          CB          CG     180.000    10.0     3
-DLS            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-DLS            sp3_sp3_19          CE          CD          CG          CB     180.000    10.0     3
-DLS            sp3_sp3_28          CG          CD          CE          NZ     180.000    10.0     3
+DLS sp2_sp3_1  O1  C1 C2  H21  0.000   10.0 6
+DLS sp2_sp3_20 CH  NZ CE  CD   120.000 10.0 6
+DLS sp2_sp2_5  CH3 CH NZ  CE   180.000 5.0  2
+DLS sp2_sp3_25 NZ  CH CH3 HH31 0.000   10.0 6
+DLS sp2_sp2_1  C2  C1 N   CA   180.000 5.0  2
+DLS sp2_sp3_7  C1  N  CA  C    0.000   10.0 6
+DLS sp2_sp3_13 O   C  CA  N    0.000   10.0 6
+DLS sp3_sp3_1  N   CA CB  CG   180.000 10.0 3
+DLS sp3_sp3_10 CA  CB CG  CD   180.000 10.0 3
+DLS sp3_sp3_19 CE  CD CG  CB   180.000 10.0 3
+DLS sp3_sp3_28 CG  CD CE  NZ   180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -189,51 +191,61 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DLS    chir_1    CA    N    C    CB    positive
+DLS chir_1 CA N C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DLS    plan-1          C1   0.020
-DLS    plan-1          C2   0.020
-DLS    plan-1           N   0.020
-DLS    plan-1          O1   0.020
-DLS    plan-2          C1   0.020
-DLS    plan-2          CA   0.020
-DLS    plan-2           H   0.020
-DLS    plan-2           N   0.020
-DLS    plan-3           C   0.020
-DLS    plan-3          CA   0.020
-DLS    plan-3           O   0.020
-DLS    plan-3         OXT   0.020
-DLS    plan-4          CE   0.020
-DLS    plan-4          CH   0.020
-DLS    plan-4          HZ   0.020
-DLS    plan-4          NZ   0.020
-DLS    plan-5          CH   0.020
-DLS    plan-5         CH3   0.020
-DLS    plan-5          NZ   0.020
-DLS    plan-5          OH   0.020
+DLS plan-1 C1  0.020
+DLS plan-1 C2  0.020
+DLS plan-1 N   0.020
+DLS plan-1 O1  0.020
+DLS plan-2 C1  0.020
+DLS plan-2 CA  0.020
+DLS plan-2 H   0.020
+DLS plan-2 N   0.020
+DLS plan-3 C   0.020
+DLS plan-3 CA  0.020
+DLS plan-3 O   0.020
+DLS plan-3 OXT 0.020
+DLS plan-4 CE  0.020
+DLS plan-4 CH  0.020
+DLS plan-4 HZ  0.020
+DLS plan-4 NZ  0.020
+DLS plan-5 CH  0.020
+DLS plan-5 CH3 0.020
+DLS plan-5 NZ  0.020
+DLS plan-5 OH  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DLS           SMILES              ACDLabs 10.04                                                                                       O=C(NC(C(=O)O)CCCCNC(=O)C)C
-DLS SMILES_CANONICAL               CACTVS 3.341                                                                                   CC(=O)NCCCC[C@H](NC(C)=O)C(O)=O
-DLS           SMILES               CACTVS 3.341                                                                                    CC(=O)NCCCC[CH](NC(C)=O)C(O)=O
-DLS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                  CC(=O)NCCCC[C@@H](C(=O)O)NC(=O)C
-DLS           SMILES "OpenEye OEToolkits" 1.5.0                                                                                       CC(=O)NCCCCC(C(=O)O)NC(=O)C
-DLS            InChI                InChI  1.03 InChI=1S/C10H18N2O4/c1-7(13)11-6-4-3-5-9(10(15)16)12-8(2)14/h9H,3-6H2,1-2H3,(H,11,13)(H,12,14)(H,15,16)/t9-/m0/s1
-DLS         InChIKey                InChI  1.03                                                                                       ZHZUEHHBTYJTKY-VIFPVBQESA-N
+DLS SMILES           ACDLabs              10.04 O=C(NC(C(=O)O)CCCCNC(=O)C)C
+DLS SMILES_CANONICAL CACTVS               3.341 CC(=O)NCCCC[C@H](NC(C)=O)C(O)=O
+DLS SMILES           CACTVS               3.341 CC(=O)NCCCC[CH](NC(C)=O)C(O)=O
+DLS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(=O)NCCCC[C@@H](C(=O)O)NC(=O)C
+DLS SMILES           "OpenEye OEToolkits" 1.5.0 CC(=O)NCCCCC(C(=O)O)NC(=O)C
+DLS InChI            InChI                1.03  InChI=1S/C10H18N2O4/c1-7(13)11-6-4-3-5-9(10(15)16)12-8(2)14/h9H,3-6H2,1-2H3,(H,11,13)(H,12,14)(H,15,16)/t9-/m0/s1
+DLS InChIKey         InChI                1.03  ZHZUEHHBTYJTKY-VIFPVBQESA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DLS acedrg               243         "dictionary generator"                  
-DLS acedrg_database      11          "data source"                           
-DLS rdkit                2017.03.2   "Chemoinformatics tool"
-DLS refmac5              5.8.0238    "optimization tool"                     
+DLS acedrg          243       "dictionary generator"
+DLS acedrg_database 11        "data source"
+DLS rdkit           2017.03.2 "Chemoinformatics tool"
+DLS refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+DLS M-peptide C1 CN

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-NLQ     NLQ      N~2~-ACETYL-L-GLUTAMINE     NON-POLYMER     24     13     .     
-#
+NLQ NLQ N~2~-ACETYL-L-GLUTAMINE NON-POLYMER 24 13 .
+
 data_comp_NLQ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,30 +19,31 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-NLQ     OXT     O       OC      -1      61.209      27.871      30.918      
-NLQ     C       C       C       0       61.514      26.726      30.530      
-NLQ     O       O       O       0       62.178      26.461      29.508      
-NLQ     CA      C       CH1     0       61.031      25.539      31.383      
-NLQ     N       N       NH1     0       60.201      24.652      30.580      
-NLQ     C6      C       C       0       58.876      24.501      30.731      
-NLQ     O4      O       O       0       58.228      25.155      31.547      
-NLQ     C7      C       CH3     0       58.207      23.477      29.867      
-NLQ     CB      C       CH2     0       62.224      24.810      32.015      
-NLQ     CG      C       CH2     0       61.840      23.899      33.176      
-NLQ     CD      C       C       0       61.316      22.555      32.722      
-NLQ     NE2     N       NH2     0       60.032      22.304      32.935      
-NLQ     OE1     O       O       0       62.057      21.741      32.176      
-NLQ     HA      H       H       0       60.486      25.908      32.122      
-NLQ     H       H       H       0       60.615      24.199      29.959      
-NLQ     H71     H       H       0       58.862      23.021      29.315      
-NLQ     H72     H       H       0       57.554      23.912      29.295      
-NLQ     H73     H       H       0       57.754      22.826      30.428      
-NLQ     HB2     H       H       0       62.866      25.479      32.335      
-NLQ     HB3     H       H       0       62.668      24.279      31.321      
-NLQ     HG2     H       H       0       61.164      24.347      33.727      
-NLQ     HG3     H       H       0       62.630      23.754      33.739      
-NLQ     HE21    H       H       0       59.688      21.527      32.689      
-NLQ     HE22    H       H       0       59.511      22.908      33.318      
+NLQ OXT  O OC  -1 61.209 27.871 30.918
+NLQ C    C C   0  61.514 26.726 30.530
+NLQ O    O O   0  62.178 26.461 29.508
+NLQ CA   C CH1 0  61.031 25.539 31.383
+NLQ N    N NH1 0  60.201 24.652 30.580
+NLQ C6   C C   0  58.876 24.501 30.731
+NLQ O4   O O   0  58.228 25.155 31.547
+NLQ C7   C CH3 0  58.207 23.477 29.867
+NLQ CB   C CH2 0  62.224 24.810 32.015
+NLQ CG   C CH2 0  61.840 23.899 33.176
+NLQ CD   C C   0  61.316 22.555 32.722
+NLQ NE2  N NH2 0  60.032 22.304 32.935
+NLQ OE1  O O   0  62.057 21.741 32.176
+NLQ HA   H H   0  60.486 25.908 32.122
+NLQ H    H H   0  60.615 24.199 29.959
+NLQ H71  H H   0  58.862 23.021 29.315
+NLQ H72  H H   0  57.554 23.912 29.295
+NLQ H73  H H   0  57.754 22.826 30.428
+NLQ HB2  H H   0  62.866 25.479 32.335
+NLQ HB3  H H   0  62.668 24.279 31.321
+NLQ HG2  H H   0  61.164 24.347 33.727
+NLQ HG3  H H   0  62.630 23.754 33.739
+NLQ HE21 H H   0  59.688 21.527 32.689
+NLQ HE22 H H   0  59.511 22.908 33.318
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -55,29 +54,30 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-NLQ         OXT           C      SINGLE       n     1.247  0.0187     1.247  0.0187
-NLQ           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-NLQ           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-NLQ          CA           N      SINGLE       n     1.453  0.0100     1.453  0.0100
-NLQ          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-NLQ           N          C6      SINGLE       n     1.335  0.0100     1.335  0.0100
-NLQ          C6          O4      DOUBLE       n     1.229  0.0102     1.229  0.0102
-NLQ          C6          C7      SINGLE       n     1.495  0.0100     1.495  0.0100
-NLQ          CB          CG      SINGLE       n     1.522  0.0131     1.522  0.0131
-NLQ          CG          CD      SINGLE       n     1.509  0.0100     1.509  0.0100
-NLQ          CD         NE2      SINGLE       n     1.323  0.0100     1.323  0.0100
-NLQ          CD         OE1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-NLQ          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-NLQ           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
-NLQ          C7         H71      SINGLE       n     1.089  0.0100     0.971  0.0140
-NLQ          C7         H72      SINGLE       n     1.089  0.0100     0.971  0.0140
-NLQ          C7         H73      SINGLE       n     1.089  0.0100     0.971  0.0140
-NLQ          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0178
-NLQ          CB         HB3      SINGLE       n     1.089  0.0100     0.980  0.0178
-NLQ          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0185
-NLQ          CG         HG3      SINGLE       n     1.089  0.0100     0.981  0.0185
-NLQ         NE2        HE21      SINGLE       n     1.016  0.0100     0.884  0.0200
-NLQ         NE2        HE22      SINGLE       n     1.016  0.0100     0.884  0.0200
+NLQ OXT C    SINGLE n 1.247 0.0187 1.247 0.0187
+NLQ C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+NLQ C   CA   SINGLE n 1.539 0.0100 1.539 0.0100
+NLQ CA  N    SINGLE n 1.453 0.0100 1.453 0.0100
+NLQ CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
+NLQ N   C6   SINGLE n 1.335 0.0100 1.335 0.0100
+NLQ C6  O4   DOUBLE n 1.229 0.0102 1.229 0.0102
+NLQ C6  C7   SINGLE n 1.495 0.0100 1.495 0.0100
+NLQ CB  CG   SINGLE n 1.522 0.0131 1.522 0.0131
+NLQ CG  CD   SINGLE n 1.509 0.0100 1.509 0.0100
+NLQ CD  NE2  SINGLE n 1.323 0.0100 1.323 0.0100
+NLQ CD  OE1  DOUBLE n 1.229 0.0102 1.229 0.0102
+NLQ CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
+NLQ N   H    SINGLE n 1.016 0.0100 0.873 0.0200
+NLQ C7  H71  SINGLE n 1.089 0.0100 0.971 0.0140
+NLQ C7  H72  SINGLE n 1.089 0.0100 0.971 0.0140
+NLQ C7  H73  SINGLE n 1.089 0.0100 0.971 0.0140
+NLQ CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0178
+NLQ CB  HB3  SINGLE n 1.089 0.0100 0.980 0.0178
+NLQ CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0185
+NLQ CG  HG3  SINGLE n 1.089 0.0100 0.981 0.0185
+NLQ NE2 HE21 SINGLE n 1.016 0.0100 0.884 0.0200
+NLQ NE2 HE22 SINGLE n 1.016 0.0100 0.884 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -85,45 +85,46 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-NLQ         OXT           C           O     125.502    1.50
-NLQ         OXT           C          CA     117.249    1.61
-NLQ           O           C          CA     117.249    1.61
-NLQ           C          CA           N     110.976    1.55
-NLQ           C          CA          CB     111.638    2.31
-NLQ           C          CA          HA     108.327    1.50
-NLQ           N          CA          CB     113.029    1.50
-NLQ           N          CA          HA     108.343    1.63
-NLQ          CB          CA          HA     108.155    1.50
-NLQ          CA           N          C6     122.215    1.76
-NLQ          CA           N           H     118.142    2.15
-NLQ          C6           N           H     119.644    2.25
-NLQ           N          C6          O4     121.667    1.50
-NLQ           N          C6          C7     116.420    1.50
-NLQ          O4          C6          C7     121.913    1.50
-NLQ          C6          C7         H71     109.678    1.50
-NLQ          C6          C7         H72     109.678    1.50
-NLQ          C6          C7         H73     109.678    1.50
-NLQ         H71          C7         H72     109.365    1.50
-NLQ         H71          C7         H73     109.365    1.50
-NLQ         H72          C7         H73     109.365    1.50
-NLQ          CA          CB          CG     113.079    1.50
-NLQ          CA          CB         HB2     108.606    1.50
-NLQ          CA          CB         HB3     108.606    1.50
-NLQ          CG          CB         HB2     109.107    1.50
-NLQ          CG          CB         HB3     109.107    1.50
-NLQ         HB2          CB         HB3     107.844    1.50
-NLQ          CB          CG          CD     112.220    2.15
-NLQ          CB          CG         HG2     109.204    1.50
-NLQ          CB          CG         HG3     109.204    1.50
-NLQ          CD          CG         HG2     109.082    1.50
-NLQ          CD          CG         HG3     109.082    1.50
-NLQ         HG2          CG         HG3     107.846    1.50
-NLQ          CG          CD         NE2     116.125    1.50
-NLQ          CG          CD         OE1     121.405    1.50
-NLQ         NE2          CD         OE1     122.470    1.50
-NLQ          CD         NE2        HE21     120.022    1.65
-NLQ          CD         NE2        HE22     120.022    1.65
-NLQ        HE21         NE2        HE22     119.956    2.38
+NLQ OXT  C   O    125.502 1.50
+NLQ OXT  C   CA   117.249 1.61
+NLQ O    C   CA   117.249 1.61
+NLQ C    CA  N    110.976 1.55
+NLQ C    CA  CB   111.638 2.31
+NLQ C    CA  HA   108.327 1.50
+NLQ N    CA  CB   113.029 1.50
+NLQ N    CA  HA   108.343 1.63
+NLQ CB   CA  HA   108.155 1.50
+NLQ CA   N   C6   122.215 1.76
+NLQ CA   N   H    118.142 2.15
+NLQ C6   N   H    119.644 2.25
+NLQ N    C6  O4   121.667 1.50
+NLQ N    C6  C7   116.420 1.50
+NLQ O4   C6  C7   121.913 1.50
+NLQ C6   C7  H71  109.678 1.50
+NLQ C6   C7  H72  109.678 1.50
+NLQ C6   C7  H73  109.678 1.50
+NLQ H71  C7  H72  109.365 1.50
+NLQ H71  C7  H73  109.365 1.50
+NLQ H72  C7  H73  109.365 1.50
+NLQ CA   CB  CG   113.079 1.50
+NLQ CA   CB  HB2  108.606 1.50
+NLQ CA   CB  HB3  108.606 1.50
+NLQ CG   CB  HB2  109.107 1.50
+NLQ CG   CB  HB3  109.107 1.50
+NLQ HB2  CB  HB3  107.844 1.50
+NLQ CB   CG  CD   112.220 2.15
+NLQ CB   CG  HG2  109.204 1.50
+NLQ CB   CG  HG3  109.204 1.50
+NLQ CD   CG  HG2  109.082 1.50
+NLQ CD   CG  HG3  109.082 1.50
+NLQ HG2  CG  HG3  107.846 1.50
+NLQ CG   CD  NE2  116.125 1.50
+NLQ CG   CD  OE1  121.405 1.50
+NLQ NE2  CD  OE1  122.470 1.50
+NLQ CD   NE2 HE21 120.022 1.65
+NLQ CD   NE2 HE22 120.022 1.65
+NLQ HE21 NE2 HE22 119.956 2.38
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -134,14 +135,15 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-NLQ             sp2_sp2_5          CG          CD         NE2        HE21     180.000     5.0     2
-NLQ             sp2_sp3_1         OXT           C          CA           N       0.000    10.0     6
-NLQ             sp2_sp3_7          C6           N          CA           C       0.000    10.0     6
-NLQ             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
-NLQ             sp2_sp2_3          O4          C6           N          CA       0.000     5.0     2
-NLQ            sp2_sp3_13           N          C6          C7         H71       0.000    10.0     6
-NLQ            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-NLQ            sp2_sp3_20         NE2          CD          CG          CB     120.000    10.0     6
+NLQ sp2_sp2_5  CG  CD NE2 HE21 180.000 5.0  2
+NLQ sp2_sp3_1  OXT C  CA  N    0.000   10.0 6
+NLQ sp2_sp3_7  C6  N  CA  C    0.000   10.0 6
+NLQ sp3_sp3_1  C   CA CB  CG   180.000 10.0 3
+NLQ sp2_sp2_3  O4  C6 N   CA   0.000   5.0  2
+NLQ sp2_sp3_13 N   C6 C7  H71  0.000   10.0 6
+NLQ sp3_sp3_10 CA  CB CG  CD   180.000 10.0 3
+NLQ sp2_sp3_20 NE2 CD CG  CB   120.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -150,51 +152,61 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-NLQ    chir_1    CA    N    C    CB    positive
+NLQ chir_1 CA N C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-NLQ    plan-1           C   0.020
-NLQ    plan-1          CA   0.020
-NLQ    plan-1           O   0.020
-NLQ    plan-1         OXT   0.020
-NLQ    plan-2          C6   0.020
-NLQ    plan-2          CA   0.020
-NLQ    plan-2           H   0.020
-NLQ    plan-2           N   0.020
-NLQ    plan-3          C6   0.020
-NLQ    plan-3          C7   0.020
-NLQ    plan-3           N   0.020
-NLQ    plan-3          O4   0.020
-NLQ    plan-4          CD   0.020
-NLQ    plan-4          CG   0.020
-NLQ    plan-4         NE2   0.020
-NLQ    plan-4         OE1   0.020
-NLQ    plan-5          CD   0.020
-NLQ    plan-5        HE21   0.020
-NLQ    plan-5        HE22   0.020
-NLQ    plan-5         NE2   0.020
+NLQ plan-1 C    0.020
+NLQ plan-1 CA   0.020
+NLQ plan-1 O    0.020
+NLQ plan-1 OXT  0.020
+NLQ plan-2 C6   0.020
+NLQ plan-2 CA   0.020
+NLQ plan-2 H    0.020
+NLQ plan-2 N    0.020
+NLQ plan-3 C6   0.020
+NLQ plan-3 C7   0.020
+NLQ plan-3 N    0.020
+NLQ plan-3 O4   0.020
+NLQ plan-4 CD   0.020
+NLQ plan-4 CG   0.020
+NLQ plan-4 NE2  0.020
+NLQ plan-4 OE1  0.020
+NLQ plan-5 CD   0.020
+NLQ plan-5 HE21 0.020
+NLQ plan-5 HE22 0.020
+NLQ plan-5 NE2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-NLQ           SMILES              ACDLabs 10.04                                                                             O=C(NC(C(=O)O)CCC(=O)N)C
-NLQ SMILES_CANONICAL               CACTVS 3.341                                                                        CC(=O)N[C@@H](CCC(N)=O)C(O)=O
-NLQ           SMILES               CACTVS 3.341                                                                          CC(=O)N[CH](CCC(N)=O)C(O)=O
-NLQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                        CC(=O)N[C@@H](CCC(=O)N)C(=O)O
-NLQ           SMILES "OpenEye OEToolkits" 1.5.0                                                                             CC(=O)NC(CCC(=O)N)C(=O)O
-NLQ            InChI                InChI  1.03 InChI=1S/C7H12N2O4/c1-4(10)9-5(7(12)13)2-3-6(8)11/h5H,2-3H2,1H3,(H2,8,11)(H,9,10)(H,12,13)/t5-/m0/s1
-NLQ         InChIKey                InChI  1.03                                                                          KSMRODHGGIIXDV-YFKPBYRVSA-N
+NLQ SMILES           ACDLabs              10.04 O=C(NC(C(=O)O)CCC(=O)N)C
+NLQ SMILES_CANONICAL CACTVS               3.341 CC(=O)N[C@@H](CCC(N)=O)C(O)=O
+NLQ SMILES           CACTVS               3.341 CC(=O)N[CH](CCC(N)=O)C(O)=O
+NLQ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(=O)N[C@@H](CCC(=O)N)C(=O)O
+NLQ SMILES           "OpenEye OEToolkits" 1.5.0 CC(=O)NC(CCC(=O)N)C(=O)O
+NLQ InChI            InChI                1.03  InChI=1S/C7H12N2O4/c1-4(10)9-5(7(12)13)2-3-6(8)11/h5H,2-3H2,1H3,(H2,8,11)(H,9,10)(H,12,13)/t5-/m0/s1
+NLQ InChIKey         InChI                1.03  KSMRODHGGIIXDV-YFKPBYRVSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-NLQ acedrg               243         "dictionary generator"                  
-NLQ acedrg_database      11          "data source"                           
-NLQ rdkit                2017.03.2   "Chemoinformatics tool"
-NLQ refmac5              5.8.0238    "optimization tool"                     
+NLQ acedrg          243       "dictionary generator"
+NLQ acedrg_database 11        "data source"
+NLQ rdkit           2017.03.2 "Chemoinformatics tool"
+NLQ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+NLQ M-peptide C6 CN

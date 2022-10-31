@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-M6R     M6R      5-AMINO-5-DEOXY-1-O-PHOSPHONO-D-MANNITOL     NON-POLYMER     30     16     .     
-#
+M6R M6R 5-AMINO-5-DEOXY-1-O-PHOSPHONO-D-MANNITOL NON-POLYMER 30 16 .
+
 data_comp_M6R
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,36 +19,37 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-M6R     O61     O       OP      -1      56.659      -17.742     43.951      
-M6R     P6      P       P       0       57.964      -18.356     43.481      
-M6R     O62     O       O       0       58.676      -17.504     42.447      
-M6R     O63     O       OP      -1      58.868      -18.769     44.628      
-M6R     O6      O       O2      0       57.563      -19.723     42.723      
-M6R     C6      C       CH2     0       56.829      -20.741     43.460      
-M6R     C5      C       CH1     0       56.531      -21.929     42.572      
-M6R     O5      O       OH1     0       55.667      -21.495     41.519      
-M6R     C4      C       CH1     0       57.785      -22.576     41.972      
-M6R     O4      O       OH1     0       58.714      -22.880     43.012      
-M6R     C3      C       CH1     0       57.501      -23.851     41.167      
-M6R     O3      O       OH1     0       56.984      -24.860     42.037      
-M6R     C2      C       CH1     0       58.696      -24.406     40.367      
-M6R     N2      N       NT2     0       58.242      -24.980     39.084      
-M6R     C1      C       CH2     0       59.540      -25.432     41.130      
-M6R     O1      O       OH1     0       60.810      -25.615     40.529      
-M6R     H61     H       H       0       55.987      -20.359     43.785      
-M6R     H62     H       H       0       57.354      -21.027     44.236      
-M6R     H5      H       H       0       56.044      -22.616     43.117      
-M6R     HO5     H       H       0       55.114      -22.101     41.307      
-M6R     H4      H       H       0       58.210      -21.918     41.362      
-M6R     HO4     H       H       0       59.501      -22.834     42.700      
-M6R     H3      H       H       0       56.773      -23.648     40.525      
-M6R     HO3     H       H       0       56.622      -25.464     41.565      
-M6R     H2      H       H       0       59.289      -23.640     40.154      
-M6R     HN21    H       H       0       58.942      -25.254     38.613      
-M6R     HN22    H       H       0       57.728      -25.688     39.238      
-M6R     H11     H       H       0       59.066      -26.291     41.150      
-M6R     H12     H       H       0       59.661      -25.133     42.055      
-M6R     HO1     H       H       0       61.198      -26.262     40.912      
+M6R O61  O OP  -1 56.659 -17.742 43.951
+M6R P6   P P   0  57.964 -18.356 43.481
+M6R O62  O O   0  58.676 -17.504 42.447
+M6R O63  O OP  -1 58.868 -18.769 44.628
+M6R O6   O O2  0  57.563 -19.723 42.723
+M6R C6   C CH2 0  56.829 -20.741 43.460
+M6R C5   C CH1 0  56.531 -21.929 42.572
+M6R O5   O OH1 0  55.667 -21.495 41.519
+M6R C4   C CH1 0  57.785 -22.576 41.972
+M6R O4   O OH1 0  58.714 -22.880 43.012
+M6R C3   C CH1 0  57.501 -23.851 41.167
+M6R O3   O OH1 0  56.984 -24.860 42.037
+M6R C2   C CH1 0  58.696 -24.406 40.367
+M6R N2   N NT2 0  58.242 -24.980 39.084
+M6R C1   C CH2 0  59.540 -25.432 41.130
+M6R O1   O OH1 0  60.810 -25.615 40.529
+M6R H61  H H   0  55.987 -20.359 43.785
+M6R H62  H H   0  57.354 -21.027 44.236
+M6R H5   H H   0  56.044 -22.616 43.117
+M6R HO5  H H   0  55.114 -22.101 41.307
+M6R H4   H H   0  58.210 -21.918 41.362
+M6R HO4  H H   0  59.501 -22.834 42.700
+M6R H3   H H   0  56.773 -23.648 40.525
+M6R HO3  H H   0  56.622 -25.464 41.565
+M6R H2   H H   0  59.289 -23.640 40.154
+M6R HN21 H H   0  58.942 -25.254 38.613
+M6R HN22 H H   0  57.728 -25.688 39.238
+M6R H11  H H   0  59.066 -26.291 41.150
+M6R H12  H H   0  59.661 -25.133 42.055
+M6R HO1  H H   0  61.198 -26.262 40.912
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -61,35 +60,36 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-M6R         O61          P6      SINGLE       n     1.517  0.0192     1.517  0.0192
-M6R          P6         O62      DOUBLE       n     1.517  0.0192     1.517  0.0192
-M6R          P6          O6      SINGLE       n     1.614  0.0178     1.614  0.0178
-M6R          P6         O63      SINGLE       n     1.517  0.0192     1.517  0.0192
-M6R          O6          C6      SINGLE       n     1.454  0.0165     1.454  0.0165
-M6R          C6          C5      SINGLE       n     1.511  0.0100     1.511  0.0100
-M6R          C5          O5      SINGLE       n     1.429  0.0100     1.429  0.0100
-M6R          C5          C4      SINGLE       n     1.530  0.0100     1.530  0.0100
-M6R          C4          C3      SINGLE       n     1.531  0.0100     1.531  0.0100
-M6R          C4          O4      SINGLE       n     1.424  0.0199     1.424  0.0199
-M6R          C3          C2      SINGLE       n     1.537  0.0100     1.537  0.0100
-M6R          C3          O3      SINGLE       n     1.424  0.0199     1.424  0.0199
-M6R          C2          N2      SINGLE       n     1.476  0.0134     1.476  0.0134
-M6R          C2          C1      SINGLE       n     1.530  0.0118     1.530  0.0118
-M6R          C1          O1      SINGLE       n     1.417  0.0200     1.417  0.0200
-M6R          C6         H61      SINGLE       n     1.089  0.0100     0.980  0.0146
-M6R          C6         H62      SINGLE       n     1.089  0.0100     0.980  0.0146
-M6R          C5          H5      SINGLE       n     1.089  0.0100     1.004  0.0200
-M6R          O5         HO5      SINGLE       n     0.970  0.0120     0.848  0.0200
-M6R          C4          H4      SINGLE       n     1.089  0.0100     0.992  0.0184
-M6R          O4         HO4      SINGLE       n     0.970  0.0120     0.848  0.0200
-M6R          C3          H3      SINGLE       n     1.089  0.0100     0.992  0.0184
-M6R          O3         HO3      SINGLE       n     0.970  0.0120     0.848  0.0200
-M6R          C2          H2      SINGLE       n     1.089  0.0100     0.992  0.0135
-M6R          N2        HN21      SINGLE       n     1.036  0.0160     0.888  0.0200
-M6R          N2        HN22      SINGLE       n     1.036  0.0160     0.888  0.0200
-M6R          C1         H11      SINGLE       n     1.089  0.0100     0.981  0.0174
-M6R          C1         H12      SINGLE       n     1.089  0.0100     0.981  0.0174
-M6R          O1         HO1      SINGLE       n     0.970  0.0120     0.846  0.0200
+M6R O61 P6   SINGLE n 1.517 0.0192 1.517 0.0192
+M6R P6  O62  DOUBLE n 1.517 0.0192 1.517 0.0192
+M6R P6  O6   SINGLE n 1.614 0.0178 1.614 0.0178
+M6R P6  O63  SINGLE n 1.517 0.0192 1.517 0.0192
+M6R O6  C6   SINGLE n 1.454 0.0165 1.454 0.0165
+M6R C6  C5   SINGLE n 1.511 0.0100 1.511 0.0100
+M6R C5  O5   SINGLE n 1.429 0.0100 1.429 0.0100
+M6R C5  C4   SINGLE n 1.530 0.0100 1.530 0.0100
+M6R C4  C3   SINGLE n 1.531 0.0100 1.531 0.0100
+M6R C4  O4   SINGLE n 1.424 0.0199 1.424 0.0199
+M6R C3  C2   SINGLE n 1.537 0.0100 1.537 0.0100
+M6R C3  O3   SINGLE n 1.424 0.0199 1.424 0.0199
+M6R C2  N2   SINGLE n 1.476 0.0134 1.476 0.0134
+M6R C2  C1   SINGLE n 1.530 0.0118 1.530 0.0118
+M6R C1  O1   SINGLE n 1.417 0.0200 1.417 0.0200
+M6R C6  H61  SINGLE n 1.089 0.0100 0.980 0.0146
+M6R C6  H62  SINGLE n 1.089 0.0100 0.980 0.0146
+M6R C5  H5   SINGLE n 1.089 0.0100 1.004 0.0200
+M6R O5  HO5  SINGLE n 0.970 0.0120 0.848 0.0200
+M6R C4  H4   SINGLE n 1.089 0.0100 0.992 0.0184
+M6R O4  HO4  SINGLE n 0.970 0.0120 0.848 0.0200
+M6R C3  H3   SINGLE n 1.089 0.0100 0.992 0.0184
+M6R O3  HO3  SINGLE n 0.970 0.0120 0.848 0.0200
+M6R C2  H2   SINGLE n 1.089 0.0100 0.992 0.0135
+M6R N2  HN21 SINGLE n 1.036 0.0160 0.888 0.0200
+M6R N2  HN22 SINGLE n 1.036 0.0160 0.888 0.0200
+M6R C1  H11  SINGLE n 1.089 0.0100 0.981 0.0174
+M6R C1  H12  SINGLE n 1.089 0.0100 0.981 0.0174
+M6R O1  HO1  SINGLE n 0.970 0.0120 0.846 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -97,56 +97,57 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-M6R         O61          P6         O62     112.864    1.69
-M6R         O61          P6          O6     105.795    2.09
-M6R         O61          P6         O63     112.864    1.69
-M6R         O62          P6          O6     105.795    2.09
-M6R         O62          P6         O63     112.864    1.69
-M6R          O6          P6         O63     105.795    2.09
-M6R          P6          O6          C6     118.671    1.50
-M6R          O6          C6          C5     109.438    2.56
-M6R          O6          C6         H61     109.393    1.91
-M6R          O6          C6         H62     109.393    1.91
-M6R          C5          C6         H61     109.582    1.50
-M6R          C5          C6         H62     109.582    1.50
-M6R         H61          C6         H62     108.319    1.50
-M6R          C6          C5          O5     109.314    1.96
-M6R          C6          C5          C4     112.503    1.50
-M6R          C6          C5          H5     108.656    1.50
-M6R          O5          C5          C4     109.549    1.85
-M6R          O5          C5          H5     108.591    1.50
-M6R          C4          C5          H5     108.777    1.50
-M6R          C5          O5         HO5     111.202    3.00
-M6R          C5          C4          C3     113.695    2.13
-M6R          C5          C4          O4     109.164    1.97
-M6R          C5          C4          H4     108.336    1.50
-M6R          C3          C4          O4     109.320    2.01
-M6R          C3          C4          H4     108.450    1.83
-M6R          O4          C4          H4     108.243    1.50
-M6R          C4          O4         HO4     108.564    3.00
-M6R          C4          C3          C2     115.018    1.61
-M6R          C4          C3          O3     109.320    2.01
-M6R          C4          C3          H3     108.450    1.83
-M6R          C2          C3          O3     109.040    1.72
-M6R          C2          C3          H3     108.500    1.50
-M6R          O3          C3          H3     108.081    2.87
-M6R          C3          O3         HO3     108.522    3.00
-M6R          C3          C2          N2     111.883    2.59
-M6R          C3          C2          C1     111.335    2.14
-M6R          C3          C2          H2     107.639    1.50
-M6R          N2          C2          C1     111.883    2.59
-M6R          N2          C2          H2     107.944    1.55
-M6R          C1          C2          H2     107.627    1.50
-M6R          C2          N2        HN21     109.715    3.00
-M6R          C2          N2        HN22     109.715    3.00
-M6R        HN21          N2        HN22     107.559    3.00
-M6R          C2          C1          O1     111.903    1.66
-M6R          C2          C1         H11     109.343    1.50
-M6R          C2          C1         H12     109.343    1.50
-M6R          O1          C1         H11     109.411    1.50
-M6R          O1          C1         H12     109.411    1.50
-M6R         H11          C1         H12     108.070    1.50
-M6R          C1          O1         HO1     108.529    2.94
+M6R O61  P6 O62  112.864 1.69
+M6R O61  P6 O6   105.795 2.09
+M6R O61  P6 O63  112.864 1.69
+M6R O62  P6 O6   105.795 2.09
+M6R O62  P6 O63  112.864 1.69
+M6R O6   P6 O63  105.795 2.09
+M6R P6   O6 C6   118.671 1.50
+M6R O6   C6 C5   109.438 2.56
+M6R O6   C6 H61  109.393 1.91
+M6R O6   C6 H62  109.393 1.91
+M6R C5   C6 H61  109.582 1.50
+M6R C5   C6 H62  109.582 1.50
+M6R H61  C6 H62  108.319 1.50
+M6R C6   C5 O5   109.314 1.96
+M6R C6   C5 C4   112.503 1.50
+M6R C6   C5 H5   108.656 1.50
+M6R O5   C5 C4   109.549 1.85
+M6R O5   C5 H5   108.591 1.50
+M6R C4   C5 H5   108.777 1.50
+M6R C5   O5 HO5  111.202 3.00
+M6R C5   C4 C3   113.695 2.13
+M6R C5   C4 O4   109.164 1.97
+M6R C5   C4 H4   108.336 1.50
+M6R C3   C4 O4   109.320 2.01
+M6R C3   C4 H4   108.450 1.83
+M6R O4   C4 H4   108.243 1.50
+M6R C4   O4 HO4  108.564 3.00
+M6R C4   C3 C2   115.018 1.61
+M6R C4   C3 O3   109.320 2.01
+M6R C4   C3 H3   108.450 1.83
+M6R C2   C3 O3   109.040 1.72
+M6R C2   C3 H3   108.500 1.50
+M6R O3   C3 H3   108.081 2.87
+M6R C3   O3 HO3  108.522 3.00
+M6R C3   C2 N2   111.883 2.59
+M6R C3   C2 C1   111.335 2.14
+M6R C3   C2 H2   107.639 1.50
+M6R N2   C2 C1   111.883 2.59
+M6R N2   C2 H2   107.944 1.55
+M6R C1   C2 H2   107.627 1.50
+M6R C2   N2 HN21 109.715 3.00
+M6R C2   N2 HN22 109.715 3.00
+M6R HN21 N2 HN22 107.559 3.00
+M6R C2   C1 O1   111.903 1.66
+M6R C2   C1 H11  109.343 1.50
+M6R C2   C1 H12  109.343 1.50
+M6R O1   C1 H11  109.411 1.50
+M6R O1   C1 H12  109.411 1.50
+M6R H11  C1 H12  108.070 1.50
+M6R C1   O1 HO1  108.529 2.94
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -157,18 +158,19 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-M6R            sp3_sp3_49          C4          C3          O3         HO3     180.000    10.0     3
-M6R            sp3_sp3_40          N2          C2          C3          C4     180.000    10.0     3
-M6R            sp3_sp3_52          C3          C2          N2        HN21     180.000    10.0     3
-M6R            sp3_sp3_58          O1          C1          C2          C3     180.000    10.0     3
-M6R            sp3_sp3_67          C2          C1          O1         HO1     180.000    10.0     3
-M6R             sp3_sp3_2          C6          O6          P6         O61     -60.000    10.0     3
-M6R             sp3_sp3_4          C5          C6          O6          P6     180.000    10.0     3
-M6R             sp3_sp3_7          O5          C5          C6          O6     180.000    10.0     3
-M6R            sp3_sp3_16          C6          C5          O5         HO5     180.000    10.0     3
-M6R            sp3_sp3_19          C3          C4          C5          C6     180.000    10.0     3
-M6R            sp3_sp3_28          C2          C3          C4          C5     180.000    10.0     3
-M6R            sp3_sp3_37          C5          C4          O4         HO4     180.000    10.0     3
+M6R sp3_sp3_49 C4 C3 O3 HO3  180.000 10.0 3
+M6R sp3_sp3_40 N2 C2 C3 C4   180.000 10.0 3
+M6R sp3_sp3_52 C3 C2 N2 HN21 180.000 10.0 3
+M6R sp3_sp3_58 O1 C1 C2 C3   180.000 10.0 3
+M6R sp3_sp3_67 C2 C1 O1 HO1  180.000 10.0 3
+M6R sp3_sp3_2  C6 O6 P6 O61  -60.000 10.0 3
+M6R sp3_sp3_4  C5 C6 O6 P6   180.000 10.0 3
+M6R sp3_sp3_7  O5 C5 C6 O6   180.000 10.0 3
+M6R sp3_sp3_16 C6 C5 O5 HO5  180.000 10.0 3
+M6R sp3_sp3_19 C3 C4 C5 C6   180.000 10.0 3
+M6R sp3_sp3_28 C2 C3 C4 C5   180.000 10.0 3
+M6R sp3_sp3_37 C5 C4 O4 HO4  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -177,30 +179,48 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-M6R    chir_1    P6    O6    O61    O63    both
-M6R    chir_2    C5    O5    C4    C6    negative
-M6R    chir_3    C4    O4    C5    C3    positive
-M6R    chir_4    C3    O3    C4    C2    negative
-M6R    chir_5    C2    N2    C3    C1    negative
+M6R chir_1 P6 O6 O61 O63 both
+M6R chir_2 C5 O5 C4  C6  negative
+M6R chir_3 C4 O4 C5  C3  positive
+M6R chir_4 C3 O3 C4  C2  negative
+M6R chir_5 C2 N2 C3  C1  negative
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-M6R           SMILES              ACDLabs 10.04                                                                                  O=P(O)(O)OCC(O)C(O)C(O)C(N)CO
-M6R SMILES_CANONICAL               CACTVS 3.341                                                               N[C@H](CO)[C@@H](O)[C@H](O)[C@H](O)CO[P](O)(O)=O
-M6R           SMILES               CACTVS 3.341                                                                    N[CH](CO)[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O
-M6R SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                              C([C@H]([C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O)N)O
-M6R           SMILES "OpenEye OEToolkits" 1.5.0                                                                                C(C(C(C(C(COP(=O)(O)O)O)O)O)N)O
-M6R            InChI                InChI  1.03 InChI=1S/C6H16NO8P/c7-3(1-8)5(10)6(11)4(9)2-15-16(12,13)14/h3-6,8-11H,1-2,7H2,(H2,12,13,14)/t3-,4-,5-,6-/m1/s1
-M6R         InChIKey                InChI  1.03                                                                                    LBNVXZROMBUNNQ-KVTDHHQDSA-N
+M6R SMILES           ACDLabs              10.04 O=P(O)(O)OCC(O)C(O)C(O)C(N)CO
+M6R SMILES_CANONICAL CACTVS               3.341 N[C@H](CO)[C@@H](O)[C@H](O)[C@H](O)CO[P](O)(O)=O
+M6R SMILES           CACTVS               3.341 N[CH](CO)[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O
+M6R SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C([C@H]([C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O)N)O
+M6R SMILES           "OpenEye OEToolkits" 1.5.0 C(C(C(C(C(COP(=O)(O)O)O)O)O)N)O
+M6R InChI            InChI                1.03  InChI=1S/C6H16NO8P/c7-3(1-8)5(10)6(11)4(9)2-15-16(12,13)14/h3-6,8-11H,1-2,7H2,(H2,12,13,14)/t3-,4-,5-,6-/m1/s1
+M6R InChIKey         InChI                1.03  LBNVXZROMBUNNQ-KVTDHHQDSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-M6R acedrg               243         "dictionary generator"                  
-M6R acedrg_database      11          "data source"                           
-M6R rdkit                2017.03.2   "Chemoinformatics tool"
-M6R refmac5              5.8.0238    "optimization tool"                     
+M6R acedrg          243       "dictionary generator"
+M6R acedrg_database 11        "data source"
+M6R rdkit           2017.03.2 "Chemoinformatics tool"
+M6R refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+M6R DNA/RNA O61 OP3
+M6R DNA/RNA P6  P
+M6R DNA/RNA O62 OP1
+M6R DNA/RNA O63 OP2
+M6R DNA/RNA O6  O5'
+M6R DNA/RNA C6  C5'
+M6R DNA/RNA C5  C4'
+M6R DNA/RNA C4  C3'
+M6R DNA/RNA O4  O3'
+M6R DNA/RNA HO4 HO3'

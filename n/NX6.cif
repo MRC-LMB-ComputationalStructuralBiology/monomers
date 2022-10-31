@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-NX6     NX6      "N-[(benzyloxy)carbonyl]-L-aspartic acid"     NON-POLYMER     30     19     .     
-#
+NX6 NX6 "N-[(benzyloxy)carbonyl]-L-aspartic acid" NON-POLYMER 30 19 .
+
 data_comp_NX6
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,36 +19,37 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-NX6     C       C       C       0       -9.963      -39.033     -6.165      
-NX6     N       N       NH1     0       -11.202     -40.277     -4.434      
-NX6     O       O       O       0       -8.801      -39.045     -6.618      
-NX6     C1      C       C       0       -10.482     -40.224     -3.294      
-NX6     O1      O       O       0       -9.272      -40.278     -3.236      
-NX6     C2      C       CH2     0       -10.706     -39.920     -0.911      
-NX6     O2      O       O2      0       -11.299     -40.089     -2.231      
-NX6     C3      C       CR6     0       -10.163     -38.527     -0.753      
-NX6     C4      C       CR16    0       -8.809      -38.314     -0.532      
-NX6     C5      C       CR16    0       -8.311      -37.024     -0.388      
-NX6     C6      C       CR16    0       -9.162      -35.940     -0.466      
-NX6     C7      C       CR16    0       -10.508     -36.141     -0.687      
-NX6     C8      C       CR16    0       -11.008     -37.430     -0.831      
-NX6     CA      C       CH1     0       -10.569     -40.382     -5.738      
-NX6     CB      C       CH2     0       -11.523     -40.905     -6.809      
-NX6     CG      C       C       0       -11.971     -42.335     -6.553      
-NX6     OD1     O       OC      -1      -11.126     -43.243     -6.677      
-NX6     OD2     O       O       0       -13.161     -42.528     -6.231      
-NX6     OXT     O       OC      -1      -10.676     -38.019     -6.029      
-NX6     HN      H       H       0       -12.077     -40.248     -4.387      
-NX6     H2      H       H       0       -9.991      -40.577     -0.778      
-NX6     H2A     H       H       0       -11.391     -40.079     -0.229      
-NX6     H4      H       H       0       -8.221      -39.050     -0.477      
-NX6     H5      H       H       0       -7.389      -36.891     -0.237      
-NX6     H6      H       H       0       -8.824      -35.064     -0.368      
-NX6     H7      H       H       0       -11.093     -35.401     -0.741      
-NX6     H8      H       H       0       -11.930     -37.560     -0.982      
-NX6     HA      H       H       0       -9.837      -41.040     -5.661      
-NX6     HB      H       H       0       -11.077     -40.871     -7.680      
-NX6     HBA     H       H       0       -12.313     -40.327     -6.844      
+NX6 C   C C    0  -9.963  -39.033 -6.165
+NX6 N   N NH1  0  -11.202 -40.277 -4.434
+NX6 O   O O    0  -8.801  -39.045 -6.618
+NX6 C1  C C    0  -10.482 -40.224 -3.294
+NX6 O1  O O    0  -9.272  -40.278 -3.236
+NX6 C2  C CH2  0  -10.706 -39.920 -0.911
+NX6 O2  O O2   0  -11.299 -40.089 -2.231
+NX6 C3  C CR6  0  -10.163 -38.527 -0.753
+NX6 C4  C CR16 0  -8.809  -38.314 -0.532
+NX6 C5  C CR16 0  -8.311  -37.024 -0.388
+NX6 C6  C CR16 0  -9.162  -35.940 -0.466
+NX6 C7  C CR16 0  -10.508 -36.141 -0.687
+NX6 C8  C CR16 0  -11.008 -37.430 -0.831
+NX6 CA  C CH1  0  -10.569 -40.382 -5.738
+NX6 CB  C CH2  0  -11.523 -40.905 -6.809
+NX6 CG  C C    0  -11.971 -42.335 -6.553
+NX6 OD1 O OC   -1 -11.126 -43.243 -6.677
+NX6 OD2 O O    0  -13.161 -42.528 -6.231
+NX6 OXT O OC   -1 -10.676 -38.019 -6.029
+NX6 HN  H H    0  -12.077 -40.248 -4.387
+NX6 H2  H H    0  -9.991  -40.577 -0.778
+NX6 H2A H H    0  -11.391 -40.079 -0.229
+NX6 H4  H H    0  -8.221  -39.050 -0.477
+NX6 H5  H H    0  -7.389  -36.891 -0.237
+NX6 H6  H H    0  -8.824  -35.064 -0.368
+NX6 H7  H H    0  -11.093 -35.401 -0.741
+NX6 H8  H H    0  -11.930 -37.560 -0.982
+NX6 HA  H H    0  -9.837  -41.040 -5.661
+NX6 HB  H H    0  -11.077 -40.871 -7.680
+NX6 HBA H H    0  -12.313 -40.327 -6.844
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -61,36 +60,37 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-NX6           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-NX6           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-NX6           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-NX6           N          CA      SINGLE       n     1.450  0.0100     1.450  0.0100
-NX6           N          C1      SINGLE       n     1.344  0.0100     1.344  0.0100
-NX6          C1          O1      DOUBLE       n     1.210  0.0102     1.210  0.0102
-NX6          C1          O2      SINGLE       n     1.341  0.0100     1.341  0.0100
-NX6          C2          O2      SINGLE       n     1.450  0.0125     1.450  0.0125
-NX6          C2          C3      SINGLE       n     1.501  0.0101     1.501  0.0101
-NX6          C3          C8      DOUBLE       y     1.383  0.0108     1.383  0.0108
-NX6          C3          C4      SINGLE       y     1.383  0.0108     1.383  0.0108
-NX6          C4          C5      DOUBLE       y     1.386  0.0100     1.386  0.0100
-NX6          C5          C6      SINGLE       y     1.376  0.0124     1.376  0.0124
-NX6          C6          C7      DOUBLE       y     1.374  0.0127     1.374  0.0127
-NX6          C7          C8      SINGLE       y     1.386  0.0100     1.386  0.0100
-NX6          CA          CB      SINGLE       n     1.526  0.0101     1.526  0.0101
-NX6          CB          CG      SINGLE       n     1.519  0.0109     1.519  0.0109
-NX6          CG         OD2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-NX6          CG         OD1      SINGLE       n     1.247  0.0187     1.247  0.0187
-NX6           N          HN      SINGLE       n     1.016  0.0100     0.875  0.0200
-NX6          C2          H2      SINGLE       n     1.089  0.0100     0.980  0.0157
-NX6          C2         H2A      SINGLE       n     1.089  0.0100     0.980  0.0157
-NX6          C4          H4      SINGLE       n     1.082  0.0130     0.944  0.0174
-NX6          C5          H5      SINGLE       n     1.082  0.0130     0.944  0.0175
-NX6          C6          H6      SINGLE       n     1.082  0.0130     0.944  0.0161
-NX6          C7          H7      SINGLE       n     1.082  0.0130     0.944  0.0175
-NX6          C8          H8      SINGLE       n     1.082  0.0130     0.944  0.0174
-NX6          CA          HA      SINGLE       n     1.089  0.0100     0.987  0.0159
-NX6          CB          HB      SINGLE       n     1.089  0.0100     0.979  0.0159
-NX6          CB         HBA      SINGLE       n     1.089  0.0100     0.979  0.0159
+NX6 C  O   DOUBLE n 1.247 0.0187 1.247 0.0187
+NX6 C  CA  SINGLE n 1.539 0.0100 1.539 0.0100
+NX6 C  OXT SINGLE n 1.247 0.0187 1.247 0.0187
+NX6 N  CA  SINGLE n 1.450 0.0100 1.450 0.0100
+NX6 N  C1  SINGLE n 1.344 0.0100 1.344 0.0100
+NX6 C1 O1  DOUBLE n 1.210 0.0102 1.210 0.0102
+NX6 C1 O2  SINGLE n 1.341 0.0100 1.341 0.0100
+NX6 C2 O2  SINGLE n 1.450 0.0125 1.450 0.0125
+NX6 C2 C3  SINGLE n 1.501 0.0101 1.501 0.0101
+NX6 C3 C8  DOUBLE y 1.383 0.0108 1.383 0.0108
+NX6 C3 C4  SINGLE y 1.383 0.0108 1.383 0.0108
+NX6 C4 C5  DOUBLE y 1.386 0.0100 1.386 0.0100
+NX6 C5 C6  SINGLE y 1.376 0.0124 1.376 0.0124
+NX6 C6 C7  DOUBLE y 1.374 0.0127 1.374 0.0127
+NX6 C7 C8  SINGLE y 1.386 0.0100 1.386 0.0100
+NX6 CA CB  SINGLE n 1.526 0.0101 1.526 0.0101
+NX6 CB CG  SINGLE n 1.519 0.0109 1.519 0.0109
+NX6 CG OD2 DOUBLE n 1.247 0.0187 1.247 0.0187
+NX6 CG OD1 SINGLE n 1.247 0.0187 1.247 0.0187
+NX6 N  HN  SINGLE n 1.016 0.0100 0.875 0.0200
+NX6 C2 H2  SINGLE n 1.089 0.0100 0.980 0.0157
+NX6 C2 H2A SINGLE n 1.089 0.0100 0.980 0.0157
+NX6 C4 H4  SINGLE n 1.082 0.0130 0.944 0.0174
+NX6 C5 H5  SINGLE n 1.082 0.0130 0.944 0.0175
+NX6 C6 H6  SINGLE n 1.082 0.0130 0.944 0.0161
+NX6 C7 H7  SINGLE n 1.082 0.0130 0.944 0.0175
+NX6 C8 H8  SINGLE n 1.082 0.0130 0.944 0.0174
+NX6 CA HA  SINGLE n 1.089 0.0100 0.987 0.0159
+NX6 CB HB  SINGLE n 1.089 0.0100 0.979 0.0159
+NX6 CB HBA SINGLE n 1.089 0.0100 0.979 0.0159
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -98,55 +98,56 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-NX6           O           C          CA     117.249    1.61
-NX6           O           C         OXT     125.502    1.50
-NX6          CA           C         OXT     117.249    1.61
-NX6          CA           N          C1     120.910    1.50
-NX6          CA           N          HN     119.628    1.50
-NX6          C1           N          HN     119.463    2.20
-NX6           N          C1          O1     124.890    1.50
-NX6           N          C1          O2     110.815    1.50
-NX6          O1          C1          O2     124.295    1.50
-NX6          O2          C2          C3     109.508    2.22
-NX6          O2          C2          H2     109.538    1.50
-NX6          O2          C2         H2A     109.538    1.50
-NX6          C3          C2          H2     109.785    1.50
-NX6          C3          C2         H2A     109.785    1.50
-NX6          H2          C2         H2A     108.275    1.50
-NX6          C1          O2          C2     115.730    1.50
-NX6          C2          C3          C8     120.651    1.50
-NX6          C2          C3          C4     120.651    1.50
-NX6          C8          C3          C4     118.697    1.50
-NX6          C3          C4          C5     120.514    1.50
-NX6          C3          C4          H4     119.732    1.50
-NX6          C5          C4          H4     119.754    1.50
-NX6          C4          C5          C6     120.186    1.50
-NX6          C4          C5          H5     119.862    1.50
-NX6          C6          C5          H5     119.952    1.50
-NX6          C5          C6          C7     119.903    1.50
-NX6          C5          C6          H6     120.048    1.50
-NX6          C7          C6          H6     120.048    1.50
-NX6          C6          C7          C8     120.186    1.50
-NX6          C6          C7          H7     119.952    1.50
-NX6          C8          C7          H7     119.862    1.50
-NX6          C3          C8          C7     120.514    1.50
-NX6          C3          C8          H8     119.732    1.50
-NX6          C7          C8          H8     119.754    1.50
-NX6           C          CA           N     110.939    1.74
-NX6           C          CA          CB     111.511    2.91
-NX6           C          CA          HA     108.327    1.50
-NX6           N          CA          CB     112.687    1.50
-NX6           N          CA          HA     107.305    1.50
-NX6          CB          CA          HA     107.393    1.50
-NX6          CA          CB          CG     111.511    2.91
-NX6          CA          CB          HB     108.675    1.50
-NX6          CA          CB         HBA     108.675    1.50
-NX6          CG          CB          HB     107.840    2.14
-NX6          CG          CB         HBA     107.840    2.14
-NX6          HB          CB         HBA     107.891    1.66
-NX6          CB          CG         OD2     117.986    1.50
-NX6          CB          CG         OD1     117.986    1.50
-NX6         OD2          CG         OD1     124.027    1.50
+NX6 O   C  CA  117.249 1.61
+NX6 O   C  OXT 125.502 1.50
+NX6 CA  C  OXT 117.249 1.61
+NX6 CA  N  C1  120.910 1.50
+NX6 CA  N  HN  119.628 1.50
+NX6 C1  N  HN  119.463 2.20
+NX6 N   C1 O1  124.890 1.50
+NX6 N   C1 O2  110.815 1.50
+NX6 O1  C1 O2  124.295 1.50
+NX6 O2  C2 C3  109.508 2.22
+NX6 O2  C2 H2  109.538 1.50
+NX6 O2  C2 H2A 109.538 1.50
+NX6 C3  C2 H2  109.785 1.50
+NX6 C3  C2 H2A 109.785 1.50
+NX6 H2  C2 H2A 108.275 1.50
+NX6 C1  O2 C2  115.730 1.50
+NX6 C2  C3 C8  120.651 1.50
+NX6 C2  C3 C4  120.651 1.50
+NX6 C8  C3 C4  118.697 1.50
+NX6 C3  C4 C5  120.514 1.50
+NX6 C3  C4 H4  119.732 1.50
+NX6 C5  C4 H4  119.754 1.50
+NX6 C4  C5 C6  120.186 1.50
+NX6 C4  C5 H5  119.862 1.50
+NX6 C6  C5 H5  119.952 1.50
+NX6 C5  C6 C7  119.903 1.50
+NX6 C5  C6 H6  120.048 1.50
+NX6 C7  C6 H6  120.048 1.50
+NX6 C6  C7 C8  120.186 1.50
+NX6 C6  C7 H7  119.952 1.50
+NX6 C8  C7 H7  119.862 1.50
+NX6 C3  C8 C7  120.514 1.50
+NX6 C3  C8 H8  119.732 1.50
+NX6 C7  C8 H8  119.754 1.50
+NX6 C   CA N   110.939 1.74
+NX6 C   CA CB  111.511 2.91
+NX6 C   CA HA  108.327 1.50
+NX6 N   CA CB  112.687 1.50
+NX6 N   CA HA  107.305 1.50
+NX6 CB  CA HA  107.393 1.50
+NX6 CA  CB CG  111.511 2.91
+NX6 CA  CB HB  108.675 1.50
+NX6 CA  CB HBA 108.675 1.50
+NX6 CG  CB HB  107.840 2.14
+NX6 CG  CB HBA 107.840 2.14
+NX6 HB  CB HBA 107.891 1.66
+NX6 CB  CG OD2 117.986 1.50
+NX6 CB  CG OD1 117.986 1.50
+NX6 OD2 CG OD1 124.027 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -157,20 +158,21 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-NX6             sp2_sp3_1           O           C          CA           N       0.000    10.0     6
-NX6       const_sp2_sp2_9          C5          C6          C7          C8       0.000     5.0     2
-NX6       const_sp2_sp2_5          C6          C7          C8          C3       0.000     5.0     2
-NX6             sp3_sp3_4           C          CA          CB          CG     180.000    10.0     3
-NX6            sp2_sp3_20         OD2          CG          CB          CA     120.000    10.0     6
-NX6             sp2_sp3_7          C1           N          CA           C       0.000    10.0     6
-NX6             sp2_sp2_3          O1          C1           N          CA       0.000     5.0     2
-NX6             sp2_sp2_5           N          C1          O2          C2     180.000     5.0     2
-NX6             sp3_sp3_1          C3          C2          O2          C1     180.000    10.0     3
-NX6            sp2_sp3_14          C8          C3          C2          O2     -90.000    10.0     6
-NX6       const_sp2_sp2_3          C2          C3          C8          C7     180.000     5.0     2
-NX6              const_23          C2          C3          C4          C5     180.000    10.0     2
-NX6              const_17          C3          C4          C5          C6       0.000    10.0     2
-NX6              const_13          C4          C5          C6          C7       0.000    10.0     2
+NX6 sp2_sp3_1       O   C  CA N  0.000   10.0 6
+NX6 const_sp2_sp2_9 C5  C6 C7 C8 0.000   5.0  2
+NX6 const_sp2_sp2_5 C6  C7 C8 C3 0.000   5.0  2
+NX6 sp3_sp3_4       C   CA CB CG 180.000 10.0 3
+NX6 sp2_sp3_20      OD2 CG CB CA 120.000 10.0 6
+NX6 sp2_sp3_7       C1  N  CA C  0.000   10.0 6
+NX6 sp2_sp2_3       O1  C1 N  CA 0.000   5.0  2
+NX6 sp2_sp2_5       N   C1 O2 C2 180.000 5.0  2
+NX6 sp3_sp3_1       C3  C2 O2 C1 180.000 10.0 3
+NX6 sp2_sp3_14      C8  C3 C2 O2 -90.000 10.0 6
+NX6 const_sp2_sp2_3 C2  C3 C8 C7 180.000 5.0  2
+NX6 const_23        C2  C3 C4 C5 180.000 10.0 2
+NX6 const_17        C3  C4 C5 C6 0.000   10.0 2
+NX6 const_13        C4  C5 C6 C7 0.000   10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -179,59 +181,70 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-NX6    chir_1    CA    N    C    CB    positive
+NX6 chir_1 CA N C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-NX6    plan-1          C2   0.020
-NX6    plan-1          C3   0.020
-NX6    plan-1          C4   0.020
-NX6    plan-1          C5   0.020
-NX6    plan-1          C6   0.020
-NX6    plan-1          C7   0.020
-NX6    plan-1          C8   0.020
-NX6    plan-1          H4   0.020
-NX6    plan-1          H5   0.020
-NX6    plan-1          H6   0.020
-NX6    plan-1          H7   0.020
-NX6    plan-1          H8   0.020
-NX6    plan-2           C   0.020
-NX6    plan-2          CA   0.020
-NX6    plan-2           O   0.020
-NX6    plan-2         OXT   0.020
-NX6    plan-3          C1   0.020
-NX6    plan-3          CA   0.020
-NX6    plan-3          HN   0.020
-NX6    plan-3           N   0.020
-NX6    plan-4          C1   0.020
-NX6    plan-4           N   0.020
-NX6    plan-4          O1   0.020
-NX6    plan-4          O2   0.020
-NX6    plan-5          CB   0.020
-NX6    plan-5          CG   0.020
-NX6    plan-5         OD1   0.020
-NX6    plan-5         OD2   0.020
+NX6 plan-1 C2  0.020
+NX6 plan-1 C3  0.020
+NX6 plan-1 C4  0.020
+NX6 plan-1 C5  0.020
+NX6 plan-1 C6  0.020
+NX6 plan-1 C7  0.020
+NX6 plan-1 C8  0.020
+NX6 plan-1 H4  0.020
+NX6 plan-1 H5  0.020
+NX6 plan-1 H6  0.020
+NX6 plan-1 H7  0.020
+NX6 plan-1 H8  0.020
+NX6 plan-2 C   0.020
+NX6 plan-2 CA  0.020
+NX6 plan-2 O   0.020
+NX6 plan-2 OXT 0.020
+NX6 plan-3 C1  0.020
+NX6 plan-3 CA  0.020
+NX6 plan-3 HN  0.020
+NX6 plan-3 N   0.020
+NX6 plan-4 C1  0.020
+NX6 plan-4 N   0.020
+NX6 plan-4 O1  0.020
+NX6 plan-4 O2  0.020
+NX6 plan-5 CB  0.020
+NX6 plan-5 CG  0.020
+NX6 plan-5 OD1 0.020
+NX6 plan-5 OD2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-NX6           SMILES              ACDLabs 12.01                                                                                          O=C(O)C(NC(=O)OCc1ccccc1)CC(=O)O
-NX6 SMILES_CANONICAL               CACTVS 3.370                                                                                      OC(=O)C[C@H](NC(=O)OCc1ccccc1)C(O)=O
-NX6           SMILES               CACTVS 3.370                                                                                       OC(=O)C[CH](NC(=O)OCc1ccccc1)C(O)=O
-NX6 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                   c1ccc(cc1)COC(=O)N[C@@H](CC(=O)O)C(=O)O
-NX6           SMILES "OpenEye OEToolkits" 1.7.0                                                                                        c1ccc(cc1)COC(=O)NC(CC(=O)O)C(=O)O
-NX6            InChI                InChI  1.03 InChI=1S/C12H13NO6/c14-10(15)6-9(11(16)17)13-12(18)19-7-8-4-2-1-3-5-8/h1-5,9H,6-7H2,(H,13,18)(H,14,15)(H,16,17)/t9-/m0/s1
-NX6         InChIKey                InChI  1.03                                                                                               XYXYXSKSTZAEJW-VIFPVBQESA-N
+NX6 SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)OCc1ccccc1)CC(=O)O
+NX6 SMILES_CANONICAL CACTVS               3.370 OC(=O)C[C@H](NC(=O)OCc1ccccc1)C(O)=O
+NX6 SMILES           CACTVS               3.370 OC(=O)C[CH](NC(=O)OCc1ccccc1)C(O)=O
+NX6 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 c1ccc(cc1)COC(=O)N[C@@H](CC(=O)O)C(=O)O
+NX6 SMILES           "OpenEye OEToolkits" 1.7.0 c1ccc(cc1)COC(=O)NC(CC(=O)O)C(=O)O
+NX6 InChI            InChI                1.03  InChI=1S/C12H13NO6/c14-10(15)6-9(11(16)17)13-12(18)19-7-8-4-2-1-3-5-8/h1-5,9H,6-7H2,(H,13,18)(H,14,15)(H,16,17)/t9-/m0/s1
+NX6 InChIKey         InChI                1.03  XYXYXSKSTZAEJW-VIFPVBQESA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-NX6 acedrg               243         "dictionary generator"                  
-NX6 acedrg_database      11          "data source"                           
-NX6 rdkit                2017.03.2   "Chemoinformatics tool"
-NX6 refmac5              5.8.0238    "optimization tool"                     
+NX6 acedrg          243       "dictionary generator"
+NX6 acedrg_database 11        "data source"
+NX6 rdkit           2017.03.2 "Chemoinformatics tool"
+NX6 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+NX6 M-peptide C1 CN
+NX6 M-peptide HN H

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-4DW     4DW      "N-{4-[2-(2-amino-4-oxo-4,7-dihydro-3H-pyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl}-L-glutamic acid"     NON-POLYMER     48     31     .     
-#
+4DW 4DW "N-{4-[2-(2-amino-4-oxo-4,7-dihydro-3H-pyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl}-L-glutamic acid" NON-POLYMER 48 31 .
+
 data_comp_4DW
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,54 +19,55 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-4DW     C1      C       CR6     0       62.734      48.118      18.689      
-4DW     C2      C       CR16    0       62.036      49.276      18.372      
-4DW     C3      C       CR16    0       60.825      49.222      17.697      
-4DW     C4      C       CR6     0       60.282      47.999      17.320      
-4DW     C5      C       CR16    0       60.976      46.837      17.633      
-4DW     C6      C       CR16    0       62.184      46.899      18.311      
-4DW     C7      C       CH2     0       64.041      48.176      19.444      
-4DW     C8      C       CH2     0       63.847      48.194      20.989      
-4DW     C9      C       CR5     0       63.040      47.044      21.518      
-4DW     C10     C       CR15    0       63.497      45.802      21.854      
-4DW     N11     N       NR5     0       62.459      45.024      22.280      
-4DW     C12     C       CR56    0       61.299      45.759      22.218      
-4DW     C13     C       CR56    0       61.619      47.021      21.746      
-4DW     C14     C       CR6     0       60.568      47.963      21.597      
-4DW     O15     O       O       0       60.742      49.118      21.186      
-4DW     N16     N       NRD6    0       59.269      47.615      21.920      
-4DW     C17     C       CR6     0       59.009      46.388      22.373      
-4DW     N18     N       NR6     0       59.993      45.452      22.529      
-4DW     N19     N       NH2     0       57.759      46.046      22.685      
-4DW     C20     C       C       0       58.969      47.943      16.590      
-4DW     O21     O       O       0       58.773      48.665      15.612      
-4DW     N22     N       NH1     0       58.047      47.095      17.067      
-4DW     C23     C       CH1     0       56.728      46.932      16.482      
-4DW     C24     C       C1      0       56.808      46.308      15.085      
-4DW     C25     C       C1      0       57.618      45.320      14.721      
-4DW     C26     C       C       0       57.709      44.750      13.393      
-4DW     O27     O       O       0       56.993      45.195      12.492      
-4DW     O28     O       OC      -1      58.513      43.834      13.227      
-4DW     C29     C       C       0       55.783      46.167      17.439      
-4DW     O30     O       OC      -1      55.837      46.467      18.646      
-4DW     O31     O       O       0       55.028      45.306      16.946      
-4DW     H1      H       H       0       62.389      50.113      18.625      
-4DW     H2      H       H       0       60.371      50.019      17.492      
-4DW     H3      H       H       0       60.622      46.000      17.388      
-4DW     H4      H       H       0       62.640      46.101      18.521      
-4DW     H5      H       H       0       64.531      48.982      19.174      
-4DW     H6      H       H       0       64.586      47.396      19.200      
-4DW     H7      H       H       0       63.409      49.031      21.243      
-4DW     H8      H       H       0       64.728      48.182      21.417      
-4DW     H9      H       H       0       64.397      45.519      21.805      
-4DW     H10     H       H       0       62.527      44.188      22.549      
-4DW     H11     H       H       0       59.787      44.646      22.832      
-4DW     H12     H       H       0       57.232      46.631      23.072      
-4DW     H13     H       H       0       57.471      45.239      22.502      
-4DW     H14     H       H       0       58.243      46.617      17.773      
-4DW     H15     H       H       0       56.334      47.831      16.372      
-4DW     H16     H       H       0       56.229      46.657      14.430      
-4DW     H17     H       H       0       58.191      44.942      15.367      
+4DW C1  C CR6  0  62.734 48.118 18.689
+4DW C2  C CR16 0  62.036 49.276 18.372
+4DW C3  C CR16 0  60.825 49.222 17.697
+4DW C4  C CR6  0  60.282 47.999 17.320
+4DW C5  C CR16 0  60.976 46.837 17.633
+4DW C6  C CR16 0  62.184 46.899 18.311
+4DW C7  C CH2  0  64.041 48.176 19.444
+4DW C8  C CH2  0  63.847 48.194 20.989
+4DW C9  C CR5  0  63.040 47.044 21.518
+4DW C10 C CR15 0  63.497 45.802 21.854
+4DW N11 N NR5  0  62.459 45.024 22.280
+4DW C12 C CR56 0  61.299 45.759 22.218
+4DW C13 C CR56 0  61.619 47.021 21.746
+4DW C14 C CR6  0  60.568 47.963 21.597
+4DW O15 O O    0  60.742 49.118 21.186
+4DW N16 N NRD6 0  59.269 47.615 21.920
+4DW C17 C CR6  0  59.009 46.388 22.373
+4DW N18 N NR6  0  59.993 45.452 22.529
+4DW N19 N NH2  0  57.759 46.046 22.685
+4DW C20 C C    0  58.969 47.943 16.590
+4DW O21 O O    0  58.773 48.665 15.612
+4DW N22 N NH1  0  58.047 47.095 17.067
+4DW C23 C CH1  0  56.728 46.932 16.482
+4DW C24 C C1   0  56.808 46.308 15.085
+4DW C25 C C1   0  57.618 45.320 14.721
+4DW C26 C C    0  57.709 44.750 13.393
+4DW O27 O O    0  56.993 45.195 12.492
+4DW O28 O OC   -1 58.513 43.834 13.227
+4DW C29 C C    0  55.783 46.167 17.439
+4DW O30 O OC   -1 55.837 46.467 18.646
+4DW O31 O O    0  55.028 45.306 16.946
+4DW H1  H H    0  62.389 50.113 18.625
+4DW H2  H H    0  60.371 50.019 17.492
+4DW H3  H H    0  60.622 46.000 17.388
+4DW H4  H H    0  62.640 46.101 18.521
+4DW H5  H H    0  64.531 48.982 19.174
+4DW H6  H H    0  64.586 47.396 19.200
+4DW H7  H H    0  63.409 49.031 21.243
+4DW H8  H H    0  64.728 48.182 21.417
+4DW H9  H H    0  64.397 45.519 21.805
+4DW H10 H H    0  62.527 44.188 22.549
+4DW H11 H H    0  59.787 44.646 22.832
+4DW H12 H H    0  57.232 46.631 23.072
+4DW H13 H H    0  57.471 45.239 22.502
+4DW H14 H H    0  58.243 46.617 17.773
+4DW H15 H H    0  56.334 47.831 16.372
+4DW H16 H H    0  56.229 46.657 14.430
+4DW H17 H H    0  58.191 44.942 15.367
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -79,56 +78,57 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-4DW         C26         O27      DOUBLE       n     1.230  0.0200     1.230  0.0200
-4DW         C26         O28      SINGLE       n     1.230  0.0200     1.230  0.0200
-4DW         C25         C26      SINGLE       n     1.435  0.0200     1.435  0.0200
-4DW         C24         C25      DOUBLE       n     1.325  0.0117     1.325  0.0117
-4DW         C23         C24      SINGLE       n     1.528  0.0151     1.528  0.0151
-4DW         N22         C23      SINGLE       n     1.448  0.0100     1.448  0.0100
-4DW         C23         C29      SINGLE       n     1.539  0.0155     1.539  0.0155
-4DW         C29         O31      DOUBLE       n     1.244  0.0200     1.244  0.0200
-4DW         C20         N22      SINGLE       n     1.335  0.0102     1.335  0.0102
-4DW         C29         O30      SINGLE       n     1.244  0.0200     1.244  0.0200
-4DW         C20         O21      DOUBLE       n     1.230  0.0114     1.230  0.0114
-4DW          C4         C20      SINGLE       n     1.502  0.0100     1.502  0.0100
-4DW          C4          C5      DOUBLE       y     1.386  0.0100     1.386  0.0100
-4DW          C5          C6      SINGLE       y     1.384  0.0100     1.384  0.0100
-4DW          C3          C4      SINGLE       y     1.386  0.0100     1.386  0.0100
-4DW          C1          C6      DOUBLE       y     1.385  0.0110     1.385  0.0110
-4DW          C2          C3      DOUBLE       y     1.383  0.0100     1.383  0.0100
-4DW          C1          C2      SINGLE       y     1.385  0.0110     1.385  0.0110
-4DW          C1          C7      SINGLE       n     1.509  0.0100     1.509  0.0100
-4DW          C7          C8      SINGLE       n     1.546  0.0200     1.546  0.0200
-4DW          C8          C9      SINGLE       n     1.499  0.0100     1.499  0.0100
-4DW          C9         C10      DOUBLE       y     1.365  0.0100     1.365  0.0100
-4DW         C10         N11      SINGLE       y     1.363  0.0141     1.363  0.0141
-4DW          C9         C13      SINGLE       y     1.439  0.0113     1.439  0.0113
-4DW         N11         C12      SINGLE       y     1.375  0.0109     1.375  0.0109
-4DW         C12         C13      DOUBLE       y     1.385  0.0100     1.385  0.0100
-4DW         C13         C14      SINGLE       y     1.409  0.0200     1.409  0.0200
-4DW         C12         N18      SINGLE       y     1.361  0.0200     1.361  0.0200
-4DW         C14         O15      DOUBLE       n     1.239  0.0136     1.239  0.0136
-4DW         C14         N16      SINGLE       y     1.367  0.0200     1.367  0.0200
-4DW         C17         N18      SINGLE       y     1.362  0.0100     1.362  0.0100
-4DW         N16         C17      DOUBLE       y     1.328  0.0100     1.328  0.0100
-4DW         C17         N19      SINGLE       n     1.333  0.0100     1.333  0.0100
-4DW          C2          H1      SINGLE       n     1.082  0.0130     0.943  0.0173
-4DW          C3          H2      SINGLE       n     1.082  0.0130     0.941  0.0168
-4DW          C5          H3      SINGLE       n     1.082  0.0130     0.941  0.0168
-4DW          C6          H4      SINGLE       n     1.082  0.0130     0.943  0.0173
-4DW          C7          H5      SINGLE       n     1.089  0.0100     0.982  0.0102
-4DW          C7          H6      SINGLE       n     1.089  0.0100     0.982  0.0102
-4DW          C8          H7      SINGLE       n     1.089  0.0100     0.979  0.0187
-4DW          C8          H8      SINGLE       n     1.089  0.0100     0.979  0.0187
-4DW         C10          H9      SINGLE       n     1.082  0.0130     0.945  0.0191
-4DW         N11         H10      SINGLE       n     1.016  0.0100     0.880  0.0200
-4DW         N18         H11      SINGLE       n     1.016  0.0100     0.885  0.0200
-4DW         N19         H12      SINGLE       n     1.016  0.0100     0.877  0.0200
-4DW         N19         H13      SINGLE       n     1.016  0.0100     0.877  0.0200
-4DW         N22         H14      SINGLE       n     1.016  0.0100     0.873  0.0200
-4DW         C23         H15      SINGLE       n     1.089  0.0100     0.988  0.0188
-4DW         C24         H16      SINGLE       n     1.082  0.0130     0.942  0.0174
-4DW         C25         H17      SINGLE       n     1.082  0.0130     0.943  0.0200
+4DW C26 O27 DOUBLE n 1.230 0.0200 1.230 0.0200
+4DW C26 O28 SINGLE n 1.230 0.0200 1.230 0.0200
+4DW C25 C26 SINGLE n 1.435 0.0200 1.435 0.0200
+4DW C24 C25 DOUBLE n 1.325 0.0117 1.325 0.0117
+4DW C23 C24 SINGLE n 1.528 0.0151 1.528 0.0151
+4DW N22 C23 SINGLE n 1.448 0.0100 1.448 0.0100
+4DW C23 C29 SINGLE n 1.539 0.0155 1.539 0.0155
+4DW C29 O31 DOUBLE n 1.244 0.0200 1.244 0.0200
+4DW C20 N22 SINGLE n 1.335 0.0102 1.335 0.0102
+4DW C29 O30 SINGLE n 1.244 0.0200 1.244 0.0200
+4DW C20 O21 DOUBLE n 1.230 0.0114 1.230 0.0114
+4DW C4  C20 SINGLE n 1.502 0.0100 1.502 0.0100
+4DW C4  C5  DOUBLE y 1.386 0.0100 1.386 0.0100
+4DW C5  C6  SINGLE y 1.384 0.0100 1.384 0.0100
+4DW C3  C4  SINGLE y 1.386 0.0100 1.386 0.0100
+4DW C1  C6  DOUBLE y 1.385 0.0110 1.385 0.0110
+4DW C2  C3  DOUBLE y 1.383 0.0100 1.383 0.0100
+4DW C1  C2  SINGLE y 1.385 0.0110 1.385 0.0110
+4DW C1  C7  SINGLE n 1.509 0.0100 1.509 0.0100
+4DW C7  C8  SINGLE n 1.546 0.0200 1.546 0.0200
+4DW C8  C9  SINGLE n 1.499 0.0100 1.499 0.0100
+4DW C9  C10 DOUBLE y 1.365 0.0100 1.365 0.0100
+4DW C10 N11 SINGLE y 1.363 0.0141 1.363 0.0141
+4DW C9  C13 SINGLE y 1.439 0.0113 1.439 0.0113
+4DW N11 C12 SINGLE y 1.375 0.0109 1.375 0.0109
+4DW C12 C13 DOUBLE y 1.385 0.0100 1.385 0.0100
+4DW C13 C14 SINGLE y 1.409 0.0200 1.409 0.0200
+4DW C12 N18 SINGLE y 1.361 0.0200 1.361 0.0200
+4DW C14 O15 DOUBLE n 1.239 0.0136 1.239 0.0136
+4DW C14 N16 SINGLE y 1.367 0.0200 1.367 0.0200
+4DW C17 N18 SINGLE y 1.362 0.0100 1.362 0.0100
+4DW N16 C17 DOUBLE y 1.328 0.0100 1.328 0.0100
+4DW C17 N19 SINGLE n 1.333 0.0100 1.333 0.0100
+4DW C2  H1  SINGLE n 1.082 0.0130 0.943 0.0173
+4DW C3  H2  SINGLE n 1.082 0.0130 0.941 0.0168
+4DW C5  H3  SINGLE n 1.082 0.0130 0.941 0.0168
+4DW C6  H4  SINGLE n 1.082 0.0130 0.943 0.0173
+4DW C7  H5  SINGLE n 1.089 0.0100 0.982 0.0102
+4DW C7  H6  SINGLE n 1.089 0.0100 0.982 0.0102
+4DW C8  H7  SINGLE n 1.089 0.0100 0.979 0.0187
+4DW C8  H8  SINGLE n 1.089 0.0100 0.979 0.0187
+4DW C10 H9  SINGLE n 1.082 0.0130 0.945 0.0191
+4DW N11 H10 SINGLE n 1.016 0.0100 0.880 0.0200
+4DW N18 H11 SINGLE n 1.016 0.0100 0.885 0.0200
+4DW N19 H12 SINGLE n 1.016 0.0100 0.877 0.0200
+4DW N19 H13 SINGLE n 1.016 0.0100 0.877 0.0200
+4DW N22 H14 SINGLE n 1.016 0.0100 0.873 0.0200
+4DW C23 H15 SINGLE n 1.089 0.0100 0.988 0.0188
+4DW C24 H16 SINGLE n 1.082 0.0130 0.942 0.0174
+4DW C25 H17 SINGLE n 1.082 0.0130 0.943 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -136,88 +136,89 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-4DW          C6          C1          C2     117.892    1.50
-4DW          C6          C1          C7     121.054    1.80
-4DW          C2          C1          C7     121.054    1.80
-4DW          C3          C2          C1     121.076    1.50
-4DW          C3          C2          H1     119.537    1.50
-4DW          C1          C2          H1     119.387    1.50
-4DW          C4          C3          C2     120.509    1.50
-4DW          C4          C3          H2     119.843    1.50
-4DW          C2          C3          H2     119.649    1.50
-4DW         C20          C4          C5     120.531    2.80
-4DW         C20          C4          C3     120.531    2.80
-4DW          C5          C4          C3     118.939    1.50
-4DW          C4          C5          C6     120.509    1.50
-4DW          C4          C5          H3     119.843    1.50
-4DW          C6          C5          H3     119.649    1.50
-4DW          C5          C6          C1     121.076    1.50
-4DW          C5          C6          H4     119.537    1.50
-4DW          C1          C6          H4     119.387    1.50
-4DW          C1          C7          C8     113.028    3.00
-4DW          C1          C7          H5     108.988    1.50
-4DW          C1          C7          H6     108.988    1.50
-4DW          C8          C7          H5     108.908    1.50
-4DW          C8          C7          H6     108.908    1.50
-4DW          H5          C7          H6     107.772    1.50
-4DW          C7          C8          C9     113.880    2.07
-4DW          C7          C8          H7     109.039    1.50
-4DW          C7          C8          H8     109.039    1.50
-4DW          C9          C8          H7     108.962    1.50
-4DW          C9          C8          H8     108.962    1.50
-4DW          H7          C8          H8     107.724    1.50
-4DW          C8          C9         C10     127.309    1.57
-4DW          C8          C9         C13     126.181    1.63
-4DW         C10          C9         C13     106.510    1.50
-4DW          C9         C10         N11     109.704    1.50
-4DW          C9         C10          H9     125.541    1.59
-4DW         N11         C10          H9     124.755    1.50
-4DW         C10         N11         C12     108.448    1.50
-4DW         C10         N11         H10     125.502    1.67
-4DW         C12         N11         H10     126.050    1.82
-4DW         N11         C12         C13     107.860    1.50
-4DW         N11         C12         N18     131.958    1.50
-4DW         C13         C12         N18     120.182    1.50
-4DW          C9         C13         C12     107.478    1.50
-4DW          C9         C13         C14     132.528    2.28
-4DW         C12         C13         C14     119.994    2.10
-4DW         C13         C14         O15     122.983    1.50
-4DW         C13         C14         N16     120.485    1.78
-4DW         O15         C14         N16     116.532    1.50
-4DW         C14         N16         C17     118.560    1.50
-4DW         N18         C17         N16     121.187    1.50
-4DW         N18         C17         N19     118.467    1.50
-4DW         N16         C17         N19     120.346    1.50
-4DW         C12         N18         C17     119.592    1.50
-4DW         C12         N18         H11     120.436    1.50
-4DW         C17         N18         H11     119.972    1.95
-4DW         C17         N19         H12     119.700    2.06
-4DW         C17         N19         H13     119.700    2.06
-4DW         H12         N19         H13     120.601    1.96
-4DW         N22         C20         O21     122.394    1.50
-4DW         N22         C20          C4     116.740    1.50
-4DW         O21         C20          C4     120.865    1.50
-4DW         C23         N22         C20     121.768    2.35
-4DW         C23         N22         H14     119.011    1.67
-4DW         C20         N22         H14     119.221    1.94
-4DW         C24         C23         N22     111.249    2.34
-4DW         C24         C23         C29     111.575    3.00
-4DW         C24         C23         H15     107.080    1.56
-4DW         N22         C23         C29     111.249    2.34
-4DW         N22         C23         H15     107.948    1.50
-4DW         C29         C23         H15     107.385    3.00
-4DW         C25         C24         C23     125.869    3.00
-4DW         C25         C24         H16     116.877    1.50
-4DW         C23         C24         H16     117.254    1.96
-4DW         C26         C25         C24     123.104    2.60
-4DW         C26         C25         H17     117.250    1.98
-4DW         C24         C25         H17     119.646    1.50
-4DW         O27         C26         O28     123.843    1.50
-4DW         O27         C26         C25     118.078    1.84
-4DW         O28         C26         C25     118.078    1.84
-4DW         C23         C29         O31     117.225    1.50
-4DW         C23         C29         O30     117.225    1.50
-4DW         O31         C29         O30     125.549    1.50
+4DW C6  C1  C2  117.892 1.50
+4DW C6  C1  C7  121.054 1.80
+4DW C2  C1  C7  121.054 1.80
+4DW C3  C2  C1  121.076 1.50
+4DW C3  C2  H1  119.537 1.50
+4DW C1  C2  H1  119.387 1.50
+4DW C4  C3  C2  120.509 1.50
+4DW C4  C3  H2  119.843 1.50
+4DW C2  C3  H2  119.649 1.50
+4DW C20 C4  C5  120.531 2.80
+4DW C20 C4  C3  120.531 2.80
+4DW C5  C4  C3  118.939 1.50
+4DW C4  C5  C6  120.509 1.50
+4DW C4  C5  H3  119.843 1.50
+4DW C6  C5  H3  119.649 1.50
+4DW C5  C6  C1  121.076 1.50
+4DW C5  C6  H4  119.537 1.50
+4DW C1  C6  H4  119.387 1.50
+4DW C1  C7  C8  113.028 3.00
+4DW C1  C7  H5  108.988 1.50
+4DW C1  C7  H6  108.988 1.50
+4DW C8  C7  H5  108.908 1.50
+4DW C8  C7  H6  108.908 1.50
+4DW H5  C7  H6  107.772 1.50
+4DW C7  C8  C9  113.880 2.07
+4DW C7  C8  H7  109.039 1.50
+4DW C7  C8  H8  109.039 1.50
+4DW C9  C8  H7  108.962 1.50
+4DW C9  C8  H8  108.962 1.50
+4DW H7  C8  H8  107.724 1.50
+4DW C8  C9  C10 127.309 1.57
+4DW C8  C9  C13 126.181 1.63
+4DW C10 C9  C13 106.510 1.50
+4DW C9  C10 N11 109.704 1.50
+4DW C9  C10 H9  125.541 1.59
+4DW N11 C10 H9  124.755 1.50
+4DW C10 N11 C12 108.448 1.50
+4DW C10 N11 H10 125.502 1.67
+4DW C12 N11 H10 126.050 1.82
+4DW N11 C12 C13 107.860 1.50
+4DW N11 C12 N18 131.958 1.50
+4DW C13 C12 N18 120.182 1.50
+4DW C9  C13 C12 107.478 1.50
+4DW C9  C13 C14 132.528 2.28
+4DW C12 C13 C14 119.994 2.10
+4DW C13 C14 O15 122.983 1.50
+4DW C13 C14 N16 120.485 1.78
+4DW O15 C14 N16 116.532 1.50
+4DW C14 N16 C17 118.560 1.50
+4DW N18 C17 N16 121.187 1.50
+4DW N18 C17 N19 118.467 1.50
+4DW N16 C17 N19 120.346 1.50
+4DW C12 N18 C17 119.592 1.50
+4DW C12 N18 H11 120.436 1.50
+4DW C17 N18 H11 119.972 1.95
+4DW C17 N19 H12 119.700 2.06
+4DW C17 N19 H13 119.700 2.06
+4DW H12 N19 H13 120.601 1.96
+4DW N22 C20 O21 122.394 1.50
+4DW N22 C20 C4  116.740 1.50
+4DW O21 C20 C4  120.865 1.50
+4DW C23 N22 C20 121.768 2.35
+4DW C23 N22 H14 119.011 1.67
+4DW C20 N22 H14 119.221 1.94
+4DW C24 C23 N22 111.249 2.34
+4DW C24 C23 C29 111.575 3.00
+4DW C24 C23 H15 107.080 1.56
+4DW N22 C23 C29 111.249 2.34
+4DW N22 C23 H15 107.948 1.50
+4DW C29 C23 H15 107.385 3.00
+4DW C25 C24 C23 125.869 3.00
+4DW C25 C24 H16 116.877 1.50
+4DW C23 C24 H16 117.254 1.96
+4DW C26 C25 C24 123.104 2.60
+4DW C26 C25 H17 117.250 1.98
+4DW C24 C25 H17 119.646 1.50
+4DW O27 C26 O28 123.843 1.50
+4DW O27 C26 C25 118.078 1.84
+4DW O28 C26 C25 118.078 1.84
+4DW C23 C29 O31 117.225 1.50
+4DW C23 C29 O30 117.225 1.50
+4DW O31 C29 O30 125.549 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -228,33 +229,34 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-4DW              const_51          C7          C1          C2          C3     180.000    10.0     2
-4DW              const_31          C7          C1          C6          C5     180.000    10.0     2
-4DW            sp2_sp3_20          C6          C1          C7          C8     -90.000    10.0     6
-4DW       const_sp2_sp2_9         C13         C12         N11         C10       0.000     5.0     2
-4DW              const_13         N11         C12         C13          C9       0.000    10.0     2
-4DW              const_59         N11         C12         N18         C17     180.000    10.0     2
-4DW              const_20          C9         C13         C14         O15       0.000    10.0     2
-4DW              const_22         O15         C14         N16         C17     180.000    10.0     2
-4DW              const_24         N19         C17         N16         C14     180.000    10.0     2
-4DW              const_27         N19         C17         N18         C12     180.000    10.0     2
-4DW            sp2_sp2_17         N18         C17         N19         H12     180.000     5.0     2
-4DW            sp2_sp2_11         O21         C20         N22         C23       0.000     5.0     2
-4DW              const_45          C1          C2          C3          C4       0.000    10.0     2
-4DW             sp2_sp3_7         C20         N22         C23         C24       0.000    10.0     6
-4DW             sp2_sp3_1         C25         C24         C23         N22       0.000    10.0     6
-4DW            sp2_sp3_13         O31         C29         C23         C24       0.000    10.0     6
-4DW             sp2_sp2_5         C23         C24         C25         C26     180.000     5.0     2
-4DW             sp2_sp2_1         C24         C25         C26         O27     180.000     5.0     2
-4DW              const_42          C2          C3          C4         C20     180.000    10.0     2
-4DW            sp2_sp2_13         N22         C20          C4          C5     180.000     5.0     2
-4DW              const_39         C20          C4          C5          C6     180.000    10.0     2
-4DW              const_33          C4          C5          C6          C1       0.000    10.0     2
-4DW             sp3_sp3_1          C1          C7          C8          C9     180.000    10.0     3
-4DW            sp2_sp3_26         C10          C9          C8          C7     -90.000    10.0     6
-4DW              const_54         C12         C13          C9          C8     180.000    10.0     2
-4DW       const_sp2_sp2_2         N11         C10          C9          C8     180.000     5.0     2
-4DW       const_sp2_sp2_5          C9         C10         N11         C12       0.000     5.0     2
+4DW const_51        C7  C1  C2  C3  180.000 10.0 2
+4DW const_31        C7  C1  C6  C5  180.000 10.0 2
+4DW sp2_sp3_20      C6  C1  C7  C8  -90.000 10.0 6
+4DW const_sp2_sp2_9 C13 C12 N11 C10 0.000   5.0  2
+4DW const_13        N11 C12 C13 C9  0.000   10.0 2
+4DW const_59        N11 C12 N18 C17 180.000 10.0 2
+4DW const_20        C9  C13 C14 O15 0.000   10.0 2
+4DW const_22        O15 C14 N16 C17 180.000 10.0 2
+4DW const_24        N19 C17 N16 C14 180.000 10.0 2
+4DW const_27        N19 C17 N18 C12 180.000 10.0 2
+4DW sp2_sp2_17      N18 C17 N19 H12 180.000 5.0  2
+4DW sp2_sp2_11      O21 C20 N22 C23 0.000   5.0  2
+4DW const_45        C1  C2  C3  C4  0.000   10.0 2
+4DW sp2_sp3_7       C20 N22 C23 C24 0.000   10.0 6
+4DW sp2_sp3_1       C25 C24 C23 N22 0.000   10.0 6
+4DW sp2_sp3_13      O31 C29 C23 C24 0.000   10.0 6
+4DW sp2_sp2_5       C23 C24 C25 C26 180.000 5.0  2
+4DW sp2_sp2_1       C24 C25 C26 O27 180.000 5.0  2
+4DW const_42        C2  C3  C4  C20 180.000 10.0 2
+4DW sp2_sp2_13      N22 C20 C4  C5  180.000 5.0  2
+4DW const_39        C20 C4  C5  C6  180.000 10.0 2
+4DW const_33        C4  C5  C6  C1  0.000   10.0 2
+4DW sp3_sp3_1       C1  C7  C8  C9  180.000 10.0 3
+4DW sp2_sp3_26      C10 C9  C8  C7  -90.000 10.0 6
+4DW const_54        C12 C13 C9  C8  180.000 10.0 2
+4DW const_sp2_sp2_2 N11 C10 C9  C8  180.000 5.0  2
+4DW const_sp2_sp2_5 C9  C10 N11 C12 0.000   5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -263,86 +265,102 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-4DW    chir_1    C23    N22    C29    C24    positive
+4DW chir_1 C23 N22 C29 C24 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-4DW    plan-1         C10   0.020
-4DW    plan-1         C12   0.020
-4DW    plan-1         C13   0.020
-4DW    plan-1         C14   0.020
-4DW    plan-1         C17   0.020
-4DW    plan-1          C8   0.020
-4DW    plan-1          C9   0.020
-4DW    plan-1         H10   0.020
-4DW    plan-1         H11   0.020
-4DW    plan-1          H9   0.020
-4DW    plan-1         N11   0.020
-4DW    plan-1         N16   0.020
-4DW    plan-1         N18   0.020
-4DW    plan-1         N19   0.020
-4DW    plan-1         O15   0.020
-4DW    plan-2          C1   0.020
-4DW    plan-2          C2   0.020
-4DW    plan-2         C20   0.020
-4DW    plan-2          C3   0.020
-4DW    plan-2          C4   0.020
-4DW    plan-2          C5   0.020
-4DW    plan-2          C6   0.020
-4DW    plan-2          C7   0.020
-4DW    plan-2          H1   0.020
-4DW    plan-2          H2   0.020
-4DW    plan-2          H3   0.020
-4DW    plan-2          H4   0.020
-4DW    plan-3         C17   0.020
-4DW    plan-3         H12   0.020
-4DW    plan-3         H13   0.020
-4DW    plan-3         N19   0.020
-4DW    plan-4         C20   0.020
-4DW    plan-4          C4   0.020
-4DW    plan-4         N22   0.020
-4DW    plan-4         O21   0.020
-4DW    plan-5         C20   0.020
-4DW    plan-5         C23   0.020
-4DW    plan-5         H14   0.020
-4DW    plan-5         N22   0.020
-4DW    plan-6         C23   0.020
-4DW    plan-6         C24   0.020
-4DW    plan-6         C25   0.020
-4DW    plan-6         H16   0.020
-4DW    plan-7         C24   0.020
-4DW    plan-7         C25   0.020
-4DW    plan-7         C26   0.020
-4DW    plan-7         H17   0.020
-4DW    plan-8         C25   0.020
-4DW    plan-8         C26   0.020
-4DW    plan-8         O27   0.020
-4DW    plan-8         O28   0.020
-4DW    plan-9         C23   0.020
-4DW    plan-9         C29   0.020
-4DW    plan-9         O30   0.020
-4DW    plan-9         O31   0.020
+4DW plan-1 C10 0.020
+4DW plan-1 C12 0.020
+4DW plan-1 C13 0.020
+4DW plan-1 C14 0.020
+4DW plan-1 C17 0.020
+4DW plan-1 C8  0.020
+4DW plan-1 C9  0.020
+4DW plan-1 H10 0.020
+4DW plan-1 H11 0.020
+4DW plan-1 H9  0.020
+4DW plan-1 N11 0.020
+4DW plan-1 N16 0.020
+4DW plan-1 N18 0.020
+4DW plan-1 N19 0.020
+4DW plan-1 O15 0.020
+4DW plan-2 C1  0.020
+4DW plan-2 C2  0.020
+4DW plan-2 C20 0.020
+4DW plan-2 C3  0.020
+4DW plan-2 C4  0.020
+4DW plan-2 C5  0.020
+4DW plan-2 C6  0.020
+4DW plan-2 C7  0.020
+4DW plan-2 H1  0.020
+4DW plan-2 H2  0.020
+4DW plan-2 H3  0.020
+4DW plan-2 H4  0.020
+4DW plan-3 C17 0.020
+4DW plan-3 H12 0.020
+4DW plan-3 H13 0.020
+4DW plan-3 N19 0.020
+4DW plan-4 C20 0.020
+4DW plan-4 C4  0.020
+4DW plan-4 N22 0.020
+4DW plan-4 O21 0.020
+4DW plan-5 C20 0.020
+4DW plan-5 C23 0.020
+4DW plan-5 H14 0.020
+4DW plan-5 N22 0.020
+4DW plan-6 C23 0.020
+4DW plan-6 C24 0.020
+4DW plan-6 C25 0.020
+4DW plan-6 H16 0.020
+4DW plan-7 C24 0.020
+4DW plan-7 C25 0.020
+4DW plan-7 C26 0.020
+4DW plan-7 H17 0.020
+4DW plan-8 C25 0.020
+4DW plan-8 C26 0.020
+4DW plan-8 O27 0.020
+4DW plan-8 O28 0.020
+4DW plan-9 C23 0.020
+4DW plan-9 C29 0.020
+4DW plan-9 O30 0.020
+4DW plan-9 O31 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-4DW           SMILES              ACDLabs 12.01                                                                                                                                      c1(ccc(cc1)C(=O)NC(C(O)=O)[C@H]=[C@H]C(=O)O)CCc2c3c(nc2)NC(=NC3=O)N
-4DW            InChI                InChI  1.03 InChI=1S/C20H19N5O6/c21-20-24-16-15(18(29)25-20)12(9-22-16)6-3-10-1-4-11(5-2-10)17(28)23-13(19(30)31)7-8-14(26)27/h1-2,4-5,7-9,13H,3,6H2,(H,23,28)(H,26,27)(H,30,31)(H4,21,22,24,25,29)/b8-7+/t13-/m0/s1
-4DW         InChIKey                InChI  1.03                                                                                                                                                                              OOPGILDDKAKTLT-GWJCSSMESA-N
-4DW SMILES_CANONICAL               CACTVS 3.385                                                                                                                                      NC1=NC(=O)c2c(CCc3ccc(cc3)C(=O)N[C@@H](/C=C/C(O)=O)C(O)=O)c[nH]c2N1
-4DW           SMILES               CACTVS 3.385                                                                                                                                          NC1=NC(=O)c2c(CCc3ccc(cc3)C(=O)N[CH](C=CC(O)=O)C(O)=O)c[nH]c2N1
-4DW SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                                                                                                                      c1cc(ccc1CCc2c[nH]c3c2C(=O)N=C(N3)N)C(=O)N[C@@H](/C=C/C(=O)O)C(=O)O
-4DW           SMILES "OpenEye OEToolkits" 1.9.2                                                                                                                                             c1cc(ccc1CCc2c[nH]c3c2C(=O)N=C(N3)N)C(=O)NC(C=CC(=O)O)C(=O)O
+4DW SMILES           ACDLabs              12.01 c1(ccc(cc1)C(=O)NC(C(O)=O)[C@H]=[C@H]C(=O)O)CCc2c3c(nc2)NC(=NC3=O)N
+4DW InChI            InChI                1.03  InChI=1S/C20H19N5O6/c21-20-24-16-15(18(29)25-20)12(9-22-16)6-3-10-1-4-11(5-2-10)17(28)23-13(19(30)31)7-8-14(26)27/h1-2,4-5,7-9,13H,3,6H2,(H,23,28)(H,26,27)(H,30,31)(H4,21,22,24,25,29)/b8-7+/t13-/m0/s1
+4DW InChIKey         InChI                1.03  OOPGILDDKAKTLT-GWJCSSMESA-N
+4DW SMILES_CANONICAL CACTVS               3.385 NC1=NC(=O)c2c(CCc3ccc(cc3)C(=O)N[C@@H](/C=C/C(O)=O)C(O)=O)c[nH]c2N1
+4DW SMILES           CACTVS               3.385 NC1=NC(=O)c2c(CCc3ccc(cc3)C(=O)N[CH](C=CC(O)=O)C(O)=O)c[nH]c2N1
+4DW SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 c1cc(ccc1CCc2c[nH]c3c2C(=O)N=C(N3)N)C(=O)N[C@@H](/C=C/C(=O)O)C(=O)O
+4DW SMILES           "OpenEye OEToolkits" 1.9.2 c1cc(ccc1CCc2c[nH]c3c2C(=O)N=C(N3)N)C(=O)NC(C=CC(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-4DW acedrg               243         "dictionary generator"                  
-4DW acedrg_database      11          "data source"                           
-4DW rdkit                2017.03.2   "Chemoinformatics tool"
-4DW refmac5              5.8.0238    "optimization tool"                     
+4DW acedrg          243       "dictionary generator"
+4DW acedrg_database 11        "data source"
+4DW rdkit           2017.03.2 "Chemoinformatics tool"
+4DW refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+4DW M-peptide O31 O
+4DW M-peptide C29 C
+4DW M-peptide C23 CA
+4DW M-peptide N22 N
+4DW M-peptide C20 CN
+4DW M-peptide O30 OXT
+4DW M-peptide H14 H

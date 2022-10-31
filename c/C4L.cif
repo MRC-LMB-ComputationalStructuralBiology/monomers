@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-C4L     C4L      N-butanoyl-L-homoserine     NON-POLYMER     27     13     .     
-#
+C4L C4L N-butanoyl-L-homoserine NON-POLYMER 27 13 .
+
 data_comp_C4L
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,33 +19,34 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-C4L     O1      O       O       0       -11.414     5.495       21.705      
-C4L     C4      C       C       0       -11.683     4.971       22.805      
-C4L     O2      O       OC      -1      -11.003     5.081       23.845      
-C4L     C3      C       CH1     0       -12.961     4.117       22.887      
-C4L     C2      C       CH2     0       -14.062     4.902       23.605      
-C4L     C1      C       CH2     0       -15.403     4.207       23.621      
-C4L     O3      O       OH1     0       -15.929     4.064       22.313      
-C4L     N1      N       NH1     0       -12.696     2.845       23.544      
-C4L     C5      C       C       0       -12.023     1.825       22.998      
-C4L     O4      O       O       0       -11.550     1.884       21.864      
-C4L     C6      C       CH2     0       -11.871     0.578       23.845      
-C4L     C7      C       CH2     0       -12.949     -0.453      23.592      
-C4L     C8      C       CH3     0       -14.289     -0.050      24.175      
-C4L     H2      H       H       0       -13.269     3.931       21.963      
-C4L     H3      H       H       0       -14.164     5.796       23.154      
-C4L     H4      H       H       0       -13.769     5.069       24.553      
-C4L     H5      H       H       0       -16.033     4.727       24.165      
-C4L     H6      H       H       0       -15.310     3.321       24.030      
-C4L     H7      H       H       0       -16.633     3.597       22.356      
-C4L     H8      H       H       0       -13.006     2.752       24.356      
-C4L     H9      H       H       0       -11.883     0.828       24.794      
-C4L     H10     H       H       0       -10.997     0.174       23.656      
-C4L     H11     H       H       0       -12.674     -1.308      23.984      
-C4L     H12     H       H       0       -13.048     -0.583      22.626      
-C4L     H13     H       H       0       -14.906     -0.800      24.121      
-C4L     H14     H       H       0       -14.650     0.702       23.674      
-C4L     H15     H       H       0       -14.174     0.208       25.106      
+C4L O1  O O   0  -11.414 5.495  21.705
+C4L C4  C C   0  -11.683 4.971  22.805
+C4L O2  O OC  -1 -11.003 5.081  23.845
+C4L C3  C CH1 0  -12.961 4.117  22.887
+C4L C2  C CH2 0  -14.062 4.902  23.605
+C4L C1  C CH2 0  -15.403 4.207  23.621
+C4L O3  O OH1 0  -15.929 4.064  22.313
+C4L N1  N NH1 0  -12.696 2.845  23.544
+C4L C5  C C   0  -12.023 1.825  22.998
+C4L O4  O O   0  -11.550 1.884  21.864
+C4L C6  C CH2 0  -11.871 0.578  23.845
+C4L C7  C CH2 0  -12.949 -0.453 23.592
+C4L C8  C CH3 0  -14.289 -0.050 24.175
+C4L H2  H H   0  -13.269 3.931  21.963
+C4L H3  H H   0  -14.164 5.796  23.154
+C4L H4  H H   0  -13.769 5.069  24.553
+C4L H5  H H   0  -16.033 4.727  24.165
+C4L H6  H H   0  -15.310 3.321  24.030
+C4L H7  H H   0  -16.633 3.597  22.356
+C4L H8  H H   0  -13.006 2.752  24.356
+C4L H9  H H   0  -11.883 0.828  24.794
+C4L H10 H H   0  -10.997 0.174  23.656
+C4L H11 H H   0  -12.674 -1.308 23.984
+C4L H12 H H   0  -13.048 -0.583 22.626
+C4L H13 H H   0  -14.906 -0.800 24.121
+C4L H14 H H   0  -14.650 0.702  23.674
+C4L H15 H H   0  -14.174 0.208  25.106
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -58,32 +57,33 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-C4L          C1          O3      SINGLE       n     1.417  0.0200     1.417  0.0200
-C4L          O1          C4      DOUBLE       n     1.247  0.0187     1.247  0.0187
-C4L          C4          C3      SINGLE       n     1.539  0.0100     1.539  0.0100
-C4L          C4          O2      SINGLE       n     1.247  0.0187     1.247  0.0187
-C4L          C2          C1      SINGLE       n     1.509  0.0140     1.509  0.0140
-C4L          C5          O4      DOUBLE       n     1.229  0.0102     1.229  0.0102
-C4L          C3          C2      SINGLE       n     1.529  0.0105     1.529  0.0105
-C4L          C3          N1      SINGLE       n     1.453  0.0100     1.453  0.0100
-C4L          N1          C5      SINGLE       n     1.334  0.0100     1.334  0.0100
-C4L          C5          C6      SINGLE       n     1.514  0.0100     1.514  0.0100
-C4L          C7          C8      SINGLE       n     1.515  0.0200     1.515  0.0200
-C4L          C6          C7      SINGLE       n     1.512  0.0165     1.512  0.0165
-C4L          C3          H2      SINGLE       n     1.089  0.0100     0.991  0.0200
-C4L          C2          H3      SINGLE       n     1.089  0.0100     1.006  0.0200
-C4L          C2          H4      SINGLE       n     1.089  0.0100     1.006  0.0200
-C4L          C1          H5      SINGLE       n     1.089  0.0100     0.981  0.0174
-C4L          C1          H6      SINGLE       n     1.089  0.0100     0.981  0.0174
-C4L          O3          H7      SINGLE       n     0.970  0.0120     0.846  0.0200
-C4L          N1          H8      SINGLE       n     1.016  0.0100     0.873  0.0200
-C4L          C6          H9      SINGLE       n     1.089  0.0100     0.981  0.0185
-C4L          C6         H10      SINGLE       n     1.089  0.0100     0.981  0.0185
-C4L          C7         H11      SINGLE       n     1.089  0.0100     0.980  0.0160
-C4L          C7         H12      SINGLE       n     1.089  0.0100     0.980  0.0160
-C4L          C8         H13      SINGLE       n     1.089  0.0100     0.973  0.0157
-C4L          C8         H14      SINGLE       n     1.089  0.0100     0.973  0.0157
-C4L          C8         H15      SINGLE       n     1.089  0.0100     0.973  0.0157
+C4L C1 O3  SINGLE n 1.417 0.0200 1.417 0.0200
+C4L O1 C4  DOUBLE n 1.247 0.0187 1.247 0.0187
+C4L C4 C3  SINGLE n 1.539 0.0100 1.539 0.0100
+C4L C4 O2  SINGLE n 1.247 0.0187 1.247 0.0187
+C4L C2 C1  SINGLE n 1.509 0.0140 1.509 0.0140
+C4L C5 O4  DOUBLE n 1.229 0.0102 1.229 0.0102
+C4L C3 C2  SINGLE n 1.529 0.0105 1.529 0.0105
+C4L C3 N1  SINGLE n 1.453 0.0100 1.453 0.0100
+C4L N1 C5  SINGLE n 1.334 0.0100 1.334 0.0100
+C4L C5 C6  SINGLE n 1.514 0.0100 1.514 0.0100
+C4L C7 C8  SINGLE n 1.515 0.0200 1.515 0.0200
+C4L C6 C7  SINGLE n 1.512 0.0165 1.512 0.0165
+C4L C3 H2  SINGLE n 1.089 0.0100 0.991 0.0200
+C4L C2 H3  SINGLE n 1.089 0.0100 1.006 0.0200
+C4L C2 H4  SINGLE n 1.089 0.0100 1.006 0.0200
+C4L C1 H5  SINGLE n 1.089 0.0100 0.981 0.0174
+C4L C1 H6  SINGLE n 1.089 0.0100 0.981 0.0174
+C4L O3 H7  SINGLE n 0.970 0.0120 0.846 0.0200
+C4L N1 H8  SINGLE n 1.016 0.0100 0.873 0.0200
+C4L C6 H9  SINGLE n 1.089 0.0100 0.981 0.0185
+C4L C6 H10 SINGLE n 1.089 0.0100 0.981 0.0185
+C4L C7 H11 SINGLE n 1.089 0.0100 0.980 0.0160
+C4L C7 H12 SINGLE n 1.089 0.0100 0.980 0.0160
+C4L C8 H13 SINGLE n 1.089 0.0100 0.973 0.0157
+C4L C8 H14 SINGLE n 1.089 0.0100 0.973 0.0157
+C4L C8 H15 SINGLE n 1.089 0.0100 0.973 0.0157
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -91,52 +91,53 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-C4L          O1          C4          C3     117.249    1.61
-C4L          O1          C4          O2     125.502    1.50
-C4L          C3          C4          O2     117.249    1.61
-C4L          C4          C3          C2     110.328    1.98
-C4L          C4          C3          N1     110.976    1.55
-C4L          C4          C3          H2     108.327    1.50
-C4L          C2          C3          N1     111.076    1.75
-C4L          C2          C3          H2     108.223    1.50
-C4L          N1          C3          H2     108.343    1.63
-C4L          C1          C2          C3     113.528    1.50
-C4L          C1          C2          H3     108.897    1.50
-C4L          C1          C2          H4     108.897    1.50
-C4L          C3          C2          H3     108.562    1.50
-C4L          C3          C2          H4     108.562    1.50
-C4L          H3          C2          H4     107.715    1.50
-C4L          O3          C1          C2     111.314    3.00
-C4L          O3          C1          H5     109.258    1.50
-C4L          O3          C1          H6     109.258    1.50
-C4L          C2          C1          H5     109.606    1.50
-C4L          C2          C1          H6     109.606    1.50
-C4L          H5          C1          H6     108.120    1.50
-C4L          C1          O3          H7     108.576    2.78
-C4L          C3          N1          C5     123.902    2.62
-C4L          C3          N1          H8     117.635    2.15
-C4L          C5          N1          H8     118.462    1.50
-C4L          O4          C5          N1     122.033    1.50
-C4L          O4          C5          C6     121.831    1.50
-C4L          N1          C5          C6     116.136    1.50
-C4L          C5          C6          C7     113.485    2.13
-C4L          C5          C6          H9     108.930    1.50
-C4L          C5          C6         H10     108.930    1.50
-C4L          C7          C6          H9     109.104    1.50
-C4L          C7          C6         H10     109.104    1.50
-C4L          H9          C6         H10     107.846    1.50
-C4L          C8          C7          C6     112.286    1.50
-C4L          C8          C7         H11     108.918    1.50
-C4L          C8          C7         H12     108.918    1.50
-C4L          C6          C7         H11     109.009    1.50
-C4L          C6          C7         H12     109.009    1.50
-C4L         H11          C7         H12     107.763    1.50
-C4L          C7          C8         H13     109.554    1.50
-C4L          C7          C8         H14     109.554    1.50
-C4L          C7          C8         H15     109.554    1.50
-C4L         H13          C8         H14     109.380    1.50
-C4L         H13          C8         H15     109.380    1.50
-C4L         H14          C8         H15     109.380    1.50
+C4L O1  C4 C3  117.249 1.61
+C4L O1  C4 O2  125.502 1.50
+C4L C3  C4 O2  117.249 1.61
+C4L C4  C3 C2  110.328 1.98
+C4L C4  C3 N1  110.976 1.55
+C4L C4  C3 H2  108.327 1.50
+C4L C2  C3 N1  111.076 1.75
+C4L C2  C3 H2  108.223 1.50
+C4L N1  C3 H2  108.343 1.63
+C4L C1  C2 C3  113.528 1.50
+C4L C1  C2 H3  108.897 1.50
+C4L C1  C2 H4  108.897 1.50
+C4L C3  C2 H3  108.562 1.50
+C4L C3  C2 H4  108.562 1.50
+C4L H3  C2 H4  107.715 1.50
+C4L O3  C1 C2  111.314 3.00
+C4L O3  C1 H5  109.258 1.50
+C4L O3  C1 H6  109.258 1.50
+C4L C2  C1 H5  109.606 1.50
+C4L C2  C1 H6  109.606 1.50
+C4L H5  C1 H6  108.120 1.50
+C4L C1  O3 H7  108.576 2.78
+C4L C3  N1 C5  123.902 2.62
+C4L C3  N1 H8  117.635 2.15
+C4L C5  N1 H8  118.462 1.50
+C4L O4  C5 N1  122.033 1.50
+C4L O4  C5 C6  121.831 1.50
+C4L N1  C5 C6  116.136 1.50
+C4L C5  C6 C7  113.485 2.13
+C4L C5  C6 H9  108.930 1.50
+C4L C5  C6 H10 108.930 1.50
+C4L C7  C6 H9  109.104 1.50
+C4L C7  C6 H10 109.104 1.50
+C4L H9  C6 H10 107.846 1.50
+C4L C8  C7 C6  112.286 1.50
+C4L C8  C7 H11 108.918 1.50
+C4L C8  C7 H12 108.918 1.50
+C4L C6  C7 H11 109.009 1.50
+C4L C6  C7 H12 109.009 1.50
+C4L H11 C7 H12 107.763 1.50
+C4L C7  C8 H13 109.554 1.50
+C4L C7  C8 H14 109.554 1.50
+C4L C7  C8 H15 109.554 1.50
+C4L H13 C8 H14 109.380 1.50
+C4L H13 C8 H15 109.380 1.50
+C4L H14 C8 H15 109.380 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -147,15 +148,16 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-C4L            sp3_sp3_31          C5          C6          C7          C8     180.000    10.0     3
-C4L            sp3_sp3_22          C6          C7          C8         H13     180.000    10.0     3
-C4L             sp2_sp3_1          O1          C4          C3          C2       0.000    10.0     6
-C4L            sp3_sp3_13          C1          C2          C3          C4     180.000    10.0     3
-C4L             sp2_sp3_7          C5          N1          C3          C4       0.000    10.0     6
-C4L             sp3_sp3_4          O3          C1          C2          C3     180.000    10.0     3
-C4L             sp3_sp3_1          C2          C1          O3          H7     180.000    10.0     3
-C4L             sp2_sp2_3          O4          C5          N1          C3       0.000     5.0     2
-C4L            sp2_sp3_14          O4          C5          C6          C7     120.000    10.0     6
+C4L sp3_sp3_31 C5 C6 C7 C8  180.000 10.0 3
+C4L sp3_sp3_22 C6 C7 C8 H13 180.000 10.0 3
+C4L sp2_sp3_1  O1 C4 C3 C2  0.000   10.0 6
+C4L sp3_sp3_13 C1 C2 C3 C4  180.000 10.0 3
+C4L sp2_sp3_7  C5 N1 C3 C4  0.000   10.0 6
+C4L sp3_sp3_4  O3 C1 C2 C3  180.000 10.0 3
+C4L sp3_sp3_1  C2 C1 O3 H7  180.000 10.0 3
+C4L sp2_sp2_3  O4 C5 N1 C3  0.000   5.0  2
+C4L sp2_sp3_14 O4 C5 C6 C7  120.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -164,43 +166,59 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-C4L    chir_1    C3    N1    C4    C2    positive
+C4L chir_1 C3 N1 C4 C2 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-C4L    plan-1          C3   0.020
-C4L    plan-1          C4   0.020
-C4L    plan-1          O1   0.020
-C4L    plan-1          O2   0.020
-C4L    plan-2          C3   0.020
-C4L    plan-2          C5   0.020
-C4L    plan-2          H8   0.020
-C4L    plan-2          N1   0.020
-C4L    plan-3          C5   0.020
-C4L    plan-3          C6   0.020
-C4L    plan-3          N1   0.020
-C4L    plan-3          O4   0.020
+C4L plan-1 C3 0.020
+C4L plan-1 C4 0.020
+C4L plan-1 O1 0.020
+C4L plan-1 O2 0.020
+C4L plan-2 C3 0.020
+C4L plan-2 C5 0.020
+C4L plan-2 H8 0.020
+C4L plan-2 N1 0.020
+C4L plan-3 C5 0.020
+C4L plan-3 C6 0.020
+C4L plan-3 N1 0.020
+C4L plan-3 O4 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-C4L           SMILES              ACDLabs 12.01                                                                         O=C(NC(C(=O)O)CCO)CCC
-C4L            InChI                InChI  1.03 InChI=1S/C8H15NO4/c1-2-3-7(11)9-6(4-5-10)8(12)13/h6,10H,2-5H2,1H3,(H,9,11)(H,12,13)/t6-/m0/s1
-C4L         InChIKey                InChI  1.03                                                                   FWULQXYJOANGSS-LURJTMIESA-N
-C4L SMILES_CANONICAL               CACTVS 3.370                                                                    CCCC(=O)N[C@@H](CCO)C(O)=O
-C4L           SMILES               CACTVS 3.370                                                                      CCCC(=O)N[CH](CCO)C(O)=O
-C4L SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                    CCCC(=O)N[C@@H](CCO)C(=O)O
-C4L           SMILES "OpenEye OEToolkits" 1.7.6                                                                         CCCC(=O)NC(CCO)C(=O)O
+C4L SMILES           ACDLabs              12.01 O=C(NC(C(=O)O)CCO)CCC
+C4L InChI            InChI                1.03  InChI=1S/C8H15NO4/c1-2-3-7(11)9-6(4-5-10)8(12)13/h6,10H,2-5H2,1H3,(H,9,11)(H,12,13)/t6-/m0/s1
+C4L InChIKey         InChI                1.03  FWULQXYJOANGSS-LURJTMIESA-N
+C4L SMILES_CANONICAL CACTVS               3.370 CCCC(=O)N[C@@H](CCO)C(O)=O
+C4L SMILES           CACTVS               3.370 CCCC(=O)N[CH](CCO)C(O)=O
+C4L SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CCCC(=O)N[C@@H](CCO)C(=O)O
+C4L SMILES           "OpenEye OEToolkits" 1.7.6 CCCC(=O)NC(CCO)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-C4L acedrg               243         "dictionary generator"                  
-C4L acedrg_database      11          "data source"                           
-C4L rdkit                2017.03.2   "Chemoinformatics tool"
-C4L refmac5              5.8.0238    "optimization tool"                     
+C4L acedrg          243       "dictionary generator"
+C4L acedrg_database 11        "data source"
+C4L rdkit           2017.03.2 "Chemoinformatics tool"
+C4L refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+C4L M-peptide O1 O
+C4L M-peptide C4 C
+C4L M-peptide C3 CA
+C4L M-peptide N1 N
+C4L M-peptide C5 CN
+C4L M-peptide O2 OXT
+C4L M-peptide H8 H

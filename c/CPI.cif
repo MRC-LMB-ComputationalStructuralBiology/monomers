@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-CPI     CPI      6-CARBOXYPIPERIDINE     NON-POLYMER     19     9     .     
-#
+CPI CPI 6-CARBOXYPIPERIDINE NON-POLYMER 19 9 .
+
 data_comp_CPI
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,25 +19,26 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-CPI     N       N       NT1     0       17.154      16.908      20.517      
-CPI     CE      C       CH2     0       18.011      18.015      20.991      
-CPI     CD      C       CH2     0       19.480      17.743      20.735      
-CPI     CG      C       CH2     0       19.750      17.340      19.296      
-CPI     CB      C       CH2     0       18.902      16.131      18.920      
-CPI     CA      C       CH1     0       17.403      16.380      19.148      
-CPI     C       C       C       0       16.807      17.279      18.064      
-CPI     O       O       O       0       16.277      18.317      18.385      
-CPI     OXT     O       OC      -1      16.883      16.878      16.927      
-CPI     H       H       H       0       17.213      16.228      21.094      
-CPI     HE2     H       H       0       17.751      18.860      20.529      
-CPI     HE3     H       H       0       17.871      18.145      21.971      
-CPI     HD2     H       H       0       19.780      17.028      21.335      
-CPI     HD3     H       H       0       19.994      18.552      20.948      
-CPI     HG2     H       H       0       20.701      17.122      19.188      
-CPI     HG3     H       H       0       19.541      18.091      18.698      
-CPI     HB2     H       H       0       19.186      15.360      19.461      
-CPI     HB3     H       H       0       19.060      15.907      17.975      
-CPI     HA      H       H       0       16.940      15.503      19.082      
+CPI N   N NT1 0  17.154 16.908 20.517
+CPI CE  C CH2 0  18.011 18.015 20.991
+CPI CD  C CH2 0  19.480 17.743 20.735
+CPI CG  C CH2 0  19.750 17.340 19.296
+CPI CB  C CH2 0  18.902 16.131 18.920
+CPI CA  C CH1 0  17.403 16.380 19.148
+CPI C   C C   0  16.807 17.279 18.064
+CPI O   O O   0  16.277 18.317 18.385
+CPI OXT O OC  -1 16.883 16.878 16.927
+CPI H   H H   0  17.213 16.228 21.094
+CPI HE2 H H   0  17.751 18.860 20.529
+CPI HE3 H H   0  17.871 18.145 21.971
+CPI HD2 H H   0  19.780 17.028 21.335
+CPI HD3 H H   0  19.994 18.552 20.948
+CPI HG2 H H   0  20.701 17.122 19.188
+CPI HG3 H H   0  19.541 18.091 18.698
+CPI HB2 H H   0  19.186 15.360 19.461
+CPI HB3 H H   0  19.060 15.907 17.975
+CPI HA  H H   0  16.940 15.503 19.082
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -50,25 +49,26 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-CPI           N          CE      SINGLE       n     1.474  0.0106     1.474  0.0106
-CPI           N          CA      SINGLE       n     1.479  0.0140     1.479  0.0140
-CPI          CE          CD      SINGLE       n     1.515  0.0100     1.515  0.0100
-CPI          CD          CG      SINGLE       n     1.518  0.0116     1.518  0.0116
-CPI          CG          CB      SINGLE       n     1.523  0.0135     1.523  0.0135
-CPI          CB          CA      SINGLE       n     1.534  0.0100     1.534  0.0100
-CPI          CA           C      SINGLE       n     1.521  0.0144     1.521  0.0144
-CPI           C           O      DOUBLE       n     1.207  0.0200     1.207  0.0200
-CPI           C         OXT      SINGLE       n     1.207  0.0200     1.207  0.0200
-CPI           N           H      SINGLE       n     1.036  0.0160     0.892  0.0200
-CPI          CE         HE2      SINGLE       n     1.089  0.0100     0.998  0.0200
-CPI          CE         HE3      SINGLE       n     1.089  0.0100     0.998  0.0200
-CPI          CD         HD2      SINGLE       n     1.089  0.0100     0.981  0.0108
-CPI          CD         HD3      SINGLE       n     1.089  0.0100     0.981  0.0108
-CPI          CG         HG2      SINGLE       n     1.089  0.0100     0.982  0.0103
-CPI          CG         HG3      SINGLE       n     1.089  0.0100     0.982  0.0103
-CPI          CB         HB2      SINGLE       n     1.089  0.0100     0.984  0.0117
-CPI          CB         HB3      SINGLE       n     1.089  0.0100     0.984  0.0117
-CPI          CA          HA      SINGLE       n     1.089  0.0100     0.994  0.0120
+CPI N  CE  SINGLE n 1.474 0.0106 1.474 0.0106
+CPI N  CA  SINGLE n 1.479 0.0140 1.479 0.0140
+CPI CE CD  SINGLE n 1.515 0.0100 1.515 0.0100
+CPI CD CG  SINGLE n 1.518 0.0116 1.518 0.0116
+CPI CG CB  SINGLE n 1.523 0.0135 1.523 0.0135
+CPI CB CA  SINGLE n 1.534 0.0100 1.534 0.0100
+CPI CA C   SINGLE n 1.521 0.0144 1.521 0.0144
+CPI C  O   DOUBLE n 1.207 0.0200 1.207 0.0200
+CPI C  OXT SINGLE n 1.207 0.0200 1.207 0.0200
+CPI N  H   SINGLE n 1.036 0.0160 0.892 0.0200
+CPI CE HE2 SINGLE n 1.089 0.0100 0.998 0.0200
+CPI CE HE3 SINGLE n 1.089 0.0100 0.998 0.0200
+CPI CD HD2 SINGLE n 1.089 0.0100 0.981 0.0108
+CPI CD HD3 SINGLE n 1.089 0.0100 0.981 0.0108
+CPI CG HG2 SINGLE n 1.089 0.0100 0.982 0.0103
+CPI CG HG3 SINGLE n 1.089 0.0100 0.982 0.0103
+CPI CB HB2 SINGLE n 1.089 0.0100 0.984 0.0117
+CPI CB HB3 SINGLE n 1.089 0.0100 0.984 0.0117
+CPI CA HA  SINGLE n 1.089 0.0100 0.994 0.0120
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -76,42 +76,43 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-CPI          CE           N          CA     111.782    3.00
-CPI          CE           N           H     109.383    3.00
-CPI          CA           N           H     108.770    3.00
-CPI           N          CE          CD     111.116    1.92
-CPI           N          CE         HE2     109.570    1.50
-CPI           N          CE         HE3     109.570    1.50
-CPI          CD          CE         HE2     109.268    1.50
-CPI          CD          CE         HE3     109.268    1.50
-CPI         HE2          CE         HE3     108.210    1.50
-CPI          CE          CD          CG     112.612    3.00
-CPI          CE          CD         HD2     108.932    1.50
-CPI          CE          CD         HD3     108.932    1.50
-CPI          CG          CD         HD2     109.453    1.50
-CPI          CG          CD         HD3     109.453    1.50
-CPI         HD2          CD         HD3     108.022    1.50
-CPI          CD          CG          CB     110.320    1.50
-CPI          CD          CG         HG2     109.613    1.50
-CPI          CD          CG         HG3     109.613    1.50
-CPI          CB          CG         HG2     109.611    1.50
-CPI          CB          CG         HG3     109.611    1.50
-CPI         HG2          CG         HG3     108.036    1.50
-CPI          CG          CB          CA     111.820    1.56
-CPI          CG          CB         HB2     109.282    1.50
-CPI          CG          CB         HB3     109.282    1.50
-CPI          CA          CB         HB2     109.356    1.50
-CPI          CA          CB         HB3     109.356    1.50
-CPI         HB2          CB         HB3     107.988    1.50
-CPI           N          CA          CB     111.108    1.69
-CPI           N          CA           C     110.461    2.50
-CPI           N          CA          HA     108.275    1.50
-CPI          CB          CA           C     111.056    2.52
-CPI          CB          CA          HA     108.538    1.50
-CPI           C          CA          HA     107.848    1.50
-CPI          CA           C           O     117.484    2.59
-CPI          CA           C         OXT     117.484    2.59
-CPI           O           C         OXT     125.033    1.50
+CPI CE  N  CA  111.782 3.00
+CPI CE  N  H   109.383 3.00
+CPI CA  N  H   108.770 3.00
+CPI N   CE CD  111.116 1.92
+CPI N   CE HE2 109.570 1.50
+CPI N   CE HE3 109.570 1.50
+CPI CD  CE HE2 109.268 1.50
+CPI CD  CE HE3 109.268 1.50
+CPI HE2 CE HE3 108.210 1.50
+CPI CE  CD CG  112.612 3.00
+CPI CE  CD HD2 108.932 1.50
+CPI CE  CD HD3 108.932 1.50
+CPI CG  CD HD2 109.453 1.50
+CPI CG  CD HD3 109.453 1.50
+CPI HD2 CD HD3 108.022 1.50
+CPI CD  CG CB  110.320 1.50
+CPI CD  CG HG2 109.613 1.50
+CPI CD  CG HG3 109.613 1.50
+CPI CB  CG HG2 109.611 1.50
+CPI CB  CG HG3 109.611 1.50
+CPI HG2 CG HG3 108.036 1.50
+CPI CG  CB CA  111.820 1.56
+CPI CG  CB HB2 109.282 1.50
+CPI CG  CB HB3 109.282 1.50
+CPI CA  CB HB2 109.356 1.50
+CPI CA  CB HB3 109.356 1.50
+CPI HB2 CB HB3 107.988 1.50
+CPI N   CA CB  111.108 1.69
+CPI N   CA C   110.461 2.50
+CPI N   CA HA  108.275 1.50
+CPI CB  CA C   111.056 2.52
+CPI CB  CA HA  108.538 1.50
+CPI C   CA HA  107.848 1.50
+CPI CA  C  O   117.484 2.59
+CPI CA  C  OXT 117.484 2.59
+CPI O   C  OXT 125.033 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -122,13 +123,14 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-CPI             sp3_sp3_1          CD          CE           N          CA      60.000    10.0     3
-CPI            sp3_sp3_45           C          CA           N          CE      60.000    10.0     3
-CPI             sp3_sp3_7          CG          CD          CE           N     -60.000    10.0     3
-CPI            sp3_sp3_16          CE          CD          CG          CB      60.000    10.0     3
-CPI            sp3_sp3_25          CA          CB          CG          CD     -60.000    10.0     3
-CPI            sp3_sp3_37           C          CA          CB          CG     -60.000    10.0     3
-CPI             sp2_sp3_1           O           C          CA           N       0.000    10.0     6
+CPI sp3_sp3_1  CD CE N  CA 60.000  10.0 3
+CPI sp3_sp3_45 C  CA N  CE 60.000  10.0 3
+CPI sp3_sp3_7  CG CD CE N  -60.000 10.0 3
+CPI sp3_sp3_16 CE CD CG CB 60.000  10.0 3
+CPI sp3_sp3_25 CA CB CG CD -60.000 10.0 3
+CPI sp3_sp3_37 C  CA CB CG -60.000 10.0 3
+CPI sp2_sp3_1  O  C  CA N  0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -137,36 +139,46 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-CPI    chir_1    CA    N    C    CB    negative
-CPI    chir_2    N    CA    CE    H    both
+CPI chir_1 CA N  C  CB negative
+CPI chir_2 N  CA CE H  both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-CPI    plan-1           C   0.020
-CPI    plan-1          CA   0.020
-CPI    plan-1           O   0.020
-CPI    plan-1         OXT   0.020
+CPI plan-1 C   0.020
+CPI plan-1 CA  0.020
+CPI plan-1 O   0.020
+CPI plan-1 OXT 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-CPI           SMILES              ACDLabs 12.01                                                       O=C(O)C1NCCCC1
-CPI SMILES_CANONICAL               CACTVS 3.370                                                   OC(=O)[C@H]1CCCCN1
-CPI           SMILES               CACTVS 3.370                                                    OC(=O)[CH]1CCCCN1
-CPI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                 C1CCN[C@H](C1)C(=O)O
-CPI           SMILES "OpenEye OEToolkits" 1.7.0                                                     C1CCNC(C1)C(=O)O
-CPI            InChI                InChI  1.03 InChI=1S/C6H11NO2/c8-6(9)5-3-1-2-4-7-5/h5,7H,1-4H2,(H,8,9)/t5-/m1/s1
-CPI         InChIKey                InChI  1.03                                          HXEACLLIILLPRG-RXMQYKEDSA-N
+CPI SMILES           ACDLabs              12.01 O=C(O)C1NCCCC1
+CPI SMILES_CANONICAL CACTVS               3.370 OC(=O)[C@H]1CCCCN1
+CPI SMILES           CACTVS               3.370 OC(=O)[CH]1CCCCN1
+CPI SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 C1CCN[C@H](C1)C(=O)O
+CPI SMILES           "OpenEye OEToolkits" 1.7.0 C1CCNC(C1)C(=O)O
+CPI InChI            InChI                1.03  InChI=1S/C6H11NO2/c8-6(9)5-3-1-2-4-7-5/h5,7H,1-4H2,(H,8,9)/t5-/m1/s1
+CPI InChIKey         InChI                1.03  HXEACLLIILLPRG-RXMQYKEDSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-CPI acedrg               243         "dictionary generator"                  
-CPI acedrg_database      11          "data source"                           
-CPI rdkit                2017.03.2   "Chemoinformatics tool"
-CPI refmac5              5.8.0238    "optimization tool"                     
+CPI acedrg          243       "dictionary generator"
+CPI acedrg_database 11        "data source"
+CPI rdkit           2017.03.2 "Chemoinformatics tool"
+CPI refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+CPI M-peptide CE CN

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TX4     TX4      "L-THREONOHYDROXAMATE 4-PHOSPHATE"     NON-POLYMER     24     14     .     
-#
+TX4 TX4 "L-THREONOHYDROXAMATE 4-PHOSPHATE" NON-POLYMER 24 14 .
+
 data_comp_TX4
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,30 +19,31 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TX4     O7      O       O       0       63.946      23.216      25.359      
-TX4     P       P       P       0       65.078      23.349      24.359      
-TX4     O5      O       OP      -1      64.997      24.626      23.544      
-TX4     O6      O       OP      -1      66.444      23.135      24.983      
-TX4     O4      O       O2      0       64.882      22.141      23.302      
-TX4     C4      C       CH2     0       64.846      20.766      23.786      
-TX4     C3      C       CH1     0       63.418      20.277      23.840      
-TX4     O3      O       OH1     0       63.381      19.045      24.564      
-TX4     C2      C       CH1     0       62.776      20.077      22.453      
-TX4     O2      O       OH1     0       63.417      18.995      21.782      
-TX4     C1      C       CH1     0       61.265      19.822      22.489      
-TX4     O1      O       OH1     0       60.997      18.718      23.336      
-TX4     N       N       NT1     0       60.540      21.022      22.916      
-TX4     ON      O       OH1     0       59.146      20.893      22.555      
-TX4     H41     H       H       0       65.246      20.714      24.680      
-TX4     H42     H       H       0       65.368      20.196      23.184      
-TX4     H3      H       H       0       62.872      20.952      24.342      
-TX4     HO3     H       H       0       62.610      18.902      24.888      
-TX4     H2      H       H       0       62.933      20.898      21.919      
-TX4     HO2     H       H       0       63.298      19.074      20.946      
-TX4     H1      H       H       0       60.973      19.587      21.576      
-TX4     HO1     H       H       0       60.239      18.395      23.135      
-TX4     HN      H       H       0       60.560      21.134      23.819      
-TX4     HON     H       H       0       58.829      20.334      23.113      
+TX4 O7  O O   0  63.946 23.216 25.359
+TX4 P   P P   0  65.078 23.349 24.359
+TX4 O5  O OP  -1 64.997 24.626 23.544
+TX4 O6  O OP  -1 66.444 23.135 24.983
+TX4 O4  O O2  0  64.882 22.141 23.302
+TX4 C4  C CH2 0  64.846 20.766 23.786
+TX4 C3  C CH1 0  63.418 20.277 23.840
+TX4 O3  O OH1 0  63.381 19.045 24.564
+TX4 C2  C CH1 0  62.776 20.077 22.453
+TX4 O2  O OH1 0  63.417 18.995 21.782
+TX4 C1  C CH1 0  61.265 19.822 22.489
+TX4 O1  O OH1 0  60.997 18.718 23.336
+TX4 N   N NT1 0  60.540 21.022 22.916
+TX4 ON  O OH1 0  59.146 20.893 22.555
+TX4 H41 H H   0  65.246 20.714 24.680
+TX4 H42 H H   0  65.368 20.196 23.184
+TX4 H3  H H   0  62.872 20.952 24.342
+TX4 HO3 H H   0  62.610 18.902 24.888
+TX4 H2  H H   0  62.933 20.898 21.919
+TX4 HO2 H H   0  63.298 19.074 20.946
+TX4 H1  H H   0  60.973 19.587 21.576
+TX4 HO1 H H   0  60.239 18.395 23.135
+TX4 HN  H H   0  60.560 21.134 23.819
+TX4 HON H H   0  58.829 20.334 23.113
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -55,29 +54,30 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TX4          O7           P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-TX4           P          O5      SINGLE       n     1.517  0.0192     1.517  0.0192
-TX4           P          O6      SINGLE       n     1.517  0.0192     1.517  0.0192
-TX4           P          O4      SINGLE       n     1.614  0.0178     1.614  0.0178
-TX4          O4          C4      SINGLE       n     1.454  0.0165     1.454  0.0165
-TX4          C4          C3      SINGLE       n     1.511  0.0100     1.511  0.0100
-TX4          C3          O3      SINGLE       n     1.429  0.0100     1.429  0.0100
-TX4          C3          C2      SINGLE       n     1.535  0.0200     1.535  0.0200
-TX4          C2          O2      SINGLE       n     1.424  0.0199     1.424  0.0199
-TX4          C2          C1      SINGLE       n     1.531  0.0100     1.531  0.0100
-TX4          C1          O1      SINGLE       n     1.417  0.0135     1.417  0.0135
-TX4          C1           N      SINGLE       n     1.464  0.0195     1.464  0.0195
-TX4           N          ON      SINGLE       n     1.442  0.0196     1.442  0.0196
-TX4          C4         H41      SINGLE       n     1.089  0.0100     0.980  0.0146
-TX4          C4         H42      SINGLE       n     1.089  0.0100     0.980  0.0146
-TX4          C3          H3      SINGLE       n     1.089  0.0100     1.004  0.0200
-TX4          O3         HO3      SINGLE       n     0.970  0.0120     0.848  0.0200
-TX4          C2          H2      SINGLE       n     1.089  0.0100     0.992  0.0184
-TX4          O2         HO2      SINGLE       n     0.970  0.0120     0.848  0.0200
-TX4          C1          H1      SINGLE       n     1.089  0.0100     0.987  0.0180
-TX4          O1         HO1      SINGLE       n     0.970  0.0120     0.848  0.0200
-TX4           N          HN      SINGLE       n     1.036  0.0160     0.909  0.0200
-TX4          ON         HON      SINGLE       n     0.970  0.0120     0.849  0.0200
+TX4 O7 P   DOUBLE n 1.517 0.0192 1.517 0.0192
+TX4 P  O5  SINGLE n 1.517 0.0192 1.517 0.0192
+TX4 P  O6  SINGLE n 1.517 0.0192 1.517 0.0192
+TX4 P  O4  SINGLE n 1.614 0.0178 1.614 0.0178
+TX4 O4 C4  SINGLE n 1.454 0.0165 1.454 0.0165
+TX4 C4 C3  SINGLE n 1.511 0.0100 1.511 0.0100
+TX4 C3 O3  SINGLE n 1.429 0.0100 1.429 0.0100
+TX4 C3 C2  SINGLE n 1.535 0.0200 1.535 0.0200
+TX4 C2 O2  SINGLE n 1.424 0.0199 1.424 0.0199
+TX4 C2 C1  SINGLE n 1.531 0.0100 1.531 0.0100
+TX4 C1 O1  SINGLE n 1.417 0.0135 1.417 0.0135
+TX4 C1 N   SINGLE n 1.464 0.0195 1.464 0.0195
+TX4 N  ON  SINGLE n 1.442 0.0196 1.442 0.0196
+TX4 C4 H41 SINGLE n 1.089 0.0100 0.980 0.0146
+TX4 C4 H42 SINGLE n 1.089 0.0100 0.980 0.0146
+TX4 C3 H3  SINGLE n 1.089 0.0100 1.004 0.0200
+TX4 O3 HO3 SINGLE n 0.970 0.0120 0.848 0.0200
+TX4 C2 H2  SINGLE n 1.089 0.0100 0.992 0.0184
+TX4 O2 HO2 SINGLE n 0.970 0.0120 0.848 0.0200
+TX4 C1 H1  SINGLE n 1.089 0.0100 0.987 0.0180
+TX4 O1 HO1 SINGLE n 0.970 0.0120 0.848 0.0200
+TX4 N  HN  SINGLE n 1.036 0.0160 0.909 0.0200
+TX4 ON HON SINGLE n 0.970 0.0120 0.849 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -85,44 +85,45 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TX4          O7           P          O5     112.864    1.69
-TX4          O7           P          O6     112.864    1.69
-TX4          O7           P          O4     105.795    2.09
-TX4          O5           P          O6     112.864    1.69
-TX4          O5           P          O4     105.795    2.09
-TX4          O6           P          O4     105.795    2.09
-TX4           P          O4          C4     118.671    1.50
-TX4          O4          C4          C3     109.438    2.56
-TX4          O4          C4         H41     109.393    1.91
-TX4          O4          C4         H42     109.393    1.91
-TX4          C3          C4         H41     109.582    1.50
-TX4          C3          C4         H42     109.582    1.50
-TX4         H41          C4         H42     108.319    1.50
-TX4          C4          C3          O3     109.314    1.96
-TX4          C4          C3          C2     113.761    1.50
-TX4          C4          C3          H3     108.656    1.50
-TX4          O3          C3          C2     109.320    2.01
-TX4          O3          C3          H3     108.591    1.50
-TX4          C2          C3          H3     108.450    1.83
-TX4          C3          O3         HO3     111.202    3.00
-TX4          C3          C2          O2     109.320    2.01
-TX4          C3          C2          C1     113.756    1.69
-TX4          C3          C2          H2     108.450    1.83
-TX4          O2          C2          C1     109.501    1.59
-TX4          O2          C2          H2     108.183    1.96
-TX4          C1          C2          H2     108.326    1.70
-TX4          C2          O2         HO2     109.265    3.00
-TX4          C2          C1          O1     109.434    2.40
-TX4          C2          C1           N     111.883    2.59
-TX4          C2          C1          H1     108.688    1.50
-TX4          O1          C1           N     112.111    1.50
-TX4          O1          C1          H1     108.654    1.50
-TX4           N          C1          H1     109.140    1.50
-TX4          C1          O1         HO1     108.906    3.00
-TX4          C1           N          ON     108.492    3.00
-TX4          C1           N          HN     111.861    3.00
-TX4          ON           N          HN     105.620    3.00
-TX4           N          ON         HON     103.604    3.00
+TX4 O7  P  O5  112.864 1.69
+TX4 O7  P  O6  112.864 1.69
+TX4 O7  P  O4  105.795 2.09
+TX4 O5  P  O6  112.864 1.69
+TX4 O5  P  O4  105.795 2.09
+TX4 O6  P  O4  105.795 2.09
+TX4 P   O4 C4  118.671 1.50
+TX4 O4  C4 C3  109.438 2.56
+TX4 O4  C4 H41 109.393 1.91
+TX4 O4  C4 H42 109.393 1.91
+TX4 C3  C4 H41 109.582 1.50
+TX4 C3  C4 H42 109.582 1.50
+TX4 H41 C4 H42 108.319 1.50
+TX4 C4  C3 O3  109.314 1.96
+TX4 C4  C3 C2  113.761 1.50
+TX4 C4  C3 H3  108.656 1.50
+TX4 O3  C3 C2  109.320 2.01
+TX4 O3  C3 H3  108.591 1.50
+TX4 C2  C3 H3  108.450 1.83
+TX4 C3  O3 HO3 111.202 3.00
+TX4 C3  C2 O2  109.320 2.01
+TX4 C3  C2 C1  113.756 1.69
+TX4 C3  C2 H2  108.450 1.83
+TX4 O2  C2 C1  109.501 1.59
+TX4 O2  C2 H2  108.183 1.96
+TX4 C1  C2 H2  108.326 1.70
+TX4 C2  O2 HO2 109.265 3.00
+TX4 C2  C1 O1  109.434 2.40
+TX4 C2  C1 N   111.883 2.59
+TX4 C2  C1 H1  108.688 1.50
+TX4 O1  C1 N   112.111 1.50
+TX4 O1  C1 H1  108.654 1.50
+TX4 N   C1 H1  109.140 1.50
+TX4 C1  O1 HO1 108.906 3.00
+TX4 C1  N  ON  108.492 3.00
+TX4 C1  N  HN  111.861 3.00
+TX4 ON  N  HN  105.620 3.00
+TX4 N   ON HON 103.604 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -133,16 +134,17 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TX4            sp3_sp3_40          C2          C1          O1         HO1     180.000    10.0     3
-TX4            sp3_sp3_43          C2          C1           N          ON     180.000    10.0     3
-TX4            sp3_sp3_50          C1           N          ON         HON      60.000    10.0     3
-TX4             sp3_sp3_3          C4          O4           P          O7      60.000    10.0     3
-TX4             sp3_sp3_4          C3          C4          O4           P     180.000    10.0     3
-TX4             sp3_sp3_7          O3          C3          C4          O4     180.000    10.0     3
-TX4            sp3_sp3_16          C4          C3          O3         HO3     180.000    10.0     3
-TX4            sp3_sp3_19          O2          C2          C3          C4     180.000    10.0     3
-TX4            sp3_sp3_31          O1          C1          C2          C3     180.000    10.0     3
-TX4            sp3_sp3_28          C3          C2          O2         HO2     180.000    10.0     3
+TX4 sp3_sp3_40 C2 C1 O1 HO1 180.000 10.0 3
+TX4 sp3_sp3_43 C2 C1 N  ON  180.000 10.0 3
+TX4 sp3_sp3_50 C1 N  ON HON 60.000  10.0 3
+TX4 sp3_sp3_3  C4 O4 P  O7  60.000  10.0 3
+TX4 sp3_sp3_4  C3 C4 O4 P   180.000 10.0 3
+TX4 sp3_sp3_7  O3 C3 C4 O4  180.000 10.0 3
+TX4 sp3_sp3_16 C4 C3 O3 HO3 180.000 10.0 3
+TX4 sp3_sp3_19 O2 C2 C3 C4  180.000 10.0 3
+TX4 sp3_sp3_31 O1 C1 C2 C3  180.000 10.0 3
+TX4 sp3_sp3_28 C3 C2 O2 HO2 180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -151,30 +153,47 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TX4    chir_1    P    O4    O5    O6    both
-TX4    chir_2    C3    O3    C2    C4    positive
-TX4    chir_3    C2    O2    C1    C3    negative
-TX4    chir_4    C1    O1    N    C2    negative
-TX4    chir_5    N    ON    C1    HN    both
+TX4 chir_1 P  O4 O5 O6 both
+TX4 chir_2 C3 O3 C2 C4 positive
+TX4 chir_3 C2 O2 C1 C3 negative
+TX4 chir_4 C1 O1 N  C2 negative
+TX4 chir_5 N  ON C1 HN both
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TX4           SMILES              ACDLabs 10.04                                                                    O=P(O)(O)OCC(O)C(O)C(O)NO
-TX4 SMILES_CANONICAL               CACTVS 3.341                                                    ON[C@@H](O)[C@H](O)[C@@H](O)CO[P](O)(O)=O
-TX4           SMILES               CACTVS 3.341                                                         ON[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O
-TX4 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                         C([C@@H]([C@H](C(NO)O)O)O)OP(=O)(O)O
-TX4           SMILES "OpenEye OEToolkits" 1.5.0                                                                  C(C(C(C(NO)O)O)O)OP(=O)(O)O
-TX4            InChI                InChI  1.03 InChI=1S/C4H12NO8P/c6-2(1-13-14(10,11)12)3(7)4(8)5-9/h2-9H,1H2,(H2,10,11,12)/t2-,3+,4-/m0/s1
-TX4         InChIKey                InChI  1.03                                                                  CSVKNYIFCYRDJM-NUNKFHFFSA-N
+TX4 SMILES           ACDLabs              10.04 O=P(O)(O)OCC(O)C(O)C(O)NO
+TX4 SMILES_CANONICAL CACTVS               3.341 ON[C@@H](O)[C@H](O)[C@@H](O)CO[P](O)(O)=O
+TX4 SMILES           CACTVS               3.341 ON[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O
+TX4 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C([C@@H]([C@H](C(NO)O)O)O)OP(=O)(O)O
+TX4 SMILES           "OpenEye OEToolkits" 1.5.0 C(C(C(C(NO)O)O)O)OP(=O)(O)O
+TX4 InChI            InChI                1.03  InChI=1S/C4H12NO8P/c6-2(1-13-14(10,11)12)3(7)4(8)5-9/h2-9H,1H2,(H2,10,11,12)/t2-,3+,4-/m0/s1
+TX4 InChIKey         InChI                1.03  CSVKNYIFCYRDJM-NUNKFHFFSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TX4 acedrg               243         "dictionary generator"                  
-TX4 acedrg_database      11          "data source"                           
-TX4 rdkit                2017.03.2   "Chemoinformatics tool"
-TX4 refmac5              5.8.0238    "optimization tool"                     
+TX4 acedrg          243       "dictionary generator"
+TX4 acedrg_database 11        "data source"
+TX4 rdkit           2017.03.2 "Chemoinformatics tool"
+TX4 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+TX4 DNA/RNA O5  OP3
+TX4 DNA/RNA O7  OP1
+TX4 DNA/RNA O6  OP2
+TX4 DNA/RNA O4  O5'
+TX4 DNA/RNA C4  C5'
+TX4 DNA/RNA C3  C4'
+TX4 DNA/RNA C2  C3'
+TX4 DNA/RNA O2  O3'
+TX4 DNA/RNA HO2 HO3'

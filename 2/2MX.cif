@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-2MX     2MX      "(2S,2'S)-5,5'-(nonane-1,9-diyldiimino)bis(2-{[(4-{[(2,4-diaminopteridin-6-yl)methyl](methyl)amino}phenyl)carbonyl]amino}-5-oxopentanoic acid) (non-preferred name)"     NON-POLYMER     135     75     .     
-#
+2MX 2MX "(2S,2'S)-5,5'-(nonane-1,9-diyldiimino)bis(2-{[(4-{[(2,4-diaminopteridin-6-yl)methyl](methyl)amino}phenyl)carbonyl]amino}-5-oxopentanoic acid) (non-preferred name)" NON-POLYMER 135 75 .
+
 data_comp_2MX
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,141 +19,142 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-2MX     C       C       C       0       29.990      8.930       6.587       
-2MX     N       N       NH1     0       28.468      10.255      5.178       
-2MX     O       O       OC      -1      29.481      9.366       7.639       
-2MX     N1      N       NRD6    0       27.942      14.122      -2.079      
-2MX     C2      C       CR6     0       29.114      14.487      -1.502      
-2MX     N2      N       NH2     0       30.184      14.610      -2.293      
-2MX     N3      N       NRD6    0       29.278      14.736      -0.178      
-2MX     C4      C       CR6     0       28.226      14.623      0.646       
-2MX     N4      N       NH2     0       28.393      14.872      1.955       
-2MX     N5      N       NRD6    0       25.848      14.115      0.926       
-2MX     C6      C       CR6     0       24.705      13.754      0.372       
-2MX     C7      C       CR16    0       24.612      13.514      -1.024      
-2MX     N8      N       NRD6    0       25.656      13.629      -1.831      
-2MX     C9      C       CH2     0       23.496      13.625      1.269       
-2MX     CA      C       CH1     0       29.844      9.796       5.323       
-2MX     CB      C       CH2     0       30.827      10.977      5.348       
-2MX     CD      C       C       0       30.619      11.480      2.855       
-2MX     CG      C       CH2     0       30.589      12.032      4.268       
-2MX     N10     N       N       0       23.289      12.286      1.833       
-2MX     C4A     C       CR66    0       26.949      14.239      0.115       
-2MX     C8A     C       CR66    0       26.847      13.995      -1.272      
-2MX     CAA     C       CH3     0       21.975      11.691      1.673       
-2MX     CAB     C       CH3     0       32.685      17.135      -4.410      
-2MX     NAD     N       NH2     0       24.673      17.063      0.320       
-2MX     NAF     N       NH2     0       25.754      17.475      -4.149      
-2MX     OAH     O       O       0       24.042      13.181      -7.449      
-2MX     OAJ     O       OC      -1      26.938      12.389      -11.727     
-2MX     OAK     O       O       0       27.582      8.304       4.498       
-2MX     OAL     O       O       0       28.798      13.047      -8.728      
-2MX     OAN     O       O       0       27.185      14.553      -12.140     
-2MX     CAO     C       CR16    0       26.097      11.620      4.159       
-2MX     CAP     C       CR16    0       25.631      9.620       2.924       
-2MX     CAQ     C       CR16    0       28.805      16.432      -7.333      
-2MX     CAR     C       CR16    0       30.278      14.596      -6.917      
-2MX     CAS     C       CR16    0       25.082      12.277      3.492       
-2MX     CAT     C       CR16    0       24.618      10.268      2.243       
-2MX     CAU     C       CR16    0       29.488      17.200      -6.409      
-2MX     CAV     C       CR16    0       30.966      15.350      -5.984      
-2MX     CAX     C       CR16    0       29.989      18.363      -1.650      
-2MX     CAY     C       CH2     0       26.857      9.751       -2.993      
-2MX     CAZ     C       CH2     0       27.246      10.438      -1.709      
-2MX     CBA     C       CH2     0       26.287      10.676      -4.037      
-2MX     CBB     C       CH2     0       27.838      9.519       -0.671      
-2MX     CBC     C       CH2     0       27.313      11.555      -4.704      
-2MX     CBD     C       CH2     0       28.021      10.167      0.684       
-2MX     CBE     C       CH2     0       26.762      12.380      -5.843      
-2MX     CBF     C       CH2     0       29.272      11.016      0.796       
-2MX     CBG     C       CH2     0       25.939      13.571      -5.390      
-2MX     CBI     C       CH2     0       24.641      15.183      -8.617      
-2MX     CBK     C       CH2     0       25.056      14.593      -9.964      
-2MX     CBM     C       CH2     0       30.722      18.631      -4.077      
-2MX     NBO     N       NRD6    0       29.087      18.120      -0.713      
-2MX     NBQ     N       NRD6    0       25.225      17.271      -1.907      
-2MX     NBS     N       NRD6    0       26.861      17.586      -0.176      
-2MX     NBU     N       NRD6    0       28.444      18.072      -3.445      
-2MX     NBW     N       NH1     0       25.614      14.468      -6.491      
-2MX     NBY     N       NH1     0       27.436      14.742      -9.297      
-2MX     CCA     C       C       0       24.729      14.201      -7.465      
-2MX     CCC     C       C       0       26.893      13.592      -11.402     
-2MX     CCD     C       C       0       27.502      9.530       4.591       
-2MX     CCE     C       C       0       28.475      14.231      -8.612      
-2MX     CCG     C       CR6     0       25.604      17.312      -0.605      
-2MX     CCI     C       CR6     0       26.133      17.516      -2.863      
-2MX     CCK     C       CR6     0       29.672      18.328      -3.035      
-2MX     CCL     C       CR6     0       26.391      10.279      3.894       
-2MX     CCM     C       CR6     0       29.187      15.118      -7.616      
-2MX     CCN     C       CR6     0       24.308      11.620      2.511       
-2MX     CCO     C       CR6     0       30.595      16.686      -5.690      
-2MX     CCQ     C       CR66    0       27.815      17.841      -1.121      
-2MX     CCS     C       CR66    0       27.486      17.815      -2.495      
-2MX     CCU     C       CH1     0       26.436      13.917      -9.968      
-2MX     NCW     N       N       0       31.308      17.458      -4.749      
-2MX     OE1     O       O       0       31.659      11.024      2.382       
-2MX     NE2     N       NH1     0       29.474      11.518      2.151       
-2MX     OXT     O       O       0       30.608      7.852       6.475       
-2MX     HN      H       H       0       28.271      11.004      5.566       
-2MX     HN2     H       H       0       30.830      15.162      -2.073      
-2MX     HN2A    H       H       0       30.238      14.140      -3.032      
-2MX     HN4     H       H       0       27.773      14.627      2.532       
-2MX     HN4A    H       H       0       29.122      15.279      2.237       
-2MX     H7      H       H       0       23.781      13.262      -1.394      
-2MX     H9      H       H       0       22.701      13.882      0.754       
-2MX     H9A     H       H       0       23.584      14.264      2.008       
-2MX     HA      H       H       0       30.066      9.232       4.537       
-2MX     HB      H       H       0       31.736      10.625      5.251       
-2MX     HBA     H       H       0       30.769      11.408      6.227       
-2MX     HG      H       H       0       31.284      12.720      4.345       
-2MX     HGA     H       H       0       29.728      12.471      4.429       
-2MX     HAA     H       H       0       21.862      10.963      2.306       
-2MX     HAAA    H       H       0       21.883      11.349      0.769       
-2MX     HAAB    H       H       0       21.292      12.363      1.835       
-2MX     HAB     H       H       0       33.157      16.838      -5.205      
-2MX     HABA    H       H       0       32.695      16.425      -3.747      
-2MX     HABB    H       H       0       33.137      17.914      -4.050      
-2MX     HNAD    H       H       0       24.754      17.403      1.126       
-2MX     HNAA    H       H       0       23.979      16.564      0.121       
-2MX     HNAF    H       H       0       26.322      17.204      -4.765      
-2MX     HNAB    H       H       0       24.939      17.719      -4.375      
-2MX     HAO     H       H       0       26.587      12.091      4.805       
-2MX     HAP     H       H       0       25.814      8.721       2.717       
-2MX     HAQ     H       H       0       28.075      16.815      -7.781      
-2MX     HAR     H       H       0       30.558      13.714      -7.078      
-2MX     HAS     H       H       0       24.902      13.179      3.693       
-2MX     HAT     H       H       0       24.119      9.801       1.595       
-2MX     HAU     H       H       0       29.202      18.079      -6.254      
-2MX     HAV     H       H       0       31.698      14.965      -5.538      
-2MX     HAX     H       H       0       30.874      18.558      -1.385      
-2MX     HAY     H       H       0       26.193      9.057       -2.791      
-2MX     HAYA    H       H       0       27.648      9.306       -3.364      
-2MX     HAZ     H       H       0       26.450      10.870      -1.332      
-2MX     HAZA    H       H       0       27.898      11.141      -1.912      
-2MX     HBAA    H       H       0       25.610      11.247      -3.615      
-2MX     HBAB    H       H       0       25.838      10.139      -4.723      
-2MX     HBB     H       H       0       28.708      9.201       -0.991      
-2MX     HBBA    H       H       0       27.253      8.738       -0.571      
-2MX     HBC     H       H       0       28.038      10.990      -5.045      
-2MX     HBCA    H       H       0       27.696      12.159      -4.034      
-2MX     HBD     H       H       0       28.055      9.465       1.368       
-2MX     HBDA    H       H       0       27.242      10.732      0.873       
-2MX     HBE     H       H       0       26.204      11.806      -6.411      
-2MX     HBEA    H       H       0       27.509      12.702      -6.387      
-2MX     HBF     H       H       0       29.200      11.778      0.181       
-2MX     HBFA    H       H       0       30.046      10.482      0.521       
-2MX     HBG     H       H       0       26.439      14.069      -4.709      
-2MX     H61     H       H       0       25.107      13.252      -4.980      
-2MX     HBI     H       H       0       23.714      15.499      -8.685      
-2MX     HBIA    H       H       0       25.202      15.964      -8.425      
-2MX     HBK     H       H       0       25.059      15.307      -10.635     
-2MX     HBKA    H       H       0       24.388      13.931      -10.239     
-2MX     HBM     H       H       0       31.438      19.141      -3.641      
-2MX     HBMA    H       H       0       30.330      19.224      -4.751      
-2MX     H62     H       H       0       26.024      15.238      -6.512      
-2MX     HNBY    H       H       0       27.370      15.598      -9.414      
-2MX     HCU     H       H       0       26.355      13.061      -9.475      
-2MX     HNE2    H       H       0       28.781      11.877      2.539       
+2MX C    C C    0  29.990 8.930  6.587
+2MX N    N NH1  0  28.468 10.255 5.178
+2MX O    O OC   -1 29.481 9.366  7.639
+2MX N1   N NRD6 0  27.942 14.122 -2.079
+2MX C2   C CR6  0  29.114 14.487 -1.502
+2MX N2   N NH2  0  30.184 14.610 -2.293
+2MX N3   N NRD6 0  29.278 14.736 -0.178
+2MX C4   C CR6  0  28.226 14.623 0.646
+2MX N4   N NH2  0  28.393 14.872 1.955
+2MX N5   N NRD6 0  25.848 14.115 0.926
+2MX C6   C CR6  0  24.705 13.754 0.372
+2MX C7   C CR16 0  24.612 13.514 -1.024
+2MX N8   N NRD6 0  25.656 13.629 -1.831
+2MX C9   C CH2  0  23.496 13.625 1.269
+2MX CA   C CH1  0  29.844 9.796  5.323
+2MX CB   C CH2  0  30.827 10.977 5.348
+2MX CD   C C    0  30.619 11.480 2.855
+2MX CG   C CH2  0  30.589 12.032 4.268
+2MX N10  N N    0  23.289 12.286 1.833
+2MX C4A  C CR66 0  26.949 14.239 0.115
+2MX C8A  C CR66 0  26.847 13.995 -1.272
+2MX CAA  C CH3  0  21.975 11.691 1.673
+2MX CAB  C CH3  0  32.685 17.135 -4.410
+2MX NAD  N NH2  0  24.673 17.063 0.320
+2MX NAF  N NH2  0  25.754 17.475 -4.149
+2MX OAH  O O    0  24.042 13.181 -7.449
+2MX OAJ  O OC   -1 26.938 12.389 -11.727
+2MX OAK  O O    0  27.582 8.304  4.498
+2MX OAL  O O    0  28.798 13.047 -8.728
+2MX OAN  O O    0  27.185 14.553 -12.140
+2MX CAO  C CR16 0  26.097 11.620 4.159
+2MX CAP  C CR16 0  25.631 9.620  2.924
+2MX CAQ  C CR16 0  28.805 16.432 -7.333
+2MX CAR  C CR16 0  30.278 14.596 -6.917
+2MX CAS  C CR16 0  25.082 12.277 3.492
+2MX CAT  C CR16 0  24.618 10.268 2.243
+2MX CAU  C CR16 0  29.488 17.200 -6.409
+2MX CAV  C CR16 0  30.966 15.350 -5.984
+2MX CAX  C CR16 0  29.989 18.363 -1.650
+2MX CAY  C CH2  0  26.857 9.751  -2.993
+2MX CAZ  C CH2  0  27.246 10.438 -1.709
+2MX CBA  C CH2  0  26.287 10.676 -4.037
+2MX CBB  C CH2  0  27.838 9.519  -0.671
+2MX CBC  C CH2  0  27.313 11.555 -4.704
+2MX CBD  C CH2  0  28.021 10.167 0.684
+2MX CBE  C CH2  0  26.762 12.380 -5.843
+2MX CBF  C CH2  0  29.272 11.016 0.796
+2MX CBG  C CH2  0  25.939 13.571 -5.390
+2MX CBI  C CH2  0  24.641 15.183 -8.617
+2MX CBK  C CH2  0  25.056 14.593 -9.964
+2MX CBM  C CH2  0  30.722 18.631 -4.077
+2MX NBO  N NRD6 0  29.087 18.120 -0.713
+2MX NBQ  N NRD6 0  25.225 17.271 -1.907
+2MX NBS  N NRD6 0  26.861 17.586 -0.176
+2MX NBU  N NRD6 0  28.444 18.072 -3.445
+2MX NBW  N NH1  0  25.614 14.468 -6.491
+2MX NBY  N NH1  0  27.436 14.742 -9.297
+2MX CCA  C C    0  24.729 14.201 -7.465
+2MX CCC  C C    0  26.893 13.592 -11.402
+2MX CCD  C C    0  27.502 9.530  4.591
+2MX CCE  C C    0  28.475 14.231 -8.612
+2MX CCG  C CR6  0  25.604 17.312 -0.605
+2MX CCI  C CR6  0  26.133 17.516 -2.863
+2MX CCK  C CR6  0  29.672 18.328 -3.035
+2MX CCL  C CR6  0  26.391 10.279 3.894
+2MX CCM  C CR6  0  29.187 15.118 -7.616
+2MX CCN  C CR6  0  24.308 11.620 2.511
+2MX CCO  C CR6  0  30.595 16.686 -5.690
+2MX CCQ  C CR66 0  27.815 17.841 -1.121
+2MX CCS  C CR66 0  27.486 17.815 -2.495
+2MX CCU  C CH1  0  26.436 13.917 -9.968
+2MX NCW  N N    0  31.308 17.458 -4.749
+2MX OE1  O O    0  31.659 11.024 2.382
+2MX NE2  N NH1  0  29.474 11.518 2.151
+2MX OXT  O O    0  30.608 7.852  6.475
+2MX HN   H H    0  28.271 11.004 5.566
+2MX HN2  H H    0  30.830 15.162 -2.073
+2MX HN2A H H    0  30.238 14.140 -3.032
+2MX HN4  H H    0  27.773 14.627 2.532
+2MX HN4A H H    0  29.122 15.279 2.237
+2MX H7   H H    0  23.781 13.262 -1.394
+2MX H9   H H    0  22.701 13.882 0.754
+2MX H9A  H H    0  23.584 14.264 2.008
+2MX HA   H H    0  30.066 9.232  4.537
+2MX HB   H H    0  31.736 10.625 5.251
+2MX HBA  H H    0  30.769 11.408 6.227
+2MX HG   H H    0  31.284 12.720 4.345
+2MX HGA  H H    0  29.728 12.471 4.429
+2MX HAA  H H    0  21.862 10.963 2.306
+2MX HAAA H H    0  21.883 11.349 0.769
+2MX HAAB H H    0  21.292 12.363 1.835
+2MX HAB  H H    0  33.157 16.838 -5.205
+2MX HABA H H    0  32.695 16.425 -3.747
+2MX HABB H H    0  33.137 17.914 -4.050
+2MX HNAD H H    0  24.754 17.403 1.126
+2MX HNAA H H    0  23.979 16.564 0.121
+2MX HNAF H H    0  26.322 17.204 -4.765
+2MX HNAB H H    0  24.939 17.719 -4.375
+2MX HAO  H H    0  26.587 12.091 4.805
+2MX HAP  H H    0  25.814 8.721  2.717
+2MX HAQ  H H    0  28.075 16.815 -7.781
+2MX HAR  H H    0  30.558 13.714 -7.078
+2MX HAS  H H    0  24.902 13.179 3.693
+2MX HAT  H H    0  24.119 9.801  1.595
+2MX HAU  H H    0  29.202 18.079 -6.254
+2MX HAV  H H    0  31.698 14.965 -5.538
+2MX HAX  H H    0  30.874 18.558 -1.385
+2MX HAY  H H    0  26.193 9.057  -2.791
+2MX HAYA H H    0  27.648 9.306  -3.364
+2MX HAZ  H H    0  26.450 10.870 -1.332
+2MX HAZA H H    0  27.898 11.141 -1.912
+2MX HBAA H H    0  25.610 11.247 -3.615
+2MX HBAB H H    0  25.838 10.139 -4.723
+2MX HBB  H H    0  28.708 9.201  -0.991
+2MX HBBA H H    0  27.253 8.738  -0.571
+2MX HBC  H H    0  28.038 10.990 -5.045
+2MX HBCA H H    0  27.696 12.159 -4.034
+2MX HBD  H H    0  28.055 9.465  1.368
+2MX HBDA H H    0  27.242 10.732 0.873
+2MX HBE  H H    0  26.204 11.806 -6.411
+2MX HBEA H H    0  27.509 12.702 -6.387
+2MX HBF  H H    0  29.200 11.778 0.181
+2MX HBFA H H    0  30.046 10.482 0.521
+2MX HBG  H H    0  26.439 14.069 -4.709
+2MX H61  H H    0  25.107 13.252 -4.980
+2MX HBI  H H    0  23.714 15.499 -8.685
+2MX HBIA H H    0  25.202 15.964 -8.425
+2MX HBK  H H    0  25.059 15.307 -10.635
+2MX HBKA H H    0  24.388 13.931 -10.239
+2MX HBM  H H    0  31.438 19.141 -3.641
+2MX HBMA H H    0  30.330 19.224 -4.751
+2MX H62  H H    0  26.024 15.238 -6.512
+2MX HNBY H H    0  27.370 15.598 -9.414
+2MX HCU  H H    0  26.355 13.061 -9.475
+2MX HNE2 H H    0  28.781 11.877 2.539
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -166,146 +165,147 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-2MX           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-2MX          N1          C2      DOUBLE       y     1.349  0.0118     1.349  0.0118
-2MX          C2          N2      SINGLE       n     1.335  0.0101     1.335  0.0101
-2MX          C2          N3      SINGLE       y     1.348  0.0113     1.348  0.0113
-2MX          N3          C4      DOUBLE       y     1.335  0.0100     1.335  0.0100
-2MX          C4          N4      SINGLE       n     1.341  0.0100     1.341  0.0100
-2MX          N5         C4A      DOUBLE       y     1.370  0.0100     1.370  0.0100
-2MX          N5          C6      SINGLE       y     1.315  0.0100     1.315  0.0100
-2MX          C6          C7      DOUBLE       y     1.410  0.0142     1.410  0.0142
-2MX          C7          N8      SINGLE       y     1.319  0.0100     1.319  0.0100
-2MX          N8         C8A      DOUBLE       y     1.362  0.0100     1.362  0.0100
-2MX          C6          C9      SINGLE       n     1.509  0.0100     1.509  0.0100
-2MX           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-2MX           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-2MX          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-2MX          CD          CG      SINGLE       n     1.514  0.0100     1.514  0.0100
-2MX          CB          CG      SINGLE       n     1.522  0.0131     1.522  0.0131
-2MX          C9         N10      SINGLE       n     1.461  0.0124     1.461  0.0124
-2MX          C4         C4A      SINGLE       y     1.420  0.0200     1.420  0.0200
-2MX          N1         C8A      SINGLE       y     1.364  0.0100     1.364  0.0100
-2MX         C4A         C8A      SINGLE       y     1.410  0.0100     1.410  0.0100
-2MX         N10         CAA      SINGLE       n     1.448  0.0100     1.448  0.0100
-2MX         NAD         CCG      SINGLE       n     1.335  0.0101     1.335  0.0101
-2MX         NAF         CCI      SINGLE       n     1.341  0.0100     1.341  0.0100
-2MX         OAH         CCA      DOUBLE       n     1.229  0.0102     1.229  0.0102
-2MX         OAJ         CCC      SINGLE       n     1.247  0.0187     1.247  0.0187
-2MX         OAK         CCD      DOUBLE       n     1.230  0.0114     1.230  0.0114
-2MX         OAN         CCC      DOUBLE       n     1.247  0.0187     1.247  0.0187
-2MX         CAO         CAS      DOUBLE       y     1.379  0.0100     1.379  0.0100
-2MX         CAP         CCL      DOUBLE       y     1.390  0.0100     1.390  0.0100
-2MX         CAP         CAT      SINGLE       y     1.379  0.0100     1.379  0.0100
-2MX         CAQ         CCM      DOUBLE       y     1.390  0.0100     1.390  0.0100
-2MX         CAT         CCN      DOUBLE       y     1.409  0.0111     1.409  0.0111
-2MX         CAQ         CAU      SINGLE       y     1.379  0.0100     1.379  0.0100
-2MX         CAU         CCO      DOUBLE       y     1.409  0.0111     1.409  0.0111
-2MX         CAR         CAV      DOUBLE       y     1.379  0.0100     1.379  0.0100
-2MX         CAY         CAZ      SINGLE       n     1.509  0.0200     1.509  0.0200
-2MX         CAZ         CBB      SINGLE       n     1.509  0.0200     1.509  0.0200
-2MX         CAY         CBA      SINGLE       n     1.509  0.0200     1.509  0.0200
-2MX         CBB         CBD      SINGLE       n     1.514  0.0200     1.514  0.0200
-2MX         CBA         CBC      SINGLE       n     1.509  0.0200     1.509  0.0200
-2MX         CBD         CBF      SINGLE       n     1.517  0.0143     1.517  0.0143
-2MX         CBC         CBE      SINGLE       n     1.514  0.0200     1.514  0.0200
-2MX         CBE         CBG      SINGLE       n     1.517  0.0143     1.517  0.0143
-2MX         CBF         NE2      SINGLE       n     1.456  0.0109     1.456  0.0109
-2MX         CBI         CCA      SINGLE       n     1.514  0.0100     1.514  0.0100
-2MX         CBI         CBK      SINGLE       n     1.522  0.0131     1.522  0.0131
-2MX         CBM         CCK      SINGLE       n     1.509  0.0100     1.509  0.0100
-2MX         CBM         NCW      SINGLE       n     1.461  0.0124     1.461  0.0124
-2MX         CAX         NBO      DOUBLE       y     1.319  0.0100     1.319  0.0100
-2MX         NBQ         CCG      DOUBLE       y     1.348  0.0113     1.348  0.0113
-2MX         NBS         CCQ      DOUBLE       y     1.364  0.0100     1.364  0.0100
-2MX         NBU         CCK      DOUBLE       y     1.315  0.0100     1.315  0.0100
-2MX         CBG         NBW      SINGLE       n     1.456  0.0109     1.456  0.0109
-2MX         NBY         CCE      SINGLE       n     1.337  0.0101     1.337  0.0101
-2MX         NBW         CCA      SINGLE       n     1.337  0.0118     1.337  0.0118
-2MX         CCC         CCU      SINGLE       n     1.539  0.0100     1.539  0.0100
-2MX           N         CCD      SINGLE       n     1.337  0.0101     1.337  0.0101
-2MX         CCD         CCL      SINGLE       n     1.502  0.0100     1.502  0.0100
-2MX         OAL         CCE      DOUBLE       n     1.230  0.0114     1.230  0.0114
-2MX         NBS         CCG      SINGLE       y     1.349  0.0118     1.349  0.0118
-2MX         NBQ         CCI      SINGLE       y     1.335  0.0100     1.335  0.0100
-2MX         CCI         CCS      DOUBLE       y     1.420  0.0200     1.420  0.0200
-2MX         CAX         CCK      SINGLE       y     1.410  0.0142     1.410  0.0142
-2MX         CAO         CCL      SINGLE       y     1.390  0.0100     1.390  0.0100
-2MX         CAR         CCM      SINGLE       y     1.390  0.0100     1.390  0.0100
-2MX         CCE         CCM      SINGLE       n     1.502  0.0100     1.502  0.0100
-2MX         N10         CCN      SINGLE       n     1.387  0.0137     1.387  0.0137
-2MX         CAS         CCN      SINGLE       y     1.409  0.0111     1.409  0.0111
-2MX         CAV         CCO      SINGLE       y     1.409  0.0111     1.409  0.0111
-2MX         NBO         CCQ      SINGLE       y     1.362  0.0100     1.362  0.0100
-2MX         NBU         CCS      SINGLE       y     1.370  0.0100     1.370  0.0100
-2MX         CCQ         CCS      SINGLE       y     1.410  0.0100     1.410  0.0100
-2MX         CBK         CCU      SINGLE       n     1.533  0.0100     1.533  0.0100
-2MX         NBY         CCU      SINGLE       n     1.456  0.0100     1.456  0.0100
-2MX         CAB         NCW      SINGLE       n     1.448  0.0100     1.448  0.0100
-2MX         CCO         NCW      SINGLE       n     1.387  0.0137     1.387  0.0137
-2MX          CD         OE1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-2MX          CD         NE2      SINGLE       n     1.337  0.0118     1.337  0.0118
-2MX           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-2MX           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
-2MX          N2         HN2      SINGLE       n     1.016  0.0100     0.877  0.0200
-2MX          N2        HN2A      SINGLE       n     1.016  0.0100     0.877  0.0200
-2MX          N4         HN4      SINGLE       n     1.016  0.0100     0.880  0.0200
-2MX          N4        HN4A      SINGLE       n     1.016  0.0100     0.880  0.0200
-2MX          C7          H7      SINGLE       n     1.082  0.0130     0.944  0.0200
-2MX          C9          H9      SINGLE       n     1.089  0.0100     0.981  0.0101
-2MX          C9         H9A      SINGLE       n     1.089  0.0100     0.981  0.0101
-2MX          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-2MX          CB          HB      SINGLE       n     1.089  0.0100     0.980  0.0178
-2MX          CB         HBA      SINGLE       n     1.089  0.0100     0.980  0.0178
-2MX          CG          HG      SINGLE       n     1.089  0.0100     0.981  0.0185
-2MX          CG         HGA      SINGLE       n     1.089  0.0100     0.981  0.0185
-2MX         CAA         HAA      SINGLE       n     1.089  0.0100     0.971  0.0181
-2MX         CAA        HAAA      SINGLE       n     1.089  0.0100     0.971  0.0181
-2MX         CAA        HAAB      SINGLE       n     1.089  0.0100     0.971  0.0181
-2MX         CAB         HAB      SINGLE       n     1.089  0.0100     0.971  0.0181
-2MX         CAB        HABA      SINGLE       n     1.089  0.0100     0.971  0.0181
-2MX         CAB        HABB      SINGLE       n     1.089  0.0100     0.971  0.0181
-2MX         NAD        HNAD      SINGLE       n     1.016  0.0100     0.877  0.0200
-2MX         NAD        HNAA      SINGLE       n     1.016  0.0100     0.877  0.0200
-2MX         NAF        HNAF      SINGLE       n     1.016  0.0100     0.880  0.0200
-2MX         NAF        HNAB      SINGLE       n     1.016  0.0100     0.880  0.0200
-2MX         CAO         HAO      SINGLE       n     1.082  0.0130     0.941  0.0168
-2MX         CAP         HAP      SINGLE       n     1.082  0.0130     0.941  0.0168
-2MX         CAQ         HAQ      SINGLE       n     1.082  0.0130     0.941  0.0168
-2MX         CAR         HAR      SINGLE       n     1.082  0.0130     0.941  0.0168
-2MX         CAS         HAS      SINGLE       n     1.082  0.0130     0.942  0.0198
-2MX         CAT         HAT      SINGLE       n     1.082  0.0130     0.942  0.0198
-2MX         CAU         HAU      SINGLE       n     1.082  0.0130     0.942  0.0198
-2MX         CAV         HAV      SINGLE       n     1.082  0.0130     0.942  0.0198
-2MX         CAX         HAX      SINGLE       n     1.082  0.0130     0.944  0.0200
-2MX         CAY         HAY      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CAY        HAYA      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CAZ         HAZ      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CAZ        HAZA      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBA        HBAA      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBA        HBAB      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBB         HBB      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBB        HBBA      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBC         HBC      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBC        HBCA      SINGLE       n     1.089  0.0100     0.981  0.0163
-2MX         CBD         HBD      SINGLE       n     1.089  0.0100     0.981  0.0160
-2MX         CBD        HBDA      SINGLE       n     1.089  0.0100     0.981  0.0160
-2MX         CBE         HBE      SINGLE       n     1.089  0.0100     0.981  0.0160
-2MX         CBE        HBEA      SINGLE       n     1.089  0.0100     0.981  0.0160
-2MX         CBF         HBF      SINGLE       n     1.089  0.0100     0.981  0.0152
-2MX         CBF        HBFA      SINGLE       n     1.089  0.0100     0.981  0.0152
-2MX         CBG         HBG      SINGLE       n     1.089  0.0100     0.981  0.0152
-2MX         CBG         H61      SINGLE       n     1.089  0.0100     0.981  0.0152
-2MX         CBI         HBI      SINGLE       n     1.089  0.0100     0.981  0.0185
-2MX         CBI        HBIA      SINGLE       n     1.089  0.0100     0.981  0.0185
-2MX         CBK         HBK      SINGLE       n     1.089  0.0100     0.980  0.0178
-2MX         CBK        HBKA      SINGLE       n     1.089  0.0100     0.980  0.0178
-2MX         CBM         HBM      SINGLE       n     1.089  0.0100     0.981  0.0101
-2MX         CBM        HBMA      SINGLE       n     1.089  0.0100     0.981  0.0101
-2MX         NBW         H62      SINGLE       n     1.016  0.0100     0.872  0.0200
-2MX         NBY        HNBY      SINGLE       n     1.016  0.0100     0.872  0.0200
-2MX         CCU         HCU      SINGLE       n     1.089  0.0100     0.991  0.0200
-2MX         NE2        HNE2      SINGLE       n     1.016  0.0100     0.872  0.0200
+2MX C   O    SINGLE n 1.247 0.0187 1.247 0.0187
+2MX N1  C2   DOUBLE y 1.349 0.0118 1.349 0.0118
+2MX C2  N2   SINGLE n 1.335 0.0101 1.335 0.0101
+2MX C2  N3   SINGLE y 1.348 0.0113 1.348 0.0113
+2MX N3  C4   DOUBLE y 1.335 0.0100 1.335 0.0100
+2MX C4  N4   SINGLE n 1.341 0.0100 1.341 0.0100
+2MX N5  C4A  DOUBLE y 1.370 0.0100 1.370 0.0100
+2MX N5  C6   SINGLE y 1.315 0.0100 1.315 0.0100
+2MX C6  C7   DOUBLE y 1.410 0.0142 1.410 0.0142
+2MX C7  N8   SINGLE y 1.319 0.0100 1.319 0.0100
+2MX N8  C8A  DOUBLE y 1.362 0.0100 1.362 0.0100
+2MX C6  C9   SINGLE n 1.509 0.0100 1.509 0.0100
+2MX C   CA   SINGLE n 1.539 0.0100 1.539 0.0100
+2MX N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
+2MX CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
+2MX CD  CG   SINGLE n 1.514 0.0100 1.514 0.0100
+2MX CB  CG   SINGLE n 1.522 0.0131 1.522 0.0131
+2MX C9  N10  SINGLE n 1.461 0.0124 1.461 0.0124
+2MX C4  C4A  SINGLE y 1.420 0.0200 1.420 0.0200
+2MX N1  C8A  SINGLE y 1.364 0.0100 1.364 0.0100
+2MX C4A C8A  SINGLE y 1.410 0.0100 1.410 0.0100
+2MX N10 CAA  SINGLE n 1.448 0.0100 1.448 0.0100
+2MX NAD CCG  SINGLE n 1.335 0.0101 1.335 0.0101
+2MX NAF CCI  SINGLE n 1.341 0.0100 1.341 0.0100
+2MX OAH CCA  DOUBLE n 1.229 0.0102 1.229 0.0102
+2MX OAJ CCC  SINGLE n 1.247 0.0187 1.247 0.0187
+2MX OAK CCD  DOUBLE n 1.230 0.0114 1.230 0.0114
+2MX OAN CCC  DOUBLE n 1.247 0.0187 1.247 0.0187
+2MX CAO CAS  DOUBLE y 1.379 0.0100 1.379 0.0100
+2MX CAP CCL  DOUBLE y 1.390 0.0100 1.390 0.0100
+2MX CAP CAT  SINGLE y 1.379 0.0100 1.379 0.0100
+2MX CAQ CCM  DOUBLE y 1.390 0.0100 1.390 0.0100
+2MX CAT CCN  DOUBLE y 1.409 0.0111 1.409 0.0111
+2MX CAQ CAU  SINGLE y 1.379 0.0100 1.379 0.0100
+2MX CAU CCO  DOUBLE y 1.409 0.0111 1.409 0.0111
+2MX CAR CAV  DOUBLE y 1.379 0.0100 1.379 0.0100
+2MX CAY CAZ  SINGLE n 1.509 0.0200 1.509 0.0200
+2MX CAZ CBB  SINGLE n 1.509 0.0200 1.509 0.0200
+2MX CAY CBA  SINGLE n 1.509 0.0200 1.509 0.0200
+2MX CBB CBD  SINGLE n 1.514 0.0200 1.514 0.0200
+2MX CBA CBC  SINGLE n 1.509 0.0200 1.509 0.0200
+2MX CBD CBF  SINGLE n 1.517 0.0143 1.517 0.0143
+2MX CBC CBE  SINGLE n 1.514 0.0200 1.514 0.0200
+2MX CBE CBG  SINGLE n 1.517 0.0143 1.517 0.0143
+2MX CBF NE2  SINGLE n 1.456 0.0109 1.456 0.0109
+2MX CBI CCA  SINGLE n 1.514 0.0100 1.514 0.0100
+2MX CBI CBK  SINGLE n 1.522 0.0131 1.522 0.0131
+2MX CBM CCK  SINGLE n 1.509 0.0100 1.509 0.0100
+2MX CBM NCW  SINGLE n 1.461 0.0124 1.461 0.0124
+2MX CAX NBO  DOUBLE y 1.319 0.0100 1.319 0.0100
+2MX NBQ CCG  DOUBLE y 1.348 0.0113 1.348 0.0113
+2MX NBS CCQ  DOUBLE y 1.364 0.0100 1.364 0.0100
+2MX NBU CCK  DOUBLE y 1.315 0.0100 1.315 0.0100
+2MX CBG NBW  SINGLE n 1.456 0.0109 1.456 0.0109
+2MX NBY CCE  SINGLE n 1.337 0.0101 1.337 0.0101
+2MX NBW CCA  SINGLE n 1.337 0.0118 1.337 0.0118
+2MX CCC CCU  SINGLE n 1.539 0.0100 1.539 0.0100
+2MX N   CCD  SINGLE n 1.337 0.0101 1.337 0.0101
+2MX CCD CCL  SINGLE n 1.502 0.0100 1.502 0.0100
+2MX OAL CCE  DOUBLE n 1.230 0.0114 1.230 0.0114
+2MX NBS CCG  SINGLE y 1.349 0.0118 1.349 0.0118
+2MX NBQ CCI  SINGLE y 1.335 0.0100 1.335 0.0100
+2MX CCI CCS  DOUBLE y 1.420 0.0200 1.420 0.0200
+2MX CAX CCK  SINGLE y 1.410 0.0142 1.410 0.0142
+2MX CAO CCL  SINGLE y 1.390 0.0100 1.390 0.0100
+2MX CAR CCM  SINGLE y 1.390 0.0100 1.390 0.0100
+2MX CCE CCM  SINGLE n 1.502 0.0100 1.502 0.0100
+2MX N10 CCN  SINGLE n 1.387 0.0137 1.387 0.0137
+2MX CAS CCN  SINGLE y 1.409 0.0111 1.409 0.0111
+2MX CAV CCO  SINGLE y 1.409 0.0111 1.409 0.0111
+2MX NBO CCQ  SINGLE y 1.362 0.0100 1.362 0.0100
+2MX NBU CCS  SINGLE y 1.370 0.0100 1.370 0.0100
+2MX CCQ CCS  SINGLE y 1.410 0.0100 1.410 0.0100
+2MX CBK CCU  SINGLE n 1.533 0.0100 1.533 0.0100
+2MX NBY CCU  SINGLE n 1.456 0.0100 1.456 0.0100
+2MX CAB NCW  SINGLE n 1.448 0.0100 1.448 0.0100
+2MX CCO NCW  SINGLE n 1.387 0.0137 1.387 0.0137
+2MX CD  OE1  DOUBLE n 1.229 0.0102 1.229 0.0102
+2MX CD  NE2  SINGLE n 1.337 0.0118 1.337 0.0118
+2MX C   OXT  DOUBLE n 1.247 0.0187 1.247 0.0187
+2MX N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
+2MX N2  HN2  SINGLE n 1.016 0.0100 0.877 0.0200
+2MX N2  HN2A SINGLE n 1.016 0.0100 0.877 0.0200
+2MX N4  HN4  SINGLE n 1.016 0.0100 0.880 0.0200
+2MX N4  HN4A SINGLE n 1.016 0.0100 0.880 0.0200
+2MX C7  H7   SINGLE n 1.082 0.0130 0.944 0.0200
+2MX C9  H9   SINGLE n 1.089 0.0100 0.981 0.0101
+2MX C9  H9A  SINGLE n 1.089 0.0100 0.981 0.0101
+2MX CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
+2MX CB  HB   SINGLE n 1.089 0.0100 0.980 0.0178
+2MX CB  HBA  SINGLE n 1.089 0.0100 0.980 0.0178
+2MX CG  HG   SINGLE n 1.089 0.0100 0.981 0.0185
+2MX CG  HGA  SINGLE n 1.089 0.0100 0.981 0.0185
+2MX CAA HAA  SINGLE n 1.089 0.0100 0.971 0.0181
+2MX CAA HAAA SINGLE n 1.089 0.0100 0.971 0.0181
+2MX CAA HAAB SINGLE n 1.089 0.0100 0.971 0.0181
+2MX CAB HAB  SINGLE n 1.089 0.0100 0.971 0.0181
+2MX CAB HABA SINGLE n 1.089 0.0100 0.971 0.0181
+2MX CAB HABB SINGLE n 1.089 0.0100 0.971 0.0181
+2MX NAD HNAD SINGLE n 1.016 0.0100 0.877 0.0200
+2MX NAD HNAA SINGLE n 1.016 0.0100 0.877 0.0200
+2MX NAF HNAF SINGLE n 1.016 0.0100 0.880 0.0200
+2MX NAF HNAB SINGLE n 1.016 0.0100 0.880 0.0200
+2MX CAO HAO  SINGLE n 1.082 0.0130 0.941 0.0168
+2MX CAP HAP  SINGLE n 1.082 0.0130 0.941 0.0168
+2MX CAQ HAQ  SINGLE n 1.082 0.0130 0.941 0.0168
+2MX CAR HAR  SINGLE n 1.082 0.0130 0.941 0.0168
+2MX CAS HAS  SINGLE n 1.082 0.0130 0.942 0.0198
+2MX CAT HAT  SINGLE n 1.082 0.0130 0.942 0.0198
+2MX CAU HAU  SINGLE n 1.082 0.0130 0.942 0.0198
+2MX CAV HAV  SINGLE n 1.082 0.0130 0.942 0.0198
+2MX CAX HAX  SINGLE n 1.082 0.0130 0.944 0.0200
+2MX CAY HAY  SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CAY HAYA SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CAZ HAZ  SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CAZ HAZA SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBA HBAA SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBA HBAB SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBB HBB  SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBB HBBA SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBC HBC  SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBC HBCA SINGLE n 1.089 0.0100 0.981 0.0163
+2MX CBD HBD  SINGLE n 1.089 0.0100 0.981 0.0160
+2MX CBD HBDA SINGLE n 1.089 0.0100 0.981 0.0160
+2MX CBE HBE  SINGLE n 1.089 0.0100 0.981 0.0160
+2MX CBE HBEA SINGLE n 1.089 0.0100 0.981 0.0160
+2MX CBF HBF  SINGLE n 1.089 0.0100 0.981 0.0152
+2MX CBF HBFA SINGLE n 1.089 0.0100 0.981 0.0152
+2MX CBG HBG  SINGLE n 1.089 0.0100 0.981 0.0152
+2MX CBG H61  SINGLE n 1.089 0.0100 0.981 0.0152
+2MX CBI HBI  SINGLE n 1.089 0.0100 0.981 0.0185
+2MX CBI HBIA SINGLE n 1.089 0.0100 0.981 0.0185
+2MX CBK HBK  SINGLE n 1.089 0.0100 0.980 0.0178
+2MX CBK HBKA SINGLE n 1.089 0.0100 0.980 0.0178
+2MX CBM HBM  SINGLE n 1.089 0.0100 0.981 0.0101
+2MX CBM HBMA SINGLE n 1.089 0.0100 0.981 0.0101
+2MX NBW H62  SINGLE n 1.016 0.0100 0.872 0.0200
+2MX NBY HNBY SINGLE n 1.016 0.0100 0.872 0.0200
+2MX CCU HCU  SINGLE n 1.089 0.0100 0.991 0.0200
+2MX NE2 HNE2 SINGLE n 1.016 0.0100 0.872 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -313,248 +313,249 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-2MX           O           C          CA     117.249    1.61
-2MX           O           C         OXT     125.502    1.50
-2MX          CA           C         OXT     117.249    1.61
-2MX          CA           N         CCD     122.253    1.50
-2MX          CA           N          HN     118.320    2.24
-2MX         CCD           N          HN     119.427    1.94
-2MX          C2          N1         C8A     117.729    1.50
-2MX          N1          C2          N2     117.847    1.50
-2MX          N1          C2          N3     124.310    1.50
-2MX          N2          C2          N3     117.843    1.50
-2MX          C2          N2         HN2     119.843    1.50
-2MX          C2          N2        HN2A     119.843    1.50
-2MX         HN2          N2        HN2A     120.314    1.96
-2MX          C2          N3          C4     118.040    1.50
-2MX          N3          C4          N4     119.336    1.50
-2MX          N3          C4         C4A     119.854    1.50
-2MX          N4          C4         C4A     120.810    2.28
-2MX          C4          N4         HN4     119.904    1.50
-2MX          C4          N4        HN4A     119.904    1.50
-2MX         HN4          N4        HN4A     120.193    1.50
-2MX         C4A          N5          C6     118.081    1.50
-2MX          N5          C6          C7     121.047    1.50
-2MX          N5          C6          C9     117.726    1.50
-2MX          C7          C6          C9     121.228    1.56
-2MX          C6          C7          N8     121.921    1.50
-2MX          C6          C7          H7     119.362    1.50
-2MX          N8          C7          H7     118.717    1.50
-2MX          C7          N8         C8A     117.033    1.50
-2MX          C6          C9         N10     112.551    2.18
-2MX          C6          C9          H9     108.707    1.50
-2MX          C6          C9         H9A     108.707    1.50
-2MX         N10          C9          H9     108.670    1.50
-2MX         N10          C9         H9A     108.670    1.50
-2MX          H9          C9         H9A     107.525    1.50
-2MX           C          CA           N     110.522    1.86
-2MX           C          CA          CB     111.638    2.31
-2MX           C          CA          HA     108.327    1.50
-2MX           N          CA          CB     110.984    1.61
-2MX           N          CA          HA     107.930    1.50
-2MX          CB          CA          HA     108.155    1.50
-2MX          CA          CB          CG     113.079    1.50
-2MX          CA          CB          HB     108.606    1.50
-2MX          CA          CB         HBA     108.606    1.50
-2MX          CG          CB          HB     109.107    1.50
-2MX          CG          CB         HBA     109.107    1.50
-2MX          HB          CB         HBA     107.844    1.50
-2MX          CG          CD         OE1     121.774    1.50
-2MX          CG          CD         NE2     116.579    1.50
-2MX         OE1          CD         NE2     121.647    1.50
-2MX          CD          CG          CB     111.900    2.98
-2MX          CD          CG          HG     108.930    1.50
-2MX          CD          CG         HGA     108.930    1.50
-2MX          CB          CG          HG     109.204    1.50
-2MX          CB          CG         HGA     109.204    1.50
-2MX          HG          CG         HGA     107.846    1.50
-2MX          C9         N10         CAA     117.461    1.50
-2MX          C9         N10         CCN     121.386    1.50
-2MX         CAA         N10         CCN     121.153    1.50
-2MX          N5         C4A          C4     119.974    1.50
-2MX          N5         C4A         C8A     120.874    1.50
-2MX          C4         C4A         C8A     119.153    1.50
-2MX          N8         C8A          N1     118.042    1.50
-2MX          N8         C8A         C4A     121.044    1.50
-2MX          N1         C8A         C4A     120.914    1.50
-2MX         N10         CAA         HAA     109.457    1.50
-2MX         N10         CAA        HAAA     109.457    1.50
-2MX         N10         CAA        HAAB     109.457    1.50
-2MX         HAA         CAA        HAAA     109.352    1.56
-2MX         HAA         CAA        HAAB     109.352    1.56
-2MX        HAAA         CAA        HAAB     109.352    1.56
-2MX         NCW         CAB         HAB     109.457    1.50
-2MX         NCW         CAB        HABA     109.457    1.50
-2MX         NCW         CAB        HABB     109.457    1.50
-2MX         HAB         CAB        HABA     109.352    1.56
-2MX         HAB         CAB        HABB     109.352    1.56
-2MX        HABA         CAB        HABB     109.352    1.56
-2MX         CCG         NAD        HNAD     119.843    1.50
-2MX         CCG         NAD        HNAA     119.843    1.50
-2MX        HNAD         NAD        HNAA     120.314    1.96
-2MX         CCI         NAF        HNAF     119.904    1.50
-2MX         CCI         NAF        HNAB     119.904    1.50
-2MX        HNAF         NAF        HNAB     120.193    1.50
-2MX         CAS         CAO         CCL     120.730    1.50
-2MX         CAS         CAO         HAO     119.420    1.50
-2MX         CCL         CAO         HAO     119.851    1.50
-2MX         CCL         CAP         CAT     120.730    1.50
-2MX         CCL         CAP         HAP     119.851    1.50
-2MX         CAT         CAP         HAP     119.420    1.50
-2MX         CCM         CAQ         CAU     120.730    1.50
-2MX         CCM         CAQ         HAQ     119.851    1.50
-2MX         CAU         CAQ         HAQ     119.420    1.50
-2MX         CAV         CAR         CCM     120.730    1.50
-2MX         CAV         CAR         HAR     119.420    1.50
-2MX         CCM         CAR         HAR     119.851    1.50
-2MX         CAO         CAS         CCN     120.965    1.50
-2MX         CAO         CAS         HAS     119.753    1.50
-2MX         CCN         CAS         HAS     119.282    1.50
-2MX         CAP         CAT         CCN     120.965    1.50
-2MX         CAP         CAT         HAT     119.753    1.50
-2MX         CCN         CAT         HAT     119.282    1.50
-2MX         CAQ         CAU         CCO     120.965    1.50
-2MX         CAQ         CAU         HAU     119.753    1.50
-2MX         CCO         CAU         HAU     119.282    1.50
-2MX         CAR         CAV         CCO     120.965    1.50
-2MX         CAR         CAV         HAV     119.753    1.50
-2MX         CCO         CAV         HAV     119.282    1.50
-2MX         NBO         CAX         CCK     121.921    1.50
-2MX         NBO         CAX         HAX     118.717    1.50
-2MX         CCK         CAX         HAX     119.362    1.50
-2MX         CAZ         CAY         CBA     114.243    1.69
-2MX         CAZ         CAY         HAY     108.698    1.50
-2MX         CAZ         CAY        HAYA     108.698    1.50
-2MX         CBA         CAY         HAY     108.698    1.50
-2MX         CBA         CAY        HAYA     108.698    1.50
-2MX         HAY         CAY        HAYA     107.646    1.50
-2MX         CAY         CAZ         CBB     114.243    1.69
-2MX         CAY         CAZ         HAZ     108.698    1.50
-2MX         CAY         CAZ        HAZA     108.698    1.50
-2MX         CBB         CAZ         HAZ     108.698    1.50
-2MX         CBB         CAZ        HAZA     108.698    1.50
-2MX         HAZ         CAZ        HAZA     107.646    1.50
-2MX         CAY         CBA         CBC     114.243    1.69
-2MX         CAY         CBA        HBAA     108.698    1.50
-2MX         CAY         CBA        HBAB     108.698    1.50
-2MX         CBC         CBA        HBAA     108.698    1.50
-2MX         CBC         CBA        HBAB     108.698    1.50
-2MX        HBAA         CBA        HBAB     107.646    1.50
-2MX         CAZ         CBB         CBD     113.853    2.32
-2MX         CAZ         CBB         HBB     108.698    1.50
-2MX         CAZ         CBB        HBBA     108.698    1.50
-2MX         CBD         CBB         HBB     108.806    1.50
-2MX         CBD         CBB        HBBA     108.806    1.50
-2MX         HBB         CBB        HBBA     107.646    1.50
-2MX         CBA         CBC         CBE     113.853    2.32
-2MX         CBA         CBC         HBC     108.698    1.50
-2MX         CBA         CBC        HBCA     108.698    1.50
-2MX         CBE         CBC         HBC     108.806    1.50
-2MX         CBE         CBC        HBCA     108.806    1.50
-2MX         HBC         CBC        HBCA     107.646    1.50
-2MX         CBB         CBD         CBF     113.159    3.00
-2MX         CBB         CBD         HBD     109.041    1.50
-2MX         CBB         CBD        HBDA     109.041    1.50
-2MX         CBF         CBD         HBD     108.956    1.50
-2MX         CBF         CBD        HBDA     108.956    1.50
-2MX         HBD         CBD        HBDA     107.927    1.57
-2MX         CBC         CBE         CBG     113.159    3.00
-2MX         CBC         CBE         HBE     109.041    1.50
-2MX         CBC         CBE        HBEA     109.041    1.50
-2MX         CBG         CBE         HBE     108.956    1.50
-2MX         CBG         CBE        HBEA     108.956    1.50
-2MX         HBE         CBE        HBEA     107.927    1.57
-2MX         CBD         CBF         NE2     112.624    1.50
-2MX         CBD         CBF         HBF     109.197    1.51
-2MX         CBD         CBF        HBFA     109.197    1.51
-2MX         NE2         CBF         HBF     108.979    1.50
-2MX         NE2         CBF        HBFA     108.979    1.50
-2MX         HBF         CBF        HBFA     107.877    1.50
-2MX         CBE         CBG         NBW     112.624    1.50
-2MX         CBE         CBG         HBG     109.197    1.51
-2MX         CBE         CBG         H61     109.197    1.51
-2MX         NBW         CBG         HBG     108.979    1.50
-2MX         NBW         CBG         H61     108.979    1.50
-2MX         HBG         CBG         H61     107.877    1.50
-2MX         CCA         CBI         CBK     111.900    2.98
-2MX         CCA         CBI         HBI     108.930    1.50
-2MX         CCA         CBI        HBIA     108.930    1.50
-2MX         CBK         CBI         HBI     109.204    1.50
-2MX         CBK         CBI        HBIA     109.204    1.50
-2MX         HBI         CBI        HBIA     107.846    1.50
-2MX         CBI         CBK         CCU     113.079    1.50
-2MX         CBI         CBK         HBK     109.107    1.50
-2MX         CBI         CBK        HBKA     109.107    1.50
-2MX         CCU         CBK         HBK     108.606    1.50
-2MX         CCU         CBK        HBKA     108.606    1.50
-2MX         HBK         CBK        HBKA     107.844    1.50
-2MX         CCK         CBM         NCW     112.551    2.18
-2MX         CCK         CBM         HBM     108.707    1.50
-2MX         CCK         CBM        HBMA     108.707    1.50
-2MX         NCW         CBM         HBM     108.670    1.50
-2MX         NCW         CBM        HBMA     108.670    1.50
-2MX         HBM         CBM        HBMA     107.525    1.50
-2MX         CAX         NBO         CCQ     117.033    1.50
-2MX         CCG         NBQ         CCI     118.040    1.50
-2MX         CCQ         NBS         CCG     117.729    1.50
-2MX         CCK         NBU         CCS     118.081    1.50
-2MX         CBG         NBW         CCA     124.480    2.27
-2MX         CBG         NBW         H62     118.241    1.90
-2MX         CCA         NBW         H62     117.279    2.10
-2MX         CCE         NBY         CCU     122.253    1.50
-2MX         CCE         NBY        HNBY     119.427    1.94
-2MX         CCU         NBY        HNBY     118.320    2.24
-2MX         OAH         CCA         CBI     121.774    1.50
-2MX         OAH         CCA         NBW     121.647    1.50
-2MX         CBI         CCA         NBW     116.579    1.50
-2MX         OAJ         CCC         OAN     125.502    1.50
-2MX         OAJ         CCC         CCU     117.249    1.61
-2MX         OAN         CCC         CCU     117.249    1.61
-2MX         OAK         CCD           N     122.394    1.50
-2MX         OAK         CCD         CCL     120.865    1.50
-2MX           N         CCD         CCL     116.740    1.50
-2MX         NBY         CCE         OAL     122.394    1.50
-2MX         NBY         CCE         CCM     116.740    1.50
-2MX         OAL         CCE         CCM     120.865    1.50
-2MX         NAD         CCG         NBQ     117.843    1.50
-2MX         NAD         CCG         NBS     117.847    1.50
-2MX         NBQ         CCG         NBS     124.310    1.50
-2MX         NAF         CCI         NBQ     119.336    1.50
-2MX         NAF         CCI         CCS     120.810    2.28
-2MX         NBQ         CCI         CCS     119.854    1.50
-2MX         CBM         CCK         NBU     117.726    1.50
-2MX         CBM         CCK         CAX     121.228    1.56
-2MX         NBU         CCK         CAX     121.047    1.50
-2MX         CAP         CCL         CCD     120.546    2.80
-2MX         CAP         CCL         CAO     118.909    1.50
-2MX         CCD         CCL         CAO     120.546    2.80
-2MX         CAQ         CCM         CAR     118.909    1.50
-2MX         CAQ         CCM         CCE     120.546    2.80
-2MX         CAR         CCM         CCE     120.546    2.80
-2MX         CAT         CCN         N10     121.149    1.50
-2MX         CAT         CCN         CAS     117.702    1.50
-2MX         N10         CCN         CAS     121.149    1.50
-2MX         CAU         CCO         CAV     117.702    1.50
-2MX         CAU         CCO         NCW     121.149    1.50
-2MX         CAV         CCO         NCW     121.149    1.50
-2MX         NBS         CCQ         NBO     118.042    1.50
-2MX         NBS         CCQ         CCS     120.914    1.50
-2MX         NBO         CCQ         CCS     121.044    1.50
-2MX         CCI         CCS         NBU     119.974    1.50
-2MX         CCI         CCS         CCQ     119.153    1.50
-2MX         NBU         CCS         CCQ     120.874    1.50
-2MX         CCC         CCU         CBK     111.638    2.31
-2MX         CCC         CCU         NBY     110.522    1.86
-2MX         CCC         CCU         HCU     108.327    1.50
-2MX         CBK         CCU         NBY     110.984    1.61
-2MX         CBK         CCU         HCU     108.155    1.50
-2MX         NBY         CCU         HCU     107.930    1.50
-2MX         CBM         NCW         CAB     117.461    1.50
-2MX         CBM         NCW         CCO     121.386    1.50
-2MX         CAB         NCW         CCO     121.153    1.50
-2MX         CBF         NE2          CD     124.480    2.27
-2MX         CBF         NE2        HNE2     118.241    1.90
-2MX          CD         NE2        HNE2     117.279    2.10
+2MX O    C   CA   117.249 1.61
+2MX O    C   OXT  125.502 1.50
+2MX CA   C   OXT  117.249 1.61
+2MX CA   N   CCD  122.253 1.50
+2MX CA   N   HN   118.320 2.24
+2MX CCD  N   HN   119.427 1.94
+2MX C2   N1  C8A  117.729 1.50
+2MX N1   C2  N2   117.847 1.50
+2MX N1   C2  N3   124.310 1.50
+2MX N2   C2  N3   117.843 1.50
+2MX C2   N2  HN2  119.843 1.50
+2MX C2   N2  HN2A 119.843 1.50
+2MX HN2  N2  HN2A 120.314 1.96
+2MX C2   N3  C4   118.040 1.50
+2MX N3   C4  N4   119.336 1.50
+2MX N3   C4  C4A  119.854 1.50
+2MX N4   C4  C4A  120.810 2.28
+2MX C4   N4  HN4  119.904 1.50
+2MX C4   N4  HN4A 119.904 1.50
+2MX HN4  N4  HN4A 120.193 1.50
+2MX C4A  N5  C6   118.081 1.50
+2MX N5   C6  C7   121.047 1.50
+2MX N5   C6  C9   117.726 1.50
+2MX C7   C6  C9   121.228 1.56
+2MX C6   C7  N8   121.921 1.50
+2MX C6   C7  H7   119.362 1.50
+2MX N8   C7  H7   118.717 1.50
+2MX C7   N8  C8A  117.033 1.50
+2MX C6   C9  N10  112.551 2.18
+2MX C6   C9  H9   108.707 1.50
+2MX C6   C9  H9A  108.707 1.50
+2MX N10  C9  H9   108.670 1.50
+2MX N10  C9  H9A  108.670 1.50
+2MX H9   C9  H9A  107.525 1.50
+2MX C    CA  N    110.522 1.86
+2MX C    CA  CB   111.638 2.31
+2MX C    CA  HA   108.327 1.50
+2MX N    CA  CB   110.984 1.61
+2MX N    CA  HA   107.930 1.50
+2MX CB   CA  HA   108.155 1.50
+2MX CA   CB  CG   113.079 1.50
+2MX CA   CB  HB   108.606 1.50
+2MX CA   CB  HBA  108.606 1.50
+2MX CG   CB  HB   109.107 1.50
+2MX CG   CB  HBA  109.107 1.50
+2MX HB   CB  HBA  107.844 1.50
+2MX CG   CD  OE1  121.774 1.50
+2MX CG   CD  NE2  116.579 1.50
+2MX OE1  CD  NE2  121.647 1.50
+2MX CD   CG  CB   111.900 2.98
+2MX CD   CG  HG   108.930 1.50
+2MX CD   CG  HGA  108.930 1.50
+2MX CB   CG  HG   109.204 1.50
+2MX CB   CG  HGA  109.204 1.50
+2MX HG   CG  HGA  107.846 1.50
+2MX C9   N10 CAA  117.461 1.50
+2MX C9   N10 CCN  121.386 1.50
+2MX CAA  N10 CCN  121.153 1.50
+2MX N5   C4A C4   119.974 1.50
+2MX N5   C4A C8A  120.874 1.50
+2MX C4   C4A C8A  119.153 1.50
+2MX N8   C8A N1   118.042 1.50
+2MX N8   C8A C4A  121.044 1.50
+2MX N1   C8A C4A  120.914 1.50
+2MX N10  CAA HAA  109.457 1.50
+2MX N10  CAA HAAA 109.457 1.50
+2MX N10  CAA HAAB 109.457 1.50
+2MX HAA  CAA HAAA 109.352 1.56
+2MX HAA  CAA HAAB 109.352 1.56
+2MX HAAA CAA HAAB 109.352 1.56
+2MX NCW  CAB HAB  109.457 1.50
+2MX NCW  CAB HABA 109.457 1.50
+2MX NCW  CAB HABB 109.457 1.50
+2MX HAB  CAB HABA 109.352 1.56
+2MX HAB  CAB HABB 109.352 1.56
+2MX HABA CAB HABB 109.352 1.56
+2MX CCG  NAD HNAD 119.843 1.50
+2MX CCG  NAD HNAA 119.843 1.50
+2MX HNAD NAD HNAA 120.314 1.96
+2MX CCI  NAF HNAF 119.904 1.50
+2MX CCI  NAF HNAB 119.904 1.50
+2MX HNAF NAF HNAB 120.193 1.50
+2MX CAS  CAO CCL  120.730 1.50
+2MX CAS  CAO HAO  119.420 1.50
+2MX CCL  CAO HAO  119.851 1.50
+2MX CCL  CAP CAT  120.730 1.50
+2MX CCL  CAP HAP  119.851 1.50
+2MX CAT  CAP HAP  119.420 1.50
+2MX CCM  CAQ CAU  120.730 1.50
+2MX CCM  CAQ HAQ  119.851 1.50
+2MX CAU  CAQ HAQ  119.420 1.50
+2MX CAV  CAR CCM  120.730 1.50
+2MX CAV  CAR HAR  119.420 1.50
+2MX CCM  CAR HAR  119.851 1.50
+2MX CAO  CAS CCN  120.965 1.50
+2MX CAO  CAS HAS  119.753 1.50
+2MX CCN  CAS HAS  119.282 1.50
+2MX CAP  CAT CCN  120.965 1.50
+2MX CAP  CAT HAT  119.753 1.50
+2MX CCN  CAT HAT  119.282 1.50
+2MX CAQ  CAU CCO  120.965 1.50
+2MX CAQ  CAU HAU  119.753 1.50
+2MX CCO  CAU HAU  119.282 1.50
+2MX CAR  CAV CCO  120.965 1.50
+2MX CAR  CAV HAV  119.753 1.50
+2MX CCO  CAV HAV  119.282 1.50
+2MX NBO  CAX CCK  121.921 1.50
+2MX NBO  CAX HAX  118.717 1.50
+2MX CCK  CAX HAX  119.362 1.50
+2MX CAZ  CAY CBA  114.243 1.69
+2MX CAZ  CAY HAY  108.698 1.50
+2MX CAZ  CAY HAYA 108.698 1.50
+2MX CBA  CAY HAY  108.698 1.50
+2MX CBA  CAY HAYA 108.698 1.50
+2MX HAY  CAY HAYA 107.646 1.50
+2MX CAY  CAZ CBB  114.243 1.69
+2MX CAY  CAZ HAZ  108.698 1.50
+2MX CAY  CAZ HAZA 108.698 1.50
+2MX CBB  CAZ HAZ  108.698 1.50
+2MX CBB  CAZ HAZA 108.698 1.50
+2MX HAZ  CAZ HAZA 107.646 1.50
+2MX CAY  CBA CBC  114.243 1.69
+2MX CAY  CBA HBAA 108.698 1.50
+2MX CAY  CBA HBAB 108.698 1.50
+2MX CBC  CBA HBAA 108.698 1.50
+2MX CBC  CBA HBAB 108.698 1.50
+2MX HBAA CBA HBAB 107.646 1.50
+2MX CAZ  CBB CBD  113.853 2.32
+2MX CAZ  CBB HBB  108.698 1.50
+2MX CAZ  CBB HBBA 108.698 1.50
+2MX CBD  CBB HBB  108.806 1.50
+2MX CBD  CBB HBBA 108.806 1.50
+2MX HBB  CBB HBBA 107.646 1.50
+2MX CBA  CBC CBE  113.853 2.32
+2MX CBA  CBC HBC  108.698 1.50
+2MX CBA  CBC HBCA 108.698 1.50
+2MX CBE  CBC HBC  108.806 1.50
+2MX CBE  CBC HBCA 108.806 1.50
+2MX HBC  CBC HBCA 107.646 1.50
+2MX CBB  CBD CBF  113.159 3.00
+2MX CBB  CBD HBD  109.041 1.50
+2MX CBB  CBD HBDA 109.041 1.50
+2MX CBF  CBD HBD  108.956 1.50
+2MX CBF  CBD HBDA 108.956 1.50
+2MX HBD  CBD HBDA 107.927 1.57
+2MX CBC  CBE CBG  113.159 3.00
+2MX CBC  CBE HBE  109.041 1.50
+2MX CBC  CBE HBEA 109.041 1.50
+2MX CBG  CBE HBE  108.956 1.50
+2MX CBG  CBE HBEA 108.956 1.50
+2MX HBE  CBE HBEA 107.927 1.57
+2MX CBD  CBF NE2  112.624 1.50
+2MX CBD  CBF HBF  109.197 1.51
+2MX CBD  CBF HBFA 109.197 1.51
+2MX NE2  CBF HBF  108.979 1.50
+2MX NE2  CBF HBFA 108.979 1.50
+2MX HBF  CBF HBFA 107.877 1.50
+2MX CBE  CBG NBW  112.624 1.50
+2MX CBE  CBG HBG  109.197 1.51
+2MX CBE  CBG H61  109.197 1.51
+2MX NBW  CBG HBG  108.979 1.50
+2MX NBW  CBG H61  108.979 1.50
+2MX HBG  CBG H61  107.877 1.50
+2MX CCA  CBI CBK  111.900 2.98
+2MX CCA  CBI HBI  108.930 1.50
+2MX CCA  CBI HBIA 108.930 1.50
+2MX CBK  CBI HBI  109.204 1.50
+2MX CBK  CBI HBIA 109.204 1.50
+2MX HBI  CBI HBIA 107.846 1.50
+2MX CBI  CBK CCU  113.079 1.50
+2MX CBI  CBK HBK  109.107 1.50
+2MX CBI  CBK HBKA 109.107 1.50
+2MX CCU  CBK HBK  108.606 1.50
+2MX CCU  CBK HBKA 108.606 1.50
+2MX HBK  CBK HBKA 107.844 1.50
+2MX CCK  CBM NCW  112.551 2.18
+2MX CCK  CBM HBM  108.707 1.50
+2MX CCK  CBM HBMA 108.707 1.50
+2MX NCW  CBM HBM  108.670 1.50
+2MX NCW  CBM HBMA 108.670 1.50
+2MX HBM  CBM HBMA 107.525 1.50
+2MX CAX  NBO CCQ  117.033 1.50
+2MX CCG  NBQ CCI  118.040 1.50
+2MX CCQ  NBS CCG  117.729 1.50
+2MX CCK  NBU CCS  118.081 1.50
+2MX CBG  NBW CCA  124.480 2.27
+2MX CBG  NBW H62  118.241 1.90
+2MX CCA  NBW H62  117.279 2.10
+2MX CCE  NBY CCU  122.253 1.50
+2MX CCE  NBY HNBY 119.427 1.94
+2MX CCU  NBY HNBY 118.320 2.24
+2MX OAH  CCA CBI  121.774 1.50
+2MX OAH  CCA NBW  121.647 1.50
+2MX CBI  CCA NBW  116.579 1.50
+2MX OAJ  CCC OAN  125.502 1.50
+2MX OAJ  CCC CCU  117.249 1.61
+2MX OAN  CCC CCU  117.249 1.61
+2MX OAK  CCD N    122.394 1.50
+2MX OAK  CCD CCL  120.865 1.50
+2MX N    CCD CCL  116.740 1.50
+2MX NBY  CCE OAL  122.394 1.50
+2MX NBY  CCE CCM  116.740 1.50
+2MX OAL  CCE CCM  120.865 1.50
+2MX NAD  CCG NBQ  117.843 1.50
+2MX NAD  CCG NBS  117.847 1.50
+2MX NBQ  CCG NBS  124.310 1.50
+2MX NAF  CCI NBQ  119.336 1.50
+2MX NAF  CCI CCS  120.810 2.28
+2MX NBQ  CCI CCS  119.854 1.50
+2MX CBM  CCK NBU  117.726 1.50
+2MX CBM  CCK CAX  121.228 1.56
+2MX NBU  CCK CAX  121.047 1.50
+2MX CAP  CCL CCD  120.546 2.80
+2MX CAP  CCL CAO  118.909 1.50
+2MX CCD  CCL CAO  120.546 2.80
+2MX CAQ  CCM CAR  118.909 1.50
+2MX CAQ  CCM CCE  120.546 2.80
+2MX CAR  CCM CCE  120.546 2.80
+2MX CAT  CCN N10  121.149 1.50
+2MX CAT  CCN CAS  117.702 1.50
+2MX N10  CCN CAS  121.149 1.50
+2MX CAU  CCO CAV  117.702 1.50
+2MX CAU  CCO NCW  121.149 1.50
+2MX CAV  CCO NCW  121.149 1.50
+2MX NBS  CCQ NBO  118.042 1.50
+2MX NBS  CCQ CCS  120.914 1.50
+2MX NBO  CCQ CCS  121.044 1.50
+2MX CCI  CCS NBU  119.974 1.50
+2MX CCI  CCS CCQ  119.153 1.50
+2MX NBU  CCS CCQ  120.874 1.50
+2MX CCC  CCU CBK  111.638 2.31
+2MX CCC  CCU NBY  110.522 1.86
+2MX CCC  CCU HCU  108.327 1.50
+2MX CBK  CCU NBY  110.984 1.61
+2MX CBK  CCU HCU  108.155 1.50
+2MX NBY  CCU HCU  107.930 1.50
+2MX CBM  NCW CAB  117.461 1.50
+2MX CBM  NCW CCO  121.386 1.50
+2MX CAB  NCW CCO  121.153 1.50
+2MX CBF  NE2 CD   124.480 2.27
+2MX CBF  NE2 HNE2 118.241 1.90
+2MX CD   NE2 HNE2 117.279 2.10
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -565,78 +566,79 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-2MX             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-2MX              const_23          C9          C6          C7          N8     180.000    10.0     2
-2MX             sp2_sp3_2          N5          C6          C9         N10     -90.000    10.0     6
-2MX              const_19          C6          C7          N8         C8A       0.000    10.0     2
-2MX              const_18          N1         C8A          N8          C7     180.000    10.0     2
-2MX            sp2_sp3_26         CAA         N10          C9          C6     120.000    10.0     6
-2MX             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
-2MX            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-2MX            sp2_sp3_20         OE1          CD          CG          CB     120.000    10.0     6
-2MX            sp2_sp2_45          CG          CD         NE2         CBF     180.000     5.0     2
-2MX            sp2_sp3_31          C9         N10         CAA         HAA       0.000    10.0     6
-2MX            sp2_sp2_37         CAT         CCN         N10          C9     180.000     5.0     2
-2MX              const_11          N5         C4A         C8A          N8       0.000    10.0     2
-2MX            sp2_sp3_13         CCD           N          CA           C       0.000    10.0     6
-2MX            sp2_sp2_27         OAK         CCD           N          CA       0.000     5.0     2
-2MX            sp2_sp3_79         CBM         NCW         CAB         HAB       0.000    10.0     6
-2MX             sp2_sp2_9         NBQ         CCG         NAD        HNAD     180.000     5.0     2
-2MX            sp2_sp2_15         NBQ         CCI         NAF        HNAF       0.000     5.0     2
-2MX              const_25         CCL         CAO         CAS         CCN       0.000    10.0     2
-2MX             const_102         CAS         CAO         CCL         CCD     180.000    10.0     2
-2MX              const_37         CCL         CAP         CAT         CCN       0.000    10.0     2
-2MX              const_42         CAT         CAP         CCL         CCD     180.000    10.0     2
-2MX              const_91         CCM         CAQ         CAU         CCO       0.000    10.0     2
-2MX              const_46         CAU         CAQ         CCM         CCE     180.000    10.0     2
-2MX              const_53         CCM         CAR         CAV         CCO       0.000    10.0     2
-2MX              const_50         CAV         CAR         CCM         CCE     180.000    10.0     2
-2MX              const_30         CAO         CAS         CCN         N10     180.000    10.0     2
-2MX              const_34         CAP         CAT         CCN         N10     180.000    10.0     2
-2MX              const_62         CAQ         CAU         CCO         NCW     180.000    10.0     2
-2MX              const_58         CAR         CAV         CCO         NCW     180.000    10.0     2
-2MX              const_65         CCK         CAX         NBO         CCQ       0.000    10.0     2
-2MX              const_98         NBO         CAX         CCK         CBM     180.000    10.0     2
-2MX            sp3_sp3_19         CBA         CAY         CAZ         CBB     180.000    10.0     3
-2MX            sp3_sp3_37         CAZ         CAY         CBA         CBC     180.000    10.0     3
-2MX              const_90          N8         C8A          N1          C2     180.000    10.0     2
-2MX       const_sp2_sp2_2          N2          C2          N1         C8A     180.000     5.0     2
-2MX            sp3_sp3_28         CAY         CAZ         CBB         CBD     180.000    10.0     3
-2MX            sp3_sp3_55         CAY         CBA         CBC         CBE     180.000    10.0     3
-2MX            sp3_sp3_46         CAZ         CBB         CBD         CBF     180.000    10.0     3
-2MX            sp3_sp3_73         CBA         CBC         CBE         CBG     180.000    10.0     3
-2MX            sp3_sp3_64         CBB         CBD         CBF         NE2     180.000    10.0     3
-2MX            sp3_sp3_82         CBC         CBE         CBG         NBW     180.000    10.0     3
-2MX            sp2_sp3_38          CD         NE2         CBF         CBD     120.000    10.0     6
-2MX            sp2_sp3_62         CCA         NBW         CBG         CBE     120.000    10.0     6
-2MX            sp3_sp3_91         CCA         CBI         CBK         CCU     180.000    10.0     3
-2MX            sp2_sp3_44         OAH         CCA         CBI         CBK     120.000    10.0     6
-2MX           sp3_sp3_100         CBI         CBK         CCU         CCC     180.000    10.0     3
-2MX             sp2_sp2_1          N1          C2          N2         HN2     180.000     5.0     2
-2MX       const_sp2_sp2_4          N2          C2          N3          C4     180.000     5.0     2
-2MX            sp2_sp3_50         NBU         CCK         CBM         NCW     -90.000    10.0     6
-2MX            sp2_sp3_56         CAB         NCW         CBM         CCK     120.000    10.0     6
-2MX              const_68         NBS         CCQ         NBO         CAX     180.000    10.0     2
-2MX              const_78         NAD         CCG         NBQ         CCI     180.000    10.0     2
-2MX              const_96         NAF         CCI         NBQ         CCG     180.000    10.0     2
-2MX              const_80         NAD         CCG         NBS         CCQ     180.000    10.0     2
-2MX              const_82         NBO         CCQ         NBS         CCG     180.000    10.0     2
-2MX              const_76         CBM         CCK         NBU         CCS     180.000    10.0     2
-2MX              const_74         CCI         CCS         NBU         CCK     180.000    10.0     2
-2MX            sp2_sp2_23         OAH         CCA         NBW         CBG       0.000     5.0     2
-2MX            sp2_sp2_19         OAL         CCE         NBY         CCU       0.000     5.0     2
-2MX            sp2_sp3_73         CCE         NBY         CCU         CCC       0.000    10.0     6
-2MX            sp2_sp3_67         OAJ         CCC         CCU         CBK       0.000    10.0     6
-2MX            sp2_sp2_31         OAK         CCD         CCL         CAP       0.000     5.0     2
-2MX            sp2_sp2_33         NBY         CCE         CCM         CAQ     180.000     5.0     2
-2MX              const_86         NAF         CCI         CCS         NBU       0.000    10.0     2
-2MX            sp2_sp2_41         CAU         CCO         NCW         CBM     180.000     5.0     2
-2MX              const_69         NBS         CCQ         CCS         CCI       0.000    10.0     2
-2MX       const_sp2_sp2_6          N4          C4          N3          C2     180.000     5.0     2
-2MX              const_10          N4          C4         C4A          N5       0.000    10.0     2
-2MX             sp2_sp2_7          N3          C4          N4         HN4       0.000     5.0     2
-2MX              const_88          C9          C6          N5         C4A     180.000    10.0     2
-2MX              const_16          C4         C4A          N5          C6     180.000    10.0     2
+2MX sp2_sp3_7       O   C   CA  N    0.000   10.0 6
+2MX const_23        C9  C6  C7  N8   180.000 10.0 2
+2MX sp2_sp3_2       N5  C6  C9  N10  -90.000 10.0 6
+2MX const_19        C6  C7  N8  C8A  0.000   10.0 2
+2MX const_18        N1  C8A N8  C7   180.000 10.0 2
+2MX sp2_sp3_26      CAA N10 C9  C6   120.000 10.0 6
+2MX sp3_sp3_1       C   CA  CB  CG   180.000 10.0 3
+2MX sp3_sp3_10      CA  CB  CG  CD   180.000 10.0 3
+2MX sp2_sp3_20      OE1 CD  CG  CB   120.000 10.0 6
+2MX sp2_sp2_45      CG  CD  NE2 CBF  180.000 5.0  2
+2MX sp2_sp3_31      C9  N10 CAA HAA  0.000   10.0 6
+2MX sp2_sp2_37      CAT CCN N10 C9   180.000 5.0  2
+2MX const_11        N5  C4A C8A N8   0.000   10.0 2
+2MX sp2_sp3_13      CCD N   CA  C    0.000   10.0 6
+2MX sp2_sp2_27      OAK CCD N   CA   0.000   5.0  2
+2MX sp2_sp3_79      CBM NCW CAB HAB  0.000   10.0 6
+2MX sp2_sp2_9       NBQ CCG NAD HNAD 180.000 5.0  2
+2MX sp2_sp2_15      NBQ CCI NAF HNAF 0.000   5.0  2
+2MX const_25        CCL CAO CAS CCN  0.000   10.0 2
+2MX const_102       CAS CAO CCL CCD  180.000 10.0 2
+2MX const_37        CCL CAP CAT CCN  0.000   10.0 2
+2MX const_42        CAT CAP CCL CCD  180.000 10.0 2
+2MX const_91        CCM CAQ CAU CCO  0.000   10.0 2
+2MX const_46        CAU CAQ CCM CCE  180.000 10.0 2
+2MX const_53        CCM CAR CAV CCO  0.000   10.0 2
+2MX const_50        CAV CAR CCM CCE  180.000 10.0 2
+2MX const_30        CAO CAS CCN N10  180.000 10.0 2
+2MX const_34        CAP CAT CCN N10  180.000 10.0 2
+2MX const_62        CAQ CAU CCO NCW  180.000 10.0 2
+2MX const_58        CAR CAV CCO NCW  180.000 10.0 2
+2MX const_65        CCK CAX NBO CCQ  0.000   10.0 2
+2MX const_98        NBO CAX CCK CBM  180.000 10.0 2
+2MX sp3_sp3_19      CBA CAY CAZ CBB  180.000 10.0 3
+2MX sp3_sp3_37      CAZ CAY CBA CBC  180.000 10.0 3
+2MX const_90        N8  C8A N1  C2   180.000 10.0 2
+2MX const_sp2_sp2_2 N2  C2  N1  C8A  180.000 5.0  2
+2MX sp3_sp3_28      CAY CAZ CBB CBD  180.000 10.0 3
+2MX sp3_sp3_55      CAY CBA CBC CBE  180.000 10.0 3
+2MX sp3_sp3_46      CAZ CBB CBD CBF  180.000 10.0 3
+2MX sp3_sp3_73      CBA CBC CBE CBG  180.000 10.0 3
+2MX sp3_sp3_64      CBB CBD CBF NE2  180.000 10.0 3
+2MX sp3_sp3_82      CBC CBE CBG NBW  180.000 10.0 3
+2MX sp2_sp3_38      CD  NE2 CBF CBD  120.000 10.0 6
+2MX sp2_sp3_62      CCA NBW CBG CBE  120.000 10.0 6
+2MX sp3_sp3_91      CCA CBI CBK CCU  180.000 10.0 3
+2MX sp2_sp3_44      OAH CCA CBI CBK  120.000 10.0 6
+2MX sp3_sp3_100     CBI CBK CCU CCC  180.000 10.0 3
+2MX sp2_sp2_1       N1  C2  N2  HN2  180.000 5.0  2
+2MX const_sp2_sp2_4 N2  C2  N3  C4   180.000 5.0  2
+2MX sp2_sp3_50      NBU CCK CBM NCW  -90.000 10.0 6
+2MX sp2_sp3_56      CAB NCW CBM CCK  120.000 10.0 6
+2MX const_68        NBS CCQ NBO CAX  180.000 10.0 2
+2MX const_78        NAD CCG NBQ CCI  180.000 10.0 2
+2MX const_96        NAF CCI NBQ CCG  180.000 10.0 2
+2MX const_80        NAD CCG NBS CCQ  180.000 10.0 2
+2MX const_82        NBO CCQ NBS CCG  180.000 10.0 2
+2MX const_76        CBM CCK NBU CCS  180.000 10.0 2
+2MX const_74        CCI CCS NBU CCK  180.000 10.0 2
+2MX sp2_sp2_23      OAH CCA NBW CBG  0.000   5.0  2
+2MX sp2_sp2_19      OAL CCE NBY CCU  0.000   5.0  2
+2MX sp2_sp3_73      CCE NBY CCU CCC  0.000   10.0 6
+2MX sp2_sp3_67      OAJ CCC CCU CBK  0.000   10.0 6
+2MX sp2_sp2_31      OAK CCD CCL CAP  0.000   5.0  2
+2MX sp2_sp2_33      NBY CCE CCM CAQ  180.000 5.0  2
+2MX const_86        NAF CCI CCS NBU  0.000   10.0 2
+2MX sp2_sp2_41      CAU CCO NCW CBM  180.000 5.0  2
+2MX const_69        NBS CCQ CCS CCI  0.000   10.0 2
+2MX const_sp2_sp2_6 N4  C4  N3  C2   180.000 5.0  2
+2MX const_10        N4  C4  C4A N5   0.000   10.0 2
+2MX sp2_sp2_7       N3  C4  N4  HN4  0.000   5.0  2
+2MX const_88        C9  C6  N5  C4A  180.000 10.0 2
+2MX const_16        C4  C4A N5  C6   180.000 10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -645,148 +647,161 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-2MX    chir_1    CA    N    C    CB    positive
-2MX    chir_2    CCU    NBY    CCC    CBK    positive
+2MX chir_1 CA  N   C   CB  positive
+2MX chir_2 CCU NBY CCC CBK positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-2MX    plan-1          C2   0.020
-2MX    plan-1          C4   0.020
-2MX    plan-1         C4A   0.020
-2MX    plan-1          C6   0.020
-2MX    plan-1          C7   0.020
-2MX    plan-1         C8A   0.020
-2MX    plan-1          C9   0.020
-2MX    plan-1          H7   0.020
-2MX    plan-1          N1   0.020
-2MX    plan-1          N2   0.020
-2MX    plan-1          N3   0.020
-2MX    plan-1          N4   0.020
-2MX    plan-1          N5   0.020
-2MX    plan-1          N8   0.020
-2MX    plan-2         CAX   0.020
-2MX    plan-2         CBM   0.020
-2MX    plan-2         CCG   0.020
-2MX    plan-2         CCI   0.020
-2MX    plan-2         CCK   0.020
-2MX    plan-2         CCQ   0.020
-2MX    plan-2         CCS   0.020
-2MX    plan-2         HAX   0.020
-2MX    plan-2         NAD   0.020
-2MX    plan-2         NAF   0.020
-2MX    plan-2         NBO   0.020
-2MX    plan-2         NBQ   0.020
-2MX    plan-2         NBS   0.020
-2MX    plan-2         NBU   0.020
-2MX    plan-3         CAO   0.020
-2MX    plan-3         CAP   0.020
-2MX    plan-3         CAS   0.020
-2MX    plan-3         CAT   0.020
-2MX    plan-3         CCD   0.020
-2MX    plan-3         CCL   0.020
-2MX    plan-3         CCN   0.020
-2MX    plan-3         HAO   0.020
-2MX    plan-3         HAP   0.020
-2MX    plan-3         HAS   0.020
-2MX    plan-3         HAT   0.020
-2MX    plan-3         N10   0.020
-2MX    plan-4         CAQ   0.020
-2MX    plan-4         CAR   0.020
-2MX    plan-4         CAU   0.020
-2MX    plan-4         CAV   0.020
-2MX    plan-4         CCE   0.020
-2MX    plan-4         CCM   0.020
-2MX    plan-4         CCO   0.020
-2MX    plan-4         HAQ   0.020
-2MX    plan-4         HAR   0.020
-2MX    plan-4         HAU   0.020
-2MX    plan-4         HAV   0.020
-2MX    plan-4         NCW   0.020
-2MX    plan-5           C   0.020
-2MX    plan-5          CA   0.020
-2MX    plan-5           O   0.020
-2MX    plan-5         OXT   0.020
-2MX    plan-6          CA   0.020
-2MX    plan-6         CCD   0.020
-2MX    plan-6          HN   0.020
-2MX    plan-6           N   0.020
-2MX    plan-7          C2   0.020
-2MX    plan-7         HN2   0.020
-2MX    plan-7        HN2A   0.020
-2MX    plan-7          N2   0.020
-2MX    plan-8          C4   0.020
-2MX    plan-8         HN4   0.020
-2MX    plan-8        HN4A   0.020
-2MX    plan-8          N4   0.020
-2MX    plan-9          CD   0.020
-2MX    plan-9          CG   0.020
-2MX    plan-9         NE2   0.020
-2MX    plan-9         OE1   0.020
-2MX   plan-10          C9   0.020
-2MX   plan-10         CAA   0.020
-2MX   plan-10         CCN   0.020
-2MX   plan-10         N10   0.020
-2MX   plan-11         CCG   0.020
-2MX   plan-11        HNAA   0.020
-2MX   plan-11        HNAD   0.020
-2MX   plan-11         NAD   0.020
-2MX   plan-12         CCI   0.020
-2MX   plan-12        HNAB   0.020
-2MX   plan-12        HNAF   0.020
-2MX   plan-12         NAF   0.020
-2MX   plan-13         CBG   0.020
-2MX   plan-13         CCA   0.020
-2MX   plan-13         H62   0.020
-2MX   plan-13         NBW   0.020
-2MX   plan-14         CCE   0.020
-2MX   plan-14         CCU   0.020
-2MX   plan-14        HNBY   0.020
-2MX   plan-14         NBY   0.020
-2MX   plan-15         CBI   0.020
-2MX   plan-15         CCA   0.020
-2MX   plan-15         NBW   0.020
-2MX   plan-15         OAH   0.020
-2MX   plan-16         CCC   0.020
-2MX   plan-16         CCU   0.020
-2MX   plan-16         OAJ   0.020
-2MX   plan-16         OAN   0.020
-2MX   plan-17         CCD   0.020
-2MX   plan-17         CCL   0.020
-2MX   plan-17           N   0.020
-2MX   plan-17         OAK   0.020
-2MX   plan-18         CCE   0.020
-2MX   plan-18         CCM   0.020
-2MX   plan-18         NBY   0.020
-2MX   plan-18         OAL   0.020
-2MX   plan-19         CAB   0.020
-2MX   plan-19         CBM   0.020
-2MX   plan-19         CCO   0.020
-2MX   plan-19         NCW   0.020
-2MX   plan-20         CBF   0.020
-2MX   plan-20          CD   0.020
-2MX   plan-20        HNE2   0.020
-2MX   plan-20         NE2   0.020
+2MX plan-1  C2   0.020
+2MX plan-1  C4   0.020
+2MX plan-1  C4A  0.020
+2MX plan-1  C6   0.020
+2MX plan-1  C7   0.020
+2MX plan-1  C8A  0.020
+2MX plan-1  C9   0.020
+2MX plan-1  H7   0.020
+2MX plan-1  N1   0.020
+2MX plan-1  N2   0.020
+2MX plan-1  N3   0.020
+2MX plan-1  N4   0.020
+2MX plan-1  N5   0.020
+2MX plan-1  N8   0.020
+2MX plan-2  CAX  0.020
+2MX plan-2  CBM  0.020
+2MX plan-2  CCG  0.020
+2MX plan-2  CCI  0.020
+2MX plan-2  CCK  0.020
+2MX plan-2  CCQ  0.020
+2MX plan-2  CCS  0.020
+2MX plan-2  HAX  0.020
+2MX plan-2  NAD  0.020
+2MX plan-2  NAF  0.020
+2MX plan-2  NBO  0.020
+2MX plan-2  NBQ  0.020
+2MX plan-2  NBS  0.020
+2MX plan-2  NBU  0.020
+2MX plan-3  CAO  0.020
+2MX plan-3  CAP  0.020
+2MX plan-3  CAS  0.020
+2MX plan-3  CAT  0.020
+2MX plan-3  CCD  0.020
+2MX plan-3  CCL  0.020
+2MX plan-3  CCN  0.020
+2MX plan-3  HAO  0.020
+2MX plan-3  HAP  0.020
+2MX plan-3  HAS  0.020
+2MX plan-3  HAT  0.020
+2MX plan-3  N10  0.020
+2MX plan-4  CAQ  0.020
+2MX plan-4  CAR  0.020
+2MX plan-4  CAU  0.020
+2MX plan-4  CAV  0.020
+2MX plan-4  CCE  0.020
+2MX plan-4  CCM  0.020
+2MX plan-4  CCO  0.020
+2MX plan-4  HAQ  0.020
+2MX plan-4  HAR  0.020
+2MX plan-4  HAU  0.020
+2MX plan-4  HAV  0.020
+2MX plan-4  NCW  0.020
+2MX plan-5  C    0.020
+2MX plan-5  CA   0.020
+2MX plan-5  O    0.020
+2MX plan-5  OXT  0.020
+2MX plan-6  CA   0.020
+2MX plan-6  CCD  0.020
+2MX plan-6  HN   0.020
+2MX plan-6  N    0.020
+2MX plan-7  C2   0.020
+2MX plan-7  HN2  0.020
+2MX plan-7  HN2A 0.020
+2MX plan-7  N2   0.020
+2MX plan-8  C4   0.020
+2MX plan-8  HN4  0.020
+2MX plan-8  HN4A 0.020
+2MX plan-8  N4   0.020
+2MX plan-9  CD   0.020
+2MX plan-9  CG   0.020
+2MX plan-9  NE2  0.020
+2MX plan-9  OE1  0.020
+2MX plan-10 C9   0.020
+2MX plan-10 CAA  0.020
+2MX plan-10 CCN  0.020
+2MX plan-10 N10  0.020
+2MX plan-11 CCG  0.020
+2MX plan-11 HNAA 0.020
+2MX plan-11 HNAD 0.020
+2MX plan-11 NAD  0.020
+2MX plan-12 CCI  0.020
+2MX plan-12 HNAB 0.020
+2MX plan-12 HNAF 0.020
+2MX plan-12 NAF  0.020
+2MX plan-13 CBG  0.020
+2MX plan-13 CCA  0.020
+2MX plan-13 H62  0.020
+2MX plan-13 NBW  0.020
+2MX plan-14 CCE  0.020
+2MX plan-14 CCU  0.020
+2MX plan-14 HNBY 0.020
+2MX plan-14 NBY  0.020
+2MX plan-15 CBI  0.020
+2MX plan-15 CCA  0.020
+2MX plan-15 NBW  0.020
+2MX plan-15 OAH  0.020
+2MX plan-16 CCC  0.020
+2MX plan-16 CCU  0.020
+2MX plan-16 OAJ  0.020
+2MX plan-16 OAN  0.020
+2MX plan-17 CCD  0.020
+2MX plan-17 CCL  0.020
+2MX plan-17 N    0.020
+2MX plan-17 OAK  0.020
+2MX plan-18 CCE  0.020
+2MX plan-18 CCM  0.020
+2MX plan-18 NBY  0.020
+2MX plan-18 OAL  0.020
+2MX plan-19 CAB  0.020
+2MX plan-19 CBM  0.020
+2MX plan-19 CCO  0.020
+2MX plan-19 NCW  0.020
+2MX plan-20 CBF  0.020
+2MX plan-20 CD   0.020
+2MX plan-20 HNE2 0.020
+2MX plan-20 NE2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-2MX           SMILES              ACDLabs 12.01                                                                                                                                                                                                                                                                                           O=C(O)C(NC(=O)c3ccc(N(Cc1nc2c(nc1)nc(nc2N)N)C)cc3)CCC(=O)NCCCCCCCCCNC(=O)CCC(C(=O)O)NC(=O)c4ccc(cc4)N(C)Cc5nc6c(nc5)nc(nc6N)N
-2MX SMILES_CANONICAL               CACTVS 3.370                                                                                                                                                                                                                                                                                  CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)NCCCCCCCCCNC(=O)CC[C@H](NC(=O)c4ccc(cc4)N(C)Cc5cnc6nc(N)nc(N)c6n5)C(O)=O)C(O)=O
-2MX           SMILES               CACTVS 3.370                                                                                                                                                                                                                                                                                     CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[CH](CCC(=O)NCCCCCCCCCNC(=O)CC[CH](NC(=O)c4ccc(cc4)N(C)Cc5cnc6nc(N)nc(N)c6n5)C(O)=O)C(O)=O
-2MX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                                                                                                                                                                             CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)NCCCCCCCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)c4ccc(cc4)N(C)Cc5cnc6c(n5)c(nc(n6)N)N)C(=O)O
-2MX           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                                                                                                                                                                       CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)NC(CCC(=O)NCCCCCCCCCNC(=O)CCC(C(=O)O)NC(=O)c4ccc(cc4)N(C)Cc5cnc6c(n5)c(nc(n6)N)N)C(=O)O
-2MX            InChI                InChI  1.03 InChI=1S/C49H62N18O8/c1-66(26-30-24-56-42-38(58-30)40(50)62-48(52)64-42)32-14-10-28(11-15-32)44(70)60-34(46(72)73)18-20-36(68)54-22-8-6-4-3-5-7-9-23-55-37(69)21-19-35(47(74)75)61-45(71)29-12-16-33(17-13-29)67(2)27-31-25-57-43-39(59-31)41(51)63-49(53)65-43/h10-17,24-25,34-35H,3-9,18-23,26-27H2,1-2H3,(H,54,68)(H,55,69)(H,60,70)(H,61,71)(H,72,73)(H,74,75)(H4,50,52,56,62,64)(H4,51,53,57,63,65)/t34-,35-/m0/s1
-2MX         InChIKey                InChI  1.03                                                                                                                                                                                                                                                                                                                                                                                             FRPAIDUZEKEEIT-PXLJZGITSA-N
+2MX SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)c3ccc(N(Cc1nc2c(nc1)nc(nc2N)N)C)cc3)CCC(=O)NCCCCCCCCCNC(=O)CCC(C(=O)O)NC(=O)c4ccc(cc4)N(C)Cc5nc6c(nc5)nc(nc6N)N
+2MX SMILES_CANONICAL CACTVS               3.370 CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)NCCCCCCCCCNC(=O)CC[C@H](NC(=O)c4ccc(cc4)N(C)Cc5cnc6nc(N)nc(N)c6n5)C(O)=O)C(O)=O
+2MX SMILES           CACTVS               3.370 CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[CH](CCC(=O)NCCCCCCCCCNC(=O)CC[CH](NC(=O)c4ccc(cc4)N(C)Cc5cnc6nc(N)nc(N)c6n5)C(O)=O)C(O)=O
+2MX SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)NCCCCCCCCCNC(=O)CC[C@@H](C(=O)O)NC(=O)c4ccc(cc4)N(C)Cc5cnc6c(n5)c(nc(n6)N)N)C(=O)O
+2MX SMILES           "OpenEye OEToolkits" 1.7.0 CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)NC(CCC(=O)NCCCCCCCCCNC(=O)CCC(C(=O)O)NC(=O)c4ccc(cc4)N(C)Cc5cnc6c(n5)c(nc(n6)N)N)C(=O)O
+2MX InChI            InChI                1.03  InChI=1S/C49H62N18O8/c1-66(26-30-24-56-42-38(58-30)40(50)62-48(52)64-42)32-14-10-28(11-15-32)44(70)60-34(46(72)73)18-20-36(68)54-22-8-6-4-3-5-7-9-23-55-37(69)21-19-35(47(74)75)61-45(71)29-12-16-33(17-13-29)67(2)27-31-25-57-43-39(59-31)41(51)63-49(53)65-43/h10-17,24-25,34-35H,3-9,18-23,26-27H2,1-2H3,(H,54,68)(H,55,69)(H,60,70)(H,61,71)(H,72,73)(H,74,75)(H4,50,52,56,62,64)(H4,51,53,57,63,65)/t34-,35-/m0/s1
+2MX InChIKey         InChI                1.03  FRPAIDUZEKEEIT-PXLJZGITSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-2MX acedrg               243         "dictionary generator"                  
-2MX acedrg_database      11          "data source"                           
-2MX rdkit                2017.03.2   "Chemoinformatics tool"
-2MX refmac5              5.8.0238    "optimization tool"                     
+2MX acedrg          243       "dictionary generator"
+2MX acedrg_database 11        "data source"
+2MX rdkit           2017.03.2 "Chemoinformatics tool"
+2MX refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+2MX M-peptide OXT O
+2MX M-peptide CCD CN
+2MX M-peptide O   OXT
+2MX M-peptide HN  H

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-LHT     LHT      "hydrolysed ertapenem"     NON-POLYMER     59     34     .     
-#
+LHT LHT "hydrolysed ertapenem" NON-POLYMER 59 34 .
+
 data_comp_LHT
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,65 +19,66 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-LHT     C11     C       CR16    0       -5.777      16.430      -17.366     
-LHT     C18     C       CH1     0       -13.426     6.579       -16.021     
-LHT     C17     C       C       0       -14.507     9.978       -17.230     
-LHT     C6      C       CH1     0       -7.175      10.086      -16.738     
-LHT     O6      O       OC      -1      -15.533     5.038       -14.536     
-LHT     C5      C       CH2     0       -8.953      9.514       -15.183     
-LHT     O5      O       O       0       -14.464     10.317      -18.398     
-LHT     C16     C       CR5     0       -13.792     8.720       -16.859     
-LHT     C4      C       CH1     0       -9.459      9.352       -16.606     
-LHT     O4      O       OC      -1      -15.082     10.573      -16.337     
-LHT     C3      C       CR5     0       -12.456     8.566       -16.750     
-LHT     C2      C       CH1     0       -12.142     7.099       -16.693     
-LHT     C15     C       CH2     0       -8.550      10.281      -17.399     
-LHT     C1      C       CH3     0       -11.820     6.584       -18.087     
-LHT     C12     C       CR6     0       -5.955      15.494      -18.381     
-LHT     C19     C       CH1     0       -13.842     5.091       -16.208     
-LHT     C10     C       CR16    0       -5.949      16.060      -16.040     
-LHT     C21     C       CH1     0       -12.965     4.041       -15.502     
-LHT     C22     C       CH3     0       -11.639     3.786       -16.181     
-LHT     C20     C       C       0       -15.285     4.851       -15.744     
-LHT     C7      C       C       0       -6.296      11.333      -16.843     
-LHT     C8      C       CR6     0       -6.478      13.812      -16.720     
-LHT     C9      C       CR16    0       -6.297      14.762      -15.711     
-LHT     C13     C       C       0       -5.772      15.882      -19.807     
-LHT     C14     C       CR16    0       -6.306      14.187      -18.055     
-LHT     O7      O       O       0       -16.112     4.485       -16.604     
-LHT     S1      S       S2      0       -11.227     9.807       -16.750     
-LHT     N1      N       NT1     0       -7.507      9.713       -15.349     
-LHT     O1      O       O       0       -5.177      11.259      -17.320     
-LHT     N2      N       NH1     0       -6.835      12.486      -16.374     
-LHT     O2      O       O       0       -4.717      16.313      -20.243     
-LHT     O3      O       OH1     0       -6.880      15.705      -20.537     
-LHT     N3      N       NT1     0       -14.386     7.548       -16.571     
-LHT     O8      O       OH1     0       -12.725     4.436       -14.149     
-LHT     H1      H       H       0       -5.540      17.315      -17.579     
-LHT     H2      H       H       0       -13.325     6.743       -15.049     
-LHT     H3      H       H       0       -6.708      9.325       -17.164     
-LHT     H5      H       H       0       -9.133      8.712       -14.648     
-LHT     H6      H       H       0       -9.362      10.293      -14.748     
-LHT     H7      H       H       0       -9.330      8.424       -16.920     
-LHT     H9      H       H       0       -11.372     6.923       -16.097     
-LHT     H10     H       H       0       -8.856      11.209      -17.331     
-LHT     H11     H       H       0       -8.524      10.023      -18.345     
-LHT     H12     H       H       0       -11.249     5.806       -18.026     
-LHT     H13     H       H       0       -11.361     7.273       -18.594     
-LHT     H14     H       H       0       -12.641     6.346       -18.546     
-LHT     H15     H       H       0       -13.802     4.895       -17.177     
-LHT     H16     H       H       0       -5.828      16.695      -15.358     
-LHT     H17     H       H       0       -13.474     3.184       -15.474     
-LHT     H18     H       H       0       -11.239     2.976       -15.818     
-LHT     H19     H       H       0       -11.042     4.539       -16.023     
-LHT     H20     H       H       0       -11.778     3.676       -17.139     
-LHT     H21     H       H       0       -6.412      14.518      -14.808     
-LHT     H22     H       H       0       -6.428      13.549      -18.733     
-LHT     H23     H       H       0       -7.245      10.323      -14.760     
-LHT     H25     H       H       0       -7.478      12.409      -15.787     
-LHT     H26     H       H       0       -7.554      16.229      -20.430     
-LHT     H27     H       H       0       -15.240     7.514       -16.425     
-LHT     H28     H       H       0       -13.346     4.146       -13.650     
+LHT C11 C CR16 0  -5.777  16.430 -17.366
+LHT C18 C CH1  0  -13.426 6.579  -16.021
+LHT C17 C C    0  -14.507 9.978  -17.230
+LHT C6  C CH1  0  -7.175  10.086 -16.738
+LHT O6  O OC   -1 -15.533 5.038  -14.536
+LHT C5  C CH2  0  -8.953  9.514  -15.183
+LHT O5  O O    0  -14.464 10.317 -18.398
+LHT C16 C CR5  0  -13.792 8.720  -16.859
+LHT C4  C CH1  0  -9.459  9.352  -16.606
+LHT O4  O OC   -1 -15.082 10.573 -16.337
+LHT C3  C CR5  0  -12.456 8.566  -16.750
+LHT C2  C CH1  0  -12.142 7.099  -16.693
+LHT C15 C CH2  0  -8.550  10.281 -17.399
+LHT C1  C CH3  0  -11.820 6.584  -18.087
+LHT C12 C CR6  0  -5.955  15.494 -18.381
+LHT C19 C CH1  0  -13.842 5.091  -16.208
+LHT C10 C CR16 0  -5.949  16.060 -16.040
+LHT C21 C CH1  0  -12.965 4.041  -15.502
+LHT C22 C CH3  0  -11.639 3.786  -16.181
+LHT C20 C C    0  -15.285 4.851  -15.744
+LHT C7  C C    0  -6.296  11.333 -16.843
+LHT C8  C CR6  0  -6.478  13.812 -16.720
+LHT C9  C CR16 0  -6.297  14.762 -15.711
+LHT C13 C C    0  -5.772  15.882 -19.807
+LHT C14 C CR16 0  -6.306  14.187 -18.055
+LHT O7  O O    0  -16.112 4.485  -16.604
+LHT S1  S S2   0  -11.227 9.807  -16.750
+LHT N1  N NT1  0  -7.507  9.713  -15.349
+LHT O1  O O    0  -5.177  11.259 -17.320
+LHT N2  N NH1  0  -6.835  12.486 -16.374
+LHT O2  O O    0  -4.717  16.313 -20.243
+LHT O3  O OH1  0  -6.880  15.705 -20.537
+LHT N3  N NT1  0  -14.386 7.548  -16.571
+LHT O8  O OH1  0  -12.725 4.436  -14.149
+LHT H1  H H    0  -5.540  17.315 -17.579
+LHT H2  H H    0  -13.325 6.743  -15.049
+LHT H3  H H    0  -6.708  9.325  -17.164
+LHT H5  H H    0  -9.133  8.712  -14.648
+LHT H6  H H    0  -9.362  10.293 -14.748
+LHT H7  H H    0  -9.330  8.424  -16.920
+LHT H9  H H    0  -11.372 6.923  -16.097
+LHT H10 H H    0  -8.856  11.209 -17.331
+LHT H11 H H    0  -8.524  10.023 -18.345
+LHT H12 H H    0  -11.249 5.806  -18.026
+LHT H13 H H    0  -11.361 7.273  -18.594
+LHT H14 H H    0  -12.641 6.346  -18.546
+LHT H15 H H    0  -13.802 4.895  -17.177
+LHT H16 H H    0  -5.828  16.695 -15.358
+LHT H17 H H    0  -13.474 3.184  -15.474
+LHT H18 H H    0  -11.239 2.976  -15.818
+LHT H19 H H    0  -11.042 4.539  -16.023
+LHT H20 H H    0  -11.778 3.676  -17.139
+LHT H21 H H    0  -6.412  14.518 -14.808
+LHT H22 H H    0  -6.428  13.549 -18.733
+LHT H23 H H    0  -7.245  10.323 -14.760
+LHT H25 H H    0  -7.478  12.409 -15.787
+LHT H26 H H    0  -7.554  16.229 -20.430
+LHT H27 H H    0  -15.240 7.514  -16.425
+LHT H28 H H    0  -13.346 4.146  -13.650
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -90,67 +89,68 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-LHT         C13          O2      DOUBLE       n     1.221  0.0175     1.221  0.0175
-LHT         C13          O3      SINGLE       n     1.338  0.0153     1.338  0.0153
-LHT         C12         C13      SINGLE       n     1.489  0.0125     1.489  0.0125
-LHT          C2          C1      SINGLE       n     1.517  0.0124     1.517  0.0124
-LHT         C11         C12      DOUBLE       y     1.389  0.0100     1.389  0.0100
-LHT         C12         C14      SINGLE       y     1.389  0.0100     1.389  0.0100
-LHT         C11         C10      SINGLE       y     1.384  0.0100     1.384  0.0100
-LHT          C3          S1      SINGLE       n     1.746  0.0119     1.746  0.0119
-LHT          C4          S1      SINGLE       n     1.832  0.0200     1.832  0.0200
-LHT          C8         C14      DOUBLE       y     1.393  0.0100     1.393  0.0100
-LHT          C7          O1      DOUBLE       n     1.218  0.0100     1.218  0.0100
-LHT         C21         C22      SINGLE       n     1.511  0.0143     1.511  0.0143
-LHT         C10          C9      DOUBLE       y     1.379  0.0100     1.379  0.0100
-LHT         C20          O7      DOUBLE       n     1.247  0.0187     1.247  0.0187
-LHT          C3          C2      SINGLE       n     1.505  0.0120     1.505  0.0120
-LHT         C18          C2      SINGLE       n     1.537  0.0162     1.537  0.0162
-LHT         C16          C3      DOUBLE       n     1.347  0.0180     1.347  0.0180
-LHT         C19         C21      SINGLE       n     1.534  0.0100     1.534  0.0100
-LHT         C19         C20      SINGLE       n     1.533  0.0100     1.533  0.0100
-LHT         C18         C19      SINGLE       n     1.526  0.0200     1.526  0.0200
-LHT          C8          C9      SINGLE       y     1.394  0.0100     1.394  0.0100
-LHT          C8          N2      SINGLE       n     1.414  0.0120     1.414  0.0120
-LHT         C21          O8      SINGLE       n     1.426  0.0179     1.426  0.0179
-LHT          C7          N2      SINGLE       n     1.353  0.0100     1.353  0.0100
-LHT          C6          C7      SINGLE       n     1.523  0.0116     1.523  0.0116
-LHT          C4         C15      SINGLE       n     1.523  0.0107     1.523  0.0107
-LHT          C6         C15      SINGLE       n     1.534  0.0126     1.534  0.0126
-LHT          C5          C4      SINGLE       n     1.519  0.0166     1.519  0.0166
-LHT          O6         C20      SINGLE       n     1.247  0.0187     1.247  0.0187
-LHT         C18          N3      SINGLE       n     1.464  0.0131     1.464  0.0131
-LHT         C16          N3      SINGLE       n     1.331  0.0197     1.331  0.0197
-LHT         C17         C16      SINGLE       n     1.494  0.0120     1.494  0.0120
-LHT         C17          O5      DOUBLE       n     1.217  0.0200     1.217  0.0200
-LHT          C5          N1      SINGLE       n     1.468  0.0152     1.468  0.0152
-LHT          C6          N1      SINGLE       n     1.468  0.0148     1.468  0.0148
-LHT         C17          O4      SINGLE       n     1.217  0.0200     1.217  0.0200
-LHT         C11          H1      SINGLE       n     1.082  0.0130     0.941  0.0168
-LHT         C18          H2      SINGLE       n     1.089  0.0100     0.991  0.0103
-LHT          C6          H3      SINGLE       n     1.089  0.0100     0.990  0.0121
-LHT          C5          H5      SINGLE       n     1.089  0.0100     0.981  0.0178
-LHT          C5          H6      SINGLE       n     1.089  0.0100     0.981  0.0178
-LHT          C4          H7      SINGLE       n     1.089  0.0100     0.988  0.0200
-LHT          C2          H9      SINGLE       n     1.089  0.0100     0.990  0.0175
-LHT         C15         H10      SINGLE       n     1.089  0.0100     0.981  0.0186
-LHT         C15         H11      SINGLE       n     1.089  0.0100     0.981  0.0186
-LHT          C1         H12      SINGLE       n     1.089  0.0100     0.970  0.0163
-LHT          C1         H13      SINGLE       n     1.089  0.0100     0.970  0.0163
-LHT          C1         H14      SINGLE       n     1.089  0.0100     0.970  0.0163
-LHT         C19         H15      SINGLE       n     1.089  0.0100     0.990  0.0102
-LHT         C10         H16      SINGLE       n     1.082  0.0130     0.940  0.0164
-LHT         C21         H17      SINGLE       n     1.089  0.0100     0.995  0.0200
-LHT         C22         H18      SINGLE       n     1.089  0.0100     0.974  0.0145
-LHT         C22         H19      SINGLE       n     1.089  0.0100     0.974  0.0145
-LHT         C22         H20      SINGLE       n     1.089  0.0100     0.974  0.0145
-LHT          C9         H21      SINGLE       n     1.082  0.0130     0.943  0.0178
-LHT         C14         H22      SINGLE       n     1.082  0.0130     0.939  0.0130
-LHT          N1         H23      SINGLE       n     1.036  0.0160     0.887  0.0200
-LHT          N2         H25      SINGLE       n     1.016  0.0100     0.874  0.0200
-LHT          O3         H26      SINGLE       n     0.966  0.0059     0.861  0.0200
-LHT          N3         H27      SINGLE       n     1.016  0.0100     0.868  0.0200
-LHT          O8         H28      SINGLE       n     0.970  0.0120     0.848  0.0200
+LHT C13 O2  DOUBLE n 1.221 0.0175 1.221 0.0175
+LHT C13 O3  SINGLE n 1.338 0.0153 1.338 0.0153
+LHT C12 C13 SINGLE n 1.489 0.0125 1.489 0.0125
+LHT C2  C1  SINGLE n 1.517 0.0124 1.517 0.0124
+LHT C11 C12 DOUBLE y 1.389 0.0100 1.389 0.0100
+LHT C12 C14 SINGLE y 1.389 0.0100 1.389 0.0100
+LHT C11 C10 SINGLE y 1.384 0.0100 1.384 0.0100
+LHT C3  S1  SINGLE n 1.746 0.0119 1.746 0.0119
+LHT C4  S1  SINGLE n 1.832 0.0200 1.832 0.0200
+LHT C8  C14 DOUBLE y 1.393 0.0100 1.393 0.0100
+LHT C7  O1  DOUBLE n 1.218 0.0100 1.218 0.0100
+LHT C21 C22 SINGLE n 1.511 0.0143 1.511 0.0143
+LHT C10 C9  DOUBLE y 1.379 0.0100 1.379 0.0100
+LHT C20 O7  DOUBLE n 1.247 0.0187 1.247 0.0187
+LHT C3  C2  SINGLE n 1.505 0.0120 1.505 0.0120
+LHT C18 C2  SINGLE n 1.537 0.0162 1.537 0.0162
+LHT C16 C3  DOUBLE n 1.347 0.0180 1.347 0.0180
+LHT C19 C21 SINGLE n 1.534 0.0100 1.534 0.0100
+LHT C19 C20 SINGLE n 1.533 0.0100 1.533 0.0100
+LHT C18 C19 SINGLE n 1.526 0.0200 1.526 0.0200
+LHT C8  C9  SINGLE y 1.394 0.0100 1.394 0.0100
+LHT C8  N2  SINGLE n 1.414 0.0120 1.414 0.0120
+LHT C21 O8  SINGLE n 1.426 0.0179 1.426 0.0179
+LHT C7  N2  SINGLE n 1.353 0.0100 1.353 0.0100
+LHT C6  C7  SINGLE n 1.523 0.0116 1.523 0.0116
+LHT C4  C15 SINGLE n 1.523 0.0107 1.523 0.0107
+LHT C6  C15 SINGLE n 1.534 0.0126 1.534 0.0126
+LHT C5  C4  SINGLE n 1.519 0.0166 1.519 0.0166
+LHT O6  C20 SINGLE n 1.247 0.0187 1.247 0.0187
+LHT C18 N3  SINGLE n 1.464 0.0131 1.464 0.0131
+LHT C16 N3  SINGLE n 1.331 0.0197 1.331 0.0197
+LHT C17 C16 SINGLE n 1.494 0.0120 1.494 0.0120
+LHT C17 O5  DOUBLE n 1.217 0.0200 1.217 0.0200
+LHT C5  N1  SINGLE n 1.468 0.0152 1.468 0.0152
+LHT C6  N1  SINGLE n 1.468 0.0148 1.468 0.0148
+LHT C17 O4  SINGLE n 1.217 0.0200 1.217 0.0200
+LHT C11 H1  SINGLE n 1.082 0.0130 0.941 0.0168
+LHT C18 H2  SINGLE n 1.089 0.0100 0.991 0.0103
+LHT C6  H3  SINGLE n 1.089 0.0100 0.990 0.0121
+LHT C5  H5  SINGLE n 1.089 0.0100 0.981 0.0178
+LHT C5  H6  SINGLE n 1.089 0.0100 0.981 0.0178
+LHT C4  H7  SINGLE n 1.089 0.0100 0.988 0.0200
+LHT C2  H9  SINGLE n 1.089 0.0100 0.990 0.0175
+LHT C15 H10 SINGLE n 1.089 0.0100 0.981 0.0186
+LHT C15 H11 SINGLE n 1.089 0.0100 0.981 0.0186
+LHT C1  H12 SINGLE n 1.089 0.0100 0.970 0.0163
+LHT C1  H13 SINGLE n 1.089 0.0100 0.970 0.0163
+LHT C1  H14 SINGLE n 1.089 0.0100 0.970 0.0163
+LHT C19 H15 SINGLE n 1.089 0.0100 0.990 0.0102
+LHT C10 H16 SINGLE n 1.082 0.0130 0.940 0.0164
+LHT C21 H17 SINGLE n 1.089 0.0100 0.995 0.0200
+LHT C22 H18 SINGLE n 1.089 0.0100 0.974 0.0145
+LHT C22 H19 SINGLE n 1.089 0.0100 0.974 0.0145
+LHT C22 H20 SINGLE n 1.089 0.0100 0.974 0.0145
+LHT C9  H21 SINGLE n 1.082 0.0130 0.943 0.0178
+LHT C14 H22 SINGLE n 1.082 0.0130 0.939 0.0130
+LHT N1  H23 SINGLE n 1.036 0.0160 0.887 0.0200
+LHT N2  H25 SINGLE n 1.016 0.0100 0.874 0.0200
+LHT O3  H26 SINGLE n 0.966 0.0059 0.861 0.0200
+LHT N3  H27 SINGLE n 1.016 0.0100 0.868 0.0200
+LHT O8  H28 SINGLE n 0.970 0.0120 0.848 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -158,114 +158,115 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-LHT         C12         C11         C10     120.088    1.50
-LHT         C12         C11          H1     120.006    1.50
-LHT         C10         C11          H1     119.905    1.50
-LHT          C2         C18         C19     113.745    2.48
-LHT          C2         C18          N3     103.104    2.01
-LHT          C2         C18          H2     108.027    1.83
-LHT         C19         C18          N3     111.633    2.37
-LHT         C19         C18          H2     108.328    1.50
-LHT          N3         C18          H2     110.031    1.50
-LHT         C16         C17          O5     117.119    1.50
-LHT         C16         C17          O4     117.126    1.50
-LHT          O5         C17          O4     125.770    1.50
-LHT          C7          C6         C15     111.469    1.50
-LHT          C7          C6          N1     111.420    2.45
-LHT          C7          C6          H3     109.935    1.50
-LHT         C15          C6          N1     103.430    2.23
-LHT         C15          C6          H3     110.393    1.50
-LHT          N1          C6          H3     109.296    1.50
-LHT          C4          C5          N1     103.104    2.01
-LHT          C4          C5          H5     111.014    1.50
-LHT          C4          C5          H6     111.014    1.50
-LHT          N1          C5          H5     110.393    1.50
-LHT          N1          C5          H6     110.393    1.50
-LHT          H5          C5          H6     109.055    1.50
-LHT          C3         C16          N3     108.044    2.39
-LHT          C3         C16         C17     126.415    3.00
-LHT          N3         C16         C17     125.542    3.00
-LHT          S1          C4         C15     111.815    3.00
-LHT          S1          C4          C5     111.815    3.00
-LHT          S1          C4          H7     109.380    1.69
-LHT         C15          C4          C5     103.391    1.50
-LHT         C15          C4          H7     109.145    1.50
-LHT          C5          C4          H7     110.683    1.50
-LHT          S1          C3          C2     122.413    1.50
-LHT          S1          C3         C16     125.907    2.39
-LHT          C2          C3         C16     111.681    2.72
-LHT          C1          C2          C3     111.539    2.78
-LHT          C1          C2         C18     115.350    1.50
-LHT          C1          C2          H9     108.374    1.50
-LHT          C3          C2         C18     104.009    1.83
-LHT          C3          C2          H9     110.367    1.60
-LHT         C18          C2          H9     108.027    1.83
-LHT          C4         C15          C6     103.757    1.50
-LHT          C4         C15         H10     110.931    1.50
-LHT          C4         C15         H11     110.931    1.50
-LHT          C6         C15         H10     110.853    1.50
-LHT          C6         C15         H11     110.853    1.50
-LHT         H10         C15         H11     108.877    1.50
-LHT          C2          C1         H12     109.611    1.50
-LHT          C2          C1         H13     109.611    1.50
-LHT          C2          C1         H14     109.611    1.50
-LHT         H12          C1         H13     109.347    1.50
-LHT         H12          C1         H14     109.347    1.50
-LHT         H13          C1         H14     109.347    1.50
-LHT         C13         C12         C11     120.416    1.50
-LHT         C13         C12         C14     119.953    1.50
-LHT         C11         C12         C14     119.631    1.50
-LHT         C21         C19         C20     111.511    2.91
-LHT         C21         C19         C18     112.518    2.73
-LHT         C21         C19         H15     107.529    1.50
-LHT         C20         C19         C18     112.778    2.78
-LHT         C20         C19         H15     108.585    1.50
-LHT         C18         C19         H15     107.419    1.50
-LHT         C11         C10          C9     120.429    1.50
-LHT         C11         C10         H16     119.881    1.50
-LHT          C9         C10         H16     119.690    1.50
-LHT         C22         C21         C19     113.131    1.50
-LHT         C22         C21          O8     109.686    2.24
-LHT         C22         C21         H17     109.344    1.50
-LHT         C19         C21          O8     108.805    2.04
-LHT         C19         C21         H17     108.167    1.50
-LHT          O8         C21         H17     108.183    1.96
-LHT         C21         C22         H18     109.508    1.50
-LHT         C21         C22         H19     109.508    1.50
-LHT         C21         C22         H20     109.508    1.50
-LHT         H18         C22         H19     109.425    1.50
-LHT         H18         C22         H20     109.425    1.50
-LHT         H19         C22         H20     109.425    1.50
-LHT          O7         C20         C19     117.220    1.50
-LHT          O7         C20          O6     125.559    1.75
-LHT         C19         C20          O6     117.220    1.50
-LHT          O1          C7          N2     124.012    1.50
-LHT          O1          C7          C6     121.242    1.50
-LHT          N2          C7          C6     114.746    1.65
-LHT         C14          C8          C9     119.540    1.50
-LHT         C14          C8          N2     120.268    3.00
-LHT          C9          C8          N2     120.192    3.00
-LHT         C10          C9          C8     119.776    1.50
-LHT         C10          C9         H21     120.178    1.50
-LHT          C8          C9         H21     120.046    1.50
-LHT          O2         C13          O3     124.529    1.64
-LHT          O2         C13         C12     122.733    1.58
-LHT          O3         C13         C12     112.737    1.50
-LHT         C12         C14          C8     120.536    1.50
-LHT         C12         C14         H22     120.043    1.50
-LHT          C8         C14         H22     119.421    1.50
-LHT          C3          S1          C4     120.000    3.00
-LHT          C5          N1          C6     109.056    3.00
-LHT          C5          N1         H23     107.738    2.27
-LHT          C6          N1         H23     109.307    3.00
-LHT          C8          N2          C7     127.527    1.50
-LHT          C8          N2         H25     115.974    1.53
-LHT          C7          N2         H25     116.498    1.50
-LHT         C13          O3         H26     120.000    3.00
-LHT         C18          N3         C16     111.258    2.32
-LHT         C18          N3         H27     123.296    2.36
-LHT         C16          N3         H27     121.531    2.16
-LHT         C21          O8         H28     109.265    3.00
+LHT C12 C11 C10 120.088 1.50
+LHT C12 C11 H1  120.006 1.50
+LHT C10 C11 H1  119.905 1.50
+LHT C2  C18 C19 113.745 2.48
+LHT C2  C18 N3  103.104 2.01
+LHT C2  C18 H2  108.027 1.83
+LHT C19 C18 N3  111.633 2.37
+LHT C19 C18 H2  108.328 1.50
+LHT N3  C18 H2  110.031 1.50
+LHT C16 C17 O5  117.119 1.50
+LHT C16 C17 O4  117.126 1.50
+LHT O5  C17 O4  125.770 1.50
+LHT C7  C6  C15 111.469 1.50
+LHT C7  C6  N1  111.420 2.45
+LHT C7  C6  H3  109.935 1.50
+LHT C15 C6  N1  103.430 2.23
+LHT C15 C6  H3  110.393 1.50
+LHT N1  C6  H3  109.296 1.50
+LHT C4  C5  N1  103.104 2.01
+LHT C4  C5  H5  111.014 1.50
+LHT C4  C5  H6  111.014 1.50
+LHT N1  C5  H5  110.393 1.50
+LHT N1  C5  H6  110.393 1.50
+LHT H5  C5  H6  109.055 1.50
+LHT C3  C16 N3  108.044 2.39
+LHT C3  C16 C17 126.415 3.00
+LHT N3  C16 C17 125.542 3.00
+LHT S1  C4  C15 111.815 3.00
+LHT S1  C4  C5  111.815 3.00
+LHT S1  C4  H7  109.380 1.69
+LHT C15 C4  C5  103.391 1.50
+LHT C15 C4  H7  109.145 1.50
+LHT C5  C4  H7  110.683 1.50
+LHT S1  C3  C2  122.413 1.50
+LHT S1  C3  C16 125.907 2.39
+LHT C2  C3  C16 111.681 2.72
+LHT C1  C2  C3  111.539 2.78
+LHT C1  C2  C18 115.350 1.50
+LHT C1  C2  H9  108.374 1.50
+LHT C3  C2  C18 104.009 1.83
+LHT C3  C2  H9  110.367 1.60
+LHT C18 C2  H9  108.027 1.83
+LHT C4  C15 C6  103.757 1.50
+LHT C4  C15 H10 110.931 1.50
+LHT C4  C15 H11 110.931 1.50
+LHT C6  C15 H10 110.853 1.50
+LHT C6  C15 H11 110.853 1.50
+LHT H10 C15 H11 108.877 1.50
+LHT C2  C1  H12 109.611 1.50
+LHT C2  C1  H13 109.611 1.50
+LHT C2  C1  H14 109.611 1.50
+LHT H12 C1  H13 109.347 1.50
+LHT H12 C1  H14 109.347 1.50
+LHT H13 C1  H14 109.347 1.50
+LHT C13 C12 C11 120.416 1.50
+LHT C13 C12 C14 119.953 1.50
+LHT C11 C12 C14 119.631 1.50
+LHT C21 C19 C20 111.511 2.91
+LHT C21 C19 C18 112.518 2.73
+LHT C21 C19 H15 107.529 1.50
+LHT C20 C19 C18 112.778 2.78
+LHT C20 C19 H15 108.585 1.50
+LHT C18 C19 H15 107.419 1.50
+LHT C11 C10 C9  120.429 1.50
+LHT C11 C10 H16 119.881 1.50
+LHT C9  C10 H16 119.690 1.50
+LHT C22 C21 C19 113.131 1.50
+LHT C22 C21 O8  109.686 2.24
+LHT C22 C21 H17 109.344 1.50
+LHT C19 C21 O8  108.805 2.04
+LHT C19 C21 H17 108.167 1.50
+LHT O8  C21 H17 108.183 1.96
+LHT C21 C22 H18 109.508 1.50
+LHT C21 C22 H19 109.508 1.50
+LHT C21 C22 H20 109.508 1.50
+LHT H18 C22 H19 109.425 1.50
+LHT H18 C22 H20 109.425 1.50
+LHT H19 C22 H20 109.425 1.50
+LHT O7  C20 C19 117.220 1.50
+LHT O7  C20 O6  125.559 1.75
+LHT C19 C20 O6  117.220 1.50
+LHT O1  C7  N2  124.012 1.50
+LHT O1  C7  C6  121.242 1.50
+LHT N2  C7  C6  114.746 1.65
+LHT C14 C8  C9  119.540 1.50
+LHT C14 C8  N2  120.268 3.00
+LHT C9  C8  N2  120.192 3.00
+LHT C10 C9  C8  119.776 1.50
+LHT C10 C9  H21 120.178 1.50
+LHT C8  C9  H21 120.046 1.50
+LHT O2  C13 O3  124.529 1.64
+LHT O2  C13 C12 122.733 1.58
+LHT O3  C13 C12 112.737 1.50
+LHT C12 C14 C8  120.536 1.50
+LHT C12 C14 H22 120.043 1.50
+LHT C8  C14 H22 119.421 1.50
+LHT C3  S1  C4  120.000 3.00
+LHT C5  N1  C6  109.056 3.00
+LHT C5  N1  H23 107.738 2.27
+LHT C6  N1  H23 109.307 3.00
+LHT C8  N2  C7  127.527 1.50
+LHT C8  N2  H25 115.974 1.53
+LHT C7  N2  H25 116.498 1.50
+LHT C13 O3  H26 120.000 3.00
+LHT C18 N3  C16 111.258 2.32
+LHT C18 N3  H27 123.296 2.36
+LHT C16 N3  H27 121.531 2.16
+LHT C21 O8  H28 109.265 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -276,36 +277,37 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-LHT       const_sp2_sp2_2         C10         C11         C12         C13     180.000     5.0     2
-LHT              const_21          C9         C10         C11         C12       0.000    10.0     2
-LHT             sp2_sp3_5          S1          C3          C2          C1     -60.000    10.0     6
-LHT            sp2_sp2_15          C2          C3          S1          C4     180.000     5.0     2
-LHT            sp3_sp3_43         H12          C1          C2          C3     180.000    10.0     3
-LHT            sp2_sp2_12         C11         C12         C13          O2       0.000     5.0     2
-LHT       const_sp2_sp2_7         C13         C12         C14          C8     180.000     5.0     2
-LHT            sp3_sp3_64         C20         C19         C21         C22     180.000    10.0     3
-LHT             sp2_sp3_7          O7         C20         C19         C21       0.000    10.0     6
-LHT              const_17         C11         C10          C9          C8       0.000    10.0     2
-LHT            sp3_sp3_55         C19         C21         C22         H18     180.000    10.0     3
-LHT            sp3_sp3_82         C22         C21          O8         H28     180.000    10.0     3
-LHT            sp3_sp3_38         C19         C18          C2          C1      60.000    10.0     3
-LHT            sp3_sp3_73          C2         C18         C19         C21     180.000    10.0     3
-LHT            sp2_sp3_20         C16          N3         C18         C19     120.000    10.0     6
-LHT            sp2_sp2_23          O1          C7          N2          C8       0.000     5.0     2
-LHT              const_15          N2          C8          C9         C10     180.000    10.0     2
-LHT              const_10         C12         C14          C8          N2     180.000    10.0     2
-LHT            sp2_sp2_17         C14          C8          N2          C7     180.000     5.0     2
-LHT             sp2_sp2_9          O2         C13          O3         H26     180.000     5.0     2
-LHT            sp2_sp2_25          C3         C16         C17          O5     180.000     5.0     2
-LHT             sp3_sp3_2          C4         C15          C6          C7     180.000    10.0     3
-LHT            sp2_sp3_13          O1          C7          C6         C15       0.000    10.0     6
-LHT            sp3_sp3_87          C7          C6          N1          C5      60.000    10.0     3
-LHT            sp3_sp3_28          C4          C5          N1          C6     -60.000    10.0     3
-LHT            sp3_sp3_22          S1          C4          C5          N1     -60.000    10.0     3
-LHT             sp2_sp2_4         C17         C16          C3          S1       0.000     5.0     2
-LHT             sp2_sp2_7         C17         C16          N3         C18     180.000     5.0     2
-LHT            sp3_sp3_11          C6         C15          C4          S1      60.000    10.0     3
-LHT            sp3_sp3_52         C15          C4          S1          C3     180.000    10.0     3
+LHT const_sp2_sp2_2 C10 C11 C12 C13 180.000 5.0  2
+LHT const_21        C9  C10 C11 C12 0.000   10.0 2
+LHT sp2_sp3_5       S1  C3  C2  C1  -60.000 10.0 6
+LHT sp2_sp2_15      C2  C3  S1  C4  180.000 5.0  2
+LHT sp3_sp3_43      H12 C1  C2  C3  180.000 10.0 3
+LHT sp2_sp2_12      C11 C12 C13 O2  0.000   5.0  2
+LHT const_sp2_sp2_7 C13 C12 C14 C8  180.000 5.0  2
+LHT sp3_sp3_64      C20 C19 C21 C22 180.000 10.0 3
+LHT sp2_sp3_7       O7  C20 C19 C21 0.000   10.0 6
+LHT const_17        C11 C10 C9  C8  0.000   10.0 2
+LHT sp3_sp3_55      C19 C21 C22 H18 180.000 10.0 3
+LHT sp3_sp3_82      C22 C21 O8  H28 180.000 10.0 3
+LHT sp3_sp3_38      C19 C18 C2  C1  60.000  10.0 3
+LHT sp3_sp3_73      C2  C18 C19 C21 180.000 10.0 3
+LHT sp2_sp3_20      C16 N3  C18 C19 120.000 10.0 6
+LHT sp2_sp2_23      O1  C7  N2  C8  0.000   5.0  2
+LHT const_15        N2  C8  C9  C10 180.000 10.0 2
+LHT const_10        C12 C14 C8  N2  180.000 10.0 2
+LHT sp2_sp2_17      C14 C8  N2  C7  180.000 5.0  2
+LHT sp2_sp2_9       O2  C13 O3  H26 180.000 5.0  2
+LHT sp2_sp2_25      C3  C16 C17 O5  180.000 5.0  2
+LHT sp3_sp3_2       C4  C15 C6  C7  180.000 10.0 3
+LHT sp2_sp3_13      O1  C7  C6  C15 0.000   10.0 6
+LHT sp3_sp3_87      C7  C6  N1  C5  60.000  10.0 3
+LHT sp3_sp3_28      C4  C5  N1  C6  -60.000 10.0 3
+LHT sp3_sp3_22      S1  C4  C5  N1  -60.000 10.0 3
+LHT sp2_sp2_4       C17 C16 C3  S1  0.000   5.0  2
+LHT sp2_sp2_7       C17 C16 N3  C18 180.000 5.0  2
+LHT sp3_sp3_11      C6  C15 C4  S1  60.000  10.0 3
+LHT sp3_sp3_52      C15 C4  S1  C3  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -314,76 +316,92 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-LHT    chir_1    C18    N3    C2    C19    positive
-LHT    chir_2    C6    N1    C7    C15    positive
-LHT    chir_3    C4    S1    C5    C15    positive
-LHT    chir_4    C2    C3    C18    C1    negative
-LHT    chir_5    C19    C20    C21    C18    positive
-LHT    chir_6    C21    O8    C19    C22    negative
-LHT    chir_7    N1    C6    C5    H23    both
+LHT chir_1 C18 N3  C2  C19 positive
+LHT chir_2 C6  N1  C7  C15 positive
+LHT chir_3 C4  S1  C5  C15 positive
+LHT chir_4 C2  C3  C18 C1  negative
+LHT chir_5 C19 C20 C21 C18 positive
+LHT chir_6 C21 O8  C19 C22 negative
+LHT chir_7 N1  C6  C5  H23 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-LHT    plan-1         C10   0.020
-LHT    plan-1         C11   0.020
-LHT    plan-1         C12   0.020
-LHT    plan-1         C13   0.020
-LHT    plan-1         C14   0.020
-LHT    plan-1          C8   0.020
-LHT    plan-1          C9   0.020
-LHT    plan-1          H1   0.020
-LHT    plan-1         H16   0.020
-LHT    plan-1         H21   0.020
-LHT    plan-1         H22   0.020
-LHT    plan-1          N2   0.020
-LHT    plan-2         C16   0.020
-LHT    plan-2         C17   0.020
-LHT    plan-2          O4   0.020
-LHT    plan-2          O5   0.020
-LHT    plan-3         C16   0.020
-LHT    plan-3         C17   0.020
-LHT    plan-3          C3   0.020
-LHT    plan-3          N3   0.020
-LHT    plan-4         C16   0.020
-LHT    plan-4          C2   0.020
-LHT    plan-4          C3   0.020
-LHT    plan-4          S1   0.020
-LHT    plan-5         C19   0.020
-LHT    plan-5         C20   0.020
-LHT    plan-5          O6   0.020
-LHT    plan-5          O7   0.020
-LHT    plan-6          C6   0.020
-LHT    plan-6          C7   0.020
-LHT    plan-6          N2   0.020
-LHT    plan-6          O1   0.020
-LHT    plan-7         C12   0.020
-LHT    plan-7         C13   0.020
-LHT    plan-7          O2   0.020
-LHT    plan-7          O3   0.020
-LHT    plan-8          C7   0.020
-LHT    plan-8          C8   0.020
-LHT    plan-8         H25   0.020
-LHT    plan-8          N2   0.020
+LHT plan-1 C10 0.020
+LHT plan-1 C11 0.020
+LHT plan-1 C12 0.020
+LHT plan-1 C13 0.020
+LHT plan-1 C14 0.020
+LHT plan-1 C8  0.020
+LHT plan-1 C9  0.020
+LHT plan-1 H1  0.020
+LHT plan-1 H16 0.020
+LHT plan-1 H21 0.020
+LHT plan-1 H22 0.020
+LHT plan-1 N2  0.020
+LHT plan-2 C16 0.020
+LHT plan-2 C17 0.020
+LHT plan-2 O4  0.020
+LHT plan-2 O5  0.020
+LHT plan-3 C16 0.020
+LHT plan-3 C17 0.020
+LHT plan-3 C3  0.020
+LHT plan-3 N3  0.020
+LHT plan-4 C16 0.020
+LHT plan-4 C2  0.020
+LHT plan-4 C3  0.020
+LHT plan-4 S1  0.020
+LHT plan-5 C19 0.020
+LHT plan-5 C20 0.020
+LHT plan-5 O6  0.020
+LHT plan-5 O7  0.020
+LHT plan-6 C6  0.020
+LHT plan-6 C7  0.020
+LHT plan-6 N2  0.020
+LHT plan-6 O1  0.020
+LHT plan-7 C12 0.020
+LHT plan-7 C13 0.020
+LHT plan-7 O2  0.020
+LHT plan-7 O3  0.020
+LHT plan-8 C7  0.020
+LHT plan-8 C8  0.020
+LHT plan-8 H25 0.020
+LHT plan-8 N2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-LHT            InChI                InChI  1.03 InChI=1S/C22H27N3O8S/c1-9-16(15(10(2)26)21(30)31)25-17(22(32)33)18(9)34-13-7-14(23-8-13)19(27)24-12-5-3-4-11(6-12)20(28)29/h3-6,9-10,13-16,23,25-26H,7-8H2,1-2H3,(H,24,27)(H,28,29)(H,30,31)(H,32,33)/t9-,10-,13+,14+,15-,16-/m1/s1
-LHT         InChIKey                InChI  1.03                                                                                                                                                                                                         LMDXYCKWMWUYCV-ANEDZVCMSA-N
-LHT SMILES_CANONICAL               CACTVS 3.385                                                                                                                                      C[C@@H](O)[C@H]([C@@H]1NC(=C(S[C@@H]2CN[C@@H](C2)C(=O)Nc3cccc(c3)C(O)=O)[C@@H]1C)C(O)=O)C(O)=O
-LHT           SMILES               CACTVS 3.385                                                                                                                                                 C[CH](O)[CH]([CH]1NC(=C(S[CH]2CN[CH](C2)C(=O)Nc3cccc(c3)C(O)=O)[CH]1C)C(O)=O)C(O)=O
-LHT SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7                                                                                                                                       C[C@@H]1[C@@H](NC(=C1S[C@H]2C[C@H](NC2)C(=O)Nc3cccc(c3)C(=O)O)C(=O)O)[C@@H]([C@@H](C)O)C(=O)O
-LHT           SMILES "OpenEye OEToolkits" 2.0.7                                                                                                                                                                   CC1C(NC(=C1SC2CC(NC2)C(=O)Nc3cccc(c3)C(=O)O)C(=O)O)C(C(C)O)C(=O)O
+LHT InChI            InChI                1.03  InChI=1S/C22H27N3O8S/c1-9-16(15(10(2)26)21(30)31)25-17(22(32)33)18(9)34-13-7-14(23-8-13)19(27)24-12-5-3-4-11(6-12)20(28)29/h3-6,9-10,13-16,23,25-26H,7-8H2,1-2H3,(H,24,27)(H,28,29)(H,30,31)(H,32,33)/t9-,10-,13+,14+,15-,16-/m1/s1
+LHT InChIKey         InChI                1.03  LMDXYCKWMWUYCV-ANEDZVCMSA-N
+LHT SMILES_CANONICAL CACTVS               3.385 C[C@@H](O)[C@H]([C@@H]1NC(=C(S[C@@H]2CN[C@@H](C2)C(=O)Nc3cccc(c3)C(O)=O)[C@@H]1C)C(O)=O)C(O)=O
+LHT SMILES           CACTVS               3.385 C[CH](O)[CH]([CH]1NC(=C(S[CH]2CN[CH](C2)C(=O)Nc3cccc(c3)C(O)=O)[CH]1C)C(O)=O)C(O)=O
+LHT SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 C[C@@H]1[C@@H](NC(=C1S[C@H]2C[C@H](NC2)C(=O)Nc3cccc(c3)C(=O)O)C(=O)O)[C@@H]([C@@H](C)O)C(=O)O
+LHT SMILES           "OpenEye OEToolkits" 2.0.7 CC1C(NC(=C1SC2CC(NC2)C(=O)Nc3cccc(c3)C(=O)O)C(=O)O)C(C(C)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-LHT acedrg               243         "dictionary generator"                  
-LHT acedrg_database      11          "data source"                           
-LHT rdkit                2017.03.2   "Chemoinformatics tool"
-LHT refmac5              5.8.0238    "optimization tool"                     
+LHT acedrg          243       "dictionary generator"
+LHT acedrg_database 11        "data source"
+LHT rdkit           2017.03.2 "Chemoinformatics tool"
+LHT refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+LHT P-peptide N3  N
+LHT P-peptide C16 CA
+LHT P-peptide C17 C
+LHT P-peptide O5  O
+LHT P-peptide C18 CD
+LHT P-peptide O4  OXT
+LHT P-peptide H27 H

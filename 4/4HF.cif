@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-4HF     4HF      "N-[(5-{2-[(6R)-2-AMINO-4-OXO-3,4,5,6,7,8-HEXAHYDROPYRIDO[2,3-D]PYRIMIDIN-6-YL]ETHYL}-2-THIENYL)CARBONYL]-L-GLUTAMICACID"     NON-POLYMER     52     31     .     
-#
+4HF 4HF "N-[(5-{2-[(6R)-2-AMINO-4-OXO-3,4,5,6,7,8-HEXAHYDROPYRIDO[2,3-D]PYRIMIDIN-6-YL]ETHYL}-2-THIENYL)CARBONYL]-L-GLUTAMICACID" NON-POLYMER 52 31 .
+
 data_comp_4HF
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,58 +19,59 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-4HF     C5      C       CH2     0       -44.129     -14.523     67.555      
-4HF     C4A     C       CR66    0       -43.527     -13.279     68.167      
-4HF     C4      C       CR6     0       -43.746     -12.939     69.507      
-4HF     O4      O       O       0       -44.447     -13.624     70.276      
-4HF     N3      N       NR6     0       -43.149     -11.781     69.985      
-4HF     C2      C       CR6     0       -42.364     -10.985     69.183      
-4HF     N2      N       NH2     0       -41.823     -9.883      69.719      
-4HF     N1      N       NRD6    0       -42.142     -11.296     67.905      
-4HF     C8A     C       CR66    0       -42.709     -12.437     67.380      
-4HF     N8      N       NR6     0       -42.464     -12.734     66.049      
-4HF     C7      C       CH2     0       -42.831     -14.018     65.478      
-4HF     C6      C       CH1     0       -44.176     -14.498     66.026      
-4HF     C9      C       CH2     0       -45.343     -13.652     65.492      
-4HF     C10     C       CH2     0       -45.807     -13.964     64.077      
-4HF     "C3'"   C       CR5     0       -46.847     -13.031     63.570      
-4HF     "S2'"   S       S2      0       -48.441     -13.250     64.001      
-4HF     "C4'"   C       CR15    0       -46.726     -11.936     62.730      
-4HF     "C5'"   C       CR15    0       -47.996     -11.311     62.482      
-4HF     "C1'"   C       CR5     0       -49.015     -11.945     63.124      
-4HF     C11     C       C       0       -50.445     -11.589     63.106      
-4HF     O11     O       O       0       -50.828     -10.648     62.408      
-4HF     N       N       NH1     0       -51.282     -12.302     63.877      
-4HF     CA      C       CH1     0       -52.708     -11.997     63.957      
-4HF     C       C       C       0       -52.944     -10.709     64.769      
-4HF     OX1     O       OC      -1      -53.482     -9.752      64.176      
-4HF     OX2     O       O       0       -52.582     -10.711     65.962      
-4HF     CB      C       CH2     0       -53.492     -13.167     64.564      
-4HF     CG      C       CH2     0       -53.615     -14.357     63.629      
-4HF     CD      C       C       0       -54.542     -15.454     64.126      
-4HF     OE1     O       O       0       -55.504     -15.789     63.405      
-4HF     OE2     O       OC      -1      -54.299     -15.970     65.235      
-4HF     H51     H       H       0       -43.604     -15.304     67.845      
-4HF     H52     H       H       0       -45.040     -14.647     67.906      
-4HF     HN3     H       H       0       -43.280     -11.551     70.831      
-4HF     HN21    H       H       0       -41.159     -9.479      69.311      
-4HF     HN22    H       H       0       -42.134     -9.565      70.475      
-4HF     HN8     H       H       0       -42.088     -12.142     65.553      
-4HF     H71     H       H       0       -42.136     -14.677     65.690      
-4HF     H72     H       H       0       -42.884     -13.935     64.502      
-4HF     H6      H       H       0       -44.317     -15.423     65.708      
-4HF     H91     H       H       0       -45.084     -12.707     65.521      
-4HF     H92     H       H       0       -46.112     -13.765     66.088      
-4HF     H101    H       H       0       -46.164     -14.870     64.047      
-4HF     H102    H       H       0       -45.044     -13.933     63.473      
-4HF     "H4'"   H       H       0       -45.912     -11.633     62.366      
-4HF     "H5'"   H       H       0       -48.106     -10.551     61.936      
-4HF     HN      H       H       0       -50.963     -12.967     64.345      
-4HF     HA      H       H       0       -53.051     -11.849     63.039      
-4HF     HB1     H       H       0       -54.392     -12.857     64.801      
-4HF     HB2     H       H       0       -53.045     -13.454     65.388      
-4HF     HG1     H       H       0       -52.725     -14.744     63.488      
-4HF     HG2     H       H       0       -53.942     -14.044     62.758      
+4HF C5    C CH2  0  -44.129 -14.523 67.555
+4HF C4A   C CR66 0  -43.527 -13.279 68.167
+4HF C4    C CR6  0  -43.746 -12.939 69.507
+4HF O4    O O    0  -44.447 -13.624 70.276
+4HF N3    N NR6  0  -43.149 -11.781 69.985
+4HF C2    C CR6  0  -42.364 -10.985 69.183
+4HF N2    N NH2  0  -41.823 -9.883  69.719
+4HF N1    N NRD6 0  -42.142 -11.296 67.905
+4HF C8A   C CR66 0  -42.709 -12.437 67.380
+4HF N8    N NR6  0  -42.464 -12.734 66.049
+4HF C7    C CH2  0  -42.831 -14.018 65.478
+4HF C6    C CH1  0  -44.176 -14.498 66.026
+4HF C9    C CH2  0  -45.343 -13.652 65.492
+4HF C10   C CH2  0  -45.807 -13.964 64.077
+4HF "C3'" C CR5  0  -46.847 -13.031 63.570
+4HF "S2'" S S2   0  -48.441 -13.250 64.001
+4HF "C4'" C CR15 0  -46.726 -11.936 62.730
+4HF "C5'" C CR15 0  -47.996 -11.311 62.482
+4HF "C1'" C CR5  0  -49.015 -11.945 63.124
+4HF C11   C C    0  -50.445 -11.589 63.106
+4HF O11   O O    0  -50.828 -10.648 62.408
+4HF N     N NH1  0  -51.282 -12.302 63.877
+4HF CA    C CH1  0  -52.708 -11.997 63.957
+4HF C     C C    0  -52.944 -10.709 64.769
+4HF OX1   O OC   -1 -53.482 -9.752  64.176
+4HF OX2   O O    0  -52.582 -10.711 65.962
+4HF CB    C CH2  0  -53.492 -13.167 64.564
+4HF CG    C CH2  0  -53.615 -14.357 63.629
+4HF CD    C C    0  -54.542 -15.454 64.126
+4HF OE1   O O    0  -55.504 -15.789 63.405
+4HF OE2   O OC   -1 -54.299 -15.970 65.235
+4HF H51   H H    0  -43.604 -15.304 67.845
+4HF H52   H H    0  -45.040 -14.647 67.906
+4HF HN3   H H    0  -43.280 -11.551 70.831
+4HF HN21  H H    0  -41.159 -9.479  69.311
+4HF HN22  H H    0  -42.134 -9.565  70.475
+4HF HN8   H H    0  -42.088 -12.142 65.553
+4HF H71   H H    0  -42.136 -14.677 65.690
+4HF H72   H H    0  -42.884 -13.935 64.502
+4HF H6    H H    0  -44.317 -15.423 65.708
+4HF H91   H H    0  -45.084 -12.707 65.521
+4HF H92   H H    0  -46.112 -13.765 66.088
+4HF H101  H H    0  -46.164 -14.870 64.047
+4HF H102  H H    0  -45.044 -13.933 63.473
+4HF "H4'" H H    0  -45.912 -11.633 62.366
+4HF "H5'" H H    0  -48.106 -10.551 61.936
+4HF HN    H H    0  -50.963 -12.967 64.345
+4HF HA    H H    0  -53.051 -11.849 63.039
+4HF HB1   H H    0  -54.392 -12.857 64.801
+4HF HB2   H H    0  -53.045 -13.454 65.388
+4HF HG1   H H    0  -52.725 -14.744 63.488
+4HF HG2   H H    0  -53.942 -14.044 62.758
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -83,60 +82,61 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-4HF          C5         C4A      SINGLE       n     1.508  0.0100     1.508  0.0100
-4HF          C5          C6      SINGLE       n     1.526  0.0100     1.526  0.0100
-4HF         C4A          C4      SINGLE       y     1.396  0.0100     1.396  0.0100
-4HF         C4A         C8A      DOUBLE       y     1.405  0.0135     1.405  0.0135
-4HF          C4          O4      DOUBLE       n     1.246  0.0100     1.246  0.0100
-4HF          C4          N3      SINGLE       y     1.385  0.0100     1.385  0.0100
-4HF          N3          C2      SINGLE       y     1.372  0.0100     1.372  0.0100
-4HF          C2          N2      SINGLE       n     1.337  0.0120     1.337  0.0120
-4HF          C2          N1      DOUBLE       y     1.325  0.0134     1.325  0.0134
-4HF          N1         C8A      SINGLE       y     1.362  0.0179     1.362  0.0179
-4HF         C8A          N8      SINGLE       n     1.378  0.0162     1.378  0.0162
-4HF          N8          C7      SINGLE       n     1.450  0.0100     1.450  0.0100
-4HF          C7          C6      SINGLE       n     1.525  0.0107     1.525  0.0107
-4HF          C6          C9      SINGLE       n     1.534  0.0110     1.534  0.0110
-4HF          C9         C10      SINGLE       n     1.520  0.0165     1.520  0.0165
-4HF         C10       "C3'"      SINGLE       n     1.486  0.0100     1.486  0.0100
-4HF       "C3'"       "S2'"      SINGLE       y     1.695  0.0200     1.695  0.0200
-4HF       "C3'"       "C4'"      DOUBLE       y     1.373  0.0200     1.373  0.0200
-4HF       "S2'"       "C1'"      SINGLE       y     1.695  0.0200     1.695  0.0200
-4HF       "C4'"       "C5'"      SINGLE       y     1.413  0.0154     1.413  0.0154
-4HF       "C5'"       "C1'"      DOUBLE       y     1.352  0.0140     1.352  0.0140
-4HF       "C1'"         C11      SINGLE       n     1.467  0.0127     1.467  0.0127
-4HF         C11         O11      DOUBLE       n     1.231  0.0100     1.231  0.0100
-4HF         C11           N      SINGLE       n     1.336  0.0103     1.336  0.0103
-4HF           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-4HF          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-4HF          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-4HF           C         OX1      SINGLE       n     1.247  0.0187     1.247  0.0187
-4HF           C         OX2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-4HF          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-4HF          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
-4HF          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-4HF          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
-4HF          C5         H51      SINGLE       n     1.089  0.0100     0.985  0.0200
-4HF          C5         H52      SINGLE       n     1.089  0.0100     0.985  0.0200
-4HF          N3         HN3      SINGLE       n     1.016  0.0100     0.886  0.0200
-4HF          N2        HN21      SINGLE       n     1.016  0.0100     0.877  0.0200
-4HF          N2        HN22      SINGLE       n     1.016  0.0100     0.877  0.0200
-4HF          N8         HN8      SINGLE       n     1.016  0.0100     0.858  0.0200
-4HF          C7         H71      SINGLE       n     1.089  0.0100     0.981  0.0161
-4HF          C7         H72      SINGLE       n     1.089  0.0100     0.981  0.0161
-4HF          C6          H6      SINGLE       n     1.089  0.0100     0.989  0.0172
-4HF          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0200
-4HF          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0200
-4HF         C10        H101      SINGLE       n     1.089  0.0100     0.974  0.0100
-4HF         C10        H102      SINGLE       n     1.089  0.0100     0.974  0.0100
-4HF       "C4'"       "H4'"      SINGLE       n     1.082  0.0130     0.942  0.0153
-4HF       "C5'"       "H5'"      SINGLE       n     1.082  0.0130     0.942  0.0154
-4HF           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0101
-4HF          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-4HF          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0178
-4HF          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0178
-4HF          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0185
-4HF          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0185
+4HF C5    C4A   SINGLE n 1.508 0.0100 1.508 0.0100
+4HF C5    C6    SINGLE n 1.526 0.0100 1.526 0.0100
+4HF C4A   C4    SINGLE y 1.396 0.0100 1.396 0.0100
+4HF C4A   C8A   DOUBLE y 1.405 0.0135 1.405 0.0135
+4HF C4    O4    DOUBLE n 1.246 0.0100 1.246 0.0100
+4HF C4    N3    SINGLE y 1.385 0.0100 1.385 0.0100
+4HF N3    C2    SINGLE y 1.372 0.0100 1.372 0.0100
+4HF C2    N2    SINGLE n 1.337 0.0120 1.337 0.0120
+4HF C2    N1    DOUBLE y 1.325 0.0134 1.325 0.0134
+4HF N1    C8A   SINGLE y 1.362 0.0179 1.362 0.0179
+4HF C8A   N8    SINGLE n 1.378 0.0162 1.378 0.0162
+4HF N8    C7    SINGLE n 1.450 0.0100 1.450 0.0100
+4HF C7    C6    SINGLE n 1.525 0.0107 1.525 0.0107
+4HF C6    C9    SINGLE n 1.534 0.0110 1.534 0.0110
+4HF C9    C10   SINGLE n 1.520 0.0165 1.520 0.0165
+4HF C10   "C3'" SINGLE n 1.486 0.0100 1.486 0.0100
+4HF "C3'" "S2'" SINGLE y 1.695 0.0200 1.695 0.0200
+4HF "C3'" "C4'" DOUBLE y 1.373 0.0200 1.373 0.0200
+4HF "S2'" "C1'" SINGLE y 1.695 0.0200 1.695 0.0200
+4HF "C4'" "C5'" SINGLE y 1.413 0.0154 1.413 0.0154
+4HF "C5'" "C1'" DOUBLE y 1.352 0.0140 1.352 0.0140
+4HF "C1'" C11   SINGLE n 1.467 0.0127 1.467 0.0127
+4HF C11   O11   DOUBLE n 1.231 0.0100 1.231 0.0100
+4HF C11   N     SINGLE n 1.336 0.0103 1.336 0.0103
+4HF N     CA    SINGLE n 1.456 0.0100 1.456 0.0100
+4HF CA    C     SINGLE n 1.539 0.0100 1.539 0.0100
+4HF CA    CB    SINGLE n 1.533 0.0100 1.533 0.0100
+4HF C     OX1   SINGLE n 1.247 0.0187 1.247 0.0187
+4HF C     OX2   DOUBLE n 1.247 0.0187 1.247 0.0187
+4HF CB    CG    SINGLE n 1.518 0.0153 1.518 0.0153
+4HF CG    CD    SINGLE n 1.519 0.0109 1.519 0.0109
+4HF CD    OE1   DOUBLE n 1.247 0.0187 1.247 0.0187
+4HF CD    OE2   SINGLE n 1.247 0.0187 1.247 0.0187
+4HF C5    H51   SINGLE n 1.089 0.0100 0.985 0.0200
+4HF C5    H52   SINGLE n 1.089 0.0100 0.985 0.0200
+4HF N3    HN3   SINGLE n 1.016 0.0100 0.886 0.0200
+4HF N2    HN21  SINGLE n 1.016 0.0100 0.877 0.0200
+4HF N2    HN22  SINGLE n 1.016 0.0100 0.877 0.0200
+4HF N8    HN8   SINGLE n 1.016 0.0100 0.858 0.0200
+4HF C7    H71   SINGLE n 1.089 0.0100 0.981 0.0161
+4HF C7    H72   SINGLE n 1.089 0.0100 0.981 0.0161
+4HF C6    H6    SINGLE n 1.089 0.0100 0.989 0.0172
+4HF C9    H91   SINGLE n 1.089 0.0100 0.981 0.0200
+4HF C9    H92   SINGLE n 1.089 0.0100 0.981 0.0200
+4HF C10   H101  SINGLE n 1.089 0.0100 0.974 0.0100
+4HF C10   H102  SINGLE n 1.089 0.0100 0.974 0.0100
+4HF "C4'" "H4'" SINGLE n 1.082 0.0130 0.942 0.0153
+4HF "C5'" "H5'" SINGLE n 1.082 0.0130 0.942 0.0154
+4HF N     HN    SINGLE n 1.016 0.0100 0.873 0.0101
+4HF CA    HA    SINGLE n 1.089 0.0100 0.991 0.0200
+4HF CB    HB1   SINGLE n 1.089 0.0100 0.980 0.0178
+4HF CB    HB2   SINGLE n 1.089 0.0100 0.980 0.0178
+4HF CG    HG1   SINGLE n 1.089 0.0100 0.981 0.0185
+4HF CG    HG2   SINGLE n 1.089 0.0100 0.981 0.0185
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -144,101 +144,102 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-4HF         C4A          C5          C6     113.315    1.50
-4HF         C4A          C5         H51     109.223    1.50
-4HF         C4A          C5         H52     109.223    1.50
-4HF          C6          C5         H51     109.391    1.54
-4HF          C6          C5         H52     109.391    1.54
-4HF         H51          C5         H52     107.263    1.74
-4HF          C5         C4A          C4     120.833    1.97
-4HF          C5         C4A         C8A     119.978    1.50
-4HF          C4         C4A         C8A     119.189    1.50
-4HF         C4A          C4          O4     122.461    1.50
-4HF         C4A          C4          N3     118.246    1.50
-4HF          O4          C4          N3     119.292    1.50
-4HF          C4          N3          C2     122.047    1.50
-4HF          C4          N3         HN3     118.872    1.86
-4HF          C2          N3         HN3     119.081    1.59
-4HF          N3          C2          N2     117.990    1.50
-4HF          N3          C2          N1     121.249    1.50
-4HF          N2          C2          N1     120.762    1.50
-4HF          C2          N2        HN21     119.834    1.50
-4HF          C2          N2        HN22     119.834    1.50
-4HF        HN21          N2        HN22     120.331    1.96
-4HF          C2          N1         C8A     118.344    1.50
-4HF         C4A         C8A          N1     120.925    1.50
-4HF         C4A         C8A          N8     120.883    1.50
-4HF          N1         C8A          N8     118.193    1.73
-4HF         C8A          N8          C7     120.239    3.00
-4HF         C8A          N8         HN8     119.798    2.40
-4HF          C7          N8         HN8     119.962    1.50
-4HF          N8          C7          C6     110.160    1.50
-4HF          N8          C7         H71     109.467    1.50
-4HF          N8          C7         H72     109.467    1.50
-4HF          C6          C7         H71     109.808    1.50
-4HF          C6          C7         H72     109.808    1.50
-4HF         H71          C7         H72     108.194    1.50
-4HF          C5          C6          C7     108.963    1.68
-4HF          C5          C6          C9     111.408    1.50
-4HF          C5          C6          H6     108.260    1.50
-4HF          C7          C6          C9     111.408    1.50
-4HF          C7          C6          H6     107.951    1.92
-4HF          C9          C6          H6     107.292    1.50
-4HF          C6          C9         C10     116.735    2.08
-4HF          C6          C9         H91     108.361    1.50
-4HF          C6          C9         H92     108.361    1.50
-4HF         C10          C9         H91     107.832    1.50
-4HF         C10          C9         H92     107.832    1.50
-4HF         H91          C9         H92     107.474    1.50
-4HF          C9         C10       "C3'"     113.585    1.50
-4HF          C9         C10        H101     110.422    2.26
-4HF          C9         C10        H102     110.422    2.26
-4HF       "C3'"         C10        H101     108.883    1.50
-4HF       "C3'"         C10        H102     108.883    1.50
-4HF        H101         C10        H102     107.724    1.50
-4HF         C10       "C3'"       "S2'"     120.292    3.00
-4HF         C10       "C3'"       "C4'"     131.444    2.41
-4HF       "S2'"       "C3'"       "C4'"     108.264    3.00
-4HF       "C3'"       "S2'"       "C1'"     108.264    3.00
-4HF       "C3'"       "C4'"       "C5'"     107.660    1.50
-4HF       "C3'"       "C4'"       "H4'"     126.416    1.50
-4HF       "C5'"       "C4'"       "H4'"     125.924    1.50
-4HF       "C4'"       "C5'"       "C1'"     107.549    1.50
-4HF       "C4'"       "C5'"       "H5'"     125.873    1.50
-4HF       "C1'"       "C5'"       "H5'"     126.578    1.56
-4HF       "S2'"       "C1'"       "C5'"     108.264    3.00
-4HF       "S2'"       "C1'"         C11     119.837    3.00
-4HF       "C5'"       "C1'"         C11     131.899    3.00
-4HF       "C1'"         C11         O11     121.044    1.72
-4HF       "C1'"         C11           N     116.796    1.69
-4HF         O11         C11           N     122.159    1.50
-4HF         C11           N          CA     120.774    1.61
-4HF         C11           N          HN     119.474    1.50
-4HF          CA           N          HN     119.753    1.50
-4HF           N          CA           C     110.522    1.86
-4HF           N          CA          CB     110.984    1.61
-4HF           N          CA          HA     108.494    1.50
-4HF           C          CA          CB     111.638    2.31
-4HF           C          CA          HA     108.327    1.50
-4HF          CB          CA          HA     108.155    1.50
-4HF          CA           C         OX1     117.249    1.61
-4HF          CA           C         OX2     117.249    1.61
-4HF         OX1           C         OX2     125.502    1.50
-4HF          CA          CB          CG     112.938    1.50
-4HF          CA          CB         HB1     108.606    1.50
-4HF          CA          CB         HB2     108.606    1.50
-4HF          CG          CB         HB1     108.890    1.50
-4HF          CG          CB         HB2     108.890    1.50
-4HF         HB1          CB         HB2     107.844    1.50
-4HF          CB          CG          CD     114.629    2.24
-4HF          CB          CG         HG1     108.906    1.50
-4HF          CB          CG         HG2     108.906    1.50
-4HF          CD          CG         HG1     108.404    1.50
-4HF          CD          CG         HG2     108.404    1.50
-4HF         HG1          CG         HG2     107.521    1.50
-4HF          CG          CD         OE1     118.214    1.64
-4HF          CG          CD         OE2     118.214    1.64
-4HF         OE1          CD         OE2     123.571    1.50
+4HF C4A   C5    C6    113.315 1.50
+4HF C4A   C5    H51   109.223 1.50
+4HF C4A   C5    H52   109.223 1.50
+4HF C6    C5    H51   109.391 1.54
+4HF C6    C5    H52   109.391 1.54
+4HF H51   C5    H52   107.263 1.74
+4HF C5    C4A   C4    120.833 1.97
+4HF C5    C4A   C8A   119.978 1.50
+4HF C4    C4A   C8A   119.189 1.50
+4HF C4A   C4    O4    122.461 1.50
+4HF C4A   C4    N3    118.246 1.50
+4HF O4    C4    N3    119.292 1.50
+4HF C4    N3    C2    122.047 1.50
+4HF C4    N3    HN3   118.872 1.86
+4HF C2    N3    HN3   119.081 1.59
+4HF N3    C2    N2    117.990 1.50
+4HF N3    C2    N1    121.249 1.50
+4HF N2    C2    N1    120.762 1.50
+4HF C2    N2    HN21  119.834 1.50
+4HF C2    N2    HN22  119.834 1.50
+4HF HN21  N2    HN22  120.331 1.96
+4HF C2    N1    C8A   118.344 1.50
+4HF C4A   C8A   N1    120.925 1.50
+4HF C4A   C8A   N8    120.883 1.50
+4HF N1    C8A   N8    118.193 1.73
+4HF C8A   N8    C7    120.239 3.00
+4HF C8A   N8    HN8   119.798 2.40
+4HF C7    N8    HN8   119.962 1.50
+4HF N8    C7    C6    110.160 1.50
+4HF N8    C7    H71   109.467 1.50
+4HF N8    C7    H72   109.467 1.50
+4HF C6    C7    H71   109.808 1.50
+4HF C6    C7    H72   109.808 1.50
+4HF H71   C7    H72   108.194 1.50
+4HF C5    C6    C7    108.963 1.68
+4HF C5    C6    C9    111.408 1.50
+4HF C5    C6    H6    108.260 1.50
+4HF C7    C6    C9    111.408 1.50
+4HF C7    C6    H6    107.951 1.92
+4HF C9    C6    H6    107.292 1.50
+4HF C6    C9    C10   116.735 2.08
+4HF C6    C9    H91   108.361 1.50
+4HF C6    C9    H92   108.361 1.50
+4HF C10   C9    H91   107.832 1.50
+4HF C10   C9    H92   107.832 1.50
+4HF H91   C9    H92   107.474 1.50
+4HF C9    C10   "C3'" 113.585 1.50
+4HF C9    C10   H101  110.422 2.26
+4HF C9    C10   H102  110.422 2.26
+4HF "C3'" C10   H101  108.883 1.50
+4HF "C3'" C10   H102  108.883 1.50
+4HF H101  C10   H102  107.724 1.50
+4HF C10   "C3'" "S2'" 120.292 3.00
+4HF C10   "C3'" "C4'" 131.444 2.41
+4HF "S2'" "C3'" "C4'" 108.264 3.00
+4HF "C3'" "S2'" "C1'" 108.264 3.00
+4HF "C3'" "C4'" "C5'" 107.660 1.50
+4HF "C3'" "C4'" "H4'" 126.416 1.50
+4HF "C5'" "C4'" "H4'" 125.924 1.50
+4HF "C4'" "C5'" "C1'" 107.549 1.50
+4HF "C4'" "C5'" "H5'" 125.873 1.50
+4HF "C1'" "C5'" "H5'" 126.578 1.56
+4HF "S2'" "C1'" "C5'" 108.264 3.00
+4HF "S2'" "C1'" C11   119.837 3.00
+4HF "C5'" "C1'" C11   131.899 3.00
+4HF "C1'" C11   O11   121.044 1.72
+4HF "C1'" C11   N     116.796 1.69
+4HF O11   C11   N     122.159 1.50
+4HF C11   N     CA    120.774 1.61
+4HF C11   N     HN    119.474 1.50
+4HF CA    N     HN    119.753 1.50
+4HF N     CA    C     110.522 1.86
+4HF N     CA    CB    110.984 1.61
+4HF N     CA    HA    108.494 1.50
+4HF C     CA    CB    111.638 2.31
+4HF C     CA    HA    108.327 1.50
+4HF CB    CA    HA    108.155 1.50
+4HF CA    C     OX1   117.249 1.61
+4HF CA    C     OX2   117.249 1.61
+4HF OX1   C     OX2   125.502 1.50
+4HF CA    CB    CG    112.938 1.50
+4HF CA    CB    HB1   108.606 1.50
+4HF CA    CB    HB2   108.606 1.50
+4HF CG    CB    HB1   108.890 1.50
+4HF CG    CB    HB2   108.890 1.50
+4HF HB1   CB    HB2   107.844 1.50
+4HF CB    CG    CD    114.629 2.24
+4HF CB    CG    HG1   108.906 1.50
+4HF CB    CG    HG2   108.906 1.50
+4HF CD    CG    HG1   108.404 1.50
+4HF CD    CG    HG2   108.404 1.50
+4HF HG1   CG    HG2   107.521 1.50
+4HF CG    CD    OE1   118.214 1.64
+4HF CG    CD    OE2   118.214 1.64
+4HF OE1   CD    OE2   123.571 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -249,33 +250,34 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-4HF             sp2_sp3_4          C4         C4A          C5          C6     180.000    10.0     6
-4HF            sp3_sp3_11         C4A          C5          C6          C9     -60.000    10.0     3
-4HF             sp3_sp3_4          C9          C6          C7          N8     -60.000    10.0     3
-4HF            sp3_sp3_19          C5          C6          C9         C10     180.000    10.0     3
-4HF            sp3_sp3_28       "C3'"         C10          C9          C6     180.000    10.0     3
-4HF            sp2_sp3_14       "S2'"       "C3'"         C10          C9     -90.000    10.0     6
-4HF       const_sp2_sp2_2         C10       "C3'"       "S2'"       "C1'"     180.000     5.0     2
-4HF              const_35         C10       "C3'"       "C4'"       "C5'"     180.000    10.0     2
-4HF       const_sp2_sp2_4         C11       "C1'"       "S2'"       "C3'"     180.000     5.0     2
-4HF       const_sp2_sp2_9       "C3'"       "C4'"       "C5'"       "C1'"       0.000     5.0     2
-4HF       const_sp2_sp2_7         C11       "C1'"       "C5'"       "C4'"     180.000     5.0     2
-4HF            sp2_sp2_12       "S2'"       "C1'"         C11         O11     180.000     5.0     2
-4HF            sp2_sp2_15         O11         C11           N          CA       0.000     5.0     2
-4HF              const_16          O4          C4         C4A          C5       0.000    10.0     2
-4HF              const_30          C5         C4A         C8A          N1     180.000    10.0     2
-4HF            sp2_sp3_19         C11           N          CA           C       0.000    10.0     6
-4HF            sp2_sp3_25         OX1           C          CA           N       0.000    10.0     6
-4HF            sp3_sp3_37           N          CA          CB          CG     180.000    10.0     3
-4HF            sp3_sp3_46          CA          CB          CG          CD     180.000    10.0     3
-4HF            sp2_sp3_32         OE1          CD          CG          CB     120.000    10.0     6
-4HF              const_19          O4          C4          N3          C2     180.000    10.0     2
-4HF              const_23          N2          C2          N3          C4     180.000    10.0     2
-4HF             sp2_sp2_5          N3          C2          N2        HN21     180.000     5.0     2
-4HF              const_26          N2          C2          N1         C8A     180.000    10.0     2
-4HF              const_27         C4A         C8A          N1          C2       0.000    10.0     2
-4HF             sp2_sp2_1         C4A         C8A          N8          C7       0.000     5.0     2
-4HF             sp2_sp3_7         C8A          N8          C7          C6       0.000    10.0     6
+4HF sp2_sp3_4       C4    C4A   C5    C6    180.000 10.0 6
+4HF sp3_sp3_11      C4A   C5    C6    C9    -60.000 10.0 3
+4HF sp3_sp3_4       C9    C6    C7    N8    -60.000 10.0 3
+4HF sp3_sp3_19      C5    C6    C9    C10   180.000 10.0 3
+4HF sp3_sp3_28      "C3'" C10   C9    C6    180.000 10.0 3
+4HF sp2_sp3_14      "S2'" "C3'" C10   C9    -90.000 10.0 6
+4HF const_sp2_sp2_2 C10   "C3'" "S2'" "C1'" 180.000 5.0  2
+4HF const_35        C10   "C3'" "C4'" "C5'" 180.000 10.0 2
+4HF const_sp2_sp2_4 C11   "C1'" "S2'" "C3'" 180.000 5.0  2
+4HF const_sp2_sp2_9 "C3'" "C4'" "C5'" "C1'" 0.000   5.0  2
+4HF const_sp2_sp2_7 C11   "C1'" "C5'" "C4'" 180.000 5.0  2
+4HF sp2_sp2_12      "S2'" "C1'" C11   O11   180.000 5.0  2
+4HF sp2_sp2_15      O11   C11   N     CA    0.000   5.0  2
+4HF const_16        O4    C4    C4A   C5    0.000   10.0 2
+4HF const_30        C5    C4A   C8A   N1    180.000 10.0 2
+4HF sp2_sp3_19      C11   N     CA    C     0.000   10.0 6
+4HF sp2_sp3_25      OX1   C     CA    N     0.000   10.0 6
+4HF sp3_sp3_37      N     CA    CB    CG    180.000 10.0 3
+4HF sp3_sp3_46      CA    CB    CG    CD    180.000 10.0 3
+4HF sp2_sp3_32      OE1   CD    CG    CB    120.000 10.0 6
+4HF const_19        O4    C4    N3    C2    180.000 10.0 2
+4HF const_23        N2    C2    N3    C4    180.000 10.0 2
+4HF sp2_sp2_5       N3    C2    N2    HN21  180.000 5.0  2
+4HF const_26        N2    C2    N1    C8A   180.000 10.0 2
+4HF const_27        C4A   C8A   N1    C2    0.000   10.0 2
+4HF sp2_sp2_1       C4A   C8A   N8    C7    0.000   5.0  2
+4HF sp2_sp3_7       C8A   N8    C7    C6    0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -284,76 +286,89 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-4HF    chir_1    C6    C7    C5    C9    negative
-4HF    chir_2    CA    N    C    CB    positive
+4HF chir_1 C6 C7 C5 C9 negative
+4HF chir_2 CA N  C  CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-4HF    plan-1       "C1'"   0.020
-4HF    plan-1         C10   0.020
-4HF    plan-1         C11   0.020
-4HF    plan-1       "C3'"   0.020
-4HF    plan-1       "C4'"   0.020
-4HF    plan-1       "C5'"   0.020
-4HF    plan-1       "H4'"   0.020
-4HF    plan-1       "H5'"   0.020
-4HF    plan-1       "S2'"   0.020
-4HF    plan-2          C2   0.020
-4HF    plan-2          C4   0.020
-4HF    plan-2         C4A   0.020
-4HF    plan-2          C5   0.020
-4HF    plan-2         C8A   0.020
-4HF    plan-2         HN3   0.020
-4HF    plan-2          N1   0.020
-4HF    plan-2          N2   0.020
-4HF    plan-2          N3   0.020
-4HF    plan-2          N8   0.020
-4HF    plan-2          O4   0.020
-4HF    plan-3          C2   0.020
-4HF    plan-3        HN21   0.020
-4HF    plan-3        HN22   0.020
-4HF    plan-3          N2   0.020
-4HF    plan-4          C7   0.020
-4HF    plan-4         C8A   0.020
-4HF    plan-4         HN8   0.020
-4HF    plan-4          N8   0.020
-4HF    plan-5       "C1'"   0.020
-4HF    plan-5         C11   0.020
-4HF    plan-5           N   0.020
-4HF    plan-5         O11   0.020
-4HF    plan-6         C11   0.020
-4HF    plan-6          CA   0.020
-4HF    plan-6          HN   0.020
-4HF    plan-6           N   0.020
-4HF    plan-7           C   0.020
-4HF    plan-7          CA   0.020
-4HF    plan-7         OX1   0.020
-4HF    plan-7         OX2   0.020
-4HF    plan-8          CD   0.020
-4HF    plan-8          CG   0.020
-4HF    plan-8         OE1   0.020
-4HF    plan-8         OE2   0.020
+4HF plan-1 "C1'" 0.020
+4HF plan-1 C10   0.020
+4HF plan-1 C11   0.020
+4HF plan-1 "C3'" 0.020
+4HF plan-1 "C4'" 0.020
+4HF plan-1 "C5'" 0.020
+4HF plan-1 "H4'" 0.020
+4HF plan-1 "H5'" 0.020
+4HF plan-1 "S2'" 0.020
+4HF plan-2 C2    0.020
+4HF plan-2 C4    0.020
+4HF plan-2 C4A   0.020
+4HF plan-2 C5    0.020
+4HF plan-2 C8A   0.020
+4HF plan-2 HN3   0.020
+4HF plan-2 N1    0.020
+4HF plan-2 N2    0.020
+4HF plan-2 N3    0.020
+4HF plan-2 N8    0.020
+4HF plan-2 O4    0.020
+4HF plan-3 C2    0.020
+4HF plan-3 HN21  0.020
+4HF plan-3 HN22  0.020
+4HF plan-3 N2    0.020
+4HF plan-4 C7    0.020
+4HF plan-4 C8A   0.020
+4HF plan-4 HN8   0.020
+4HF plan-4 N8    0.020
+4HF plan-5 "C1'" 0.020
+4HF plan-5 C11   0.020
+4HF plan-5 N     0.020
+4HF plan-5 O11   0.020
+4HF plan-6 C11   0.020
+4HF plan-6 CA    0.020
+4HF plan-6 HN    0.020
+4HF plan-6 N     0.020
+4HF plan-7 C     0.020
+4HF plan-7 CA    0.020
+4HF plan-7 OX1   0.020
+4HF plan-7 OX2   0.020
+4HF plan-8 CD    0.020
+4HF plan-8 CG    0.020
+4HF plan-8 OE1   0.020
+4HF plan-8 OE2   0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-4HF           SMILES              ACDLabs 10.04                                                                                                                                             O=C(O)C(NC(=O)c1sc(cc1)CCC3CNC=2N=C(N)NC(=O)C=2C3)CCC(=O)O
-4HF SMILES_CANONICAL               CACTVS 3.341                                                                                                                                  NC1=NC2=C(C[C@@H](CCc3sc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)CN2)C(=O)N1
-4HF           SMILES               CACTVS 3.341                                                                                                                                      NC1=NC2=C(C[CH](CCc3sc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O)CN2)C(=O)N1
-4HF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                    c1cc(sc1CC[C@@H]2CC3=C(NC2)N=C(NC3=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)O
-4HF           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                              c1cc(sc1CCC2CC3=C(NC2)N=C(NC3=O)N)C(=O)NC(CCC(=O)O)C(=O)O
-4HF            InChI                InChI  1.03 InChI=1S/C19H23N5O6S/c20-19-23-15-11(16(27)24-19)7-9(8-21-15)1-2-10-3-5-13(31-10)17(28)22-12(18(29)30)4-6-14(25)26/h3,5,9,12H,1-2,4,6-8H2,(H,22,28)(H,25,26)(H,29,30)(H4,20,21,23,24,27)/t9-,12+/m1/s1
-4HF         InChIKey                InChI  1.03                                                                                                                                                                            GQCXGHHHNACOGE-SKDRFNHKSA-N
+4HF SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)c1sc(cc1)CCC3CNC=2N=C(N)NC(=O)C=2C3)CCC(=O)O
+4HF SMILES_CANONICAL CACTVS               3.341 NC1=NC2=C(C[C@@H](CCc3sc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)CN2)C(=O)N1
+4HF SMILES           CACTVS               3.341 NC1=NC2=C(C[CH](CCc3sc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O)CN2)C(=O)N1
+4HF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1cc(sc1CC[C@@H]2CC3=C(NC2)N=C(NC3=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+4HF SMILES           "OpenEye OEToolkits" 1.5.0 c1cc(sc1CCC2CC3=C(NC2)N=C(NC3=O)N)C(=O)NC(CCC(=O)O)C(=O)O
+4HF InChI            InChI                1.03  InChI=1S/C19H23N5O6S/c20-19-23-15-11(16(27)24-19)7-9(8-21-15)1-2-10-3-5-13(31-10)17(28)22-12(18(29)30)4-6-14(25)26/h3,5,9,12H,1-2,4,6-8H2,(H,22,28)(H,25,26)(H,29,30)(H4,20,21,23,24,27)/t9-,12+/m1/s1
+4HF InChIKey         InChI                1.03  GQCXGHHHNACOGE-SKDRFNHKSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-4HF acedrg               243         "dictionary generator"                  
-4HF acedrg_database      11          "data source"                           
-4HF rdkit                2017.03.2   "Chemoinformatics tool"
-4HF refmac5              5.8.0238    "optimization tool"                     
+4HF acedrg          243       "dictionary generator"
+4HF acedrg_database 11        "data source"
+4HF rdkit           2017.03.2 "Chemoinformatics tool"
+4HF refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+4HF M-peptide OX2 O
+4HF M-peptide C11 CN
+4HF M-peptide OX1 OXT
+4HF M-peptide HN  H

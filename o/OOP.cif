@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-OOP     OOP      1-deoxy-1-[(4aR)-4a-[(2R)-1-hydroxy-5-{[(S)-hydroxy(phosphonooxy)phosphoryl]oxy}-3-methylidenepentan-2-yl]-7,8-dimethyl-2,4-dioxo-3,4,4a,5-tetrahydrobenzo[g]pteridin-10(2H)-yl]-5-O-phosphono-D-ribitol     NON-POLYMER     77     47     .     
-#
+OOP OOP 1-deoxy-1-[(4aR)-4a-[(2R)-1-hydroxy-5-{[(S)-hydroxy(phosphonooxy)phosphoryl]oxy}-3-methylidenepentan-2-yl]-7,8-dimethyl-2,4-dioxo-3,4,4a,5-tetrahydrobenzo[g]pteridin-10(2H)-yl]-5-O-phosphono-D-ribitol NON-POLYMER 77 47 .
+
 data_comp_OOP
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,83 +19,84 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-OOP     P       P       P       0       63.700      26.798      15.586      
-OOP     N1      N       NRD6    0       62.329      18.185      15.914      
-OOP     C2      C       CR6     0       62.563      16.911      16.141      
-OOP     O2      O       O       0       63.154      16.608      17.149      
-OOP     N3      N       NR6     0       62.165      15.926      15.290      
-OOP     C4      C       CR6     0       61.480      16.195      14.136      
-OOP     O4      O       O       0       61.450      15.365      13.249      
-OOP     N5      N       NR6     0       60.874      18.087      12.660      
-OOP     C6      C       CR16    0       60.364      19.889      11.131      
-OOP     C7      C       CR6     0       60.208      21.228      10.866      
-OOP     C8      C       CR6     0       60.418      22.189      11.922      
-OOP     C9      C       CR16    0       60.768      21.758      13.180      
-OOP     PA      P       P       0       56.675      13.408      15.707      
-OOP     PB      P       P       0       55.893      13.117      18.532      
-OOP     "C1'"   C       CH2     0       61.435      20.855      15.925      
-OOP     C10     C       CR66    0       61.515      18.547      14.975      
-OOP     N10     N       NR6     0       61.290      19.909      14.771      
-OOP     C11     C       CH2     0       56.925      14.774      13.456      
-OOP     O11     O       O2      0       56.630      14.781      14.876      
-OOP     C12     C       CH2     0       58.305      15.334      13.219      
-OOP     C13     C       CH1     0       59.295      17.471      14.444      
-OOP     C14     C       CH2     0       59.026      16.853      15.817      
-OOP     C15     C       C2      0       57.747      17.612      12.494      
-OOP     O15     O       OH1     0       57.649      16.947      16.164      
-OOP     C16     C       C       0       58.408      16.834      13.343      
-OOP     O1A     O       OP      -1      55.661      12.477      15.128      
-OOP     O1B     O       O       0       54.708      12.220      18.269      
-OOP     O1P     O       OP      -1      65.000      26.940      14.817      
-OOP     "C2'"   C       CH1     0       62.800      21.541      15.916      
-OOP     "O2'"   O       OH1     0       63.823      20.556      16.059      
-OOP     O2A     O       O       0       58.096      12.960      15.806      
-OOP     O2B     O       OP      -1      55.601      14.182      19.560      
-OOP     O2P     O       OP      -1      63.418      27.983      16.490      
-OOP     "C3'"   C       CH1     0       62.981      22.600      17.011      
-OOP     "O3'"   O       OH1     0       62.691      22.030      18.289      
-OOP     O3A     O       O2      0       56.174      13.900      17.149      
-OOP     O3B     O       OP      -1      57.153      12.344      18.836      
-OOP     O3P     O       O       0       62.525      26.445      14.694      
-OOP     "C4'"   C       CH1     0       62.149      23.871      16.802      
-OOP     "O4'"   O       OH1     0       60.845      23.718      17.368      
-OOP     C4A     C       CT      0       60.812      17.568      14.027      
-OOP     "C5'"   C       CH2     0       62.801      25.092      17.410      
-OOP     "O5'"   O       O2      0       63.907      25.532      16.569      
-OOP     C5A     C       CR66    0       60.720      19.444      12.411      
-OOP     C7M     C       CH3     0       59.826      21.672      9.478       
-OOP     C8M     C       CH3     0       60.255      23.663      11.659      
-OOP     C9A     C       CR66    0       60.930      20.395      13.467      
-OOP     HN3     H       H       0       62.349      15.083      15.484      
-OOP     HN5     H       H       0       61.002      17.536      11.993      
-OOP     H6      H       H       0       60.228      19.264      10.441      
-OOP     H9      H       H       0       60.900      22.401      13.851      
-OOP     "H1'"   H       H       0       61.325      20.368      16.763      
-OOP     "H1'A"  H       H       0       60.731      21.526      15.889      
-OOP     H11     H       H       0       56.261      15.311      12.977      
-OOP     H11A    H       H       0       56.885      13.858      13.107      
-OOP     H12     H       H       0       58.587      15.080      12.318      
-OOP     H12A    H       H       0       58.920      14.911      13.848      
-OOP     H13     H       H       0       58.965      18.398      14.517      
-OOP     H14     H       H       0       59.554      17.323      16.496      
-OOP     H14A    H       H       0       59.294      15.912      15.822      
-OOP     H15     H       H       0       57.811      18.557      12.557      
-OOP     H15A    H       H       0       57.206      17.225      11.817      
-OOP     HO15    H       H       0       57.547      16.675      16.958      
-OOP     "H2'"   H       H       0       62.928      21.980      15.037      
-OOP     "HO2'"  H       H       0       63.741      20.158      16.804      
-OOP     "H3'"   H       H       0       63.938      22.860      17.010      
-OOP     "HO3'"  H       H       0       63.016      22.534      18.889      
-OOP     "H4'"   H       H       0       62.047      24.027      15.816      
-OOP     "HO4'"  H       H       0       60.885      23.542      18.197      
-OOP     "H5'"   H       H       0       63.139      24.873      18.303      
-OOP     "H5'A"  H       H       0       62.139      25.809      17.499      
-OOP     H7M     H       H       0       59.112      22.329      9.526       
-OOP     H7MA    H       H       0       59.519      20.911      8.959       
-OOP     H7MB    H       H       0       60.596      22.068      9.039       
-OOP     H8M     H       H       0       60.482      24.172      12.455      
-OOP     H8MA    H       H       0       59.334      23.850      11.413      
-OOP     H8MB    H       H       0       60.840      23.932      10.932      
+OOP P      P P    0  63.700 26.798 15.586
+OOP N1     N NRD6 0  62.329 18.185 15.914
+OOP C2     C CR6  0  62.563 16.911 16.141
+OOP O2     O O    0  63.154 16.608 17.149
+OOP N3     N NR6  0  62.165 15.926 15.290
+OOP C4     C CR6  0  61.480 16.195 14.136
+OOP O4     O O    0  61.450 15.365 13.249
+OOP N5     N NR6  0  60.874 18.087 12.660
+OOP C6     C CR16 0  60.364 19.889 11.131
+OOP C7     C CR6  0  60.208 21.228 10.866
+OOP C8     C CR6  0  60.418 22.189 11.922
+OOP C9     C CR16 0  60.768 21.758 13.180
+OOP PA     P P    0  56.675 13.408 15.707
+OOP PB     P P    0  55.893 13.117 18.532
+OOP "C1'"  C CH2  0  61.435 20.855 15.925
+OOP C10    C CR66 0  61.515 18.547 14.975
+OOP N10    N NR6  0  61.290 19.909 14.771
+OOP C11    C CH2  0  56.925 14.774 13.456
+OOP O11    O O2   0  56.630 14.781 14.876
+OOP C12    C CH2  0  58.305 15.334 13.219
+OOP C13    C CH1  0  59.295 17.471 14.444
+OOP C14    C CH2  0  59.026 16.853 15.817
+OOP C15    C C2   0  57.747 17.612 12.494
+OOP O15    O OH1  0  57.649 16.947 16.164
+OOP C16    C C    0  58.408 16.834 13.343
+OOP O1A    O OP   -1 55.661 12.477 15.128
+OOP O1B    O O    0  54.708 12.220 18.269
+OOP O1P    O OP   -1 65.000 26.940 14.817
+OOP "C2'"  C CH1  0  62.800 21.541 15.916
+OOP "O2'"  O OH1  0  63.823 20.556 16.059
+OOP O2A    O O    0  58.096 12.960 15.806
+OOP O2B    O OP   -1 55.601 14.182 19.560
+OOP O2P    O OP   -1 63.418 27.983 16.490
+OOP "C3'"  C CH1  0  62.981 22.600 17.011
+OOP "O3'"  O OH1  0  62.691 22.030 18.289
+OOP O3A    O O2   0  56.174 13.900 17.149
+OOP O3B    O OP   -1 57.153 12.344 18.836
+OOP O3P    O O    0  62.525 26.445 14.694
+OOP "C4'"  C CH1  0  62.149 23.871 16.802
+OOP "O4'"  O OH1  0  60.845 23.718 17.368
+OOP C4A    C CT   0  60.812 17.568 14.027
+OOP "C5'"  C CH2  0  62.801 25.092 17.410
+OOP "O5'"  O O2   0  63.907 25.532 16.569
+OOP C5A    C CR66 0  60.720 19.444 12.411
+OOP C7M    C CH3  0  59.826 21.672 9.478
+OOP C8M    C CH3  0  60.255 23.663 11.659
+OOP C9A    C CR66 0  60.930 20.395 13.467
+OOP HN3    H H    0  62.349 15.083 15.484
+OOP HN5    H H    0  61.002 17.536 11.993
+OOP H6     H H    0  60.228 19.264 10.441
+OOP H9     H H    0  60.900 22.401 13.851
+OOP "H1'"  H H    0  61.325 20.368 16.763
+OOP "H1'A" H H    0  60.731 21.526 15.889
+OOP H11    H H    0  56.261 15.311 12.977
+OOP H11A   H H    0  56.885 13.858 13.107
+OOP H12    H H    0  58.587 15.080 12.318
+OOP H12A   H H    0  58.920 14.911 13.848
+OOP H13    H H    0  58.965 18.398 14.517
+OOP H14    H H    0  59.554 17.323 16.496
+OOP H14A   H H    0  59.294 15.912 15.822
+OOP H15    H H    0  57.811 18.557 12.557
+OOP H15A   H H    0  57.206 17.225 11.817
+OOP HO15   H H    0  57.547 16.675 16.958
+OOP "H2'"  H H    0  62.928 21.980 15.037
+OOP "HO2'" H H    0  63.741 20.158 16.804
+OOP "H3'"  H H    0  63.938 22.860 17.010
+OOP "HO3'" H H    0  63.016 22.534 18.889
+OOP "H4'"  H H    0  62.047 24.027 15.816
+OOP "HO4'" H H    0  60.885 23.542 18.197
+OOP "H5'"  H H    0  63.139 24.873 18.303
+OOP "H5'A" H H    0  62.139 25.809 17.499
+OOP H7M    H H    0  59.112 22.329 9.526
+OOP H7MA   H H    0  59.519 20.911 8.959
+OOP H7MB   H H    0  60.596 22.068 9.039
+OOP H8M    H H    0  60.482 24.172 12.455
+OOP H8MA   H H    0  59.334 23.850 11.413
+OOP H8MB   H H    0  60.840 23.932 10.932
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -108,85 +107,86 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-OOP           P         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
-OOP           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
-OOP           P         O3P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-OOP           P       "O5'"      SINGLE       n     1.614  0.0178     1.614  0.0178
-OOP          N1          C2      SINGLE       n     1.307  0.0137     1.307  0.0137
-OOP          N1         C10      DOUBLE       n     1.287  0.0100     1.287  0.0100
-OOP          C2          O2      DOUBLE       n     1.207  0.0100     1.207  0.0100
-OOP          C2          N3      SINGLE       n     1.358  0.0100     1.358  0.0100
-OOP          N3          C4      SINGLE       n     1.363  0.0166     1.363  0.0166
-OOP          C4          O4      DOUBLE       n     1.214  0.0100     1.214  0.0100
-OOP          C4         C4A      SINGLE       n     1.522  0.0135     1.522  0.0135
-OOP          N5         C4A      SINGLE       n     1.462  0.0105     1.462  0.0105
-OOP          N5         C5A      SINGLE       n     1.382  0.0156     1.382  0.0156
-OOP          C6          C7      SINGLE       y     1.370  0.0100     1.370  0.0100
-OOP          C6         C5A      DOUBLE       y     1.399  0.0100     1.399  0.0100
-OOP          C7          C8      DOUBLE       y     1.437  0.0100     1.437  0.0100
-OOP          C7         C7M      SINGLE       n     1.504  0.0100     1.504  0.0100
-OOP          C8          C9      SINGLE       y     1.370  0.0100     1.370  0.0100
-OOP          C8         C8M      SINGLE       n     1.504  0.0100     1.504  0.0100
-OOP          C9         C9A      DOUBLE       y     1.393  0.0100     1.393  0.0100
-OOP          PA         O11      SINGLE       n     1.604  0.0133     1.604  0.0133
-OOP          PA         O1A      SINGLE       n     1.493  0.0122     1.493  0.0122
-OOP          PA         O2A      DOUBLE       n     1.493  0.0122     1.493  0.0122
-OOP          PA         O3A      SINGLE       n     1.604  0.0133     1.604  0.0133
-OOP          PB         O1B      DOUBLE       n     1.509  0.0200     1.509  0.0200
-OOP          PB         O2B      SINGLE       n     1.509  0.0200     1.509  0.0200
-OOP          PB         O3A      SINGLE       n     1.614  0.0178     1.614  0.0178
-OOP          PB         O3B      SINGLE       n     1.509  0.0200     1.509  0.0200
-OOP       "C1'"         N10      SINGLE       n     1.483  0.0144     1.483  0.0144
-OOP       "C1'"       "C2'"      SINGLE       n     1.517  0.0189     1.517  0.0189
-OOP         C10         N10      SINGLE       n     1.359  0.0200     1.359  0.0200
-OOP         C10         C4A      SINGLE       n     1.510  0.0182     1.510  0.0182
-OOP         N10         C9A      SINGLE       n     1.414  0.0133     1.414  0.0133
-OOP         C11         O11      SINGLE       n     1.447  0.0162     1.447  0.0162
-OOP         C11         C12      SINGLE       n     1.504  0.0200     1.504  0.0200
-OOP         C12         C16      SINGLE       n     1.502  0.0126     1.502  0.0126
-OOP         C13         C14      SINGLE       n     1.511  0.0183     1.511  0.0183
-OOP         C13         C16      SINGLE       n     1.515  0.0197     1.515  0.0197
-OOP         C13         C4A      SINGLE       n     1.541  0.0200     1.541  0.0200
-OOP         C14         O15      SINGLE       n     1.421  0.0200     1.421  0.0200
-OOP         C15         C16      DOUBLE       n     1.324  0.0122     1.324  0.0122
-OOP       "C2'"       "O2'"      SINGLE       n     1.424  0.0199     1.424  0.0199
-OOP       "C2'"       "C3'"      SINGLE       n     1.531  0.0100     1.531  0.0100
-OOP       "C3'"       "O3'"      SINGLE       n     1.424  0.0199     1.424  0.0199
-OOP       "C3'"       "C4'"      SINGLE       n     1.530  0.0100     1.530  0.0100
-OOP       "C4'"       "O4'"      SINGLE       n     1.429  0.0100     1.429  0.0100
-OOP       "C4'"       "C5'"      SINGLE       n     1.511  0.0100     1.511  0.0100
-OOP       "C5'"       "O5'"      SINGLE       n     1.454  0.0165     1.454  0.0165
-OOP         C5A         C9A      SINGLE       y     1.408  0.0180     1.408  0.0180
-OOP          N3         HN3      SINGLE       n     1.016  0.0100     0.882  0.0200
-OOP          N5         HN5      SINGLE       n     1.016  0.0100     0.875  0.0200
-OOP          C6          H6      SINGLE       n     1.082  0.0130     0.941  0.0127
-OOP          C9          H9      SINGLE       n     1.082  0.0130     0.941  0.0127
-OOP       "C1'"       "H1'"      SINGLE       n     1.089  0.0100     0.976  0.0163
-OOP       "C1'"      "H1'A"      SINGLE       n     1.089  0.0100     0.976  0.0163
-OOP         C11         H11      SINGLE       n     1.089  0.0100     0.980  0.0143
-OOP         C11        H11A      SINGLE       n     1.089  0.0100     0.980  0.0143
-OOP         C12         H12      SINGLE       n     1.089  0.0100     0.978  0.0105
-OOP         C12        H12A      SINGLE       n     1.089  0.0100     0.978  0.0105
-OOP         C13         H13      SINGLE       n     1.089  0.0100     0.986  0.0200
-OOP         C14         H14      SINGLE       n     1.089  0.0100     0.982  0.0200
-OOP         C14        H14A      SINGLE       n     1.089  0.0100     0.982  0.0200
-OOP         C15         H15      SINGLE       n     1.082  0.0130     0.949  0.0200
-OOP         C15        H15A      SINGLE       n     1.082  0.0130     0.949  0.0200
-OOP         O15        HO15      SINGLE       n     0.970  0.0120     0.846  0.0200
-OOP       "C2'"       "H2'"      SINGLE       n     1.089  0.0100     0.992  0.0184
-OOP       "O2'"      "HO2'"      SINGLE       n     0.970  0.0120     0.848  0.0200
-OOP       "C3'"       "H3'"      SINGLE       n     1.089  0.0100     0.992  0.0184
-OOP       "O3'"      "HO3'"      SINGLE       n     0.970  0.0120     0.848  0.0200
-OOP       "C4'"       "H4'"      SINGLE       n     1.089  0.0100     1.004  0.0200
-OOP       "O4'"      "HO4'"      SINGLE       n     0.970  0.0120     0.848  0.0200
-OOP       "C5'"       "H5'"      SINGLE       n     1.089  0.0100     0.980  0.0146
-OOP       "C5'"      "H5'A"      SINGLE       n     1.089  0.0100     0.980  0.0146
-OOP         C7M         H7M      SINGLE       n     1.089  0.0100     0.971  0.0135
-OOP         C7M        H7MA      SINGLE       n     1.089  0.0100     0.971  0.0135
-OOP         C7M        H7MB      SINGLE       n     1.089  0.0100     0.971  0.0135
-OOP         C8M         H8M      SINGLE       n     1.089  0.0100     0.971  0.0135
-OOP         C8M        H8MA      SINGLE       n     1.089  0.0100     0.971  0.0135
-OOP         C8M        H8MB      SINGLE       n     1.089  0.0100     0.971  0.0135
+OOP P     O1P    SINGLE n 1.517 0.0192 1.517 0.0192
+OOP P     O2P    SINGLE n 1.517 0.0192 1.517 0.0192
+OOP P     O3P    DOUBLE n 1.517 0.0192 1.517 0.0192
+OOP P     "O5'"  SINGLE n 1.614 0.0178 1.614 0.0178
+OOP N1    C2     SINGLE n 1.307 0.0137 1.307 0.0137
+OOP N1    C10    DOUBLE n 1.287 0.0100 1.287 0.0100
+OOP C2    O2     DOUBLE n 1.207 0.0100 1.207 0.0100
+OOP C2    N3     SINGLE n 1.358 0.0100 1.358 0.0100
+OOP N3    C4     SINGLE n 1.363 0.0166 1.363 0.0166
+OOP C4    O4     DOUBLE n 1.214 0.0100 1.214 0.0100
+OOP C4    C4A    SINGLE n 1.522 0.0135 1.522 0.0135
+OOP N5    C4A    SINGLE n 1.462 0.0105 1.462 0.0105
+OOP N5    C5A    SINGLE n 1.382 0.0156 1.382 0.0156
+OOP C6    C7     SINGLE y 1.370 0.0100 1.370 0.0100
+OOP C6    C5A    DOUBLE y 1.399 0.0100 1.399 0.0100
+OOP C7    C8     DOUBLE y 1.437 0.0100 1.437 0.0100
+OOP C7    C7M    SINGLE n 1.504 0.0100 1.504 0.0100
+OOP C8    C9     SINGLE y 1.370 0.0100 1.370 0.0100
+OOP C8    C8M    SINGLE n 1.504 0.0100 1.504 0.0100
+OOP C9    C9A    DOUBLE y 1.393 0.0100 1.393 0.0100
+OOP PA    O11    SINGLE n 1.604 0.0133 1.604 0.0133
+OOP PA    O1A    SINGLE n 1.493 0.0122 1.493 0.0122
+OOP PA    O2A    DOUBLE n 1.493 0.0122 1.493 0.0122
+OOP PA    O3A    SINGLE n 1.604 0.0133 1.604 0.0133
+OOP PB    O1B    DOUBLE n 1.509 0.0200 1.509 0.0200
+OOP PB    O2B    SINGLE n 1.509 0.0200 1.509 0.0200
+OOP PB    O3A    SINGLE n 1.614 0.0178 1.614 0.0178
+OOP PB    O3B    SINGLE n 1.509 0.0200 1.509 0.0200
+OOP "C1'" N10    SINGLE n 1.483 0.0144 1.483 0.0144
+OOP "C1'" "C2'"  SINGLE n 1.517 0.0189 1.517 0.0189
+OOP C10   N10    SINGLE n 1.359 0.0200 1.359 0.0200
+OOP C10   C4A    SINGLE n 1.510 0.0182 1.510 0.0182
+OOP N10   C9A    SINGLE n 1.414 0.0133 1.414 0.0133
+OOP C11   O11    SINGLE n 1.447 0.0162 1.447 0.0162
+OOP C11   C12    SINGLE n 1.504 0.0200 1.504 0.0200
+OOP C12   C16    SINGLE n 1.502 0.0126 1.502 0.0126
+OOP C13   C14    SINGLE n 1.511 0.0183 1.511 0.0183
+OOP C13   C16    SINGLE n 1.515 0.0197 1.515 0.0197
+OOP C13   C4A    SINGLE n 1.541 0.0200 1.541 0.0200
+OOP C14   O15    SINGLE n 1.421 0.0200 1.421 0.0200
+OOP C15   C16    DOUBLE n 1.324 0.0122 1.324 0.0122
+OOP "C2'" "O2'"  SINGLE n 1.424 0.0199 1.424 0.0199
+OOP "C2'" "C3'"  SINGLE n 1.531 0.0100 1.531 0.0100
+OOP "C3'" "O3'"  SINGLE n 1.424 0.0199 1.424 0.0199
+OOP "C3'" "C4'"  SINGLE n 1.530 0.0100 1.530 0.0100
+OOP "C4'" "O4'"  SINGLE n 1.429 0.0100 1.429 0.0100
+OOP "C4'" "C5'"  SINGLE n 1.511 0.0100 1.511 0.0100
+OOP "C5'" "O5'"  SINGLE n 1.454 0.0165 1.454 0.0165
+OOP C5A   C9A    SINGLE y 1.408 0.0180 1.408 0.0180
+OOP N3    HN3    SINGLE n 1.016 0.0100 0.882 0.0200
+OOP N5    HN5    SINGLE n 1.016 0.0100 0.875 0.0200
+OOP C6    H6     SINGLE n 1.082 0.0130 0.941 0.0127
+OOP C9    H9     SINGLE n 1.082 0.0130 0.941 0.0127
+OOP "C1'" "H1'"  SINGLE n 1.089 0.0100 0.976 0.0163
+OOP "C1'" "H1'A" SINGLE n 1.089 0.0100 0.976 0.0163
+OOP C11   H11    SINGLE n 1.089 0.0100 0.980 0.0143
+OOP C11   H11A   SINGLE n 1.089 0.0100 0.980 0.0143
+OOP C12   H12    SINGLE n 1.089 0.0100 0.978 0.0105
+OOP C12   H12A   SINGLE n 1.089 0.0100 0.978 0.0105
+OOP C13   H13    SINGLE n 1.089 0.0100 0.986 0.0200
+OOP C14   H14    SINGLE n 1.089 0.0100 0.982 0.0200
+OOP C14   H14A   SINGLE n 1.089 0.0100 0.982 0.0200
+OOP C15   H15    SINGLE n 1.082 0.0130 0.949 0.0200
+OOP C15   H15A   SINGLE n 1.082 0.0130 0.949 0.0200
+OOP O15   HO15   SINGLE n 0.970 0.0120 0.846 0.0200
+OOP "C2'" "H2'"  SINGLE n 1.089 0.0100 0.992 0.0184
+OOP "O2'" "HO2'" SINGLE n 0.970 0.0120 0.848 0.0200
+OOP "C3'" "H3'"  SINGLE n 1.089 0.0100 0.992 0.0184
+OOP "O3'" "HO3'" SINGLE n 0.970 0.0120 0.848 0.0200
+OOP "C4'" "H4'"  SINGLE n 1.089 0.0100 1.004 0.0200
+OOP "O4'" "HO4'" SINGLE n 0.970 0.0120 0.848 0.0200
+OOP "C5'" "H5'"  SINGLE n 1.089 0.0100 0.980 0.0146
+OOP "C5'" "H5'A" SINGLE n 1.089 0.0100 0.980 0.0146
+OOP C7M   H7M    SINGLE n 1.089 0.0100 0.971 0.0135
+OOP C7M   H7MA   SINGLE n 1.089 0.0100 0.971 0.0135
+OOP C7M   H7MB   SINGLE n 1.089 0.0100 0.971 0.0135
+OOP C8M   H8M    SINGLE n 1.089 0.0100 0.971 0.0135
+OOP C8M   H8MA   SINGLE n 1.089 0.0100 0.971 0.0135
+OOP C8M   H8MB   SINGLE n 1.089 0.0100 0.971 0.0135
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -194,146 +194,147 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-OOP         O1P           P         O2P     112.864    1.69
-OOP         O1P           P         O3P     112.864    1.69
-OOP         O1P           P       "O5'"     105.795    2.09
-OOP         O2P           P         O3P     112.864    1.69
-OOP         O2P           P       "O5'"     105.795    2.09
-OOP         O3P           P       "O5'"     105.795    2.09
-OOP          C2          N1         C10     118.603    1.95
-OOP          N1          C2          O2     118.264    1.68
-OOP          N1          C2          N3     123.105    1.50
-OOP          O2          C2          N3     118.631    1.61
-OOP          C2          N3          C4     123.340    2.15
-OOP          C2          N3         HN3     118.646    1.80
-OOP          C4          N3         HN3     118.015    1.50
-OOP          N3          C4          O4     119.776    1.50
-OOP          N3          C4         C4A     118.106    1.50
-OOP          O4          C4         C4A     122.118    1.93
-OOP         C4A          N5         C5A     120.732    3.00
-OOP         C4A          N5         HN5     119.066    2.25
-OOP         C5A          N5         HN5     120.202    1.50
-OOP          C7          C6         C5A     120.539    1.50
-OOP          C7          C6          H6     119.380    1.50
-OOP         C5A          C6          H6     120.082    1.50
-OOP          C6          C7          C8     119.761    1.50
-OOP          C6          C7         C7M     119.918    1.50
-OOP          C8          C7         C7M     120.321    1.50
-OOP          C7          C8          C9     119.761    1.50
-OOP          C7          C8         C8M     120.321    1.50
-OOP          C9          C8         C8M     119.918    1.50
-OOP          C8          C9         C9A     120.539    1.50
-OOP          C8          C9          H9     119.380    1.50
-OOP         C9A          C9          H9     120.082    1.50
-OOP         O11          PA         O1A     107.912    2.57
-OOP         O11          PA         O2A     107.912    2.57
-OOP         O11          PA         O3A     101.065    1.97
-OOP         O1A          PA         O2A     118.411    2.35
-OOP         O1A          PA         O3A     108.816    2.14
-OOP         O2A          PA         O3A     108.816    2.14
-OOP         O1B          PB         O2B     112.716    1.50
-OOP         O1B          PB         O3A     105.965    2.38
-OOP         O1B          PB         O3B     112.716    1.50
-OOP         O2B          PB         O3A     105.965    2.38
-OOP         O2B          PB         O3B     112.716    1.50
-OOP         O3A          PB         O3B     105.965    2.38
-OOP         N10       "C1'"       "C2'"     111.875    1.74
-OOP         N10       "C1'"       "H1'"     109.092    1.50
-OOP         N10       "C1'"      "H1'A"     109.092    1.50
-OOP       "C2'"       "C1'"       "H1'"     109.194    1.50
-OOP       "C2'"       "C1'"      "H1'A"     109.194    1.50
-OOP       "H1'"       "C1'"      "H1'A"     107.868    1.50
-OOP          N1         C10         N10     118.044    1.50
-OOP          N1         C10         C4A     124.527    2.03
-OOP         N10         C10         C4A     117.429    1.99
-OOP       "C1'"         N10         C10     119.757    1.68
-OOP       "C1'"         N10         C9A     119.382    1.50
-OOP         C10         N10         C9A     120.861    1.97
-OOP         O11         C11         C12     109.643    2.62
-OOP         O11         C11         H11     109.902    1.50
-OOP         O11         C11        H11A     109.902    1.50
-OOP         C12         C11         H11     109.480    1.94
-OOP         C12         C11        H11A     109.480    1.94
-OOP         H11         C11        H11A     108.388    1.50
-OOP          PA         O11         C11     119.251    1.51
-OOP         C11         C12         C16     113.576    2.07
-OOP         C11         C12         H12     108.485    1.50
-OOP         C11         C12        H12A     108.485    1.50
-OOP         C16         C12         H12     108.619    1.50
-OOP         C16         C12        H12A     108.619    1.50
-OOP         H12         C12        H12A     107.703    1.50
-OOP         C14         C13         C16     111.511    2.91
-OOP         C14         C13         C4A     114.527    2.12
-OOP         C14         C13         H13     108.078    1.50
-OOP         C16         C13         C4A     113.443    2.58
-OOP         C16         C13         H13     106.665    1.50
-OOP         C4A         C13         H13     109.490    1.50
-OOP         C13         C14         O15     111.210    1.70
-OOP         C13         C14         H14     109.297    1.50
-OOP         C13         C14        H14A     109.297    1.50
-OOP         O15         C14         H14     109.256    1.50
-OOP         O15         C14        H14A     109.256    1.50
-OOP         H14         C14        H14A     108.319    1.50
-OOP         C16         C15         H15     120.197    1.50
-OOP         C16         C15        H15A     120.197    1.50
-OOP         H15         C15        H15A     119.607    1.57
-OOP         C14         O15        HO15     108.972    3.00
-OOP         C12         C16         C13     116.639    2.45
-OOP         C12         C16         C15     121.981    1.61
-OOP         C13         C16         C15     121.380    1.92
-OOP       "C1'"       "C2'"       "O2'"     109.698    2.33
-OOP       "C1'"       "C2'"       "C3'"     110.999    2.33
-OOP       "C1'"       "C2'"       "H2'"     108.757    1.75
-OOP       "O2'"       "C2'"       "C3'"     109.320    2.01
-OOP       "O2'"       "C2'"       "H2'"     108.183    1.96
-OOP       "C3'"       "C2'"       "H2'"     108.450    1.83
-OOP       "C2'"       "O2'"      "HO2'"     109.265    3.00
-OOP       "C2'"       "C3'"       "O3'"     109.320    2.01
-OOP       "C2'"       "C3'"       "C4'"     113.695    2.13
-OOP       "C2'"       "C3'"       "H3'"     108.450    1.83
-OOP       "O3'"       "C3'"       "C4'"     109.164    1.97
-OOP       "O3'"       "C3'"       "H3'"     108.243    1.50
-OOP       "C4'"       "C3'"       "H3'"     108.336    1.50
-OOP       "C3'"       "O3'"      "HO3'"     108.564    3.00
-OOP          PA         O3A          PB     132.584    3.00
-OOP       "C3'"       "C4'"       "O4'"     109.549    1.85
-OOP       "C3'"       "C4'"       "C5'"     112.503    1.50
-OOP       "C3'"       "C4'"       "H4'"     108.777    1.50
-OOP       "O4'"       "C4'"       "C5'"     109.314    1.96
-OOP       "O4'"       "C4'"       "H4'"     108.591    1.50
-OOP       "C5'"       "C4'"       "H4'"     108.656    1.50
-OOP       "C4'"       "O4'"      "HO4'"     111.202    3.00
-OOP          C4         C4A          N5     110.220    2.25
-OOP          C4         C4A         C10     111.227    1.79
-OOP          C4         C4A         C13     107.604    2.03
-OOP          N5         C4A         C10     112.448    1.62
-OOP          N5         C4A         C13     108.715    1.50
-OOP         C10         C4A         C13     108.636    1.79
-OOP       "C4'"       "C5'"       "O5'"     109.438    2.56
-OOP       "C4'"       "C5'"       "H5'"     109.582    1.50
-OOP       "C4'"       "C5'"      "H5'A"     109.582    1.50
-OOP       "O5'"       "C5'"       "H5'"     109.393    1.91
-OOP       "O5'"       "C5'"      "H5'A"     109.393    1.91
-OOP       "H5'"       "C5'"      "H5'A"     108.319    1.50
-OOP           P       "O5'"       "C5'"     118.671    1.50
-OOP          N5         C5A          C6     121.034    1.50
-OOP          N5         C5A         C9A     119.265    1.50
-OOP          C6         C5A         C9A     119.701    1.50
-OOP          C7         C7M         H7M     109.765    1.50
-OOP          C7         C7M        H7MA     109.765    1.50
-OOP          C7         C7M        H7MB     109.765    1.50
-OOP         H7M         C7M        H7MA     109.348    1.50
-OOP         H7M         C7M        H7MB     109.348    1.50
-OOP        H7MA         C7M        H7MB     109.348    1.50
-OOP          C8         C8M         H8M     109.765    1.50
-OOP          C8         C8M        H8MA     109.765    1.50
-OOP          C8         C8M        H8MB     109.765    1.50
-OOP         H8M         C8M        H8MA     109.348    1.50
-OOP         H8M         C8M        H8MB     109.348    1.50
-OOP        H8MA         C8M        H8MB     109.348    1.50
-OOP          C9         C9A         N10     121.341    1.50
-OOP          C9         C9A         C5A     119.701    1.50
-OOP         N10         C9A         C5A     118.958    1.50
+OOP O1P   P     O2P    112.864 1.69
+OOP O1P   P     O3P    112.864 1.69
+OOP O1P   P     "O5'"  105.795 2.09
+OOP O2P   P     O3P    112.864 1.69
+OOP O2P   P     "O5'"  105.795 2.09
+OOP O3P   P     "O5'"  105.795 2.09
+OOP C2    N1    C10    118.603 1.95
+OOP N1    C2    O2     118.264 1.68
+OOP N1    C2    N3     123.105 1.50
+OOP O2    C2    N3     118.631 1.61
+OOP C2    N3    C4     123.340 2.15
+OOP C2    N3    HN3    118.646 1.80
+OOP C4    N3    HN3    118.015 1.50
+OOP N3    C4    O4     119.776 1.50
+OOP N3    C4    C4A    118.106 1.50
+OOP O4    C4    C4A    122.118 1.93
+OOP C4A   N5    C5A    120.732 3.00
+OOP C4A   N5    HN5    119.066 2.25
+OOP C5A   N5    HN5    120.202 1.50
+OOP C7    C6    C5A    120.539 1.50
+OOP C7    C6    H6     119.380 1.50
+OOP C5A   C6    H6     120.082 1.50
+OOP C6    C7    C8     119.761 1.50
+OOP C6    C7    C7M    119.918 1.50
+OOP C8    C7    C7M    120.321 1.50
+OOP C7    C8    C9     119.761 1.50
+OOP C7    C8    C8M    120.321 1.50
+OOP C9    C8    C8M    119.918 1.50
+OOP C8    C9    C9A    120.539 1.50
+OOP C8    C9    H9     119.380 1.50
+OOP C9A   C9    H9     120.082 1.50
+OOP O11   PA    O1A    107.912 2.57
+OOP O11   PA    O2A    107.912 2.57
+OOP O11   PA    O3A    101.065 1.97
+OOP O1A   PA    O2A    118.411 2.35
+OOP O1A   PA    O3A    108.816 2.14
+OOP O2A   PA    O3A    108.816 2.14
+OOP O1B   PB    O2B    112.716 1.50
+OOP O1B   PB    O3A    105.965 2.38
+OOP O1B   PB    O3B    112.716 1.50
+OOP O2B   PB    O3A    105.965 2.38
+OOP O2B   PB    O3B    112.716 1.50
+OOP O3A   PB    O3B    105.965 2.38
+OOP N10   "C1'" "C2'"  111.875 1.74
+OOP N10   "C1'" "H1'"  109.092 1.50
+OOP N10   "C1'" "H1'A" 109.092 1.50
+OOP "C2'" "C1'" "H1'"  109.194 1.50
+OOP "C2'" "C1'" "H1'A" 109.194 1.50
+OOP "H1'" "C1'" "H1'A" 107.868 1.50
+OOP N1    C10   N10    118.044 1.50
+OOP N1    C10   C4A    124.527 2.03
+OOP N10   C10   C4A    117.429 1.99
+OOP "C1'" N10   C10    119.757 1.68
+OOP "C1'" N10   C9A    119.382 1.50
+OOP C10   N10   C9A    120.861 1.97
+OOP O11   C11   C12    109.643 2.62
+OOP O11   C11   H11    109.902 1.50
+OOP O11   C11   H11A   109.902 1.50
+OOP C12   C11   H11    109.480 1.94
+OOP C12   C11   H11A   109.480 1.94
+OOP H11   C11   H11A   108.388 1.50
+OOP PA    O11   C11    119.251 1.51
+OOP C11   C12   C16    113.576 2.07
+OOP C11   C12   H12    108.485 1.50
+OOP C11   C12   H12A   108.485 1.50
+OOP C16   C12   H12    108.619 1.50
+OOP C16   C12   H12A   108.619 1.50
+OOP H12   C12   H12A   107.703 1.50
+OOP C14   C13   C16    111.511 2.91
+OOP C14   C13   C4A    114.527 2.12
+OOP C14   C13   H13    108.078 1.50
+OOP C16   C13   C4A    113.443 2.58
+OOP C16   C13   H13    106.665 1.50
+OOP C4A   C13   H13    109.490 1.50
+OOP C13   C14   O15    111.210 1.70
+OOP C13   C14   H14    109.297 1.50
+OOP C13   C14   H14A   109.297 1.50
+OOP O15   C14   H14    109.256 1.50
+OOP O15   C14   H14A   109.256 1.50
+OOP H14   C14   H14A   108.319 1.50
+OOP C16   C15   H15    120.197 1.50
+OOP C16   C15   H15A   120.197 1.50
+OOP H15   C15   H15A   119.607 1.57
+OOP C14   O15   HO15   108.972 3.00
+OOP C12   C16   C13    116.639 2.45
+OOP C12   C16   C15    121.981 1.61
+OOP C13   C16   C15    121.380 1.92
+OOP "C1'" "C2'" "O2'"  109.698 2.33
+OOP "C1'" "C2'" "C3'"  110.999 2.33
+OOP "C1'" "C2'" "H2'"  108.757 1.75
+OOP "O2'" "C2'" "C3'"  109.320 2.01
+OOP "O2'" "C2'" "H2'"  108.183 1.96
+OOP "C3'" "C2'" "H2'"  108.450 1.83
+OOP "C2'" "O2'" "HO2'" 109.265 3.00
+OOP "C2'" "C3'" "O3'"  109.320 2.01
+OOP "C2'" "C3'" "C4'"  113.695 2.13
+OOP "C2'" "C3'" "H3'"  108.450 1.83
+OOP "O3'" "C3'" "C4'"  109.164 1.97
+OOP "O3'" "C3'" "H3'"  108.243 1.50
+OOP "C4'" "C3'" "H3'"  108.336 1.50
+OOP "C3'" "O3'" "HO3'" 108.564 3.00
+OOP PA    O3A   PB     132.584 3.00
+OOP "C3'" "C4'" "O4'"  109.549 1.85
+OOP "C3'" "C4'" "C5'"  112.503 1.50
+OOP "C3'" "C4'" "H4'"  108.777 1.50
+OOP "O4'" "C4'" "C5'"  109.314 1.96
+OOP "O4'" "C4'" "H4'"  108.591 1.50
+OOP "C5'" "C4'" "H4'"  108.656 1.50
+OOP "C4'" "O4'" "HO4'" 111.202 3.00
+OOP C4    C4A   N5     110.220 2.25
+OOP C4    C4A   C10    111.227 1.79
+OOP C4    C4A   C13    107.604 2.03
+OOP N5    C4A   C10    112.448 1.62
+OOP N5    C4A   C13    108.715 1.50
+OOP C10   C4A   C13    108.636 1.79
+OOP "C4'" "C5'" "O5'"  109.438 2.56
+OOP "C4'" "C5'" "H5'"  109.582 1.50
+OOP "C4'" "C5'" "H5'A" 109.582 1.50
+OOP "O5'" "C5'" "H5'"  109.393 1.91
+OOP "O5'" "C5'" "H5'A" 109.393 1.91
+OOP "H5'" "C5'" "H5'A" 108.319 1.50
+OOP P     "O5'" "C5'"  118.671 1.50
+OOP N5    C5A   C6     121.034 1.50
+OOP N5    C5A   C9A    119.265 1.50
+OOP C6    C5A   C9A    119.701 1.50
+OOP C7    C7M   H7M    109.765 1.50
+OOP C7    C7M   H7MA   109.765 1.50
+OOP C7    C7M   H7MB   109.765 1.50
+OOP H7M   C7M   H7MA   109.348 1.50
+OOP H7M   C7M   H7MB   109.348 1.50
+OOP H7MA  C7M   H7MB   109.348 1.50
+OOP C8    C8M   H8M    109.765 1.50
+OOP C8    C8M   H8MA   109.765 1.50
+OOP C8    C8M   H8MB   109.765 1.50
+OOP H8M   C8M   H8MA   109.348 1.50
+OOP H8M   C8M   H8MB   109.348 1.50
+OOP H8MA  C8M   H8MB   109.348 1.50
+OOP C9    C9A   N10    121.341 1.50
+OOP C9    C9A   C5A    119.701 1.50
+OOP N10   C9A   C5A    118.958 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -344,45 +345,46 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-OOP             sp3_sp3_2       "C5'"       "O5'"           P         O1P     -60.000    10.0     3
-OOP              const_15         C8M          C8          C9         C9A     180.000    10.0     2
-OOP            sp2_sp3_25          C7          C8         C8M         H8M     150.000    10.0     6
-OOP              const_18          C8          C9         C9A         N10     180.000    10.0     2
-OOP             sp3_sp3_5         C11         O11          PA         O1A     -60.000    10.0     3
-OOP             sp3_sp3_8          PB         O3A          PA         O11     -60.000    10.0     3
-OOP            sp3_sp3_12          PA         O3A          PB         O1B      60.000    10.0     3
-OOP            sp2_sp3_32         C10         N10       "C1'"       "C2'"     -90.000    10.0     6
-OOP            sp3_sp3_13         N10       "C1'"       "C2'"       "O2'"     180.000    10.0     3
-OOP            sp2_sp2_14          N1         C10         N10       "C1'"       0.000     5.0     2
-OOP             sp2_sp3_9          N1         C10         C4A         C13    -120.000    10.0     6
-OOP            sp2_sp2_18          C9         C9A         N10       "C1'"       0.000     5.0     2
-OOP            sp3_sp3_22         C12         C11         O11          PA     180.000    10.0     3
-OOP            sp3_sp3_25         O11         C11         C12         C16     180.000    10.0     3
-OOP            sp2_sp3_38         C13         C16         C12         C11     120.000    10.0     6
-OOP            sp2_sp2_20         N10         C10          N1          C2     180.000     5.0     2
-OOP             sp2_sp2_2          O2          C2          N1         C10     180.000     5.0     2
-OOP            sp3_sp3_34         C16         C13         C14         O15     180.000    10.0     3
-OOP            sp2_sp3_43         C12         C16         C13         C14       0.000    10.0     6
-OOP            sp3_sp3_43         C14         C13         C4A          C4     180.000    10.0     3
-OOP            sp3_sp3_52         C13         C14         O15        HO15     180.000    10.0     3
-OOP            sp2_sp2_25         H15         C15         C16         C12     180.000     5.0     2
-OOP            sp3_sp3_55       "C1'"       "C2'"       "O2'"      "HO2'"     180.000    10.0     3
-OOP            sp3_sp3_58       "C1'"       "C2'"       "C3'"       "O3'"     180.000    10.0     3
-OOP             sp2_sp2_5          O2          C2          N3          C4     180.000     5.0     2
-OOP            sp3_sp3_67       "C2'"       "C3'"       "O3'"      "HO3'"     180.000    10.0     3
-OOP            sp3_sp3_70       "C2'"       "C3'"       "C4'"       "O4'"     180.000    10.0     3
-OOP            sp3_sp3_79       "C3'"       "C4'"       "O4'"      "HO4'"     180.000    10.0     3
-OOP            sp3_sp3_82       "C3'"       "C4'"       "C5'"       "O5'"     180.000    10.0     3
-OOP            sp3_sp3_91       "C4'"       "C5'"       "O5'"           P     180.000    10.0     3
-OOP       const_sp2_sp2_2          N5         C5A         C9A          C9     180.000     5.0     2
-OOP             sp2_sp2_9          O4          C4          N3          C2     180.000     5.0     2
-OOP             sp2_sp3_6          O4          C4         C4A         C13      60.000    10.0     6
-OOP            sp2_sp3_15         C5A          N5         C4A         C13    -120.000    10.0     6
-OOP            sp2_sp2_23          C6         C5A          N5         C4A     180.000     5.0     2
-OOP              const_23          N5         C5A          C6          C7     180.000    10.0     2
-OOP       const_sp2_sp2_6         C5A          C6          C7         C7M     180.000     5.0     2
-OOP              const_12         C7M          C7          C8         C8M       0.000    10.0     2
-OOP            sp2_sp3_19          C6          C7         C7M         H7M     150.000    10.0     6
+OOP sp3_sp3_2       "C5'" "O5'" P     O1P    -60.000  10.0 3
+OOP const_15        C8M   C8    C9    C9A    180.000  10.0 2
+OOP sp2_sp3_25      C7    C8    C8M   H8M    150.000  10.0 6
+OOP const_18        C8    C9    C9A   N10    180.000  10.0 2
+OOP sp3_sp3_5       C11   O11   PA    O1A    -60.000  10.0 3
+OOP sp3_sp3_8       PB    O3A   PA    O11    -60.000  10.0 3
+OOP sp3_sp3_12      PA    O3A   PB    O1B    60.000   10.0 3
+OOP sp2_sp3_32      C10   N10   "C1'" "C2'"  -90.000  10.0 6
+OOP sp3_sp3_13      N10   "C1'" "C2'" "O2'"  180.000  10.0 3
+OOP sp2_sp2_14      N1    C10   N10   "C1'"  0.000    5.0  2
+OOP sp2_sp3_9       N1    C10   C4A   C13    -120.000 10.0 6
+OOP sp2_sp2_18      C9    C9A   N10   "C1'"  0.000    5.0  2
+OOP sp3_sp3_22      C12   C11   O11   PA     180.000  10.0 3
+OOP sp3_sp3_25      O11   C11   C12   C16    180.000  10.0 3
+OOP sp2_sp3_38      C13   C16   C12   C11    120.000  10.0 6
+OOP sp2_sp2_20      N10   C10   N1    C2     180.000  5.0  2
+OOP sp2_sp2_2       O2    C2    N1    C10    180.000  5.0  2
+OOP sp3_sp3_34      C16   C13   C14   O15    180.000  10.0 3
+OOP sp2_sp3_43      C12   C16   C13   C14    0.000    10.0 6
+OOP sp3_sp3_43      C14   C13   C4A   C4     180.000  10.0 3
+OOP sp3_sp3_52      C13   C14   O15   HO15   180.000  10.0 3
+OOP sp2_sp2_25      H15   C15   C16   C12    180.000  5.0  2
+OOP sp3_sp3_55      "C1'" "C2'" "O2'" "HO2'" 180.000  10.0 3
+OOP sp3_sp3_58      "C1'" "C2'" "C3'" "O3'"  180.000  10.0 3
+OOP sp2_sp2_5       O2    C2    N3    C4     180.000  5.0  2
+OOP sp3_sp3_67      "C2'" "C3'" "O3'" "HO3'" 180.000  10.0 3
+OOP sp3_sp3_70      "C2'" "C3'" "C4'" "O4'"  180.000  10.0 3
+OOP sp3_sp3_79      "C3'" "C4'" "O4'" "HO4'" 180.000  10.0 3
+OOP sp3_sp3_82      "C3'" "C4'" "C5'" "O5'"  180.000  10.0 3
+OOP sp3_sp3_91      "C4'" "C5'" "O5'" P      180.000  10.0 3
+OOP const_sp2_sp2_2 N5    C5A   C9A   C9     180.000  5.0  2
+OOP sp2_sp2_9       O4    C4    N3    C2     180.000  5.0  2
+OOP sp2_sp3_6       O4    C4    C4A   C13    60.000   10.0 6
+OOP sp2_sp3_15      C5A   N5    C4A   C13    -120.000 10.0 6
+OOP sp2_sp2_23      C6    C5A   N5    C4A    180.000  5.0  2
+OOP const_23        N5    C5A   C6    C7     180.000  10.0 2
+OOP const_sp2_sp2_6 C5A   C6    C7    C7M    180.000  5.0  2
+OOP const_12        C7M   C7    C8    C8M    0.000    10.0 2
+OOP sp2_sp3_19      C6    C7    C7M   H7M    150.000  10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -391,82 +393,94 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-OOP    chir_1    P    "O5'"    O1P    O2P    both
-OOP    chir_2    PA    O3A    O11    O1A    both
-OOP    chir_3    PB    O3A    O2B    O3B    both
-OOP    chir_4    C13    C14    C4A    C16    negative
-OOP    chir_5    "C2'"    "O2'"    "C3'"    "C1'"    positive
-OOP    chir_6    "C3'"    "O3'"    "C4'"    "C2'"    positive
-OOP    chir_7    "C4'"    "O4'"    "C3'"    "C5'"    positive
-OOP    chir_8    C4A    N5    C4    C10    negative
+OOP chir_1 P     "O5'" O1P   O2P   both
+OOP chir_2 PA    O3A   O11   O1A   both
+OOP chir_3 PB    O3A   O2B   O3B   both
+OOP chir_4 C13   C14   C4A   C16   negative
+OOP chir_5 "C2'" "O2'" "C3'" "C1'" positive
+OOP chir_6 "C3'" "O3'" "C4'" "C2'" positive
+OOP chir_7 "C4'" "O4'" "C3'" "C5'" positive
+OOP chir_8 C4A   N5    C4    C10   negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-OOP    plan-1         C5A   0.020
-OOP    plan-1          C6   0.020
-OOP    plan-1          C7   0.020
-OOP    plan-1         C7M   0.020
-OOP    plan-1          C8   0.020
-OOP    plan-1         C8M   0.020
-OOP    plan-1          C9   0.020
-OOP    plan-1         C9A   0.020
-OOP    plan-1          H6   0.020
-OOP    plan-1          H9   0.020
-OOP    plan-1         N10   0.020
-OOP    plan-1          N5   0.020
-OOP    plan-2          C2   0.020
-OOP    plan-2          N1   0.020
-OOP    plan-2          N3   0.020
-OOP    plan-2          O2   0.020
-OOP    plan-3          C2   0.020
-OOP    plan-3          C4   0.020
-OOP    plan-3         HN3   0.020
-OOP    plan-3          N3   0.020
-OOP    plan-4          C4   0.020
-OOP    plan-4         C4A   0.020
-OOP    plan-4          N3   0.020
-OOP    plan-4          O4   0.020
-OOP    plan-5         C4A   0.020
-OOP    plan-5         C5A   0.020
-OOP    plan-5         HN5   0.020
-OOP    plan-5          N5   0.020
-OOP    plan-6         C10   0.020
-OOP    plan-6         C4A   0.020
-OOP    plan-6          N1   0.020
-OOP    plan-6         N10   0.020
-OOP    plan-7       "C1'"   0.020
-OOP    plan-7         C10   0.020
-OOP    plan-7         C9A   0.020
-OOP    plan-7         N10   0.020
-OOP    plan-8         C15   0.020
-OOP    plan-8         C16   0.020
-OOP    plan-8         H15   0.020
-OOP    plan-8        H15A   0.020
-OOP    plan-9         C12   0.020
-OOP    plan-9         C13   0.020
-OOP    plan-9         C15   0.020
-OOP    plan-9         C16   0.020
+OOP plan-1 C5A   0.020
+OOP plan-1 C6    0.020
+OOP plan-1 C7    0.020
+OOP plan-1 C7M   0.020
+OOP plan-1 C8    0.020
+OOP plan-1 C8M   0.020
+OOP plan-1 C9    0.020
+OOP plan-1 C9A   0.020
+OOP plan-1 H6    0.020
+OOP plan-1 H9    0.020
+OOP plan-1 N10   0.020
+OOP plan-1 N5    0.020
+OOP plan-2 C2    0.020
+OOP plan-2 N1    0.020
+OOP plan-2 N3    0.020
+OOP plan-2 O2    0.020
+OOP plan-3 C2    0.020
+OOP plan-3 C4    0.020
+OOP plan-3 HN3   0.020
+OOP plan-3 N3    0.020
+OOP plan-4 C4    0.020
+OOP plan-4 C4A   0.020
+OOP plan-4 N3    0.020
+OOP plan-4 O4    0.020
+OOP plan-5 C4A   0.020
+OOP plan-5 C5A   0.020
+OOP plan-5 HN5   0.020
+OOP plan-5 N5    0.020
+OOP plan-6 C10   0.020
+OOP plan-6 C4A   0.020
+OOP plan-6 N1    0.020
+OOP plan-6 N10   0.020
+OOP plan-7 "C1'" 0.020
+OOP plan-7 C10   0.020
+OOP plan-7 C9A   0.020
+OOP plan-7 N10   0.020
+OOP plan-8 C15   0.020
+OOP plan-8 C16   0.020
+OOP plan-8 H15   0.020
+OOP plan-8 H15A  0.020
+OOP plan-9 C12   0.020
+OOP plan-9 C13   0.020
+OOP plan-9 C15   0.020
+OOP plan-9 C16   0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-OOP           SMILES              ACDLabs 12.01                                                                                                                                                                                              O=P(O)(O)OCC(O)C(O)C(O)CN2C3=NC(=O)NC(=O)C3(Nc1cc(c(cc12)C)C)C(C(=C)/CCOP(=O)(O)OP(=O)(O)O)CO
-OOP            InChI                InChI  1.03 InChI=1S/C23H35N4O17P3/c1-11(4-5-42-47(40,41)44-46(37,38)39)14(9-28)23-20(24-22(33)25-21(23)32)27(16-7-13(3)12(2)6-15(16)26-23)8-17(29)19(31)18(30)10-43-45(34,35)36/h6-7,14,17-19,26,28-31H,1,4-5,8-10H2,2-3H3,(H,40,41)(H,25,32,33)(H2,34,35,36)(H2,37,38,39)/t14-,17+,18-,19+,23-/m1/s1
-OOP         InChIKey                InChI  1.03                                                                                                                                                                                                                                                                KSKIGIXASYOSHG-TUUFUFLPSA-N
-OOP SMILES_CANONICAL               CACTVS 3.370                                                                                                                                                                       Cc1cc2N[C@@]3([C@H](CO)C(=C)CCO[P](O)(=O)O[P](O)(O)=O)C(=O)NC(=O)N=C3N(C[C@H](O)[C@H](O)[C@H](O)CO[P](O)(O)=O)c2cc1C
-OOP           SMILES               CACTVS 3.370                                                                                                                                                                             Cc1cc2N[C]3([CH](CO)C(=C)CCO[P](O)(=O)O[P](O)(O)=O)C(=O)NC(=O)N=C3N(C[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O)c2cc1C
-OOP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2                                                                                                                                                                     Cc1cc2c(cc1C)N(C3=NC(=O)NC(=O)[C@@]3(N2)[C@H](CO)C(=C)CCO[P@](=O)(O)OP(=O)(O)O)C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
-OOP           SMILES "OpenEye OEToolkits" 1.7.2                                                                                                                                                                                               Cc1cc2c(cc1C)N(C3=NC(=O)NC(=O)C3(N2)C(CO)C(=C)CCOP(=O)(O)OP(=O)(O)O)CC(C(C(COP(=O)(O)O)O)O)O
+OOP SMILES           ACDLabs              12.01 O=P(O)(O)OCC(O)C(O)C(O)CN2C3=NC(=O)NC(=O)C3(Nc1cc(c(cc12)C)C)C(C(=C)/CCOP(=O)(O)OP(=O)(O)O)CO
+OOP InChI            InChI                1.03  InChI=1S/C23H35N4O17P3/c1-11(4-5-42-47(40,41)44-46(37,38)39)14(9-28)23-20(24-22(33)25-21(23)32)27(16-7-13(3)12(2)6-15(16)26-23)8-17(29)19(31)18(30)10-43-45(34,35)36/h6-7,14,17-19,26,28-31H,1,4-5,8-10H2,2-3H3,(H,40,41)(H,25,32,33)(H2,34,35,36)(H2,37,38,39)/t14-,17+,18-,19+,23-/m1/s1
+OOP InChIKey         InChI                1.03  KSKIGIXASYOSHG-TUUFUFLPSA-N
+OOP SMILES_CANONICAL CACTVS               3.370 Cc1cc2N[C@@]3([C@H](CO)C(=C)CCO[P](O)(=O)O[P](O)(O)=O)C(=O)NC(=O)N=C3N(C[C@H](O)[C@H](O)[C@H](O)CO[P](O)(O)=O)c2cc1C
+OOP SMILES           CACTVS               3.370 Cc1cc2N[C]3([CH](CO)C(=C)CCO[P](O)(=O)O[P](O)(O)=O)C(=O)NC(=O)N=C3N(C[CH](O)[CH](O)[CH](O)CO[P](O)(O)=O)c2cc1C
+OOP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 Cc1cc2c(cc1C)N(C3=NC(=O)NC(=O)[C@@]3(N2)[C@H](CO)C(=C)CCO[P@](=O)(O)OP(=O)(O)O)C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
+OOP SMILES           "OpenEye OEToolkits" 1.7.2 Cc1cc2c(cc1C)N(C3=NC(=O)NC(=O)C3(N2)C(CO)C(=C)CCOP(=O)(O)OP(=O)(O)O)CC(C(C(COP(=O)(O)O)O)O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-OOP acedrg               243         "dictionary generator"                  
-OOP acedrg_database      11          "data source"                           
-OOP rdkit                2017.03.2   "Chemoinformatics tool"
-OOP refmac5              5.8.0238    "optimization tool"                     
+OOP acedrg          243       "dictionary generator"
+OOP acedrg_database 11        "data source"
+OOP rdkit           2017.03.2 "Chemoinformatics tool"
+OOP refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+OOP DNA/RNA O1P OP3
+OOP DNA/RNA O3P OP1
+OOP DNA/RNA O2P OP2

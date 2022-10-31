@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-CEM     CEM      N-(1-CARBOXY-2-HYDROXY-4-OXO-BUTYL)-N-(3-OXO-CISPROPENYL)AMINE     NON-POLYMER     24     14     .     
-#
+CEM CEM N-(1-CARBOXY-2-HYDROXY-4-OXO-BUTYL)-N-(3-OXO-CISPROPENYL)AMINE NON-POLYMER 24 14 .
+
 data_comp_CEM
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,30 +19,31 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-CEM     O1      O       OH1     0       4.250       -4.450      -13.476     
-CEM     C2      C       CH1     0       4.223       -5.802      -12.990     
-CEM     C3      C       CH1     0       4.928       -6.704      -14.006     
-CEM     N4      N       NH1     0       5.105       -8.048      -13.478     
-CEM     C5      C       C1      0       6.298       -8.518      -13.042     
-CEM     C6      C       C1      0       6.463       -9.809      -12.610     
-CEM     C7      C       C1      0       5.560       -10.816     -12.573     
-CEM     O8      O       O       0       5.791       -11.935     -12.158     
-CEM     C9      C       CH2     0       2.776       -6.171      -12.690     
-CEM     C10     C       C1      0       2.253       -5.473      -11.482     
-CEM     O11     O       O       0       2.651       -5.615      -10.367     
-CEM     C12     C       C       0       4.173       -6.730      -15.349     
-CEM     O13     O       O       0       4.464       -5.852      -16.185     
-CEM     O14     O       OC      -1      3.317       -7.624      -15.514     
-CEM     HO1     H       H       0       4.300       -3.922      -12.814     
-CEM     H2      H       H       0       4.738       -5.841      -12.148     
-CEM     H3      H       H       0       5.830       -6.317      -14.183     
-CEM     HN4     H       H       0       4.408       -8.563      -13.432     
-CEM     H5      H       H       0       7.041       -7.939      -13.033     
-CEM     H6      H       H       0       7.324       -10.032     -12.295     
-CEM     H7      H       H       0       4.678       -10.638     -12.904     
-CEM     H91     H       H       0       2.714       -7.140      -12.554     
-CEM     H92     H       H       0       2.218       -5.936      -13.461     
-CEM     H10     H       H       0       1.545       -4.864      -11.611     
+CEM O1  O OH1 0  4.250 -4.450  -13.476
+CEM C2  C CH1 0  4.223 -5.802  -12.990
+CEM C3  C CH1 0  4.928 -6.704  -14.006
+CEM N4  N NH1 0  5.105 -8.048  -13.478
+CEM C5  C C1  0  6.298 -8.518  -13.042
+CEM C6  C C1  0  6.463 -9.809  -12.610
+CEM C7  C C1  0  5.560 -10.816 -12.573
+CEM O8  O O   0  5.791 -11.935 -12.158
+CEM C9  C CH2 0  2.776 -6.171  -12.690
+CEM C10 C C1  0  2.253 -5.473  -11.482
+CEM O11 O O   0  2.651 -5.615  -10.367
+CEM C12 C C   0  4.173 -6.730  -15.349
+CEM O13 O O   0  4.464 -5.852  -16.185
+CEM O14 O OC  -1 3.317 -7.624  -15.514
+CEM HO1 H H   0  4.300 -3.922  -12.814
+CEM H2  H H   0  4.738 -5.841  -12.148
+CEM H3  H H   0  5.830 -6.317  -14.183
+CEM HN4 H H   0  4.408 -8.563  -13.432
+CEM H5  H H   0  7.041 -7.939  -13.033
+CEM H6  H H   0  7.324 -10.032 -12.295
+CEM H7  H H   0  4.678 -10.638 -12.904
+CEM H91 H H   0  2.714 -7.140  -12.554
+CEM H92 H H   0  2.218 -5.936  -13.461
+CEM H10 H H   0  1.545 -4.864  -11.611
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -55,29 +54,30 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-CEM          O1          C2      SINGLE       n     1.435  0.0105     1.435  0.0105
-CEM          C2          C3      SINGLE       n     1.516  0.0200     1.516  0.0200
-CEM          C2          C9      SINGLE       n     1.521  0.0100     1.521  0.0100
-CEM          C3          N4      SINGLE       n     1.452  0.0100     1.452  0.0100
-CEM          C3         C12      SINGLE       n     1.539  0.0100     1.539  0.0100
-CEM          N4          C5      SINGLE       n     1.341  0.0163     1.341  0.0163
-CEM          C5          C6      DOUBLE       n     1.346  0.0200     1.346  0.0200
-CEM          C6          C7      SINGLE       n     1.340  0.0200     1.340  0.0200
-CEM          C7          O8      DOUBLE       n     1.215  0.0106     1.215  0.0106
-CEM          C9         C10      SINGLE       n     1.490  0.0115     1.490  0.0115
-CEM         C10         O11      DOUBLE       n     1.192  0.0200     1.192  0.0200
-CEM         C12         O13      DOUBLE       n     1.247  0.0187     1.247  0.0187
-CEM         C12         O14      SINGLE       n     1.247  0.0187     1.247  0.0187
-CEM          O1         HO1      SINGLE       n     0.970  0.0120     0.848  0.0200
-CEM          C2          H2      SINGLE       n     1.089  0.0100     0.987  0.0151
-CEM          C3          H3      SINGLE       n     1.089  0.0100     0.997  0.0200
-CEM          N4         HN4      SINGLE       n     1.016  0.0100     0.873  0.0200
-CEM          C5          H5      SINGLE       n     1.082  0.0130     0.942  0.0171
-CEM          C6          H6      SINGLE       n     1.082  0.0130     0.943  0.0200
-CEM          C7          H7      SINGLE       n     1.082  0.0130     0.962  0.0200
-CEM          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0185
-CEM          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0185
-CEM         C10         H10      SINGLE       n     1.082  0.0130     0.943  0.0105
+CEM O1  C2  SINGLE n 1.435 0.0105 1.435 0.0105
+CEM C2  C3  SINGLE n 1.516 0.0200 1.516 0.0200
+CEM C2  C9  SINGLE n 1.521 0.0100 1.521 0.0100
+CEM C3  N4  SINGLE n 1.452 0.0100 1.452 0.0100
+CEM C3  C12 SINGLE n 1.539 0.0100 1.539 0.0100
+CEM N4  C5  SINGLE n 1.341 0.0163 1.341 0.0163
+CEM C5  C6  DOUBLE n 1.346 0.0200 1.346 0.0200
+CEM C6  C7  SINGLE n 1.340 0.0200 1.340 0.0200
+CEM C7  O8  DOUBLE n 1.215 0.0106 1.215 0.0106
+CEM C9  C10 SINGLE n 1.490 0.0115 1.490 0.0115
+CEM C10 O11 DOUBLE n 1.192 0.0200 1.192 0.0200
+CEM C12 O13 DOUBLE n 1.247 0.0187 1.247 0.0187
+CEM C12 O14 SINGLE n 1.247 0.0187 1.247 0.0187
+CEM O1  HO1 SINGLE n 0.970 0.0120 0.848 0.0200
+CEM C2  H2  SINGLE n 1.089 0.0100 0.987 0.0151
+CEM C3  H3  SINGLE n 1.089 0.0100 0.997 0.0200
+CEM N4  HN4 SINGLE n 1.016 0.0100 0.873 0.0200
+CEM C5  H5  SINGLE n 1.082 0.0130 0.942 0.0171
+CEM C6  H6  SINGLE n 1.082 0.0130 0.943 0.0200
+CEM C7  H7  SINGLE n 1.082 0.0130 0.962 0.0200
+CEM C9  H91 SINGLE n 1.089 0.0100 0.981 0.0185
+CEM C9  H92 SINGLE n 1.089 0.0100 0.981 0.0185
+CEM C10 H10 SINGLE n 1.082 0.0130 0.943 0.0105
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -85,43 +85,44 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-CEM          C2          O1         HO1     108.640    2.32
-CEM          O1          C2          C3     108.919    1.50
-CEM          O1          C2          C9     108.747    2.04
-CEM          O1          C2          H2     108.700    1.50
-CEM          C3          C2          C9     111.094    2.85
-CEM          C3          C2          H2     108.267    2.06
-CEM          C9          C2          H2     108.825    1.50
-CEM          C2          C3          N4     110.507    1.90
-CEM          C2          C3         C12     110.275    1.50
-CEM          C2          C3          H3     108.179    1.50
-CEM          N4          C3         C12     110.939    1.74
-CEM          N4          C3          H3     108.161    1.50
-CEM         C12          C3          H3     107.601    1.50
-CEM          C3          N4          C5     122.926    2.50
-CEM          C3          N4         HN4     119.096    1.92
-CEM          C5          N4         HN4     117.978    1.50
-CEM          N4          C5          C6     118.716    1.88
-CEM          N4          C5          H5     120.567    1.50
-CEM          C6          C5          H5     120.717    1.50
-CEM          C5          C6          C7     123.659    3.00
-CEM          C5          C6          H6     118.717    1.64
-CEM          C7          C6          H6     117.624    1.61
-CEM          C6          C7          O8     125.129    1.73
-CEM          C6          C7          H7     116.757    2.05
-CEM          O8          C7          H7     118.106    1.50
-CEM          C2          C9         C10     111.511    2.91
-CEM          C2          C9         H91     108.544    1.56
-CEM          C2          C9         H92     108.544    1.56
-CEM         C10          C9         H91     108.942    1.50
-CEM         C10          C9         H92     108.942    1.50
-CEM         H91          C9         H92     107.705    1.50
-CEM          C9         C10         O11     125.770    1.96
-CEM          C9         C10         H10     117.100    1.50
-CEM         O11         C10         H10     117.130    1.50
-CEM          C3         C12         O13     117.371    1.50
-CEM          C3         C12         O14     117.371    1.50
-CEM         O13         C12         O14     125.259    1.50
+CEM C2  O1  HO1 108.640 2.32
+CEM O1  C2  C3  108.919 1.50
+CEM O1  C2  C9  108.747 2.04
+CEM O1  C2  H2  108.700 1.50
+CEM C3  C2  C9  111.094 2.85
+CEM C3  C2  H2  108.267 2.06
+CEM C9  C2  H2  108.825 1.50
+CEM C2  C3  N4  110.507 1.90
+CEM C2  C3  C12 110.275 1.50
+CEM C2  C3  H3  108.179 1.50
+CEM N4  C3  C12 110.939 1.74
+CEM N4  C3  H3  108.161 1.50
+CEM C12 C3  H3  107.601 1.50
+CEM C3  N4  C5  122.926 2.50
+CEM C3  N4  HN4 119.096 1.92
+CEM C5  N4  HN4 117.978 1.50
+CEM N4  C5  C6  118.716 1.88
+CEM N4  C5  H5  120.567 1.50
+CEM C6  C5  H5  120.717 1.50
+CEM C5  C6  C7  123.659 3.00
+CEM C5  C6  H6  118.717 1.64
+CEM C7  C6  H6  117.624 1.61
+CEM C6  C7  O8  125.129 1.73
+CEM C6  C7  H7  116.757 2.05
+CEM O8  C7  H7  118.106 1.50
+CEM C2  C9  C10 111.511 2.91
+CEM C2  C9  H91 108.544 1.56
+CEM C2  C9  H92 108.544 1.56
+CEM C10 C9  H91 108.942 1.50
+CEM C10 C9  H92 108.942 1.50
+CEM H91 C9  H92 107.705 1.50
+CEM C9  C10 O11 125.770 1.96
+CEM C9  C10 H10 117.100 1.50
+CEM O11 C10 H10 117.130 1.50
+CEM C3  C12 O13 117.371 1.50
+CEM C3  C12 O14 117.371 1.50
+CEM O13 C12 O14 125.259 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -132,15 +133,16 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-CEM             sp3_sp3_1          C3          C2          O1         HO1     180.000    10.0     3
-CEM             sp3_sp3_4          O1          C2          C3          N4     180.000    10.0     3
-CEM            sp3_sp3_13          O1          C2          C9         C10     180.000    10.0     3
-CEM             sp2_sp3_7         O13         C12          C3          C2       0.000    10.0     6
-CEM             sp2_sp3_1          C5          N4          C3          C2       0.000    10.0     6
-CEM             sp2_sp2_1          C6          C5          N4          C3     180.000     5.0     2
-CEM             sp2_sp2_5          N4          C5          C6          C7     180.000     5.0     2
-CEM             sp2_sp2_9          C5          C6          C7          O8     180.000     5.0     2
-CEM            sp2_sp3_14         O11         C10          C9          C2     120.000    10.0     6
+CEM sp3_sp3_1  C3  C2  O1 HO1 180.000 10.0 3
+CEM sp3_sp3_4  O1  C2  C3 N4  180.000 10.0 3
+CEM sp3_sp3_13 O1  C2  C9 C10 180.000 10.0 3
+CEM sp2_sp3_7  O13 C12 C3 C2  0.000   10.0 6
+CEM sp2_sp3_1  C5  N4  C3 C2  0.000   10.0 6
+CEM sp2_sp2_1  C6  C5  N4 C3  180.000 5.0  2
+CEM sp2_sp2_5  N4  C5  C6 C7  180.000 5.0  2
+CEM sp2_sp2_9  C5  C6  C7 O8  180.000 5.0  2
+CEM sp2_sp3_14 O11 C10 C9 C2  120.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -149,56 +151,72 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-CEM    chir_1    C2    O1    C3    C9    positive
-CEM    chir_2    C3    N4    C12    C2    negative
+CEM chir_1 C2 O1 C3  C9 positive
+CEM chir_2 C3 N4 C12 C2 negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-CEM    plan-1          C3   0.020
-CEM    plan-1          C5   0.020
-CEM    plan-1         HN4   0.020
-CEM    plan-1          N4   0.020
-CEM    plan-2          C5   0.020
-CEM    plan-2          C6   0.020
-CEM    plan-2          H5   0.020
-CEM    plan-2          N4   0.020
-CEM    plan-3          C5   0.020
-CEM    plan-3          C6   0.020
-CEM    plan-3          C7   0.020
-CEM    plan-3          H6   0.020
-CEM    plan-4          C6   0.020
-CEM    plan-4          C7   0.020
-CEM    plan-4          H7   0.020
-CEM    plan-4          O8   0.020
-CEM    plan-5         C10   0.020
-CEM    plan-5          C9   0.020
-CEM    plan-5         H10   0.020
-CEM    plan-5         O11   0.020
-CEM    plan-6         C12   0.020
-CEM    plan-6          C3   0.020
-CEM    plan-6         O13   0.020
-CEM    plan-6         O14   0.020
+CEM plan-1 C3  0.020
+CEM plan-1 C5  0.020
+CEM plan-1 HN4 0.020
+CEM plan-1 N4  0.020
+CEM plan-2 C5  0.020
+CEM plan-2 C6  0.020
+CEM plan-2 H5  0.020
+CEM plan-2 N4  0.020
+CEM plan-3 C5  0.020
+CEM plan-3 C6  0.020
+CEM plan-3 C7  0.020
+CEM plan-3 H6  0.020
+CEM plan-4 C6  0.020
+CEM plan-4 C7  0.020
+CEM plan-4 H7  0.020
+CEM plan-4 O8  0.020
+CEM plan-5 C10 0.020
+CEM plan-5 C9  0.020
+CEM plan-5 H10 0.020
+CEM plan-5 O11 0.020
+CEM plan-6 C12 0.020
+CEM plan-6 C3  0.020
+CEM plan-6 O13 0.020
+CEM plan-6 O14 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-CEM           SMILES              ACDLabs 10.04                                                                        O=CCC(O)C(N\C=C/C=O)C(=O)O
-CEM SMILES_CANONICAL               CACTVS 3.341                                                              O[C@@H](CC=O)[C@@H](N\C=C/C=O)C(O)=O
-CEM           SMILES               CACTVS 3.341                                                                    O[CH](CC=O)[CH](NC=CC=O)C(O)=O
-CEM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                  C(C=O)C([C@H](C(=O)O)N\C=C/C=O)O
-CEM           SMILES "OpenEye OEToolkits" 1.5.0                                                                        C(C=O)C(C(C(=O)O)NC=CC=O)O
-CEM            InChI                InChI  1.03 InChI=1S/C8H11NO5/c10-4-1-3-9-7(8(13)14)6(12)2-5-11/h1,3-7,9,12H,2H2,(H,13,14)/b3-1-/t6-,7+/m0/s1
-CEM         InChIKey                InChI  1.03                                                                       DIQBZADGQQVQIO-WHFQOLMOSA-N
+CEM SMILES           ACDLabs              10.04 O=CCC(O)C(N\C=C/C=O)C(=O)O
+CEM SMILES_CANONICAL CACTVS               3.341 O[C@@H](CC=O)[C@@H](N\C=C/C=O)C(O)=O
+CEM SMILES           CACTVS               3.341 O[CH](CC=O)[CH](NC=CC=O)C(O)=O
+CEM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C(C=O)C([C@H](C(=O)O)N\C=C/C=O)O
+CEM SMILES           "OpenEye OEToolkits" 1.5.0 C(C=O)C(C(C(=O)O)NC=CC=O)O
+CEM InChI            InChI                1.03  InChI=1S/C8H11NO5/c10-4-1-3-9-7(8(13)14)6(12)2-5-11/h1,3-7,9,12H,2H2,(H,13,14)/b3-1-/t6-,7+/m0/s1
+CEM InChIKey         InChI                1.03  DIQBZADGQQVQIO-WHFQOLMOSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-CEM acedrg               243         "dictionary generator"                  
-CEM acedrg_database      11          "data source"                           
-CEM rdkit                2017.03.2   "Chemoinformatics tool"
-CEM refmac5              5.8.0238    "optimization tool"                     
+CEM acedrg          243       "dictionary generator"
+CEM acedrg_database 11        "data source"
+CEM rdkit           2017.03.2 "Chemoinformatics tool"
+CEM refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+CEM M-peptide O13 O
+CEM M-peptide C12 C
+CEM M-peptide C3  CA
+CEM M-peptide N4  N
+CEM M-peptide C5  CN
+CEM M-peptide O14 OXT
+CEM M-peptide HN4 H

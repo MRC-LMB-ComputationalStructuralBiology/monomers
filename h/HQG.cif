@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-HQG     HQG      "[[(2~{R},3~{S},4~{R},5~{R})-5-(6-aminopurin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] [(2~{R},3~{S},4~{R},5~{R})-3,4-bis(oxidanyl)-5-phosphonooxy-oxolan-2-yl]methyl hydrogen phosphate"     NON-POLYMER     60     40     .     
-#
+HQG HQG "[[(2~{R},3~{S},4~{R},5~{R})-5-(6-aminopurin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methoxy-oxidanyl-phosphoryl] [(2~{R},3~{S},4~{R},5~{R})-3,4-bis(oxidanyl)-5-phosphonooxy-oxolan-2-yl]methyl hydrogen phosphate" NON-POLYMER 60 40 .
+
 data_comp_HQG
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,66 +19,67 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-HQG     C1B     C       CH1     0       -12.933     -14.472     2.992       
-HQG     C1D     C       CH1     0       -16.498     -8.607      11.121      
-HQG     C2A     C       CR16    0       -10.165     -17.013     0.704       
-HQG     C2B     C       CH1     0       -13.568     -14.834     4.334       
-HQG     C2D     C       CH1     0       -16.291     -9.885      11.938      
-HQG     C3B     C       CH1     0       -14.779     -13.895     4.373       
-HQG     C3D     C       CH1     0       -14.827     -9.773      12.360      
-HQG     C4A     C       CR56    0       -10.736     -15.467     2.183       
-HQG     C4B     C       CH1     0       -14.235     -12.637     3.684       
-HQG     C4D     C       CH1     0       -14.196     -8.974      11.206      
-HQG     C5A     C       CR56    0       -9.413      -15.229     2.519       
-HQG     C5B     C       CH2     0       -13.594     -11.612     4.587       
-HQG     C5D     C       CH2     0       -13.252     -9.744      10.315      
-HQG     C6A     C       CR6     0       -8.427      -15.986     1.849       
-HQG     C8A     C       CR15    0       -10.577     -13.913     3.723       
-HQG     N1A     N       NRD6    0       -8.847      -16.891     0.927       
-HQG     N3A     N       NRD6    0       -11.178     -16.357     1.273       
-HQG     N6A     N       NH2     0       -7.121      -15.860     2.075       
-HQG     N7A     N       NRD5    0       -9.332      -14.246     3.494       
-HQG     N9A     N       NR5     0       -11.481     -14.616     2.967       
-HQG     O1A     O       OP      -1      -15.378     -9.392      7.213       
-HQG     O1N     O       OP      -1      -11.867     -11.996     8.923       
-HQG     O1Z     O       O       0       -16.646     -5.848      10.096      
-HQG     O2A     O       O       0       -13.515     -8.731      5.584       
-HQG     O2B     O       OH1     0       -13.916     -16.201     4.386       
-HQG     O2D     O       OH1     0       -17.171     -10.043     13.032      
-HQG     O2N     O       O       0       -14.142     -12.703     7.979       
-HQG     O2Z     O       OP      -1      -18.853     -6.622      11.024      
-HQG     O3      O       O2      0       -13.119     -10.494     7.337       
-HQG     O3B     O       OH1     0       -15.915     -14.418     3.692       
-HQG     O3D     O       OH1     0       -14.652     -9.105      13.604      
-HQG     O3Z     O       OP      -1      -17.358     -5.143      12.400      
-HQG     O4B     O       O2      0       -13.243     -13.119     2.741       
-HQG     O4D     O       O2      0       -15.288     -8.465      10.403      
-HQG     O4Z     O       O2      0       -16.712     -7.528      12.000      
-HQG     O5B     O       O2      0       -14.611     -11.005     5.425       
-HQG     O5D     O       O2      0       -13.978     -10.804     9.640       
-HQG     PA      P       P       0       -14.200     -9.788      6.386       
-HQG     PN      P       P       0       -13.240     -11.620     8.473       
-HQG     PZ      P       P       0       -17.423     -6.228      11.343      
-HQG     H1      H       H       0       -13.332     -15.034     2.291       
-HQG     H2      H       H       0       -17.256     -8.697      10.474      
-HQG     H3      H       H       0       -10.410     -17.654     0.054       
-HQG     H4      H       H       0       -12.947     -14.620     5.079       
-HQG     H5      H       H       0       -16.404     -10.692     11.324      
-HQG     H6      H       H       0       -15.015     -13.685     5.313       
-HQG     H7      H       H       0       -14.399     -10.728     12.405      
-HQG     H8      H       H       0       -14.959     -12.200     3.188       
-HQG     H9      H       H       0       -13.681     -8.178      11.594      
-HQG     H10     H       H       0       -13.152     -10.918     4.038       
-HQG     H11     H       H       0       -12.910     -12.049     5.151       
-HQG     H12     H       H       0       -12.524     -10.132     10.860      
-HQG     H13     H       H       0       -12.852     -9.133      9.649       
-HQG     H14     H       H       0       -10.830     -13.258     4.351       
-HQG     H15     H       H       0       -6.840      -15.364     2.742       
-HQG     H16     H       H       0       -6.546      -16.272     1.555       
-HQG     H19     H       H       0       -14.539     -16.359     3.829       
-HQG     H20     H       H       0       -16.964     -10.738     13.474      
-HQG     H22     H       H       0       -15.750     -14.503     2.864       
-HQG     H23     H       H       0       -15.021     -8.340      13.570      
+HQG C1B C CH1  0  -12.933 -14.472 2.992
+HQG C1D C CH1  0  -16.498 -8.607  11.121
+HQG C2A C CR16 0  -10.165 -17.013 0.704
+HQG C2B C CH1  0  -13.568 -14.834 4.334
+HQG C2D C CH1  0  -16.291 -9.885  11.938
+HQG C3B C CH1  0  -14.779 -13.895 4.373
+HQG C3D C CH1  0  -14.827 -9.773  12.360
+HQG C4A C CR56 0  -10.736 -15.467 2.183
+HQG C4B C CH1  0  -14.235 -12.637 3.684
+HQG C4D C CH1  0  -14.196 -8.974  11.206
+HQG C5A C CR56 0  -9.413  -15.229 2.519
+HQG C5B C CH2  0  -13.594 -11.612 4.587
+HQG C5D C CH2  0  -13.252 -9.744  10.315
+HQG C6A C CR6  0  -8.427  -15.986 1.849
+HQG C8A C CR15 0  -10.577 -13.913 3.723
+HQG N1A N NRD6 0  -8.847  -16.891 0.927
+HQG N3A N NRD6 0  -11.178 -16.357 1.273
+HQG N6A N NH2  0  -7.121  -15.860 2.075
+HQG N7A N NRD5 0  -9.332  -14.246 3.494
+HQG N9A N NR5  0  -11.481 -14.616 2.967
+HQG O1A O OP   -1 -15.378 -9.392  7.213
+HQG O1N O OP   -1 -11.867 -11.996 8.923
+HQG O1Z O O    0  -16.646 -5.848  10.096
+HQG O2A O O    0  -13.515 -8.731  5.584
+HQG O2B O OH1  0  -13.916 -16.201 4.386
+HQG O2D O OH1  0  -17.171 -10.043 13.032
+HQG O2N O O    0  -14.142 -12.703 7.979
+HQG O2Z O OP   -1 -18.853 -6.622  11.024
+HQG O3  O O2   0  -13.119 -10.494 7.337
+HQG O3B O OH1  0  -15.915 -14.418 3.692
+HQG O3D O OH1  0  -14.652 -9.105  13.604
+HQG O3Z O OP   -1 -17.358 -5.143  12.400
+HQG O4B O O2   0  -13.243 -13.119 2.741
+HQG O4D O O2   0  -15.288 -8.465  10.403
+HQG O4Z O O2   0  -16.712 -7.528  12.000
+HQG O5B O O2   0  -14.611 -11.005 5.425
+HQG O5D O O2   0  -13.978 -10.804 9.640
+HQG PA  P P    0  -14.200 -9.788  6.386
+HQG PN  P P    0  -13.240 -11.620 8.473
+HQG PZ  P P    0  -17.423 -6.228  11.343
+HQG H1  H H    0  -13.332 -15.034 2.291
+HQG H2  H H    0  -17.256 -8.697  10.474
+HQG H3  H H    0  -10.410 -17.654 0.054
+HQG H4  H H    0  -12.947 -14.620 5.079
+HQG H5  H H    0  -16.404 -10.692 11.324
+HQG H6  H H    0  -15.015 -13.685 5.313
+HQG H7  H H    0  -14.399 -10.728 12.405
+HQG H8  H H    0  -14.959 -12.200 3.188
+HQG H9  H H    0  -13.681 -8.178  11.594
+HQG H10 H H    0  -13.152 -10.918 4.038
+HQG H11 H H    0  -12.910 -12.049 5.151
+HQG H12 H H    0  -12.524 -10.132 10.860
+HQG H13 H H    0  -12.852 -9.133  9.649
+HQG H14 H H    0  -10.830 -13.258 4.351
+HQG H15 H H    0  -6.840  -15.364 2.742
+HQG H16 H H    0  -6.546  -16.272 1.555
+HQG H19 H H    0  -14.539 -16.359 3.829
+HQG H20 H H    0  -16.964 -10.738 13.474
+HQG H22 H H    0  -15.750 -14.503 2.864
+HQG H23 H H    0  -15.021 -8.340  13.570
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -91,69 +90,70 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-HQG         C2A         N1A      DOUBLE       y     1.339  0.0100     1.339  0.0100
-HQG         C6A         N1A      SINGLE       y     1.354  0.0100     1.354  0.0100
-HQG         C2A         N3A      SINGLE       y     1.330  0.0100     1.330  0.0100
-HQG         C6A         N6A      SINGLE       n     1.330  0.0100     1.330  0.0100
-HQG         C4A         N3A      DOUBLE       y     1.343  0.0100     1.343  0.0100
-HQG         C5A         C6A      DOUBLE       y     1.408  0.0100     1.408  0.0100
-HQG         C4A         C5A      SINGLE       y     1.381  0.0100     1.381  0.0100
-HQG         C4A         N9A      SINGLE       y     1.374  0.0101     1.374  0.0101
-HQG         C5A         N7A      SINGLE       y     1.388  0.0100     1.388  0.0100
-HQG         C1B         O4B      SINGLE       n     1.409  0.0100     1.409  0.0100
-HQG         C4B         O4B      SINGLE       n     1.451  0.0100     1.451  0.0100
-HQG         C1B         N9A      SINGLE       n     1.458  0.0100     1.458  0.0100
-HQG         C8A         N9A      SINGLE       y     1.372  0.0100     1.372  0.0100
-HQG         C8A         N7A      DOUBLE       y     1.310  0.0100     1.310  0.0100
-HQG         C1B         C2B      SINGLE       n     1.525  0.0100     1.525  0.0100
-HQG         C4B         C5B      SINGLE       n     1.509  0.0100     1.509  0.0100
-HQG         C3B         C4B      SINGLE       n     1.535  0.0100     1.535  0.0100
-HQG         C5B         O5B      SINGLE       n     1.450  0.0166     1.450  0.0166
-HQG         C3B         O3B      SINGLE       n     1.422  0.0100     1.422  0.0100
-HQG         O5B          PA      SINGLE       n     1.604  0.0133     1.604  0.0133
-HQG         C2B         C3B      SINGLE       n     1.531  0.0100     1.531  0.0100
-HQG         C2B         O2B      SINGLE       n     1.411  0.0100     1.411  0.0100
-HQG         O2A          PA      DOUBLE       n     1.493  0.0122     1.493  0.0122
-HQG         O1A          PA      SINGLE       n     1.493  0.0122     1.493  0.0122
-HQG          O3          PA      SINGLE       n     1.604  0.0133     1.604  0.0133
-HQG          O3          PN      SINGLE       n     1.604  0.0133     1.604  0.0133
-HQG         O2N          PN      DOUBLE       n     1.493  0.0122     1.493  0.0122
-HQG         O1N          PN      SINGLE       n     1.493  0.0122     1.493  0.0122
-HQG         O5D          PN      SINGLE       n     1.604  0.0133     1.604  0.0133
-HQG         C5D         O5D      SINGLE       n     1.450  0.0166     1.450  0.0166
-HQG         C4D         C5D      SINGLE       n     1.509  0.0100     1.509  0.0100
-HQG         C4D         O4D      SINGLE       n     1.445  0.0110     1.445  0.0110
-HQG         C1D         O4D      SINGLE       n     1.416  0.0138     1.416  0.0138
-HQG         C3D         C4D      SINGLE       n     1.535  0.0100     1.535  0.0100
-HQG         O1Z          PZ      DOUBLE       n     1.517  0.0192     1.517  0.0192
-HQG         C1D         C2D      SINGLE       n     1.533  0.0105     1.533  0.0105
-HQG         C1D         O4Z      SINGLE       n     1.397  0.0200     1.397  0.0200
-HQG         C2D         C3D      SINGLE       n     1.527  0.0109     1.527  0.0109
-HQG         C2D         O2D      SINGLE       n     1.413  0.0100     1.413  0.0100
-HQG         C3D         O3D      SINGLE       n     1.421  0.0100     1.421  0.0100
-HQG         O4Z          PZ      SINGLE       n     1.614  0.0178     1.614  0.0178
-HQG         O2Z          PZ      SINGLE       n     1.517  0.0192     1.517  0.0192
-HQG         O3Z          PZ      SINGLE       n     1.517  0.0192     1.517  0.0192
-HQG         C1B          H1      SINGLE       n     1.089  0.0100     0.984  0.0200
-HQG         C1D          H2      SINGLE       n     1.089  0.0100     1.000  0.0200
-HQG         C2A          H3      SINGLE       n     1.082  0.0130     0.945  0.0200
-HQG         C2B          H4      SINGLE       n     1.089  0.0100     0.994  0.0200
-HQG         C2D          H5      SINGLE       n     1.089  0.0100     1.020  0.0200
-HQG         C3B          H6      SINGLE       n     1.089  0.0100     0.992  0.0200
-HQG         C3D          H7      SINGLE       n     1.089  0.0100     1.048  0.0200
-HQG         C4B          H8      SINGLE       n     1.089  0.0100     0.981  0.0200
-HQG         C4D          H9      SINGLE       n     1.089  0.0100     1.024  0.0200
-HQG         C5B         H10      SINGLE       n     1.089  0.0100     0.989  0.0200
-HQG         C5B         H11      SINGLE       n     1.089  0.0100     0.989  0.0200
-HQG         C5D         H12      SINGLE       n     1.089  0.0100     0.989  0.0200
-HQG         C5D         H13      SINGLE       n     1.089  0.0100     0.989  0.0200
-HQG         C8A         H14      SINGLE       n     1.082  0.0130     0.942  0.0170
-HQG         N6A         H15      SINGLE       n     1.016  0.0100     0.877  0.0200
-HQG         N6A         H16      SINGLE       n     1.016  0.0100     0.877  0.0200
-HQG         O2B         H19      SINGLE       n     0.970  0.0120     0.849  0.0200
-HQG         O2D         H20      SINGLE       n     0.970  0.0120     0.849  0.0200
-HQG         O3B         H22      SINGLE       n     0.970  0.0120     0.849  0.0200
-HQG         O3D         H23      SINGLE       n     0.970  0.0120     0.849  0.0200
+HQG C2A N1A DOUBLE y 1.339 0.0100 1.339 0.0100
+HQG C6A N1A SINGLE y 1.354 0.0100 1.354 0.0100
+HQG C2A N3A SINGLE y 1.330 0.0100 1.330 0.0100
+HQG C6A N6A SINGLE n 1.330 0.0100 1.330 0.0100
+HQG C4A N3A DOUBLE y 1.343 0.0100 1.343 0.0100
+HQG C5A C6A DOUBLE y 1.408 0.0100 1.408 0.0100
+HQG C4A C5A SINGLE y 1.381 0.0100 1.381 0.0100
+HQG C4A N9A SINGLE y 1.374 0.0101 1.374 0.0101
+HQG C5A N7A SINGLE y 1.388 0.0100 1.388 0.0100
+HQG C1B O4B SINGLE n 1.409 0.0100 1.409 0.0100
+HQG C4B O4B SINGLE n 1.451 0.0100 1.451 0.0100
+HQG C1B N9A SINGLE n 1.458 0.0100 1.458 0.0100
+HQG C8A N9A SINGLE y 1.372 0.0100 1.372 0.0100
+HQG C8A N7A DOUBLE y 1.310 0.0100 1.310 0.0100
+HQG C1B C2B SINGLE n 1.525 0.0100 1.525 0.0100
+HQG C4B C5B SINGLE n 1.509 0.0100 1.509 0.0100
+HQG C3B C4B SINGLE n 1.535 0.0100 1.535 0.0100
+HQG C5B O5B SINGLE n 1.450 0.0166 1.450 0.0166
+HQG C3B O3B SINGLE n 1.422 0.0100 1.422 0.0100
+HQG O5B PA  SINGLE n 1.604 0.0133 1.604 0.0133
+HQG C2B C3B SINGLE n 1.531 0.0100 1.531 0.0100
+HQG C2B O2B SINGLE n 1.411 0.0100 1.411 0.0100
+HQG O2A PA  DOUBLE n 1.493 0.0122 1.493 0.0122
+HQG O1A PA  SINGLE n 1.493 0.0122 1.493 0.0122
+HQG O3  PA  SINGLE n 1.604 0.0133 1.604 0.0133
+HQG O3  PN  SINGLE n 1.604 0.0133 1.604 0.0133
+HQG O2N PN  DOUBLE n 1.493 0.0122 1.493 0.0122
+HQG O1N PN  SINGLE n 1.493 0.0122 1.493 0.0122
+HQG O5D PN  SINGLE n 1.604 0.0133 1.604 0.0133
+HQG C5D O5D SINGLE n 1.450 0.0166 1.450 0.0166
+HQG C4D C5D SINGLE n 1.509 0.0100 1.509 0.0100
+HQG C4D O4D SINGLE n 1.445 0.0110 1.445 0.0110
+HQG C1D O4D SINGLE n 1.416 0.0138 1.416 0.0138
+HQG C3D C4D SINGLE n 1.535 0.0100 1.535 0.0100
+HQG O1Z PZ  DOUBLE n 1.517 0.0192 1.517 0.0192
+HQG C1D C2D SINGLE n 1.533 0.0105 1.533 0.0105
+HQG C1D O4Z SINGLE n 1.397 0.0200 1.397 0.0200
+HQG C2D C3D SINGLE n 1.527 0.0109 1.527 0.0109
+HQG C2D O2D SINGLE n 1.413 0.0100 1.413 0.0100
+HQG C3D O3D SINGLE n 1.421 0.0100 1.421 0.0100
+HQG O4Z PZ  SINGLE n 1.614 0.0178 1.614 0.0178
+HQG O2Z PZ  SINGLE n 1.517 0.0192 1.517 0.0192
+HQG O3Z PZ  SINGLE n 1.517 0.0192 1.517 0.0192
+HQG C1B H1  SINGLE n 1.089 0.0100 0.984 0.0200
+HQG C1D H2  SINGLE n 1.089 0.0100 1.000 0.0200
+HQG C2A H3  SINGLE n 1.082 0.0130 0.945 0.0200
+HQG C2B H4  SINGLE n 1.089 0.0100 0.994 0.0200
+HQG C2D H5  SINGLE n 1.089 0.0100 1.020 0.0200
+HQG C3B H6  SINGLE n 1.089 0.0100 0.992 0.0200
+HQG C3D H7  SINGLE n 1.089 0.0100 1.048 0.0200
+HQG C4B H8  SINGLE n 1.089 0.0100 0.981 0.0200
+HQG C4D H9  SINGLE n 1.089 0.0100 1.024 0.0200
+HQG C5B H10 SINGLE n 1.089 0.0100 0.989 0.0200
+HQG C5B H11 SINGLE n 1.089 0.0100 0.989 0.0200
+HQG C5D H12 SINGLE n 1.089 0.0100 0.989 0.0200
+HQG C5D H13 SINGLE n 1.089 0.0100 0.989 0.0200
+HQG C8A H14 SINGLE n 1.082 0.0130 0.942 0.0170
+HQG N6A H15 SINGLE n 1.016 0.0100 0.877 0.0200
+HQG N6A H16 SINGLE n 1.016 0.0100 0.877 0.0200
+HQG O2B H19 SINGLE n 0.970 0.0120 0.849 0.0200
+HQG O2D H20 SINGLE n 0.970 0.0120 0.849 0.0200
+HQG O3B H22 SINGLE n 0.970 0.0120 0.849 0.0200
+HQG O3D H23 SINGLE n 0.970 0.0120 0.849 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -161,118 +161,119 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-HQG         O4B         C1B         N9A     108.477    1.50
-HQG         O4B         C1B         C2B     106.047    1.50
-HQG         O4B         C1B          H1     109.807    1.50
-HQG         N9A         C1B         C2B     113.824    1.50
-HQG         N9A         C1B          H1     109.561    1.50
-HQG         C2B         C1B          H1     109.015    1.50
-HQG         O4D         C1D         C2D     104.988    1.50
-HQG         O4D         C1D         O4Z     111.780    1.50
-HQG         O4D         C1D          H2     109.510    2.59
-HQG         C2D         C1D         O4Z     108.741    2.62
-HQG         C2D         C1D          H2     112.713    2.29
-HQG         O4Z         C1D          H2     110.280    1.70
-HQG         N1A         C2A         N3A     129.332    1.50
-HQG         N1A         C2A          H3     115.313    1.50
-HQG         N3A         C2A          H3     115.355    1.50
-HQG         C1B         C2B         C3B     101.239    1.50
-HQG         C1B         C2B         O2B     111.715    2.69
-HQG         C1B         C2B          H4     110.636    1.70
-HQG         C3B         C2B         O2B     112.782    2.45
-HQG         C3B         C2B          H4     110.596    1.51
-HQG         O2B         C2B          H4     110.448    1.97
-HQG         C1D         C2D         C3D     104.443    2.26
-HQG         C1D         C2D         O2D     114.767    2.06
-HQG         C1D         C2D          H5     110.947    3.00
-HQG         C3D         C2D         O2D     112.463    2.73
-HQG         C3D         C2D          H5     110.255    2.04
-HQG         O2D         C2D          H5     108.546    1.50
-HQG         C4B         C3B         O3B     111.281    2.46
-HQG         C4B         C3B         C2B     102.602    1.50
-HQG         C4B         C3B          H6     110.452    2.54
-HQG         O3B         C3B         C2B     111.581    2.83
-HQG         O3B         C3B          H6     110.380    1.67
-HQG         C2B         C3B          H6     110.504    1.75
-HQG         C4D         C3D         C2D     102.352    1.50
-HQG         C4D         C3D         O3D     111.281    2.46
-HQG         C4D         C3D          H7     110.452    2.54
-HQG         C2D         C3D         O3D     112.463    2.73
-HQG         C2D         C3D          H7     110.255    2.04
-HQG         O3D         C3D          H7     110.380    1.67
-HQG         N3A         C4A         C5A     126.489    1.50
-HQG         N3A         C4A         N9A     127.895    1.50
-HQG         C5A         C4A         N9A     105.616    1.50
-HQG         O4B         C4B         C5B     109.123    1.50
-HQG         O4B         C4B         C3B     105.388    1.50
-HQG         O4B         C4B          H8     108.947    1.50
-HQG         C5B         C4B         C3B     116.008    1.52
-HQG         C5B         C4B          H8     108.268    1.50
-HQG         C3B         C4B          H8     109.363    1.86
-HQG         C5D         C4D         O4D     109.123    1.50
-HQG         C5D         C4D         C3D     116.008    1.52
-HQG         C5D         C4D          H9     108.268    1.50
-HQG         O4D         C4D         C3D     105.508    1.50
-HQG         O4D         C4D          H9     109.199    2.08
-HQG         C3D         C4D          H9     109.363    1.86
-HQG         C6A         C5A         C4A     117.270    1.50
-HQG         C6A         C5A         N7A     132.247    1.50
-HQG         C4A         C5A         N7A     110.483    1.50
-HQG         C4B         C5B         O5B     109.342    1.50
-HQG         C4B         C5B         H10     109.624    1.50
-HQG         C4B         C5B         H11     109.624    1.50
-HQG         O5B         C5B         H10     109.845    1.50
-HQG         O5B         C5B         H11     109.845    1.50
-HQG         H10         C5B         H11     108.472    1.50
-HQG         O5D         C5D         C4D     109.342    1.50
-HQG         O5D         C5D         H12     109.845    1.50
-HQG         O5D         C5D         H13     109.845    1.50
-HQG         C4D         C5D         H12     109.624    1.50
-HQG         C4D         C5D         H13     109.624    1.50
-HQG         H12         C5D         H13     108.472    1.50
-HQG         N1A         C6A         N6A     118.799    1.50
-HQG         N1A         C6A         C5A     117.409    1.50
-HQG         N6A         C6A         C5A     123.792    1.50
-HQG         N9A         C8A         N7A     113.469    1.50
-HQG         N9A         C8A         H14     123.206    1.50
-HQG         N7A         C8A         H14     123.326    1.50
-HQG         C2A         N1A         C6A     118.521    1.50
-HQG         C2A         N3A         C4A     110.982    1.50
-HQG         C6A         N6A         H15     119.723    1.50
-HQG         C6A         N6A         H16     119.723    1.50
-HQG         H15         N6A         H16     120.554    1.88
-HQG         C5A         N7A         C8A     104.739    1.50
-HQG         C4A         N9A         C1B     127.459    1.80
-HQG         C4A         N9A         C8A     105.693    1.50
-HQG         C1B         N9A         C8A     126.848    1.91
-HQG         C2B         O2B         H19     109.103    2.13
-HQG         C2D         O2D         H20     110.011    1.50
-HQG          PA          O3          PN     132.542    3.00
-HQG         C3B         O3B         H22     108.744    3.00
-HQG         C3D         O3D         H23     108.744    3.00
-HQG         C1B         O4B         C4B     109.903    1.50
-HQG         C4D         O4D         C1D     108.379    1.72
-HQG         C1D         O4Z          PZ     109.471    3.00
-HQG         C5B         O5B          PA     118.553    2.41
-HQG          PN         O5D         C5D     118.553    2.41
-HQG         O5B          PA         O2A     109.410    1.50
-HQG         O5B          PA         O1A     109.410    1.50
-HQG         O5B          PA          O3     101.065    1.97
-HQG         O2A          PA         O1A     118.411    2.35
-HQG         O2A          PA          O3     108.816    2.14
-HQG         O1A          PA          O3     108.816    2.14
-HQG          O3          PN         O2N     108.816    2.14
-HQG          O3          PN         O1N     108.816    2.14
-HQG          O3          PN         O5D     101.065    1.97
-HQG         O2N          PN         O1N     118.411    2.35
-HQG         O2N          PN         O5D     109.410    1.50
-HQG         O1N          PN         O5D     109.410    1.50
-HQG         O1Z          PZ         O4Z     106.518    3.00
-HQG         O1Z          PZ         O2Z     112.139    1.52
-HQG         O1Z          PZ         O3Z     112.139    1.52
-HQG         O4Z          PZ         O2Z     106.518    3.00
-HQG         O4Z          PZ         O3Z     106.518    3.00
-HQG         O2Z          PZ         O3Z     112.139    1.52
+HQG O4B C1B N9A 108.477 1.50
+HQG O4B C1B C2B 106.047 1.50
+HQG O4B C1B H1  109.807 1.50
+HQG N9A C1B C2B 113.824 1.50
+HQG N9A C1B H1  109.561 1.50
+HQG C2B C1B H1  109.015 1.50
+HQG O4D C1D C2D 104.988 1.50
+HQG O4D C1D O4Z 111.780 1.50
+HQG O4D C1D H2  109.510 2.59
+HQG C2D C1D O4Z 108.741 2.62
+HQG C2D C1D H2  112.713 2.29
+HQG O4Z C1D H2  110.280 1.70
+HQG N1A C2A N3A 129.332 1.50
+HQG N1A C2A H3  115.313 1.50
+HQG N3A C2A H3  115.355 1.50
+HQG C1B C2B C3B 101.239 1.50
+HQG C1B C2B O2B 111.715 2.69
+HQG C1B C2B H4  110.636 1.70
+HQG C3B C2B O2B 112.782 2.45
+HQG C3B C2B H4  110.596 1.51
+HQG O2B C2B H4  110.448 1.97
+HQG C1D C2D C3D 104.443 2.26
+HQG C1D C2D O2D 114.767 2.06
+HQG C1D C2D H5  110.947 3.00
+HQG C3D C2D O2D 112.463 2.73
+HQG C3D C2D H5  110.255 2.04
+HQG O2D C2D H5  108.546 1.50
+HQG C4B C3B O3B 111.281 2.46
+HQG C4B C3B C2B 102.602 1.50
+HQG C4B C3B H6  110.452 2.54
+HQG O3B C3B C2B 111.581 2.83
+HQG O3B C3B H6  110.380 1.67
+HQG C2B C3B H6  110.504 1.75
+HQG C4D C3D C2D 102.352 1.50
+HQG C4D C3D O3D 111.281 2.46
+HQG C4D C3D H7  110.452 2.54
+HQG C2D C3D O3D 112.463 2.73
+HQG C2D C3D H7  110.255 2.04
+HQG O3D C3D H7  110.380 1.67
+HQG N3A C4A C5A 126.489 1.50
+HQG N3A C4A N9A 127.895 1.50
+HQG C5A C4A N9A 105.616 1.50
+HQG O4B C4B C5B 109.123 1.50
+HQG O4B C4B C3B 105.388 1.50
+HQG O4B C4B H8  108.947 1.50
+HQG C5B C4B C3B 116.008 1.52
+HQG C5B C4B H8  108.268 1.50
+HQG C3B C4B H8  109.363 1.86
+HQG C5D C4D O4D 109.123 1.50
+HQG C5D C4D C3D 116.008 1.52
+HQG C5D C4D H9  108.268 1.50
+HQG O4D C4D C3D 105.508 1.50
+HQG O4D C4D H9  109.199 2.08
+HQG C3D C4D H9  109.363 1.86
+HQG C6A C5A C4A 117.270 1.50
+HQG C6A C5A N7A 132.247 1.50
+HQG C4A C5A N7A 110.483 1.50
+HQG C4B C5B O5B 109.342 1.50
+HQG C4B C5B H10 109.624 1.50
+HQG C4B C5B H11 109.624 1.50
+HQG O5B C5B H10 109.845 1.50
+HQG O5B C5B H11 109.845 1.50
+HQG H10 C5B H11 108.472 1.50
+HQG O5D C5D C4D 109.342 1.50
+HQG O5D C5D H12 109.845 1.50
+HQG O5D C5D H13 109.845 1.50
+HQG C4D C5D H12 109.624 1.50
+HQG C4D C5D H13 109.624 1.50
+HQG H12 C5D H13 108.472 1.50
+HQG N1A C6A N6A 118.799 1.50
+HQG N1A C6A C5A 117.409 1.50
+HQG N6A C6A C5A 123.792 1.50
+HQG N9A C8A N7A 113.469 1.50
+HQG N9A C8A H14 123.206 1.50
+HQG N7A C8A H14 123.326 1.50
+HQG C2A N1A C6A 118.521 1.50
+HQG C2A N3A C4A 110.982 1.50
+HQG C6A N6A H15 119.723 1.50
+HQG C6A N6A H16 119.723 1.50
+HQG H15 N6A H16 120.554 1.88
+HQG C5A N7A C8A 104.739 1.50
+HQG C4A N9A C1B 127.459 1.80
+HQG C4A N9A C8A 105.693 1.50
+HQG C1B N9A C8A 126.848 1.91
+HQG C2B O2B H19 109.103 2.13
+HQG C2D O2D H20 110.011 1.50
+HQG PA  O3  PN  132.542 3.00
+HQG C3B O3B H22 108.744 3.00
+HQG C3D O3D H23 108.744 3.00
+HQG C1B O4B C4B 109.903 1.50
+HQG C4D O4D C1D 108.379 1.72
+HQG C1D O4Z PZ  109.471 3.00
+HQG C5B O5B PA  118.553 2.41
+HQG PN  O5D C5D 118.553 2.41
+HQG O5B PA  O2A 109.410 1.50
+HQG O5B PA  O1A 109.410 1.50
+HQG O5B PA  O3  101.065 1.97
+HQG O2A PA  O1A 118.411 2.35
+HQG O2A PA  O3  108.816 2.14
+HQG O1A PA  O3  108.816 2.14
+HQG O3  PN  O2N 108.816 2.14
+HQG O3  PN  O1N 108.816 2.14
+HQG O3  PN  O5D 101.065 1.97
+HQG O2N PN  O1N 118.411 2.35
+HQG O2N PN  O5D 109.410 1.50
+HQG O1N PN  O5D 109.410 1.50
+HQG O1Z PZ  O4Z 106.518 3.00
+HQG O1Z PZ  O2Z 112.139 1.52
+HQG O1Z PZ  O3Z 112.139 1.52
+HQG O4Z PZ  O2Z 106.518 3.00
+HQG O4Z PZ  O3Z 106.518 3.00
+HQG O2Z PZ  O3Z 112.139 1.52
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -283,136 +284,137 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-HQG                   nu0         C4D         O4D         C1D         C2D     -23.490    10.0     3
-HQG                   nu1         O4D         C1D         C2D         C3D      31.385    10.0     3
-HQG                   nu2         C1D         C2D         C3D         C4D     -25.774    10.0     3
-HQG                   nu3         C2D         C3D         C4D         O4D      13.208    10.0     3
-HQG                   nu4         C3D         C4D         O4D         C1D       6.286    10.0     3
-HQG             sp3_sp3_1         C2B         C1B         O4B         C4B      60.000    10.0     3
-HQG             sp3_sp3_2         N9A         C1B         O4B         C4B     -60.000    10.0     3
-HQG             sp3_sp3_3          H1         C1B         O4B         C4B     180.000    10.0     3
-HQG             sp3_sp3_4         C3B         C4B         O4B         C1B     -60.000    10.0     3
-HQG             sp3_sp3_5         C5B         C4B         O4B         C1B     180.000    10.0     3
-HQG             sp3_sp3_6          H8         C4B         O4B         C1B      60.000    10.0     3
-HQG             sp3_sp3_7         C2B         C3B         C4B         O4B      60.000    10.0     3
-HQG             sp3_sp3_8         C2B         C3B         C4B         C5B     180.000    10.0     3
-HQG             sp3_sp3_9         C2B         C3B         C4B          H8     -60.000    10.0     3
-HQG            sp3_sp3_10         O3B         C3B         C4B         O4B     -60.000    10.0     3
-HQG            sp3_sp3_11         O3B         C3B         C4B         C5B      60.000    10.0     3
-HQG            sp3_sp3_12         O3B         C3B         C4B          H8     180.000    10.0     3
-HQG            sp3_sp3_13          H6         C3B         C4B         O4B     180.000    10.0     3
-HQG            sp3_sp3_14          H6         C3B         C4B         C5B     -60.000    10.0     3
-HQG            sp3_sp3_15          H6         C3B         C4B          H8      60.000    10.0     3
-HQG            sp3_sp3_16         C1B         C2B         C3B         C4B     -60.000    10.0     3
-HQG            sp3_sp3_17         C1B         C2B         C3B         O3B      60.000    10.0     3
-HQG            sp3_sp3_18         C1B         C2B         C3B          H6     180.000    10.0     3
-HQG            sp3_sp3_19         O2B         C2B         C3B         C4B     180.000    10.0     3
-HQG            sp3_sp3_20         O2B         C2B         C3B         O3B     -60.000    10.0     3
-HQG            sp3_sp3_21         O2B         C2B         C3B          H6      60.000    10.0     3
-HQG            sp3_sp3_22          H4         C2B         C3B         C4B      60.000    10.0     3
-HQG            sp3_sp3_23          H4         C2B         C3B         O3B     180.000    10.0     3
-HQG            sp3_sp3_24          H4         C2B         C3B          H6     -60.000    10.0     3
-HQG       const_sp2_sp2_1         N3A         C2A         N1A         C6A       0.000     5.0     2
-HQG       const_sp2_sp2_2          H3         C2A         N1A         C6A     180.000     5.0     2
-HQG       const_sp2_sp2_3         C5A         C6A         N1A         C2A       0.000     5.0     2
-HQG       const_sp2_sp2_4         N6A         C6A         N1A         C2A     180.000     5.0     2
-HQG       const_sp2_sp2_5         C4A         C5A         C6A         N1A       0.000     5.0     2
-HQG       const_sp2_sp2_6         C4A         C5A         C6A         N6A     180.000     5.0     2
-HQG       const_sp2_sp2_7         N7A         C5A         C6A         N1A     180.000     5.0     2
-HQG       const_sp2_sp2_8         N7A         C5A         C6A         N6A       0.000     5.0     2
-HQG       const_sp2_sp2_9         N3A         C4A         C5A         C6A       0.000     5.0     2
-HQG              const_10         N3A         C4A         C5A         N7A     180.000    10.0     2
-HQG              const_11         N9A         C4A         C5A         C6A     180.000    10.0     2
-HQG              const_12         N9A         C4A         C5A         N7A       0.000    10.0     2
-HQG              const_13         C5A         C4A         N3A         C2A       0.000    10.0     2
-HQG              const_14         N9A         C4A         N3A         C2A     180.000    10.0     2
-HQG              const_15         C4A         C5A         N7A         C8A       0.000    10.0     2
-HQG              const_16         C6A         C5A         N7A         C8A     180.000    10.0     2
-HQG              const_17         N9A         C8A         N7A         C5A       0.000    10.0     2
-HQG              const_18         H14         C8A         N7A         C5A     180.000    10.0     2
-HQG              const_19         N7A         C8A         N9A         C4A       0.000    10.0     2
-HQG              const_20         N7A         C8A         N9A         C1B     180.000    10.0     2
-HQG              const_21         H14         C8A         N9A         C4A     180.000    10.0     2
-HQG              const_22         H14         C8A         N9A         C1B       0.000    10.0     2
-HQG              const_23         N1A         C2A         N3A         C4A       0.000    10.0     2
-HQG              const_24          H3         C2A         N3A         C4A     180.000    10.0     2
-HQG             sp2_sp2_1         C5A         C6A         N6A         H15     180.000     5.0     2
-HQG             sp2_sp2_2         C5A         C6A         N6A         H16       0.000     5.0     2
-HQG             sp2_sp2_3         N1A         C6A         N6A         H15       0.000     5.0     2
-HQG             sp2_sp2_4         N1A         C6A         N6A         H16     180.000     5.0     2
-HQG              const_25         C5A         C4A         N9A         C8A       0.000    10.0     2
-HQG              const_26         C5A         C4A         N9A         C1B     180.000    10.0     2
-HQG              const_27         N3A         C4A         N9A         C8A     180.000    10.0     2
-HQG              const_28         N3A         C4A         N9A         C1B       0.000    10.0     2
-HQG             sp2_sp3_1         C4A         N9A         C1B         O4B     150.000    10.0     6
-HQG             sp2_sp3_2         C4A         N9A         C1B         C2B     -90.000    10.0     6
-HQG             sp2_sp3_3         C4A         N9A         C1B          H1      30.000    10.0     6
-HQG             sp2_sp3_4         C8A         N9A         C1B         O4B     -30.000    10.0     6
-HQG             sp2_sp3_5         C8A         N9A         C1B         C2B      90.000    10.0     6
-HQG             sp2_sp3_6         C8A         N9A         C1B          H1    -150.000    10.0     6
-HQG            sp3_sp3_49         O4B         C1B         C2B         C3B     180.000    10.0     3
-HQG            sp3_sp3_50         O4B         C1B         C2B         O2B     -60.000    10.0     3
-HQG            sp3_sp3_51         O4B         C1B         C2B          H4      60.000    10.0     3
-HQG            sp3_sp3_52         N9A         C1B         C2B         C3B      60.000    10.0     3
-HQG            sp3_sp3_53         N9A         C1B         C2B         O2B     180.000    10.0     3
-HQG            sp3_sp3_54         N9A         C1B         C2B          H4     -60.000    10.0     3
-HQG            sp3_sp3_55          H1         C1B         C2B         C3B     -60.000    10.0     3
-HQG            sp3_sp3_56          H1         C1B         C2B         O2B      60.000    10.0     3
-HQG            sp3_sp3_57          H1         C1B         C2B          H4     180.000    10.0     3
-HQG            sp3_sp3_58         O4B         C4B         C5B         O5B     180.000    10.0     3
-HQG            sp3_sp3_59         O4B         C4B         C5B         H10     -60.000    10.0     3
-HQG            sp3_sp3_60         O4B         C4B         C5B         H11      60.000    10.0     3
-HQG            sp3_sp3_61         C3B         C4B         C5B         O5B      60.000    10.0     3
-HQG            sp3_sp3_62         C3B         C4B         C5B         H10     180.000    10.0     3
-HQG            sp3_sp3_63         C3B         C4B         C5B         H11     -60.000    10.0     3
-HQG            sp3_sp3_64          H8         C4B         C5B         O5B     -60.000    10.0     3
-HQG            sp3_sp3_65          H8         C4B         C5B         H10      60.000    10.0     3
-HQG            sp3_sp3_66          H8         C4B         C5B         H11     180.000    10.0     3
-HQG            sp3_sp3_67         C4B         C5B         O5B          PA     180.000    10.0     3
-HQG            sp3_sp3_68         H10         C5B         O5B          PA      60.000    10.0     3
-HQG            sp3_sp3_69         H11         C5B         O5B          PA     -60.000    10.0     3
-HQG            sp3_sp3_70         C4B         C3B         O3B         H22     180.000    10.0     3
-HQG            sp3_sp3_71         C2B         C3B         O3B         H22      60.000    10.0     3
-HQG            sp3_sp3_72          H6         C3B         O3B         H22     -60.000    10.0     3
-HQG            sp3_sp3_73         C5B         O5B          PA          O3     180.000    10.0     3
-HQG            sp3_sp3_74         C5B         O5B          PA         O1A     -60.000    10.0     3
-HQG            sp3_sp3_75         C5B         O5B          PA         O2A      60.000    10.0     3
-HQG            sp3_sp3_76         C1B         C2B         O2B         H19     180.000    10.0     3
-HQG            sp3_sp3_77         C3B         C2B         O2B         H19      60.000    10.0     3
-HQG            sp3_sp3_78          H4         C2B         O2B         H19     -60.000    10.0     3
-HQG            sp3_sp3_79          PN          O3          PA         O1A     180.000    10.0     3
-HQG            sp3_sp3_80          PN          O3          PA         O5B     -60.000    10.0     3
-HQG            sp3_sp3_81          PN          O3          PA         O2A      60.000    10.0     3
-HQG            sp3_sp3_82          PA          O3          PN         O1N     180.000    10.0     3
-HQG            sp3_sp3_83          PA          O3          PN         O5D     -60.000    10.0     3
-HQG            sp3_sp3_84          PA          O3          PN         O2N      60.000    10.0     3
-HQG            sp3_sp3_85         C5D         O5D          PN          O3     180.000    10.0     3
-HQG            sp3_sp3_86         C5D         O5D          PN         O1N     -60.000    10.0     3
-HQG            sp3_sp3_87         C5D         O5D          PN         O2N      60.000    10.0     3
-HQG            sp3_sp3_88         C4D         C5D         O5D          PN     180.000    10.0     3
-HQG            sp3_sp3_89         H12         C5D         O5D          PN      60.000    10.0     3
-HQG            sp3_sp3_90         H13         C5D         O5D          PN     -60.000    10.0     3
-HQG            sp3_sp3_91         O4D         C4D         C5D         O5D     180.000    10.0     3
-HQG            sp3_sp3_92         O4D         C4D         C5D         H12     -60.000    10.0     3
-HQG            sp3_sp3_93         O4D         C4D         C5D         H13      60.000    10.0     3
-HQG            sp3_sp3_94         C3D         C4D         C5D         O5D      60.000    10.0     3
-HQG            sp3_sp3_95         C3D         C4D         C5D         H12     180.000    10.0     3
-HQG            sp3_sp3_96         C3D         C4D         C5D         H13     -60.000    10.0     3
-HQG            sp3_sp3_97          H9         C4D         C5D         O5D     -60.000    10.0     3
-HQG            sp3_sp3_98          H9         C4D         C5D         H12      60.000    10.0     3
-HQG            sp3_sp3_99          H9         C4D         C5D         H13     180.000    10.0     3
-HQG           sp3_sp3_109         O4D         C1D         O4Z          PZ     180.000    10.0     3
-HQG           sp3_sp3_110         C2D         C1D         O4Z          PZ      60.000    10.0     3
-HQG           sp3_sp3_111          H2         C1D         O4Z          PZ     -60.000    10.0     3
-HQG           sp3_sp3_112         C1D         C2D         O2D         H20     180.000    10.0     3
-HQG           sp3_sp3_113         C3D         C2D         O2D         H20      60.000    10.0     3
-HQG           sp3_sp3_114          H5         C2D         O2D         H20     -60.000    10.0     3
-HQG           sp3_sp3_115         C4D         C3D         O3D         H23     180.000    10.0     3
-HQG           sp3_sp3_116         C2D         C3D         O3D         H23      60.000    10.0     3
-HQG           sp3_sp3_117          H7         C3D         O3D         H23     -60.000    10.0     3
-HQG           sp3_sp3_118         C1D         O4Z          PZ         O3Z     180.000    10.0     3
-HQG           sp3_sp3_119         C1D         O4Z          PZ         O2Z     -60.000    10.0     3
-HQG           sp3_sp3_120         C1D         O4Z          PZ         O1Z      60.000    10.0     3
+HQG nu0             C4D O4D C1D C2D -23.490  10.0 3
+HQG nu1             O4D C1D C2D C3D 31.385   10.0 3
+HQG nu2             C1D C2D C3D C4D -25.774  10.0 3
+HQG nu3             C2D C3D C4D O4D 13.208   10.0 3
+HQG nu4             C3D C4D O4D C1D 6.286    10.0 3
+HQG sp3_sp3_1       C2B C1B O4B C4B 60.000   10.0 3
+HQG sp3_sp3_2       N9A C1B O4B C4B -60.000  10.0 3
+HQG sp3_sp3_3       H1  C1B O4B C4B 180.000  10.0 3
+HQG sp3_sp3_4       C3B C4B O4B C1B -60.000  10.0 3
+HQG sp3_sp3_5       C5B C4B O4B C1B 180.000  10.0 3
+HQG sp3_sp3_6       H8  C4B O4B C1B 60.000   10.0 3
+HQG sp3_sp3_7       C2B C3B C4B O4B 60.000   10.0 3
+HQG sp3_sp3_8       C2B C3B C4B C5B 180.000  10.0 3
+HQG sp3_sp3_9       C2B C3B C4B H8  -60.000  10.0 3
+HQG sp3_sp3_10      O3B C3B C4B O4B -60.000  10.0 3
+HQG sp3_sp3_11      O3B C3B C4B C5B 60.000   10.0 3
+HQG sp3_sp3_12      O3B C3B C4B H8  180.000  10.0 3
+HQG sp3_sp3_13      H6  C3B C4B O4B 180.000  10.0 3
+HQG sp3_sp3_14      H6  C3B C4B C5B -60.000  10.0 3
+HQG sp3_sp3_15      H6  C3B C4B H8  60.000   10.0 3
+HQG sp3_sp3_16      C1B C2B C3B C4B -60.000  10.0 3
+HQG sp3_sp3_17      C1B C2B C3B O3B 60.000   10.0 3
+HQG sp3_sp3_18      C1B C2B C3B H6  180.000  10.0 3
+HQG sp3_sp3_19      O2B C2B C3B C4B 180.000  10.0 3
+HQG sp3_sp3_20      O2B C2B C3B O3B -60.000  10.0 3
+HQG sp3_sp3_21      O2B C2B C3B H6  60.000   10.0 3
+HQG sp3_sp3_22      H4  C2B C3B C4B 60.000   10.0 3
+HQG sp3_sp3_23      H4  C2B C3B O3B 180.000  10.0 3
+HQG sp3_sp3_24      H4  C2B C3B H6  -60.000  10.0 3
+HQG const_sp2_sp2_1 N3A C2A N1A C6A 0.000    5.0  2
+HQG const_sp2_sp2_2 H3  C2A N1A C6A 180.000  5.0  2
+HQG const_sp2_sp2_3 C5A C6A N1A C2A 0.000    5.0  2
+HQG const_sp2_sp2_4 N6A C6A N1A C2A 180.000  5.0  2
+HQG const_sp2_sp2_5 C4A C5A C6A N1A 0.000    5.0  2
+HQG const_sp2_sp2_6 C4A C5A C6A N6A 180.000  5.0  2
+HQG const_sp2_sp2_7 N7A C5A C6A N1A 180.000  5.0  2
+HQG const_sp2_sp2_8 N7A C5A C6A N6A 0.000    5.0  2
+HQG const_sp2_sp2_9 N3A C4A C5A C6A 0.000    5.0  2
+HQG const_10        N3A C4A C5A N7A 180.000  10.0 2
+HQG const_11        N9A C4A C5A C6A 180.000  10.0 2
+HQG const_12        N9A C4A C5A N7A 0.000    10.0 2
+HQG const_13        C5A C4A N3A C2A 0.000    10.0 2
+HQG const_14        N9A C4A N3A C2A 180.000  10.0 2
+HQG const_15        C4A C5A N7A C8A 0.000    10.0 2
+HQG const_16        C6A C5A N7A C8A 180.000  10.0 2
+HQG const_17        N9A C8A N7A C5A 0.000    10.0 2
+HQG const_18        H14 C8A N7A C5A 180.000  10.0 2
+HQG const_19        N7A C8A N9A C4A 0.000    10.0 2
+HQG const_20        N7A C8A N9A C1B 180.000  10.0 2
+HQG const_21        H14 C8A N9A C4A 180.000  10.0 2
+HQG const_22        H14 C8A N9A C1B 0.000    10.0 2
+HQG const_23        N1A C2A N3A C4A 0.000    10.0 2
+HQG const_24        H3  C2A N3A C4A 180.000  10.0 2
+HQG sp2_sp2_1       C5A C6A N6A H15 180.000  5.0  2
+HQG sp2_sp2_2       C5A C6A N6A H16 0.000    5.0  2
+HQG sp2_sp2_3       N1A C6A N6A H15 0.000    5.0  2
+HQG sp2_sp2_4       N1A C6A N6A H16 180.000  5.0  2
+HQG const_25        C5A C4A N9A C8A 0.000    10.0 2
+HQG const_26        C5A C4A N9A C1B 180.000  10.0 2
+HQG const_27        N3A C4A N9A C8A 180.000  10.0 2
+HQG const_28        N3A C4A N9A C1B 0.000    10.0 2
+HQG sp2_sp3_1       C4A N9A C1B O4B 150.000  10.0 6
+HQG sp2_sp3_2       C4A N9A C1B C2B -90.000  10.0 6
+HQG sp2_sp3_3       C4A N9A C1B H1  30.000   10.0 6
+HQG sp2_sp3_4       C8A N9A C1B O4B -30.000  10.0 6
+HQG sp2_sp3_5       C8A N9A C1B C2B 90.000   10.0 6
+HQG sp2_sp3_6       C8A N9A C1B H1  -150.000 10.0 6
+HQG sp3_sp3_49      O4B C1B C2B C3B 180.000  10.0 3
+HQG sp3_sp3_50      O4B C1B C2B O2B -60.000  10.0 3
+HQG sp3_sp3_51      O4B C1B C2B H4  60.000   10.0 3
+HQG sp3_sp3_52      N9A C1B C2B C3B 60.000   10.0 3
+HQG sp3_sp3_53      N9A C1B C2B O2B 180.000  10.0 3
+HQG sp3_sp3_54      N9A C1B C2B H4  -60.000  10.0 3
+HQG sp3_sp3_55      H1  C1B C2B C3B -60.000  10.0 3
+HQG sp3_sp3_56      H1  C1B C2B O2B 60.000   10.0 3
+HQG sp3_sp3_57      H1  C1B C2B H4  180.000  10.0 3
+HQG sp3_sp3_58      O4B C4B C5B O5B 180.000  10.0 3
+HQG sp3_sp3_59      O4B C4B C5B H10 -60.000  10.0 3
+HQG sp3_sp3_60      O4B C4B C5B H11 60.000   10.0 3
+HQG sp3_sp3_61      C3B C4B C5B O5B 60.000   10.0 3
+HQG sp3_sp3_62      C3B C4B C5B H10 180.000  10.0 3
+HQG sp3_sp3_63      C3B C4B C5B H11 -60.000  10.0 3
+HQG sp3_sp3_64      H8  C4B C5B O5B -60.000  10.0 3
+HQG sp3_sp3_65      H8  C4B C5B H10 60.000   10.0 3
+HQG sp3_sp3_66      H8  C4B C5B H11 180.000  10.0 3
+HQG sp3_sp3_67      C4B C5B O5B PA  180.000  10.0 3
+HQG sp3_sp3_68      H10 C5B O5B PA  60.000   10.0 3
+HQG sp3_sp3_69      H11 C5B O5B PA  -60.000  10.0 3
+HQG sp3_sp3_70      C4B C3B O3B H22 180.000  10.0 3
+HQG sp3_sp3_71      C2B C3B O3B H22 60.000   10.0 3
+HQG sp3_sp3_72      H6  C3B O3B H22 -60.000  10.0 3
+HQG sp3_sp3_73      C5B O5B PA  O3  180.000  10.0 3
+HQG sp3_sp3_74      C5B O5B PA  O1A -60.000  10.0 3
+HQG sp3_sp3_75      C5B O5B PA  O2A 60.000   10.0 3
+HQG sp3_sp3_76      C1B C2B O2B H19 180.000  10.0 3
+HQG sp3_sp3_77      C3B C2B O2B H19 60.000   10.0 3
+HQG sp3_sp3_78      H4  C2B O2B H19 -60.000  10.0 3
+HQG sp3_sp3_79      PN  O3  PA  O1A 180.000  10.0 3
+HQG sp3_sp3_80      PN  O3  PA  O5B -60.000  10.0 3
+HQG sp3_sp3_81      PN  O3  PA  O2A 60.000   10.0 3
+HQG sp3_sp3_82      PA  O3  PN  O1N 180.000  10.0 3
+HQG sp3_sp3_83      PA  O3  PN  O5D -60.000  10.0 3
+HQG sp3_sp3_84      PA  O3  PN  O2N 60.000   10.0 3
+HQG sp3_sp3_85      C5D O5D PN  O3  180.000  10.0 3
+HQG sp3_sp3_86      C5D O5D PN  O1N -60.000  10.0 3
+HQG sp3_sp3_87      C5D O5D PN  O2N 60.000   10.0 3
+HQG sp3_sp3_88      C4D C5D O5D PN  180.000  10.0 3
+HQG sp3_sp3_89      H12 C5D O5D PN  60.000   10.0 3
+HQG sp3_sp3_90      H13 C5D O5D PN  -60.000  10.0 3
+HQG sp3_sp3_91      O4D C4D C5D O5D 180.000  10.0 3
+HQG sp3_sp3_92      O4D C4D C5D H12 -60.000  10.0 3
+HQG sp3_sp3_93      O4D C4D C5D H13 60.000   10.0 3
+HQG sp3_sp3_94      C3D C4D C5D O5D 60.000   10.0 3
+HQG sp3_sp3_95      C3D C4D C5D H12 180.000  10.0 3
+HQG sp3_sp3_96      C3D C4D C5D H13 -60.000  10.0 3
+HQG sp3_sp3_97      H9  C4D C5D O5D -60.000  10.0 3
+HQG sp3_sp3_98      H9  C4D C5D H12 60.000   10.0 3
+HQG sp3_sp3_99      H9  C4D C5D H13 180.000  10.0 3
+HQG sp3_sp3_109     O4D C1D O4Z PZ  180.000  10.0 3
+HQG sp3_sp3_110     C2D C1D O4Z PZ  60.000   10.0 3
+HQG sp3_sp3_111     H2  C1D O4Z PZ  -60.000  10.0 3
+HQG sp3_sp3_112     C1D C2D O2D H20 180.000  10.0 3
+HQG sp3_sp3_113     C3D C2D O2D H20 60.000   10.0 3
+HQG sp3_sp3_114     H5  C2D O2D H20 -60.000  10.0 3
+HQG sp3_sp3_115     C4D C3D O3D H23 180.000  10.0 3
+HQG sp3_sp3_116     C2D C3D O3D H23 60.000   10.0 3
+HQG sp3_sp3_117     H7  C3D O3D H23 -60.000  10.0 3
+HQG sp3_sp3_118     C1D O4Z PZ  O3Z 180.000  10.0 3
+HQG sp3_sp3_119     C1D O4Z PZ  O2Z -60.000  10.0 3
+HQG sp3_sp3_120     C1D O4Z PZ  O1Z 60.000   10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -421,58 +423,77 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-HQG    chir_1    C1B    O4B    N9A    C2B    negative
-HQG    chir_2    C1D    O4Z    O4D    C2D    negative
-HQG    chir_3    C2B    O2B    C1B    C3B    negative
-HQG    chir_4    C2D    O2D    C1D    C3D    negative
-HQG    chir_5    C3B    O3B    C4B    C2B    positive
-HQG    chir_6    C3D    O3D    C4D    C2D    positive
-HQG    chir_7    C4B    O4B    C3B    C5B    negative
-HQG    chir_8    C4D    O4D    C3D    C5D    negative
-HQG    chir_9    PA    O3    O5B    O1A    both
-HQG    chir_10    PN    O3    O5D    O1N    both
-HQG    chir_11    PZ    O4Z    O2Z    O3Z    both
+HQG chir_1  C1B O4B N9A C2B negative
+HQG chir_2  C1D O4Z O4D C2D negative
+HQG chir_3  C2B O2B C1B C3B negative
+HQG chir_4  C2D O2D C1D C3D negative
+HQG chir_5  C3B O3B C4B C2B positive
+HQG chir_6  C3D O3D C4D C2D positive
+HQG chir_7  C4B O4B C3B C5B negative
+HQG chir_8  C4D O4D C3D C5D negative
+HQG chir_9  PA  O3  O5B O1A both
+HQG chir_10 PN  O3  O5D O1N both
+HQG chir_11 PZ  O4Z O2Z O3Z both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-HQG    plan-1         C1B   0.020
-HQG    plan-1         C2A   0.020
-HQG    plan-1         C4A   0.020
-HQG    plan-1         C5A   0.020
-HQG    plan-1         C6A   0.020
-HQG    plan-1         C8A   0.020
-HQG    plan-1         H14   0.020
-HQG    plan-1          H3   0.020
-HQG    plan-1         N1A   0.020
-HQG    plan-1         N3A   0.020
-HQG    plan-1         N6A   0.020
-HQG    plan-1         N7A   0.020
-HQG    plan-1         N9A   0.020
-HQG    plan-2         C6A   0.020
-HQG    plan-2         H15   0.020
-HQG    plan-2         H16   0.020
-HQG    plan-2         N6A   0.020
+HQG plan-1 C1B 0.020
+HQG plan-1 C2A 0.020
+HQG plan-1 C4A 0.020
+HQG plan-1 C5A 0.020
+HQG plan-1 C6A 0.020
+HQG plan-1 C8A 0.020
+HQG plan-1 H14 0.020
+HQG plan-1 H3  0.020
+HQG plan-1 N1A 0.020
+HQG plan-1 N3A 0.020
+HQG plan-1 N6A 0.020
+HQG plan-1 N7A 0.020
+HQG plan-1 N9A 0.020
+HQG plan-2 C6A 0.020
+HQG plan-2 H15 0.020
+HQG plan-2 H16 0.020
+HQG plan-2 N6A 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-HQG           SMILES              ACDLabs 12.01                                                                                                                                                                             C2(C(C(C(COP(O)(=O)OP(O)(=O)OCC1C(C(C(OP(=O)(O)O)O1)O)O)O2)O)O)n3c4c(nc3)c(ncn4)N
-HQG            InChI                InChI  1.03 InChI=1S/C15H24N5O17P3/c16-12-7-13(18-3-17-12)20(4-19-7)14-10(23)8(21)5(34-14)1-32-39(28,29)37-40(30,31)33-2-6-9(22)11(24)15(35-6)36-38(25,26)27/h3-6,8-11,14-15,21-24H,1-2H2,(H,28,29)(H,30,31)(H2,16,17,18)(H2,25,26,27)/t5-,6-,8-,9-,10-,11-,14-,15-/m1/s1
-HQG         InChIKey                InChI  1.03                                                                                                                                                                                                                                   CUNFRFHBHMFVPH-KEOHHSTQSA-N
-HQG SMILES_CANONICAL               CACTVS 3.385                                                                                                                                            Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P](O)(=O)O[P](O)(=O)OC[C@H]4O[C@H](O[P](O)(O)=O)[C@H](O)[C@@H]4O)[C@@H](O)[C@H]3O
-HQG           SMILES               CACTVS 3.385                                                                                                                                                       Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(=O)O[P](O)(=O)OC[CH]4O[CH](O[P](O)(O)=O)[CH](O)[CH]4O)[CH](O)[CH]3O
-HQG SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                                                          c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@H](O4)OP(=O)(O)O)O)O)O)O)N
-HQG           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                                                                             c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)OP(=O)(O)O)O)O)O)O)N
+HQG SMILES           ACDLabs              12.01 C2(C(C(C(COP(O)(=O)OP(O)(=O)OCC1C(C(C(OP(=O)(O)O)O1)O)O)O2)O)O)n3c4c(nc3)c(ncn4)N
+HQG InChI            InChI                1.03  InChI=1S/C15H24N5O17P3/c16-12-7-13(18-3-17-12)20(4-19-7)14-10(23)8(21)5(34-14)1-32-39(28,29)37-40(30,31)33-2-6-9(22)11(24)15(35-6)36-38(25,26)27/h3-6,8-11,14-15,21-24H,1-2H2,(H,28,29)(H,30,31)(H2,16,17,18)(H2,25,26,27)/t5-,6-,8-,9-,10-,11-,14-,15-/m1/s1
+HQG InChIKey         InChI                1.03  CUNFRFHBHMFVPH-KEOHHSTQSA-N
+HQG SMILES_CANONICAL CACTVS               3.385 Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P](O)(=O)O[P](O)(=O)OC[C@H]4O[C@H](O[P](O)(O)=O)[C@H](O)[C@@H]4O)[C@@H](O)[C@H]3O
+HQG SMILES           CACTVS               3.385 Nc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(=O)O[P](O)(=O)OC[CH]4O[CH](O[P](O)(O)=O)[CH](O)[CH]4O)[CH](O)[CH]3O
+HQG SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OC[C@@H]4[C@H]([C@H]([C@H](O4)OP(=O)(O)O)O)O)O)O)N
+HQG SMILES           "OpenEye OEToolkits" 2.0.6 c1nc(c2c(n1)n(cn2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)OP(=O)(O)O)O)O)O)O)N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-HQG acedrg               243         "dictionary generator"                  
-HQG acedrg_database      11          "data source"                           
-HQG rdkit                2017.03.2   "Chemoinformatics tool"
-HQG refmac5              5.8.0238    "optimization tool"                     
+HQG acedrg          243       "dictionary generator"
+HQG acedrg_database 11        "data source"
+HQG rdkit           2017.03.2 "Chemoinformatics tool"
+HQG refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+HQG DNA/RNA O2Z OP3
+HQG DNA/RNA PZ  P
+HQG DNA/RNA O1Z OP1
+HQG DNA/RNA O3Z OP2
+HQG DNA/RNA O4Z O5'
+HQG DNA/RNA C1D C5'
+HQG DNA/RNA C2D C4'
+HQG DNA/RNA C3D C3'
+HQG DNA/RNA O3D O3'
+HQG DNA/RNA H23 HO3'

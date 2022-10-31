@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-KAW     KAW      N-{(5S)-4,4-dihydroxy-6-phenyl-5-[(phenylcarbonyl)amino]hexanoyl}-L-tryptophan     NON-POLYMER     69     39     .     
-#
+KAW KAW N-{(5S)-4,4-dihydroxy-6-phenyl-5-[(phenylcarbonyl)amino]hexanoyl}-L-tryptophan NON-POLYMER 69 39 .
+
 data_comp_KAW
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,75 +19,76 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-KAW     CD2     C       CR56    0       44.150      45.826      41.599      
-KAW     CE3     C       CR16    0       43.941      45.355      42.904      
-KAW     CZ3     C       CR16    0       42.649      45.126      43.334      
-KAW     CH2     C       CR16    0       41.555      45.354      42.493      
-KAW     CZ2     C       CR16    0       41.721      45.816      41.205      
-KAW     CE2     C       CR56    0       43.028      46.049      40.768      
-KAW     NE1     N       NR5     0       43.493      46.500      39.562      
-KAW     CD1     C       CR15    0       44.859      46.565      39.606      
-KAW     CG      C       CR5     0       45.317      46.175      40.832      
-KAW     CB      C       CH2     0       46.746      46.092      41.284      
-KAW     CA      C       CH1     0       47.369      47.411      41.790      
-KAW     C       C       C       0       47.383      48.463      40.664      
-KAW     OXT     O       O       0       48.376      48.480      39.909      
-KAW     O       O       OC      -1      46.399      49.226      40.579      
-KAW     N       N       NH1     0       46.716      47.898      42.996      
-KAW     CBC     C       C       0       47.268      48.803      43.816      
-KAW     OAA     O       O       0       48.375      49.296      43.607      
-KAW     CAV     C       CH2     0       46.454      49.201      45.032      
-KAW     CAW     C       CH2     0       46.643      48.278      46.237      
-KAW     CBM     C       CT      0       46.031      46.867      46.126      
-KAW     OAE     O       OH1     0       46.877      46.072      45.363      
-KAW     OAF     O       OH1     0       44.763      46.948      45.558      
-KAW     CBL     C       CH1     0       45.879      46.213      47.511      
-KAW     CAX     C       CH2     0       47.209      46.038      48.274      
-KAW     CBF     C       CR6     0       47.055      45.359      49.618      
-KAW     CAO     C       CR16    0       46.399      45.997      50.664      
-KAW     CAI     C       CR16    0       46.255      45.376      51.899      
-KAW     CAG     C       CR16    0       46.764      44.111      52.101      
-KAW     CAJ     C       CR16    0       47.417      43.464      51.074      
-KAW     CAP     C       CR16    0       47.562      44.083      49.839      
-KAW     NBA     N       NH1     0       45.225      44.911      47.386      
-KAW     CBE     C       C       0       43.909      44.710      47.539      
-KAW     OAC     O       O       0       43.141      45.583      47.943      
-KAW     CBG     C       CR6     0       43.367      43.373      47.117      
-KAW     CAQ     C       CR16    0       42.470      42.691      47.935      
-KAW     CAK     C       CR16    0       41.959      41.462      47.543      
-KAW     CAH     C       CR16    0       42.331      40.907      46.334      
-KAW     CAL     C       CR16    0       43.215      41.579      45.512      
-KAW     CAR     C       CR16    0       43.728      42.809      45.896      
-KAW     HE3     H       H       0       44.673      45.199      43.478      
-KAW     HZ3     H       H       0       42.501      44.809      44.211      
-KAW     HH2     H       H       0       40.686      45.188      42.813      
-KAW     HZ2     H       H       0       40.984      45.969      40.638      
-KAW     HNE1    H       H       0       42.997      46.713      38.870      
-KAW     HD1     H       H       0       45.403      46.853      38.889      
-KAW     HB      H       H       0       47.289      45.763      40.538      
-KAW     HBA     H       H       0       46.807      45.430      42.002      
-KAW     HA      H       H       0       48.312      47.227      42.018      
-KAW     HN      H       H       0       45.927      47.581      43.193      
-KAW     HAV     H       H       0       45.505      49.228      44.789      
-KAW     HAVA    H       H       0       46.715      50.109      45.295      
-KAW     HAW     H       H       0       46.259      48.718      47.024      
-KAW     HAWA    H       H       0       47.604      48.183      46.402      
-KAW     H30     H       H       0       46.463      45.399      45.053      
-KAW     H29     H       H       0       44.264      47.462      46.016      
-KAW     HBL     H       H       0       45.310      46.795      48.070      
-KAW     HAX     H       H       0       47.614      46.919      48.418      
-KAW     HAXA    H       H       0       47.827      45.512      47.723      
-KAW     HAO     H       H       0       46.047      46.864      50.533      
-KAW     HAI     H       H       0       45.808      45.821      52.600      
-KAW     HAG     H       H       0       46.666      43.689      52.940      
-KAW     HAJ     H       H       0       47.767      42.598      51.210      
-KAW     HAP     H       H       0       48.010      43.633      49.141      
-KAW     HNBA    H       H       0       45.739      44.225      47.213      
-KAW     HAQ     H       H       0       42.212      43.062      48.761      
-KAW     HAK     H       H       0       41.357      41.003      48.105      
-KAW     HAH     H       H       0       41.983      40.071      46.070      
-KAW     HAL     H       H       0       43.469      41.201      44.686      
-KAW     HAR     H       H       0       44.331      43.260      45.331      
+KAW CD2  C CR56 0  44.150 45.826 41.599
+KAW CE3  C CR16 0  43.941 45.355 42.904
+KAW CZ3  C CR16 0  42.649 45.126 43.334
+KAW CH2  C CR16 0  41.555 45.354 42.493
+KAW CZ2  C CR16 0  41.721 45.816 41.205
+KAW CE2  C CR56 0  43.028 46.049 40.768
+KAW NE1  N NR5  0  43.493 46.500 39.562
+KAW CD1  C CR15 0  44.859 46.565 39.606
+KAW CG   C CR5  0  45.317 46.175 40.832
+KAW CB   C CH2  0  46.746 46.092 41.284
+KAW CA   C CH1  0  47.369 47.411 41.790
+KAW C    C C    0  47.383 48.463 40.664
+KAW OXT  O O    0  48.376 48.480 39.909
+KAW O    O OC   -1 46.399 49.226 40.579
+KAW N    N NH1  0  46.716 47.898 42.996
+KAW CBC  C C    0  47.268 48.803 43.816
+KAW OAA  O O    0  48.375 49.296 43.607
+KAW CAV  C CH2  0  46.454 49.201 45.032
+KAW CAW  C CH2  0  46.643 48.278 46.237
+KAW CBM  C CT   0  46.031 46.867 46.126
+KAW OAE  O OH1  0  46.877 46.072 45.363
+KAW OAF  O OH1  0  44.763 46.948 45.558
+KAW CBL  C CH1  0  45.879 46.213 47.511
+KAW CAX  C CH2  0  47.209 46.038 48.274
+KAW CBF  C CR6  0  47.055 45.359 49.618
+KAW CAO  C CR16 0  46.399 45.997 50.664
+KAW CAI  C CR16 0  46.255 45.376 51.899
+KAW CAG  C CR16 0  46.764 44.111 52.101
+KAW CAJ  C CR16 0  47.417 43.464 51.074
+KAW CAP  C CR16 0  47.562 44.083 49.839
+KAW NBA  N NH1  0  45.225 44.911 47.386
+KAW CBE  C C    0  43.909 44.710 47.539
+KAW OAC  O O    0  43.141 45.583 47.943
+KAW CBG  C CR6  0  43.367 43.373 47.117
+KAW CAQ  C CR16 0  42.470 42.691 47.935
+KAW CAK  C CR16 0  41.959 41.462 47.543
+KAW CAH  C CR16 0  42.331 40.907 46.334
+KAW CAL  C CR16 0  43.215 41.579 45.512
+KAW CAR  C CR16 0  43.728 42.809 45.896
+KAW HE3  H H    0  44.673 45.199 43.478
+KAW HZ3  H H    0  42.501 44.809 44.211
+KAW HH2  H H    0  40.686 45.188 42.813
+KAW HZ2  H H    0  40.984 45.969 40.638
+KAW HNE1 H H    0  42.997 46.713 38.870
+KAW HD1  H H    0  45.403 46.853 38.889
+KAW HB   H H    0  47.289 45.763 40.538
+KAW HBA  H H    0  46.807 45.430 42.002
+KAW HA   H H    0  48.312 47.227 42.018
+KAW HN   H H    0  45.927 47.581 43.193
+KAW HAV  H H    0  45.505 49.228 44.789
+KAW HAVA H H    0  46.715 50.109 45.295
+KAW HAW  H H    0  46.259 48.718 47.024
+KAW HAWA H H    0  47.604 48.183 46.402
+KAW H30  H H    0  46.463 45.399 45.053
+KAW H29  H H    0  44.264 47.462 46.016
+KAW HBL  H H    0  45.310 46.795 48.070
+KAW HAX  H H    0  47.614 46.919 48.418
+KAW HAXA H H    0  47.827 45.512 47.723
+KAW HAO  H H    0  46.047 46.864 50.533
+KAW HAI  H H    0  45.808 45.821 52.600
+KAW HAG  H H    0  46.666 43.689 52.940
+KAW HAJ  H H    0  47.767 42.598 51.210
+KAW HAP  H H    0  48.010 43.633 49.141
+KAW HNBA H H    0  45.739 44.225 47.213
+KAW HAQ  H H    0  42.212 43.062 48.761
+KAW HAK  H H    0  41.357 41.003 48.105
+KAW HAH  H H    0  41.983 40.071 46.070
+KAW HAL  H H    0  43.469 41.201 44.686
+KAW HAR  H H    0  44.331 43.260 45.331
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -100,78 +99,79 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-KAW         CD2         CE3      DOUBLE       y     1.399  0.0100     1.399  0.0100
-KAW         CD2         CE2      SINGLE       y     1.411  0.0100     1.411  0.0100
-KAW         CD2          CG      SINGLE       y     1.439  0.0100     1.439  0.0100
-KAW         CE3         CZ3      SINGLE       y     1.377  0.0100     1.377  0.0100
-KAW         CZ3         CH2      DOUBLE       y     1.395  0.0112     1.395  0.0112
-KAW         CH2         CZ2      SINGLE       y     1.376  0.0100     1.376  0.0100
-KAW         CZ2         CE2      DOUBLE       y     1.394  0.0100     1.394  0.0100
-KAW         CE2         NE1      SINGLE       y     1.370  0.0100     1.370  0.0100
-KAW         NE1         CD1      SINGLE       y     1.369  0.0100     1.369  0.0100
-KAW         CD1          CG      DOUBLE       y     1.365  0.0100     1.365  0.0100
-KAW          CG          CB      SINGLE       n     1.498  0.0100     1.498  0.0100
-KAW          CB          CA      SINGLE       n     1.540  0.0100     1.540  0.0100
-KAW          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-KAW          CA           N      SINGLE       n     1.451  0.0100     1.451  0.0100
-KAW           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-KAW           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-KAW           N         CBC      SINGLE       n     1.334  0.0100     1.334  0.0100
-KAW         CBC         OAA      DOUBLE       n     1.229  0.0102     1.229  0.0102
-KAW         CBC         CAV      SINGLE       n     1.514  0.0100     1.514  0.0100
-KAW         CAV         CAW      SINGLE       n     1.514  0.0200     1.514  0.0200
-KAW         CAW         CBM      SINGLE       n     1.537  0.0100     1.537  0.0100
-KAW         CBM         OAE      SINGLE       n     1.385  0.0185     1.385  0.0185
-KAW         CBM         OAF      SINGLE       n     1.385  0.0185     1.385  0.0185
-KAW         CBM         CBL      SINGLE       n     1.525  0.0149     1.525  0.0149
-KAW         CBL         CAX      SINGLE       n     1.539  0.0101     1.539  0.0101
-KAW         CBL         NBA      SINGLE       n     1.455  0.0112     1.455  0.0112
-KAW         CAX         CBF      SINGLE       n     1.512  0.0103     1.512  0.0103
-KAW         CBF         CAO      DOUBLE       y     1.385  0.0111     1.385  0.0111
-KAW         CBF         CAP      SINGLE       y     1.385  0.0111     1.385  0.0111
-KAW         CAO         CAI      SINGLE       y     1.386  0.0100     1.386  0.0100
-KAW         CAI         CAG      DOUBLE       y     1.374  0.0127     1.374  0.0127
-KAW         CAG         CAJ      SINGLE       y     1.374  0.0127     1.374  0.0127
-KAW         CAJ         CAP      DOUBLE       y     1.386  0.0100     1.386  0.0100
-KAW         NBA         CBE      SINGLE       n     1.332  0.0109     1.332  0.0109
-KAW         CBE         OAC      DOUBLE       n     1.230  0.0114     1.230  0.0114
-KAW         CBE         CBG      SINGLE       n     1.502  0.0100     1.502  0.0100
-KAW         CBG         CAQ      DOUBLE       y     1.389  0.0100     1.389  0.0100
-KAW         CBG         CAR      SINGLE       y     1.389  0.0100     1.389  0.0100
-KAW         CAQ         CAK      SINGLE       y     1.384  0.0100     1.384  0.0100
-KAW         CAK         CAH      DOUBLE       y     1.376  0.0124     1.376  0.0124
-KAW         CAH         CAL      SINGLE       y     1.376  0.0124     1.376  0.0124
-KAW         CAL         CAR      DOUBLE       y     1.384  0.0100     1.384  0.0100
-KAW         CE3         HE3      SINGLE       n     1.082  0.0130     0.944  0.0200
-KAW         CZ3         HZ3      SINGLE       n     1.082  0.0130     0.944  0.0181
-KAW         CH2         HH2      SINGLE       n     1.082  0.0130     0.941  0.0181
-KAW         CZ2         HZ2      SINGLE       n     1.082  0.0130     0.942  0.0188
-KAW         NE1        HNE1      SINGLE       n     1.016  0.0100     0.877  0.0200
-KAW         CD1         HD1      SINGLE       n     1.082  0.0130     0.945  0.0191
-KAW          CB          HB      SINGLE       n     1.089  0.0100     0.979  0.0197
-KAW          CB         HBA      SINGLE       n     1.089  0.0100     0.979  0.0197
-KAW          CA          HA      SINGLE       n     1.089  0.0100     0.987  0.0115
-KAW           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
-KAW         CAV         HAV      SINGLE       n     1.089  0.0100     0.981  0.0185
-KAW         CAV        HAVA      SINGLE       n     1.089  0.0100     0.981  0.0185
-KAW         CAW         HAW      SINGLE       n     1.089  0.0100     0.980  0.0160
-KAW         CAW        HAWA      SINGLE       n     1.089  0.0100     0.980  0.0160
-KAW         OAE         H30      SINGLE       n     0.970  0.0120     0.848  0.0200
-KAW         OAF         H29      SINGLE       n     0.970  0.0120     0.848  0.0200
-KAW         CBL         HBL      SINGLE       n     1.089  0.0100     0.988  0.0127
-KAW         CAX         HAX      SINGLE       n     1.089  0.0100     0.981  0.0150
-KAW         CAX        HAXA      SINGLE       n     1.089  0.0100     0.981  0.0150
-KAW         CAO         HAO      SINGLE       n     1.082  0.0130     0.944  0.0174
-KAW         CAI         HAI      SINGLE       n     1.082  0.0130     0.944  0.0175
-KAW         CAG         HAG      SINGLE       n     1.082  0.0130     0.944  0.0161
-KAW         CAJ         HAJ      SINGLE       n     1.082  0.0130     0.944  0.0175
-KAW         CAP         HAP      SINGLE       n     1.082  0.0130     0.944  0.0174
-KAW         NBA        HNBA      SINGLE       n     1.016  0.0100     0.873  0.0200
-KAW         CAQ         HAQ      SINGLE       n     1.082  0.0130     0.941  0.0168
-KAW         CAK         HAK      SINGLE       n     1.082  0.0130     0.943  0.0180
-KAW         CAH         HAH      SINGLE       n     1.082  0.0130     0.944  0.0161
-KAW         CAL         HAL      SINGLE       n     1.082  0.0130     0.943  0.0180
-KAW         CAR         HAR      SINGLE       n     1.082  0.0130     0.941  0.0168
+KAW CD2 CE3  DOUBLE y 1.399 0.0100 1.399 0.0100
+KAW CD2 CE2  SINGLE y 1.411 0.0100 1.411 0.0100
+KAW CD2 CG   SINGLE y 1.439 0.0100 1.439 0.0100
+KAW CE3 CZ3  SINGLE y 1.377 0.0100 1.377 0.0100
+KAW CZ3 CH2  DOUBLE y 1.395 0.0112 1.395 0.0112
+KAW CH2 CZ2  SINGLE y 1.376 0.0100 1.376 0.0100
+KAW CZ2 CE2  DOUBLE y 1.394 0.0100 1.394 0.0100
+KAW CE2 NE1  SINGLE y 1.370 0.0100 1.370 0.0100
+KAW NE1 CD1  SINGLE y 1.369 0.0100 1.369 0.0100
+KAW CD1 CG   DOUBLE y 1.365 0.0100 1.365 0.0100
+KAW CG  CB   SINGLE n 1.498 0.0100 1.498 0.0100
+KAW CB  CA   SINGLE n 1.540 0.0100 1.540 0.0100
+KAW CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+KAW CA  N    SINGLE n 1.451 0.0100 1.451 0.0100
+KAW C   OXT  DOUBLE n 1.247 0.0187 1.247 0.0187
+KAW C   O    SINGLE n 1.247 0.0187 1.247 0.0187
+KAW N   CBC  SINGLE n 1.334 0.0100 1.334 0.0100
+KAW CBC OAA  DOUBLE n 1.229 0.0102 1.229 0.0102
+KAW CBC CAV  SINGLE n 1.514 0.0100 1.514 0.0100
+KAW CAV CAW  SINGLE n 1.514 0.0200 1.514 0.0200
+KAW CAW CBM  SINGLE n 1.537 0.0100 1.537 0.0100
+KAW CBM OAE  SINGLE n 1.385 0.0185 1.385 0.0185
+KAW CBM OAF  SINGLE n 1.385 0.0185 1.385 0.0185
+KAW CBM CBL  SINGLE n 1.525 0.0149 1.525 0.0149
+KAW CBL CAX  SINGLE n 1.539 0.0101 1.539 0.0101
+KAW CBL NBA  SINGLE n 1.455 0.0112 1.455 0.0112
+KAW CAX CBF  SINGLE n 1.512 0.0103 1.512 0.0103
+KAW CBF CAO  DOUBLE y 1.385 0.0111 1.385 0.0111
+KAW CBF CAP  SINGLE y 1.385 0.0111 1.385 0.0111
+KAW CAO CAI  SINGLE y 1.386 0.0100 1.386 0.0100
+KAW CAI CAG  DOUBLE y 1.374 0.0127 1.374 0.0127
+KAW CAG CAJ  SINGLE y 1.374 0.0127 1.374 0.0127
+KAW CAJ CAP  DOUBLE y 1.386 0.0100 1.386 0.0100
+KAW NBA CBE  SINGLE n 1.332 0.0109 1.332 0.0109
+KAW CBE OAC  DOUBLE n 1.230 0.0114 1.230 0.0114
+KAW CBE CBG  SINGLE n 1.502 0.0100 1.502 0.0100
+KAW CBG CAQ  DOUBLE y 1.389 0.0100 1.389 0.0100
+KAW CBG CAR  SINGLE y 1.389 0.0100 1.389 0.0100
+KAW CAQ CAK  SINGLE y 1.384 0.0100 1.384 0.0100
+KAW CAK CAH  DOUBLE y 1.376 0.0124 1.376 0.0124
+KAW CAH CAL  SINGLE y 1.376 0.0124 1.376 0.0124
+KAW CAL CAR  DOUBLE y 1.384 0.0100 1.384 0.0100
+KAW CE3 HE3  SINGLE n 1.082 0.0130 0.944 0.0200
+KAW CZ3 HZ3  SINGLE n 1.082 0.0130 0.944 0.0181
+KAW CH2 HH2  SINGLE n 1.082 0.0130 0.941 0.0181
+KAW CZ2 HZ2  SINGLE n 1.082 0.0130 0.942 0.0188
+KAW NE1 HNE1 SINGLE n 1.016 0.0100 0.877 0.0200
+KAW CD1 HD1  SINGLE n 1.082 0.0130 0.945 0.0191
+KAW CB  HB   SINGLE n 1.089 0.0100 0.979 0.0197
+KAW CB  HBA  SINGLE n 1.089 0.0100 0.979 0.0197
+KAW CA  HA   SINGLE n 1.089 0.0100 0.987 0.0115
+KAW N   HN   SINGLE n 1.016 0.0100 0.873 0.0200
+KAW CAV HAV  SINGLE n 1.089 0.0100 0.981 0.0185
+KAW CAV HAVA SINGLE n 1.089 0.0100 0.981 0.0185
+KAW CAW HAW  SINGLE n 1.089 0.0100 0.980 0.0160
+KAW CAW HAWA SINGLE n 1.089 0.0100 0.980 0.0160
+KAW OAE H30  SINGLE n 0.970 0.0120 0.848 0.0200
+KAW OAF H29  SINGLE n 0.970 0.0120 0.848 0.0200
+KAW CBL HBL  SINGLE n 1.089 0.0100 0.988 0.0127
+KAW CAX HAX  SINGLE n 1.089 0.0100 0.981 0.0150
+KAW CAX HAXA SINGLE n 1.089 0.0100 0.981 0.0150
+KAW CAO HAO  SINGLE n 1.082 0.0130 0.944 0.0174
+KAW CAI HAI  SINGLE n 1.082 0.0130 0.944 0.0175
+KAW CAG HAG  SINGLE n 1.082 0.0130 0.944 0.0161
+KAW CAJ HAJ  SINGLE n 1.082 0.0130 0.944 0.0175
+KAW CAP HAP  SINGLE n 1.082 0.0130 0.944 0.0174
+KAW NBA HNBA SINGLE n 1.016 0.0100 0.873 0.0200
+KAW CAQ HAQ  SINGLE n 1.082 0.0130 0.941 0.0168
+KAW CAK HAK  SINGLE n 1.082 0.0130 0.943 0.0180
+KAW CAH HAH  SINGLE n 1.082 0.0130 0.944 0.0161
+KAW CAL HAL  SINGLE n 1.082 0.0130 0.943 0.0180
+KAW CAR HAR  SINGLE n 1.082 0.0130 0.941 0.0168
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -179,128 +179,129 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-KAW         CE3         CD2         CE2     118.706    1.50
-KAW         CE3         CD2          CG     134.307    1.50
-KAW         CE2         CD2          CG     106.987    1.50
-KAW         CD2         CE3         CZ3     118.817    1.50
-KAW         CD2         CE3         HE3     120.505    1.50
-KAW         CZ3         CE3         HE3     120.678    1.50
-KAW         CE3         CZ3         CH2     121.212    1.50
-KAW         CE3         CZ3         HZ3     119.471    1.50
-KAW         CH2         CZ3         HZ3     119.316    1.50
-KAW         CZ3         CH2         CZ2     121.628    1.50
-KAW         CZ3         CH2         HH2     119.240    1.50
-KAW         CZ2         CH2         HH2     119.132    1.50
-KAW         CH2         CZ2         CE2     117.385    1.50
-KAW         CH2         CZ2         HZ2     121.477    1.50
-KAW         CE2         CZ2         HZ2     121.137    1.50
-KAW         CD2         CE2         CZ2     122.250    1.50
-KAW         CD2         CE2         NE1     107.455    1.50
-KAW         CZ2         CE2         NE1     130.294    1.50
-KAW         CE2         NE1         CD1     109.042    1.50
-KAW         CE2         NE1        HNE1     125.630    1.60
-KAW         CD1         NE1        HNE1     125.328    1.77
-KAW         NE1         CD1          CG     110.404    1.50
-KAW         NE1         CD1         HD1     124.437    1.50
-KAW          CG         CD1         HD1     125.159    1.59
-KAW         CD2          CG         CD1     106.112    1.50
-KAW         CD2          CG          CB     126.820    1.50
-KAW         CD1          CG          CB     127.068    1.62
-KAW          CG          CB          CA     113.232    1.92
-KAW          CG          CB          HB     109.029    1.50
-KAW          CG          CB         HBA     109.029    1.50
-KAW          CA          CB          HB     108.689    1.50
-KAW          CA          CB         HBA     108.689    1.50
-KAW          HB          CB         HBA     107.759    1.50
-KAW          CB          CA           C     109.167    2.00
-KAW          CB          CA           N     111.087    1.50
-KAW          CB          CA          HA     108.345    1.50
-KAW           C          CA           N     111.981    1.50
-KAW           C          CA          HA     107.623    2.42
-KAW           N          CA          HA     107.553    1.50
-KAW          CA           C         OXT     117.298    1.50
-KAW          CA           C           O     117.298    1.50
-KAW         OXT           C           O     125.405    1.50
-KAW          CA           N         CBC     122.328    1.76
-KAW          CA           N          HN     118.589    1.50
-KAW         CBC           N          HN     119.083    1.50
-KAW           N         CBC         OAA     122.033    1.50
-KAW           N         CBC         CAV     116.136    1.50
-KAW         OAA         CBC         CAV     121.831    1.50
-KAW         CBC         CAV         CAW     112.984    1.82
-KAW         CBC         CAV         HAV     108.930    1.50
-KAW         CBC         CAV        HAVA     108.930    1.50
-KAW         CAW         CAV         HAV     108.844    1.50
-KAW         CAW         CAV        HAVA     108.844    1.50
-KAW         HAV         CAV        HAVA     107.846    1.50
-KAW         CAV         CAW         CBM     111.094    2.85
-KAW         CAV         CAW         HAW     108.915    1.50
-KAW         CAV         CAW        HAWA     108.915    1.50
-KAW         CBM         CAW         HAW     108.725    1.50
-KAW         CBM         CAW        HAWA     108.725    1.50
-KAW         HAW         CAW        HAWA     107.556    1.50
-KAW         CAW         CBM         OAE     111.123    2.23
-KAW         CAW         CBM         OAF     111.123    2.23
-KAW         CAW         CBM         CBL     111.094    2.85
-KAW         OAE         CBM         OAF     113.458    2.75
-KAW         OAE         CBM         CBL     109.482    3.00
-KAW         OAF         CBM         CBL     109.482    3.00
-KAW         CBM         OAE         H30     108.906    3.00
-KAW         CBM         OAF         H29     108.906    3.00
-KAW         CBM         CBL         CAX     111.094    2.85
-KAW         CBM         CBL         NBA     111.308    2.28
-KAW         CBM         CBL         HBL     109.155    1.50
-KAW         CAX         CBL         NBA     109.721    1.50
-KAW         CAX         CBL         HBL     107.624    1.50
-KAW         NBA         CBL         HBL     108.116    1.50
-KAW         CBL         CAX         CBF     113.565    1.50
-KAW         CBL         CAX         HAX     108.839    1.50
-KAW         CBL         CAX        HAXA     108.839    1.50
-KAW         CBF         CAX         HAX     108.862    1.50
-KAW         CBF         CAX        HAXA     108.862    1.50
-KAW         HAX         CAX        HAXA     107.782    1.50
-KAW         CAX         CBF         CAO     120.970    1.50
-KAW         CAX         CBF         CAP     120.970    1.50
-KAW         CAO         CBF         CAP     118.060    1.50
-KAW         CBF         CAO         CAI     120.624    1.50
-KAW         CBF         CAO         HAO     119.591    1.50
-KAW         CAI         CAO         HAO     119.786    1.50
-KAW         CAO         CAI         CAG     120.325    1.50
-KAW         CAO         CAI         HAI     119.792    1.50
-KAW         CAG         CAI         HAI     119.883    1.50
-KAW         CAI         CAG         CAJ     120.043    1.50
-KAW         CAI         CAG         HAG     119.979    1.50
-KAW         CAJ         CAG         HAG     119.979    1.50
-KAW         CAG         CAJ         CAP     120.325    1.50
-KAW         CAG         CAJ         HAJ     119.883    1.50
-KAW         CAP         CAJ         HAJ     119.792    1.50
-KAW         CBF         CAP         CAJ     120.624    1.50
-KAW         CBF         CAP         HAP     119.591    1.50
-KAW         CAJ         CAP         HAP     119.786    1.50
-KAW         CBL         NBA         CBE     122.601    1.50
-KAW         CBL         NBA        HNBA     118.248    1.99
-KAW         CBE         NBA        HNBA     119.151    1.94
-KAW         NBA         CBE         OAC     122.394    1.50
-KAW         NBA         CBE         CBG     116.740    1.50
-KAW         OAC         CBE         CBG     120.865    1.50
-KAW         CBE         CBG         CAQ     120.497    2.80
-KAW         CBE         CBG         CAR     120.497    2.80
-KAW         CAQ         CBG         CAR     119.007    1.50
-KAW         CBG         CAQ         CAK     120.300    1.50
-KAW         CBG         CAQ         HAQ     119.925    1.50
-KAW         CAK         CAQ         HAQ     119.776    1.50
-KAW         CAQ         CAK         CAH     120.226    1.50
-KAW         CAQ         CAK         HAK     119.842    1.50
-KAW         CAH         CAK         HAK     119.933    1.50
-KAW         CAK         CAH         CAL     119.943    1.50
-KAW         CAK         CAH         HAH     120.028    1.50
-KAW         CAL         CAH         HAH     120.028    1.50
-KAW         CAH         CAL         CAR     120.226    1.50
-KAW         CAH         CAL         HAL     119.933    1.50
-KAW         CAR         CAL         HAL     119.842    1.50
-KAW         CBG         CAR         CAL     120.300    1.50
-KAW         CBG         CAR         HAR     119.925    1.50
-KAW         CAL         CAR         HAR     119.776    1.50
+KAW CE3 CD2 CE2  118.706 1.50
+KAW CE3 CD2 CG   134.307 1.50
+KAW CE2 CD2 CG   106.987 1.50
+KAW CD2 CE3 CZ3  118.817 1.50
+KAW CD2 CE3 HE3  120.505 1.50
+KAW CZ3 CE3 HE3  120.678 1.50
+KAW CE3 CZ3 CH2  121.212 1.50
+KAW CE3 CZ3 HZ3  119.471 1.50
+KAW CH2 CZ3 HZ3  119.316 1.50
+KAW CZ3 CH2 CZ2  121.628 1.50
+KAW CZ3 CH2 HH2  119.240 1.50
+KAW CZ2 CH2 HH2  119.132 1.50
+KAW CH2 CZ2 CE2  117.385 1.50
+KAW CH2 CZ2 HZ2  121.477 1.50
+KAW CE2 CZ2 HZ2  121.137 1.50
+KAW CD2 CE2 CZ2  122.250 1.50
+KAW CD2 CE2 NE1  107.455 1.50
+KAW CZ2 CE2 NE1  130.294 1.50
+KAW CE2 NE1 CD1  109.042 1.50
+KAW CE2 NE1 HNE1 125.630 1.60
+KAW CD1 NE1 HNE1 125.328 1.77
+KAW NE1 CD1 CG   110.404 1.50
+KAW NE1 CD1 HD1  124.437 1.50
+KAW CG  CD1 HD1  125.159 1.59
+KAW CD2 CG  CD1  106.112 1.50
+KAW CD2 CG  CB   126.820 1.50
+KAW CD1 CG  CB   127.068 1.62
+KAW CG  CB  CA   113.232 1.92
+KAW CG  CB  HB   109.029 1.50
+KAW CG  CB  HBA  109.029 1.50
+KAW CA  CB  HB   108.689 1.50
+KAW CA  CB  HBA  108.689 1.50
+KAW HB  CB  HBA  107.759 1.50
+KAW CB  CA  C    109.167 2.00
+KAW CB  CA  N    111.087 1.50
+KAW CB  CA  HA   108.345 1.50
+KAW C   CA  N    111.981 1.50
+KAW C   CA  HA   107.623 2.42
+KAW N   CA  HA   107.553 1.50
+KAW CA  C   OXT  117.298 1.50
+KAW CA  C   O    117.298 1.50
+KAW OXT C   O    125.405 1.50
+KAW CA  N   CBC  122.328 1.76
+KAW CA  N   HN   118.589 1.50
+KAW CBC N   HN   119.083 1.50
+KAW N   CBC OAA  122.033 1.50
+KAW N   CBC CAV  116.136 1.50
+KAW OAA CBC CAV  121.831 1.50
+KAW CBC CAV CAW  112.984 1.82
+KAW CBC CAV HAV  108.930 1.50
+KAW CBC CAV HAVA 108.930 1.50
+KAW CAW CAV HAV  108.844 1.50
+KAW CAW CAV HAVA 108.844 1.50
+KAW HAV CAV HAVA 107.846 1.50
+KAW CAV CAW CBM  111.094 2.85
+KAW CAV CAW HAW  108.915 1.50
+KAW CAV CAW HAWA 108.915 1.50
+KAW CBM CAW HAW  108.725 1.50
+KAW CBM CAW HAWA 108.725 1.50
+KAW HAW CAW HAWA 107.556 1.50
+KAW CAW CBM OAE  111.123 2.23
+KAW CAW CBM OAF  111.123 2.23
+KAW CAW CBM CBL  111.094 2.85
+KAW OAE CBM OAF  113.458 2.75
+KAW OAE CBM CBL  109.482 3.00
+KAW OAF CBM CBL  109.482 3.00
+KAW CBM OAE H30  108.906 3.00
+KAW CBM OAF H29  108.906 3.00
+KAW CBM CBL CAX  111.094 2.85
+KAW CBM CBL NBA  111.308 2.28
+KAW CBM CBL HBL  109.155 1.50
+KAW CAX CBL NBA  109.721 1.50
+KAW CAX CBL HBL  107.624 1.50
+KAW NBA CBL HBL  108.116 1.50
+KAW CBL CAX CBF  113.565 1.50
+KAW CBL CAX HAX  108.839 1.50
+KAW CBL CAX HAXA 108.839 1.50
+KAW CBF CAX HAX  108.862 1.50
+KAW CBF CAX HAXA 108.862 1.50
+KAW HAX CAX HAXA 107.782 1.50
+KAW CAX CBF CAO  120.970 1.50
+KAW CAX CBF CAP  120.970 1.50
+KAW CAO CBF CAP  118.060 1.50
+KAW CBF CAO CAI  120.624 1.50
+KAW CBF CAO HAO  119.591 1.50
+KAW CAI CAO HAO  119.786 1.50
+KAW CAO CAI CAG  120.325 1.50
+KAW CAO CAI HAI  119.792 1.50
+KAW CAG CAI HAI  119.883 1.50
+KAW CAI CAG CAJ  120.043 1.50
+KAW CAI CAG HAG  119.979 1.50
+KAW CAJ CAG HAG  119.979 1.50
+KAW CAG CAJ CAP  120.325 1.50
+KAW CAG CAJ HAJ  119.883 1.50
+KAW CAP CAJ HAJ  119.792 1.50
+KAW CBF CAP CAJ  120.624 1.50
+KAW CBF CAP HAP  119.591 1.50
+KAW CAJ CAP HAP  119.786 1.50
+KAW CBL NBA CBE  122.601 1.50
+KAW CBL NBA HNBA 118.248 1.99
+KAW CBE NBA HNBA 119.151 1.94
+KAW NBA CBE OAC  122.394 1.50
+KAW NBA CBE CBG  116.740 1.50
+KAW OAC CBE CBG  120.865 1.50
+KAW CBE CBG CAQ  120.497 2.80
+KAW CBE CBG CAR  120.497 2.80
+KAW CAQ CBG CAR  119.007 1.50
+KAW CBG CAQ CAK  120.300 1.50
+KAW CBG CAQ HAQ  119.925 1.50
+KAW CAK CAQ HAQ  119.776 1.50
+KAW CAQ CAK CAH  120.226 1.50
+KAW CAQ CAK HAK  119.842 1.50
+KAW CAH CAK HAK  119.933 1.50
+KAW CAK CAH CAL  119.943 1.50
+KAW CAK CAH HAH  120.028 1.50
+KAW CAL CAH HAH  120.028 1.50
+KAW CAH CAL CAR  120.226 1.50
+KAW CAH CAL HAL  119.933 1.50
+KAW CAR CAL HAL  119.842 1.50
+KAW CBG CAR CAL  120.300 1.50
+KAW CBG CAR HAR  119.925 1.50
+KAW CAL CAR HAR  119.776 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -311,44 +312,45 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-KAW              const_57         CE2         CD2         CE3         CZ3       0.000    10.0     2
-KAW              const_41         CE3         CD2         CE2         CZ2       0.000    10.0     2
-KAW              const_80         CE3         CD2          CG          CB       0.000    10.0     2
-KAW             sp2_sp3_7         OXT           C          CA          CB       0.000    10.0     6
-KAW            sp2_sp3_13         CBC           N          CA          CB       0.000    10.0     6
-KAW             sp2_sp2_3         OAA         CBC           N          CA       0.000     5.0     2
-KAW            sp2_sp3_20           N         CBC         CAV         CAW     120.000    10.0     6
-KAW            sp3_sp3_10         CBC         CAV         CAW         CBM     180.000    10.0     3
-KAW            sp3_sp3_19         CAV         CAW         CBM         OAE     180.000    10.0     3
-KAW            sp3_sp3_30         CAW         CBM         OAE         H30     -60.000    10.0     3
-KAW            sp3_sp3_33         CAW         CBM         OAF         H29     -60.000    10.0     3
-KAW            sp3_sp3_36         CAX         CBL         CBM         CAW      60.000    10.0     3
-KAW              const_61         CD2         CE3         CZ3         CH2       0.000    10.0     2
-KAW            sp3_sp3_43         CBF         CAX         CBL         CBM     180.000    10.0     3
-KAW            sp2_sp3_25         CBE         NBA         CBL         CBM       0.000    10.0     6
-KAW            sp2_sp3_32         CAO         CBF         CAX         CBL     -90.000    10.0     6
-KAW       const_sp2_sp2_2         CAI         CAO         CBF         CAX     180.000     5.0     2
-KAW              const_82         CAJ         CAP         CBF         CAX     180.000    10.0     2
-KAW       const_sp2_sp2_5         CAG         CAI         CAO         CBF       0.000     5.0     2
-KAW       const_sp2_sp2_9         CAJ         CAG         CAI         CAO       0.000     5.0     2
-KAW              const_13         CAI         CAG         CAJ         CAP       0.000    10.0     2
-KAW              const_17         CAG         CAJ         CAP         CBF       0.000    10.0     2
-KAW              const_65         CZ2         CH2         CZ3         CE3       0.000    10.0     2
-KAW             sp2_sp2_7         OAC         CBE         NBA         CBL       0.000     5.0     2
-KAW             sp2_sp2_9         NBA         CBE         CBG         CAQ     180.000     5.0     2
-KAW              const_22         CAK         CAQ         CBG         CBE     180.000    10.0     2
-KAW              const_86         CAL         CAR         CBG         CBE     180.000    10.0     2
-KAW              const_25         CAH         CAK         CAQ         CBG       0.000    10.0     2
-KAW              const_29         CAL         CAH         CAK         CAQ       0.000    10.0     2
-KAW              const_33         CAK         CAH         CAL         CAR       0.000    10.0     2
-KAW              const_37         CAH         CAL         CAR         CBG       0.000    10.0     2
-KAW              const_69         CZ3         CH2         CZ2         CE2       0.000    10.0     2
-KAW              const_73         CD2         CE2         CZ2         CH2       0.000    10.0     2
-KAW              const_45         CD2         CE2         NE1         CD1       0.000    10.0     2
-KAW              const_49          CG         CD1         NE1         CE2       0.000    10.0     2
-KAW              const_54         NE1         CD1          CG          CB     180.000    10.0     2
-KAW             sp2_sp3_2         CD2          CG          CB          CA     -90.000    10.0     6
-KAW             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
+KAW const_57        CE2 CD2 CE3 CZ3 0.000   10.0 2
+KAW const_41        CE3 CD2 CE2 CZ2 0.000   10.0 2
+KAW const_80        CE3 CD2 CG  CB  0.000   10.0 2
+KAW sp2_sp3_7       OXT C   CA  CB  0.000   10.0 6
+KAW sp2_sp3_13      CBC N   CA  CB  0.000   10.0 6
+KAW sp2_sp2_3       OAA CBC N   CA  0.000   5.0  2
+KAW sp2_sp3_20      N   CBC CAV CAW 120.000 10.0 6
+KAW sp3_sp3_10      CBC CAV CAW CBM 180.000 10.0 3
+KAW sp3_sp3_19      CAV CAW CBM OAE 180.000 10.0 3
+KAW sp3_sp3_30      CAW CBM OAE H30 -60.000 10.0 3
+KAW sp3_sp3_33      CAW CBM OAF H29 -60.000 10.0 3
+KAW sp3_sp3_36      CAX CBL CBM CAW 60.000  10.0 3
+KAW const_61        CD2 CE3 CZ3 CH2 0.000   10.0 2
+KAW sp3_sp3_43      CBF CAX CBL CBM 180.000 10.0 3
+KAW sp2_sp3_25      CBE NBA CBL CBM 0.000   10.0 6
+KAW sp2_sp3_32      CAO CBF CAX CBL -90.000 10.0 6
+KAW const_sp2_sp2_2 CAI CAO CBF CAX 180.000 5.0  2
+KAW const_82        CAJ CAP CBF CAX 180.000 10.0 2
+KAW const_sp2_sp2_5 CAG CAI CAO CBF 0.000   5.0  2
+KAW const_sp2_sp2_9 CAJ CAG CAI CAO 0.000   5.0  2
+KAW const_13        CAI CAG CAJ CAP 0.000   10.0 2
+KAW const_17        CAG CAJ CAP CBF 0.000   10.0 2
+KAW const_65        CZ2 CH2 CZ3 CE3 0.000   10.0 2
+KAW sp2_sp2_7       OAC CBE NBA CBL 0.000   5.0  2
+KAW sp2_sp2_9       NBA CBE CBG CAQ 180.000 5.0  2
+KAW const_22        CAK CAQ CBG CBE 180.000 10.0 2
+KAW const_86        CAL CAR CBG CBE 180.000 10.0 2
+KAW const_25        CAH CAK CAQ CBG 0.000   10.0 2
+KAW const_29        CAL CAH CAK CAQ 0.000   10.0 2
+KAW const_33        CAK CAH CAL CAR 0.000   10.0 2
+KAW const_37        CAH CAL CAR CBG 0.000   10.0 2
+KAW const_69        CZ3 CH2 CZ2 CE2 0.000   10.0 2
+KAW const_73        CD2 CE2 CZ2 CH2 0.000   10.0 2
+KAW const_45        CD2 CE2 NE1 CD1 0.000   10.0 2
+KAW const_49        CG  CD1 NE1 CE2 0.000   10.0 2
+KAW const_54        NE1 CD1 CG  CB  180.000 10.0 2
+KAW sp2_sp3_2       CD2 CG  CB  CA  -90.000 10.0 6
+KAW sp3_sp3_1       C   CA  CB  CG  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -357,93 +359,106 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-KAW    chir_1    CA    N    C    CB    positive
-KAW    chir_2    CBM    OAE    OAF    CBL    both
-KAW    chir_3    CBL    NBA    CBM    CAX    positive
+KAW chir_1 CA  N   C   CB  positive
+KAW chir_2 CBM OAE OAF CBL both
+KAW chir_3 CBL NBA CBM CAX positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-KAW    plan-1          CB   0.020
-KAW    plan-1         CD1   0.020
-KAW    plan-1         CD2   0.020
-KAW    plan-1         CE2   0.020
-KAW    plan-1         CE3   0.020
-KAW    plan-1          CG   0.020
-KAW    plan-1         CH2   0.020
-KAW    plan-1         CZ2   0.020
-KAW    plan-1         CZ3   0.020
-KAW    plan-1         HD1   0.020
-KAW    plan-1         HE3   0.020
-KAW    plan-1         HH2   0.020
-KAW    plan-1        HNE1   0.020
-KAW    plan-1         HZ2   0.020
-KAW    plan-1         HZ3   0.020
-KAW    plan-1         NE1   0.020
-KAW    plan-2         CAG   0.020
-KAW    plan-2         CAI   0.020
-KAW    plan-2         CAJ   0.020
-KAW    plan-2         CAO   0.020
-KAW    plan-2         CAP   0.020
-KAW    plan-2         CAX   0.020
-KAW    plan-2         CBF   0.020
-KAW    plan-2         HAG   0.020
-KAW    plan-2         HAI   0.020
-KAW    plan-2         HAJ   0.020
-KAW    plan-2         HAO   0.020
-KAW    plan-2         HAP   0.020
-KAW    plan-3         CAH   0.020
-KAW    plan-3         CAK   0.020
-KAW    plan-3         CAL   0.020
-KAW    plan-3         CAQ   0.020
-KAW    plan-3         CAR   0.020
-KAW    plan-3         CBE   0.020
-KAW    plan-3         CBG   0.020
-KAW    plan-3         HAH   0.020
-KAW    plan-3         HAK   0.020
-KAW    plan-3         HAL   0.020
-KAW    plan-3         HAQ   0.020
-KAW    plan-3         HAR   0.020
-KAW    plan-4           C   0.020
-KAW    plan-4          CA   0.020
-KAW    plan-4           O   0.020
-KAW    plan-4         OXT   0.020
-KAW    plan-5          CA   0.020
-KAW    plan-5         CBC   0.020
-KAW    plan-5          HN   0.020
-KAW    plan-5           N   0.020
-KAW    plan-6         CAV   0.020
-KAW    plan-6         CBC   0.020
-KAW    plan-6           N   0.020
-KAW    plan-6         OAA   0.020
-KAW    plan-7         CBE   0.020
-KAW    plan-7         CBL   0.020
-KAW    plan-7        HNBA   0.020
-KAW    plan-7         NBA   0.020
-KAW    plan-8         CBE   0.020
-KAW    plan-8         CBG   0.020
-KAW    plan-8         NBA   0.020
-KAW    plan-8         OAC   0.020
+KAW plan-1 CB   0.020
+KAW plan-1 CD1  0.020
+KAW plan-1 CD2  0.020
+KAW plan-1 CE2  0.020
+KAW plan-1 CE3  0.020
+KAW plan-1 CG   0.020
+KAW plan-1 CH2  0.020
+KAW plan-1 CZ2  0.020
+KAW plan-1 CZ3  0.020
+KAW plan-1 HD1  0.020
+KAW plan-1 HE3  0.020
+KAW plan-1 HH2  0.020
+KAW plan-1 HNE1 0.020
+KAW plan-1 HZ2  0.020
+KAW plan-1 HZ3  0.020
+KAW plan-1 NE1  0.020
+KAW plan-2 CAG  0.020
+KAW plan-2 CAI  0.020
+KAW plan-2 CAJ  0.020
+KAW plan-2 CAO  0.020
+KAW plan-2 CAP  0.020
+KAW plan-2 CAX  0.020
+KAW plan-2 CBF  0.020
+KAW plan-2 HAG  0.020
+KAW plan-2 HAI  0.020
+KAW plan-2 HAJ  0.020
+KAW plan-2 HAO  0.020
+KAW plan-2 HAP  0.020
+KAW plan-3 CAH  0.020
+KAW plan-3 CAK  0.020
+KAW plan-3 CAL  0.020
+KAW plan-3 CAQ  0.020
+KAW plan-3 CAR  0.020
+KAW plan-3 CBE  0.020
+KAW plan-3 CBG  0.020
+KAW plan-3 HAH  0.020
+KAW plan-3 HAK  0.020
+KAW plan-3 HAL  0.020
+KAW plan-3 HAQ  0.020
+KAW plan-3 HAR  0.020
+KAW plan-4 C    0.020
+KAW plan-4 CA   0.020
+KAW plan-4 O    0.020
+KAW plan-4 OXT  0.020
+KAW plan-5 CA   0.020
+KAW plan-5 CBC  0.020
+KAW plan-5 HN   0.020
+KAW plan-5 N    0.020
+KAW plan-6 CAV  0.020
+KAW plan-6 CBC  0.020
+KAW plan-6 N    0.020
+KAW plan-6 OAA  0.020
+KAW plan-7 CBE  0.020
+KAW plan-7 CBL  0.020
+KAW plan-7 HNBA 0.020
+KAW plan-7 NBA  0.020
+KAW plan-8 CBE  0.020
+KAW plan-8 CBG  0.020
+KAW plan-8 NBA  0.020
+KAW plan-8 OAC  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-KAW           SMILES              ACDLabs 10.04                                                                                                                                                         O=C(c1ccccc1)NC(Cc2ccccc2)C(O)(O)CCC(=O)NC(C(=O)O)Cc4c3ccccc3nc4
-KAW SMILES_CANONICAL               CACTVS 3.341                                                                                                                                              OC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CCC(O)(O)[C@H](Cc3ccccc3)NC(=O)c4ccccc4
-KAW           SMILES               CACTVS 3.341                                                                                                                                                OC(=O)[CH](Cc1c[nH]c2ccccc12)NC(=O)CCC(O)(O)[CH](Cc3ccccc3)NC(=O)c4ccccc4
-KAW SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                          c1ccc(cc1)C[C@@H](C(CCC(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)O)(O)O)NC(=O)c4ccccc4
-KAW           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                    c1ccc(cc1)CC(C(CCC(=O)NC(Cc2c[nH]c3c2cccc3)C(=O)O)(O)O)NC(=O)c4ccccc4
-KAW            InChI                InChI  1.03 InChI=1S/C30H31N3O6/c34-27(32-25(29(36)37)18-22-19-31-24-14-8-7-13-23(22)24)15-16-30(38,39)26(17-20-9-3-1-4-10-20)33-28(35)21-11-5-2-6-12-21/h1-14,19,25-26,31,38-39H,15-18H2,(H,32,34)(H,33,35)(H,36,37)/t25-,26-/m0/s1
-KAW         InChIKey                InChI  1.03                                                                                                                                                                                              YDVCMWDLPUDBQG-UIOOFZCWSA-N
+KAW SMILES           ACDLabs              10.04 O=C(c1ccccc1)NC(Cc2ccccc2)C(O)(O)CCC(=O)NC(C(=O)O)Cc4c3ccccc3nc4
+KAW SMILES_CANONICAL CACTVS               3.341 OC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CCC(O)(O)[C@H](Cc3ccccc3)NC(=O)c4ccccc4
+KAW SMILES           CACTVS               3.341 OC(=O)[CH](Cc1c[nH]c2ccccc12)NC(=O)CCC(O)(O)[CH](Cc3ccccc3)NC(=O)c4ccccc4
+KAW SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1ccc(cc1)C[C@@H](C(CCC(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)O)(O)O)NC(=O)c4ccccc4
+KAW SMILES           "OpenEye OEToolkits" 1.5.0 c1ccc(cc1)CC(C(CCC(=O)NC(Cc2c[nH]c3c2cccc3)C(=O)O)(O)O)NC(=O)c4ccccc4
+KAW InChI            InChI                1.03  InChI=1S/C30H31N3O6/c34-27(32-25(29(36)37)18-22-19-31-24-14-8-7-13-23(22)24)15-16-30(38,39)26(17-20-9-3-1-4-10-20)33-28(35)21-11-5-2-6-12-21/h1-14,19,25-26,31,38-39H,15-18H2,(H,32,34)(H,33,35)(H,36,37)/t25-,26-/m0/s1
+KAW InChIKey         InChI                1.03  YDVCMWDLPUDBQG-UIOOFZCWSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-KAW acedrg               243         "dictionary generator"                  
-KAW acedrg_database      11          "data source"                           
-KAW rdkit                2017.03.2   "Chemoinformatics tool"
-KAW refmac5              5.8.0238    "optimization tool"                     
+KAW acedrg          243       "dictionary generator"
+KAW acedrg_database 11        "data source"
+KAW rdkit           2017.03.2 "Chemoinformatics tool"
+KAW refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+KAW M-peptide OXT O
+KAW M-peptide CBC CN
+KAW M-peptide O   OXT
+KAW M-peptide HN  H

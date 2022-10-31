@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IRO     IRO      "5-iodo-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"     NON-POLYMER     14     12     .     
-#
+IRO IRO "5-iodo-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" NON-POLYMER 14 12 .
+
 data_comp_IRO
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,20 +19,21 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IRO     OAA     O       O       0       4.635       52.394      75.428      
-IRO     CAH     C       C       0       5.816       52.103      75.508      
-IRO     OAD     O       OC      -1      6.742       52.884      75.646      
-IRO     CAI     C       CR6     0       6.163       50.647      75.429      
-IRO     CAJ     C       CR6     0       7.097       50.142      74.509      
-IRO     I       I       I       0       8.084       51.413      73.164      
-IRO     CAL     C       CR6     0       7.370       48.774      74.492      
-IRO     OAC     O       O       0       8.181       48.244      73.712      
-IRO     NAG     N       NR6     0       6.692       47.980      75.400      
-IRO     CAK     C       CR6     0       5.772       48.432      76.315      
-IRO     OAB     O       O       0       5.208       47.671      77.092      
-IRO     NAF     N       NR6     0       5.529       49.789      76.301      
-IRO     H3      H       H       0       6.859       47.106      75.398      
-IRO     H2      H       H       0       4.945       50.108      76.876      
+IRO OAA O O   0  4.635 52.394 75.428
+IRO CAH C C   0  5.816 52.103 75.508
+IRO OAD O OC  -1 6.742 52.884 75.646
+IRO CAI C CR6 0  6.163 50.647 75.429
+IRO CAJ C CR6 0  7.097 50.142 74.509
+IRO I   I I   0  8.084 51.413 73.164
+IRO CAL C CR6 0  7.370 48.774 74.492
+IRO OAC O O   0  8.181 48.244 73.712
+IRO NAG N NR6 0  6.692 47.980 75.400
+IRO CAK C CR6 0  5.772 48.432 76.315
+IRO OAB O O   0  5.208 47.671 77.092
+IRO NAF N NR6 0  5.529 49.789 76.301
+IRO H3  H H   0  6.859 47.106 75.398
+IRO H2  H H   0  4.945 50.108 76.876
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -45,20 +44,21 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IRO         CAJ           I      SINGLE       n     2.096  0.0128     2.096  0.0128
-IRO         CAL         OAC      DOUBLE       n     1.242  0.0172     1.242  0.0172
-IRO         CAJ         CAL      SINGLE       y     1.389  0.0199     1.389  0.0199
-IRO         CAL         NAG      SINGLE       y     1.379  0.0122     1.379  0.0122
-IRO         CAI         CAJ      DOUBLE       y     1.395  0.0182     1.395  0.0182
-IRO         OAA         CAH      DOUBLE       n     1.219  0.0200     1.219  0.0200
-IRO         NAG         CAK      SINGLE       y     1.370  0.0100     1.370  0.0100
-IRO         CAH         OAD      SINGLE       n     1.219  0.0200     1.219  0.0200
-IRO         CAH         CAI      SINGLE       n     1.496  0.0200     1.496  0.0200
-IRO         CAI         NAF      SINGLE       y     1.365  0.0158     1.365  0.0158
-IRO         CAK         NAF      SINGLE       y     1.374  0.0100     1.374  0.0100
-IRO         CAK         OAB      DOUBLE       n     1.225  0.0100     1.225  0.0100
-IRO         NAG          H3      SINGLE       n     1.016  0.0100     0.889  0.0200
-IRO         NAF          H2      SINGLE       n     1.016  0.0100     0.879  0.0200
+IRO CAJ I   SINGLE n 2.096 0.0128 2.096 0.0128
+IRO CAL OAC DOUBLE n 1.242 0.0172 1.242 0.0172
+IRO CAJ CAL SINGLE y 1.389 0.0199 1.389 0.0199
+IRO CAL NAG SINGLE y 1.379 0.0122 1.379 0.0122
+IRO CAI CAJ DOUBLE y 1.395 0.0182 1.395 0.0182
+IRO OAA CAH DOUBLE n 1.219 0.0200 1.219 0.0200
+IRO NAG CAK SINGLE y 1.370 0.0100 1.370 0.0100
+IRO CAH OAD SINGLE n 1.219 0.0200 1.219 0.0200
+IRO CAH CAI SINGLE n 1.496 0.0200 1.496 0.0200
+IRO CAI NAF SINGLE y 1.365 0.0158 1.365 0.0158
+IRO CAK NAF SINGLE y 1.374 0.0100 1.374 0.0100
+IRO CAK OAB DOUBLE n 1.225 0.0100 1.225 0.0100
+IRO NAG H3  SINGLE n 1.016 0.0100 0.889 0.0200
+IRO NAF H2  SINGLE n 1.016 0.0100 0.879 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -66,27 +66,28 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IRO         OAA         CAH         OAD     126.239    1.50
-IRO         OAA         CAH         CAI     116.880    1.50
-IRO         OAD         CAH         CAI     116.880    1.50
-IRO         CAJ         CAI         CAH     122.368    1.55
-IRO         CAJ         CAI         NAF     119.898    1.64
-IRO         CAH         CAI         NAF     117.734    1.50
-IRO           I         CAJ         CAL     119.521    1.78
-IRO           I         CAJ         CAI     120.309    1.83
-IRO         CAL         CAJ         CAI     120.170    1.50
-IRO         OAC         CAL         CAJ     122.807    3.00
-IRO         OAC         CAL         NAG     118.872    1.50
-IRO         CAJ         CAL         NAG     118.321    2.98
-IRO         CAL         NAG         CAK     124.999    1.50
-IRO         CAL         NAG          H3     118.121    1.78
-IRO         CAK         NAG          H3     116.881    2.30
-IRO         NAG         CAK         NAF     114.963    1.50
-IRO         NAG         CAK         OAB     122.107    1.50
-IRO         NAF         CAK         OAB     122.929    1.50
-IRO         CAI         NAF         CAK     121.649    1.50
-IRO         CAI         NAF          H2     120.027    2.44
-IRO         CAK         NAF          H2     118.323    1.73
+IRO OAA CAH OAD 126.239 1.50
+IRO OAA CAH CAI 116.880 1.50
+IRO OAD CAH CAI 116.880 1.50
+IRO CAJ CAI CAH 122.368 1.55
+IRO CAJ CAI NAF 119.898 1.64
+IRO CAH CAI NAF 117.734 1.50
+IRO I   CAJ CAL 119.521 1.78
+IRO I   CAJ CAI 120.309 1.83
+IRO CAL CAJ CAI 120.170 1.50
+IRO OAC CAL CAJ 122.807 3.00
+IRO OAC CAL NAG 118.872 1.50
+IRO CAJ CAL NAG 118.321 2.98
+IRO CAL NAG CAK 124.999 1.50
+IRO CAL NAG H3  118.121 1.78
+IRO CAK NAG H3  116.881 2.30
+IRO NAG CAK NAF 114.963 1.50
+IRO NAG CAK OAB 122.107 1.50
+IRO NAF CAK OAB 122.929 1.50
+IRO CAI NAF CAK 121.649 1.50
+IRO CAI NAF H2  120.027 2.44
+IRO CAK NAF H2  118.323 1.73
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -97,53 +98,69 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IRO             sp2_sp2_1         OAA         CAH         CAI         CAJ     180.000     5.0     2
-IRO              const_23         CAH         CAI         NAF         CAK     180.000    10.0     2
-IRO       const_sp2_sp2_4         CAH         CAI         CAJ           I       0.000     5.0     2
-IRO       const_sp2_sp2_8           I         CAJ         CAL         OAC       0.000     5.0     2
-IRO              const_11         OAC         CAL         NAG         CAK     180.000    10.0     2
-IRO              const_15         OAB         CAK         NAG         CAL     180.000    10.0     2
-IRO              const_19         OAB         CAK         NAF         CAI     180.000    10.0     2
+IRO sp2_sp2_1       OAA CAH CAI CAJ 180.000 5.0  2
+IRO const_23        CAH CAI NAF CAK 180.000 10.0 2
+IRO const_sp2_sp2_4 CAH CAI CAJ I   0.000   5.0  2
+IRO const_sp2_sp2_8 I   CAJ CAL OAC 0.000   5.0  2
+IRO const_11        OAC CAL NAG CAK 180.000 10.0 2
+IRO const_15        OAB CAK NAG CAL 180.000 10.0 2
+IRO const_19        OAB CAK NAF CAI 180.000 10.0 2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-IRO    plan-1         CAH   0.020
-IRO    plan-1         CAI   0.020
-IRO    plan-1         CAJ   0.020
-IRO    plan-1         CAK   0.020
-IRO    plan-1         CAL   0.020
-IRO    plan-1          H2   0.020
-IRO    plan-1          H3   0.020
-IRO    plan-1           I   0.020
-IRO    plan-1         NAF   0.020
-IRO    plan-1         NAG   0.020
-IRO    plan-1         OAB   0.020
-IRO    plan-1         OAC   0.020
-IRO    plan-2         CAH   0.020
-IRO    plan-2         CAI   0.020
-IRO    plan-2         OAA   0.020
-IRO    plan-2         OAD   0.020
+IRO plan-1 CAH 0.020
+IRO plan-1 CAI 0.020
+IRO plan-1 CAJ 0.020
+IRO plan-1 CAK 0.020
+IRO plan-1 CAL 0.020
+IRO plan-1 H2  0.020
+IRO plan-1 H3  0.020
+IRO plan-1 I   0.020
+IRO plan-1 NAF 0.020
+IRO plan-1 NAG 0.020
+IRO plan-1 OAB 0.020
+IRO plan-1 OAC 0.020
+IRO plan-2 CAH 0.020
+IRO plan-2 CAI 0.020
+IRO plan-2 OAA 0.020
+IRO plan-2 OAD 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IRO           SMILES              ACDLabs 12.01                                               O=C1NC(C(=O)O)=C(I)C(=O)N1
-IRO            InChI                InChI  1.03 InChI=1S/C5H3IN2O4/c6-1-2(4(10)11)7-5(12)8-3(1)9/h(H,10,11)(H2,7,8,9,12)
-IRO         InChIKey                InChI  1.03                                              NWVVOUXUHGRCGE-UHFFFAOYSA-N
-IRO SMILES_CANONICAL               CACTVS 3.370                                               OC(=O)C1=C(I)C(=O)NC(=O)N1
-IRO           SMILES               CACTVS 3.370                                               OC(=O)C1=C(I)C(=O)NC(=O)N1
-IRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                               C1(=C(NC(=O)NC1=O)C(=O)O)I
-IRO           SMILES "OpenEye OEToolkits" 1.7.6                                               C1(=C(NC(=O)NC1=O)C(=O)O)I
+IRO SMILES           ACDLabs              12.01 O=C1NC(C(=O)O)=C(I)C(=O)N1
+IRO InChI            InChI                1.03  InChI=1S/C5H3IN2O4/c6-1-2(4(10)11)7-5(12)8-3(1)9/h(H,10,11)(H2,7,8,9,12)
+IRO InChIKey         InChI                1.03  NWVVOUXUHGRCGE-UHFFFAOYSA-N
+IRO SMILES_CANONICAL CACTVS               3.370 OC(=O)C1=C(I)C(=O)NC(=O)N1
+IRO SMILES           CACTVS               3.370 OC(=O)C1=C(I)C(=O)NC(=O)N1
+IRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C1(=C(NC(=O)NC1=O)C(=O)O)I
+IRO SMILES           "OpenEye OEToolkits" 1.7.6 C1(=C(NC(=O)NC1=O)C(=O)O)I
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IRO acedrg               243         "dictionary generator"                  
-IRO acedrg_database      11          "data source"                           
-IRO rdkit                2017.03.2   "Chemoinformatics tool"
-IRO refmac5              5.8.0238    "optimization tool"                     
+IRO acedrg          243       "dictionary generator"
+IRO acedrg_database 11        "data source"
+IRO rdkit           2017.03.2 "Chemoinformatics tool"
+IRO refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+IRO M-peptide OAA O
+IRO M-peptide CAH C
+IRO M-peptide CAI CA
+IRO M-peptide NAF N
+IRO M-peptide CAK CN
+IRO M-peptide OAD OXT
+IRO M-peptide H2  H

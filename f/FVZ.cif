@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-FVZ     FVZ      "(2~{S})-2-[[(2~{S})-6-[(4-fluorophenyl)amino]-1-oxidanyl-1,6-bis(oxidanylidene)hexan-2-yl]carbamoylamino]pentanedioic acid"     NON-POLYMER     49     30     .     
-#
+FVZ FVZ "(2~{S})-2-[[(2~{S})-6-[(4-fluorophenyl)amino]-1-oxidanyl-1,6-bis(oxidanylidene)hexan-2-yl]carbamoylamino]pentanedioic acid" NON-POLYMER 49 30 .
+
 data_comp_FVZ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,55 +19,56 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-FVZ     OBC     O       O       0       13.479      47.975      39.254      
-FVZ     CBB     C       C       0       14.220      48.050      40.255      
-FVZ     OBD     O       OC      -1      14.009      48.821      41.212      
-FVZ     CBA     C       CH2     0       15.445      47.155      40.309      
-FVZ     CAZ     C       CH2     0       15.228      45.839      41.046      
-FVZ     CAV     C       CH1     0       16.513      45.047      41.336      
-FVZ     CAW     C       C       0       17.314      44.754      40.053      
-FVZ     OAY     O       O       0       17.053      43.696      39.447      
-FVZ     OAX     O       OC      -1      18.170      45.594      39.704      
-FVZ     NAU     N       NH1     0       17.341      45.716      42.336      
-FVZ     CAA     C       C       0       18.367      45.121      42.991      
-FVZ     OAT     O       O       0       18.663      43.923      42.798      
-FVZ     N       N       NH1     0       19.079      45.903      43.838      
-FVZ     CA      C       CH1     0       20.276      45.470      44.551      
-FVZ     C       C       C       0       20.483      46.300      45.831      
-FVZ     OXT     O       OC      -1      20.606      45.675      46.903      
-FVZ     O       O       O       0       20.512      47.541      45.709      
-FVZ     CB      C       CH2     0       21.503      45.549      43.638      
-FVZ     CAM     C       CH2     0       22.718      44.781      44.158      
-FVZ     CAL     C       CH2     0       23.844      44.694      43.170      
-FVZ     CAJ     C       C       0       24.519      46.025      42.901      
-FVZ     OAK     O       O       0       24.973      46.704      43.814      
-FVZ     NAI     N       NH1     0       24.576      46.407      41.600      
-FVZ     CAC     C       CR6     0       25.147      47.587      41.065      
-FVZ     CAB     C       CR16    0       26.466      47.930      41.345      
-FVZ     CAD     C       CR16    0       27.020      49.087      40.814      
-FVZ     CAF     C       CR6     0       26.243      49.875      40.006      
-FVZ     FAH     F       F       0       26.785      51.008      39.483      
-FVZ     CAG     C       CR16    0       24.943      49.568      39.704      
-FVZ     CAE     C       CR16    0       24.391      48.411      40.238      
-FVZ     H2      H       H       0       16.171      47.651      40.743      
-FVZ     H3      H       H       0       15.725      46.966      39.389      
-FVZ     H4      H       H       0       14.630      45.275      40.513      
-FVZ     H5      H       H       0       14.781      46.026      41.898      
-FVZ     H6      H       H       0       16.236      44.175      41.719      
-FVZ     H8      H       H       0       17.158      46.547      42.531      
-FVZ     H9      H       H       0       18.805      46.724      43.965      
-FVZ     H10     H       H       0       20.155      44.524      44.820      
-FVZ     H12     H       H       0       21.748      46.491      43.526      
-FVZ     H13     H       H       0       21.263      45.194      42.756      
-FVZ     H14     H       H       0       22.437      43.874      44.398      
-FVZ     H15     H       H       0       23.044      45.218      44.972      
-FVZ     H16     H       H       0       23.495      44.325      42.332      
-FVZ     H17     H       H       0       24.514      44.066      43.515      
-FVZ     H18     H       H       0       24.221      45.869      41.011      
-FVZ     H19     H       H       0       26.984      47.379      41.902      
-FVZ     H20     H       H       0       27.910      49.323      41.004      
-FVZ     H21     H       H       0       24.434      50.128      39.146      
-FVZ     H22     H       H       0       23.501      48.185      40.041      
+FVZ OBC O O    0  13.479 47.975 39.254
+FVZ CBB C C    0  14.220 48.050 40.255
+FVZ OBD O OC   -1 14.009 48.821 41.212
+FVZ CBA C CH2  0  15.445 47.155 40.309
+FVZ CAZ C CH2  0  15.228 45.839 41.046
+FVZ CAV C CH1  0  16.513 45.047 41.336
+FVZ CAW C C    0  17.314 44.754 40.053
+FVZ OAY O O    0  17.053 43.696 39.447
+FVZ OAX O OC   -1 18.170 45.594 39.704
+FVZ NAU N NH1  0  17.341 45.716 42.336
+FVZ CAA C C    0  18.367 45.121 42.991
+FVZ OAT O O    0  18.663 43.923 42.798
+FVZ N   N NH1  0  19.079 45.903 43.838
+FVZ CA  C CH1  0  20.276 45.470 44.551
+FVZ C   C C    0  20.483 46.300 45.831
+FVZ OXT O OC   -1 20.606 45.675 46.903
+FVZ O   O O    0  20.512 47.541 45.709
+FVZ CB  C CH2  0  21.503 45.549 43.638
+FVZ CAM C CH2  0  22.718 44.781 44.158
+FVZ CAL C CH2  0  23.844 44.694 43.170
+FVZ CAJ C C    0  24.519 46.025 42.901
+FVZ OAK O O    0  24.973 46.704 43.814
+FVZ NAI N NH1  0  24.576 46.407 41.600
+FVZ CAC C CR6  0  25.147 47.587 41.065
+FVZ CAB C CR16 0  26.466 47.930 41.345
+FVZ CAD C CR16 0  27.020 49.087 40.814
+FVZ CAF C CR6  0  26.243 49.875 40.006
+FVZ FAH F F    0  26.785 51.008 39.483
+FVZ CAG C CR16 0  24.943 49.568 39.704
+FVZ CAE C CR16 0  24.391 48.411 40.238
+FVZ H2  H H    0  16.171 47.651 40.743
+FVZ H3  H H    0  15.725 46.966 39.389
+FVZ H4  H H    0  14.630 45.275 40.513
+FVZ H5  H H    0  14.781 46.026 41.898
+FVZ H6  H H    0  16.236 44.175 41.719
+FVZ H8  H H    0  17.158 46.547 42.531
+FVZ H9  H H    0  18.805 46.724 43.965
+FVZ H10 H H    0  20.155 44.524 44.820
+FVZ H12 H H    0  21.748 46.491 43.526
+FVZ H13 H H    0  21.263 45.194 42.756
+FVZ H14 H H    0  22.437 43.874 44.398
+FVZ H15 H H    0  23.044 45.218 44.972
+FVZ H16 H H    0  23.495 44.325 42.332
+FVZ H17 H H    0  24.514 44.066 43.515
+FVZ H18 H H    0  24.221 45.869 41.011
+FVZ H19 H H    0  26.984 47.379 41.902
+FVZ H20 H H    0  27.910 49.323 41.004
+FVZ H21 H H    0  24.434 50.128 39.146
+FVZ H22 H H    0  23.501 48.185 40.041
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -80,55 +79,56 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-FVZ         CAG         CAE      SINGLE       y     1.385  0.0100     1.385  0.0100
-FVZ         CAF         CAG      DOUBLE       y     1.367  0.0100     1.367  0.0100
-FVZ         CAF         FAH      SINGLE       n     1.361  0.0100     1.361  0.0100
-FVZ         CAW         OAY      DOUBLE       n     1.247  0.0187     1.247  0.0187
-FVZ         OBC         CBB      DOUBLE       n     1.247  0.0187     1.247  0.0187
-FVZ         CAC         CAE      DOUBLE       y     1.387  0.0100     1.387  0.0100
-FVZ         CAD         CAF      SINGLE       y     1.367  0.0100     1.367  0.0100
-FVZ         CAW         OAX      SINGLE       n     1.247  0.0187     1.247  0.0187
-FVZ         CAV         CAW      SINGLE       n     1.539  0.0100     1.539  0.0100
-FVZ         CBB         OBD      SINGLE       n     1.247  0.0187     1.247  0.0187
-FVZ         CBB         CBA      SINGLE       n     1.519  0.0109     1.519  0.0109
-FVZ         NAI         CAC      SINGLE       n     1.414  0.0100     1.414  0.0100
-FVZ         CAC         CAB      SINGLE       y     1.387  0.0100     1.387  0.0100
-FVZ         CBA         CAZ      SINGLE       n     1.518  0.0153     1.518  0.0153
-FVZ         CAB         CAD      DOUBLE       y     1.385  0.0100     1.385  0.0100
-FVZ         CAZ         CAV      SINGLE       n     1.533  0.0100     1.533  0.0100
-FVZ         CAJ         NAI      SINGLE       n     1.350  0.0120     1.350  0.0120
-FVZ         CAV         NAU      SINGLE       n     1.454  0.0128     1.454  0.0128
-FVZ         CAL         CAJ      SINGLE       n     1.510  0.0129     1.510  0.0129
-FVZ         CAJ         OAK      DOUBLE       n     1.223  0.0143     1.223  0.0143
-FVZ         CAA         OAT      DOUBLE       n     1.243  0.0179     1.243  0.0179
-FVZ         NAU         CAA      SINGLE       n     1.349  0.0100     1.349  0.0100
-FVZ         CAM         CAL      SINGLE       n     1.497  0.0200     1.497  0.0200
-FVZ         CAA           N      SINGLE       n     1.349  0.0100     1.349  0.0100
-FVZ          CB         CAM      SINGLE       n     1.526  0.0181     1.526  0.0181
-FVZ          CA          CB      SINGLE       n     1.531  0.0123     1.531  0.0123
-FVZ           N          CA      SINGLE       n     1.454  0.0128     1.454  0.0128
-FVZ          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-FVZ           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-FVZ           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-FVZ         CBA          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
-FVZ         CBA          H3      SINGLE       n     1.089  0.0100     0.981  0.0185
-FVZ         CAZ          H4      SINGLE       n     1.089  0.0100     0.980  0.0178
-FVZ         CAZ          H5      SINGLE       n     1.089  0.0100     0.980  0.0178
-FVZ         CAV          H6      SINGLE       n     1.089  0.0100     0.991  0.0200
-FVZ         NAU          H8      SINGLE       n     1.016  0.0100     0.873  0.0200
-FVZ           N          H9      SINGLE       n     1.016  0.0100     0.873  0.0200
-FVZ          CA         H10      SINGLE       n     1.089  0.0100     0.991  0.0200
-FVZ          CB         H12      SINGLE       n     1.089  0.0100     0.980  0.0160
-FVZ          CB         H13      SINGLE       n     1.089  0.0100     0.980  0.0160
-FVZ         CAM         H14      SINGLE       n     1.089  0.0100     0.980  0.0160
-FVZ         CAM         H15      SINGLE       n     1.089  0.0100     0.980  0.0160
-FVZ         CAL         H16      SINGLE       n     1.089  0.0100     0.981  0.0185
-FVZ         CAL         H17      SINGLE       n     1.089  0.0100     0.981  0.0185
-FVZ         NAI         H18      SINGLE       n     1.016  0.0100     0.874  0.0200
-FVZ         CAB         H19      SINGLE       n     1.082  0.0130     0.939  0.0128
-FVZ         CAD         H20      SINGLE       n     1.082  0.0130     0.940  0.0138
-FVZ         CAG         H21      SINGLE       n     1.082  0.0130     0.940  0.0138
-FVZ         CAE         H22      SINGLE       n     1.082  0.0130     0.939  0.0128
+FVZ CAG CAE SINGLE y 1.385 0.0100 1.385 0.0100
+FVZ CAF CAG DOUBLE y 1.367 0.0100 1.367 0.0100
+FVZ CAF FAH SINGLE n 1.361 0.0100 1.361 0.0100
+FVZ CAW OAY DOUBLE n 1.247 0.0187 1.247 0.0187
+FVZ OBC CBB DOUBLE n 1.247 0.0187 1.247 0.0187
+FVZ CAC CAE DOUBLE y 1.387 0.0100 1.387 0.0100
+FVZ CAD CAF SINGLE y 1.367 0.0100 1.367 0.0100
+FVZ CAW OAX SINGLE n 1.247 0.0187 1.247 0.0187
+FVZ CAV CAW SINGLE n 1.539 0.0100 1.539 0.0100
+FVZ CBB OBD SINGLE n 1.247 0.0187 1.247 0.0187
+FVZ CBB CBA SINGLE n 1.519 0.0109 1.519 0.0109
+FVZ NAI CAC SINGLE n 1.414 0.0100 1.414 0.0100
+FVZ CAC CAB SINGLE y 1.387 0.0100 1.387 0.0100
+FVZ CBA CAZ SINGLE n 1.518 0.0153 1.518 0.0153
+FVZ CAB CAD DOUBLE y 1.385 0.0100 1.385 0.0100
+FVZ CAZ CAV SINGLE n 1.533 0.0100 1.533 0.0100
+FVZ CAJ NAI SINGLE n 1.350 0.0120 1.350 0.0120
+FVZ CAV NAU SINGLE n 1.454 0.0128 1.454 0.0128
+FVZ CAL CAJ SINGLE n 1.510 0.0129 1.510 0.0129
+FVZ CAJ OAK DOUBLE n 1.223 0.0143 1.223 0.0143
+FVZ CAA OAT DOUBLE n 1.243 0.0179 1.243 0.0179
+FVZ NAU CAA SINGLE n 1.349 0.0100 1.349 0.0100
+FVZ CAM CAL SINGLE n 1.497 0.0200 1.497 0.0200
+FVZ CAA N   SINGLE n 1.349 0.0100 1.349 0.0100
+FVZ CB  CAM SINGLE n 1.526 0.0181 1.526 0.0181
+FVZ CA  CB  SINGLE n 1.531 0.0123 1.531 0.0123
+FVZ N   CA  SINGLE n 1.454 0.0128 1.454 0.0128
+FVZ CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+FVZ C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
+FVZ C   OXT SINGLE n 1.247 0.0187 1.247 0.0187
+FVZ CBA H2  SINGLE n 1.089 0.0100 0.981 0.0185
+FVZ CBA H3  SINGLE n 1.089 0.0100 0.981 0.0185
+FVZ CAZ H4  SINGLE n 1.089 0.0100 0.980 0.0178
+FVZ CAZ H5  SINGLE n 1.089 0.0100 0.980 0.0178
+FVZ CAV H6  SINGLE n 1.089 0.0100 0.991 0.0200
+FVZ NAU H8  SINGLE n 1.016 0.0100 0.873 0.0200
+FVZ N   H9  SINGLE n 1.016 0.0100 0.873 0.0200
+FVZ CA  H10 SINGLE n 1.089 0.0100 0.991 0.0200
+FVZ CB  H12 SINGLE n 1.089 0.0100 0.980 0.0160
+FVZ CB  H13 SINGLE n 1.089 0.0100 0.980 0.0160
+FVZ CAM H14 SINGLE n 1.089 0.0100 0.980 0.0160
+FVZ CAM H15 SINGLE n 1.089 0.0100 0.980 0.0160
+FVZ CAL H16 SINGLE n 1.089 0.0100 0.981 0.0185
+FVZ CAL H17 SINGLE n 1.089 0.0100 0.981 0.0185
+FVZ NAI H18 SINGLE n 1.016 0.0100 0.874 0.0200
+FVZ CAB H19 SINGLE n 1.082 0.0130 0.939 0.0128
+FVZ CAD H20 SINGLE n 1.082 0.0130 0.940 0.0138
+FVZ CAG H21 SINGLE n 1.082 0.0130 0.940 0.0138
+FVZ CAE H22 SINGLE n 1.082 0.0130 0.939 0.0128
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -136,90 +136,91 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-FVZ         OBC         CBB         OBD     123.571    1.50
-FVZ         OBC         CBB         CBA     118.214    1.64
-FVZ         OBD         CBB         CBA     118.214    1.64
-FVZ         CBB         CBA         CAZ     114.629    2.24
-FVZ         CBB         CBA          H2     108.404    1.50
-FVZ         CBB         CBA          H3     108.404    1.50
-FVZ         CAZ         CBA          H2     108.906    1.50
-FVZ         CAZ         CBA          H3     108.906    1.50
-FVZ          H2         CBA          H3     107.521    1.50
-FVZ         CBA         CAZ         CAV     112.938    1.50
-FVZ         CBA         CAZ          H4     108.890    1.50
-FVZ         CBA         CAZ          H5     108.890    1.50
-FVZ         CAV         CAZ          H4     108.606    1.50
-FVZ         CAV         CAZ          H5     108.606    1.50
-FVZ          H4         CAZ          H5     107.844    1.50
-FVZ         CAW         CAV         CAZ     111.638    2.31
-FVZ         CAW         CAV         NAU     110.939    1.74
-FVZ         CAW         CAV          H6     108.327    1.50
-FVZ         CAZ         CAV         NAU     111.076    1.75
-FVZ         CAZ         CAV          H6     108.155    1.50
-FVZ         NAU         CAV          H6     108.161    1.50
-FVZ         OAY         CAW         OAX     125.502    1.50
-FVZ         OAY         CAW         CAV     117.249    1.61
-FVZ         OAX         CAW         CAV     117.249    1.61
-FVZ         CAV         NAU         CAA     122.812    3.00
-FVZ         CAV         NAU          H8     119.090    1.92
-FVZ         CAA         NAU          H8     118.098    1.50
-FVZ         OAT         CAA         NAU     122.060    1.50
-FVZ         OAT         CAA           N     122.060    1.50
-FVZ         NAU         CAA           N     115.881    1.50
-FVZ         CAA           N          CA     122.812    3.00
-FVZ         CAA           N          H9     118.098    1.50
-FVZ          CA           N          H9     119.090    1.92
-FVZ          CB          CA           N     111.076    1.75
-FVZ          CB          CA           C     111.638    2.31
-FVZ          CB          CA         H10     108.155    1.50
-FVZ           N          CA           C     110.939    1.74
-FVZ           N          CA         H10     108.161    1.50
-FVZ           C          CA         H10     108.327    1.50
-FVZ          CA           C           O     117.249    1.61
-FVZ          CA           C         OXT     117.249    1.61
-FVZ           O           C         OXT     125.502    1.50
-FVZ         CAM          CB          CA     113.671    1.50
-FVZ         CAM          CB         H12     108.650    1.50
-FVZ         CAM          CB         H13     108.650    1.50
-FVZ          CA          CB         H12     108.606    1.50
-FVZ          CA          CB         H13     108.606    1.50
-FVZ         H12          CB         H13     107.844    1.50
-FVZ         CAL         CAM          CB     113.314    2.25
-FVZ         CAL         CAM         H14     108.795    1.50
-FVZ         CAL         CAM         H15     108.795    1.50
-FVZ          CB         CAM         H14     108.601    1.50
-FVZ          CB         CAM         H15     108.601    1.50
-FVZ         H14         CAM         H15     107.646    1.50
-FVZ         CAJ         CAL         CAM     113.697    1.65
-FVZ         CAJ         CAL         H16     108.910    1.50
-FVZ         CAJ         CAL         H17     108.910    1.50
-FVZ         CAM         CAL         H16     108.897    1.50
-FVZ         CAM         CAL         H17     108.897    1.50
-FVZ         H16         CAL         H17     107.846    1.50
-FVZ         NAI         CAJ         CAL     114.644    1.50
-FVZ         NAI         CAJ         OAK     123.054    1.50
-FVZ         CAL         CAJ         OAK     122.305    1.50
-FVZ         CAC         NAI         CAJ     127.481    1.50
-FVZ         CAC         NAI         H18     115.919    1.69
-FVZ         CAJ         NAI         H18     116.600    1.57
-FVZ         CAE         CAC         NAI     120.332    3.00
-FVZ         CAE         CAC         CAB     119.336    1.50
-FVZ         NAI         CAC         CAB     120.332    3.00
-FVZ         CAC         CAB         CAD     120.256    1.50
-FVZ         CAC         CAB         H19     119.902    1.50
-FVZ         CAD         CAB         H19     119.841    1.50
-FVZ         CAF         CAD         CAB     118.607    1.50
-FVZ         CAF         CAD         H20     120.734    1.50
-FVZ         CAB         CAD         H20     120.659    1.50
-FVZ         CAG         CAF         FAH     118.531    1.50
-FVZ         CAG         CAF         CAD     122.937    1.50
-FVZ         FAH         CAF         CAD     118.537    1.50
-FVZ         CAE         CAG         CAF     118.607    1.50
-FVZ         CAE         CAG         H21     120.659    1.50
-FVZ         CAF         CAG         H21     120.734    1.50
-FVZ         CAG         CAE         CAC     120.256    1.50
-FVZ         CAG         CAE         H22     119.841    1.50
-FVZ         CAC         CAE         H22     119.902    1.50
+FVZ OBC CBB OBD 123.571 1.50
+FVZ OBC CBB CBA 118.214 1.64
+FVZ OBD CBB CBA 118.214 1.64
+FVZ CBB CBA CAZ 114.629 2.24
+FVZ CBB CBA H2  108.404 1.50
+FVZ CBB CBA H3  108.404 1.50
+FVZ CAZ CBA H2  108.906 1.50
+FVZ CAZ CBA H3  108.906 1.50
+FVZ H2  CBA H3  107.521 1.50
+FVZ CBA CAZ CAV 112.938 1.50
+FVZ CBA CAZ H4  108.890 1.50
+FVZ CBA CAZ H5  108.890 1.50
+FVZ CAV CAZ H4  108.606 1.50
+FVZ CAV CAZ H5  108.606 1.50
+FVZ H4  CAZ H5  107.844 1.50
+FVZ CAW CAV CAZ 111.638 2.31
+FVZ CAW CAV NAU 110.939 1.74
+FVZ CAW CAV H6  108.327 1.50
+FVZ CAZ CAV NAU 111.076 1.75
+FVZ CAZ CAV H6  108.155 1.50
+FVZ NAU CAV H6  108.161 1.50
+FVZ OAY CAW OAX 125.502 1.50
+FVZ OAY CAW CAV 117.249 1.61
+FVZ OAX CAW CAV 117.249 1.61
+FVZ CAV NAU CAA 122.812 3.00
+FVZ CAV NAU H8  119.090 1.92
+FVZ CAA NAU H8  118.098 1.50
+FVZ OAT CAA NAU 122.060 1.50
+FVZ OAT CAA N   122.060 1.50
+FVZ NAU CAA N   115.881 1.50
+FVZ CAA N   CA  122.812 3.00
+FVZ CAA N   H9  118.098 1.50
+FVZ CA  N   H9  119.090 1.92
+FVZ CB  CA  N   111.076 1.75
+FVZ CB  CA  C   111.638 2.31
+FVZ CB  CA  H10 108.155 1.50
+FVZ N   CA  C   110.939 1.74
+FVZ N   CA  H10 108.161 1.50
+FVZ C   CA  H10 108.327 1.50
+FVZ CA  C   O   117.249 1.61
+FVZ CA  C   OXT 117.249 1.61
+FVZ O   C   OXT 125.502 1.50
+FVZ CAM CB  CA  113.671 1.50
+FVZ CAM CB  H12 108.650 1.50
+FVZ CAM CB  H13 108.650 1.50
+FVZ CA  CB  H12 108.606 1.50
+FVZ CA  CB  H13 108.606 1.50
+FVZ H12 CB  H13 107.844 1.50
+FVZ CAL CAM CB  113.314 2.25
+FVZ CAL CAM H14 108.795 1.50
+FVZ CAL CAM H15 108.795 1.50
+FVZ CB  CAM H14 108.601 1.50
+FVZ CB  CAM H15 108.601 1.50
+FVZ H14 CAM H15 107.646 1.50
+FVZ CAJ CAL CAM 113.697 1.65
+FVZ CAJ CAL H16 108.910 1.50
+FVZ CAJ CAL H17 108.910 1.50
+FVZ CAM CAL H16 108.897 1.50
+FVZ CAM CAL H17 108.897 1.50
+FVZ H16 CAL H17 107.846 1.50
+FVZ NAI CAJ CAL 114.644 1.50
+FVZ NAI CAJ OAK 123.054 1.50
+FVZ CAL CAJ OAK 122.305 1.50
+FVZ CAC NAI CAJ 127.481 1.50
+FVZ CAC NAI H18 115.919 1.69
+FVZ CAJ NAI H18 116.600 1.57
+FVZ CAE CAC NAI 120.332 3.00
+FVZ CAE CAC CAB 119.336 1.50
+FVZ NAI CAC CAB 120.332 3.00
+FVZ CAC CAB CAD 120.256 1.50
+FVZ CAC CAB H19 119.902 1.50
+FVZ CAD CAB H19 119.841 1.50
+FVZ CAF CAD CAB 118.607 1.50
+FVZ CAF CAD H20 120.734 1.50
+FVZ CAB CAD H20 120.659 1.50
+FVZ CAG CAF FAH 118.531 1.50
+FVZ CAG CAF CAD 122.937 1.50
+FVZ FAH CAF CAD 118.537 1.50
+FVZ CAE CAG CAF 118.607 1.50
+FVZ CAE CAG H21 120.659 1.50
+FVZ CAF CAG H21 120.734 1.50
+FVZ CAG CAE CAC 120.256 1.50
+FVZ CAG CAE H22 119.841 1.50
+FVZ CAC CAE H22 119.902 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -230,27 +231,28 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-FVZ            sp2_sp2_15         OAT         CAA           N          CA       0.000     5.0     2
-FVZ            sp2_sp3_25         CAA           N          CA          CB       0.000    10.0     6
-FVZ            sp2_sp3_31           O           C          CA          CB       0.000    10.0     6
-FVZ            sp3_sp3_37           N          CA          CB         CAM     180.000    10.0     3
-FVZ            sp3_sp3_28         CAL         CAM          CB          CA     180.000    10.0     3
-FVZ            sp3_sp3_19         CAJ         CAL         CAM          CB     180.000    10.0     3
-FVZ            sp2_sp3_20         NAI         CAJ         CAL         CAM     120.000    10.0     6
-FVZ             sp2_sp3_8         OBC         CBB         CBA         CAZ     120.000    10.0     6
-FVZ             sp2_sp2_5         CAL         CAJ         NAI         CAC     180.000     5.0     2
-FVZ             sp2_sp2_1         CAE         CAC         NAI         CAJ     180.000     5.0     2
-FVZ              const_22         CAD         CAB         CAC         NAI     180.000    10.0     2
-FVZ       const_sp2_sp2_3         NAI         CAC         CAE         CAG     180.000     5.0     2
-FVZ              const_17         CAC         CAB         CAD         CAF       0.000    10.0     2
-FVZ              const_14         CAB         CAD         CAF         FAH     180.000    10.0     2
-FVZ              const_11         FAH         CAF         CAG         CAE     180.000    10.0     2
-FVZ       const_sp2_sp2_5         CAC         CAE         CAG         CAF       0.000     5.0     2
-FVZ             sp3_sp3_1         CAV         CAZ         CBA         CBB     180.000    10.0     3
-FVZ            sp3_sp3_10         CAW         CAV         CAZ         CBA     180.000    10.0     3
-FVZ             sp2_sp3_1         OAY         CAW         CAV         CAZ       0.000    10.0     6
-FVZ            sp2_sp3_13         CAA         NAU         CAV         CAW       0.000    10.0     6
-FVZ            sp2_sp2_11         OAT         CAA         NAU         CAV       0.000     5.0     2
+FVZ sp2_sp2_15      OAT CAA N   CA  0.000   5.0  2
+FVZ sp2_sp3_25      CAA N   CA  CB  0.000   10.0 6
+FVZ sp2_sp3_31      O   C   CA  CB  0.000   10.0 6
+FVZ sp3_sp3_37      N   CA  CB  CAM 180.000 10.0 3
+FVZ sp3_sp3_28      CAL CAM CB  CA  180.000 10.0 3
+FVZ sp3_sp3_19      CAJ CAL CAM CB  180.000 10.0 3
+FVZ sp2_sp3_20      NAI CAJ CAL CAM 120.000 10.0 6
+FVZ sp2_sp3_8       OBC CBB CBA CAZ 120.000 10.0 6
+FVZ sp2_sp2_5       CAL CAJ NAI CAC 180.000 5.0  2
+FVZ sp2_sp2_1       CAE CAC NAI CAJ 180.000 5.0  2
+FVZ const_22        CAD CAB CAC NAI 180.000 10.0 2
+FVZ const_sp2_sp2_3 NAI CAC CAE CAG 180.000 5.0  2
+FVZ const_17        CAC CAB CAD CAF 0.000   10.0 2
+FVZ const_14        CAB CAD CAF FAH 180.000 10.0 2
+FVZ const_11        FAH CAF CAG CAE 180.000 10.0 2
+FVZ const_sp2_sp2_5 CAC CAE CAG CAF 0.000   5.0  2
+FVZ sp3_sp3_1       CAV CAZ CBA CBB 180.000 10.0 3
+FVZ sp3_sp3_10      CAW CAV CAZ CBA 180.000 10.0 3
+FVZ sp2_sp3_1       OAY CAW CAV CAZ 0.000   10.0 6
+FVZ sp2_sp3_13      CAA NAU CAV CAW 0.000   10.0 6
+FVZ sp2_sp2_11      OAT CAA NAU CAV 0.000   5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -259,75 +261,86 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-FVZ    chir_1    CAV    NAU    CAW    CAZ    positive
-FVZ    chir_2    CA    N    C    CB    positive
+FVZ chir_1 CAV NAU CAW CAZ positive
+FVZ chir_2 CA  N   C   CB  positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-FVZ    plan-1         CAB   0.020
-FVZ    plan-1         CAC   0.020
-FVZ    plan-1         CAD   0.020
-FVZ    plan-1         CAE   0.020
-FVZ    plan-1         CAF   0.020
-FVZ    plan-1         CAG   0.020
-FVZ    plan-1         FAH   0.020
-FVZ    plan-1         H19   0.020
-FVZ    plan-1         H20   0.020
-FVZ    plan-1         H21   0.020
-FVZ    plan-1         H22   0.020
-FVZ    plan-1         NAI   0.020
-FVZ    plan-2         CBA   0.020
-FVZ    plan-2         CBB   0.020
-FVZ    plan-2         OBC   0.020
-FVZ    plan-2         OBD   0.020
-FVZ    plan-3         CAV   0.020
-FVZ    plan-3         CAW   0.020
-FVZ    plan-3         OAX   0.020
-FVZ    plan-3         OAY   0.020
-FVZ    plan-4         CAA   0.020
-FVZ    plan-4         CAV   0.020
-FVZ    plan-4          H8   0.020
-FVZ    plan-4         NAU   0.020
-FVZ    plan-5         CAA   0.020
-FVZ    plan-5           N   0.020
-FVZ    plan-5         NAU   0.020
-FVZ    plan-5         OAT   0.020
-FVZ    plan-6          CA   0.020
-FVZ    plan-6         CAA   0.020
-FVZ    plan-6          H9   0.020
-FVZ    plan-6           N   0.020
-FVZ    plan-7           C   0.020
-FVZ    plan-7          CA   0.020
-FVZ    plan-7           O   0.020
-FVZ    plan-7         OXT   0.020
-FVZ    plan-8         CAJ   0.020
-FVZ    plan-8         CAL   0.020
-FVZ    plan-8         NAI   0.020
-FVZ    plan-8         OAK   0.020
-FVZ    plan-9         CAC   0.020
-FVZ    plan-9         CAJ   0.020
-FVZ    plan-9         H18   0.020
-FVZ    plan-9         NAI   0.020
+FVZ plan-1 CAB 0.020
+FVZ plan-1 CAC 0.020
+FVZ plan-1 CAD 0.020
+FVZ plan-1 CAE 0.020
+FVZ plan-1 CAF 0.020
+FVZ plan-1 CAG 0.020
+FVZ plan-1 FAH 0.020
+FVZ plan-1 H19 0.020
+FVZ plan-1 H20 0.020
+FVZ plan-1 H21 0.020
+FVZ plan-1 H22 0.020
+FVZ plan-1 NAI 0.020
+FVZ plan-2 CBA 0.020
+FVZ plan-2 CBB 0.020
+FVZ plan-2 OBC 0.020
+FVZ plan-2 OBD 0.020
+FVZ plan-3 CAV 0.020
+FVZ plan-3 CAW 0.020
+FVZ plan-3 OAX 0.020
+FVZ plan-3 OAY 0.020
+FVZ plan-4 CAA 0.020
+FVZ plan-4 CAV 0.020
+FVZ plan-4 H8  0.020
+FVZ plan-4 NAU 0.020
+FVZ plan-5 CAA 0.020
+FVZ plan-5 N   0.020
+FVZ plan-5 NAU 0.020
+FVZ plan-5 OAT 0.020
+FVZ plan-6 CA  0.020
+FVZ plan-6 CAA 0.020
+FVZ plan-6 H9  0.020
+FVZ plan-6 N   0.020
+FVZ plan-7 C   0.020
+FVZ plan-7 CA  0.020
+FVZ plan-7 O   0.020
+FVZ plan-7 OXT 0.020
+FVZ plan-8 CAJ 0.020
+FVZ plan-8 CAL 0.020
+FVZ plan-8 NAI 0.020
+FVZ plan-8 OAK 0.020
+FVZ plan-9 CAC 0.020
+FVZ plan-9 CAJ 0.020
+FVZ plan-9 H18 0.020
+FVZ plan-9 NAI 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-FVZ            InChI                InChI  1.03 InChI=1S/C18H22FN3O8/c19-10-4-6-11(7-5-10)20-14(23)3-1-2-12(16(26)27)21-18(30)22-13(17(28)29)8-9-15(24)25/h4-7,12-13H,1-3,8-9H2,(H,20,23)(H,24,25)(H,26,27)(H,28,29)(H2,21,22,30)/t12-,13-/m0/s1
-FVZ         InChIKey                InChI  1.03                                                                                                                                                                      CKNIHKIYCHYOOG-STQMWFEESA-N
-FVZ SMILES_CANONICAL               CACTVS 3.385                                                                                                                                   OC(=O)CC[C@H](NC(=O)N[C@@H](CCCC(=O)Nc1ccc(F)cc1)C(O)=O)C(O)=O
-FVZ           SMILES               CACTVS 3.385                                                                                                                                      OC(=O)CC[CH](NC(=O)N[CH](CCCC(=O)Nc1ccc(F)cc1)C(O)=O)C(O)=O
-FVZ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                                                  c1cc(ccc1NC(=O)CCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)F
-FVZ           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                                            c1cc(ccc1NC(=O)CCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)F
+FVZ InChI            InChI                1.03  InChI=1S/C18H22FN3O8/c19-10-4-6-11(7-5-10)20-14(23)3-1-2-12(16(26)27)21-18(30)22-13(17(28)29)8-9-15(24)25/h4-7,12-13H,1-3,8-9H2,(H,20,23)(H,24,25)(H,26,27)(H,28,29)(H2,21,22,30)/t12-,13-/m0/s1
+FVZ InChIKey         InChI                1.03  CKNIHKIYCHYOOG-STQMWFEESA-N
+FVZ SMILES_CANONICAL CACTVS               3.385 OC(=O)CC[C@H](NC(=O)N[C@@H](CCCC(=O)Nc1ccc(F)cc1)C(O)=O)C(O)=O
+FVZ SMILES           CACTVS               3.385 OC(=O)CC[CH](NC(=O)N[CH](CCCC(=O)Nc1ccc(F)cc1)C(O)=O)C(O)=O
+FVZ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 c1cc(ccc1NC(=O)CCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)F
+FVZ SMILES           "OpenEye OEToolkits" 2.0.6 c1cc(ccc1NC(=O)CCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)F
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-FVZ acedrg               243         "dictionary generator"                  
-FVZ acedrg_database      11          "data source"                           
-FVZ rdkit                2017.03.2   "Chemoinformatics tool"
-FVZ refmac5              5.8.0238    "optimization tool"                     
+FVZ acedrg          243       "dictionary generator"
+FVZ acedrg_database 11        "data source"
+FVZ rdkit           2017.03.2 "Chemoinformatics tool"
+FVZ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+FVZ M-peptide CAA CN
+FVZ M-peptide H9  H

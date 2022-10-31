@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-2G5     2G5      "N-[(S)-[(2S)-2-(benzoylamino)-2-carboxyethoxy](hydroxy)phosphoryl]-L-glutamic acid"     NON-POLYMER     43     28     .     
-#
+2G5 2G5 "N-[(S)-[(2S)-2-(benzoylamino)-2-carboxyethoxy](hydroxy)phosphoryl]-L-glutamic acid" NON-POLYMER 43 28 .
+
 data_comp_2G5
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,49 +19,50 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-2G5     CAM     C       CR16    0       23.757      48.727      43.215      
-2G5     CAK     C       CR16    0       24.639      49.572      42.557      
-2G5     CAJ     C       CR16    0       24.898      50.832      43.057      
-2G5     CAL     C       CR16    0       24.274      51.254      44.215      
-2G5     CAN     C       CR16    0       23.388      50.416      44.876      
-2G5     CAY     C       CR6     0       23.115      49.144      44.380      
-2G5     CAX     C       C       0       22.155      48.248      45.117      
-2G5     OAD     O       O       0       22.169      48.212      46.348      
-2G5     NAR     N       NH1     0       21.321      47.498      44.379      
-2G5     CBA     C       CH1     0       20.411      46.514      44.958      
-2G5     CAW     C       C       0       21.182      45.326      45.563      
-2G5     OAH     O       OC      -1      20.955      45.051      46.758      
-2G5     OAC     O       O       0       21.979      44.725      44.816      
-2G5     CAQ     C       CH2     0       19.411      46.018      43.918      
-2G5     OAT     O       O2      0       18.362      45.235      44.541      
-2G5     PBB     P       P       0       17.557      44.113      43.723      
-2G5     OAI     O       OP      -1      16.505      43.615      44.674      
-2G5     OAE     O       O       0       18.584      43.136      43.221      
-2G5     N       N       NT1     0       16.864      44.922      42.478      
-2G5     CA      C       CH1     0       15.918      44.246      41.581      
-2G5     C       C       C       0       16.605      43.574      40.378      
-2G5     OXT     O       O       0       16.067      42.550      39.914      
-2G5     O       O       OC      -1      17.652      44.101      39.947      
-2G5     CB      C       CH2     0       14.826      45.217      41.107      
-2G5     CG      C       CH2     0       15.341      46.444      40.360      
-2G5     CD      C       C       0       14.272      47.392      39.837      
-2G5     OE2     O       OC      -1      14.622      48.278      39.033      
-2G5     OE1     O       O       0       13.095      47.249      40.231      
-2G5     H1      H       H       0       23.585      47.870      42.866      
-2G5     H2      H       H       0       25.065      49.282      41.767      
-2G5     H3      H       H       0       25.500      51.404      42.609      
-2G5     H4      H       H       0       24.450      52.115      44.556      
-2G5     H5      H       H       0       22.967      50.712      45.664      
-2G5     H6      H       H       0       21.300      47.608      43.513      
-2G5     H7      H       H       0       19.902      46.952      45.687      
-2G5     H9      H       H       0       19.881      45.473      43.250      
-2G5     H10     H       H       0       19.014      46.787      43.454      
-2G5     H12     H       H       0       17.392      45.442      42.038      
-2G5     H13     H       H       0       15.468      43.530      42.099      
-2G5     H15     H       H       0       14.318      45.515      41.890      
-2G5     H16     H       H       0       14.211      44.728      40.521      
-2G5     H17     H       H       0       15.881      46.151      39.597      
-2G5     H18     H       H       0       15.930      46.952      40.957      
+2G5 CAM C CR16 0  23.757 48.727 43.215
+2G5 CAK C CR16 0  24.639 49.572 42.557
+2G5 CAJ C CR16 0  24.898 50.832 43.057
+2G5 CAL C CR16 0  24.274 51.254 44.215
+2G5 CAN C CR16 0  23.388 50.416 44.876
+2G5 CAY C CR6  0  23.115 49.144 44.380
+2G5 CAX C C    0  22.155 48.248 45.117
+2G5 OAD O O    0  22.169 48.212 46.348
+2G5 NAR N NH1  0  21.321 47.498 44.379
+2G5 CBA C CH1  0  20.411 46.514 44.958
+2G5 CAW C C    0  21.182 45.326 45.563
+2G5 OAH O OC   -1 20.955 45.051 46.758
+2G5 OAC O O    0  21.979 44.725 44.816
+2G5 CAQ C CH2  0  19.411 46.018 43.918
+2G5 OAT O O2   0  18.362 45.235 44.541
+2G5 PBB P P    0  17.557 44.113 43.723
+2G5 OAI O OP   -1 16.505 43.615 44.674
+2G5 OAE O O    0  18.584 43.136 43.221
+2G5 N   N NT1  0  16.864 44.922 42.478
+2G5 CA  C CH1  0  15.918 44.246 41.581
+2G5 C   C C    0  16.605 43.574 40.378
+2G5 OXT O O    0  16.067 42.550 39.914
+2G5 O   O OC   -1 17.652 44.101 39.947
+2G5 CB  C CH2  0  14.826 45.217 41.107
+2G5 CG  C CH2  0  15.341 46.444 40.360
+2G5 CD  C C    0  14.272 47.392 39.837
+2G5 OE2 O OC   -1 14.622 48.278 39.033
+2G5 OE1 O O    0  13.095 47.249 40.231
+2G5 H1  H H    0  23.585 47.870 42.866
+2G5 H2  H H    0  25.065 49.282 41.767
+2G5 H3  H H    0  25.500 51.404 42.609
+2G5 H4  H H    0  24.450 52.115 44.556
+2G5 H5  H H    0  22.967 50.712 45.664
+2G5 H6  H H    0  21.300 47.608 43.513
+2G5 H7  H H    0  19.902 46.952 45.687
+2G5 H9  H H    0  19.881 45.473 43.250
+2G5 H10 H H    0  19.014 46.787 43.454
+2G5 H12 H H    0  17.392 45.442 42.038
+2G5 H13 H H    0  15.468 43.530 42.099
+2G5 H15 H H    0  14.318 45.515 41.890
+2G5 H16 H H    0  14.211 44.728 40.521
+2G5 H17 H H    0  15.881 46.151 39.597
+2G5 H18 H H    0  15.930 46.952 40.957
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -74,49 +73,50 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-2G5           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-2G5          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-2G5          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
-2G5          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
-2G5           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-2G5          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-2G5          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-2G5          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-2G5           N          CA      SINGLE       n     1.466  0.0110     1.466  0.0110
-2G5         CAK         CAJ      SINGLE       y     1.376  0.0124     1.376  0.0124
-2G5         CAM         CAK      DOUBLE       y     1.384  0.0100     1.384  0.0100
-2G5         CAJ         CAL      DOUBLE       y     1.376  0.0124     1.376  0.0124
-2G5         CAM         CAY      SINGLE       y     1.389  0.0100     1.389  0.0100
-2G5         PBB         OAE      DOUBLE       n     1.504  0.0123     1.504  0.0123
-2G5         PBB           N      SINGLE       n     1.635  0.0169     1.635  0.0169
-2G5         CAL         CAN      SINGLE       y     1.384  0.0100     1.384  0.0100
-2G5         CAN         CAY      DOUBLE       y     1.389  0.0100     1.389  0.0100
-2G5         CAY         CAX      SINGLE       n     1.502  0.0100     1.502  0.0100
-2G5         CBA         CAQ      SINGLE       n     1.525  0.0102     1.525  0.0102
-2G5         CAQ         OAT      SINGLE       n     1.447  0.0162     1.447  0.0162
-2G5         CAX         NAR      SINGLE       n     1.337  0.0101     1.337  0.0101
-2G5         NAR         CBA      SINGLE       n     1.456  0.0100     1.456  0.0100
-2G5         OAT         PBB      SINGLE       n     1.603  0.0146     1.603  0.0146
-2G5         PBB         OAI      SINGLE       n     1.504  0.0123     1.504  0.0123
-2G5         CAX         OAD      DOUBLE       n     1.230  0.0114     1.230  0.0114
-2G5         CBA         CAW      SINGLE       n     1.539  0.0100     1.539  0.0100
-2G5         CAW         OAC      DOUBLE       n     1.247  0.0187     1.247  0.0187
-2G5         CAW         OAH      SINGLE       n     1.247  0.0187     1.247  0.0187
-2G5         CAM          H1      SINGLE       n     1.082  0.0130     0.941  0.0168
-2G5         CAK          H2      SINGLE       n     1.082  0.0130     0.943  0.0180
-2G5         CAJ          H3      SINGLE       n     1.082  0.0130     0.944  0.0161
-2G5         CAL          H4      SINGLE       n     1.082  0.0130     0.943  0.0180
-2G5         CAN          H5      SINGLE       n     1.082  0.0130     0.941  0.0168
-2G5         NAR          H6      SINGLE       n     1.016  0.0100     0.872  0.0200
-2G5         CBA          H7      SINGLE       n     1.089  0.0100     0.991  0.0123
-2G5         CAQ          H9      SINGLE       n     1.089  0.0100     0.982  0.0184
-2G5         CAQ         H10      SINGLE       n     1.089  0.0100     0.982  0.0184
-2G5           N         H12      SINGLE       n     1.036  0.0160     0.863  0.0200
-2G5          CA         H13      SINGLE       n     1.089  0.0100     0.991  0.0200
-2G5          CB         H15      SINGLE       n     1.089  0.0100     0.980  0.0178
-2G5          CB         H16      SINGLE       n     1.089  0.0100     0.980  0.0178
-2G5          CG         H17      SINGLE       n     1.089  0.0100     0.981  0.0185
-2G5          CG         H18      SINGLE       n     1.089  0.0100     0.981  0.0185
+2G5 C   OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+2G5 CD  OE1 DOUBLE n 1.247 0.0187 1.247 0.0187
+2G5 CD  OE2 SINGLE n 1.247 0.0187 1.247 0.0187
+2G5 CG  CD  SINGLE n 1.519 0.0109 1.519 0.0109
+2G5 C   O   SINGLE n 1.247 0.0187 1.247 0.0187
+2G5 CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+2G5 CB  CG  SINGLE n 1.518 0.0153 1.518 0.0153
+2G5 CA  CB  SINGLE n 1.533 0.0100 1.533 0.0100
+2G5 N   CA  SINGLE n 1.466 0.0110 1.466 0.0110
+2G5 CAK CAJ SINGLE y 1.376 0.0124 1.376 0.0124
+2G5 CAM CAK DOUBLE y 1.384 0.0100 1.384 0.0100
+2G5 CAJ CAL DOUBLE y 1.376 0.0124 1.376 0.0124
+2G5 CAM CAY SINGLE y 1.389 0.0100 1.389 0.0100
+2G5 PBB OAE DOUBLE n 1.504 0.0123 1.504 0.0123
+2G5 PBB N   SINGLE n 1.635 0.0169 1.635 0.0169
+2G5 CAL CAN SINGLE y 1.384 0.0100 1.384 0.0100
+2G5 CAN CAY DOUBLE y 1.389 0.0100 1.389 0.0100
+2G5 CAY CAX SINGLE n 1.502 0.0100 1.502 0.0100
+2G5 CBA CAQ SINGLE n 1.525 0.0102 1.525 0.0102
+2G5 CAQ OAT SINGLE n 1.447 0.0162 1.447 0.0162
+2G5 CAX NAR SINGLE n 1.337 0.0101 1.337 0.0101
+2G5 NAR CBA SINGLE n 1.456 0.0100 1.456 0.0100
+2G5 OAT PBB SINGLE n 1.603 0.0146 1.603 0.0146
+2G5 PBB OAI SINGLE n 1.504 0.0123 1.504 0.0123
+2G5 CAX OAD DOUBLE n 1.230 0.0114 1.230 0.0114
+2G5 CBA CAW SINGLE n 1.539 0.0100 1.539 0.0100
+2G5 CAW OAC DOUBLE n 1.247 0.0187 1.247 0.0187
+2G5 CAW OAH SINGLE n 1.247 0.0187 1.247 0.0187
+2G5 CAM H1  SINGLE n 1.082 0.0130 0.941 0.0168
+2G5 CAK H2  SINGLE n 1.082 0.0130 0.943 0.0180
+2G5 CAJ H3  SINGLE n 1.082 0.0130 0.944 0.0161
+2G5 CAL H4  SINGLE n 1.082 0.0130 0.943 0.0180
+2G5 CAN H5  SINGLE n 1.082 0.0130 0.941 0.0168
+2G5 NAR H6  SINGLE n 1.016 0.0100 0.872 0.0200
+2G5 CBA H7  SINGLE n 1.089 0.0100 0.991 0.0123
+2G5 CAQ H9  SINGLE n 1.089 0.0100 0.982 0.0184
+2G5 CAQ H10 SINGLE n 1.089 0.0100 0.982 0.0184
+2G5 N   H12 SINGLE n 1.036 0.0160 0.863 0.0200
+2G5 CA  H13 SINGLE n 1.089 0.0100 0.991 0.0200
+2G5 CB  H15 SINGLE n 1.089 0.0100 0.980 0.0178
+2G5 CB  H16 SINGLE n 1.089 0.0100 0.980 0.0178
+2G5 CG  H17 SINGLE n 1.089 0.0100 0.981 0.0185
+2G5 CG  H18 SINGLE n 1.089 0.0100 0.981 0.0185
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -124,79 +124,80 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-2G5         CAK         CAM         CAY     120.300    1.50
-2G5         CAK         CAM          H1     119.776    1.50
-2G5         CAY         CAM          H1     119.925    1.50
-2G5         CAJ         CAK         CAM     120.226    1.50
-2G5         CAJ         CAK          H2     119.933    1.50
-2G5         CAM         CAK          H2     119.842    1.50
-2G5         CAK         CAJ         CAL     119.943    1.50
-2G5         CAK         CAJ          H3     120.028    1.50
-2G5         CAL         CAJ          H3     120.028    1.50
-2G5         CAJ         CAL         CAN     120.226    1.50
-2G5         CAJ         CAL          H4     119.933    1.50
-2G5         CAN         CAL          H4     119.842    1.50
-2G5         CAL         CAN         CAY     120.300    1.50
-2G5         CAL         CAN          H5     119.776    1.50
-2G5         CAY         CAN          H5     119.925    1.50
-2G5         CAM         CAY         CAN     119.007    1.50
-2G5         CAM         CAY         CAX     120.497    2.80
-2G5         CAN         CAY         CAX     120.497    2.80
-2G5         CAY         CAX         NAR     116.740    1.50
-2G5         CAY         CAX         OAD     120.865    1.50
-2G5         NAR         CAX         OAD     122.394    1.50
-2G5         CAX         NAR         CBA     121.852    1.50
-2G5         CAX         NAR          H6     119.360    1.94
-2G5         CBA         NAR          H6     118.788    1.91
-2G5         CAQ         CBA         NAR     111.090    1.58
-2G5         CAQ         CBA         CAW     110.594    1.50
-2G5         CAQ         CBA          H7     107.990    1.50
-2G5         NAR         CBA         CAW     110.522    1.86
-2G5         NAR         CBA          H7     108.209    1.50
-2G5         CAW         CBA          H7     107.898    1.50
-2G5         CBA         CAW         OAC     117.118    2.07
-2G5         CBA         CAW         OAH     117.118    2.07
-2G5         OAC         CAW         OAH     125.765    1.50
-2G5         CBA         CAQ         OAT     110.601    3.00
-2G5         CBA         CAQ          H9     109.674    1.50
-2G5         CBA         CAQ         H10     109.674    1.50
-2G5         OAT         CAQ          H9     109.739    1.50
-2G5         OAT         CAQ         H10     109.739    1.50
-2G5          H9         CAQ         H10     108.157    1.50
-2G5         CAQ         OAT         PBB     120.761    1.50
-2G5         OAE         PBB           N     113.406    3.00
-2G5         OAE         PBB         OAT     107.010    3.00
-2G5         OAE         PBB         OAI     118.893    1.50
-2G5           N         PBB         OAT     104.521    3.00
-2G5           N         PBB         OAI     113.406    3.00
-2G5         OAT         PBB         OAI     107.010    3.00
-2G5          CA           N         PBB     120.863    2.69
-2G5          CA           N         H12     111.283    3.00
-2G5         PBB           N         H12     115.833    3.00
-2G5           C          CA          CB     110.328    1.98
-2G5           C          CA           N     113.481    2.07
-2G5           C          CA         H13     108.169    1.50
-2G5          CB          CA           N     109.731    2.61
-2G5          CB          CA         H13     108.223    1.50
-2G5           N          CA         H13     108.621    1.50
-2G5         OXT           C           O     125.548    1.50
-2G5         OXT           C          CA     117.226    1.56
-2G5           O           C          CA     117.226    1.56
-2G5          CG          CB          CA     113.079    1.50
-2G5          CG          CB         H15     108.890    1.50
-2G5          CG          CB         H16     108.890    1.50
-2G5          CA          CB         H15     108.562    1.50
-2G5          CA          CB         H16     108.562    1.50
-2G5         H15          CB         H16     107.844    1.50
-2G5          CD          CG          CB     114.629    2.24
-2G5          CD          CG         H17     108.404    1.50
-2G5          CD          CG         H18     108.404    1.50
-2G5          CB          CG         H17     108.906    1.50
-2G5          CB          CG         H18     108.906    1.50
-2G5         H17          CG         H18     107.521    1.50
-2G5         OE1          CD         OE2     123.571    1.50
-2G5         OE1          CD          CG     118.214    1.64
-2G5         OE2          CD          CG     118.214    1.64
+2G5 CAK CAM CAY 120.300 1.50
+2G5 CAK CAM H1  119.776 1.50
+2G5 CAY CAM H1  119.925 1.50
+2G5 CAJ CAK CAM 120.226 1.50
+2G5 CAJ CAK H2  119.933 1.50
+2G5 CAM CAK H2  119.842 1.50
+2G5 CAK CAJ CAL 119.943 1.50
+2G5 CAK CAJ H3  120.028 1.50
+2G5 CAL CAJ H3  120.028 1.50
+2G5 CAJ CAL CAN 120.226 1.50
+2G5 CAJ CAL H4  119.933 1.50
+2G5 CAN CAL H4  119.842 1.50
+2G5 CAL CAN CAY 120.300 1.50
+2G5 CAL CAN H5  119.776 1.50
+2G5 CAY CAN H5  119.925 1.50
+2G5 CAM CAY CAN 119.007 1.50
+2G5 CAM CAY CAX 120.497 2.80
+2G5 CAN CAY CAX 120.497 2.80
+2G5 CAY CAX NAR 116.740 1.50
+2G5 CAY CAX OAD 120.865 1.50
+2G5 NAR CAX OAD 122.394 1.50
+2G5 CAX NAR CBA 121.852 1.50
+2G5 CAX NAR H6  119.360 1.94
+2G5 CBA NAR H6  118.788 1.91
+2G5 CAQ CBA NAR 111.090 1.58
+2G5 CAQ CBA CAW 110.594 1.50
+2G5 CAQ CBA H7  107.990 1.50
+2G5 NAR CBA CAW 110.522 1.86
+2G5 NAR CBA H7  108.209 1.50
+2G5 CAW CBA H7  107.898 1.50
+2G5 CBA CAW OAC 117.118 2.07
+2G5 CBA CAW OAH 117.118 2.07
+2G5 OAC CAW OAH 125.765 1.50
+2G5 CBA CAQ OAT 110.601 3.00
+2G5 CBA CAQ H9  109.674 1.50
+2G5 CBA CAQ H10 109.674 1.50
+2G5 OAT CAQ H9  109.739 1.50
+2G5 OAT CAQ H10 109.739 1.50
+2G5 H9  CAQ H10 108.157 1.50
+2G5 CAQ OAT PBB 120.761 1.50
+2G5 OAE PBB N   113.406 3.00
+2G5 OAE PBB OAT 107.010 3.00
+2G5 OAE PBB OAI 118.893 1.50
+2G5 N   PBB OAT 104.521 3.00
+2G5 N   PBB OAI 113.406 3.00
+2G5 OAT PBB OAI 107.010 3.00
+2G5 CA  N   PBB 120.863 2.69
+2G5 CA  N   H12 111.283 3.00
+2G5 PBB N   H12 115.833 3.00
+2G5 C   CA  CB  110.328 1.98
+2G5 C   CA  N   113.481 2.07
+2G5 C   CA  H13 108.169 1.50
+2G5 CB  CA  N   109.731 2.61
+2G5 CB  CA  H13 108.223 1.50
+2G5 N   CA  H13 108.621 1.50
+2G5 OXT C   O   125.548 1.50
+2G5 OXT C   CA  117.226 1.56
+2G5 O   C   CA  117.226 1.56
+2G5 CG  CB  CA  113.079 1.50
+2G5 CG  CB  H15 108.890 1.50
+2G5 CG  CB  H16 108.890 1.50
+2G5 CA  CB  H15 108.562 1.50
+2G5 CA  CB  H16 108.562 1.50
+2G5 H15 CB  H16 107.844 1.50
+2G5 CD  CG  CB  114.629 2.24
+2G5 CD  CG  H17 108.404 1.50
+2G5 CD  CG  H18 108.404 1.50
+2G5 CB  CG  H17 108.906 1.50
+2G5 CB  CG  H18 108.906 1.50
+2G5 H17 CG  H18 107.521 1.50
+2G5 OE1 CD  OE2 123.571 1.50
+2G5 OE1 CD  CG  118.214 1.64
+2G5 OE2 CD  CG  118.214 1.64
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -207,25 +208,26 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-2G5       const_sp2_sp2_1         CAJ         CAK         CAM         CAY       0.000     5.0     2
-2G5              const_22         CAK         CAM         CAY         CAX     180.000    10.0     2
-2G5            sp3_sp3_40         CBA         CAQ         OAT         PBB     180.000    10.0     3
-2G5            sp3_sp3_43         CAQ         OAT         PBB         OAE     180.000    10.0     3
-2G5            sp3_sp3_30          CA           N         PBB         OAE     -60.000    10.0     3
-2G5            sp3_sp3_19           C          CA           N         PBB     180.000    10.0     3
-2G5             sp2_sp3_7         OXT           C          CA          CB       0.000    10.0     6
-2G5            sp3_sp3_10           C          CA          CB          CG     180.000    10.0     3
-2G5       const_sp2_sp2_5         CAL         CAJ         CAK         CAM       0.000     5.0     2
-2G5             sp3_sp3_1          CA          CB          CG          CD     180.000    10.0     3
-2G5             sp2_sp3_2         OE1          CD          CG          CB     120.000    10.0     6
-2G5       const_sp2_sp2_9         CAK         CAJ         CAL         CAN       0.000     5.0     2
-2G5              const_13         CAJ         CAL         CAN         CAY       0.000    10.0     2
-2G5              const_18         CAL         CAN         CAY         CAX     180.000    10.0     2
-2G5             sp2_sp2_1         NAR         CAX         CAY         CAM     180.000     5.0     2
-2G5             sp2_sp2_7         OAD         CAX         NAR         CBA       0.000     5.0     2
-2G5            sp2_sp3_13         CAX         NAR         CBA         CAQ       0.000    10.0     6
-2G5            sp2_sp3_19         OAC         CAW         CBA         CAQ       0.000    10.0     6
-2G5            sp3_sp3_31         OAT         CAQ         CBA         NAR     180.000    10.0     3
+2G5 const_sp2_sp2_1 CAJ CAK CAM CAY 0.000   5.0  2
+2G5 const_22        CAK CAM CAY CAX 180.000 10.0 2
+2G5 sp3_sp3_40      CBA CAQ OAT PBB 180.000 10.0 3
+2G5 sp3_sp3_43      CAQ OAT PBB OAE 180.000 10.0 3
+2G5 sp3_sp3_30      CA  N   PBB OAE -60.000 10.0 3
+2G5 sp3_sp3_19      C   CA  N   PBB 180.000 10.0 3
+2G5 sp2_sp3_7       OXT C   CA  CB  0.000   10.0 6
+2G5 sp3_sp3_10      C   CA  CB  CG  180.000 10.0 3
+2G5 const_sp2_sp2_5 CAL CAJ CAK CAM 0.000   5.0  2
+2G5 sp3_sp3_1       CA  CB  CG  CD  180.000 10.0 3
+2G5 sp2_sp3_2       OE1 CD  CG  CB  120.000 10.0 6
+2G5 const_sp2_sp2_9 CAK CAJ CAL CAN 0.000   5.0  2
+2G5 const_13        CAJ CAL CAN CAY 0.000   10.0 2
+2G5 const_18        CAL CAN CAY CAX 180.000 10.0 2
+2G5 sp2_sp2_1       NAR CAX CAY CAM 180.000 5.0  2
+2G5 sp2_sp2_7       OAD CAX NAR CBA 0.000   5.0  2
+2G5 sp2_sp3_13      CAX NAR CBA CAQ 0.000   10.0 6
+2G5 sp2_sp3_19      OAC CAW CBA CAQ 0.000   10.0 6
+2G5 sp3_sp3_31      OAT CAQ CBA NAR 180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -234,66 +236,82 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-2G5    chir_1    CBA    NAR    CAW    CAQ    positive
-2G5    chir_2    PBB    OAT    OAI    OAE    both
-2G5    chir_3    CA    N    C    CB    positive
-2G5    chir_4    N    PBB    CA    H12    both
+2G5 chir_1 CBA NAR CAW CAQ positive
+2G5 chir_2 PBB OAT OAI OAE both
+2G5 chir_3 CA  N   C   CB  positive
+2G5 chir_4 N   PBB CA  H12 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-2G5    plan-1         CAJ   0.020
-2G5    plan-1         CAK   0.020
-2G5    plan-1         CAL   0.020
-2G5    plan-1         CAM   0.020
-2G5    plan-1         CAN   0.020
-2G5    plan-1         CAX   0.020
-2G5    plan-1         CAY   0.020
-2G5    plan-1          H1   0.020
-2G5    plan-1          H2   0.020
-2G5    plan-1          H3   0.020
-2G5    plan-1          H4   0.020
-2G5    plan-1          H5   0.020
-2G5    plan-2         CAX   0.020
-2G5    plan-2         CAY   0.020
-2G5    plan-2         NAR   0.020
-2G5    plan-2         OAD   0.020
-2G5    plan-3         CAX   0.020
-2G5    plan-3         CBA   0.020
-2G5    plan-3          H6   0.020
-2G5    plan-3         NAR   0.020
-2G5    plan-4         CAW   0.020
-2G5    plan-4         CBA   0.020
-2G5    plan-4         OAC   0.020
-2G5    plan-4         OAH   0.020
-2G5    plan-5           C   0.020
-2G5    plan-5          CA   0.020
-2G5    plan-5           O   0.020
-2G5    plan-5         OXT   0.020
-2G5    plan-6          CD   0.020
-2G5    plan-6          CG   0.020
-2G5    plan-6         OE1   0.020
-2G5    plan-6         OE2   0.020
+2G5 plan-1 CAJ 0.020
+2G5 plan-1 CAK 0.020
+2G5 plan-1 CAL 0.020
+2G5 plan-1 CAM 0.020
+2G5 plan-1 CAN 0.020
+2G5 plan-1 CAX 0.020
+2G5 plan-1 CAY 0.020
+2G5 plan-1 H1  0.020
+2G5 plan-1 H2  0.020
+2G5 plan-1 H3  0.020
+2G5 plan-1 H4  0.020
+2G5 plan-1 H5  0.020
+2G5 plan-2 CAX 0.020
+2G5 plan-2 CAY 0.020
+2G5 plan-2 NAR 0.020
+2G5 plan-2 OAD 0.020
+2G5 plan-3 CAX 0.020
+2G5 plan-3 CBA 0.020
+2G5 plan-3 H6  0.020
+2G5 plan-3 NAR 0.020
+2G5 plan-4 CAW 0.020
+2G5 plan-4 CBA 0.020
+2G5 plan-4 OAC 0.020
+2G5 plan-4 OAH 0.020
+2G5 plan-5 C   0.020
+2G5 plan-5 CA  0.020
+2G5 plan-5 O   0.020
+2G5 plan-5 OXT 0.020
+2G5 plan-6 CD  0.020
+2G5 plan-6 CG  0.020
+2G5 plan-6 OE1 0.020
+2G5 plan-6 OE2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-2G5           SMILES              ACDLabs 12.01                                                                                                                                    O=C(NC(C(=O)O)COP(=O)(O)NC(C(=O)O)CCC(=O)O)c1ccccc1
-2G5            InChI                InChI  1.03 InChI=1S/C15H19N2O10P/c18-12(19)7-6-10(14(21)22)17-28(25,26)27-8-11(15(23)24)16-13(20)9-4-2-1-3-5-9/h1-5,10-11H,6-8H2,(H,16,20)(H,18,19)(H,21,22)(H,23,24)(H2,17,25,26)/t10-,11-/m0/s1
-2G5         InChIKey                InChI  1.03                                                                                                                                                            FMKMCQXFKJRGIQ-QWRGUYRKSA-N
-2G5 SMILES_CANONICAL               CACTVS 3.385                                                                                                                          OC(=O)CC[C@H](N[P](O)(=O)OC[C@H](NC(=O)c1ccccc1)C(O)=O)C(O)=O
-2G5           SMILES               CACTVS 3.385                                                                                                                            OC(=O)CC[CH](N[P](O)(=O)OC[CH](NC(=O)c1ccccc1)C(O)=O)C(O)=O
-2G5 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                                                                                                        c1ccc(cc1)C(=O)N[C@@H](COP(=O)(N[C@@H](CCC(=O)O)C(=O)O)O)C(=O)O
-2G5           SMILES "OpenEye OEToolkits" 1.9.2                                                                                                                                  c1ccc(cc1)C(=O)NC(COP(=O)(NC(CCC(=O)O)C(=O)O)O)C(=O)O
+2G5 SMILES           ACDLabs              12.01 O=C(NC(C(=O)O)COP(=O)(O)NC(C(=O)O)CCC(=O)O)c1ccccc1
+2G5 InChI            InChI                1.03  InChI=1S/C15H19N2O10P/c18-12(19)7-6-10(14(21)22)17-28(25,26)27-8-11(15(23)24)16-13(20)9-4-2-1-3-5-9/h1-5,10-11H,6-8H2,(H,16,20)(H,18,19)(H,21,22)(H,23,24)(H2,17,25,26)/t10-,11-/m0/s1
+2G5 InChIKey         InChI                1.03  FMKMCQXFKJRGIQ-QWRGUYRKSA-N
+2G5 SMILES_CANONICAL CACTVS               3.385 OC(=O)CC[C@H](N[P](O)(=O)OC[C@H](NC(=O)c1ccccc1)C(O)=O)C(O)=O
+2G5 SMILES           CACTVS               3.385 OC(=O)CC[CH](N[P](O)(=O)OC[CH](NC(=O)c1ccccc1)C(O)=O)C(O)=O
+2G5 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 c1ccc(cc1)C(=O)N[C@@H](COP(=O)(N[C@@H](CCC(=O)O)C(=O)O)O)C(=O)O
+2G5 SMILES           "OpenEye OEToolkits" 1.9.2 c1ccc(cc1)C(=O)NC(COP(=O)(NC(CCC(=O)O)C(=O)O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-2G5 acedrg               243         "dictionary generator"                  
-2G5 acedrg_database      11          "data source"                           
-2G5 rdkit                2017.03.2   "Chemoinformatics tool"
-2G5 refmac5              5.8.0238    "optimization tool"                     
+2G5 acedrg          243       "dictionary generator"
+2G5 acedrg_database 11        "data source"
+2G5 rdkit           2017.03.2 "Chemoinformatics tool"
+2G5 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+2G5 M-peptide OAC O
+2G5 M-peptide CAW C
+2G5 M-peptide CBA CA
+2G5 M-peptide NAR N
+2G5 M-peptide CAX CN
+2G5 M-peptide OAH OXT
+2G5 M-peptide H6  H

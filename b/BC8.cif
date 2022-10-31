@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-BC8     BC8      "beta-citryl-L-glutamic acid"     NON-POLYMER     33     22     .     
-#
+BC8 BC8 "beta-citryl-L-glutamic acid" NON-POLYMER 33 22 .
+
 data_comp_BC8
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,39 +19,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-BC8     OAA     O       OC      -1      31.935      21.693      46.666      
-BC8     CAB     C       C       0       31.196      21.801      45.669      
-BC8     OAH     O       O       0       30.858      22.894      45.170      
-BC8     CAC     C       CH2     0       30.675      20.526      45.023      
-BC8     CAD     C       CT      0       31.691      19.728      44.187      
-BC8     CAE     C       CH2     0       30.989      18.479      43.632      
-BC8     CAF     C       C       0       30.621      17.408      44.648      
-BC8     OAL     O       OC      -1      31.546      16.831      45.252      
-BC8     OAV     O       O       0       29.412      17.157      44.829      
-BC8     OAI     O       OH1     0       32.758      19.316      45.038      
-BC8     CAJ     C       C       0       32.258      20.525      42.989      
-BC8     OAK     O       O       0       31.680      21.532      42.584      
-BC8     N       N       NH1     0       33.368      20.045      42.426      
-BC8     CA      C       CH1     0       34.013      20.650      41.268      
-BC8     C       C       C       0       33.149      20.488      40.002      
-BC8     O       O       O       0       33.157      21.429      39.183      
-BC8     OXT     O       OC      -1      32.501      19.428      39.879      
-BC8     CB      C       CH2     0       35.440      20.132      41.038      
-BC8     CG      C       CH2     0       35.522      18.674      40.604      
-BC8     CD      C       C       0       36.913      18.070      40.700      
-BC8     OE1     O       O       0       37.798      18.504      39.935      
-BC8     OE2     O       OC      -1      37.108      17.167      41.537      
-BC8     H2      H       H       0       29.916      20.761      44.451      
-BC8     H3      H       H       0       30.334      19.951      45.737      
-BC8     H4      H       H       0       31.570      18.066      42.960      
-BC8     H5      H       H       0       30.170      18.761      43.174      
-BC8     H7      H       H       0       33.311      19.946      45.173      
-BC8     H8      H       H       0       33.743      19.333      42.769      
-BC8     H9      H       H       0       34.087      21.622      41.450      
-BC8     H11     H       H       0       35.948      20.241      41.870      
-BC8     H12     H       H       0       35.866      20.689      40.354      
-BC8     H13     H       H       0       35.221      18.599      39.673      
-BC8     H14     H       H       0       34.914      18.139      41.155      
+BC8 OAA O OC  -1 31.935 21.693 46.666
+BC8 CAB C C   0  31.196 21.801 45.669
+BC8 OAH O O   0  30.858 22.894 45.170
+BC8 CAC C CH2 0  30.675 20.526 45.023
+BC8 CAD C CT  0  31.691 19.728 44.187
+BC8 CAE C CH2 0  30.989 18.479 43.632
+BC8 CAF C C   0  30.621 17.408 44.648
+BC8 OAL O OC  -1 31.546 16.831 45.252
+BC8 OAV O O   0  29.412 17.157 44.829
+BC8 OAI O OH1 0  32.758 19.316 45.038
+BC8 CAJ C C   0  32.258 20.525 42.989
+BC8 OAK O O   0  31.680 21.532 42.584
+BC8 N   N NH1 0  33.368 20.045 42.426
+BC8 CA  C CH1 0  34.013 20.650 41.268
+BC8 C   C C   0  33.149 20.488 40.002
+BC8 O   O O   0  33.157 21.429 39.183
+BC8 OXT O OC  -1 32.501 19.428 39.879
+BC8 CB  C CH2 0  35.440 20.132 41.038
+BC8 CG  C CH2 0  35.522 18.674 40.604
+BC8 CD  C C   0  36.913 18.070 40.700
+BC8 OE1 O O   0  37.798 18.504 39.935
+BC8 OE2 O OC  -1 37.108 17.167 41.537
+BC8 H2  H H   0  29.916 20.761 44.451
+BC8 H3  H H   0  30.334 19.951 45.737
+BC8 H4  H H   0  31.570 18.066 42.960
+BC8 H5  H H   0  30.170 18.761 43.174
+BC8 H7  H H   0  33.311 19.946 45.173
+BC8 H8  H H   0  33.743 19.333 42.769
+BC8 H9  H H   0  34.087 21.622 41.450
+BC8 H11 H H   0  35.948 20.241 41.870
+BC8 H12 H H   0  35.866 20.689 40.354
+BC8 H13 H H   0  35.221 18.599 39.673
+BC8 H14 H H   0  34.914 18.139 41.155
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,38 +63,39 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-BC8           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BC8          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BC8          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
-BC8          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
-BC8           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-BC8          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-BC8          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-BC8          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-BC8           N          CA      SINGLE       n     1.453  0.0100     1.453  0.0100
-BC8         CAJ           N      SINGLE       n     1.327  0.0100     1.327  0.0100
-BC8         CAJ         OAK      DOUBLE       n     1.226  0.0136     1.226  0.0136
-BC8         CAD         CAJ      SINGLE       n     1.540  0.0100     1.540  0.0100
-BC8         CAD         CAE      SINGLE       n     1.534  0.0100     1.534  0.0100
-BC8         CAE         CAF      SINGLE       n     1.519  0.0109     1.519  0.0109
-BC8         CAF         OAV      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BC8         CAD         OAI      SINGLE       n     1.421  0.0140     1.421  0.0140
-BC8         CAC         CAD      SINGLE       n     1.534  0.0100     1.534  0.0100
-BC8         CAF         OAL      SINGLE       n     1.247  0.0187     1.247  0.0187
-BC8         CAB         OAH      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BC8         CAB         CAC      SINGLE       n     1.519  0.0109     1.519  0.0109
-BC8         OAA         CAB      SINGLE       n     1.247  0.0187     1.247  0.0187
-BC8         CAC          H2      SINGLE       n     1.089  0.0100     0.979  0.0159
-BC8         CAC          H3      SINGLE       n     1.089  0.0100     0.979  0.0159
-BC8         CAE          H4      SINGLE       n     1.089  0.0100     0.979  0.0159
-BC8         CAE          H5      SINGLE       n     1.089  0.0100     0.979  0.0159
-BC8         OAI          H7      SINGLE       n     0.970  0.0120     0.848  0.0200
-BC8           N          H8      SINGLE       n     1.016  0.0100     0.873  0.0200
-BC8          CA          H9      SINGLE       n     1.089  0.0100     0.991  0.0200
-BC8          CB         H11      SINGLE       n     1.089  0.0100     0.980  0.0178
-BC8          CB         H12      SINGLE       n     1.089  0.0100     0.980  0.0178
-BC8          CG         H13      SINGLE       n     1.089  0.0100     0.981  0.0185
-BC8          CG         H14      SINGLE       n     1.089  0.0100     0.981  0.0185
+BC8 C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
+BC8 CD  OE1 DOUBLE n 1.247 0.0187 1.247 0.0187
+BC8 CG  CD  SINGLE n 1.519 0.0109 1.519 0.0109
+BC8 CD  OE2 SINGLE n 1.247 0.0187 1.247 0.0187
+BC8 C   OXT SINGLE n 1.247 0.0187 1.247 0.0187
+BC8 CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+BC8 CB  CG  SINGLE n 1.518 0.0153 1.518 0.0153
+BC8 CA  CB  SINGLE n 1.533 0.0100 1.533 0.0100
+BC8 N   CA  SINGLE n 1.453 0.0100 1.453 0.0100
+BC8 CAJ N   SINGLE n 1.327 0.0100 1.327 0.0100
+BC8 CAJ OAK DOUBLE n 1.226 0.0136 1.226 0.0136
+BC8 CAD CAJ SINGLE n 1.540 0.0100 1.540 0.0100
+BC8 CAD CAE SINGLE n 1.534 0.0100 1.534 0.0100
+BC8 CAE CAF SINGLE n 1.519 0.0109 1.519 0.0109
+BC8 CAF OAV DOUBLE n 1.247 0.0187 1.247 0.0187
+BC8 CAD OAI SINGLE n 1.421 0.0140 1.421 0.0140
+BC8 CAC CAD SINGLE n 1.534 0.0100 1.534 0.0100
+BC8 CAF OAL SINGLE n 1.247 0.0187 1.247 0.0187
+BC8 CAB OAH DOUBLE n 1.247 0.0187 1.247 0.0187
+BC8 CAB CAC SINGLE n 1.519 0.0109 1.519 0.0109
+BC8 OAA CAB SINGLE n 1.247 0.0187 1.247 0.0187
+BC8 CAC H2  SINGLE n 1.089 0.0100 0.979 0.0159
+BC8 CAC H3  SINGLE n 1.089 0.0100 0.979 0.0159
+BC8 CAE H4  SINGLE n 1.089 0.0100 0.979 0.0159
+BC8 CAE H5  SINGLE n 1.089 0.0100 0.979 0.0159
+BC8 OAI H7  SINGLE n 0.970 0.0120 0.848 0.0200
+BC8 N   H8  SINGLE n 1.016 0.0100 0.873 0.0200
+BC8 CA  H9  SINGLE n 1.089 0.0100 0.991 0.0200
+BC8 CB  H11 SINGLE n 1.089 0.0100 0.980 0.0178
+BC8 CB  H12 SINGLE n 1.089 0.0100 0.980 0.0178
+BC8 CG  H13 SINGLE n 1.089 0.0100 0.981 0.0185
+BC8 CG  H14 SINGLE n 1.089 0.0100 0.981 0.0185
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -103,61 +103,62 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-BC8         OAH         CAB         CAC     118.090    1.84
-BC8         OAH         CAB         OAA     123.820    1.50
-BC8         CAC         CAB         OAA     118.090    1.84
-BC8         CAD         CAC         CAB     115.364    1.57
-BC8         CAD         CAC          H2     108.842    1.50
-BC8         CAD         CAC          H3     108.842    1.50
-BC8         CAB         CAC          H2     108.477    1.50
-BC8         CAB         CAC          H3     108.477    1.50
-BC8          H2         CAC          H3     107.711    1.51
-BC8         CAJ         CAD         CAE     111.511    2.91
-BC8         CAJ         CAD         OAI     109.044    2.29
-BC8         CAJ         CAD         CAC     111.511    2.91
-BC8         CAE         CAD         OAI     109.352    1.86
-BC8         CAE         CAD         CAC     108.961    1.71
-BC8         OAI         CAD         CAC     109.352    1.86
-BC8         CAD         CAE         CAF     115.364    1.57
-BC8         CAD         CAE          H4     108.842    1.50
-BC8         CAD         CAE          H5     108.842    1.50
-BC8         CAF         CAE          H4     108.477    1.50
-BC8         CAF         CAE          H5     108.477    1.50
-BC8          H4         CAE          H5     107.711    1.51
-BC8         CAE         CAF         OAV     118.090    1.84
-BC8         CAE         CAF         OAL     118.090    1.84
-BC8         OAV         CAF         OAL     123.820    1.50
-BC8         CAD         OAI          H7     109.172    2.84
-BC8           N         CAJ         OAK     123.263    1.50
-BC8           N         CAJ         CAD     116.269    1.50
-BC8         OAK         CAJ         CAD     120.468    1.50
-BC8          CA           N         CAJ     122.394    1.76
-BC8          CA           N          H8     118.321    2.15
-BC8         CAJ           N          H8     119.284    1.94
-BC8           C          CA          CB     111.638    2.31
-BC8           C          CA           N     110.976    1.55
-BC8           C          CA          H9     108.327    1.50
-BC8          CB          CA           N     113.029    1.50
-BC8          CB          CA          H9     108.155    1.50
-BC8           N          CA          H9     108.343    1.63
-BC8           O           C         OXT     125.502    1.50
-BC8           O           C          CA     117.249    1.61
-BC8         OXT           C          CA     117.249    1.61
-BC8          CG          CB          CA     112.938    1.50
-BC8          CG          CB         H11     108.890    1.50
-BC8          CG          CB         H12     108.890    1.50
-BC8          CA          CB         H11     108.606    1.50
-BC8          CA          CB         H12     108.606    1.50
-BC8         H11          CB         H12     107.844    1.50
-BC8          CD          CG          CB     114.629    2.24
-BC8          CD          CG         H13     108.404    1.50
-BC8          CD          CG         H14     108.404    1.50
-BC8          CB          CG         H13     108.906    1.50
-BC8          CB          CG         H14     108.906    1.50
-BC8         H13          CG         H14     107.521    1.50
-BC8         OE1          CD          CG     118.214    1.64
-BC8         OE1          CD         OE2     123.571    1.50
-BC8          CG          CD         OE2     118.214    1.64
+BC8 OAH CAB CAC 118.090 1.84
+BC8 OAH CAB OAA 123.820 1.50
+BC8 CAC CAB OAA 118.090 1.84
+BC8 CAD CAC CAB 115.364 1.57
+BC8 CAD CAC H2  108.842 1.50
+BC8 CAD CAC H3  108.842 1.50
+BC8 CAB CAC H2  108.477 1.50
+BC8 CAB CAC H3  108.477 1.50
+BC8 H2  CAC H3  107.711 1.51
+BC8 CAJ CAD CAE 111.511 2.91
+BC8 CAJ CAD OAI 109.044 2.29
+BC8 CAJ CAD CAC 111.511 2.91
+BC8 CAE CAD OAI 109.352 1.86
+BC8 CAE CAD CAC 108.961 1.71
+BC8 OAI CAD CAC 109.352 1.86
+BC8 CAD CAE CAF 115.364 1.57
+BC8 CAD CAE H4  108.842 1.50
+BC8 CAD CAE H5  108.842 1.50
+BC8 CAF CAE H4  108.477 1.50
+BC8 CAF CAE H5  108.477 1.50
+BC8 H4  CAE H5  107.711 1.51
+BC8 CAE CAF OAV 118.090 1.84
+BC8 CAE CAF OAL 118.090 1.84
+BC8 OAV CAF OAL 123.820 1.50
+BC8 CAD OAI H7  109.172 2.84
+BC8 N   CAJ OAK 123.263 1.50
+BC8 N   CAJ CAD 116.269 1.50
+BC8 OAK CAJ CAD 120.468 1.50
+BC8 CA  N   CAJ 122.394 1.76
+BC8 CA  N   H8  118.321 2.15
+BC8 CAJ N   H8  119.284 1.94
+BC8 C   CA  CB  111.638 2.31
+BC8 C   CA  N   110.976 1.55
+BC8 C   CA  H9  108.327 1.50
+BC8 CB  CA  N   113.029 1.50
+BC8 CB  CA  H9  108.155 1.50
+BC8 N   CA  H9  108.343 1.63
+BC8 O   C   OXT 125.502 1.50
+BC8 O   C   CA  117.249 1.61
+BC8 OXT C   CA  117.249 1.61
+BC8 CG  CB  CA  112.938 1.50
+BC8 CG  CB  H11 108.890 1.50
+BC8 CG  CB  H12 108.890 1.50
+BC8 CA  CB  H11 108.606 1.50
+BC8 CA  CB  H12 108.606 1.50
+BC8 H11 CB  H12 107.844 1.50
+BC8 CD  CG  CB  114.629 2.24
+BC8 CD  CG  H13 108.404 1.50
+BC8 CD  CG  H14 108.404 1.50
+BC8 CB  CG  H13 108.906 1.50
+BC8 CB  CG  H14 108.906 1.50
+BC8 H13 CG  H14 107.521 1.50
+BC8 OE1 CD  CG  118.214 1.64
+BC8 OE1 CD  OE2 123.571 1.50
+BC8 CG  CD  OE2 118.214 1.64
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -168,18 +169,19 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-BC8             sp2_sp2_3         OAK         CAJ           N          CA       0.000     5.0     2
-BC8            sp2_sp3_13         CAJ           N          CA           C       0.000    10.0     6
-BC8             sp2_sp3_7           O           C          CA          CB       0.000    10.0     6
-BC8            sp3_sp3_10           C          CA          CB          CG     180.000    10.0     3
-BC8             sp3_sp3_1          CA          CB          CG          CD     180.000    10.0     3
-BC8             sp2_sp3_2         OE1          CD          CG          CB     120.000    10.0     6
-BC8            sp2_sp3_32         OAH         CAB         CAC         CAD     120.000    10.0     6
-BC8            sp3_sp3_32         CAB         CAC         CAD         CAJ     -60.000    10.0     3
-BC8            sp2_sp3_20           N         CAJ         CAD         CAE     120.000    10.0     6
-BC8            sp3_sp3_19         CAJ         CAD         CAE         CAF     180.000    10.0     3
-BC8            sp3_sp3_29         CAJ         CAD         OAI          H7      60.000    10.0     3
-BC8            sp2_sp3_26         OAV         CAF         CAE         CAD     120.000    10.0     6
+BC8 sp2_sp2_3  OAK CAJ N   CA  0.000   5.0  2
+BC8 sp2_sp3_13 CAJ N   CA  C   0.000   10.0 6
+BC8 sp2_sp3_7  O   C   CA  CB  0.000   10.0 6
+BC8 sp3_sp3_10 C   CA  CB  CG  180.000 10.0 3
+BC8 sp3_sp3_1  CA  CB  CG  CD  180.000 10.0 3
+BC8 sp2_sp3_2  OE1 CD  CG  CB  120.000 10.0 6
+BC8 sp2_sp3_32 OAH CAB CAC CAD 120.000 10.0 6
+BC8 sp3_sp3_32 CAB CAC CAD CAJ -60.000 10.0 3
+BC8 sp2_sp3_20 N   CAJ CAD CAE 120.000 10.0 6
+BC8 sp3_sp3_19 CAJ CAD CAE CAF 180.000 10.0 3
+BC8 sp3_sp3_29 CAJ CAD OAI H7  60.000  10.0 3
+BC8 sp2_sp3_26 OAV CAF CAE CAD 120.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -188,56 +190,67 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-BC8    chir_1    CAD    OAI    CAJ    CAE    both
-BC8    chir_2    CA    N    C    CB    positive
+BC8 chir_1 CAD OAI CAJ CAE both
+BC8 chir_2 CA  N   C   CB  positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-BC8    plan-1         CAB   0.020
-BC8    plan-1         CAC   0.020
-BC8    plan-1         OAA   0.020
-BC8    plan-1         OAH   0.020
-BC8    plan-2         CAE   0.020
-BC8    plan-2         CAF   0.020
-BC8    plan-2         OAL   0.020
-BC8    plan-2         OAV   0.020
-BC8    plan-3         CAD   0.020
-BC8    plan-3         CAJ   0.020
-BC8    plan-3           N   0.020
-BC8    plan-3         OAK   0.020
-BC8    plan-4          CA   0.020
-BC8    plan-4         CAJ   0.020
-BC8    plan-4          H8   0.020
-BC8    plan-4           N   0.020
-BC8    plan-5           C   0.020
-BC8    plan-5          CA   0.020
-BC8    plan-5           O   0.020
-BC8    plan-5         OXT   0.020
-BC8    plan-6          CD   0.020
-BC8    plan-6          CG   0.020
-BC8    plan-6         OE1   0.020
-BC8    plan-6         OE2   0.020
+BC8 plan-1 CAB 0.020
+BC8 plan-1 CAC 0.020
+BC8 plan-1 OAA 0.020
+BC8 plan-1 OAH 0.020
+BC8 plan-2 CAE 0.020
+BC8 plan-2 CAF 0.020
+BC8 plan-2 OAL 0.020
+BC8 plan-2 OAV 0.020
+BC8 plan-3 CAD 0.020
+BC8 plan-3 CAJ 0.020
+BC8 plan-3 N   0.020
+BC8 plan-3 OAK 0.020
+BC8 plan-4 CA  0.020
+BC8 plan-4 CAJ 0.020
+BC8 plan-4 H8  0.020
+BC8 plan-4 N   0.020
+BC8 plan-5 C   0.020
+BC8 plan-5 CA  0.020
+BC8 plan-5 O   0.020
+BC8 plan-5 OXT 0.020
+BC8 plan-6 CD  0.020
+BC8 plan-6 CG  0.020
+BC8 plan-6 OE1 0.020
+BC8 plan-6 OE2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-BC8           SMILES              ACDLabs 12.01                                                                                                        OC(=O)CC(O)(CC(O)=O)C(=O)NC(C(=O)O)CCC(O)=O
-BC8            InChI                InChI  1.03 InChI=1S/C11H15NO10/c13-6(14)2-1-5(9(19)20)12-10(21)11(22,3-7(15)16)4-8(17)18/h5,22H,1-4H2,(H,12,21)(H,13,14)(H,15,16)(H,17,18)(H,19,20)/t5-/m0/s1
-BC8         InChIKey                InChI  1.03                                                                                                                        GAQNUGISBQJMKO-YFKPBYRVSA-N
-BC8 SMILES_CANONICAL               CACTVS 3.385                                                                                                    OC(=O)CC[C@H](NC(=O)C(O)(CC(O)=O)CC(O)=O)C(O)=O
-BC8           SMILES               CACTVS 3.385                                                                                                     OC(=O)CC[CH](NC(=O)C(O)(CC(O)=O)CC(O)=O)C(O)=O
-BC8 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                                                                                 C(CC(=O)O)[C@@H](C(=O)O)NC(=O)C(CC(=O)O)(CC(=O)O)O
-BC8           SMILES "OpenEye OEToolkits" 1.9.2                                                                                                      C(CC(=O)O)C(C(=O)O)NC(=O)C(CC(=O)O)(CC(=O)O)O
+BC8 SMILES           ACDLabs              12.01 OC(=O)CC(O)(CC(O)=O)C(=O)NC(C(=O)O)CCC(O)=O
+BC8 InChI            InChI                1.03  InChI=1S/C11H15NO10/c13-6(14)2-1-5(9(19)20)12-10(21)11(22,3-7(15)16)4-8(17)18/h5,22H,1-4H2,(H,12,21)(H,13,14)(H,15,16)(H,17,18)(H,19,20)/t5-/m0/s1
+BC8 InChIKey         InChI                1.03  GAQNUGISBQJMKO-YFKPBYRVSA-N
+BC8 SMILES_CANONICAL CACTVS               3.385 OC(=O)CC[C@H](NC(=O)C(O)(CC(O)=O)CC(O)=O)C(O)=O
+BC8 SMILES           CACTVS               3.385 OC(=O)CC[CH](NC(=O)C(O)(CC(O)=O)CC(O)=O)C(O)=O
+BC8 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 C(CC(=O)O)[C@@H](C(=O)O)NC(=O)C(CC(=O)O)(CC(=O)O)O
+BC8 SMILES           "OpenEye OEToolkits" 1.9.2 C(CC(=O)O)C(C(=O)O)NC(=O)C(CC(=O)O)(CC(=O)O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-BC8 acedrg               243         "dictionary generator"                  
-BC8 acedrg_database      11          "data source"                           
-BC8 rdkit                2017.03.2   "Chemoinformatics tool"
-BC8 refmac5              5.8.0238    "optimization tool"                     
+BC8 acedrg          243       "dictionary generator"
+BC8 acedrg_database 11        "data source"
+BC8 rdkit           2017.03.2 "Chemoinformatics tool"
+BC8 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+BC8 M-peptide CAJ CN
+BC8 M-peptide H8  H

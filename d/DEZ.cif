@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DEZ     DEZ      4-PHOSPHO-D-ERYTHRONATE     NON-POLYMER     19     13     .     
-#
+DEZ DEZ 4-PHOSPHO-D-ERYTHRONATE NON-POLYMER 19 13 .
+
 data_comp_DEZ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,25 +19,26 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DEZ     OH2     O       O       0       24.255      -7.982      13.734      
-DEZ     C1      C       C       0       25.333      -7.398      13.961      
-DEZ     OH1     O       OC      -1      25.466      -6.180      14.190      
-DEZ     C2      C       CH1     0       26.607      -8.254      13.958      
-DEZ     O2      O       OH1     0       26.812      -8.850      12.684      
-DEZ     C3      C       CH1     0       26.558      -9.341      15.039      
-DEZ     O3      O       OH1     0       26.329      -8.738      16.316      
-DEZ     C4      C       CH2     0       27.831      -10.157     15.101      
-DEZ     O4      O       O2      0       27.751      -11.129     16.181      
-DEZ     P       P       P       0       29.027      -12.074     16.470      
-DEZ     O1P     O       O       0       30.151      -11.138     16.875      
-DEZ     O2P     O       OP      -1      29.306      -12.803     15.170      
-DEZ     O3P     O       OP      -1      28.605      -13.006     17.590      
-DEZ     H2      H       H       0       27.373      -7.661      14.151      
-DEZ     HA      H       H       0       26.181      -9.392      12.514      
-DEZ     H3      H       H       0       25.799      -9.950      14.835      
-DEZ     HB      H       H       0       26.944      -8.188      16.517      
-DEZ     H4C1    H       H       0       28.597      -9.564      15.250      
-DEZ     H4C2    H       H       0       27.966      -10.628     14.252      
+DEZ OH2  O O   0  24.255 -7.982  13.734
+DEZ C1   C C   0  25.333 -7.398  13.961
+DEZ OH1  O OC  -1 25.466 -6.180  14.190
+DEZ C2   C CH1 0  26.607 -8.254  13.958
+DEZ O2   O OH1 0  26.812 -8.850  12.684
+DEZ C3   C CH1 0  26.558 -9.341  15.039
+DEZ O3   O OH1 0  26.329 -8.738  16.316
+DEZ C4   C CH2 0  27.831 -10.157 15.101
+DEZ O4   O O2  0  27.751 -11.129 16.181
+DEZ P    P P   0  29.027 -12.074 16.470
+DEZ O1P  O O   0  30.151 -11.138 16.875
+DEZ O2P  O OP  -1 29.306 -12.803 15.170
+DEZ O3P  O OP  -1 28.605 -13.006 17.590
+DEZ H2   H H   0  27.373 -7.661  14.151
+DEZ HA   H H   0  26.181 -9.392  12.514
+DEZ H3   H H   0  25.799 -9.950  14.835
+DEZ HB   H H   0  26.944 -8.188  16.517
+DEZ H4C1 H H   0  28.597 -9.564  15.250
+DEZ H4C2 H H   0  27.966 -10.628 14.252
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -50,24 +49,25 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DEZ         OH2          C1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-DEZ          C1         OH1      SINGLE       n     1.247  0.0187     1.247  0.0187
-DEZ          C1          C2      SINGLE       n     1.533  0.0100     1.533  0.0100
-DEZ          C2          O2      SINGLE       n     1.419  0.0162     1.419  0.0162
-DEZ          C2          C3      SINGLE       n     1.531  0.0100     1.531  0.0100
-DEZ          C3          O3      SINGLE       n     1.426  0.0179     1.426  0.0179
-DEZ          C3          C4      SINGLE       n     1.512  0.0100     1.512  0.0100
-DEZ          C4          O4      SINGLE       n     1.454  0.0165     1.454  0.0165
-DEZ          O4           P      SINGLE       n     1.614  0.0178     1.614  0.0178
-DEZ           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-DEZ           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
-DEZ           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
-DEZ          C2          H2      SINGLE       n     1.089  0.0100     0.988  0.0129
-DEZ          O2          HA      SINGLE       n     0.970  0.0120     0.848  0.0200
-DEZ          C3          H3      SINGLE       n     1.089  0.0100     0.995  0.0200
-DEZ          O3          HB      SINGLE       n     0.970  0.0120     0.848  0.0200
-DEZ          C4        H4C1      SINGLE       n     1.089  0.0100     0.980  0.0146
-DEZ          C4        H4C2      SINGLE       n     1.089  0.0100     0.980  0.0146
+DEZ OH2 C1   DOUBLE n 1.247 0.0187 1.247 0.0187
+DEZ C1  OH1  SINGLE n 1.247 0.0187 1.247 0.0187
+DEZ C1  C2   SINGLE n 1.533 0.0100 1.533 0.0100
+DEZ C2  O2   SINGLE n 1.419 0.0162 1.419 0.0162
+DEZ C2  C3   SINGLE n 1.531 0.0100 1.531 0.0100
+DEZ C3  O3   SINGLE n 1.426 0.0179 1.426 0.0179
+DEZ C3  C4   SINGLE n 1.512 0.0100 1.512 0.0100
+DEZ C4  O4   SINGLE n 1.454 0.0165 1.454 0.0165
+DEZ O4  P    SINGLE n 1.614 0.0178 1.614 0.0178
+DEZ P   O1P  DOUBLE n 1.517 0.0192 1.517 0.0192
+DEZ P   O2P  SINGLE n 1.517 0.0192 1.517 0.0192
+DEZ P   O3P  SINGLE n 1.517 0.0192 1.517 0.0192
+DEZ C2  H2   SINGLE n 1.089 0.0100 0.988 0.0129
+DEZ O2  HA   SINGLE n 0.970 0.0120 0.848 0.0200
+DEZ C3  H3   SINGLE n 1.089 0.0100 0.995 0.0200
+DEZ O3  HB   SINGLE n 0.970 0.0120 0.848 0.0200
+DEZ C4  H4C1 SINGLE n 1.089 0.0100 0.980 0.0146
+DEZ C4  H4C2 SINGLE n 1.089 0.0100 0.980 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -75,36 +75,37 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DEZ         OH2          C1         OH1     125.683    1.50
-DEZ         OH2          C1          C2     117.159    1.50
-DEZ         OH1          C1          C2     117.159    1.50
-DEZ          C1          C2          O2     111.490    1.56
-DEZ          C1          C2          C3     111.511    2.91
-DEZ          C1          C2          H2     108.467    1.50
-DEZ          O2          C2          C3     109.434    2.40
-DEZ          O2          C2          H2     108.747    1.50
-DEZ          C3          C2          H2     108.687    1.50
-DEZ          C2          O2          HA     108.941    3.00
-DEZ          C2          C3          O3     109.317    1.50
-DEZ          C2          C3          C4     111.094    2.85
-DEZ          C2          C3          H3     108.238    1.72
-DEZ          O3          C3          C4     109.314    1.96
-DEZ          O3          C3          H3     108.591    1.50
-DEZ          C4          C3          H3     108.656    1.50
-DEZ          C3          O3          HB     111.202    3.00
-DEZ          C3          C4          O4     109.438    2.56
-DEZ          C3          C4        H4C1     109.582    1.50
-DEZ          C3          C4        H4C2     109.582    1.50
-DEZ          O4          C4        H4C1     109.393    1.91
-DEZ          O4          C4        H4C2     109.393    1.91
-DEZ        H4C1          C4        H4C2     108.319    1.50
-DEZ          C4          O4           P     118.671    1.50
-DEZ          O4           P         O1P     105.795    2.09
-DEZ          O4           P         O2P     105.795    2.09
-DEZ          O4           P         O3P     105.795    2.09
-DEZ         O1P           P         O2P     112.864    1.69
-DEZ         O1P           P         O3P     112.864    1.69
-DEZ         O2P           P         O3P     112.864    1.69
+DEZ OH2  C1 OH1  125.683 1.50
+DEZ OH2  C1 C2   117.159 1.50
+DEZ OH1  C1 C2   117.159 1.50
+DEZ C1   C2 O2   111.490 1.56
+DEZ C1   C2 C3   111.511 2.91
+DEZ C1   C2 H2   108.467 1.50
+DEZ O2   C2 C3   109.434 2.40
+DEZ O2   C2 H2   108.747 1.50
+DEZ C3   C2 H2   108.687 1.50
+DEZ C2   O2 HA   108.941 3.00
+DEZ C2   C3 O3   109.317 1.50
+DEZ C2   C3 C4   111.094 2.85
+DEZ C2   C3 H3   108.238 1.72
+DEZ O3   C3 C4   109.314 1.96
+DEZ O3   C3 H3   108.591 1.50
+DEZ C4   C3 H3   108.656 1.50
+DEZ C3   O3 HB   111.202 3.00
+DEZ C3   C4 O4   109.438 2.56
+DEZ C3   C4 H4C1 109.582 1.50
+DEZ C3   C4 H4C2 109.582 1.50
+DEZ O4   C4 H4C1 109.393 1.91
+DEZ O4   C4 H4C2 109.393 1.91
+DEZ H4C1 C4 H4C2 108.319 1.50
+DEZ C4   O4 P    118.671 1.50
+DEZ O4   P  O1P  105.795 2.09
+DEZ O4   P  O2P  105.795 2.09
+DEZ O4   P  O3P  105.795 2.09
+DEZ O1P  P  O2P  112.864 1.69
+DEZ O1P  P  O3P  112.864 1.69
+DEZ O2P  P  O3P  112.864 1.69
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -115,13 +116,14 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DEZ             sp2_sp3_1         OH2          C1          C2          O2       0.000    10.0     6
-DEZ             sp3_sp3_1          C1          C2          O2          HA     180.000    10.0     3
-DEZ             sp3_sp3_4          C1          C2          C3          O3     180.000    10.0     3
-DEZ            sp3_sp3_13          C2          C3          O3          HB     180.000    10.0     3
-DEZ            sp3_sp3_16          C2          C3          C4          O4     180.000    10.0     3
-DEZ            sp3_sp3_25          C3          C4          O4           P     180.000    10.0     3
-DEZ            sp3_sp3_30          C4          O4           P         O1P      60.000    10.0     3
+DEZ sp2_sp3_1  OH2 C1 C2 O2  0.000   10.0 6
+DEZ sp3_sp3_1  C1  C2 O2 HA  180.000 10.0 3
+DEZ sp3_sp3_4  C1  C2 C3 O3  180.000 10.0 3
+DEZ sp3_sp3_13 C2  C3 O3 HB  180.000 10.0 3
+DEZ sp3_sp3_16 C2  C3 C4 O4  180.000 10.0 3
+DEZ sp3_sp3_25 C3  C4 O4 P   180.000 10.0 3
+DEZ sp3_sp3_30 C4  O4 P  O1P 60.000  10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -130,37 +132,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DEZ    chir_1    C2    O2    C1    C3    negative
-DEZ    chir_2    C3    O3    C2    C4    negative
-DEZ    chir_3    P    O4    O2P    O3P    both
+DEZ chir_1 C2 O2 C1  C3  negative
+DEZ chir_2 C3 O3 C2  C4  negative
+DEZ chir_3 P  O4 O2P O3P both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DEZ    plan-1          C1   0.020
-DEZ    plan-1          C2   0.020
-DEZ    plan-1         OH1   0.020
-DEZ    plan-1         OH2   0.020
+DEZ plan-1 C1  0.020
+DEZ plan-1 C2  0.020
+DEZ plan-1 OH1 0.020
+DEZ plan-1 OH2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DEZ           SMILES              ACDLabs 10.04                                                                      O=P(O)(O)OCC(O)C(O)C(=O)O
-DEZ SMILES_CANONICAL               CACTVS 3.341                                                           O[C@H](CO[P](O)(O)=O)[C@@H](O)C(O)=O
-DEZ           SMILES               CACTVS 3.341                                                              O[CH](CO[P](O)(O)=O)[CH](O)C(O)=O
-DEZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                            C([C@H]([C@H](C(=O)O)O)O)OP(=O)(O)O
-DEZ           SMILES "OpenEye OEToolkits" 1.5.0                                                                    C(C(C(C(=O)O)O)O)OP(=O)(O)O
-DEZ            InChI                InChI  1.03 InChI=1S/C4H9O8P/c5-2(3(6)4(7)8)1-12-13(9,10)11/h2-3,5-6H,1H2,(H,7,8)(H2,9,10,11)/t2-,3-/m1/s1
-DEZ         InChIKey                InChI  1.03                                                                    ZCZXOHUILRHRQJ-PWNYCUMCSA-N
+DEZ SMILES           ACDLabs              10.04 O=P(O)(O)OCC(O)C(O)C(=O)O
+DEZ SMILES_CANONICAL CACTVS               3.341 O[C@H](CO[P](O)(O)=O)[C@@H](O)C(O)=O
+DEZ SMILES           CACTVS               3.341 O[CH](CO[P](O)(O)=O)[CH](O)C(O)=O
+DEZ SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C([C@H]([C@H](C(=O)O)O)O)OP(=O)(O)O
+DEZ SMILES           "OpenEye OEToolkits" 1.5.0 C(C(C(C(=O)O)O)O)OP(=O)(O)O
+DEZ InChI            InChI                1.03  InChI=1S/C4H9O8P/c5-2(3(6)4(7)8)1-12-13(9,10)11/h2-3,5-6H,1H2,(H,7,8)(H2,9,10,11)/t2-,3-/m1/s1
+DEZ InChIKey         InChI                1.03  ZCZXOHUILRHRQJ-PWNYCUMCSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DEZ acedrg               243         "dictionary generator"                  
-DEZ acedrg_database      11          "data source"                           
-DEZ rdkit                2017.03.2   "Chemoinformatics tool"
-DEZ refmac5              5.8.0238    "optimization tool"                     
+DEZ acedrg          243       "dictionary generator"
+DEZ acedrg_database 11        "data source"
+DEZ rdkit           2017.03.2 "Chemoinformatics tool"
+DEZ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+DEZ DNA/RNA O2P OP3
+DEZ DNA/RNA O1P OP1
+DEZ DNA/RNA O3P OP2
+DEZ DNA/RNA O4  O5'
+DEZ DNA/RNA C4  C5'
+DEZ DNA/RNA C3  C4'
+DEZ DNA/RNA C2  C3'
+DEZ DNA/RNA O2  O3'
+DEZ DNA/RNA HA  HO3'

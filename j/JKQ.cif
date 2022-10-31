@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-JKQ     JKQ      "(2~{R})-2-[[6-ethyl-5-(1~{H}-indol-5-yl)thieno[2,3-d]pyrimidin-4-yl]amino]propanoic acid"     NON-POLYMER     43     26     .     
-#
+JKQ JKQ "(2~{R})-2-[[6-ethyl-5-(1~{H}-indol-5-yl)thieno[2,3-d]pyrimidin-4-yl]amino]propanoic acid" NON-POLYMER 43 26 .
+
 data_comp_JKQ
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,49 +19,50 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-JKQ     N1      N       NRD6    0       14.548      54.843      -2.473      
-JKQ     N3      N       NH1     0       14.978      57.935      -5.225      
-JKQ     C4      C       CR5     0       12.226      57.343      -3.791      
-JKQ     C5      C       CR56    0       13.527      56.690      -3.693      
-JKQ     C6      C       CR56    0       13.479      55.609      -2.757      
-JKQ     C7      C       CR16    0       15.673      55.148      -3.117      
-JKQ     C8      C       CR6     0       14.777      56.926      -4.333      
-JKQ     C10     C       CH3     0       16.066      59.186      -7.029      
-JKQ     C13     C       CR16    0       11.783      58.249      -6.050      
-JKQ     C15     C       CR56    0       11.380      60.614      -6.352      
-JKQ     C17     C       CR15    0       11.297      59.440      -8.308      
-JKQ     C1      C       CH3     0       8.899       56.071      -3.408      
-JKQ     O1      O       OC      -1      16.065      55.901      -7.787      
-JKQ     S1      S       S2      0       11.949      55.465      -2.114      
-JKQ     C2      C       CH2     0       9.837       57.025      -2.710      
-JKQ     N2      N       NRD6    0       15.836      56.138      -4.008      
-JKQ     O2      O       O       0       14.144      57.007      -7.848      
-JKQ     C3      C       CR5     0       11.274      56.732      -2.960      
-JKQ     N4      N       NR5     0       11.109      61.473      -7.389      
-JKQ     C9      C       CH1     0       15.849      57.824      -6.386      
-JKQ     C11     C       C       0       15.305      56.823      -7.431      
-JKQ     C12     C       CR6     0       11.931      58.479      -4.681      
-JKQ     C14     C       CR56    0       11.505      59.317      -6.902      
-JKQ     C16     C       CR15    0       11.062      60.757      -8.556      
-JKQ     C18     C       CR16    0       11.527      60.848      -4.985      
-JKQ     C19     C       CR16    0       11.803      59.770      -4.163      
-JKQ     H1      H       H       0       14.597      58.699      -5.076      
-JKQ     H2      H       H       0       16.424      54.624      -2.927      
-JKQ     H3      H       H       0       16.344      59.824      -6.350      
-JKQ     H4      H       H       0       15.238      59.488      -7.437      
-JKQ     H5      H       H       0       16.757      59.117      -7.709      
-JKQ     H6      H       H       0       11.872      57.373      -6.390      
-JKQ     H7      H       H       0       11.319      58.741      -8.944      
-JKQ     H8      H       H       0       7.989       56.413      -3.355      
-JKQ     H9      H       H       0       8.942       55.199      -2.978      
-JKQ     H10     H       H       0       9.158       55.984      -4.342      
-JKQ     H12     H       H       0       9.671       56.985      -1.751      
-JKQ     H13     H       H       0       9.643       57.932      -3.006      
-JKQ     H14     H       H       0       10.984      62.351      -7.317      
-JKQ     H15     H       H       0       16.731      57.483      -6.096      
-JKQ     H16     H       H       0       10.891      61.130      -9.403      
-JKQ     H17     H       H       0       11.441      61.718      -4.631      
-JKQ     H18     H       H       0       11.905      59.910      -3.245      
+JKQ N1  N NRD6 0  14.548 54.843 -2.473
+JKQ N3  N NH1  0  14.978 57.935 -5.225
+JKQ C4  C CR5  0  12.226 57.343 -3.791
+JKQ C5  C CR56 0  13.527 56.690 -3.693
+JKQ C6  C CR56 0  13.479 55.609 -2.757
+JKQ C7  C CR16 0  15.673 55.148 -3.117
+JKQ C8  C CR6  0  14.777 56.926 -4.333
+JKQ C10 C CH3  0  16.066 59.186 -7.029
+JKQ C13 C CR16 0  11.783 58.249 -6.050
+JKQ C15 C CR56 0  11.380 60.614 -6.352
+JKQ C17 C CR15 0  11.297 59.440 -8.308
+JKQ C1  C CH3  0  8.899  56.071 -3.408
+JKQ O1  O OC   -1 16.065 55.901 -7.787
+JKQ S1  S S2   0  11.949 55.465 -2.114
+JKQ C2  C CH2  0  9.837  57.025 -2.710
+JKQ N2  N NRD6 0  15.836 56.138 -4.008
+JKQ O2  O O    0  14.144 57.007 -7.848
+JKQ C3  C CR5  0  11.274 56.732 -2.960
+JKQ N4  N NR5  0  11.109 61.473 -7.389
+JKQ C9  C CH1  0  15.849 57.824 -6.386
+JKQ C11 C C    0  15.305 56.823 -7.431
+JKQ C12 C CR6  0  11.931 58.479 -4.681
+JKQ C14 C CR56 0  11.505 59.317 -6.902
+JKQ C16 C CR15 0  11.062 60.757 -8.556
+JKQ C18 C CR16 0  11.527 60.848 -4.985
+JKQ C19 C CR16 0  11.803 59.770 -4.163
+JKQ H1  H H    0  14.597 58.699 -5.076
+JKQ H2  H H    0  16.424 54.624 -2.927
+JKQ H3  H H    0  16.344 59.824 -6.350
+JKQ H4  H H    0  15.238 59.488 -7.437
+JKQ H5  H H    0  16.757 59.117 -7.709
+JKQ H6  H H    0  11.872 57.373 -6.390
+JKQ H7  H H    0  11.319 58.741 -8.944
+JKQ H8  H H    0  7.989  56.413 -3.355
+JKQ H9  H H    0  8.942  55.199 -2.978
+JKQ H10 H H    0  9.158  55.984 -4.342
+JKQ H12 H H    0  9.671  56.985 -1.751
+JKQ H13 H H    0  9.643  57.932 -3.006
+JKQ H14 H H    0  10.984 62.351 -7.317
+JKQ H15 H H    0  16.731 57.483 -6.096
+JKQ H16 H H    0  10.891 61.130 -9.403
+JKQ H17 H H    0  11.441 61.718 -4.631
+JKQ H18 H H    0  11.905 59.910 -3.245
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -74,52 +73,53 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-JKQ         C17         C16      DOUBLE       y     1.360  0.0100     1.360  0.0100
-JKQ          N4         C16      SINGLE       y     1.369  0.0100     1.369  0.0100
-JKQ         C17         C14      SINGLE       y     1.427  0.0100     1.427  0.0100
-JKQ          O2         C11      DOUBLE       n     1.247  0.0187     1.247  0.0187
-JKQ          O1         C11      SINGLE       n     1.247  0.0187     1.247  0.0187
-JKQ          C9         C11      SINGLE       n     1.546  0.0100     1.546  0.0100
-JKQ         C10          C9      SINGLE       n     1.519  0.0151     1.519  0.0151
-JKQ         C15          N4      SINGLE       y     1.373  0.0100     1.373  0.0100
-JKQ         C15         C14      SINGLE       y     1.414  0.0100     1.414  0.0100
-JKQ         C13         C14      DOUBLE       y     1.393  0.0100     1.393  0.0100
-JKQ          N3          C9      SINGLE       n     1.452  0.0100     1.452  0.0100
-JKQ         C15         C18      DOUBLE       y     1.392  0.0100     1.392  0.0100
-JKQ         C13         C12      SINGLE       y     1.391  0.0100     1.391  0.0100
-JKQ          N3          C8      SINGLE       n     1.348  0.0172     1.348  0.0172
-JKQ         C18         C19      SINGLE       y     1.378  0.0100     1.378  0.0100
-JKQ          C8          N2      DOUBLE       y     1.353  0.0100     1.353  0.0100
-JKQ          C5          C8      SINGLE       y     1.415  0.0100     1.415  0.0100
-JKQ         C12         C19      DOUBLE       y     1.391  0.0100     1.391  0.0100
-JKQ          C4         C12      SINGLE       n     1.473  0.0100     1.473  0.0100
-JKQ          C7          N2      SINGLE       y     1.339  0.0100     1.339  0.0100
-JKQ          C4          C5      SINGLE       y     1.446  0.0100     1.446  0.0100
-JKQ          C5          C6      DOUBLE       y     1.401  0.0200     1.401  0.0200
-JKQ          C4          C3      DOUBLE       y     1.386  0.0200     1.386  0.0200
-JKQ          N1          C7      DOUBLE       y     1.330  0.0100     1.330  0.0100
-JKQ          N1          C6      SINGLE       y     1.338  0.0176     1.338  0.0176
-JKQ          C6          S1      SINGLE       y     1.695  0.0200     1.695  0.0200
-JKQ          C2          C3      SINGLE       n     1.486  0.0100     1.486  0.0100
-JKQ          S1          C3      SINGLE       y     1.695  0.0200     1.695  0.0200
-JKQ          C1          C2      SINGLE       n     1.510  0.0200     1.510  0.0200
-JKQ          N3          H1      SINGLE       n     1.016  0.0100     0.870  0.0200
-JKQ          C7          H2      SINGLE       n     1.082  0.0130     0.935  0.0100
-JKQ         C10          H3      SINGLE       n     1.089  0.0100     0.972  0.0152
-JKQ         C10          H4      SINGLE       n     1.089  0.0100     0.972  0.0152
-JKQ         C10          H5      SINGLE       n     1.089  0.0100     0.972  0.0152
-JKQ         C13          H6      SINGLE       n     1.082  0.0130     0.944  0.0180
-JKQ         C17          H7      SINGLE       n     1.082  0.0130     0.946  0.0173
-JKQ          C1          H8      SINGLE       n     1.089  0.0100     0.973  0.0120
-JKQ          C1          H9      SINGLE       n     1.089  0.0100     0.973  0.0120
-JKQ          C1         H10      SINGLE       n     1.089  0.0100     0.973  0.0120
-JKQ          C2         H12      SINGLE       n     1.089  0.0100     0.974  0.0100
-JKQ          C2         H13      SINGLE       n     1.089  0.0100     0.974  0.0100
-JKQ          N4         H14      SINGLE       n     1.016  0.0100     0.890  0.0200
-JKQ          C9         H15      SINGLE       n     1.089  0.0100     0.990  0.0200
-JKQ         C16         H16      SINGLE       n     1.082  0.0130     0.941  0.0154
-JKQ         C18         H17      SINGLE       n     1.082  0.0130     0.943  0.0168
-JKQ         C19         H18      SINGLE       n     1.082  0.0130     0.935  0.0100
+JKQ C17 C16 DOUBLE y 1.360 0.0100 1.360 0.0100
+JKQ N4  C16 SINGLE y 1.369 0.0100 1.369 0.0100
+JKQ C17 C14 SINGLE y 1.427 0.0100 1.427 0.0100
+JKQ O2  C11 DOUBLE n 1.247 0.0187 1.247 0.0187
+JKQ O1  C11 SINGLE n 1.247 0.0187 1.247 0.0187
+JKQ C9  C11 SINGLE n 1.546 0.0100 1.546 0.0100
+JKQ C10 C9  SINGLE n 1.519 0.0151 1.519 0.0151
+JKQ C15 N4  SINGLE y 1.373 0.0100 1.373 0.0100
+JKQ C15 C14 SINGLE y 1.414 0.0100 1.414 0.0100
+JKQ C13 C14 DOUBLE y 1.393 0.0100 1.393 0.0100
+JKQ N3  C9  SINGLE n 1.452 0.0100 1.452 0.0100
+JKQ C15 C18 DOUBLE y 1.392 0.0100 1.392 0.0100
+JKQ C13 C12 SINGLE y 1.391 0.0100 1.391 0.0100
+JKQ N3  C8  SINGLE n 1.348 0.0172 1.348 0.0172
+JKQ C18 C19 SINGLE y 1.378 0.0100 1.378 0.0100
+JKQ C8  N2  DOUBLE y 1.353 0.0100 1.353 0.0100
+JKQ C5  C8  SINGLE y 1.415 0.0100 1.415 0.0100
+JKQ C12 C19 DOUBLE y 1.391 0.0100 1.391 0.0100
+JKQ C4  C12 SINGLE n 1.473 0.0100 1.473 0.0100
+JKQ C7  N2  SINGLE y 1.339 0.0100 1.339 0.0100
+JKQ C4  C5  SINGLE y 1.446 0.0100 1.446 0.0100
+JKQ C5  C6  DOUBLE y 1.401 0.0200 1.401 0.0200
+JKQ C4  C3  DOUBLE y 1.386 0.0200 1.386 0.0200
+JKQ N1  C7  DOUBLE y 1.330 0.0100 1.330 0.0100
+JKQ N1  C6  SINGLE y 1.338 0.0176 1.338 0.0176
+JKQ C6  S1  SINGLE y 1.695 0.0200 1.695 0.0200
+JKQ C2  C3  SINGLE n 1.486 0.0100 1.486 0.0100
+JKQ S1  C3  SINGLE y 1.695 0.0200 1.695 0.0200
+JKQ C1  C2  SINGLE n 1.510 0.0200 1.510 0.0200
+JKQ N3  H1  SINGLE n 1.016 0.0100 0.870 0.0200
+JKQ C7  H2  SINGLE n 1.082 0.0130 0.935 0.0100
+JKQ C10 H3  SINGLE n 1.089 0.0100 0.972 0.0152
+JKQ C10 H4  SINGLE n 1.089 0.0100 0.972 0.0152
+JKQ C10 H5  SINGLE n 1.089 0.0100 0.972 0.0152
+JKQ C13 H6  SINGLE n 1.082 0.0130 0.944 0.0180
+JKQ C17 H7  SINGLE n 1.082 0.0130 0.946 0.0173
+JKQ C1  H8  SINGLE n 1.089 0.0100 0.973 0.0120
+JKQ C1  H9  SINGLE n 1.089 0.0100 0.973 0.0120
+JKQ C1  H10 SINGLE n 1.089 0.0100 0.973 0.0120
+JKQ C2  H12 SINGLE n 1.089 0.0100 0.974 0.0100
+JKQ C2  H13 SINGLE n 1.089 0.0100 0.974 0.0100
+JKQ N4  H14 SINGLE n 1.016 0.0100 0.890 0.0200
+JKQ C9  H15 SINGLE n 1.089 0.0100 0.990 0.0200
+JKQ C16 H16 SINGLE n 1.082 0.0130 0.941 0.0154
+JKQ C18 H17 SINGLE n 1.082 0.0130 0.943 0.0168
+JKQ C19 H18 SINGLE n 1.082 0.0130 0.935 0.0100
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -127,84 +127,85 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-JKQ          C7          N1          C6     115.778    1.50
-JKQ          C9          N3          C8     122.372    1.50
-JKQ          C9          N3          H1     118.562    1.55
-JKQ          C8          N3          H1     119.066    1.50
-JKQ         C12          C4          C5     125.527    2.23
-JKQ         C12          C4          C3     126.714    1.78
-JKQ          C5          C4          C3     107.760    1.50
-JKQ          C8          C5          C4     133.743    2.28
-JKQ          C8          C5          C6     118.440    1.50
-JKQ          C4          C5          C6     107.817    1.50
-JKQ          C5          C6          N1     122.412    2.68
-JKQ          C5          C6          S1     108.141    3.00
-JKQ          N1          C6          S1     129.447    3.00
-JKQ          N2          C7          N1     126.299    1.50
-JKQ          N2          C7          H2     116.831    1.50
-JKQ          N1          C7          H2     116.871    1.50
-JKQ          N3          C8          N2     118.937    1.50
-JKQ          N3          C8          C5     122.314    2.29
-JKQ          N2          C8          C5     118.749    1.50
-JKQ          C9         C10          H3     109.468    1.50
-JKQ          C9         C10          H4     109.468    1.50
-JKQ          C9         C10          H5     109.468    1.50
-JKQ          H3         C10          H4     109.386    1.50
-JKQ          H3         C10          H5     109.386    1.50
-JKQ          H4         C10          H5     109.386    1.50
-JKQ         C14         C13         C12     119.571    1.58
-JKQ         C14         C13          H6     120.711    1.50
-JKQ         C12         C13          H6     119.718    1.50
-JKQ          N4         C15         C14     107.283    1.50
-JKQ          N4         C15         C18     130.222    1.50
-JKQ         C14         C15         C18     122.495    1.50
-JKQ         C16         C17         C14     106.920    1.50
-JKQ         C16         C17          H7     126.594    1.50
-JKQ         C14         C17          H7     126.486    1.50
-JKQ          C2          C1          H8     109.517    1.50
-JKQ          C2          C1          H9     109.517    1.50
-JKQ          C2          C1         H10     109.517    1.50
-JKQ          H8          C1          H9     109.422    1.50
-JKQ          H8          C1         H10     109.422    1.50
-JKQ          H9          C1         H10     109.422    1.50
-JKQ          C6          S1          C3     108.141    3.00
-JKQ          C3          C2          C1     113.284    1.50
-JKQ          C3          C2         H12     108.883    1.50
-JKQ          C3          C2         H13     108.883    1.50
-JKQ          C1          C2         H12     108.959    1.50
-JKQ          C1          C2         H13     108.959    1.50
-JKQ         H12          C2         H13     107.724    1.50
-JKQ          C8          N2          C7     118.322    1.50
-JKQ          C4          C3          C2     132.650    2.66
-JKQ          C4          C3          S1     108.141    3.00
-JKQ          C2          C3          S1     119.209    3.00
-JKQ         C16          N4         C15     108.923    1.50
-JKQ         C16          N4         H14     125.381    2.15
-JKQ         C15          N4         H14     125.696    1.60
-JKQ         C11          C9         C10     110.921    3.00
-JKQ         C11          C9          N3     111.249    2.34
-JKQ         C11          C9         H15     106.938    1.92
-JKQ         C10          C9          N3     110.884    1.50
-JKQ         C10          C9         H15     108.345    1.59
-JKQ          N3          C9         H15     108.807    1.50
-JKQ          O2         C11          O1     125.564    1.50
-JKQ          O2         C11          C9     117.218    1.75
-JKQ          O1         C11          C9     117.218    1.75
-JKQ         C13         C12         C19     119.737    1.64
-JKQ         C13         C12          C4     120.058    1.50
-JKQ         C19         C12          C4     120.205    1.50
-JKQ         C17         C14         C15     106.791    1.50
-JKQ         C17         C14         C13     133.629    1.50
-JKQ         C15         C14         C13     119.580    1.50
-JKQ         C17         C16          N4     110.083    1.50
-JKQ         C17         C16         H16     125.387    1.67
-JKQ          N4         C16         H16     124.530    1.59
-JKQ         C15         C18         C19     118.041    1.50
-JKQ         C15         C18         H17     120.949    1.50
-JKQ         C19         C18         H17     121.011    1.50
-JKQ         C18         C19         C12     120.577    1.50
-JKQ         C18         C19         H18     119.529    1.50
-JKQ         C12         C19         H18     119.894    1.50
+JKQ C7  N1  C6  115.778 1.50
+JKQ C9  N3  C8  122.372 1.50
+JKQ C9  N3  H1  118.562 1.55
+JKQ C8  N3  H1  119.066 1.50
+JKQ C12 C4  C5  125.527 2.23
+JKQ C12 C4  C3  126.714 1.78
+JKQ C5  C4  C3  107.760 1.50
+JKQ C8  C5  C4  133.743 2.28
+JKQ C8  C5  C6  118.440 1.50
+JKQ C4  C5  C6  107.817 1.50
+JKQ C5  C6  N1  122.412 2.68
+JKQ C5  C6  S1  108.141 3.00
+JKQ N1  C6  S1  129.447 3.00
+JKQ N2  C7  N1  126.299 1.50
+JKQ N2  C7  H2  116.831 1.50
+JKQ N1  C7  H2  116.871 1.50
+JKQ N3  C8  N2  118.937 1.50
+JKQ N3  C8  C5  122.314 2.29
+JKQ N2  C8  C5  118.749 1.50
+JKQ C9  C10 H3  109.468 1.50
+JKQ C9  C10 H4  109.468 1.50
+JKQ C9  C10 H5  109.468 1.50
+JKQ H3  C10 H4  109.386 1.50
+JKQ H3  C10 H5  109.386 1.50
+JKQ H4  C10 H5  109.386 1.50
+JKQ C14 C13 C12 119.571 1.58
+JKQ C14 C13 H6  120.711 1.50
+JKQ C12 C13 H6  119.718 1.50
+JKQ N4  C15 C14 107.283 1.50
+JKQ N4  C15 C18 130.222 1.50
+JKQ C14 C15 C18 122.495 1.50
+JKQ C16 C17 C14 106.920 1.50
+JKQ C16 C17 H7  126.594 1.50
+JKQ C14 C17 H7  126.486 1.50
+JKQ C2  C1  H8  109.517 1.50
+JKQ C2  C1  H9  109.517 1.50
+JKQ C2  C1  H10 109.517 1.50
+JKQ H8  C1  H9  109.422 1.50
+JKQ H8  C1  H10 109.422 1.50
+JKQ H9  C1  H10 109.422 1.50
+JKQ C6  S1  C3  108.141 3.00
+JKQ C3  C2  C1  113.284 1.50
+JKQ C3  C2  H12 108.883 1.50
+JKQ C3  C2  H13 108.883 1.50
+JKQ C1  C2  H12 108.959 1.50
+JKQ C1  C2  H13 108.959 1.50
+JKQ H12 C2  H13 107.724 1.50
+JKQ C8  N2  C7  118.322 1.50
+JKQ C4  C3  C2  132.650 2.66
+JKQ C4  C3  S1  108.141 3.00
+JKQ C2  C3  S1  119.209 3.00
+JKQ C16 N4  C15 108.923 1.50
+JKQ C16 N4  H14 125.381 2.15
+JKQ C15 N4  H14 125.696 1.60
+JKQ C11 C9  C10 110.921 3.00
+JKQ C11 C9  N3  111.249 2.34
+JKQ C11 C9  H15 106.938 1.92
+JKQ C10 C9  N3  110.884 1.50
+JKQ C10 C9  H15 108.345 1.59
+JKQ N3  C9  H15 108.807 1.50
+JKQ O2  C11 O1  125.564 1.50
+JKQ O2  C11 C9  117.218 1.75
+JKQ O1  C11 C9  117.218 1.75
+JKQ C13 C12 C19 119.737 1.64
+JKQ C13 C12 C4  120.058 1.50
+JKQ C19 C12 C4  120.205 1.50
+JKQ C17 C14 C15 106.791 1.50
+JKQ C17 C14 C13 133.629 1.50
+JKQ C15 C14 C13 119.580 1.50
+JKQ C17 C16 N4  110.083 1.50
+JKQ C17 C16 H16 125.387 1.67
+JKQ N4  C16 H16 124.530 1.59
+JKQ C15 C18 C19 118.041 1.50
+JKQ C15 C18 H17 120.949 1.50
+JKQ C19 C18 H17 121.011 1.50
+JKQ C18 C19 C12 120.577 1.50
+JKQ C18 C19 H18 119.529 1.50
+JKQ C12 C19 H18 119.894 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -215,33 +216,34 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-JKQ              const_67          C5          C6          N1          C7       0.000    10.0     2
-JKQ              const_49          N2          C7          N1          C6       0.000    10.0     2
-JKQ              const_33         C15         C14         C17         C16       0.000    10.0     2
-JKQ              const_29          N4         C16         C17         C14       0.000    10.0     2
-JKQ            sp3_sp3_10          H8          C1          C2          C3     180.000    10.0     3
-JKQ              const_48          C2          C3          S1          C6     180.000    10.0     2
-JKQ            sp2_sp3_14          C4          C3          C2          C1     -90.000    10.0     6
-JKQ              const_25         C17         C16          N4         C15       0.000    10.0     2
-JKQ             sp2_sp3_1          O2         C11          C9         C10       0.000    10.0     6
-JKQ             sp2_sp3_7          C8          N3          C9         C11       0.000    10.0     6
-JKQ             sp2_sp2_3          N2          C8          N3          C9       0.000     5.0     2
-JKQ              const_17         C13         C12         C19         C18       0.000    10.0     2
-JKQ              const_13         C15         C18         C19         C12       0.000    10.0     2
-JKQ              const_66          C2          C3          C4         C12       0.000    10.0     2
-JKQ             sp2_sp2_5         C13         C12          C4          C5     180.000     5.0     2
-JKQ              const_40         C12          C4          C5          C8       0.000    10.0     2
-JKQ              const_41          C8          C5          C6          N1       0.000    10.0     2
-JKQ              const_58          C4          C5          C8          N3       0.000    10.0     2
-JKQ              const_45          C5          C6          S1          C3       0.000    10.0     2
-JKQ              const_51          N1          C7          N2          C8       0.000    10.0     2
-JKQ              const_54          N3          C8          N2          C7     180.000    10.0     2
-JKQ             sp3_sp3_1          H3         C10          C9         C11     180.000    10.0     3
-JKQ              const_59         C19         C12         C13         C14       0.000    10.0     2
-JKQ       const_sp2_sp2_2         C12         C13         C14         C17     180.000     5.0     2
-JKQ              const_21         C14         C15          N4         C16       0.000    10.0     2
-JKQ       const_sp2_sp2_5         C17         C14         C15          N4       0.000     5.0     2
-JKQ              const_11          N4         C15         C18         C19     180.000    10.0     2
+JKQ const_67        C5  C6  N1  C7  0.000   10.0 2
+JKQ const_49        N2  C7  N1  C6  0.000   10.0 2
+JKQ const_33        C15 C14 C17 C16 0.000   10.0 2
+JKQ const_29        N4  C16 C17 C14 0.000   10.0 2
+JKQ sp3_sp3_10      H8  C1  C2  C3  180.000 10.0 3
+JKQ const_48        C2  C3  S1  C6  180.000 10.0 2
+JKQ sp2_sp3_14      C4  C3  C2  C1  -90.000 10.0 6
+JKQ const_25        C17 C16 N4  C15 0.000   10.0 2
+JKQ sp2_sp3_1       O2  C11 C9  C10 0.000   10.0 6
+JKQ sp2_sp3_7       C8  N3  C9  C11 0.000   10.0 6
+JKQ sp2_sp2_3       N2  C8  N3  C9  0.000   5.0  2
+JKQ const_17        C13 C12 C19 C18 0.000   10.0 2
+JKQ const_13        C15 C18 C19 C12 0.000   10.0 2
+JKQ const_66        C2  C3  C4  C12 0.000   10.0 2
+JKQ sp2_sp2_5       C13 C12 C4  C5  180.000 5.0  2
+JKQ const_40        C12 C4  C5  C8  0.000   10.0 2
+JKQ const_41        C8  C5  C6  N1  0.000   10.0 2
+JKQ const_58        C4  C5  C8  N3  0.000   10.0 2
+JKQ const_45        C5  C6  S1  C3  0.000   10.0 2
+JKQ const_51        N1  C7  N2  C8  0.000   10.0 2
+JKQ const_54        N3  C8  N2  C7  180.000 10.0 2
+JKQ sp3_sp3_1       H3  C10 C9  C11 180.000 10.0 3
+JKQ const_59        C19 C12 C13 C14 0.000   10.0 2
+JKQ const_sp2_sp2_2 C12 C13 C14 C17 180.000 5.0  2
+JKQ const_21        C14 C15 N4  C16 0.000   10.0 2
+JKQ const_sp2_sp2_5 C17 C14 C15 N4  0.000   5.0  2
+JKQ const_11        N4  C15 C18 C19 180.000 10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -250,67 +252,83 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-JKQ    chir_1    C9    N3    C11    C10    negative
+JKQ chir_1 C9 N3 C11 C10 negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-JKQ    plan-1         C12   0.020
-JKQ    plan-1          C2   0.020
-JKQ    plan-1          C3   0.020
-JKQ    plan-1          C4   0.020
-JKQ    plan-1          C5   0.020
-JKQ    plan-1          C6   0.020
-JKQ    plan-1          C7   0.020
-JKQ    plan-1          C8   0.020
-JKQ    plan-1          H2   0.020
-JKQ    plan-1          N1   0.020
-JKQ    plan-1          N2   0.020
-JKQ    plan-1          N3   0.020
-JKQ    plan-1          S1   0.020
-JKQ    plan-2         C12   0.020
-JKQ    plan-2         C13   0.020
-JKQ    plan-2         C14   0.020
-JKQ    plan-2         C15   0.020
-JKQ    plan-2         C16   0.020
-JKQ    plan-2         C17   0.020
-JKQ    plan-2         C18   0.020
-JKQ    plan-2         C19   0.020
-JKQ    plan-2          C4   0.020
-JKQ    plan-2         H14   0.020
-JKQ    plan-2         H16   0.020
-JKQ    plan-2         H17   0.020
-JKQ    plan-2         H18   0.020
-JKQ    plan-2          H6   0.020
-JKQ    plan-2          H7   0.020
-JKQ    plan-2          N4   0.020
-JKQ    plan-3          C8   0.020
-JKQ    plan-3          C9   0.020
-JKQ    plan-3          H1   0.020
-JKQ    plan-3          N3   0.020
-JKQ    plan-4         C11   0.020
-JKQ    plan-4          C9   0.020
-JKQ    plan-4          O1   0.020
-JKQ    plan-4          O2   0.020
+JKQ plan-1 C12 0.020
+JKQ plan-1 C2  0.020
+JKQ plan-1 C3  0.020
+JKQ plan-1 C4  0.020
+JKQ plan-1 C5  0.020
+JKQ plan-1 C6  0.020
+JKQ plan-1 C7  0.020
+JKQ plan-1 C8  0.020
+JKQ plan-1 H2  0.020
+JKQ plan-1 N1  0.020
+JKQ plan-1 N2  0.020
+JKQ plan-1 N3  0.020
+JKQ plan-1 S1  0.020
+JKQ plan-2 C12 0.020
+JKQ plan-2 C13 0.020
+JKQ plan-2 C14 0.020
+JKQ plan-2 C15 0.020
+JKQ plan-2 C16 0.020
+JKQ plan-2 C17 0.020
+JKQ plan-2 C18 0.020
+JKQ plan-2 C19 0.020
+JKQ plan-2 C4  0.020
+JKQ plan-2 H14 0.020
+JKQ plan-2 H16 0.020
+JKQ plan-2 H17 0.020
+JKQ plan-2 H18 0.020
+JKQ plan-2 H6  0.020
+JKQ plan-2 H7  0.020
+JKQ plan-2 N4  0.020
+JKQ plan-3 C8  0.020
+JKQ plan-3 C9  0.020
+JKQ plan-3 H1  0.020
+JKQ plan-3 N3  0.020
+JKQ plan-4 C11 0.020
+JKQ plan-4 C9  0.020
+JKQ plan-4 O1  0.020
+JKQ plan-4 O2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-JKQ            InChI                InChI  1.03 InChI=1S/C19H18N4O2S/c1-3-14-15(12-4-5-13-11(8-12)6-7-20-13)16-17(23-10(2)19(24)25)21-9-22-18(16)26-14/h4-10,20H,3H2,1-2H3,(H,24,25)(H,21,22,23)/t10-/m1/s1
-JKQ         InChIKey                InChI  1.03                                                                                                                                 QOISOOHIVJLDFS-SNVBAGLBSA-N
-JKQ SMILES_CANONICAL               CACTVS 3.385                                                                                                            CCc1sc2ncnc(N[C@H](C)C(O)=O)c2c1c3ccc4[nH]ccc4c3
-JKQ           SMILES               CACTVS 3.385                                                                                                             CCc1sc2ncnc(N[CH](C)C(O)=O)c2c1c3ccc4[nH]ccc4c3
-JKQ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7                                                                                                        CCc1c(c2c(ncnc2s1)N[C@H](C)C(=O)O)c3ccc4c(c3)cc[nH]4
-JKQ           SMILES "OpenEye OEToolkits" 2.0.7                                                                                                            CCc1c(c2c(ncnc2s1)NC(C)C(=O)O)c3ccc4c(c3)cc[nH]4
+JKQ InChI            InChI                1.03  InChI=1S/C19H18N4O2S/c1-3-14-15(12-4-5-13-11(8-12)6-7-20-13)16-17(23-10(2)19(24)25)21-9-22-18(16)26-14/h4-10,20H,3H2,1-2H3,(H,24,25)(H,21,22,23)/t10-/m1/s1
+JKQ InChIKey         InChI                1.03  QOISOOHIVJLDFS-SNVBAGLBSA-N
+JKQ SMILES_CANONICAL CACTVS               3.385 CCc1sc2ncnc(N[C@H](C)C(O)=O)c2c1c3ccc4[nH]ccc4c3
+JKQ SMILES           CACTVS               3.385 CCc1sc2ncnc(N[CH](C)C(O)=O)c2c1c3ccc4[nH]ccc4c3
+JKQ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 CCc1c(c2c(ncnc2s1)N[C@H](C)C(=O)O)c3ccc4c(c3)cc[nH]4
+JKQ SMILES           "OpenEye OEToolkits" 2.0.7 CCc1c(c2c(ncnc2s1)NC(C)C(=O)O)c3ccc4c(c3)cc[nH]4
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-JKQ acedrg               243         "dictionary generator"                  
-JKQ acedrg_database      11          "data source"                           
-JKQ rdkit                2017.03.2   "Chemoinformatics tool"
-JKQ refmac5              5.8.0238    "optimization tool"                     
+JKQ acedrg          243       "dictionary generator"
+JKQ acedrg_database 11        "data source"
+JKQ rdkit           2017.03.2 "Chemoinformatics tool"
+JKQ refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+JKQ M-peptide O2  O
+JKQ M-peptide C11 C
+JKQ M-peptide C9  CA
+JKQ M-peptide N3  N
+JKQ M-peptide C8  CN
+JKQ M-peptide O1  OXT
+JKQ M-peptide H1  H

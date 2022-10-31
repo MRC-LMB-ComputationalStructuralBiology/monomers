@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-SXO     SXO      "S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] octanethioate"     NON-POLYMER     66     31     .     
-#
+SXO SXO "S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] octanethioate" NON-POLYMER 66 31 .
+
 data_comp_SXO
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,72 +19,73 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-SXO     O25     O       OP      -1      7.279       -11.320     2.186       
-SXO     P24     P       P       0       7.229       -12.836     2.155       
-SXO     O26     O       OP      -1      8.169       -13.478     3.158       
-SXO     O23     O       O       0       7.385       -13.402     0.756       
-SXO     O27     O       O2      0       5.737       -13.236     2.625       
-SXO     C28     C       CH2     0       5.296       -12.857     3.960       
-SXO     C29     C       CT      0       3.895       -13.410     4.225       
-SXO     C30     C       CH3     0       3.430       -12.891     5.592       
-SXO     C31     C       CH3     0       2.930       -12.880     3.154       
-SXO     C32     C       CH1     0       3.928       -14.951     4.241       
-SXO     O33     O       OH1     0       4.455       -15.453     3.011       
-SXO     C34     C       C       0       2.600       -15.645     4.534       
-SXO     O35     O       O       0       1.767       -15.750     3.634       
-SXO     N36     N       NH1     0       2.409       -16.118     5.764       
-SXO     C37     C       CH2     0       1.267       -16.937     6.164       
-SXO     C38     C       CH2     0       0.872       -16.735     7.620       
-SXO     C39     C       C       0       -0.311      -15.804     7.795       
-SXO     O40     O       O       0       -1.363      -16.215     8.282       
-SXO     N41     N       NH1     0       -0.156      -14.532     7.400       
-SXO     C42     C       CH2     0       -1.199      -13.520     7.510       
-SXO     C43     C       CH2     0       -0.831      -12.205     6.850       
-SXO     S1      S       S2      0       -1.558      -12.004     5.203       
-SXO     C1      C       C       0       -0.938      -10.815     4.056       
-SXO     O1      O       O       0       -1.443      -10.653     2.971       
-SXO     C2      C       CH2     0       0.247       -10.031     4.556       
-SXO     C3      C       CH2     0       1.093       -9.404      3.482       
-SXO     C4      C       CH2     0       0.532       -8.091      2.954       
-SXO     C5      C       CH2     0       0.942       -7.769      1.535       
-SXO     C6      C       CH2     0       0.363       -6.482      0.987       
-SXO     C7      C       CH2     0       -1.123      -6.487      0.706       
-SXO     C8      C       CH3     0       -1.546      -7.417      -0.407      
-SXO     H28A    H       H       0       5.286       -11.882     4.039       
-SXO     H28     H       H       0       5.918       -13.210     4.628       
-SXO     H30     H       H       0       3.936       -13.333     6.296       
-SXO     H30B    H       H       0       2.483       -13.075     5.713       
-SXO     H30A    H       H       0       3.578       -11.931     5.645       
-SXO     H31     H       H       0       3.080       -13.341     2.312       
-SXO     H31A    H       H       0       3.079       -11.927     3.027       
-SXO     H31B    H       H       0       2.010       -13.025     3.438       
-SXO     H32     H       H       0       4.561       -15.209     4.954       
-SXO     HO33    H       H       0       3.852       -15.523     2.417       
-SXO     HN36    H       H       0       3.002       -15.931     6.375       
-SXO     H37     H       H       0       1.492       -17.881     6.026       
-SXO     H37A    H       H       0       0.498       -16.728     5.593       
-SXO     H38A    H       H       0       1.628       -16.378     8.118       
-SXO     H38     H       H       0       0.651       -17.597     8.013       
-SXO     HN41    H       H       0       0.616       -14.306     7.062       
-SXO     H42     H       H       0       -1.383      -13.356     8.460       
-SXO     H42A    H       H       0       -2.022      -13.864     7.101       
-SXO     H43A    H       H       0       0.141       -12.138     6.779       
-SXO     H43     H       H       0       -1.136      -11.471     7.421       
-SXO     H2      H       H       0       0.792       -10.614     5.071       
-SXO     H2A     H       H       0       -0.073      -9.348      5.134       
-SXO     H3A     H       H       0       1.181       -10.033     2.736       
-SXO     H3      H       H       0       1.990       -9.240      3.840       
-SXO     H4      H       H       0       0.831       -7.364      3.540       
-SXO     H4A     H       H       0       -0.446      -8.126      2.999       
-SXO     H5A     H       H       0       0.671       -8.511      0.954       
-SXO     H5      H       H       0       1.921       -7.710      1.499       
-SXO     H6      H       H       0       0.832       -6.262      0.154       
-SXO     H6A     H       H       0       0.552       -5.762      1.627       
-SXO     H7      H       H       0       -1.399      -5.574      0.474       
-SXO     H7A     H       H       0       -1.598      -6.740      1.527       
-SXO     H8A     H       H       0       -2.471      -7.236      -0.648      
-SXO     H8      H       H       0       -1.465      -8.340      -0.110      
-SXO     H8B     H       H       0       -0.977      -7.276      -1.183      
+SXO O25  O OP  -1 7.279  -11.320 2.186
+SXO P24  P P   0  7.229  -12.836 2.155
+SXO O26  O OP  -1 8.169  -13.478 3.158
+SXO O23  O O   0  7.385  -13.402 0.756
+SXO O27  O O2  0  5.737  -13.236 2.625
+SXO C28  C CH2 0  5.296  -12.857 3.960
+SXO C29  C CT  0  3.895  -13.410 4.225
+SXO C30  C CH3 0  3.430  -12.891 5.592
+SXO C31  C CH3 0  2.930  -12.880 3.154
+SXO C32  C CH1 0  3.928  -14.951 4.241
+SXO O33  O OH1 0  4.455  -15.453 3.011
+SXO C34  C C   0  2.600  -15.645 4.534
+SXO O35  O O   0  1.767  -15.750 3.634
+SXO N36  N NH1 0  2.409  -16.118 5.764
+SXO C37  C CH2 0  1.267  -16.937 6.164
+SXO C38  C CH2 0  0.872  -16.735 7.620
+SXO C39  C C   0  -0.311 -15.804 7.795
+SXO O40  O O   0  -1.363 -16.215 8.282
+SXO N41  N NH1 0  -0.156 -14.532 7.400
+SXO C42  C CH2 0  -1.199 -13.520 7.510
+SXO C43  C CH2 0  -0.831 -12.205 6.850
+SXO S1   S S2  0  -1.558 -12.004 5.203
+SXO C1   C C   0  -0.938 -10.815 4.056
+SXO O1   O O   0  -1.443 -10.653 2.971
+SXO C2   C CH2 0  0.247  -10.031 4.556
+SXO C3   C CH2 0  1.093  -9.404  3.482
+SXO C4   C CH2 0  0.532  -8.091  2.954
+SXO C5   C CH2 0  0.942  -7.769  1.535
+SXO C6   C CH2 0  0.363  -6.482  0.987
+SXO C7   C CH2 0  -1.123 -6.487  0.706
+SXO C8   C CH3 0  -1.546 -7.417  -0.407
+SXO H28A H H   0  5.286  -11.882 4.039
+SXO H28  H H   0  5.918  -13.210 4.628
+SXO H30  H H   0  3.936  -13.333 6.296
+SXO H30B H H   0  2.483  -13.075 5.713
+SXO H30A H H   0  3.578  -11.931 5.645
+SXO H31  H H   0  3.080  -13.341 2.312
+SXO H31A H H   0  3.079  -11.927 3.027
+SXO H31B H H   0  2.010  -13.025 3.438
+SXO H32  H H   0  4.561  -15.209 4.954
+SXO HO33 H H   0  3.852  -15.523 2.417
+SXO HN36 H H   0  3.002  -15.931 6.375
+SXO H37  H H   0  1.492  -17.881 6.026
+SXO H37A H H   0  0.498  -16.728 5.593
+SXO H38A H H   0  1.628  -16.378 8.118
+SXO H38  H H   0  0.651  -17.597 8.013
+SXO HN41 H H   0  0.616  -14.306 7.062
+SXO H42  H H   0  -1.383 -13.356 8.460
+SXO H42A H H   0  -2.022 -13.864 7.101
+SXO H43A H H   0  0.141  -12.138 6.779
+SXO H43  H H   0  -1.136 -11.471 7.421
+SXO H2   H H   0  0.792  -10.614 5.071
+SXO H2A  H H   0  -0.073 -9.348  5.134
+SXO H3A  H H   0  1.181  -10.033 2.736
+SXO H3   H H   0  1.990  -9.240  3.840
+SXO H4   H H   0  0.831  -7.364  3.540
+SXO H4A  H H   0  -0.446 -8.126  2.999
+SXO H5A  H H   0  0.671  -8.511  0.954
+SXO H5   H H   0  1.921  -7.710  1.499
+SXO H6   H H   0  0.832  -6.262  0.154
+SXO H6A  H H   0  0.552  -5.762  1.627
+SXO H7   H H   0  -1.399 -5.574  0.474
+SXO H7A  H H   0  -1.598 -6.740  1.527
+SXO H8A  H H   0  -2.471 -7.236  -0.648
+SXO H8   H H   0  -1.465 -8.340  -0.110
+SXO H8B  H H   0  -0.977 -7.276  -1.183
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -97,71 +96,72 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-SXO         O25         P24      SINGLE       n     1.517  0.0192     1.517  0.0192
-SXO         P24         O23      DOUBLE       n     1.517  0.0192     1.517  0.0192
-SXO         P24         O27      SINGLE       n     1.614  0.0178     1.614  0.0178
-SXO         P24         O26      SINGLE       n     1.517  0.0192     1.517  0.0192
-SXO         O27         C28      SINGLE       n     1.454  0.0165     1.454  0.0165
-SXO         C28         C29      SINGLE       n     1.526  0.0108     1.526  0.0108
-SXO         C29         C31      SINGLE       n     1.531  0.0109     1.531  0.0109
-SXO         C29         C32      SINGLE       n     1.532  0.0112     1.532  0.0112
-SXO         C29         C30      SINGLE       n     1.531  0.0109     1.531  0.0109
-SXO         C32         O33      SINGLE       n     1.419  0.0162     1.419  0.0162
-SXO         C32         C34      SINGLE       n     1.519  0.0108     1.519  0.0108
-SXO         C34         O35      DOUBLE       n     1.229  0.0102     1.229  0.0102
-SXO         C34         N36      SINGLE       n     1.326  0.0100     1.326  0.0100
-SXO         N36         C37      SINGLE       n     1.457  0.0100     1.457  0.0100
-SXO         C37         C38      SINGLE       n     1.513  0.0195     1.513  0.0195
-SXO         C38         C39      SINGLE       n     1.514  0.0100     1.514  0.0100
-SXO         C39         N41      SINGLE       n     1.337  0.0118     1.337  0.0118
-SXO         C39         O40      DOUBLE       n     1.229  0.0102     1.229  0.0102
-SXO         N41         C42      SINGLE       n     1.455  0.0100     1.455  0.0100
-SXO         C42         C43      SINGLE       n     1.510  0.0158     1.510  0.0158
-SXO         C43          S1      SINGLE       n     1.809  0.0191     1.809  0.0191
-SXO          S1          C1      SINGLE       n     1.762  0.0200     1.762  0.0200
-SXO          C1          C2      SINGLE       n     1.502  0.0151     1.502  0.0151
-SXO          C1          O1      DOUBLE       n     1.207  0.0100     1.207  0.0100
-SXO          C2          C3      SINGLE       n     1.497  0.0200     1.497  0.0200
-SXO          C3          C4      SINGLE       n     1.519  0.0164     1.519  0.0164
-SXO          C4          C5      SINGLE       n     1.509  0.0200     1.509  0.0200
-SXO          C5          C6      SINGLE       n     1.509  0.0200     1.509  0.0200
-SXO          C6          C7      SINGLE       n     1.507  0.0200     1.507  0.0200
-SXO          C7          C8      SINGLE       n     1.510  0.0200     1.510  0.0200
-SXO         C28        H28A      SINGLE       n     1.089  0.0100     0.978  0.0102
-SXO         C28         H28      SINGLE       n     1.089  0.0100     0.978  0.0102
-SXO         C30         H30      SINGLE       n     1.089  0.0100     0.973  0.0146
-SXO         C30        H30B      SINGLE       n     1.089  0.0100     0.973  0.0146
-SXO         C30        H30A      SINGLE       n     1.089  0.0100     0.973  0.0146
-SXO         C31         H31      SINGLE       n     1.089  0.0100     0.973  0.0146
-SXO         C31        H31A      SINGLE       n     1.089  0.0100     0.973  0.0146
-SXO         C31        H31B      SINGLE       n     1.089  0.0100     0.973  0.0146
-SXO         C32         H32      SINGLE       n     1.089  0.0100     0.988  0.0129
-SXO         O33        HO33      SINGLE       n     0.970  0.0120     0.848  0.0200
-SXO         N36        HN36      SINGLE       n     1.016  0.0100     0.872  0.0200
-SXO         C37         H37      SINGLE       n     1.089  0.0100     0.980  0.0159
-SXO         C37        H37A      SINGLE       n     1.089  0.0100     0.980  0.0159
-SXO         C38        H38A      SINGLE       n     1.089  0.0100     0.973  0.0156
-SXO         C38         H38      SINGLE       n     1.089  0.0100     0.973  0.0156
-SXO         N41        HN41      SINGLE       n     1.016  0.0100     0.872  0.0200
-SXO         C42         H42      SINGLE       n     1.089  0.0100     0.981  0.0127
-SXO         C42        H42A      SINGLE       n     1.089  0.0100     0.981  0.0127
-SXO         C43        H43A      SINGLE       n     1.089  0.0100     0.978  0.0177
-SXO         C43         H43      SINGLE       n     1.089  0.0100     0.978  0.0177
-SXO          C2          H2      SINGLE       n     1.089  0.0100     0.950  0.0162
-SXO          C2         H2A      SINGLE       n     1.089  0.0100     0.950  0.0162
-SXO          C3         H3A      SINGLE       n     1.089  0.0100     0.980  0.0160
-SXO          C3          H3      SINGLE       n     1.089  0.0100     0.980  0.0160
-SXO          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0163
-SXO          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0163
-SXO          C5         H5A      SINGLE       n     1.089  0.0100     0.981  0.0163
-SXO          C5          H5      SINGLE       n     1.089  0.0100     0.981  0.0163
-SXO          C6          H6      SINGLE       n     1.089  0.0100     0.981  0.0163
-SXO          C6         H6A      SINGLE       n     1.089  0.0100     0.981  0.0163
-SXO          C7          H7      SINGLE       n     1.089  0.0100     0.982  0.0155
-SXO          C7         H7A      SINGLE       n     1.089  0.0100     0.982  0.0155
-SXO          C8         H8A      SINGLE       n     1.089  0.0100     0.973  0.0157
-SXO          C8          H8      SINGLE       n     1.089  0.0100     0.973  0.0157
-SXO          C8         H8B      SINGLE       n     1.089  0.0100     0.973  0.0157
+SXO O25 P24  SINGLE n 1.517 0.0192 1.517 0.0192
+SXO P24 O23  DOUBLE n 1.517 0.0192 1.517 0.0192
+SXO P24 O27  SINGLE n 1.614 0.0178 1.614 0.0178
+SXO P24 O26  SINGLE n 1.517 0.0192 1.517 0.0192
+SXO O27 C28  SINGLE n 1.454 0.0165 1.454 0.0165
+SXO C28 C29  SINGLE n 1.526 0.0108 1.526 0.0108
+SXO C29 C31  SINGLE n 1.531 0.0109 1.531 0.0109
+SXO C29 C32  SINGLE n 1.532 0.0112 1.532 0.0112
+SXO C29 C30  SINGLE n 1.531 0.0109 1.531 0.0109
+SXO C32 O33  SINGLE n 1.419 0.0162 1.419 0.0162
+SXO C32 C34  SINGLE n 1.519 0.0108 1.519 0.0108
+SXO C34 O35  DOUBLE n 1.229 0.0102 1.229 0.0102
+SXO C34 N36  SINGLE n 1.326 0.0100 1.326 0.0100
+SXO N36 C37  SINGLE n 1.457 0.0100 1.457 0.0100
+SXO C37 C38  SINGLE n 1.513 0.0195 1.513 0.0195
+SXO C38 C39  SINGLE n 1.514 0.0100 1.514 0.0100
+SXO C39 N41  SINGLE n 1.337 0.0118 1.337 0.0118
+SXO C39 O40  DOUBLE n 1.229 0.0102 1.229 0.0102
+SXO N41 C42  SINGLE n 1.455 0.0100 1.455 0.0100
+SXO C42 C43  SINGLE n 1.510 0.0158 1.510 0.0158
+SXO C43 S1   SINGLE n 1.809 0.0191 1.809 0.0191
+SXO S1  C1   SINGLE n 1.762 0.0200 1.762 0.0200
+SXO C1  C2   SINGLE n 1.502 0.0151 1.502 0.0151
+SXO C1  O1   DOUBLE n 1.207 0.0100 1.207 0.0100
+SXO C2  C3   SINGLE n 1.497 0.0200 1.497 0.0200
+SXO C3  C4   SINGLE n 1.519 0.0164 1.519 0.0164
+SXO C4  C5   SINGLE n 1.509 0.0200 1.509 0.0200
+SXO C5  C6   SINGLE n 1.509 0.0200 1.509 0.0200
+SXO C6  C7   SINGLE n 1.507 0.0200 1.507 0.0200
+SXO C7  C8   SINGLE n 1.510 0.0200 1.510 0.0200
+SXO C28 H28A SINGLE n 1.089 0.0100 0.978 0.0102
+SXO C28 H28  SINGLE n 1.089 0.0100 0.978 0.0102
+SXO C30 H30  SINGLE n 1.089 0.0100 0.973 0.0146
+SXO C30 H30B SINGLE n 1.089 0.0100 0.973 0.0146
+SXO C30 H30A SINGLE n 1.089 0.0100 0.973 0.0146
+SXO C31 H31  SINGLE n 1.089 0.0100 0.973 0.0146
+SXO C31 H31A SINGLE n 1.089 0.0100 0.973 0.0146
+SXO C31 H31B SINGLE n 1.089 0.0100 0.973 0.0146
+SXO C32 H32  SINGLE n 1.089 0.0100 0.988 0.0129
+SXO O33 HO33 SINGLE n 0.970 0.0120 0.848 0.0200
+SXO N36 HN36 SINGLE n 1.016 0.0100 0.872 0.0200
+SXO C37 H37  SINGLE n 1.089 0.0100 0.980 0.0159
+SXO C37 H37A SINGLE n 1.089 0.0100 0.980 0.0159
+SXO C38 H38A SINGLE n 1.089 0.0100 0.973 0.0156
+SXO C38 H38  SINGLE n 1.089 0.0100 0.973 0.0156
+SXO N41 HN41 SINGLE n 1.016 0.0100 0.872 0.0200
+SXO C42 H42  SINGLE n 1.089 0.0100 0.981 0.0127
+SXO C42 H42A SINGLE n 1.089 0.0100 0.981 0.0127
+SXO C43 H43A SINGLE n 1.089 0.0100 0.978 0.0177
+SXO C43 H43  SINGLE n 1.089 0.0100 0.978 0.0177
+SXO C2  H2   SINGLE n 1.089 0.0100 0.950 0.0162
+SXO C2  H2A  SINGLE n 1.089 0.0100 0.950 0.0162
+SXO C3  H3A  SINGLE n 1.089 0.0100 0.980 0.0160
+SXO C3  H3   SINGLE n 1.089 0.0100 0.980 0.0160
+SXO C4  H4   SINGLE n 1.089 0.0100 0.981 0.0163
+SXO C4  H4A  SINGLE n 1.089 0.0100 0.981 0.0163
+SXO C5  H5A  SINGLE n 1.089 0.0100 0.981 0.0163
+SXO C5  H5   SINGLE n 1.089 0.0100 0.981 0.0163
+SXO C6  H6   SINGLE n 1.089 0.0100 0.981 0.0163
+SXO C6  H6A  SINGLE n 1.089 0.0100 0.981 0.0163
+SXO C7  H7   SINGLE n 1.089 0.0100 0.982 0.0155
+SXO C7  H7A  SINGLE n 1.089 0.0100 0.982 0.0155
+SXO C8  H8A  SINGLE n 1.089 0.0100 0.973 0.0157
+SXO C8  H8   SINGLE n 1.089 0.0100 0.973 0.0157
+SXO C8  H8B  SINGLE n 1.089 0.0100 0.973 0.0157
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -169,126 +169,127 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-SXO         O25         P24         O23     112.864    1.69
-SXO         O25         P24         O27     105.795    2.09
-SXO         O25         P24         O26     112.864    1.69
-SXO         O23         P24         O27     105.795    2.09
-SXO         O23         P24         O26     112.864    1.69
-SXO         O27         P24         O26     105.795    2.09
-SXO         P24         O27         C28     118.671    1.50
-SXO         O27         C28         C29     108.435    1.69
-SXO         O27         C28        H28A     109.739    1.50
-SXO         O27         C28         H28     109.739    1.50
-SXO         C29         C28        H28A     109.473    1.50
-SXO         C29         C28         H28     109.473    1.50
-SXO        H28A         C28         H28     108.108    1.50
-SXO         C28         C29         C31     109.385    1.50
-SXO         C28         C29         C32     111.094    2.85
-SXO         C28         C29         C30     109.385    1.50
-SXO         C31         C29         C32     109.534    1.52
-SXO         C31         C29         C30     108.765    1.50
-SXO         C32         C29         C30     109.534    1.52
-SXO         C29         C30         H30     109.575    1.50
-SXO         C29         C30        H30B     109.575    1.50
-SXO         C29         C30        H30A     109.575    1.50
-SXO         H30         C30        H30B     109.377    1.50
-SXO         H30         C30        H30A     109.377    1.50
-SXO        H30B         C30        H30A     109.377    1.50
-SXO         C29         C31         H31     109.575    1.50
-SXO         C29         C31        H31A     109.575    1.50
-SXO         C29         C31        H31B     109.575    1.50
-SXO         H31         C31        H31A     109.377    1.50
-SXO         H31         C31        H31B     109.377    1.50
-SXO        H31A         C31        H31B     109.377    1.50
-SXO         C29         C32         O33     109.482    3.00
-SXO         C29         C32         C34     111.511    2.91
-SXO         C29         C32         H32     107.825    1.50
-SXO         O33         C32         C34     109.850    1.55
-SXO         O33         C32         H32     108.675    1.50
-SXO         C34         C32         H32     108.529    1.70
-SXO         C32         O33        HO33     108.894    3.00
-SXO         C32         C34         O35     119.859    1.78
-SXO         C32         C34         N36     117.147    1.50
-SXO         O35         C34         N36     122.977    1.50
-SXO         C34         N36         C37     122.964    1.80
-SXO         C34         N36        HN36     118.685    1.94
-SXO         C37         N36        HN36     118.351    1.90
-SXO         N36         C37         C38     112.257    1.50
-SXO         N36         C37         H37     108.979    1.50
-SXO         N36         C37        H37A     108.979    1.50
-SXO         C38         C37         H37     108.971    1.50
-SXO         C38         C37        H37A     108.971    1.50
-SXO         H37         C37        H37A     107.877    1.50
-SXO         C37         C38         C39     112.120    2.79
-SXO         C37         C38        H38A     109.432    1.50
-SXO         C37         C38         H38     109.432    1.50
-SXO         C39         C38        H38A     108.945    1.50
-SXO         C39         C38         H38     108.945    1.50
-SXO        H38A         C38         H38     107.745    2.07
-SXO         C38         C39         N41     117.070    1.96
-SXO         C38         C39         O40     120.987    1.50
-SXO         N41         C39         O40     121.943    1.50
-SXO         C39         N41         C42     123.437    1.80
-SXO         C39         N41        HN41     117.862    2.10
-SXO         C42         N41        HN41     118.700    1.83
-SXO         N41         C42         C43     112.117    1.54
-SXO         N41         C42         H42     109.102    1.50
-SXO         N41         C42        H42A     109.102    1.50
-SXO         C43         C42         H42     109.038    1.50
-SXO         C43         C42        H42A     109.038    1.50
-SXO         H42         C42        H42A     107.995    1.50
-SXO         C42         C43          S1     112.239    3.00
-SXO         C42         C43        H43A     108.964    1.50
-SXO         C42         C43         H43     108.964    1.50
-SXO          S1         C43        H43A     109.066    1.50
-SXO          S1         C43         H43     109.066    1.50
-SXO        H43A         C43         H43     107.807    1.50
-SXO         C43          S1          C1     120.000    3.00
-SXO          S1          C1          C2     113.307    2.65
-SXO          S1          C1          O1     122.927    2.65
-SXO          C2          C1          O1     123.766    1.64
-SXO          C1          C2          C3     113.932    1.92
-SXO          C1          C2          H2     108.026    1.59
-SXO          C1          C2         H2A     108.026    1.59
-SXO          C3          C2          H2     108.844    1.50
-SXO          C3          C2         H2A     108.844    1.50
-SXO          H2          C2         H2A     107.705    1.50
-SXO          C2          C3          C4     113.146    1.68
-SXO          C2          C3         H3A     108.915    1.50
-SXO          C2          C3          H3     108.915    1.50
-SXO          C4          C3         H3A     108.698    1.50
-SXO          C4          C3          H3     108.698    1.50
-SXO         H3A          C3          H3     107.646    1.50
-SXO          C3          C4          C5     114.243    1.69
-SXO          C3          C4          H4     108.698    1.50
-SXO          C3          C4         H4A     108.698    1.50
-SXO          C5          C4          H4     108.698    1.50
-SXO          C5          C4         H4A     108.698    1.50
-SXO          H4          C4         H4A     107.646    1.50
-SXO          C4          C5          C6     114.243    1.69
-SXO          C4          C5         H5A     108.698    1.50
-SXO          C4          C5          H5     108.698    1.50
-SXO          C6          C5         H5A     108.698    1.50
-SXO          C6          C5          H5     108.698    1.50
-SXO         H5A          C5          H5     107.646    1.50
-SXO          C5          C6          C7     114.362    3.00
-SXO          C5          C6          H6     108.698    1.50
-SXO          C5          C6         H6A     108.698    1.50
-SXO          C7          C6          H6     108.653    1.50
-SXO          C7          C6         H6A     108.653    1.50
-SXO          H6          C6         H6A     107.646    1.50
-SXO          C6          C7          C8     113.719    3.00
-SXO          C6          C7          H7     108.758    1.50
-SXO          C6          C7         H7A     108.758    1.50
-SXO          C8          C7          H7     108.918    1.50
-SXO          C8          C7         H7A     108.918    1.50
-SXO          H7          C7         H7A     107.763    1.50
-SXO          C7          C8         H8A     109.554    1.50
-SXO          C7          C8          H8     109.554    1.50
-SXO          C7          C8         H8B     109.554    1.50
-SXO         H8A          C8          H8     109.380    1.50
-SXO         H8A          C8         H8B     109.380    1.50
-SXO          H8          C8         H8B     109.380    1.50
+SXO O25  P24 O23  112.864 1.69
+SXO O25  P24 O27  105.795 2.09
+SXO O25  P24 O26  112.864 1.69
+SXO O23  P24 O27  105.795 2.09
+SXO O23  P24 O26  112.864 1.69
+SXO O27  P24 O26  105.795 2.09
+SXO P24  O27 C28  118.671 1.50
+SXO O27  C28 C29  108.435 1.69
+SXO O27  C28 H28A 109.739 1.50
+SXO O27  C28 H28  109.739 1.50
+SXO C29  C28 H28A 109.473 1.50
+SXO C29  C28 H28  109.473 1.50
+SXO H28A C28 H28  108.108 1.50
+SXO C28  C29 C31  109.385 1.50
+SXO C28  C29 C32  111.094 2.85
+SXO C28  C29 C30  109.385 1.50
+SXO C31  C29 C32  109.534 1.52
+SXO C31  C29 C30  108.765 1.50
+SXO C32  C29 C30  109.534 1.52
+SXO C29  C30 H30  109.575 1.50
+SXO C29  C30 H30B 109.575 1.50
+SXO C29  C30 H30A 109.575 1.50
+SXO H30  C30 H30B 109.377 1.50
+SXO H30  C30 H30A 109.377 1.50
+SXO H30B C30 H30A 109.377 1.50
+SXO C29  C31 H31  109.575 1.50
+SXO C29  C31 H31A 109.575 1.50
+SXO C29  C31 H31B 109.575 1.50
+SXO H31  C31 H31A 109.377 1.50
+SXO H31  C31 H31B 109.377 1.50
+SXO H31A C31 H31B 109.377 1.50
+SXO C29  C32 O33  109.482 3.00
+SXO C29  C32 C34  111.511 2.91
+SXO C29  C32 H32  107.825 1.50
+SXO O33  C32 C34  109.850 1.55
+SXO O33  C32 H32  108.675 1.50
+SXO C34  C32 H32  108.529 1.70
+SXO C32  O33 HO33 108.894 3.00
+SXO C32  C34 O35  119.859 1.78
+SXO C32  C34 N36  117.147 1.50
+SXO O35  C34 N36  122.977 1.50
+SXO C34  N36 C37  122.964 1.80
+SXO C34  N36 HN36 118.685 1.94
+SXO C37  N36 HN36 118.351 1.90
+SXO N36  C37 C38  112.257 1.50
+SXO N36  C37 H37  108.979 1.50
+SXO N36  C37 H37A 108.979 1.50
+SXO C38  C37 H37  108.971 1.50
+SXO C38  C37 H37A 108.971 1.50
+SXO H37  C37 H37A 107.877 1.50
+SXO C37  C38 C39  112.120 2.79
+SXO C37  C38 H38A 109.432 1.50
+SXO C37  C38 H38  109.432 1.50
+SXO C39  C38 H38A 108.945 1.50
+SXO C39  C38 H38  108.945 1.50
+SXO H38A C38 H38  107.745 2.07
+SXO C38  C39 N41  117.070 1.96
+SXO C38  C39 O40  120.987 1.50
+SXO N41  C39 O40  121.943 1.50
+SXO C39  N41 C42  123.437 1.80
+SXO C39  N41 HN41 117.862 2.10
+SXO C42  N41 HN41 118.700 1.83
+SXO N41  C42 C43  112.117 1.54
+SXO N41  C42 H42  109.102 1.50
+SXO N41  C42 H42A 109.102 1.50
+SXO C43  C42 H42  109.038 1.50
+SXO C43  C42 H42A 109.038 1.50
+SXO H42  C42 H42A 107.995 1.50
+SXO C42  C43 S1   112.239 3.00
+SXO C42  C43 H43A 108.964 1.50
+SXO C42  C43 H43  108.964 1.50
+SXO S1   C43 H43A 109.066 1.50
+SXO S1   C43 H43  109.066 1.50
+SXO H43A C43 H43  107.807 1.50
+SXO C43  S1  C1   120.000 3.00
+SXO S1   C1  C2   113.307 2.65
+SXO S1   C1  O1   122.927 2.65
+SXO C2   C1  O1   123.766 1.64
+SXO C1   C2  C3   113.932 1.92
+SXO C1   C2  H2   108.026 1.59
+SXO C1   C2  H2A  108.026 1.59
+SXO C3   C2  H2   108.844 1.50
+SXO C3   C2  H2A  108.844 1.50
+SXO H2   C2  H2A  107.705 1.50
+SXO C2   C3  C4   113.146 1.68
+SXO C2   C3  H3A  108.915 1.50
+SXO C2   C3  H3   108.915 1.50
+SXO C4   C3  H3A  108.698 1.50
+SXO C4   C3  H3   108.698 1.50
+SXO H3A  C3  H3   107.646 1.50
+SXO C3   C4  C5   114.243 1.69
+SXO C3   C4  H4   108.698 1.50
+SXO C3   C4  H4A  108.698 1.50
+SXO C5   C4  H4   108.698 1.50
+SXO C5   C4  H4A  108.698 1.50
+SXO H4   C4  H4A  107.646 1.50
+SXO C4   C5  C6   114.243 1.69
+SXO C4   C5  H5A  108.698 1.50
+SXO C4   C5  H5   108.698 1.50
+SXO C6   C5  H5A  108.698 1.50
+SXO C6   C5  H5   108.698 1.50
+SXO H5A  C5  H5   107.646 1.50
+SXO C5   C6  C7   114.362 3.00
+SXO C5   C6  H6   108.698 1.50
+SXO C5   C6  H6A  108.698 1.50
+SXO C7   C6  H6   108.653 1.50
+SXO C7   C6  H6A  108.653 1.50
+SXO H6   C6  H6A  107.646 1.50
+SXO C6   C7  C8   113.719 3.00
+SXO C6   C7  H7   108.758 1.50
+SXO C6   C7  H7A  108.758 1.50
+SXO C8   C7  H7   108.918 1.50
+SXO C8   C7  H7A  108.918 1.50
+SXO H7   C7  H7A  107.763 1.50
+SXO C7   C8  H8A  109.554 1.50
+SXO C7   C8  H8   109.554 1.50
+SXO C7   C8  H8B  109.554 1.50
+SXO H8A  C8  H8   109.380 1.50
+SXO H8A  C8  H8B  109.380 1.50
+SXO H8   C8  H8B  109.380 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -299,30 +300,31 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-SXO             sp2_sp2_1         C32         C34         N36         C37     180.000     5.0     2
-SXO             sp2_sp3_8         C34         N36         C37         C38     120.000    10.0     6
-SXO            sp3_sp3_46         N36         C37         C38         C39     180.000    10.0     3
-SXO            sp2_sp3_14         N41         C39         C38         C37     120.000    10.0     6
-SXO             sp2_sp2_5         C38         C39         N41         C42     180.000     5.0     2
-SXO            sp2_sp3_20         C39         N41         C42         C43     120.000    10.0     6
-SXO            sp3_sp3_55         N41         C42         C43          S1     180.000    10.0     3
-SXO             sp3_sp3_2         C28         O27         P24         O25     -60.000    10.0     3
-SXO            sp3_sp3_64         C42         C43          S1          C1     180.000    10.0     3
-SXO             sp2_sp2_9          C2          C1          S1         C43     180.000     5.0     2
-SXO            sp2_sp3_26          S1          C1          C2          C3     120.000    10.0     6
-SXO            sp3_sp3_67          C1          C2          C3          C4     180.000    10.0     3
-SXO            sp3_sp3_76          C2          C3          C4          C5     180.000    10.0     3
-SXO            sp3_sp3_85          C3          C4          C5          C6     180.000    10.0     3
-SXO            sp3_sp3_94          C4          C5          C6          C7     180.000    10.0     3
-SXO           sp3_sp3_103          C5          C6          C7          C8     180.000    10.0     3
-SXO           sp3_sp3_112          C6          C7          C8         H8A     180.000    10.0     3
-SXO             sp3_sp3_4         C29         C28         O27         P24     180.000    10.0     3
-SXO             sp3_sp3_8         O27         C28         C29         C31     -60.000    10.0     3
-SXO            sp3_sp3_37         C28         C29         C30         H30      60.000    10.0     3
-SXO            sp3_sp3_16         C28         C29         C31         H31     180.000    10.0     3
-SXO            sp3_sp3_28         C28         C29         C32         O33      60.000    10.0     3
-SXO            sp3_sp3_43         C29         C32         O33        HO33     180.000    10.0     3
-SXO             sp2_sp3_1         O35         C34         C32         C29       0.000    10.0     6
+SXO sp2_sp2_1   C32 C34 N36 C37  180.000 5.0  2
+SXO sp2_sp3_8   C34 N36 C37 C38  120.000 10.0 6
+SXO sp3_sp3_46  N36 C37 C38 C39  180.000 10.0 3
+SXO sp2_sp3_14  N41 C39 C38 C37  120.000 10.0 6
+SXO sp2_sp2_5   C38 C39 N41 C42  180.000 5.0  2
+SXO sp2_sp3_20  C39 N41 C42 C43  120.000 10.0 6
+SXO sp3_sp3_55  N41 C42 C43 S1   180.000 10.0 3
+SXO sp3_sp3_2   C28 O27 P24 O25  -60.000 10.0 3
+SXO sp3_sp3_64  C42 C43 S1  C1   180.000 10.0 3
+SXO sp2_sp2_9   C2  C1  S1  C43  180.000 5.0  2
+SXO sp2_sp3_26  S1  C1  C2  C3   120.000 10.0 6
+SXO sp3_sp3_67  C1  C2  C3  C4   180.000 10.0 3
+SXO sp3_sp3_76  C2  C3  C4  C5   180.000 10.0 3
+SXO sp3_sp3_85  C3  C4  C5  C6   180.000 10.0 3
+SXO sp3_sp3_94  C4  C5  C6  C7   180.000 10.0 3
+SXO sp3_sp3_103 C5  C6  C7  C8   180.000 10.0 3
+SXO sp3_sp3_112 C6  C7  C8  H8A  180.000 10.0 3
+SXO sp3_sp3_4   C29 C28 O27 P24  180.000 10.0 3
+SXO sp3_sp3_8   O27 C28 C29 C31  -60.000 10.0 3
+SXO sp3_sp3_37  C28 C29 C30 H30  60.000  10.0 3
+SXO sp3_sp3_16  C28 C29 C31 H31  180.000 10.0 3
+SXO sp3_sp3_28  C28 C29 C32 O33  60.000  10.0 3
+SXO sp3_sp3_43  C29 C32 O33 HO33 180.000 10.0 3
+SXO sp2_sp3_1   O35 C34 C32 C29  0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -331,53 +333,72 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-SXO    chir_1    P24    O27    O25    O26    both
-SXO    chir_2    C29    C32    C28    C31    both
-SXO    chir_3    C32    O33    C34    C29    positive
+SXO chir_1 P24 O27 O25 O26 both
+SXO chir_2 C29 C32 C28 C31 both
+SXO chir_3 C32 O33 C34 C29 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-SXO    plan-1         C32   0.020
-SXO    plan-1         C34   0.020
-SXO    plan-1         N36   0.020
-SXO    plan-1         O35   0.020
-SXO    plan-2         C34   0.020
-SXO    plan-2         C37   0.020
-SXO    plan-2        HN36   0.020
-SXO    plan-2         N36   0.020
-SXO    plan-3         C38   0.020
-SXO    plan-3         C39   0.020
-SXO    plan-3         N41   0.020
-SXO    plan-3         O40   0.020
-SXO    plan-4         C39   0.020
-SXO    plan-4         C42   0.020
-SXO    plan-4        HN41   0.020
-SXO    plan-4         N41   0.020
-SXO    plan-5          C1   0.020
-SXO    plan-5          C2   0.020
-SXO    plan-5          O1   0.020
-SXO    plan-5          S1   0.020
+SXO plan-1 C32  0.020
+SXO plan-1 C34  0.020
+SXO plan-1 N36  0.020
+SXO plan-1 O35  0.020
+SXO plan-2 C34  0.020
+SXO plan-2 C37  0.020
+SXO plan-2 HN36 0.020
+SXO plan-2 N36  0.020
+SXO plan-3 C38  0.020
+SXO plan-3 C39  0.020
+SXO plan-3 N41  0.020
+SXO plan-3 O40  0.020
+SXO plan-4 C39  0.020
+SXO plan-4 C42  0.020
+SXO plan-4 HN41 0.020
+SXO plan-4 N41  0.020
+SXO plan-5 C1   0.020
+SXO plan-5 C2   0.020
+SXO plan-5 O1   0.020
+SXO plan-5 S1   0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-SXO           SMILES              ACDLabs 10.04                                                                                                                        O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O)CCCCCCC
-SXO SMILES_CANONICAL               CACTVS 3.341                                                                                                                 CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@@H](O)C(C)(C)CO[P](O)(O)=O
-SXO           SMILES               CACTVS 3.341                                                                                                                   CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(O)=O
-SXO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                    CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](C(C)(C)COP(=O)(O)O)O
-SXO           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                        CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)O)O
-SXO            InChI                InChI  1.03 InChI=1S/C19H37N2O8PS/c1-4-5-6-7-8-9-16(23)31-13-12-20-15(22)10-11-21-18(25)17(24)19(2,3)14-29-30(26,27)28/h17,24H,4-14H2,1-3H3,(H,20,22)(H,21,25)(H2,26,27,28)/t17-/m1/s1
-SXO         InChIKey                InChI  1.03                                                                                                                                                JIQRMRIKUIPMRV-QGZVFWFLSA-N
+SXO SMILES           ACDLabs              10.04 O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O)CCCCCCC
+SXO SMILES_CANONICAL CACTVS               3.341 CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@@H](O)C(C)(C)CO[P](O)(O)=O
+SXO SMILES           CACTVS               3.341 CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(O)=O
+SXO SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](C(C)(C)COP(=O)(O)O)O
+SXO SMILES           "OpenEye OEToolkits" 1.5.0 CCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)O)O
+SXO InChI            InChI                1.03  InChI=1S/C19H37N2O8PS/c1-4-5-6-7-8-9-16(23)31-13-12-20-15(22)10-11-21-18(25)17(24)19(2,3)14-29-30(26,27)28/h17,24H,4-14H2,1-3H3,(H,20,22)(H,21,25)(H2,26,27,28)/t17-/m1/s1
+SXO InChIKey         InChI                1.03  JIQRMRIKUIPMRV-QGZVFWFLSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-SXO acedrg               243         "dictionary generator"                  
-SXO acedrg_database      11          "data source"                           
-SXO rdkit                2017.03.2   "Chemoinformatics tool"
-SXO refmac5              5.8.0238    "optimization tool"                     
+SXO acedrg          243       "dictionary generator"
+SXO acedrg_database 11        "data source"
+SXO rdkit           2017.03.2 "Chemoinformatics tool"
+SXO refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+SXO DNA/RNA O25  OP3
+SXO DNA/RNA P24  P
+SXO DNA/RNA O23  OP1
+SXO DNA/RNA O26  OP2
+SXO DNA/RNA O27  O5'
+SXO DNA/RNA C28  C5'
+SXO DNA/RNA C29  C4'
+SXO DNA/RNA C32  C3'
+SXO DNA/RNA O33  O3'
+SXO DNA/RNA HO33 HO3'

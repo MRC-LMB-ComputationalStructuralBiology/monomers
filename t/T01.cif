@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-T01     T01      N-(4-fluorobenzoyl)-L-gamma-glutamyl-O-[(S)-{[(1S)-1,3-dicarboxypropyl]amino}(hydroxy)phosphoryl]-L-serine     NON-POLYMER     58     38     .     
-#
+T01 T01 N-(4-fluorobenzoyl)-L-gamma-glutamyl-O-[(S)-{[(1S)-1,3-dicarboxypropyl]amino}(hydroxy)phosphoryl]-L-serine NON-POLYMER 58 38 .
+
 data_comp_T01
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,64 +19,65 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-T01     CAP     C       CR16    0       26.582      49.972      42.125      
-T01     CAN     C       CR16    0       26.688      51.349      42.265      
-T01     CBG     C       CR6     0       26.014      51.952      43.296      
-T01     FAM     F       F       0       26.115      53.301      43.438      
-T01     CAO     C       CR16    0       25.241      51.255      44.189      
-T01     CAQ     C       CR16    0       25.140      49.878      44.040      
-T01     CBH     C       CR6     0       25.806      49.222      43.006      
-T01     CBF     C       C       0       25.701      47.731      42.848      
-T01     OAF     O       O       0       26.049      46.989      43.767      
-T01     N       N       NH1     0       25.231      47.279      41.673      
-T01     CA      C       CH1     0       25.101      45.865      41.334      
-T01     C       C       C       0       26.222      45.451      40.365      
-T01     OXT     O       O       0       26.269      46.032      39.263      
-T01     O       O       OC      -1      27.008      44.562      40.748      
-T01     CB      C       CH2     0       23.721      45.563      40.733      
-T01     CG      C       CH2     0       22.554      45.903      41.658      
-T01     CD      C       C       0       22.371      44.977      42.849      
-T01     OE1     O       O       0       23.101      44.001      43.013      
-T01     NE2     N       NH1     0       21.379      45.234      43.718      
-T01     CBK     C       CH1     0       20.374      46.285      43.589      
-T01     CBD     C       C       0       20.001      46.855      44.971      
-T01     OAK     O       OC      -1      20.065      46.085      45.951      
-T01     OAD     O       O       0       19.653      48.053      45.010      
-T01     CAV     C       CH2     0       19.134      45.755      42.874      
-T01     OAZ     O       O2      0       18.454      44.767      43.690      
-T01     PBL     P       P       0       17.430      43.710      43.052      
-T01     OAL     O       O       0       18.183      42.989      41.968      
-T01     OAG     O       OP      -1      16.919      42.911      44.218      
-T01     NAY     N       NT1     0       16.225      44.619      42.416      
-T01     CBJ     C       CH1     0       15.001      43.973      41.926      
-T01     CBC     C       C       0       15.126      43.486      40.470      
-T01     OAJ     O       O       0       14.484      42.465      40.154      
-T01     OAC     O       OC      -1      15.860      44.146      39.706      
-T01     CAT     C       CH2     0       13.782      44.894      42.083      
-T01     CAR     C       CH2     0       13.896      46.237      41.370      
-T01     CBA     C       C       0       12.658      47.118      41.432      
-T01     OAH     O       O       0       11.768      46.849      42.266      
-T01     OAA     O       OC      -1      12.587      48.081      40.642      
-T01     H1      H       H       0       27.038      49.542      41.423      
-T01     H2      H       H       0       27.210      51.857      41.669      
-T01     H3      H       H       0       24.790      51.699      44.886      
-T01     H4      H       H       0       24.615      49.384      44.644      
-T01     H5      H       H       0       24.980      47.854      41.066      
-T01     H6      H       H       0       25.197      45.329      42.158      
-T01     H8      H       H       0       23.683      44.611      40.501      
-T01     H9      H       H       0       23.627      46.074      39.902      
-T01     H10     H       H       0       21.728      45.894      41.129      
-T01     H11     H       H       0       22.679      46.815      41.989      
-T01     H12     H       H       0       21.327      44.721      44.425      
-T01     H13     H       H       0       20.734      47.034      43.054      
-T01     H15     H       H       0       19.398      45.354      42.018      
-T01     H16     H       H       0       18.523      46.500      42.684      
-T01     H18     H       H       0       16.484      45.248      41.888      
-T01     H19     H       H       0       14.836      43.173      42.488      
-T01     H21     H       H       0       13.640      45.057      43.039      
-T01     H22     H       H       0       12.993      44.423      41.742      
-T01     H23     H       H       0       14.107      46.081      40.426      
-T01     H24     H       H       0       14.645      46.737      41.757      
+T01 CAP C CR16 0  26.582 49.972 42.125
+T01 CAN C CR16 0  26.688 51.349 42.265
+T01 CBG C CR6  0  26.014 51.952 43.296
+T01 FAM F F    0  26.115 53.301 43.438
+T01 CAO C CR16 0  25.241 51.255 44.189
+T01 CAQ C CR16 0  25.140 49.878 44.040
+T01 CBH C CR6  0  25.806 49.222 43.006
+T01 CBF C C    0  25.701 47.731 42.848
+T01 OAF O O    0  26.049 46.989 43.767
+T01 N   N NH1  0  25.231 47.279 41.673
+T01 CA  C CH1  0  25.101 45.865 41.334
+T01 C   C C    0  26.222 45.451 40.365
+T01 OXT O O    0  26.269 46.032 39.263
+T01 O   O OC   -1 27.008 44.562 40.748
+T01 CB  C CH2  0  23.721 45.563 40.733
+T01 CG  C CH2  0  22.554 45.903 41.658
+T01 CD  C C    0  22.371 44.977 42.849
+T01 OE1 O O    0  23.101 44.001 43.013
+T01 NE2 N NH1  0  21.379 45.234 43.718
+T01 CBK C CH1  0  20.374 46.285 43.589
+T01 CBD C C    0  20.001 46.855 44.971
+T01 OAK O OC   -1 20.065 46.085 45.951
+T01 OAD O O    0  19.653 48.053 45.010
+T01 CAV C CH2  0  19.134 45.755 42.874
+T01 OAZ O O2   0  18.454 44.767 43.690
+T01 PBL P P    0  17.430 43.710 43.052
+T01 OAL O O    0  18.183 42.989 41.968
+T01 OAG O OP   -1 16.919 42.911 44.218
+T01 NAY N NT1  0  16.225 44.619 42.416
+T01 CBJ C CH1  0  15.001 43.973 41.926
+T01 CBC C C    0  15.126 43.486 40.470
+T01 OAJ O O    0  14.484 42.465 40.154
+T01 OAC O OC   -1 15.860 44.146 39.706
+T01 CAT C CH2  0  13.782 44.894 42.083
+T01 CAR C CH2  0  13.896 46.237 41.370
+T01 CBA C C    0  12.658 47.118 41.432
+T01 OAH O O    0  11.768 46.849 42.266
+T01 OAA O OC   -1 12.587 48.081 40.642
+T01 H1  H H    0  27.038 49.542 41.423
+T01 H2  H H    0  27.210 51.857 41.669
+T01 H3  H H    0  24.790 51.699 44.886
+T01 H4  H H    0  24.615 49.384 44.644
+T01 H5  H H    0  24.980 47.854 41.066
+T01 H6  H H    0  25.197 45.329 42.158
+T01 H8  H H    0  23.683 44.611 40.501
+T01 H9  H H    0  23.627 46.074 39.902
+T01 H10 H H    0  21.728 45.894 41.129
+T01 H11 H H    0  22.679 46.815 41.989
+T01 H12 H H    0  21.327 44.721 44.425
+T01 H13 H H    0  20.734 47.034 43.054
+T01 H15 H H    0  19.398 45.354 42.018
+T01 H16 H H    0  18.523 46.500 42.684
+T01 H18 H H    0  16.484 45.248 41.888
+T01 H19 H H    0  14.836 43.173 42.488
+T01 H21 H H    0  13.640 45.057 43.039
+T01 H22 H H    0  12.993 44.423 41.742
+T01 H23 H H    0  14.107 46.081 40.426
+T01 H24 H H    0  14.645 46.737 41.757
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -89,64 +88,65 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-T01           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-T01           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-T01          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-T01         CBC         OAJ      DOUBLE       n     1.247  0.0187     1.247  0.0187
-T01         CBA         OAH      DOUBLE       n     1.247  0.0187     1.247  0.0187
-T01         CAP         CAN      DOUBLE       y     1.384  0.0100     1.384  0.0100
-T01         CAN         CBG      SINGLE       y     1.368  0.0100     1.368  0.0100
-T01         CAP         CBH      SINGLE       y     1.390  0.0100     1.390  0.0100
-T01         CBA         OAA      SINGLE       n     1.247  0.0187     1.247  0.0187
-T01         CAR         CBA      SINGLE       n     1.519  0.0109     1.519  0.0109
-T01         CBC         OAC      SINGLE       n     1.247  0.0187     1.247  0.0187
-T01         CBJ         CBC      SINGLE       n     1.539  0.0100     1.539  0.0100
-T01           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-T01         CBF           N      SINGLE       n     1.337  0.0101     1.337  0.0101
-T01          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-T01          CB          CG      SINGLE       n     1.522  0.0131     1.522  0.0131
-T01         CAT         CAR      SINGLE       n     1.518  0.0153     1.518  0.0153
-T01         CBJ         CAT      SINGLE       n     1.533  0.0100     1.533  0.0100
-T01         CBG         FAM      SINGLE       n     1.361  0.0100     1.361  0.0100
-T01         CBG         CAO      DOUBLE       y     1.368  0.0100     1.368  0.0100
-T01         CBH         CBF      SINGLE       n     1.502  0.0100     1.502  0.0100
-T01         CAQ         CBH      DOUBLE       y     1.390  0.0100     1.390  0.0100
-T01         NAY         CBJ      SINGLE       n     1.466  0.0110     1.466  0.0110
-T01         CBF         OAF      DOUBLE       n     1.230  0.0114     1.230  0.0114
-T01          CG          CD      SINGLE       n     1.514  0.0100     1.514  0.0100
-T01         CAO         CAQ      SINGLE       y     1.384  0.0100     1.384  0.0100
-T01         PBL         OAL      DOUBLE       n     1.504  0.0123     1.504  0.0123
-T01         PBL         NAY      SINGLE       n     1.635  0.0169     1.635  0.0169
-T01          CD         OE1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-T01          CD         NE2      SINGLE       n     1.334  0.0100     1.334  0.0100
-T01         CBK         CAV      SINGLE       n     1.525  0.0102     1.525  0.0102
-T01         CAV         OAZ      SINGLE       n     1.447  0.0162     1.447  0.0162
-T01         OAZ         PBL      SINGLE       n     1.603  0.0146     1.603  0.0146
-T01         PBL         OAG      SINGLE       n     1.504  0.0123     1.504  0.0123
-T01         NE2         CBK      SINGLE       n     1.453  0.0100     1.453  0.0100
-T01         CBK         CBD      SINGLE       n     1.539  0.0100     1.539  0.0100
-T01         CBD         OAD      DOUBLE       n     1.247  0.0187     1.247  0.0187
-T01         CBD         OAK      SINGLE       n     1.247  0.0187     1.247  0.0187
-T01         CAP          H1      SINGLE       n     1.082  0.0130     0.941  0.0168
-T01         CAN          H2      SINGLE       n     1.082  0.0130     0.941  0.0154
-T01         CAO          H3      SINGLE       n     1.082  0.0130     0.941  0.0154
-T01         CAQ          H4      SINGLE       n     1.082  0.0130     0.941  0.0168
-T01           N          H5      SINGLE       n     1.016  0.0100     0.872  0.0200
-T01          CA          H6      SINGLE       n     1.089  0.0100     0.991  0.0200
-T01          CB          H8      SINGLE       n     1.089  0.0100     0.980  0.0178
-T01          CB          H9      SINGLE       n     1.089  0.0100     0.980  0.0178
-T01          CG         H10      SINGLE       n     1.089  0.0100     0.981  0.0185
-T01          CG         H11      SINGLE       n     1.089  0.0100     0.981  0.0185
-T01         NE2         H12      SINGLE       n     1.016  0.0100     0.873  0.0200
-T01         CBK         H13      SINGLE       n     1.089  0.0100     0.991  0.0123
-T01         CAV         H15      SINGLE       n     1.089  0.0100     0.982  0.0184
-T01         CAV         H16      SINGLE       n     1.089  0.0100     0.982  0.0184
-T01         NAY         H18      SINGLE       n     1.036  0.0160     0.863  0.0200
-T01         CBJ         H19      SINGLE       n     1.089  0.0100     0.991  0.0200
-T01         CAT         H21      SINGLE       n     1.089  0.0100     0.980  0.0178
-T01         CAT         H22      SINGLE       n     1.089  0.0100     0.980  0.0178
-T01         CAR         H23      SINGLE       n     1.089  0.0100     0.981  0.0185
-T01         CAR         H24      SINGLE       n     1.089  0.0100     0.981  0.0185
+T01 C   OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+T01 C   O   SINGLE n 1.247 0.0187 1.247 0.0187
+T01 CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+T01 CBC OAJ DOUBLE n 1.247 0.0187 1.247 0.0187
+T01 CBA OAH DOUBLE n 1.247 0.0187 1.247 0.0187
+T01 CAP CAN DOUBLE y 1.384 0.0100 1.384 0.0100
+T01 CAN CBG SINGLE y 1.368 0.0100 1.368 0.0100
+T01 CAP CBH SINGLE y 1.390 0.0100 1.390 0.0100
+T01 CBA OAA SINGLE n 1.247 0.0187 1.247 0.0187
+T01 CAR CBA SINGLE n 1.519 0.0109 1.519 0.0109
+T01 CBC OAC SINGLE n 1.247 0.0187 1.247 0.0187
+T01 CBJ CBC SINGLE n 1.539 0.0100 1.539 0.0100
+T01 N   CA  SINGLE n 1.456 0.0100 1.456 0.0100
+T01 CBF N   SINGLE n 1.337 0.0101 1.337 0.0101
+T01 CA  CB  SINGLE n 1.533 0.0100 1.533 0.0100
+T01 CB  CG  SINGLE n 1.522 0.0131 1.522 0.0131
+T01 CAT CAR SINGLE n 1.518 0.0153 1.518 0.0153
+T01 CBJ CAT SINGLE n 1.533 0.0100 1.533 0.0100
+T01 CBG FAM SINGLE n 1.361 0.0100 1.361 0.0100
+T01 CBG CAO DOUBLE y 1.368 0.0100 1.368 0.0100
+T01 CBH CBF SINGLE n 1.502 0.0100 1.502 0.0100
+T01 CAQ CBH DOUBLE y 1.390 0.0100 1.390 0.0100
+T01 NAY CBJ SINGLE n 1.466 0.0110 1.466 0.0110
+T01 CBF OAF DOUBLE n 1.230 0.0114 1.230 0.0114
+T01 CG  CD  SINGLE n 1.514 0.0100 1.514 0.0100
+T01 CAO CAQ SINGLE y 1.384 0.0100 1.384 0.0100
+T01 PBL OAL DOUBLE n 1.504 0.0123 1.504 0.0123
+T01 PBL NAY SINGLE n 1.635 0.0169 1.635 0.0169
+T01 CD  OE1 DOUBLE n 1.229 0.0102 1.229 0.0102
+T01 CD  NE2 SINGLE n 1.334 0.0100 1.334 0.0100
+T01 CBK CAV SINGLE n 1.525 0.0102 1.525 0.0102
+T01 CAV OAZ SINGLE n 1.447 0.0162 1.447 0.0162
+T01 OAZ PBL SINGLE n 1.603 0.0146 1.603 0.0146
+T01 PBL OAG SINGLE n 1.504 0.0123 1.504 0.0123
+T01 NE2 CBK SINGLE n 1.453 0.0100 1.453 0.0100
+T01 CBK CBD SINGLE n 1.539 0.0100 1.539 0.0100
+T01 CBD OAD DOUBLE n 1.247 0.0187 1.247 0.0187
+T01 CBD OAK SINGLE n 1.247 0.0187 1.247 0.0187
+T01 CAP H1  SINGLE n 1.082 0.0130 0.941 0.0168
+T01 CAN H2  SINGLE n 1.082 0.0130 0.941 0.0154
+T01 CAO H3  SINGLE n 1.082 0.0130 0.941 0.0154
+T01 CAQ H4  SINGLE n 1.082 0.0130 0.941 0.0168
+T01 N   H5  SINGLE n 1.016 0.0100 0.872 0.0200
+T01 CA  H6  SINGLE n 1.089 0.0100 0.991 0.0200
+T01 CB  H8  SINGLE n 1.089 0.0100 0.980 0.0178
+T01 CB  H9  SINGLE n 1.089 0.0100 0.980 0.0178
+T01 CG  H10 SINGLE n 1.089 0.0100 0.981 0.0185
+T01 CG  H11 SINGLE n 1.089 0.0100 0.981 0.0185
+T01 NE2 H12 SINGLE n 1.016 0.0100 0.873 0.0200
+T01 CBK H13 SINGLE n 1.089 0.0100 0.991 0.0123
+T01 CAV H15 SINGLE n 1.089 0.0100 0.982 0.0184
+T01 CAV H16 SINGLE n 1.089 0.0100 0.982 0.0184
+T01 NAY H18 SINGLE n 1.036 0.0160 0.863 0.0200
+T01 CBJ H19 SINGLE n 1.089 0.0100 0.991 0.0200
+T01 CAT H21 SINGLE n 1.089 0.0100 0.980 0.0178
+T01 CAT H22 SINGLE n 1.089 0.0100 0.980 0.0178
+T01 CAR H23 SINGLE n 1.089 0.0100 0.981 0.0185
+T01 CAR H24 SINGLE n 1.089 0.0100 0.981 0.0185
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -154,106 +154,107 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-T01         CAN         CAP         CBH     120.734    1.50
-T01         CAN         CAP          H1     119.505    1.50
-T01         CBH         CAP          H1     119.770    1.50
-T01         CAP         CAN         CBG     118.265    1.50
-T01         CAP         CAN          H2     120.938    1.50
-T01         CBG         CAN          H2     120.797    1.50
-T01         CAN         CBG         FAM     118.498    1.50
-T01         CAN         CBG         CAO     123.004    1.50
-T01         FAM         CBG         CAO     118.498    1.50
-T01         CBG         CAO         CAQ     118.265    1.50
-T01         CBG         CAO          H3     120.797    1.50
-T01         CAQ         CAO          H3     120.938    1.50
-T01         CBH         CAQ         CAO     120.734    1.50
-T01         CBH         CAQ          H4     119.770    1.50
-T01         CAO         CAQ          H4     119.505    1.50
-T01         CAP         CBH         CBF     120.511    2.80
-T01         CAP         CBH         CAQ     118.979    1.50
-T01         CBF         CBH         CAQ     120.511    2.80
-T01           N         CBF         CBH     116.740    1.50
-T01           N         CBF         OAF     122.394    1.50
-T01         CBH         CBF         OAF     120.865    1.50
-T01          CA           N         CBF     122.253    1.50
-T01          CA           N          H5     118.320    2.24
-T01         CBF           N          H5     119.427    1.94
-T01           C          CA           N     110.522    1.86
-T01           C          CA          CB     111.638    2.31
-T01           C          CA          H6     108.327    1.50
-T01           N          CA          CB     110.984    1.61
-T01           N          CA          H6     107.930    1.50
-T01          CB          CA          H6     108.155    1.50
-T01         OXT           C           O     125.502    1.50
-T01         OXT           C          CA     117.249    1.61
-T01           O           C          CA     117.249    1.61
-T01          CA          CB          CG     113.079    1.50
-T01          CA          CB          H8     108.606    1.50
-T01          CA          CB          H9     108.606    1.50
-T01          CG          CB          H8     109.107    1.50
-T01          CG          CB          H9     109.107    1.50
-T01          H8          CB          H9     107.844    1.50
-T01          CB          CG          CD     111.900    2.98
-T01          CB          CG         H10     109.204    1.50
-T01          CB          CG         H11     109.204    1.50
-T01          CD          CG         H10     108.930    1.50
-T01          CD          CG         H11     108.930    1.50
-T01         H10          CG         H11     107.846    1.50
-T01          CG          CD         OE1     121.831    1.50
-T01          CG          CD         NE2     116.136    1.50
-T01         OE1          CD         NE2     122.033    1.50
-T01          CD         NE2         CBK     122.204    1.76
-T01          CD         NE2         H12     118.959    1.50
-T01         CBK         NE2         H12     118.837    1.50
-T01         CAV         CBK         NE2     110.700    1.50
-T01         CAV         CBK         CBD     110.594    1.50
-T01         CAV         CBK         H13     107.990    1.50
-T01         NE2         CBK         CBD     110.370    1.63
-T01         NE2         CBK         H13     108.840    1.50
-T01         CBD         CBK         H13     107.898    1.50
-T01         CBK         CBD         OAD     117.118    2.07
-T01         CBK         CBD         OAK     117.118    2.07
-T01         OAD         CBD         OAK     125.765    1.50
-T01         CBK         CAV         OAZ     110.601    3.00
-T01         CBK         CAV         H15     109.674    1.50
-T01         CBK         CAV         H16     109.674    1.50
-T01         OAZ         CAV         H15     109.739    1.50
-T01         OAZ         CAV         H16     109.739    1.50
-T01         H15         CAV         H16     108.157    1.50
-T01         CAV         OAZ         PBL     120.761    1.50
-T01         OAL         PBL         NAY     113.406    3.00
-T01         OAL         PBL         OAZ     107.010    3.00
-T01         OAL         PBL         OAG     118.893    1.50
-T01         NAY         PBL         OAZ     104.521    3.00
-T01         NAY         PBL         OAG     113.406    3.00
-T01         OAZ         PBL         OAG     107.010    3.00
-T01         CBJ         NAY         PBL     120.863    2.69
-T01         CBJ         NAY         H18     111.283    3.00
-T01         PBL         NAY         H18     115.833    3.00
-T01         CBC         CBJ         CAT     110.328    1.98
-T01         CBC         CBJ         NAY     113.481    2.07
-T01         CBC         CBJ         H19     108.169    1.50
-T01         CAT         CBJ         NAY     109.731    2.61
-T01         CAT         CBJ         H19     108.223    1.50
-T01         NAY         CBJ         H19     108.621    1.50
-T01         OAJ         CBC         OAC     125.548    1.50
-T01         OAJ         CBC         CBJ     117.226    1.56
-T01         OAC         CBC         CBJ     117.226    1.56
-T01         CAR         CAT         CBJ     113.079    1.50
-T01         CAR         CAT         H21     108.890    1.50
-T01         CAR         CAT         H22     108.890    1.50
-T01         CBJ         CAT         H21     108.562    1.50
-T01         CBJ         CAT         H22     108.562    1.50
-T01         H21         CAT         H22     107.844    1.50
-T01         CBA         CAR         CAT     114.629    2.24
-T01         CBA         CAR         H23     108.404    1.50
-T01         CBA         CAR         H24     108.404    1.50
-T01         CAT         CAR         H23     108.906    1.50
-T01         CAT         CAR         H24     108.906    1.50
-T01         H23         CAR         H24     107.521    1.50
-T01         OAH         CBA         OAA     123.571    1.50
-T01         OAH         CBA         CAR     118.214    1.64
-T01         OAA         CBA         CAR     118.214    1.64
+T01 CAN CAP CBH 120.734 1.50
+T01 CAN CAP H1  119.505 1.50
+T01 CBH CAP H1  119.770 1.50
+T01 CAP CAN CBG 118.265 1.50
+T01 CAP CAN H2  120.938 1.50
+T01 CBG CAN H2  120.797 1.50
+T01 CAN CBG FAM 118.498 1.50
+T01 CAN CBG CAO 123.004 1.50
+T01 FAM CBG CAO 118.498 1.50
+T01 CBG CAO CAQ 118.265 1.50
+T01 CBG CAO H3  120.797 1.50
+T01 CAQ CAO H3  120.938 1.50
+T01 CBH CAQ CAO 120.734 1.50
+T01 CBH CAQ H4  119.770 1.50
+T01 CAO CAQ H4  119.505 1.50
+T01 CAP CBH CBF 120.511 2.80
+T01 CAP CBH CAQ 118.979 1.50
+T01 CBF CBH CAQ 120.511 2.80
+T01 N   CBF CBH 116.740 1.50
+T01 N   CBF OAF 122.394 1.50
+T01 CBH CBF OAF 120.865 1.50
+T01 CA  N   CBF 122.253 1.50
+T01 CA  N   H5  118.320 2.24
+T01 CBF N   H5  119.427 1.94
+T01 C   CA  N   110.522 1.86
+T01 C   CA  CB  111.638 2.31
+T01 C   CA  H6  108.327 1.50
+T01 N   CA  CB  110.984 1.61
+T01 N   CA  H6  107.930 1.50
+T01 CB  CA  H6  108.155 1.50
+T01 OXT C   O   125.502 1.50
+T01 OXT C   CA  117.249 1.61
+T01 O   C   CA  117.249 1.61
+T01 CA  CB  CG  113.079 1.50
+T01 CA  CB  H8  108.606 1.50
+T01 CA  CB  H9  108.606 1.50
+T01 CG  CB  H8  109.107 1.50
+T01 CG  CB  H9  109.107 1.50
+T01 H8  CB  H9  107.844 1.50
+T01 CB  CG  CD  111.900 2.98
+T01 CB  CG  H10 109.204 1.50
+T01 CB  CG  H11 109.204 1.50
+T01 CD  CG  H10 108.930 1.50
+T01 CD  CG  H11 108.930 1.50
+T01 H10 CG  H11 107.846 1.50
+T01 CG  CD  OE1 121.831 1.50
+T01 CG  CD  NE2 116.136 1.50
+T01 OE1 CD  NE2 122.033 1.50
+T01 CD  NE2 CBK 122.204 1.76
+T01 CD  NE2 H12 118.959 1.50
+T01 CBK NE2 H12 118.837 1.50
+T01 CAV CBK NE2 110.700 1.50
+T01 CAV CBK CBD 110.594 1.50
+T01 CAV CBK H13 107.990 1.50
+T01 NE2 CBK CBD 110.370 1.63
+T01 NE2 CBK H13 108.840 1.50
+T01 CBD CBK H13 107.898 1.50
+T01 CBK CBD OAD 117.118 2.07
+T01 CBK CBD OAK 117.118 2.07
+T01 OAD CBD OAK 125.765 1.50
+T01 CBK CAV OAZ 110.601 3.00
+T01 CBK CAV H15 109.674 1.50
+T01 CBK CAV H16 109.674 1.50
+T01 OAZ CAV H15 109.739 1.50
+T01 OAZ CAV H16 109.739 1.50
+T01 H15 CAV H16 108.157 1.50
+T01 CAV OAZ PBL 120.761 1.50
+T01 OAL PBL NAY 113.406 3.00
+T01 OAL PBL OAZ 107.010 3.00
+T01 OAL PBL OAG 118.893 1.50
+T01 NAY PBL OAZ 104.521 3.00
+T01 NAY PBL OAG 113.406 3.00
+T01 OAZ PBL OAG 107.010 3.00
+T01 CBJ NAY PBL 120.863 2.69
+T01 CBJ NAY H18 111.283 3.00
+T01 PBL NAY H18 115.833 3.00
+T01 CBC CBJ CAT 110.328 1.98
+T01 CBC CBJ NAY 113.481 2.07
+T01 CBC CBJ H19 108.169 1.50
+T01 CAT CBJ NAY 109.731 2.61
+T01 CAT CBJ H19 108.223 1.50
+T01 NAY CBJ H19 108.621 1.50
+T01 OAJ CBC OAC 125.548 1.50
+T01 OAJ CBC CBJ 117.226 1.56
+T01 OAC CBC CBJ 117.226 1.56
+T01 CAR CAT CBJ 113.079 1.50
+T01 CAR CAT H21 108.890 1.50
+T01 CAR CAT H22 108.890 1.50
+T01 CBJ CAT H21 108.562 1.50
+T01 CBJ CAT H22 108.562 1.50
+T01 H21 CAT H22 107.844 1.50
+T01 CBA CAR CAT 114.629 2.24
+T01 CBA CAR H23 108.404 1.50
+T01 CBA CAR H24 108.404 1.50
+T01 CAT CAR H23 108.906 1.50
+T01 CAT CAR H24 108.906 1.50
+T01 H23 CAR H24 107.521 1.50
+T01 OAH CBA OAA 123.571 1.50
+T01 OAH CBA CAR 118.214 1.64
+T01 OAA CBA CAR 118.214 1.64
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -264,31 +265,32 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-T01       const_sp2_sp2_1         CBG         CAN         CAP         CBH       0.000     5.0     2
-T01              const_22         CAN         CAP         CBH         CBF     180.000    10.0     2
-T01             sp2_sp3_1         OXT           C          CA           N       0.000    10.0     6
-T01             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
-T01            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
-T01            sp2_sp3_26         OE1          CD          CG          CB     120.000    10.0     6
-T01             sp2_sp2_9          CG          CD         NE2         CBK     180.000     5.0     2
-T01            sp2_sp3_31          CD         NE2         CBK         CAV       0.000    10.0     6
-T01            sp2_sp3_37         OAD         CBD         CBK         CAV       0.000    10.0     6
-T01            sp3_sp3_49         OAZ         CAV         CBK         NE2     180.000    10.0     3
-T01       const_sp2_sp2_6         CAP         CAN         CBG         FAM     180.000     5.0     2
-T01            sp3_sp3_58         CBK         CAV         OAZ         PBL     180.000    10.0     3
-T01            sp3_sp3_61         CAV         OAZ         PBL         OAL     180.000    10.0     3
-T01            sp3_sp3_48         CBJ         NAY         PBL         OAL     -60.000    10.0     3
-T01            sp3_sp3_37         CBC         CBJ         NAY         PBL     180.000    10.0     3
-T01            sp2_sp3_13         OAJ         CBC         CBJ         CAT       0.000    10.0     6
-T01            sp3_sp3_28         CAR         CAT         CBJ         CBC     180.000    10.0     3
-T01              const_10         CAQ         CAO         CBG         FAM     180.000    10.0     2
-T01            sp3_sp3_19         CBA         CAR         CAT         CBJ     180.000    10.0     3
-T01             sp2_sp3_8         OAH         CBA         CAR         CAT     120.000    10.0     6
-T01              const_13         CBG         CAO         CAQ         CBH       0.000    10.0     2
-T01              const_18         CAO         CAQ         CBH         CBF     180.000    10.0     2
-T01             sp2_sp2_5           N         CBF         CBH         CAP     180.000     5.0     2
-T01             sp2_sp2_3         OAF         CBF           N          CA       0.000     5.0     2
-T01            sp2_sp3_19         CBF           N          CA           C       0.000    10.0     6
+T01 const_sp2_sp2_1 CBG CAN CAP CBH 0.000   5.0  2
+T01 const_22        CAN CAP CBH CBF 180.000 10.0 2
+T01 sp2_sp3_1       OXT C   CA  N   0.000   10.0 6
+T01 sp3_sp3_1       C   CA  CB  CG  180.000 10.0 3
+T01 sp3_sp3_10      CA  CB  CG  CD  180.000 10.0 3
+T01 sp2_sp3_26      OE1 CD  CG  CB  120.000 10.0 6
+T01 sp2_sp2_9       CG  CD  NE2 CBK 180.000 5.0  2
+T01 sp2_sp3_31      CD  NE2 CBK CAV 0.000   10.0 6
+T01 sp2_sp3_37      OAD CBD CBK CAV 0.000   10.0 6
+T01 sp3_sp3_49      OAZ CAV CBK NE2 180.000 10.0 3
+T01 const_sp2_sp2_6 CAP CAN CBG FAM 180.000 5.0  2
+T01 sp3_sp3_58      CBK CAV OAZ PBL 180.000 10.0 3
+T01 sp3_sp3_61      CAV OAZ PBL OAL 180.000 10.0 3
+T01 sp3_sp3_48      CBJ NAY PBL OAL -60.000 10.0 3
+T01 sp3_sp3_37      CBC CBJ NAY PBL 180.000 10.0 3
+T01 sp2_sp3_13      OAJ CBC CBJ CAT 0.000   10.0 6
+T01 sp3_sp3_28      CAR CAT CBJ CBC 180.000 10.0 3
+T01 const_10        CAQ CAO CBG FAM 180.000 10.0 2
+T01 sp3_sp3_19      CBA CAR CAT CBJ 180.000 10.0 3
+T01 sp2_sp3_8       OAH CBA CAR CAT 120.000 10.0 6
+T01 const_13        CBG CAO CAQ CBH 0.000   10.0 2
+T01 const_18        CAO CAQ CBH CBF 180.000 10.0 2
+T01 sp2_sp2_5       N   CBF CBH CAP 180.000 5.0  2
+T01 sp2_sp2_3       OAF CBF N   CA  0.000   5.0  2
+T01 sp2_sp3_19      CBF N   CA  C   0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -297,79 +299,92 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-T01    chir_1    CA    N    C    CB    positive
-T01    chir_2    CBK    NE2    CBD    CAV    positive
-T01    chir_3    PBL    OAZ    OAG    OAL    both
-T01    chir_4    CBJ    NAY    CBC    CAT    positive
-T01    chir_5    NAY    PBL    CBJ    H18    both
+T01 chir_1 CA  N   C   CB  positive
+T01 chir_2 CBK NE2 CBD CAV positive
+T01 chir_3 PBL OAZ OAG OAL both
+T01 chir_4 CBJ NAY CBC CAT positive
+T01 chir_5 NAY PBL CBJ H18 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-T01    plan-1         CAN   0.020
-T01    plan-1         CAO   0.020
-T01    plan-1         CAP   0.020
-T01    plan-1         CAQ   0.020
-T01    plan-1         CBF   0.020
-T01    plan-1         CBG   0.020
-T01    plan-1         CBH   0.020
-T01    plan-1         FAM   0.020
-T01    plan-1          H1   0.020
-T01    plan-1          H2   0.020
-T01    plan-1          H3   0.020
-T01    plan-1          H4   0.020
-T01    plan-2         CBF   0.020
-T01    plan-2         CBH   0.020
-T01    plan-2           N   0.020
-T01    plan-2         OAF   0.020
-T01    plan-3          CA   0.020
-T01    plan-3         CBF   0.020
-T01    plan-3          H5   0.020
-T01    plan-3           N   0.020
-T01    plan-4           C   0.020
-T01    plan-4          CA   0.020
-T01    plan-4           O   0.020
-T01    plan-4         OXT   0.020
-T01    plan-5          CD   0.020
-T01    plan-5          CG   0.020
-T01    plan-5         NE2   0.020
-T01    plan-5         OE1   0.020
-T01    plan-6         CBK   0.020
-T01    plan-6          CD   0.020
-T01    plan-6         H12   0.020
-T01    plan-6         NE2   0.020
-T01    plan-7         CBD   0.020
-T01    plan-7         CBK   0.020
-T01    plan-7         OAD   0.020
-T01    plan-7         OAK   0.020
-T01    plan-8         CBC   0.020
-T01    plan-8         CBJ   0.020
-T01    plan-8         OAC   0.020
-T01    plan-8         OAJ   0.020
-T01    plan-9         CAR   0.020
-T01    plan-9         CBA   0.020
-T01    plan-9         OAA   0.020
-T01    plan-9         OAH   0.020
+T01 plan-1 CAN 0.020
+T01 plan-1 CAO 0.020
+T01 plan-1 CAP 0.020
+T01 plan-1 CAQ 0.020
+T01 plan-1 CBF 0.020
+T01 plan-1 CBG 0.020
+T01 plan-1 CBH 0.020
+T01 plan-1 FAM 0.020
+T01 plan-1 H1  0.020
+T01 plan-1 H2  0.020
+T01 plan-1 H3  0.020
+T01 plan-1 H4  0.020
+T01 plan-2 CBF 0.020
+T01 plan-2 CBH 0.020
+T01 plan-2 N   0.020
+T01 plan-2 OAF 0.020
+T01 plan-3 CA  0.020
+T01 plan-3 CBF 0.020
+T01 plan-3 H5  0.020
+T01 plan-3 N   0.020
+T01 plan-4 C   0.020
+T01 plan-4 CA  0.020
+T01 plan-4 O   0.020
+T01 plan-4 OXT 0.020
+T01 plan-5 CD  0.020
+T01 plan-5 CG  0.020
+T01 plan-5 NE2 0.020
+T01 plan-5 OE1 0.020
+T01 plan-6 CBK 0.020
+T01 plan-6 CD  0.020
+T01 plan-6 H12 0.020
+T01 plan-6 NE2 0.020
+T01 plan-7 CBD 0.020
+T01 plan-7 CBK 0.020
+T01 plan-7 OAD 0.020
+T01 plan-7 OAK 0.020
+T01 plan-8 CBC 0.020
+T01 plan-8 CBJ 0.020
+T01 plan-8 OAC 0.020
+T01 plan-8 OAJ 0.020
+T01 plan-9 CAR 0.020
+T01 plan-9 CBA 0.020
+T01 plan-9 OAA 0.020
+T01 plan-9 OAH 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-T01           SMILES              ACDLabs 12.01                                                                                                                                                                      O=C(c1ccc(F)cc1)NC(C(=O)O)CCC(=O)NC(C(=O)O)COP(=O)(O)NC(C(=O)O)CCC(=O)O
-T01            InChI                InChI  1.03 InChI=1S/C20H25FN3O13P/c21-11-3-1-10(2-4-11)17(28)23-12(18(29)30)5-7-15(25)22-14(20(33)34)9-37-38(35,36)24-13(19(31)32)6-8-16(26)27/h1-4,12-14H,5-9H2,(H,22,25)(H,23,28)(H,26,27)(H,29,30)(H,31,32)(H,33,34)(H2,24,35,36)/t12-,13-,14-/m0/s1
-T01         InChIKey                InChI  1.03                                                                                                                                                                                                                  MVGKQICKXWWQHS-IHRRRGAJSA-N
-T01 SMILES_CANONICAL               CACTVS 3.370                                                                                                                                                        OC(=O)CC[C@H](N[P](O)(=O)OC[C@H](NC(=O)CC[C@H](NC(=O)c1ccc(F)cc1)C(O)=O)C(O)=O)C(O)=O
-T01           SMILES               CACTVS 3.370                                                                                                                                                           OC(=O)CC[CH](N[P](O)(=O)OC[CH](NC(=O)CC[CH](NC(=O)c1ccc(F)cc1)C(O)=O)C(O)=O)C(O)=O
-T01 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                                       c1cc(ccc1C(=O)N[C@@H](CCC(=O)N[C@@H](COP(=O)(N[C@@H](CCC(=O)O)C(=O)O)O)C(=O)O)C(=O)O)F
-T01           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                                      c1cc(ccc1C(=O)NC(CCC(=O)NC(COP(=O)(NC(CCC(=O)O)C(=O)O)O)C(=O)O)C(=O)O)F
+T01 SMILES           ACDLabs              12.01 O=C(c1ccc(F)cc1)NC(C(=O)O)CCC(=O)NC(C(=O)O)COP(=O)(O)NC(C(=O)O)CCC(=O)O
+T01 InChI            InChI                1.03  InChI=1S/C20H25FN3O13P/c21-11-3-1-10(2-4-11)17(28)23-12(18(29)30)5-7-15(25)22-14(20(33)34)9-37-38(35,36)24-13(19(31)32)6-8-16(26)27/h1-4,12-14H,5-9H2,(H,22,25)(H,23,28)(H,26,27)(H,29,30)(H,31,32)(H,33,34)(H2,24,35,36)/t12-,13-,14-/m0/s1
+T01 InChIKey         InChI                1.03  MVGKQICKXWWQHS-IHRRRGAJSA-N
+T01 SMILES_CANONICAL CACTVS               3.370 OC(=O)CC[C@H](N[P](O)(=O)OC[C@H](NC(=O)CC[C@H](NC(=O)c1ccc(F)cc1)C(O)=O)C(O)=O)C(O)=O
+T01 SMILES           CACTVS               3.370 OC(=O)CC[CH](N[P](O)(=O)OC[CH](NC(=O)CC[CH](NC(=O)c1ccc(F)cc1)C(O)=O)C(O)=O)C(O)=O
+T01 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 c1cc(ccc1C(=O)N[C@@H](CCC(=O)N[C@@H](COP(=O)(N[C@@H](CCC(=O)O)C(=O)O)O)C(=O)O)C(=O)O)F
+T01 SMILES           "OpenEye OEToolkits" 1.7.6 c1cc(ccc1C(=O)NC(CCC(=O)NC(COP(=O)(NC(CCC(=O)O)C(=O)O)O)C(=O)O)C(=O)O)F
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-T01 acedrg               243         "dictionary generator"                  
-T01 acedrg_database      11          "data source"                           
-T01 rdkit                2017.03.2   "Chemoinformatics tool"
-T01 refmac5              5.8.0238    "optimization tool"                     
+T01 acedrg          243       "dictionary generator"
+T01 acedrg_database 11        "data source"
+T01 rdkit           2017.03.2 "Chemoinformatics tool"
+T01 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+T01 M-peptide OXT O
+T01 M-peptide CBF CN
+T01 M-peptide O   OXT
+T01 M-peptide H5  H

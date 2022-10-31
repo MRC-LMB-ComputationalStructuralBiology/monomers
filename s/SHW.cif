@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-SHW     SHW      "S-[2-[3-[[(2S)-2-hydroxy-3,3-dimethyl-4-phosphonooxy-butanoyl]amino]propanoylamino]ethyl] (3R)-3-hydroxyoctanethioate"     NON-POLYMER     67     32     .     
-#
+SHW SHW "S-[2-[3-[[(2S)-2-hydroxy-3,3-dimethyl-4-phosphonooxy-butanoyl]amino]propanoylamino]ethyl] (3R)-3-hydroxyoctanethioate" NON-POLYMER 67 32 .
+
 data_comp_SHW
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,73 +19,74 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-SHW     C1      C       C       0       -3.570      -7.750      1.243       
-SHW     O1      O       O       0       -2.719      -8.263      1.928       
-SHW     S1      S       S2      0       -4.606      -8.705      0.182       
-SHW     C2      C       CH2     0       -3.842      -6.269      1.194       
-SHW     C3      C       CH1     0       -2.811      -5.402      1.912       
-SHW     O3      O       OH1     0       -3.040      -5.509      3.316       
-SHW     C4      C       CH2     0       -2.831      -3.935      1.504       
-SHW     C5      C       CH2     0       -2.133      -3.604      0.203       
-SHW     C6      C       CH2     0       -1.593      -2.196      0.115       
-SHW     C7      C       CH2     0       -1.033      -1.827      -1.235      
-SHW     C8      C       CH3     0       -0.540      -0.402      -1.317      
-SHW     O23     O       O       0       -10.638     -10.698     -3.032      
-SHW     P24     P       P       0       -11.525     -9.767      -2.227      
-SHW     O26     O       OP      -1      -12.912     -9.612      -2.822      
-SHW     O27     O       O2      0       -11.739     -10.489     -0.799      
-SHW     C28     C       CH2     0       -10.573     -10.985     -0.082      
-SHW     O28     O       OP      -1      -10.862     -8.437      -1.922      
-SHW     C29     C       CT      0       -10.968     -11.376     1.344       
-SHW     C30     C       CH3     0       -11.798     -12.665     1.287       
-SHW     C31     C       CH3     0       -9.691      -11.687     2.135       
-SHW     C32     C       CH1     0       -11.772     -10.289     2.084       
-SHW     O33     O       OH1     0       -13.046     -10.110     1.474       
-SHW     C34     C       C       0       -11.067     -8.940      2.166       
-SHW     O35     O       O       0       -11.179     -8.144      1.235       
-SHW     N36     N       NH1     0       -10.338     -8.694      3.253       
-SHW     C37     C       CH2     0       -9.633      -7.442      3.511       
-SHW     C38     C       CH2     0       -8.178      -7.498      3.096       
-SHW     C39     C       C       0       -7.979      -7.414      1.595       
-SHW     O40     O       O       0       -8.154      -6.348      1.007       
-SHW     N41     N       NH1     0       -7.610      -8.531      0.948       
-SHW     C42     C       CH2     0       -7.290      -8.586      -0.472      
-SHW     C43     C       CH2     0       -5.949      -7.958      -0.777      
-SHW     H2      H       H       0       -4.723      -6.106      1.594       
-SHW     H2A     H       H       0       -3.883      -5.995      0.253       
-SHW     H3      H       H       0       -1.903      -5.761      1.722       
-SHW     HO3     H       H       0       -2.326      -5.309      3.727       
-SHW     H4      H       H       0       -2.417      -3.410      2.222       
-SHW     H4A     H       H       0       -3.767      -3.647      1.436       
-SHW     H5      H       H       0       -2.766      -3.743      -0.534      
-SHW     H5A     H       H       0       -1.389      -4.231      0.075       
-SHW     H6      H       H       0       -0.887      -2.088      0.787       
-SHW     H6A     H       H       0       -2.313      -1.569      0.338       
-SHW     H7      H       H       0       -1.730      -1.962      -1.913      
-SHW     H7A     H       H       0       -0.290      -2.433      -1.445      
-SHW     H8      H       H       0       -0.219      -0.220      -2.218      
-SHW     H8A     H       H       0       0.186       -0.271      -0.683      
-SHW     H8B     H       H       0       -1.268      0.208       -1.105      
-SHW     H28     H       H       0       -9.880      -10.296     -0.058      
-SHW     H28A    H       H       0       -10.209     -11.766     -0.545      
-SHW     H30     H       H       0       -12.145     -12.867     2.174       
-SHW     H30A    H       H       0       -11.239     -13.402     0.985       
-SHW     H30B    H       H       0       -12.540     -12.554     0.669       
-SHW     H31     H       H       0       -9.917      -11.860     3.065       
-SHW     H31A    H       H       0       -9.080      -10.932     2.087       
-SHW     H31B    H       H       0       -9.256      -12.472     1.759       
-SHW     H32     H       H       0       -11.922     -10.613     3.005       
-SHW     HO33    H       H       0       -13.577     -9.769      2.040       
-SHW     HN36    H       H       0       -10.263     -9.322      3.854       
-SHW     H37     H       H       0       -9.680      -7.245      4.470       
-SHW     H37A    H       H       0       -10.076     -6.708      3.035       
-SHW     H38     H       H       0       -7.781      -8.322      3.427       
-SHW     H38A    H       H       0       -7.699      -6.762      3.514       
-SHW     HN41    H       H       0       -7.557      -9.271      1.404       
-SHW     H42     H       H       0       -7.987      -8.120      -0.980      
-SHW     H42A    H       H       0       -7.278      -9.523      -0.762      
-SHW     H43     H       H       0       -5.758      -8.060      -1.731      
-SHW     H43A    H       H       0       -5.992      -7.001      -0.580      
+SHW C1   C C   0  -3.570  -7.750  1.243
+SHW O1   O O   0  -2.719  -8.263  1.928
+SHW S1   S S2  0  -4.606  -8.705  0.182
+SHW C2   C CH2 0  -3.842  -6.269  1.194
+SHW C3   C CH1 0  -2.811  -5.402  1.912
+SHW O3   O OH1 0  -3.040  -5.509  3.316
+SHW C4   C CH2 0  -2.831  -3.935  1.504
+SHW C5   C CH2 0  -2.133  -3.604  0.203
+SHW C6   C CH2 0  -1.593  -2.196  0.115
+SHW C7   C CH2 0  -1.033  -1.827  -1.235
+SHW C8   C CH3 0  -0.540  -0.402  -1.317
+SHW O23  O O   0  -10.638 -10.698 -3.032
+SHW P24  P P   0  -11.525 -9.767  -2.227
+SHW O26  O OP  -1 -12.912 -9.612  -2.822
+SHW O27  O O2  0  -11.739 -10.489 -0.799
+SHW C28  C CH2 0  -10.573 -10.985 -0.082
+SHW O28  O OP  -1 -10.862 -8.437  -1.922
+SHW C29  C CT  0  -10.968 -11.376 1.344
+SHW C30  C CH3 0  -11.798 -12.665 1.287
+SHW C31  C CH3 0  -9.691  -11.687 2.135
+SHW C32  C CH1 0  -11.772 -10.289 2.084
+SHW O33  O OH1 0  -13.046 -10.110 1.474
+SHW C34  C C   0  -11.067 -8.940  2.166
+SHW O35  O O   0  -11.179 -8.144  1.235
+SHW N36  N NH1 0  -10.338 -8.694  3.253
+SHW C37  C CH2 0  -9.633  -7.442  3.511
+SHW C38  C CH2 0  -8.178  -7.498  3.096
+SHW C39  C C   0  -7.979  -7.414  1.595
+SHW O40  O O   0  -8.154  -6.348  1.007
+SHW N41  N NH1 0  -7.610  -8.531  0.948
+SHW C42  C CH2 0  -7.290  -8.586  -0.472
+SHW C43  C CH2 0  -5.949  -7.958  -0.777
+SHW H2   H H   0  -4.723  -6.106  1.594
+SHW H2A  H H   0  -3.883  -5.995  0.253
+SHW H3   H H   0  -1.903  -5.761  1.722
+SHW HO3  H H   0  -2.326  -5.309  3.727
+SHW H4   H H   0  -2.417  -3.410  2.222
+SHW H4A  H H   0  -3.767  -3.647  1.436
+SHW H5   H H   0  -2.766  -3.743  -0.534
+SHW H5A  H H   0  -1.389  -4.231  0.075
+SHW H6   H H   0  -0.887  -2.088  0.787
+SHW H6A  H H   0  -2.313  -1.569  0.338
+SHW H7   H H   0  -1.730  -1.962  -1.913
+SHW H7A  H H   0  -0.290  -2.433  -1.445
+SHW H8   H H   0  -0.219  -0.220  -2.218
+SHW H8A  H H   0  0.186   -0.271  -0.683
+SHW H8B  H H   0  -1.268  0.208   -1.105
+SHW H28  H H   0  -9.880  -10.296 -0.058
+SHW H28A H H   0  -10.209 -11.766 -0.545
+SHW H30  H H   0  -12.145 -12.867 2.174
+SHW H30A H H   0  -11.239 -13.402 0.985
+SHW H30B H H   0  -12.540 -12.554 0.669
+SHW H31  H H   0  -9.917  -11.860 3.065
+SHW H31A H H   0  -9.080  -10.932 2.087
+SHW H31B H H   0  -9.256  -12.472 1.759
+SHW H32  H H   0  -11.922 -10.613 3.005
+SHW HO33 H H   0  -13.577 -9.769  2.040
+SHW HN36 H H   0  -10.263 -9.322  3.854
+SHW H37  H H   0  -9.680  -7.245  4.470
+SHW H37A H H   0  -10.076 -6.708  3.035
+SHW H38  H H   0  -7.781  -8.322  3.427
+SHW H38A H H   0  -7.699  -6.762  3.514
+SHW HN41 H H   0  -7.557  -9.271  1.404
+SHW H42  H H   0  -7.987  -8.120  -0.980
+SHW H42A H H   0  -7.278  -9.523  -0.762
+SHW H43  H H   0  -5.758  -8.060  -1.731
+SHW H43A H H   0  -5.992  -7.001  -0.580
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -98,72 +97,73 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-SHW          C1          O1      DOUBLE       n     1.207  0.0100     1.207  0.0100
-SHW          C1          S1      SINGLE       n     1.762  0.0200     1.762  0.0200
-SHW          C1          C2      SINGLE       n     1.502  0.0151     1.502  0.0151
-SHW          S1         C43      SINGLE       n     1.809  0.0191     1.809  0.0191
-SHW          C2          C3      SINGLE       n     1.524  0.0118     1.524  0.0118
-SHW          C3          O3      SINGLE       n     1.426  0.0179     1.426  0.0179
-SHW          C3          C4      SINGLE       n     1.520  0.0169     1.520  0.0169
-SHW          C4          C5      SINGLE       n     1.509  0.0200     1.509  0.0200
-SHW          C5          C6      SINGLE       n     1.509  0.0200     1.509  0.0200
-SHW          C6          C7      SINGLE       n     1.507  0.0200     1.507  0.0200
-SHW          C7          C8      SINGLE       n     1.510  0.0200     1.510  0.0200
-SHW         O23         P24      DOUBLE       n     1.517  0.0192     1.517  0.0192
-SHW         P24         O26      SINGLE       n     1.517  0.0192     1.517  0.0192
-SHW         P24         O27      SINGLE       n     1.614  0.0178     1.614  0.0178
-SHW         P24         O28      SINGLE       n     1.517  0.0192     1.517  0.0192
-SHW         O27         C28      SINGLE       n     1.454  0.0165     1.454  0.0165
-SHW         C28         C29      SINGLE       n     1.526  0.0108     1.526  0.0108
-SHW         C29         C30      SINGLE       n     1.531  0.0109     1.531  0.0109
-SHW         C29         C31      SINGLE       n     1.531  0.0109     1.531  0.0109
-SHW         C29         C32      SINGLE       n     1.532  0.0112     1.532  0.0112
-SHW         C32         O33      SINGLE       n     1.419  0.0162     1.419  0.0162
-SHW         C32         C34      SINGLE       n     1.519  0.0108     1.519  0.0108
-SHW         C34         O35      DOUBLE       n     1.229  0.0102     1.229  0.0102
-SHW         C34         N36      SINGLE       n     1.326  0.0100     1.326  0.0100
-SHW         N36         C37      SINGLE       n     1.457  0.0100     1.457  0.0100
-SHW         C37         C38      SINGLE       n     1.513  0.0195     1.513  0.0195
-SHW         C38         C39      SINGLE       n     1.514  0.0100     1.514  0.0100
-SHW         C39         O40      DOUBLE       n     1.229  0.0102     1.229  0.0102
-SHW         C39         N41      SINGLE       n     1.337  0.0118     1.337  0.0118
-SHW         N41         C42      SINGLE       n     1.455  0.0100     1.455  0.0100
-SHW         C42         C43      SINGLE       n     1.510  0.0158     1.510  0.0158
-SHW          C2          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
-SHW          C2         H2A      SINGLE       n     1.089  0.0100     0.981  0.0185
-SHW          C3          H3      SINGLE       n     1.089  0.0100     0.995  0.0200
-SHW          O3         HO3      SINGLE       n     0.970  0.0120     0.848  0.0200
-SHW          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0160
-SHW          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0160
-SHW          C5          H5      SINGLE       n     1.089  0.0100     0.981  0.0163
-SHW          C5         H5A      SINGLE       n     1.089  0.0100     0.981  0.0163
-SHW          C6          H6      SINGLE       n     1.089  0.0100     0.981  0.0163
-SHW          C6         H6A      SINGLE       n     1.089  0.0100     0.981  0.0163
-SHW          C7          H7      SINGLE       n     1.089  0.0100     0.982  0.0155
-SHW          C7         H7A      SINGLE       n     1.089  0.0100     0.982  0.0155
-SHW          C8          H8      SINGLE       n     1.089  0.0100     0.973  0.0157
-SHW          C8         H8A      SINGLE       n     1.089  0.0100     0.973  0.0157
-SHW          C8         H8B      SINGLE       n     1.089  0.0100     0.973  0.0157
-SHW         C28         H28      SINGLE       n     1.089  0.0100     0.978  0.0102
-SHW         C28        H28A      SINGLE       n     1.089  0.0100     0.978  0.0102
-SHW         C30         H30      SINGLE       n     1.089  0.0100     0.973  0.0146
-SHW         C30        H30A      SINGLE       n     1.089  0.0100     0.973  0.0146
-SHW         C30        H30B      SINGLE       n     1.089  0.0100     0.973  0.0146
-SHW         C31         H31      SINGLE       n     1.089  0.0100     0.973  0.0146
-SHW         C31        H31A      SINGLE       n     1.089  0.0100     0.973  0.0146
-SHW         C31        H31B      SINGLE       n     1.089  0.0100     0.973  0.0146
-SHW         C32         H32      SINGLE       n     1.089  0.0100     0.988  0.0129
-SHW         O33        HO33      SINGLE       n     0.970  0.0120     0.848  0.0200
-SHW         N36        HN36      SINGLE       n     1.016  0.0100     0.872  0.0200
-SHW         C37         H37      SINGLE       n     1.089  0.0100     0.980  0.0159
-SHW         C37        H37A      SINGLE       n     1.089  0.0100     0.980  0.0159
-SHW         C38         H38      SINGLE       n     1.089  0.0100     0.973  0.0156
-SHW         C38        H38A      SINGLE       n     1.089  0.0100     0.973  0.0156
-SHW         N41        HN41      SINGLE       n     1.016  0.0100     0.872  0.0200
-SHW         C42         H42      SINGLE       n     1.089  0.0100     0.981  0.0127
-SHW         C42        H42A      SINGLE       n     1.089  0.0100     0.981  0.0127
-SHW         C43         H43      SINGLE       n     1.089  0.0100     0.978  0.0177
-SHW         C43        H43A      SINGLE       n     1.089  0.0100     0.978  0.0177
+SHW C1  O1   DOUBLE n 1.207 0.0100 1.207 0.0100
+SHW C1  S1   SINGLE n 1.762 0.0200 1.762 0.0200
+SHW C1  C2   SINGLE n 1.502 0.0151 1.502 0.0151
+SHW S1  C43  SINGLE n 1.809 0.0191 1.809 0.0191
+SHW C2  C3   SINGLE n 1.524 0.0118 1.524 0.0118
+SHW C3  O3   SINGLE n 1.426 0.0179 1.426 0.0179
+SHW C3  C4   SINGLE n 1.520 0.0169 1.520 0.0169
+SHW C4  C5   SINGLE n 1.509 0.0200 1.509 0.0200
+SHW C5  C6   SINGLE n 1.509 0.0200 1.509 0.0200
+SHW C6  C7   SINGLE n 1.507 0.0200 1.507 0.0200
+SHW C7  C8   SINGLE n 1.510 0.0200 1.510 0.0200
+SHW O23 P24  DOUBLE n 1.517 0.0192 1.517 0.0192
+SHW P24 O26  SINGLE n 1.517 0.0192 1.517 0.0192
+SHW P24 O27  SINGLE n 1.614 0.0178 1.614 0.0178
+SHW P24 O28  SINGLE n 1.517 0.0192 1.517 0.0192
+SHW O27 C28  SINGLE n 1.454 0.0165 1.454 0.0165
+SHW C28 C29  SINGLE n 1.526 0.0108 1.526 0.0108
+SHW C29 C30  SINGLE n 1.531 0.0109 1.531 0.0109
+SHW C29 C31  SINGLE n 1.531 0.0109 1.531 0.0109
+SHW C29 C32  SINGLE n 1.532 0.0112 1.532 0.0112
+SHW C32 O33  SINGLE n 1.419 0.0162 1.419 0.0162
+SHW C32 C34  SINGLE n 1.519 0.0108 1.519 0.0108
+SHW C34 O35  DOUBLE n 1.229 0.0102 1.229 0.0102
+SHW C34 N36  SINGLE n 1.326 0.0100 1.326 0.0100
+SHW N36 C37  SINGLE n 1.457 0.0100 1.457 0.0100
+SHW C37 C38  SINGLE n 1.513 0.0195 1.513 0.0195
+SHW C38 C39  SINGLE n 1.514 0.0100 1.514 0.0100
+SHW C39 O40  DOUBLE n 1.229 0.0102 1.229 0.0102
+SHW C39 N41  SINGLE n 1.337 0.0118 1.337 0.0118
+SHW N41 C42  SINGLE n 1.455 0.0100 1.455 0.0100
+SHW C42 C43  SINGLE n 1.510 0.0158 1.510 0.0158
+SHW C2  H2   SINGLE n 1.089 0.0100 0.981 0.0185
+SHW C2  H2A  SINGLE n 1.089 0.0100 0.981 0.0185
+SHW C3  H3   SINGLE n 1.089 0.0100 0.995 0.0200
+SHW O3  HO3  SINGLE n 0.970 0.0120 0.848 0.0200
+SHW C4  H4   SINGLE n 1.089 0.0100 0.981 0.0160
+SHW C4  H4A  SINGLE n 1.089 0.0100 0.981 0.0160
+SHW C5  H5   SINGLE n 1.089 0.0100 0.981 0.0163
+SHW C5  H5A  SINGLE n 1.089 0.0100 0.981 0.0163
+SHW C6  H6   SINGLE n 1.089 0.0100 0.981 0.0163
+SHW C6  H6A  SINGLE n 1.089 0.0100 0.981 0.0163
+SHW C7  H7   SINGLE n 1.089 0.0100 0.982 0.0155
+SHW C7  H7A  SINGLE n 1.089 0.0100 0.982 0.0155
+SHW C8  H8   SINGLE n 1.089 0.0100 0.973 0.0157
+SHW C8  H8A  SINGLE n 1.089 0.0100 0.973 0.0157
+SHW C8  H8B  SINGLE n 1.089 0.0100 0.973 0.0157
+SHW C28 H28  SINGLE n 1.089 0.0100 0.978 0.0102
+SHW C28 H28A SINGLE n 1.089 0.0100 0.978 0.0102
+SHW C30 H30  SINGLE n 1.089 0.0100 0.973 0.0146
+SHW C30 H30A SINGLE n 1.089 0.0100 0.973 0.0146
+SHW C30 H30B SINGLE n 1.089 0.0100 0.973 0.0146
+SHW C31 H31  SINGLE n 1.089 0.0100 0.973 0.0146
+SHW C31 H31A SINGLE n 1.089 0.0100 0.973 0.0146
+SHW C31 H31B SINGLE n 1.089 0.0100 0.973 0.0146
+SHW C32 H32  SINGLE n 1.089 0.0100 0.988 0.0129
+SHW O33 HO33 SINGLE n 0.970 0.0120 0.848 0.0200
+SHW N36 HN36 SINGLE n 1.016 0.0100 0.872 0.0200
+SHW C37 H37  SINGLE n 1.089 0.0100 0.980 0.0159
+SHW C37 H37A SINGLE n 1.089 0.0100 0.980 0.0159
+SHW C38 H38  SINGLE n 1.089 0.0100 0.973 0.0156
+SHW C38 H38A SINGLE n 1.089 0.0100 0.973 0.0156
+SHW N41 HN41 SINGLE n 1.016 0.0100 0.872 0.0200
+SHW C42 H42  SINGLE n 1.089 0.0100 0.981 0.0127
+SHW C42 H42A SINGLE n 1.089 0.0100 0.981 0.0127
+SHW C43 H43  SINGLE n 1.089 0.0100 0.978 0.0177
+SHW C43 H43A SINGLE n 1.089 0.0100 0.978 0.0177
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -171,127 +171,128 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-SHW          O1          C1          S1     122.927    2.65
-SHW          O1          C1          C2     123.766    1.64
-SHW          S1          C1          C2     113.307    2.65
-SHW          C1          S1         C43     120.000    3.00
-SHW          C1          C2          C3     113.166    2.08
-SHW          C1          C2          H2     108.026    1.59
-SHW          C1          C2         H2A     108.026    1.59
-SHW          C3          C2          H2     108.544    1.56
-SHW          C3          C2         H2A     108.544    1.56
-SHW          H2          C2         H2A     107.705    1.50
-SHW          C2          C3          O3     108.747    2.04
-SHW          C2          C3          C4     114.304    1.50
-SHW          C2          C3          H3     108.825    1.50
-SHW          O3          C3          C4     109.904    2.15
-SHW          O3          C3          H3     108.270    1.50
-SHW          C4          C3          H3     108.124    1.50
-SHW          C3          O3         HO3     108.921    2.24
-SHW          C3          C4          C5     115.351    1.65
-SHW          C3          C4          H4     108.478    1.50
-SHW          C3          C4         H4A     108.478    1.50
-SHW          C5          C4          H4     108.572    1.50
-SHW          C5          C4         H4A     108.572    1.50
-SHW          H4          C4         H4A     107.428    1.50
-SHW          C4          C5          C6     114.776    2.10
-SHW          C4          C5          H5     108.597    1.50
-SHW          C4          C5         H5A     108.597    1.50
-SHW          C6          C5          H5     108.698    1.50
-SHW          C6          C5         H5A     108.698    1.50
-SHW          H5          C5         H5A     107.646    1.50
-SHW          C5          C6          C7     114.362    3.00
-SHW          C5          C6          H6     108.698    1.50
-SHW          C5          C6         H6A     108.698    1.50
-SHW          C7          C6          H6     108.653    1.50
-SHW          C7          C6         H6A     108.653    1.50
-SHW          H6          C6         H6A     107.646    1.50
-SHW          C6          C7          C8     113.719    3.00
-SHW          C6          C7          H7     108.758    1.50
-SHW          C6          C7         H7A     108.758    1.50
-SHW          C8          C7          H7     108.918    1.50
-SHW          C8          C7         H7A     108.918    1.50
-SHW          H7          C7         H7A     107.763    1.50
-SHW          C7          C8          H8     109.554    1.50
-SHW          C7          C8         H8A     109.554    1.50
-SHW          C7          C8         H8B     109.554    1.50
-SHW          H8          C8         H8A     109.380    1.50
-SHW          H8          C8         H8B     109.380    1.50
-SHW         H8A          C8         H8B     109.380    1.50
-SHW         O23         P24         O26     112.864    1.69
-SHW         O23         P24         O27     105.795    2.09
-SHW         O23         P24         O28     112.864    1.69
-SHW         O26         P24         O27     105.795    2.09
-SHW         O26         P24         O28     112.864    1.69
-SHW         O27         P24         O28     105.795    2.09
-SHW         P24         O27         C28     118.671    1.50
-SHW         O27         C28         C29     108.435    1.69
-SHW         O27         C28         H28     109.739    1.50
-SHW         O27         C28        H28A     109.739    1.50
-SHW         C29         C28         H28     109.473    1.50
-SHW         C29         C28        H28A     109.473    1.50
-SHW         H28         C28        H28A     108.108    1.50
-SHW         C28         C29         C30     109.385    1.50
-SHW         C28         C29         C31     109.385    1.50
-SHW         C28         C29         C32     111.094    2.85
-SHW         C30         C29         C31     108.765    1.50
-SHW         C30         C29         C32     109.534    1.52
-SHW         C31         C29         C32     109.534    1.52
-SHW         C29         C30         H30     109.575    1.50
-SHW         C29         C30        H30A     109.575    1.50
-SHW         C29         C30        H30B     109.575    1.50
-SHW         H30         C30        H30A     109.377    1.50
-SHW         H30         C30        H30B     109.377    1.50
-SHW        H30A         C30        H30B     109.377    1.50
-SHW         C29         C31         H31     109.575    1.50
-SHW         C29         C31        H31A     109.575    1.50
-SHW         C29         C31        H31B     109.575    1.50
-SHW         H31         C31        H31A     109.377    1.50
-SHW         H31         C31        H31B     109.377    1.50
-SHW        H31A         C31        H31B     109.377    1.50
-SHW         C29         C32         O33     109.482    3.00
-SHW         C29         C32         C34     111.511    2.91
-SHW         C29         C32         H32     107.825    1.50
-SHW         O33         C32         C34     109.850    1.55
-SHW         O33         C32         H32     108.675    1.50
-SHW         C34         C32         H32     108.529    1.70
-SHW         C32         O33        HO33     108.894    3.00
-SHW         C32         C34         O35     119.859    1.78
-SHW         C32         C34         N36     117.147    1.50
-SHW         O35         C34         N36     122.977    1.50
-SHW         C34         N36         C37     122.964    1.80
-SHW         C34         N36        HN36     118.685    1.94
-SHW         C37         N36        HN36     118.351    1.90
-SHW         N36         C37         C38     112.257    1.50
-SHW         N36         C37         H37     108.979    1.50
-SHW         N36         C37        H37A     108.979    1.50
-SHW         C38         C37         H37     108.971    1.50
-SHW         C38         C37        H37A     108.971    1.50
-SHW         H37         C37        H37A     107.877    1.50
-SHW         C37         C38         C39     112.120    2.79
-SHW         C37         C38         H38     109.432    1.50
-SHW         C37         C38        H38A     109.432    1.50
-SHW         C39         C38         H38     108.945    1.50
-SHW         C39         C38        H38A     108.945    1.50
-SHW         H38         C38        H38A     107.745    2.07
-SHW         C38         C39         O40     120.987    1.50
-SHW         C38         C39         N41     117.070    1.96
-SHW         O40         C39         N41     121.943    1.50
-SHW         C39         N41         C42     123.437    1.80
-SHW         C39         N41        HN41     117.862    2.10
-SHW         C42         N41        HN41     118.700    1.83
-SHW         N41         C42         C43     112.117    1.54
-SHW         N41         C42         H42     109.102    1.50
-SHW         N41         C42        H42A     109.102    1.50
-SHW         C43         C42         H42     109.038    1.50
-SHW         C43         C42        H42A     109.038    1.50
-SHW         H42         C42        H42A     107.995    1.50
-SHW          S1         C43         C42     112.239    3.00
-SHW          S1         C43         H43     109.066    1.50
-SHW          S1         C43        H43A     109.066    1.50
-SHW         C42         C43         H43     108.964    1.50
-SHW         C42         C43        H43A     108.964    1.50
-SHW         H43         C43        H43A     107.807    1.50
+SHW O1   C1  S1   122.927 2.65
+SHW O1   C1  C2   123.766 1.64
+SHW S1   C1  C2   113.307 2.65
+SHW C1   S1  C43  120.000 3.00
+SHW C1   C2  C3   113.166 2.08
+SHW C1   C2  H2   108.026 1.59
+SHW C1   C2  H2A  108.026 1.59
+SHW C3   C2  H2   108.544 1.56
+SHW C3   C2  H2A  108.544 1.56
+SHW H2   C2  H2A  107.705 1.50
+SHW C2   C3  O3   108.747 2.04
+SHW C2   C3  C4   114.304 1.50
+SHW C2   C3  H3   108.825 1.50
+SHW O3   C3  C4   109.904 2.15
+SHW O3   C3  H3   108.270 1.50
+SHW C4   C3  H3   108.124 1.50
+SHW C3   O3  HO3  108.921 2.24
+SHW C3   C4  C5   115.351 1.65
+SHW C3   C4  H4   108.478 1.50
+SHW C3   C4  H4A  108.478 1.50
+SHW C5   C4  H4   108.572 1.50
+SHW C5   C4  H4A  108.572 1.50
+SHW H4   C4  H4A  107.428 1.50
+SHW C4   C5  C6   114.776 2.10
+SHW C4   C5  H5   108.597 1.50
+SHW C4   C5  H5A  108.597 1.50
+SHW C6   C5  H5   108.698 1.50
+SHW C6   C5  H5A  108.698 1.50
+SHW H5   C5  H5A  107.646 1.50
+SHW C5   C6  C7   114.362 3.00
+SHW C5   C6  H6   108.698 1.50
+SHW C5   C6  H6A  108.698 1.50
+SHW C7   C6  H6   108.653 1.50
+SHW C7   C6  H6A  108.653 1.50
+SHW H6   C6  H6A  107.646 1.50
+SHW C6   C7  C8   113.719 3.00
+SHW C6   C7  H7   108.758 1.50
+SHW C6   C7  H7A  108.758 1.50
+SHW C8   C7  H7   108.918 1.50
+SHW C8   C7  H7A  108.918 1.50
+SHW H7   C7  H7A  107.763 1.50
+SHW C7   C8  H8   109.554 1.50
+SHW C7   C8  H8A  109.554 1.50
+SHW C7   C8  H8B  109.554 1.50
+SHW H8   C8  H8A  109.380 1.50
+SHW H8   C8  H8B  109.380 1.50
+SHW H8A  C8  H8B  109.380 1.50
+SHW O23  P24 O26  112.864 1.69
+SHW O23  P24 O27  105.795 2.09
+SHW O23  P24 O28  112.864 1.69
+SHW O26  P24 O27  105.795 2.09
+SHW O26  P24 O28  112.864 1.69
+SHW O27  P24 O28  105.795 2.09
+SHW P24  O27 C28  118.671 1.50
+SHW O27  C28 C29  108.435 1.69
+SHW O27  C28 H28  109.739 1.50
+SHW O27  C28 H28A 109.739 1.50
+SHW C29  C28 H28  109.473 1.50
+SHW C29  C28 H28A 109.473 1.50
+SHW H28  C28 H28A 108.108 1.50
+SHW C28  C29 C30  109.385 1.50
+SHW C28  C29 C31  109.385 1.50
+SHW C28  C29 C32  111.094 2.85
+SHW C30  C29 C31  108.765 1.50
+SHW C30  C29 C32  109.534 1.52
+SHW C31  C29 C32  109.534 1.52
+SHW C29  C30 H30  109.575 1.50
+SHW C29  C30 H30A 109.575 1.50
+SHW C29  C30 H30B 109.575 1.50
+SHW H30  C30 H30A 109.377 1.50
+SHW H30  C30 H30B 109.377 1.50
+SHW H30A C30 H30B 109.377 1.50
+SHW C29  C31 H31  109.575 1.50
+SHW C29  C31 H31A 109.575 1.50
+SHW C29  C31 H31B 109.575 1.50
+SHW H31  C31 H31A 109.377 1.50
+SHW H31  C31 H31B 109.377 1.50
+SHW H31A C31 H31B 109.377 1.50
+SHW C29  C32 O33  109.482 3.00
+SHW C29  C32 C34  111.511 2.91
+SHW C29  C32 H32  107.825 1.50
+SHW O33  C32 C34  109.850 1.55
+SHW O33  C32 H32  108.675 1.50
+SHW C34  C32 H32  108.529 1.70
+SHW C32  O33 HO33 108.894 3.00
+SHW C32  C34 O35  119.859 1.78
+SHW C32  C34 N36  117.147 1.50
+SHW O35  C34 N36  122.977 1.50
+SHW C34  N36 C37  122.964 1.80
+SHW C34  N36 HN36 118.685 1.94
+SHW C37  N36 HN36 118.351 1.90
+SHW N36  C37 C38  112.257 1.50
+SHW N36  C37 H37  108.979 1.50
+SHW N36  C37 H37A 108.979 1.50
+SHW C38  C37 H37  108.971 1.50
+SHW C38  C37 H37A 108.971 1.50
+SHW H37  C37 H37A 107.877 1.50
+SHW C37  C38 C39  112.120 2.79
+SHW C37  C38 H38  109.432 1.50
+SHW C37  C38 H38A 109.432 1.50
+SHW C39  C38 H38  108.945 1.50
+SHW C39  C38 H38A 108.945 1.50
+SHW H38  C38 H38A 107.745 2.07
+SHW C38  C39 O40  120.987 1.50
+SHW C38  C39 N41  117.070 1.96
+SHW O40  C39 N41  121.943 1.50
+SHW C39  N41 C42  123.437 1.80
+SHW C39  N41 HN41 117.862 2.10
+SHW C42  N41 HN41 118.700 1.83
+SHW N41  C42 C43  112.117 1.54
+SHW N41  C42 H42  109.102 1.50
+SHW N41  C42 H42A 109.102 1.50
+SHW C43  C42 H42  109.038 1.50
+SHW C43  C42 H42A 109.038 1.50
+SHW H42  C42 H42A 107.995 1.50
+SHW S1   C43 C42  112.239 3.00
+SHW S1   C43 H43  109.066 1.50
+SHW S1   C43 H43A 109.066 1.50
+SHW C42  C43 H43  108.964 1.50
+SHW C42  C43 H43A 108.964 1.50
+SHW H43  C43 H43A 107.807 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -302,31 +303,32 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-SHW             sp2_sp2_1          O1          C1          S1         C43     180.000     5.0     2
-SHW             sp2_sp3_2          O1          C1          C2          C3     120.000    10.0     6
-SHW            sp3_sp3_63         C28         O27         P24         O23      60.000    10.0     3
-SHW            sp3_sp3_64         C29         C28         O27         P24     180.000    10.0     3
-SHW            sp3_sp3_68         O27         C28         C29         C30     -60.000    10.0     3
-SHW            sp3_sp3_76         C28         C29         C30         H30     180.000    10.0     3
-SHW            sp3_sp3_88         C28         C29         C31         H31      60.000    10.0     3
-SHW            sp3_sp3_97         C28         C29         C32         O33      60.000    10.0     3
-SHW           sp3_sp3_103         C29         C32         O33        HO33     180.000    10.0     3
-SHW             sp2_sp3_7         O35         C34         C32         C29       0.000    10.0     6
-SHW             sp2_sp2_3         C32         C34         N36         C37     180.000     5.0     2
-SHW            sp2_sp3_14         C34         N36         C37         C38     120.000    10.0     6
-SHW           sp3_sp3_106         N36         C37         C38         C39     180.000    10.0     3
-SHW            sp2_sp3_20         O40         C39         C38         C37     120.000    10.0     6
-SHW             sp2_sp2_7         C38         C39         N41         C42     180.000     5.0     2
-SHW            sp2_sp3_26         C39         N41         C42         C43     120.000    10.0     6
-SHW             sp3_sp3_1         C42         C43          S1          C1     180.000    10.0     3
-SHW           sp3_sp3_115         N41         C42         C43          S1     180.000    10.0     3
-SHW             sp3_sp3_4          C1          C2          C3          O3     180.000    10.0     3
-SHW            sp3_sp3_13          C2          C3          O3         HO3     180.000    10.0     3
-SHW            sp3_sp3_16          C2          C3          C4          C5     180.000    10.0     3
-SHW            sp3_sp3_25          C3          C4          C5          C6     180.000    10.0     3
-SHW            sp3_sp3_34          C4          C5          C6          C7     180.000    10.0     3
-SHW            sp3_sp3_43          C5          C6          C7          C8     180.000    10.0     3
-SHW            sp3_sp3_52          C6          C7          C8          H8     180.000    10.0     3
+SHW sp2_sp2_1   O1  C1  S1  C43  180.000 5.0  2
+SHW sp2_sp3_2   O1  C1  C2  C3   120.000 10.0 6
+SHW sp3_sp3_63  C28 O27 P24 O23  60.000  10.0 3
+SHW sp3_sp3_64  C29 C28 O27 P24  180.000 10.0 3
+SHW sp3_sp3_68  O27 C28 C29 C30  -60.000 10.0 3
+SHW sp3_sp3_76  C28 C29 C30 H30  180.000 10.0 3
+SHW sp3_sp3_88  C28 C29 C31 H31  60.000  10.0 3
+SHW sp3_sp3_97  C28 C29 C32 O33  60.000  10.0 3
+SHW sp3_sp3_103 C29 C32 O33 HO33 180.000 10.0 3
+SHW sp2_sp3_7   O35 C34 C32 C29  0.000   10.0 6
+SHW sp2_sp2_3   C32 C34 N36 C37  180.000 5.0  2
+SHW sp2_sp3_14  C34 N36 C37 C38  120.000 10.0 6
+SHW sp3_sp3_106 N36 C37 C38 C39  180.000 10.0 3
+SHW sp2_sp3_20  O40 C39 C38 C37  120.000 10.0 6
+SHW sp2_sp2_7   C38 C39 N41 C42  180.000 5.0  2
+SHW sp2_sp3_26  C39 N41 C42 C43  120.000 10.0 6
+SHW sp3_sp3_1   C42 C43 S1  C1   180.000 10.0 3
+SHW sp3_sp3_115 N41 C42 C43 S1   180.000 10.0 3
+SHW sp3_sp3_4   C1  C2  C3  O3   180.000 10.0 3
+SHW sp3_sp3_13  C2  C3  O3  HO3  180.000 10.0 3
+SHW sp3_sp3_16  C2  C3  C4  C5   180.000 10.0 3
+SHW sp3_sp3_25  C3  C4  C5  C6   180.000 10.0 3
+SHW sp3_sp3_34  C4  C5  C6  C7   180.000 10.0 3
+SHW sp3_sp3_43  C5  C6  C7  C8   180.000 10.0 3
+SHW sp3_sp3_52  C6  C7  C8  H8   180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -335,54 +337,73 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-SHW    chir_1    C3    O3    C2    C4    negative
-SHW    chir_2    P24    O27    O26    O28    both
-SHW    chir_3    C29    C32    C28    C30    both
-SHW    chir_4    C32    O33    C34    C29    positive
+SHW chir_1 C3  O3  C2  C4  negative
+SHW chir_2 P24 O27 O26 O28 both
+SHW chir_3 C29 C32 C28 C30 both
+SHW chir_4 C32 O33 C34 C29 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-SHW    plan-1          C1   0.020
-SHW    plan-1          C2   0.020
-SHW    plan-1          O1   0.020
-SHW    plan-1          S1   0.020
-SHW    plan-2         C32   0.020
-SHW    plan-2         C34   0.020
-SHW    plan-2         N36   0.020
-SHW    plan-2         O35   0.020
-SHW    plan-3         C34   0.020
-SHW    plan-3         C37   0.020
-SHW    plan-3        HN36   0.020
-SHW    plan-3         N36   0.020
-SHW    plan-4         C38   0.020
-SHW    plan-4         C39   0.020
-SHW    plan-4         N41   0.020
-SHW    plan-4         O40   0.020
-SHW    plan-5         C39   0.020
-SHW    plan-5         C42   0.020
-SHW    plan-5        HN41   0.020
-SHW    plan-5         N41   0.020
+SHW plan-1 C1   0.020
+SHW plan-1 C2   0.020
+SHW plan-1 O1   0.020
+SHW plan-1 S1   0.020
+SHW plan-2 C32  0.020
+SHW plan-2 C34  0.020
+SHW plan-2 N36  0.020
+SHW plan-2 O35  0.020
+SHW plan-3 C34  0.020
+SHW plan-3 C37  0.020
+SHW plan-3 HN36 0.020
+SHW plan-3 N36  0.020
+SHW plan-4 C38  0.020
+SHW plan-4 C39  0.020
+SHW plan-4 N41  0.020
+SHW plan-4 O40  0.020
+SHW plan-5 C39  0.020
+SHW plan-5 C42  0.020
+SHW plan-5 HN41 0.020
+SHW plan-5 N41  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-SHW           SMILES              ACDLabs 11.02                                                                                                                                  O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O)CC(O)CCCCC
-SHW SMILES_CANONICAL               CACTVS 3.352                                                                                                                      CCCCC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@@H](O)C(C)(C)CO[P](O)(O)=O
-SHW           SMILES               CACTVS 3.352                                                                                                                          CCCCC[CH](O)CC(=O)SCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(O)=O
-SHW SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                          CCCCC[C@H](CC(=O)SCCNC(=O)CCNC(=O)[C@H](C(C)(C)COP(=O)(O)O)O)O
-SHW           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                  CCCCCC(CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)O)O)O
-SHW            InChI                InChI  1.03 InChI=1S/C19H37N2O9PS/c1-4-5-6-7-14(22)12-16(24)32-11-10-20-15(23)8-9-21-18(26)17(25)19(2,3)13-30-31(27,28)29/h14,17,22,25H,4-13H2,1-3H3,(H,20,23)(H,21,26)(H2,27,28,29)/t14-,17-/m1/s1
-SHW         InChIKey                InChI  1.03                                                                                                                                                             FOTLWMVULALMIY-RHSMWYFYSA-N
+SHW SMILES           ACDLabs              11.02 O=C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O)CC(O)CCCCC
+SHW SMILES_CANONICAL CACTVS               3.352 CCCCC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@@H](O)C(C)(C)CO[P](O)(O)=O
+SHW SMILES           CACTVS               3.352 CCCCC[CH](O)CC(=O)SCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(O)=O
+SHW SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CCCCC[C@H](CC(=O)SCCNC(=O)CCNC(=O)[C@H](C(C)(C)COP(=O)(O)O)O)O
+SHW SMILES           "OpenEye OEToolkits" 1.7.0 CCCCCC(CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)O)O)O
+SHW InChI            InChI                1.03  InChI=1S/C19H37N2O9PS/c1-4-5-6-7-14(22)12-16(24)32-11-10-20-15(23)8-9-21-18(26)17(25)19(2,3)13-30-31(27,28)29/h14,17,22,25H,4-13H2,1-3H3,(H,20,23)(H,21,26)(H2,27,28,29)/t14-,17-/m1/s1
+SHW InChIKey         InChI                1.03  FOTLWMVULALMIY-RHSMWYFYSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-SHW acedrg               243         "dictionary generator"                  
-SHW acedrg_database      11          "data source"                           
-SHW rdkit                2017.03.2   "Chemoinformatics tool"
-SHW refmac5              5.8.0238    "optimization tool"                     
+SHW acedrg          243       "dictionary generator"
+SHW acedrg_database 11        "data source"
+SHW rdkit           2017.03.2 "Chemoinformatics tool"
+SHW refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+SHW DNA/RNA O26  OP3
+SHW DNA/RNA P24  P
+SHW DNA/RNA O23  OP1
+SHW DNA/RNA O28  OP2
+SHW DNA/RNA O27  O5'
+SHW DNA/RNA C28  C5'
+SHW DNA/RNA C29  C4'
+SHW DNA/RNA C32  C3'
+SHW DNA/RNA O33  O3'
+SHW DNA/RNA HO33 HO3'

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-AFA     AFA      N-[7-METHYL-OCT-2,4-DIENOYL]ASPARAGINE     NON-POLYMER     38     19     .     
-#
+AFA AFA N-[7-METHYL-OCT-2,4-DIENOYL]ASPARAGINE NON-POLYMER 38 19 .
+
 data_comp_AFA
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,44 +19,45 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-AFA     N       N       NH1     0       14.547      23.159      27.184      
-AFA     CA      C       CH1     0       15.272      22.444      26.142      
-AFA     CB      C       CH2     0       15.574      20.994      26.521      
-AFA     CG      C       C       0       16.523      20.924      27.702      
-AFA     OD1     O       O       0       17.677      21.333      27.591      
-AFA     ND2     N       NH2     0       16.061      20.412      28.833      
-AFA     C       C       C       0       14.500      22.502      24.812      
-AFA     O       O       O       0       13.376      21.963      24.781      
-AFA     OXT     O       OC      -1      15.050      23.086      23.857      
-AFA     C1      C       C       0       14.545      24.522      27.308      
-AFA     O1      O       O       0       15.168      25.245      26.531      
-AFA     C2      C       C1      0       13.696      25.071      28.403      
-AFA     C3      C       C1      0       13.651      26.313      28.864      
-AFA     C4      C       C1      0       14.503      27.450      28.575      
-AFA     C5      C       C1      0       14.382      28.687      29.051      
-AFA     C6      C       CH2     0       15.330      29.813      28.772      
-AFA     C7      C       CH1     0       16.714      29.609      29.378      
-AFA     C8      C       CH3     0       17.720      30.576      28.776      
-AFA     C9      C       CH3     0       16.671      29.753      30.891      
-AFA     H       H       H       0       14.093      22.683      27.760      
-AFA     HA      H       H       0       16.141      22.893      26.007      
-AFA     HB2     H       H       0       15.980      20.539      25.755      
-AFA     HB3     H       H       0       14.736      20.537      26.739      
-AFA     HD21    H       H       0       16.590      20.354      29.540      
-AFA     HD22    H       H       0       15.226      20.127      28.891      
-AFA     H2      H       H       0       13.111      24.475      28.825      
-AFA     H3      H       H       0       12.955      26.483      29.477      
-AFA     H4      H       H       0       15.229      27.287      28.003      
-AFA     H5      H       H       0       13.645      28.877      29.607      
-AFA     H61     H       H       0       14.949      30.645      29.125      
-AFA     H62     H       H       0       15.423      29.914      27.800      
-AFA     H7      H       H       0       17.006      28.689      29.164      
-AFA     H81     H       H       0       18.590      30.439      29.189      
-AFA     H82     H       H       0       17.427      31.490      28.933      
-AFA     H83     H       H       0       17.789      30.418      27.818      
-AFA     H91     H       H       0       16.178      29.006      31.274      
-AFA     H92     H       H       0       16.229      30.587      31.127      
-AFA     H93     H       H       0       17.577      29.756      31.243      
+AFA N    N NH1 0  14.547 23.159 27.184
+AFA CA   C CH1 0  15.272 22.444 26.142
+AFA CB   C CH2 0  15.574 20.994 26.521
+AFA CG   C C   0  16.523 20.924 27.702
+AFA OD1  O O   0  17.677 21.333 27.591
+AFA ND2  N NH2 0  16.061 20.412 28.833
+AFA C    C C   0  14.500 22.502 24.812
+AFA O    O O   0  13.376 21.963 24.781
+AFA OXT  O OC  -1 15.050 23.086 23.857
+AFA C1   C C   0  14.545 24.522 27.308
+AFA O1   O O   0  15.168 25.245 26.531
+AFA C2   C C1  0  13.696 25.071 28.403
+AFA C3   C C1  0  13.651 26.313 28.864
+AFA C4   C C1  0  14.503 27.450 28.575
+AFA C5   C C1  0  14.382 28.687 29.051
+AFA C6   C CH2 0  15.330 29.813 28.772
+AFA C7   C CH1 0  16.714 29.609 29.378
+AFA C8   C CH3 0  17.720 30.576 28.776
+AFA C9   C CH3 0  16.671 29.753 30.891
+AFA H    H H   0  14.093 22.683 27.760
+AFA HA   H H   0  16.141 22.893 26.007
+AFA HB2  H H   0  15.980 20.539 25.755
+AFA HB3  H H   0  14.736 20.537 26.739
+AFA HD21 H H   0  16.590 20.354 29.540
+AFA HD22 H H   0  15.226 20.127 28.891
+AFA H2   H H   0  13.111 24.475 28.825
+AFA H3   H H   0  12.955 26.483 29.477
+AFA H4   H H   0  15.229 27.287 28.003
+AFA H5   H H   0  13.645 28.877 29.607
+AFA H61  H H   0  14.949 30.645 29.125
+AFA H62  H H   0  15.423 29.914 27.800
+AFA H7   H H   0  17.006 28.689 29.164
+AFA H81  H H   0  18.590 30.439 29.189
+AFA H82  H H   0  17.427 31.490 28.933
+AFA H83  H H   0  17.789 30.418 27.818
+AFA H91  H H   0  16.178 29.006 31.274
+AFA H92  H H   0  16.229 30.587 31.127
+AFA H93  H H   0  17.577 29.756 31.243
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -69,43 +68,44 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-AFA           N          CA      SINGLE       n     1.455  0.0100     1.455  0.0100
-AFA           N          C1      SINGLE       n     1.354  0.0200     1.354  0.0200
-AFA          CA          CB      SINGLE       n     1.529  0.0100     1.529  0.0100
-AFA          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-AFA          CB          CG      SINGLE       n     1.514  0.0100     1.514  0.0100
-AFA          CG         OD1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-AFA          CG         ND2      SINGLE       n     1.323  0.0100     1.323  0.0100
-AFA           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-AFA           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-AFA          C1          O1      DOUBLE       n     1.229  0.0129     1.229  0.0129
-AFA          C1          C2      SINGLE       n     1.482  0.0151     1.482  0.0151
-AFA          C2          C3      DOUBLE       n     1.323  0.0105     1.323  0.0105
-AFA          C3          C4      SINGLE       n     1.445  0.0200     1.445  0.0200
-AFA          C4          C5      DOUBLE       n     1.332  0.0144     1.332  0.0144
-AFA          C5          C6      SINGLE       n     1.498  0.0152     1.498  0.0152
-AFA          C6          C7      SINGLE       n     1.522  0.0171     1.522  0.0171
-AFA          C7          C8      SINGLE       n     1.519  0.0152     1.519  0.0152
-AFA          C7          C9      SINGLE       n     1.519  0.0152     1.519  0.0152
-AFA           N           H      SINGLE       n     1.016  0.0100     0.874  0.0200
-AFA          CA          HA      SINGLE       n     1.089  0.0100     0.987  0.0159
-AFA          CB         HB2      SINGLE       n     1.089  0.0100     0.979  0.0159
-AFA          CB         HB3      SINGLE       n     1.089  0.0100     0.979  0.0159
-AFA         ND2        HD21      SINGLE       n     1.016  0.0100     0.884  0.0200
-AFA         ND2        HD22      SINGLE       n     1.016  0.0100     0.884  0.0200
-AFA          C2          H2      SINGLE       n     1.082  0.0130     0.935  0.0100
-AFA          C3          H3      SINGLE       n     1.082  0.0130     0.943  0.0196
-AFA          C4          H4      SINGLE       n     1.082  0.0130     0.943  0.0200
-AFA          C5          H5      SINGLE       n     1.082  0.0130     0.943  0.0181
-AFA          C6         H61      SINGLE       n     1.089  0.0100     0.981  0.0185
-AFA          C6         H62      SINGLE       n     1.089  0.0100     0.981  0.0185
-AFA          C7          H7      SINGLE       n     1.089  0.0100     0.989  0.0148
-AFA          C8         H81      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFA          C8         H82      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFA          C8         H83      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFA          C9         H91      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFA          C9         H92      SINGLE       n     1.089  0.0100     0.973  0.0146
-AFA          C9         H93      SINGLE       n     1.089  0.0100     0.973  0.0146
+AFA N   CA   SINGLE n 1.455 0.0100 1.455 0.0100
+AFA N   C1   SINGLE n 1.354 0.0200 1.354 0.0200
+AFA CA  CB   SINGLE n 1.529 0.0100 1.529 0.0100
+AFA CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+AFA CB  CG   SINGLE n 1.514 0.0100 1.514 0.0100
+AFA CG  OD1  DOUBLE n 1.229 0.0102 1.229 0.0102
+AFA CG  ND2  SINGLE n 1.323 0.0100 1.323 0.0100
+AFA C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+AFA C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+AFA C1  O1   DOUBLE n 1.229 0.0129 1.229 0.0129
+AFA C1  C2   SINGLE n 1.482 0.0151 1.482 0.0151
+AFA C2  C3   DOUBLE n 1.323 0.0105 1.323 0.0105
+AFA C3  C4   SINGLE n 1.445 0.0200 1.445 0.0200
+AFA C4  C5   DOUBLE n 1.332 0.0144 1.332 0.0144
+AFA C5  C6   SINGLE n 1.498 0.0152 1.498 0.0152
+AFA C6  C7   SINGLE n 1.522 0.0171 1.522 0.0171
+AFA C7  C8   SINGLE n 1.519 0.0152 1.519 0.0152
+AFA C7  C9   SINGLE n 1.519 0.0152 1.519 0.0152
+AFA N   H    SINGLE n 1.016 0.0100 0.874 0.0200
+AFA CA  HA   SINGLE n 1.089 0.0100 0.987 0.0159
+AFA CB  HB2  SINGLE n 1.089 0.0100 0.979 0.0159
+AFA CB  HB3  SINGLE n 1.089 0.0100 0.979 0.0159
+AFA ND2 HD21 SINGLE n 1.016 0.0100 0.884 0.0200
+AFA ND2 HD22 SINGLE n 1.016 0.0100 0.884 0.0200
+AFA C2  H2   SINGLE n 1.082 0.0130 0.935 0.0100
+AFA C3  H3   SINGLE n 1.082 0.0130 0.943 0.0196
+AFA C4  H4   SINGLE n 1.082 0.0130 0.943 0.0200
+AFA C5  H5   SINGLE n 1.082 0.0130 0.943 0.0181
+AFA C6  H61  SINGLE n 1.089 0.0100 0.981 0.0185
+AFA C6  H62  SINGLE n 1.089 0.0100 0.981 0.0185
+AFA C7  H7   SINGLE n 1.089 0.0100 0.989 0.0148
+AFA C8  H81  SINGLE n 1.089 0.0100 0.973 0.0146
+AFA C8  H82  SINGLE n 1.089 0.0100 0.973 0.0146
+AFA C8  H83  SINGLE n 1.089 0.0100 0.973 0.0146
+AFA C9  H91  SINGLE n 1.089 0.0100 0.973 0.0146
+AFA C9  H92  SINGLE n 1.089 0.0100 0.973 0.0146
+AFA C9  H93  SINGLE n 1.089 0.0100 0.973 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -113,69 +113,70 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-AFA          CA           N          C1     123.006    1.88
-AFA          CA           N           H     118.317    2.15
-AFA          C1           N           H     118.677    1.50
-AFA           N          CA          CB     112.687    1.50
-AFA           N          CA           C     110.976    1.55
-AFA           N          CA          HA     108.343    1.63
-AFA          CB          CA           C     111.511    2.91
-AFA          CB          CA          HA     107.587    1.50
-AFA           C          CA          HA     108.327    1.50
-AFA          CA          CB          CG     110.660    1.50
-AFA          CA          CB         HB2     108.988    1.50
-AFA          CA          CB         HB3     108.988    1.50
-AFA          CG          CB         HB2     109.076    1.50
-AFA          CG          CB         HB3     109.076    1.50
-AFA         HB2          CB         HB3     108.069    1.50
-AFA          CB          CG         OD1     120.613    1.50
-AFA          CB          CG         ND2     116.821    1.50
-AFA         OD1          CG         ND2     122.566    1.50
-AFA          CG         ND2        HD21     120.022    1.65
-AFA          CG         ND2        HD22     120.022    1.65
-AFA        HD21         ND2        HD22     119.956    2.38
-AFA          CA           C           O     117.249    1.61
-AFA          CA           C         OXT     117.249    1.61
-AFA           O           C         OXT     125.502    1.50
-AFA           N          C1          O1     122.212    1.75
-AFA           N          C1          C2     115.463    1.50
-AFA          O1          C1          C2     122.325    1.94
-AFA          C1          C2          C3     125.101    3.00
-AFA          C1          C2          H2     118.210    2.13
-AFA          C3          C2          H2     116.689    2.10
-AFA          C2          C3          C4     127.829    3.00
-AFA          C2          C3          H3     116.173    2.10
-AFA          C4          C3          H3     115.998    1.85
-AFA          C3          C4          C5     126.726    2.74
-AFA          C3          C4          H4     115.972    1.85
-AFA          C5          C4          H4     117.302    1.50
-AFA          C4          C5          C6     125.817    2.56
-AFA          C4          C5          H5     117.634    1.50
-AFA          C6          C5          H5     116.549    1.70
-AFA          C5          C6          C7     113.813    2.40
-AFA          C5          C6         H61     108.801    1.50
-AFA          C5          C6         H62     108.801    1.50
-AFA          C7          C6         H61     108.689    1.50
-AFA          C7          C6         H62     108.689    1.50
-AFA         H61          C6         H62     107.820    1.50
-AFA          C6          C7          C8     110.659    1.50
-AFA          C6          C7          C9     110.659    1.50
-AFA          C6          C7          H7     107.526    1.50
-AFA          C8          C7          C9     110.507    1.50
-AFA          C8          C7          H7     108.052    1.50
-AFA          C9          C7          H7     108.052    1.50
-AFA          C7          C8         H81     109.488    1.50
-AFA          C7          C8         H82     109.488    1.50
-AFA          C7          C8         H83     109.488    1.50
-AFA         H81          C8         H82     109.411    1.50
-AFA         H81          C8         H83     109.411    1.50
-AFA         H82          C8         H83     109.411    1.50
-AFA          C7          C9         H91     109.488    1.50
-AFA          C7          C9         H92     109.488    1.50
-AFA          C7          C9         H93     109.488    1.50
-AFA         H91          C9         H92     109.411    1.50
-AFA         H91          C9         H93     109.411    1.50
-AFA         H92          C9         H93     109.411    1.50
+AFA CA   N   C1   123.006 1.88
+AFA CA   N   H    118.317 2.15
+AFA C1   N   H    118.677 1.50
+AFA N    CA  CB   112.687 1.50
+AFA N    CA  C    110.976 1.55
+AFA N    CA  HA   108.343 1.63
+AFA CB   CA  C    111.511 2.91
+AFA CB   CA  HA   107.587 1.50
+AFA C    CA  HA   108.327 1.50
+AFA CA   CB  CG   110.660 1.50
+AFA CA   CB  HB2  108.988 1.50
+AFA CA   CB  HB3  108.988 1.50
+AFA CG   CB  HB2  109.076 1.50
+AFA CG   CB  HB3  109.076 1.50
+AFA HB2  CB  HB3  108.069 1.50
+AFA CB   CG  OD1  120.613 1.50
+AFA CB   CG  ND2  116.821 1.50
+AFA OD1  CG  ND2  122.566 1.50
+AFA CG   ND2 HD21 120.022 1.65
+AFA CG   ND2 HD22 120.022 1.65
+AFA HD21 ND2 HD22 119.956 2.38
+AFA CA   C   O    117.249 1.61
+AFA CA   C   OXT  117.249 1.61
+AFA O    C   OXT  125.502 1.50
+AFA N    C1  O1   122.212 1.75
+AFA N    C1  C2   115.463 1.50
+AFA O1   C1  C2   122.325 1.94
+AFA C1   C2  C3   125.101 3.00
+AFA C1   C2  H2   118.210 2.13
+AFA C3   C2  H2   116.689 2.10
+AFA C2   C3  C4   127.829 3.00
+AFA C2   C3  H3   116.173 2.10
+AFA C4   C3  H3   115.998 1.85
+AFA C3   C4  C5   126.726 2.74
+AFA C3   C4  H4   115.972 1.85
+AFA C5   C4  H4   117.302 1.50
+AFA C4   C5  C6   125.817 2.56
+AFA C4   C5  H5   117.634 1.50
+AFA C6   C5  H5   116.549 1.70
+AFA C5   C6  C7   113.813 2.40
+AFA C5   C6  H61  108.801 1.50
+AFA C5   C6  H62  108.801 1.50
+AFA C7   C6  H61  108.689 1.50
+AFA C7   C6  H62  108.689 1.50
+AFA H61  C6  H62  107.820 1.50
+AFA C6   C7  C8   110.659 1.50
+AFA C6   C7  C9   110.659 1.50
+AFA C6   C7  H7   107.526 1.50
+AFA C8   C7  C9   110.507 1.50
+AFA C8   C7  H7   108.052 1.50
+AFA C9   C7  H7   108.052 1.50
+AFA C7   C8  H81  109.488 1.50
+AFA C7   C8  H82  109.488 1.50
+AFA C7   C8  H83  109.488 1.50
+AFA H81  C8  H82  109.411 1.50
+AFA H81  C8  H83  109.411 1.50
+AFA H82  C8  H83  109.411 1.50
+AFA C7   C9  H91  109.488 1.50
+AFA C7   C9  H92  109.488 1.50
+AFA C7   C9  H93  109.488 1.50
+AFA H91  C9  H92  109.411 1.50
+AFA H91  C9  H93  109.411 1.50
+AFA H92  C9  H93  109.411 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -186,20 +187,21 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-AFA             sp2_sp3_1          C1           N          CA          CB       0.000    10.0     6
-AFA             sp2_sp2_3          O1          C1           N          CA       0.000     5.0     2
-AFA            sp2_sp2_13          C1          C2          C3          C4     180.000     5.0     2
-AFA            sp2_sp2_17          C2          C3          C4          C5     180.000     5.0     2
-AFA            sp2_sp2_21          C3          C4          C5          C6     180.000     5.0     2
-AFA            sp2_sp3_20          C4          C5          C6          C7     120.000    10.0     6
-AFA            sp3_sp3_11          C5          C6          C7          C8     -60.000    10.0     3
-AFA            sp3_sp3_19          C6          C7          C8         H81     180.000    10.0     3
-AFA            sp3_sp3_31          C6          C7          C9         H91      60.000    10.0     3
-AFA             sp3_sp3_1           N          CA          CB          CG     180.000    10.0     3
-AFA             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-AFA            sp2_sp3_14         OD1          CG          CB          CA     120.000    10.0     6
-AFA             sp2_sp2_5          CB          CG         ND2        HD21     180.000     5.0     2
-AFA             sp2_sp2_9           N          C1          C2          C3     180.000     5.0     2
+AFA sp2_sp3_1  C1  N  CA  CB   0.000   10.0 6
+AFA sp2_sp2_3  O1  C1 N   CA   0.000   5.0  2
+AFA sp2_sp2_13 C1  C2 C3  C4   180.000 5.0  2
+AFA sp2_sp2_17 C2  C3 C4  C5   180.000 5.0  2
+AFA sp2_sp2_21 C3  C4 C5  C6   180.000 5.0  2
+AFA sp2_sp3_20 C4  C5 C6  C7   120.000 10.0 6
+AFA sp3_sp3_11 C5  C6 C7  C8   -60.000 10.0 3
+AFA sp3_sp3_19 C6  C7 C8  H81  180.000 10.0 3
+AFA sp3_sp3_31 C6  C7 C9  H91  60.000  10.0 3
+AFA sp3_sp3_1  N   CA CB  CG   180.000 10.0 3
+AFA sp2_sp3_7  O   C  CA  N    0.000   10.0 6
+AFA sp2_sp3_14 OD1 CG CB  CA   120.000 10.0 6
+AFA sp2_sp2_5  CB  CG ND2 HD21 180.000 5.0  2
+AFA sp2_sp2_9  N   C1 C2  C3   180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -208,68 +210,78 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-AFA    chir_1    CA    N    C    CB    positive
-AFA    chir_2    C7    C6    C8    C9    both
+AFA chir_1 CA N  C  CB positive
+AFA chir_2 C7 C6 C8 C9 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-AFA    plan-1          C1   0.020
-AFA    plan-1          CA   0.020
-AFA    plan-1           H   0.020
-AFA    plan-1           N   0.020
-AFA    plan-2          CB   0.020
-AFA    plan-2          CG   0.020
-AFA    plan-2         ND2   0.020
-AFA    plan-2         OD1   0.020
-AFA    plan-3          CG   0.020
-AFA    plan-3        HD21   0.020
-AFA    plan-3        HD22   0.020
-AFA    plan-3         ND2   0.020
-AFA    plan-4           C   0.020
-AFA    plan-4          CA   0.020
-AFA    plan-4           O   0.020
-AFA    plan-4         OXT   0.020
-AFA    plan-5          C1   0.020
-AFA    plan-5          C2   0.020
-AFA    plan-5           N   0.020
-AFA    plan-5          O1   0.020
-AFA    plan-6          C1   0.020
-AFA    plan-6          C2   0.020
-AFA    plan-6          C3   0.020
-AFA    plan-6          H2   0.020
-AFA    plan-7          C2   0.020
-AFA    plan-7          C3   0.020
-AFA    plan-7          C4   0.020
-AFA    plan-7          H3   0.020
-AFA    plan-8          C3   0.020
-AFA    plan-8          C4   0.020
-AFA    plan-8          C5   0.020
-AFA    plan-8          H4   0.020
-AFA    plan-9          C4   0.020
-AFA    plan-9          C5   0.020
-AFA    plan-9          C6   0.020
-AFA    plan-9          H5   0.020
+AFA plan-1 C1   0.020
+AFA plan-1 CA   0.020
+AFA plan-1 H    0.020
+AFA plan-1 N    0.020
+AFA plan-2 CB   0.020
+AFA plan-2 CG   0.020
+AFA plan-2 ND2  0.020
+AFA plan-2 OD1  0.020
+AFA plan-3 CG   0.020
+AFA plan-3 HD21 0.020
+AFA plan-3 HD22 0.020
+AFA plan-3 ND2  0.020
+AFA plan-4 C    0.020
+AFA plan-4 CA   0.020
+AFA plan-4 O    0.020
+AFA plan-4 OXT  0.020
+AFA plan-5 C1   0.020
+AFA plan-5 C2   0.020
+AFA plan-5 N    0.020
+AFA plan-5 O1   0.020
+AFA plan-6 C1   0.020
+AFA plan-6 C2   0.020
+AFA plan-6 C3   0.020
+AFA plan-6 H2   0.020
+AFA plan-7 C2   0.020
+AFA plan-7 C3   0.020
+AFA plan-7 C4   0.020
+AFA plan-7 H3   0.020
+AFA plan-8 C3   0.020
+AFA plan-8 C4   0.020
+AFA plan-8 C5   0.020
+AFA plan-8 H4   0.020
+AFA plan-9 C4   0.020
+AFA plan-9 C5   0.020
+AFA plan-9 C6   0.020
+AFA plan-9 H5   0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-AFA           SMILES              ACDLabs 10.04                                                                                                            O=C(NC(C(=O)O)CC(=O)N)/C=C\C=C\CC(C)C
-AFA SMILES_CANONICAL               CACTVS 3.341                                                                                                       CC(C)C\C=C\C=C/C(=O)N[C@@H](CC(N)=O)C(O)=O
-AFA           SMILES               CACTVS 3.341                                                                                                            CC(C)CC=CC=CC(=O)N[CH](CC(N)=O)C(O)=O
-AFA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                       CC(C)C\C=C\C=C/C(=O)N[C@@H](CC(=O)N)C(=O)O
-AFA           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                               CC(C)CC=CC=CC(=O)NC(CC(=O)N)C(=O)O
-AFA            InChI                InChI  1.03 InChI=1S/C13H20N2O4/c1-9(2)6-4-3-5-7-12(17)15-10(13(18)19)8-11(14)16/h3-5,7,9-10H,6,8H2,1-2H3,(H2,14,16)(H,15,17)(H,18,19)/b4-3+,7-5-/t10-/m0/s1
-AFA         InChIKey                InChI  1.03                                                                                                                      MLCJPQMSSCXLNC-IIIRDDERSA-N
+AFA SMILES           ACDLabs              10.04 O=C(NC(C(=O)O)CC(=O)N)/C=C\C=C\CC(C)C
+AFA SMILES_CANONICAL CACTVS               3.341 CC(C)C\C=C\C=C/C(=O)N[C@@H](CC(N)=O)C(O)=O
+AFA SMILES           CACTVS               3.341 CC(C)CC=CC=CC(=O)N[CH](CC(N)=O)C(O)=O
+AFA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(C)C\C=C\C=C/C(=O)N[C@@H](CC(=O)N)C(=O)O
+AFA SMILES           "OpenEye OEToolkits" 1.5.0 CC(C)CC=CC=CC(=O)NC(CC(=O)N)C(=O)O
+AFA InChI            InChI                1.03  InChI=1S/C13H20N2O4/c1-9(2)6-4-3-5-7-12(17)15-10(13(18)19)8-11(14)16/h3-5,7,9-10H,6,8H2,1-2H3,(H2,14,16)(H,15,17)(H,18,19)/b4-3+,7-5-/t10-/m0/s1
+AFA InChIKey         InChI                1.03  MLCJPQMSSCXLNC-IIIRDDERSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-AFA acedrg               243         "dictionary generator"                  
-AFA acedrg_database      11          "data source"                           
-AFA rdkit                2017.03.2   "Chemoinformatics tool"
-AFA refmac5              5.8.0238    "optimization tool"                     
+AFA acedrg          243       "dictionary generator"
+AFA acedrg_database 11        "data source"
+AFA rdkit           2017.03.2 "Chemoinformatics tool"
+AFA refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+AFA M-peptide C1 CN

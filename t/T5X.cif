@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-T5X     T5X      "2-C-{3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-5-(2-{[(R)-hydroxy(phosphonooxy)phosphoryl]oxy}ethyl)-4-methyl-1,3-thiazol-3-ium-2-yl}-5-O-phosphono-D-xylitol"     NON-POLYMER     65     40     .     
-#
+T5X T5X "2-C-{3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-5-(2-{[(R)-hydroxy(phosphonooxy)phosphoryl]oxy}ethyl)-4-methyl-1,3-thiazol-3-ium-2-yl}-5-O-phosphono-D-xylitol" NON-POLYMER 65 40 .
+
 data_comp_T5X
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,71 +19,72 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-T5X     O2A     O       OP      -1      17.995      -15.960     5.732       
-T5X     PA      P       P       0       17.342      -17.167     5.143       
-T5X     O1A     O       O       0       17.668      -17.553     3.738       
-T5X     O3A     O       O2      0       17.594      -18.423     6.108       
-T5X     PB      P       P       0       17.140      -19.970     6.034       
-T5X     O3B     O       OP      -1      17.587      -20.597     7.332       
-T5X     O2B     O       O       0       17.845      -20.552     4.833       
-T5X     O1B     O       OP      -1      15.639      -19.959     5.879       
-T5X     O7      O       O2      0       15.752      -16.991     5.266       
-T5X     C7      C       CH2     0       15.186      -16.544     6.520       
-T5X     C6      C       CH2     0       13.685      -16.634     6.442       
-T5X     C5      C       CR5     0       13.039      -15.938     7.586       
-T5X     S1      S       S2      0       13.046      -16.666     9.072       
-T5X     C2      C       CR5     0       12.234      -15.468     9.929       
-T5X     CX2     C       CT      0       11.915      -15.609     11.391      
-T5X     CX3     C       CH1     0       10.390      -15.871     11.517      
-T5X     CX4     C       CH1     0       9.818       -16.186     12.903      
-T5X     CX5     C       CH2     0       8.340       -15.886     13.010      
-T5X     OX5     O       O2      0       7.811       -16.323     14.293      
-T5X     PX      P       P       0       6.222       -16.206     14.556      
-T5X     OX7     O       O       0       5.889       -14.732     14.419      
-T5X     OX6     O       OP      -1      5.996       -16.733     15.960      
-T5X     OX8     O       OP      -1      5.558       -17.061     13.492      
-T5X     OX4     O       OH1     0       10.024      -17.565     13.225      
-T5X     OX3     O       OH1     0       10.019      -16.939     10.628      
-T5X     CX1     C       CH2     0       12.731      -16.704     12.084      
-T5X     OX1     O       OH1     0       14.128      -16.562     11.849      
-T5X     OX2     O       OH1     0       12.310      -14.417     12.076      
-T5X     N3      N       NR5     1       11.910      -14.436     9.054       
-T5X     C4      C       CR5     0       12.374      -14.718     7.717       
-T5X     CM4     C       CH3     0       12.163      -13.773     6.569       
-T5X     C7,     C       CH2     0       11.177      -13.211     9.409       
-T5X     C5,     C       CR6     0       11.870      -11.921     9.005       
-T5X     C4,     C       CR6     0       13.223      -11.628     9.313       
-T5X     N4,     N       NH2     0       13.990      -12.476     10.019      
-T5X     N3,     N       NRD6    0       13.806      -10.474     8.919       
-T5X     C2,     C       CR6     0       13.066      -9.608      8.215       
-T5X     CM2     C       CH3     0       13.711      -8.333      7.777       
-T5X     N1,     N       NRD6    0       11.787      -9.807      7.872       
-T5X     C6,     C       CR16    0       11.209      -10.954     8.264       
-T5X     H71     H       H       0       15.456      -15.618     6.695       
-T5X     H72     H       H       0       15.514      -17.106     7.253       
-T5X     H61     H       H       0       13.416      -17.570     6.446       
-T5X     H62     H       H       0       13.379      -16.238     5.607       
-T5X     HX3     H       H       0       9.913       -15.063     11.191      
-T5X     HX4     H       H       0       10.299      -15.631     13.583      
-T5X     HX51    H       H       0       7.861       -16.344     12.288      
-T5X     HX52    H       H       0       8.194       -14.922     12.911      
-T5X     HOX4    H       H       0       9.869       -17.715     14.045      
-T5X     HOX3    H       H       0       10.226      -17.695     10.955      
-T5X     HX11    H       H       0       12.435      -17.585     11.766      
-T5X     HX12    H       H       0       12.570      -16.663     13.051      
-T5X     HOX1    H       H       0       14.539      -17.187     12.245      
-T5X     HOX2    H       H       0       12.030      -14.389     12.873      
-T5X     HM41    H       H       0       11.279      -13.379     6.624       
-T5X     HM42    H       H       0       12.241      -14.254     5.732       
-T5X     HM43    H       H       0       12.832      -13.071     6.596       
-T5X     H7,1    H       H       0       11.021      -13.186     10.369      
-T5X     H7,2    H       H       0       10.301      -13.247     8.973       
-T5X     H4,1    H       H       0       14.766      -12.732     9.700       
-T5X     H4,2    H       H       0       13.712      -12.772     10.797      
-T5X     HM21    H       H       0       14.454      -8.122      8.367       
-T5X     HM22    H       H       0       13.061      -7.613      7.808       
-T5X     HM23    H       H       0       14.040      -8.431      6.869       
-T5X     H6,     H       H       0       10.312      -11.105     8.029       
+T5X O2A  O OP   -1 17.995 -15.960 5.732
+T5X PA   P P    0  17.342 -17.167 5.143
+T5X O1A  O O    0  17.668 -17.553 3.738
+T5X O3A  O O2   0  17.594 -18.423 6.108
+T5X PB   P P    0  17.140 -19.970 6.034
+T5X O3B  O OP   -1 17.587 -20.597 7.332
+T5X O2B  O O    0  17.845 -20.552 4.833
+T5X O1B  O OP   -1 15.639 -19.959 5.879
+T5X O7   O O2   0  15.752 -16.991 5.266
+T5X C7   C CH2  0  15.186 -16.544 6.520
+T5X C6   C CH2  0  13.685 -16.634 6.442
+T5X C5   C CR5  0  13.039 -15.938 7.586
+T5X S1   S S2   0  13.046 -16.666 9.072
+T5X C2   C CR5  0  12.234 -15.468 9.929
+T5X CX2  C CT   0  11.915 -15.609 11.391
+T5X CX3  C CH1  0  10.390 -15.871 11.517
+T5X CX4  C CH1  0  9.818  -16.186 12.903
+T5X CX5  C CH2  0  8.340  -15.886 13.010
+T5X OX5  O O2   0  7.811  -16.323 14.293
+T5X PX   P P    0  6.222  -16.206 14.556
+T5X OX7  O O    0  5.889  -14.732 14.419
+T5X OX6  O OP   -1 5.996  -16.733 15.960
+T5X OX8  O OP   -1 5.558  -17.061 13.492
+T5X OX4  O OH1  0  10.024 -17.565 13.225
+T5X OX3  O OH1  0  10.019 -16.939 10.628
+T5X CX1  C CH2  0  12.731 -16.704 12.084
+T5X OX1  O OH1  0  14.128 -16.562 11.849
+T5X OX2  O OH1  0  12.310 -14.417 12.076
+T5X N3   N NR5  1  11.910 -14.436 9.054
+T5X C4   C CR5  0  12.374 -14.718 7.717
+T5X CM4  C CH3  0  12.163 -13.773 6.569
+T5X C7,  C CH2  0  11.177 -13.211 9.409
+T5X C5,  C CR6  0  11.870 -11.921 9.005
+T5X C4,  C CR6  0  13.223 -11.628 9.313
+T5X N4,  N NH2  0  13.990 -12.476 10.019
+T5X N3,  N NRD6 0  13.806 -10.474 8.919
+T5X C2,  C CR6  0  13.066 -9.608  8.215
+T5X CM2  C CH3  0  13.711 -8.333  7.777
+T5X N1,  N NRD6 0  11.787 -9.807  7.872
+T5X C6,  C CR16 0  11.209 -10.954 8.264
+T5X H71  H H    0  15.456 -15.618 6.695
+T5X H72  H H    0  15.514 -17.106 7.253
+T5X H61  H H    0  13.416 -17.570 6.446
+T5X H62  H H    0  13.379 -16.238 5.607
+T5X HX3  H H    0  9.913  -15.063 11.191
+T5X HX4  H H    0  10.299 -15.631 13.583
+T5X HX51 H H    0  7.861  -16.344 12.288
+T5X HX52 H H    0  8.194  -14.922 12.911
+T5X HOX4 H H    0  9.869  -17.715 14.045
+T5X HOX3 H H    0  10.226 -17.695 10.955
+T5X HX11 H H    0  12.435 -17.585 11.766
+T5X HX12 H H    0  12.570 -16.663 13.051
+T5X HOX1 H H    0  14.539 -17.187 12.245
+T5X HOX2 H H    0  12.030 -14.389 12.873
+T5X HM41 H H    0  11.279 -13.379 6.624
+T5X HM42 H H    0  12.241 -14.254 5.732
+T5X HM43 H H    0  12.832 -13.071 6.596
+T5X H7,1 H H    0  11.021 -13.186 10.369
+T5X H7,2 H H    0  10.301 -13.247 8.973
+T5X H4,1 H H    0  14.766 -12.732 9.700
+T5X H4,2 H H    0  13.712 -12.772 10.797
+T5X HM21 H H    0  14.454 -8.122  8.367
+T5X HM22 H H    0  13.061 -7.613  7.808
+T5X HM23 H H    0  14.040 -8.431  6.869
+T5X H6,  H H    0  10.312 -11.105 8.029
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -96,72 +95,73 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-T5X          PA         O1A      DOUBLE       n     1.493  0.0122     1.493  0.0122
-T5X          PB         O2B      DOUBLE       n     1.509  0.0200     1.509  0.0200
-T5X          PA          O7      SINGLE       n     1.604  0.0133     1.604  0.0133
-T5X         O2A          PA      SINGLE       n     1.493  0.0122     1.493  0.0122
-T5X          PA         O3A      SINGLE       n     1.604  0.0133     1.604  0.0133
-T5X          O7          C7      SINGLE       n     1.447  0.0162     1.447  0.0162
-T5X          PB         O1B      SINGLE       n     1.509  0.0200     1.509  0.0200
-T5X         O3A          PB      SINGLE       n     1.614  0.0178     1.614  0.0178
-T5X          PB         O3B      SINGLE       n     1.509  0.0200     1.509  0.0200
-T5X          C7          C6      SINGLE       n     1.505  0.0199     1.505  0.0199
-T5X          C6          C5      SINGLE       n     1.486  0.0100     1.486  0.0100
-T5X          C4         CM4      SINGLE       n     1.499  0.0100     1.499  0.0100
-T5X          C5          C4      DOUBLE       y     1.389  0.0200     1.389  0.0200
-T5X          C5          S1      SINGLE       y     1.695  0.0200     1.695  0.0200
-T5X          N3          C4      SINGLE       y     1.378  0.0200     1.378  0.0200
-T5X         N1,         C6,      DOUBLE       y     1.340  0.0100     1.340  0.0100
-T5X         C2,         N1,      SINGLE       y     1.335  0.0101     1.335  0.0101
-T5X         C5,         C6,      SINGLE       y     1.382  0.0100     1.382  0.0100
-T5X          S1          C2      SINGLE       y     1.695  0.0200     1.695  0.0200
-T5X          N3         C7,      SINGLE       n     1.461  0.0100     1.461  0.0100
-T5X          C2          N3      DOUBLE       y     1.367  0.0129     1.367  0.0129
-T5X         C2,         CM2      SINGLE       n     1.494  0.0103     1.494  0.0103
-T5X         N3,         C2,      DOUBLE       y     1.333  0.0107     1.333  0.0107
-T5X         C7,         C5,      SINGLE       n     1.515  0.0100     1.515  0.0100
-T5X         C5,         C4,      DOUBLE       y     1.410  0.0130     1.410  0.0130
-T5X          C2         CX2      SINGLE       n     1.490  0.0111     1.490  0.0111
-T5X         C4,         N3,      SINGLE       y     1.343  0.0133     1.343  0.0133
-T5X         C4,         N4,      SINGLE       n     1.343  0.0151     1.343  0.0151
-T5X         CX3         OX3      SINGLE       n     1.426  0.0179     1.426  0.0179
-T5X         CX2         CX3      SINGLE       n     1.531  0.0156     1.531  0.0156
-T5X         CX3         CX4      SINGLE       n     1.526  0.0100     1.526  0.0100
-T5X         CX2         CX1      SINGLE       n     1.507  0.0200     1.507  0.0200
-T5X         CX2         OX2      SINGLE       n     1.427  0.0139     1.427  0.0139
-T5X         CX1         OX1      SINGLE       n     1.421  0.0200     1.421  0.0200
-T5X         CX4         CX5      SINGLE       n     1.511  0.0100     1.511  0.0100
-T5X         CX5         OX5      SINGLE       n     1.454  0.0165     1.454  0.0165
-T5X          PX         OX7      DOUBLE       n     1.517  0.0192     1.517  0.0192
-T5X         CX4         OX4      SINGLE       n     1.429  0.0100     1.429  0.0100
-T5X         OX5          PX      SINGLE       n     1.614  0.0178     1.614  0.0178
-T5X          PX         OX8      SINGLE       n     1.517  0.0192     1.517  0.0192
-T5X          PX         OX6      SINGLE       n     1.517  0.0192     1.517  0.0192
-T5X          C7         H71      SINGLE       n     1.089  0.0100     0.980  0.0143
-T5X          C7         H72      SINGLE       n     1.089  0.0100     0.980  0.0143
-T5X          C6         H61      SINGLE       n     1.089  0.0100     0.974  0.0100
-T5X          C6         H62      SINGLE       n     1.089  0.0100     0.974  0.0100
-T5X         CX3         HX3      SINGLE       n     1.089  0.0100     0.995  0.0200
-T5X         CX4         HX4      SINGLE       n     1.089  0.0100     1.004  0.0200
-T5X         CX5        HX51      SINGLE       n     1.089  0.0100     0.980  0.0146
-T5X         CX5        HX52      SINGLE       n     1.089  0.0100     0.980  0.0146
-T5X         OX4        HOX4      SINGLE       n     0.970  0.0120     0.848  0.0200
-T5X         OX3        HOX3      SINGLE       n     0.970  0.0120     0.848  0.0200
-T5X         CX1        HX11      SINGLE       n     1.089  0.0100     0.982  0.0200
-T5X         CX1        HX12      SINGLE       n     1.089  0.0100     0.982  0.0200
-T5X         OX1        HOX1      SINGLE       n     0.970  0.0120     0.846  0.0200
-T5X         OX2        HOX2      SINGLE       n     0.970  0.0120     0.848  0.0200
-T5X         CM4        HM41      SINGLE       n     1.089  0.0100     0.970  0.0153
-T5X         CM4        HM42      SINGLE       n     1.089  0.0100     0.970  0.0153
-T5X         CM4        HM43      SINGLE       n     1.089  0.0100     0.970  0.0153
-T5X         C7,        H7,1      SINGLE       n     1.089  0.0100     0.979  0.0157
-T5X         C7,        H7,2      SINGLE       n     1.089  0.0100     0.979  0.0157
-T5X         N4,        H4,1      SINGLE       n     1.016  0.0100     0.877  0.0200
-T5X         N4,        H4,2      SINGLE       n     1.016  0.0100     0.877  0.0200
-T5X         CM2        HM21      SINGLE       n     1.089  0.0100     0.971  0.0138
-T5X         CM2        HM22      SINGLE       n     1.089  0.0100     0.971  0.0138
-T5X         CM2        HM23      SINGLE       n     1.089  0.0100     0.971  0.0138
-T5X         C6,         H6,      SINGLE       n     1.082  0.0130     0.940  0.0200
+T5X PA  O1A  DOUBLE n 1.493 0.0122 1.493 0.0122
+T5X PB  O2B  DOUBLE n 1.509 0.0200 1.509 0.0200
+T5X PA  O7   SINGLE n 1.604 0.0133 1.604 0.0133
+T5X O2A PA   SINGLE n 1.493 0.0122 1.493 0.0122
+T5X PA  O3A  SINGLE n 1.604 0.0133 1.604 0.0133
+T5X O7  C7   SINGLE n 1.447 0.0162 1.447 0.0162
+T5X PB  O1B  SINGLE n 1.509 0.0200 1.509 0.0200
+T5X O3A PB   SINGLE n 1.614 0.0178 1.614 0.0178
+T5X PB  O3B  SINGLE n 1.509 0.0200 1.509 0.0200
+T5X C7  C6   SINGLE n 1.505 0.0199 1.505 0.0199
+T5X C6  C5   SINGLE n 1.486 0.0100 1.486 0.0100
+T5X C4  CM4  SINGLE n 1.499 0.0100 1.499 0.0100
+T5X C5  C4   DOUBLE y 1.389 0.0200 1.389 0.0200
+T5X C5  S1   SINGLE y 1.695 0.0200 1.695 0.0200
+T5X N3  C4   SINGLE y 1.378 0.0200 1.378 0.0200
+T5X N1, C6,  DOUBLE y 1.340 0.0100 1.340 0.0100
+T5X C2, N1,  SINGLE y 1.335 0.0101 1.335 0.0101
+T5X C5, C6,  SINGLE y 1.382 0.0100 1.382 0.0100
+T5X S1  C2   SINGLE y 1.695 0.0200 1.695 0.0200
+T5X N3  C7,  SINGLE n 1.461 0.0100 1.461 0.0100
+T5X C2  N3   DOUBLE y 1.367 0.0129 1.367 0.0129
+T5X C2, CM2  SINGLE n 1.494 0.0103 1.494 0.0103
+T5X N3, C2,  DOUBLE y 1.333 0.0107 1.333 0.0107
+T5X C7, C5,  SINGLE n 1.515 0.0100 1.515 0.0100
+T5X C5, C4,  DOUBLE y 1.410 0.0130 1.410 0.0130
+T5X C2  CX2  SINGLE n 1.490 0.0111 1.490 0.0111
+T5X C4, N3,  SINGLE y 1.343 0.0133 1.343 0.0133
+T5X C4, N4,  SINGLE n 1.343 0.0151 1.343 0.0151
+T5X CX3 OX3  SINGLE n 1.426 0.0179 1.426 0.0179
+T5X CX2 CX3  SINGLE n 1.531 0.0156 1.531 0.0156
+T5X CX3 CX4  SINGLE n 1.526 0.0100 1.526 0.0100
+T5X CX2 CX1  SINGLE n 1.507 0.0200 1.507 0.0200
+T5X CX2 OX2  SINGLE n 1.427 0.0139 1.427 0.0139
+T5X CX1 OX1  SINGLE n 1.421 0.0200 1.421 0.0200
+T5X CX4 CX5  SINGLE n 1.511 0.0100 1.511 0.0100
+T5X CX5 OX5  SINGLE n 1.454 0.0165 1.454 0.0165
+T5X PX  OX7  DOUBLE n 1.517 0.0192 1.517 0.0192
+T5X CX4 OX4  SINGLE n 1.429 0.0100 1.429 0.0100
+T5X OX5 PX   SINGLE n 1.614 0.0178 1.614 0.0178
+T5X PX  OX8  SINGLE n 1.517 0.0192 1.517 0.0192
+T5X PX  OX6  SINGLE n 1.517 0.0192 1.517 0.0192
+T5X C7  H71  SINGLE n 1.089 0.0100 0.980 0.0143
+T5X C7  H72  SINGLE n 1.089 0.0100 0.980 0.0143
+T5X C6  H61  SINGLE n 1.089 0.0100 0.974 0.0100
+T5X C6  H62  SINGLE n 1.089 0.0100 0.974 0.0100
+T5X CX3 HX3  SINGLE n 1.089 0.0100 0.995 0.0200
+T5X CX4 HX4  SINGLE n 1.089 0.0100 1.004 0.0200
+T5X CX5 HX51 SINGLE n 1.089 0.0100 0.980 0.0146
+T5X CX5 HX52 SINGLE n 1.089 0.0100 0.980 0.0146
+T5X OX4 HOX4 SINGLE n 0.970 0.0120 0.848 0.0200
+T5X OX3 HOX3 SINGLE n 0.970 0.0120 0.848 0.0200
+T5X CX1 HX11 SINGLE n 1.089 0.0100 0.982 0.0200
+T5X CX1 HX12 SINGLE n 1.089 0.0100 0.982 0.0200
+T5X OX1 HOX1 SINGLE n 0.970 0.0120 0.846 0.0200
+T5X OX2 HOX2 SINGLE n 0.970 0.0120 0.848 0.0200
+T5X CM4 HM41 SINGLE n 1.089 0.0100 0.970 0.0153
+T5X CM4 HM42 SINGLE n 1.089 0.0100 0.970 0.0153
+T5X CM4 HM43 SINGLE n 1.089 0.0100 0.970 0.0153
+T5X C7, H7,1 SINGLE n 1.089 0.0100 0.979 0.0157
+T5X C7, H7,2 SINGLE n 1.089 0.0100 0.979 0.0157
+T5X N4, H4,1 SINGLE n 1.016 0.0100 0.877 0.0200
+T5X N4, H4,2 SINGLE n 1.016 0.0100 0.877 0.0200
+T5X CM2 HM21 SINGLE n 1.089 0.0100 0.971 0.0138
+T5X CM2 HM22 SINGLE n 1.089 0.0100 0.971 0.0138
+T5X CM2 HM23 SINGLE n 1.089 0.0100 0.971 0.0138
+T5X C6, H6,  SINGLE n 1.082 0.0130 0.940 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -169,121 +169,122 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-T5X         O1A          PA          O7     107.912    2.57
-T5X         O1A          PA         O2A     118.411    2.35
-T5X         O1A          PA         O3A     108.816    2.14
-T5X          O7          PA         O2A     107.912    2.57
-T5X          O7          PA         O3A     101.065    1.97
-T5X         O2A          PA         O3A     108.816    2.14
-T5X          PA         O3A          PB     132.584    3.00
-T5X         O2B          PB         O1B     112.716    1.50
-T5X         O2B          PB         O3A     105.965    2.38
-T5X         O2B          PB         O3B     112.716    1.50
-T5X         O1B          PB         O3A     105.965    2.38
-T5X         O1B          PB         O3B     112.716    1.50
-T5X         O3A          PB         O3B     105.965    2.38
-T5X          PA          O7          C7     119.251    1.51
-T5X          O7          C7          C6     108.926    2.01
-T5X          O7          C7         H71     109.739    1.50
-T5X          O7          C7         H72     109.739    1.50
-T5X          C6          C7         H71     109.702    1.50
-T5X          C6          C7         H72     109.702    1.50
-T5X         H71          C7         H72     108.319    1.50
-T5X          C7          C6          C5     110.747    2.16
-T5X          C7          C6         H61     109.160    1.50
-T5X          C7          C6         H62     109.160    1.50
-T5X          C5          C6         H61     108.883    1.50
-T5X          C5          C6         H62     108.883    1.50
-T5X         H61          C6         H62     107.724    1.50
-T5X          C6          C5          C4     131.713    3.00
-T5X          C6          C5          S1     120.286    3.00
-T5X          C4          C5          S1     108.002    3.00
-T5X          C5          S1          C2     108.002    3.00
-T5X          S1          C2          N3     108.002    3.00
-T5X          S1          C2         CX2     124.694    3.00
-T5X          N3          C2         CX2     127.304    1.69
-T5X          C2         CX2         CX3     110.747    2.16
-T5X          C2         CX2         CX1     110.747    2.16
-T5X          C2         CX2         OX2     111.149    2.31
-T5X         CX3         CX2         CX1     111.094    2.85
-T5X         CX3         CX2         OX2     109.482    3.00
-T5X         CX1         CX2         OX2     109.482    3.00
-T5X         OX3         CX3         CX2     109.482    3.00
-T5X         OX3         CX3         CX4     109.320    2.01
-T5X         OX3         CX3         HX3     108.183    1.96
-T5X         CX2         CX3         CX4     111.094    2.85
-T5X         CX2         CX3         HX3     109.155    1.50
-T5X         CX4         CX3         HX3     108.450    1.83
-T5X         CX3         CX4         CX5     113.761    1.50
-T5X         CX3         CX4         OX4     109.320    2.01
-T5X         CX3         CX4         HX4     108.450    1.83
-T5X         CX5         CX4         OX4     109.314    1.96
-T5X         CX5         CX4         HX4     108.656    1.50
-T5X         OX4         CX4         HX4     108.591    1.50
-T5X         CX4         CX5         OX5     109.438    2.56
-T5X         CX4         CX5        HX51     109.582    1.50
-T5X         CX4         CX5        HX52     109.582    1.50
-T5X         OX5         CX5        HX51     109.393    1.91
-T5X         OX5         CX5        HX52     109.393    1.91
-T5X        HX51         CX5        HX52     108.319    1.50
-T5X         CX5         OX5          PX     118.671    1.50
-T5X         OX7          PX         OX5     105.795    2.09
-T5X         OX7          PX         OX8     112.864    1.69
-T5X         OX7          PX         OX6     112.864    1.69
-T5X         OX5          PX         OX8     105.795    2.09
-T5X         OX5          PX         OX6     105.795    2.09
-T5X         OX8          PX         OX6     112.864    1.69
-T5X         CX4         OX4        HOX4     111.202    3.00
-T5X         CX3         OX3        HOX3     109.265    3.00
-T5X         CX2         CX1         OX1     109.482    3.00
-T5X         CX2         CX1        HX11     109.155    1.50
-T5X         CX2         CX1        HX12     109.155    1.50
-T5X         OX1         CX1        HX11     109.256    1.50
-T5X         OX1         CX1        HX12     109.256    1.50
-T5X        HX11         CX1        HX12     108.319    1.50
-T5X         CX1         OX1        HOX1     108.972    3.00
-T5X         CX2         OX2        HOX2     109.469    3.00
-T5X          C4          N3         C7,     125.272    1.50
-T5X          C4          N3          C2     108.133    2.04
-T5X         C7,          N3          C2     126.595    1.50
-T5X         CM4          C4          C5     129.763    2.46
-T5X         CM4          C4          N3     122.365    1.50
-T5X          C5          C4          N3     107.863    2.30
-T5X          C4         CM4        HM41     109.558    1.50
-T5X          C4         CM4        HM42     109.558    1.50
-T5X          C4         CM4        HM43     109.558    1.50
-T5X        HM41         CM4        HM42     109.354    1.50
-T5X        HM41         CM4        HM43     109.354    1.50
-T5X        HM42         CM4        HM43     109.354    1.50
-T5X          N3         C7,         C5,     112.991    1.50
-T5X          N3         C7,        H7,1     108.720    1.50
-T5X          N3         C7,        H7,2     108.720    1.50
-T5X         C5,         C7,        H7,1     109.154    1.50
-T5X         C5,         C7,        H7,2     109.154    1.50
-T5X        H7,1         C7,        H7,2     107.959    1.50
-T5X         C6,         C5,         C7,     121.689    1.50
-T5X         C6,         C5,         C4,     116.265    1.50
-T5X         C7,         C5,         C4,     122.046    1.77
-T5X         C5,         C4,         N3,     121.951    1.50
-T5X         C5,         C4,         N4,     121.236    1.50
-T5X         N3,         C4,         N4,     116.812    1.55
-T5X         C4,         N4,        H4,1     119.860    1.50
-T5X         C4,         N4,        H4,2     119.860    1.50
-T5X        H4,1         N4,        H4,2     120.280    1.85
-T5X         C2,         N3,         C4,     117.145    1.69
-T5X         N1,         C2,         CM2     117.906    1.50
-T5X         N1,         C2,         N3,     124.399    1.50
-T5X         CM2         C2,         N3,     117.695    1.52
-T5X         C2,         CM2        HM21     109.546    1.50
-T5X         C2,         CM2        HM22     109.546    1.50
-T5X         C2,         CM2        HM23     109.546    1.50
-T5X        HM21         CM2        HM22     109.397    1.50
-T5X        HM21         CM2        HM23     109.397    1.50
-T5X        HM22         CM2        HM23     109.397    1.50
-T5X         C6,         N1,         C2,     117.093    1.65
-T5X         N1,         C6,         C5,     123.147    1.50
-T5X         N1,         C6,         H6,     118.449    1.50
-T5X         C5,         C6,         H6,     118.404    1.50
+T5X O1A  PA  O7   107.912 2.57
+T5X O1A  PA  O2A  118.411 2.35
+T5X O1A  PA  O3A  108.816 2.14
+T5X O7   PA  O2A  107.912 2.57
+T5X O7   PA  O3A  101.065 1.97
+T5X O2A  PA  O3A  108.816 2.14
+T5X PA   O3A PB   132.584 3.00
+T5X O2B  PB  O1B  112.716 1.50
+T5X O2B  PB  O3A  105.965 2.38
+T5X O2B  PB  O3B  112.716 1.50
+T5X O1B  PB  O3A  105.965 2.38
+T5X O1B  PB  O3B  112.716 1.50
+T5X O3A  PB  O3B  105.965 2.38
+T5X PA   O7  C7   119.251 1.51
+T5X O7   C7  C6   108.926 2.01
+T5X O7   C7  H71  109.739 1.50
+T5X O7   C7  H72  109.739 1.50
+T5X C6   C7  H71  109.702 1.50
+T5X C6   C7  H72  109.702 1.50
+T5X H71  C7  H72  108.319 1.50
+T5X C7   C6  C5   110.747 2.16
+T5X C7   C6  H61  109.160 1.50
+T5X C7   C6  H62  109.160 1.50
+T5X C5   C6  H61  108.883 1.50
+T5X C5   C6  H62  108.883 1.50
+T5X H61  C6  H62  107.724 1.50
+T5X C6   C5  C4   131.713 3.00
+T5X C6   C5  S1   120.286 3.00
+T5X C4   C5  S1   108.002 3.00
+T5X C5   S1  C2   108.002 3.00
+T5X S1   C2  N3   108.002 3.00
+T5X S1   C2  CX2  124.694 3.00
+T5X N3   C2  CX2  127.304 1.69
+T5X C2   CX2 CX3  110.747 2.16
+T5X C2   CX2 CX1  110.747 2.16
+T5X C2   CX2 OX2  111.149 2.31
+T5X CX3  CX2 CX1  111.094 2.85
+T5X CX3  CX2 OX2  109.482 3.00
+T5X CX1  CX2 OX2  109.482 3.00
+T5X OX3  CX3 CX2  109.482 3.00
+T5X OX3  CX3 CX4  109.320 2.01
+T5X OX3  CX3 HX3  108.183 1.96
+T5X CX2  CX3 CX4  111.094 2.85
+T5X CX2  CX3 HX3  109.155 1.50
+T5X CX4  CX3 HX3  108.450 1.83
+T5X CX3  CX4 CX5  113.761 1.50
+T5X CX3  CX4 OX4  109.320 2.01
+T5X CX3  CX4 HX4  108.450 1.83
+T5X CX5  CX4 OX4  109.314 1.96
+T5X CX5  CX4 HX4  108.656 1.50
+T5X OX4  CX4 HX4  108.591 1.50
+T5X CX4  CX5 OX5  109.438 2.56
+T5X CX4  CX5 HX51 109.582 1.50
+T5X CX4  CX5 HX52 109.582 1.50
+T5X OX5  CX5 HX51 109.393 1.91
+T5X OX5  CX5 HX52 109.393 1.91
+T5X HX51 CX5 HX52 108.319 1.50
+T5X CX5  OX5 PX   118.671 1.50
+T5X OX7  PX  OX5  105.795 2.09
+T5X OX7  PX  OX8  112.864 1.69
+T5X OX7  PX  OX6  112.864 1.69
+T5X OX5  PX  OX8  105.795 2.09
+T5X OX5  PX  OX6  105.795 2.09
+T5X OX8  PX  OX6  112.864 1.69
+T5X CX4  OX4 HOX4 111.202 3.00
+T5X CX3  OX3 HOX3 109.265 3.00
+T5X CX2  CX1 OX1  109.482 3.00
+T5X CX2  CX1 HX11 109.155 1.50
+T5X CX2  CX1 HX12 109.155 1.50
+T5X OX1  CX1 HX11 109.256 1.50
+T5X OX1  CX1 HX12 109.256 1.50
+T5X HX11 CX1 HX12 108.319 1.50
+T5X CX1  OX1 HOX1 108.972 3.00
+T5X CX2  OX2 HOX2 109.469 3.00
+T5X C4   N3  C7,  125.272 1.50
+T5X C4   N3  C2   108.133 2.04
+T5X C7,  N3  C2   126.595 1.50
+T5X CM4  C4  C5   129.763 2.46
+T5X CM4  C4  N3   122.365 1.50
+T5X C5   C4  N3   107.863 2.30
+T5X C4   CM4 HM41 109.558 1.50
+T5X C4   CM4 HM42 109.558 1.50
+T5X C4   CM4 HM43 109.558 1.50
+T5X HM41 CM4 HM42 109.354 1.50
+T5X HM41 CM4 HM43 109.354 1.50
+T5X HM42 CM4 HM43 109.354 1.50
+T5X N3   C7, C5,  112.991 1.50
+T5X N3   C7, H7,1 108.720 1.50
+T5X N3   C7, H7,2 108.720 1.50
+T5X C5,  C7, H7,1 109.154 1.50
+T5X C5,  C7, H7,2 109.154 1.50
+T5X H7,1 C7, H7,2 107.959 1.50
+T5X C6,  C5, C7,  121.689 1.50
+T5X C6,  C5, C4,  116.265 1.50
+T5X C7,  C5, C4,  122.046 1.77
+T5X C5,  C4, N3,  121.951 1.50
+T5X C5,  C4, N4,  121.236 1.50
+T5X N3,  C4, N4,  116.812 1.55
+T5X C4,  N4, H4,1 119.860 1.50
+T5X C4,  N4, H4,2 119.860 1.50
+T5X H4,1 N4, H4,2 120.280 1.85
+T5X C2,  N3, C4,  117.145 1.69
+T5X N1,  C2, CM2  117.906 1.50
+T5X N1,  C2, N3,  124.399 1.50
+T5X CM2  C2, N3,  117.695 1.52
+T5X C2,  CM2 HM21 109.546 1.50
+T5X C2,  CM2 HM22 109.546 1.50
+T5X C2,  CM2 HM23 109.546 1.50
+T5X HM21 CM2 HM22 109.397 1.50
+T5X HM21 CM2 HM23 109.397 1.50
+T5X HM22 CM2 HM23 109.397 1.50
+T5X C6,  N1, C2,  117.093 1.65
+T5X N1,  C6, C5,  123.147 1.50
+T5X N1,  C6, H6,  118.449 1.50
+T5X C5,  C6, H6,  118.404 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -294,39 +295,40 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-T5X             sp2_sp3_2          C4          C5          C6          C7     -90.000    10.0     6
-T5X              const_28          C6          C5          S1          C2     180.000    10.0     2
-T5X              const_16         CM4          C4          C5          C6       0.000    10.0     2
-T5X              const_26         CX2          C2          S1          C5     180.000    10.0     2
-T5X            sp2_sp3_31          S1          C2         CX2         CX3     150.000    10.0     6
-T5X              const_24         CX2          C2          N3         C7,       0.000    10.0     2
-T5X            sp3_sp3_28         CX1         CX2         CX3         OX3      60.000    10.0     3
-T5X            sp3_sp3_44         OX1         CX1         CX2         CX3     -60.000    10.0     3
-T5X            sp3_sp3_53         CX3         CX2         OX2        HOX2      60.000    10.0     3
-T5X            sp3_sp3_34         OX3         CX3         CX4         CX5     180.000    10.0     3
-T5X            sp3_sp3_22         CX2         CX3         OX3        HOX3     180.000    10.0     3
-T5X            sp3_sp3_58         CX3         CX4         CX5         OX5     180.000    10.0     3
-T5X            sp3_sp3_70         CX3         CX4         OX4        HOX4     180.000    10.0     3
-T5X            sp3_sp3_67         CX4         CX5         OX5          PX     180.000    10.0     3
-T5X            sp3_sp3_75         CX5         OX5          PX         OX7      60.000    10.0     3
-T5X             sp3_sp3_6          PB         O3A          PA         O1A      60.000    10.0     3
-T5X             sp3_sp3_3          C7          O7          PA         O1A      60.000    10.0     3
-T5X            sp3_sp3_55         CX2         CX1         OX1        HOX1     180.000    10.0     3
-T5X              const_20         CM4          C4          N3         C7,       0.000    10.0     2
-T5X            sp2_sp3_14          C4          N3         C7,         C5,     -90.000    10.0     6
-T5X             sp2_sp3_7          C5          C4         CM4        HM41     150.000    10.0     6
-T5X            sp2_sp3_26         C6,         C5,         C7,          N3     -90.000    10.0     6
-T5X              const_32         N4,         C4,         C5,         C7,       0.000    10.0     2
-T5X       const_sp2_sp2_3         C7,         C5,         C6,         N1,     180.000     5.0     2
-T5X             sp2_sp2_1         C5,         C4,         N4,        H4,1     180.000     5.0     2
-T5X              const_12         N4,         C4,         N3,         C2,     180.000    10.0     2
-T5X              const_10         CM2         C2,         N3,         C4,     180.000    10.0     2
-T5X            sp2_sp3_19         N1,         C2,         CM2        HM21     150.000    10.0     6
-T5X       const_sp2_sp2_8         CM2         C2,         N1,         C6,     180.000     5.0     2
-T5X       const_sp2_sp2_5         C5,         C6,         N1,         C2,       0.000     5.0     2
-T5X            sp3_sp3_12          PA         O3A          PB         O2B      60.000    10.0     3
-T5X             sp3_sp3_7          C6          C7          O7          PA     180.000    10.0     3
-T5X            sp3_sp3_13          C5          C6          C7          O7     180.000    10.0     3
+T5X sp2_sp3_2       C4  C5  C6  C7   -90.000 10.0 6
+T5X const_28        C6  C5  S1  C2   180.000 10.0 2
+T5X const_16        CM4 C4  C5  C6   0.000   10.0 2
+T5X const_26        CX2 C2  S1  C5   180.000 10.0 2
+T5X sp2_sp3_31      S1  C2  CX2 CX3  150.000 10.0 6
+T5X const_24        CX2 C2  N3  C7,  0.000   10.0 2
+T5X sp3_sp3_28      CX1 CX2 CX3 OX3  60.000  10.0 3
+T5X sp3_sp3_44      OX1 CX1 CX2 CX3  -60.000 10.0 3
+T5X sp3_sp3_53      CX3 CX2 OX2 HOX2 60.000  10.0 3
+T5X sp3_sp3_34      OX3 CX3 CX4 CX5  180.000 10.0 3
+T5X sp3_sp3_22      CX2 CX3 OX3 HOX3 180.000 10.0 3
+T5X sp3_sp3_58      CX3 CX4 CX5 OX5  180.000 10.0 3
+T5X sp3_sp3_70      CX3 CX4 OX4 HOX4 180.000 10.0 3
+T5X sp3_sp3_67      CX4 CX5 OX5 PX   180.000 10.0 3
+T5X sp3_sp3_75      CX5 OX5 PX  OX7  60.000  10.0 3
+T5X sp3_sp3_6       PB  O3A PA  O1A  60.000  10.0 3
+T5X sp3_sp3_3       C7  O7  PA  O1A  60.000  10.0 3
+T5X sp3_sp3_55      CX2 CX1 OX1 HOX1 180.000 10.0 3
+T5X const_20        CM4 C4  N3  C7,  0.000   10.0 2
+T5X sp2_sp3_14      C4  N3  C7, C5,  -90.000 10.0 6
+T5X sp2_sp3_7       C5  C4  CM4 HM41 150.000 10.0 6
+T5X sp2_sp3_26      C6, C5, C7, N3   -90.000 10.0 6
+T5X const_32        N4, C4, C5, C7,  0.000   10.0 2
+T5X const_sp2_sp2_3 C7, C5, C6, N1,  180.000 5.0  2
+T5X sp2_sp2_1       C5, C4, N4, H4,1 180.000 5.0  2
+T5X const_12        N4, C4, N3, C2,  180.000 10.0 2
+T5X const_10        CM2 C2, N3, C4,  180.000 10.0 2
+T5X sp2_sp3_19      N1, C2, CM2 HM21 150.000 10.0 6
+T5X const_sp2_sp2_8 CM2 C2, N1, C6,  180.000 5.0  2
+T5X const_sp2_sp2_5 C5, C6, N1, C2,  0.000   5.0  2
+T5X sp3_sp3_12      PA  O3A PB  O2B  60.000  10.0 3
+T5X sp3_sp3_7       C6  C7  O7  PA   180.000 10.0 3
+T5X sp3_sp3_13      C5  C6  C7  O7   180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -335,59 +337,78 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-T5X    chir_1    PA    O3A    O7    O2A    both
-T5X    chir_2    PB    O3A    O1B    O3B    both
-T5X    chir_3    CX2    OX2    C2    CX3    positive
-T5X    chir_4    CX3    OX3    CX2    CX4    positive
-T5X    chir_5    CX4    OX4    CX3    CX5    negative
-T5X    chir_6    PX    OX5    OX8    OX6    both
+T5X chir_1 PA  O3A O7  O2A both
+T5X chir_2 PB  O3A O1B O3B both
+T5X chir_3 CX2 OX2 C2  CX3 positive
+T5X chir_4 CX3 OX3 CX2 CX4 positive
+T5X chir_5 CX4 OX4 CX3 CX5 negative
+T5X chir_6 PX  OX5 OX8 OX6 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-T5X    plan-1          C2   0.020
-T5X    plan-1          C4   0.020
-T5X    plan-1          C5   0.020
-T5X    plan-1          C6   0.020
-T5X    plan-1         C7,   0.020
-T5X    plan-1         CM4   0.020
-T5X    plan-1         CX2   0.020
-T5X    plan-1          N3   0.020
-T5X    plan-1          S1   0.020
-T5X    plan-2         C2,   0.020
-T5X    plan-2         C4,   0.020
-T5X    plan-2         C5,   0.020
-T5X    plan-2         C6,   0.020
-T5X    plan-2         C7,   0.020
-T5X    plan-2         CM2   0.020
-T5X    plan-2         H6,   0.020
-T5X    plan-2         N1,   0.020
-T5X    plan-2         N3,   0.020
-T5X    plan-2         N4,   0.020
-T5X    plan-3         C4,   0.020
-T5X    plan-3        H4,1   0.020
-T5X    plan-3        H4,2   0.020
-T5X    plan-3         N4,   0.020
+T5X plan-1 C2   0.020
+T5X plan-1 C4   0.020
+T5X plan-1 C5   0.020
+T5X plan-1 C6   0.020
+T5X plan-1 C7,  0.020
+T5X plan-1 CM4  0.020
+T5X plan-1 CX2  0.020
+T5X plan-1 N3   0.020
+T5X plan-1 S1   0.020
+T5X plan-2 C2,  0.020
+T5X plan-2 C4,  0.020
+T5X plan-2 C5,  0.020
+T5X plan-2 C6,  0.020
+T5X plan-2 C7,  0.020
+T5X plan-2 CM2  0.020
+T5X plan-2 H6,  0.020
+T5X plan-2 N1,  0.020
+T5X plan-2 N3,  0.020
+T5X plan-2 N4,  0.020
+T5X plan-3 C4,  0.020
+T5X plan-3 H4,1 0.020
+T5X plan-3 H4,2 0.020
+T5X plan-3 N4,  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-T5X           SMILES              ACDLabs 10.04                                                                                                                                                               O=P(O)(O)OCC(O)C(O)C(O)(c1sc(c([n+]1Cc2cnc(nc2N)C)C)CCOP(=O)(O)OP(=O)(O)O)CO
-T5X SMILES_CANONICAL               CACTVS 3.341                                                                                                                                          Cc1ncc(C[n+]2c(C)c(CCO[P@](O)(=O)O[P](O)(O)=O)sc2[C@](O)(CO)[C@@H](O)[C@H](O)CO[P](O)(O)=O)c(N)n1
-T5X           SMILES               CACTVS 3.341                                                                                                                                               Cc1ncc(C[n+]2c(C)c(CCO[P](O)(=O)O[P](O)(O)=O)sc2[C](O)(CO)[CH](O)[CH](O)CO[P](O)(O)=O)c(N)n1
-T5X SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                               Cc1c(sc([n+]1Cc2cnc(nc2N)C)[C@](CO)([C@H]([C@@H](COP(=O)(O)O)O)O)O)CCO[P@@](=O)(O)OP(=O)(O)O
-T5X           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                               Cc1c(sc([n+]1Cc2cnc(nc2N)C)C(CO)(C(C(COP(=O)(O)O)O)O)O)CCOP(=O)(O)OP(=O)(O)O
-T5X            InChI                InChI  1.03 InChI=1S/C17H29N4O15P3S/c1-9-13(3-4-34-39(32,33)36-38(29,30)31)40-16(21(9)6-11-5-19-10(2)20-15(11)18)17(25,8-22)14(24)12(23)7-35-37(26,27)28/h5,12,14,22-25H,3-4,6-8H2,1-2H3,(H6-,18,19,20,26,27,28,29,30,31,32,33)/p+1/t12-,14+,17+/m1/s1
-T5X         InChIKey                InChI  1.03                                                                                                                                                                                                                CRLXIEJPMQNLRP-IFIJOSMWSA-O
+T5X SMILES           ACDLabs              10.04 O=P(O)(O)OCC(O)C(O)C(O)(c1sc(c([n+]1Cc2cnc(nc2N)C)C)CCOP(=O)(O)OP(=O)(O)O)CO
+T5X SMILES_CANONICAL CACTVS               3.341 Cc1ncc(C[n+]2c(C)c(CCO[P@](O)(=O)O[P](O)(O)=O)sc2[C@](O)(CO)[C@@H](O)[C@H](O)CO[P](O)(O)=O)c(N)n1
+T5X SMILES           CACTVS               3.341 Cc1ncc(C[n+]2c(C)c(CCO[P](O)(=O)O[P](O)(O)=O)sc2[C](O)(CO)[CH](O)[CH](O)CO[P](O)(O)=O)c(N)n1
+T5X SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 Cc1c(sc([n+]1Cc2cnc(nc2N)C)[C@](CO)([C@H]([C@@H](COP(=O)(O)O)O)O)O)CCO[P@@](=O)(O)OP(=O)(O)O
+T5X SMILES           "OpenEye OEToolkits" 1.5.0 Cc1c(sc([n+]1Cc2cnc(nc2N)C)C(CO)(C(C(COP(=O)(O)O)O)O)O)CCOP(=O)(O)OP(=O)(O)O
+T5X InChI            InChI                1.03  InChI=1S/C17H29N4O15P3S/c1-9-13(3-4-34-39(32,33)36-38(29,30)31)40-16(21(9)6-11-5-19-10(2)20-15(11)18)17(25,8-22)14(24)12(23)7-35-37(26,27)28/h5,12,14,22-25H,3-4,6-8H2,1-2H3,(H6-,18,19,20,26,27,28,29,30,31,32,33)/p+1/t12-,14+,17+/m1/s1
+T5X InChIKey         InChI                1.03  CRLXIEJPMQNLRP-IFIJOSMWSA-O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-T5X acedrg               243         "dictionary generator"                  
-T5X acedrg_database      11          "data source"                           
-T5X rdkit                2017.03.2   "Chemoinformatics tool"
-T5X refmac5              5.8.0238    "optimization tool"                     
+T5X acedrg          243       "dictionary generator"
+T5X acedrg_database 11        "data source"
+T5X rdkit           2017.03.2 "Chemoinformatics tool"
+T5X refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+T5X DNA/RNA OX6  OP3
+T5X DNA/RNA PX   P
+T5X DNA/RNA OX7  OP1
+T5X DNA/RNA OX8  OP2
+T5X DNA/RNA OX5  O5'
+T5X DNA/RNA CX5  C5'
+T5X DNA/RNA CX4  C4'
+T5X DNA/RNA CX3  C3'
+T5X DNA/RNA OX3  O3'
+T5X DNA/RNA HOX3 HO3'

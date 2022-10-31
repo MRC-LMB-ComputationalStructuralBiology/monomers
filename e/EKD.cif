@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-EKD     EKD      "(cyclohexylamino)(oxo)acetic acid"     NON-POLYMER     24     12     .     
-#
+EKD EKD "(cyclohexylamino)(oxo)acetic acid" NON-POLYMER 24 12 .
+
 data_comp_EKD
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,30 +19,31 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-EKD     C02     C       C       0       1.002       3.230       51.848      
-EKD     C03     C       C       0       2.041       4.331       51.829      
-EKD     C05     C       CH1     0       2.510       4.569       54.273      
-EKD     C06     C       CH2     0       3.789       4.899       55.025      
-EKD     C07     C       CH2     0       3.674       4.505       56.498      
-EKD     C08     C       CH2     0       2.473       5.163       57.157      
-EKD     C09     C       CH2     0       1.195       4.872       56.392      
-EKD     C10     C       CH2     0       1.321       5.262       54.919      
-EKD     N04     N       NH1     0       2.634       4.942       52.864      
-EKD     O01     O       O       0       0.694       2.766       50.745      
-EKD     O11     O       O       0       2.344       4.687       50.689      
-EKD     O12     O       OC      -1      0.496       2.879       52.910      
-EKD     H1      H       H       0       2.375       3.593       54.330      
-EKD     H2      H       H       0       4.540       4.418       54.616      
-EKD     H3      H       H       0       3.969       5.860       54.956      
-EKD     H4      H       H       0       4.492       4.773       56.970      
-EKD     H5      H       H       0       3.589       3.530       56.567      
-EKD     H6      H       H       0       2.615       6.133       57.196      
-EKD     H7      H       H       0       2.385       4.832       58.076      
-EKD     H8      H       H       0       0.453       5.371       56.797      
-EKD     H9      H       H       0       0.988       3.914       56.457      
-EKD     H10     H       H       0       0.499       5.017       54.444      
-EKD     H11     H       H       0       1.434       6.234       54.848      
-EKD     H12     H       H       0       3.133       5.627       52.673      
+EKD C02 C C   0  1.002 3.230 51.848
+EKD C03 C C   0  2.041 4.331 51.829
+EKD C05 C CH1 0  2.510 4.569 54.273
+EKD C06 C CH2 0  3.789 4.899 55.025
+EKD C07 C CH2 0  3.674 4.505 56.498
+EKD C08 C CH2 0  2.473 5.163 57.157
+EKD C09 C CH2 0  1.195 4.872 56.392
+EKD C10 C CH2 0  1.321 5.262 54.919
+EKD N04 N NH1 0  2.634 4.942 52.864
+EKD O01 O O   0  0.694 2.766 50.745
+EKD O11 O O   0  2.344 4.687 50.689
+EKD O12 O OC  -1 0.496 2.879 52.910
+EKD H1  H H   0  2.375 3.593 54.330
+EKD H2  H H   0  4.540 4.418 54.616
+EKD H3  H H   0  3.969 5.860 54.956
+EKD H4  H H   0  4.492 4.773 56.970
+EKD H5  H H   0  3.589 3.530 56.567
+EKD H6  H H   0  2.615 6.133 57.196
+EKD H7  H H   0  2.385 4.832 58.076
+EKD H8  H H   0  0.453 5.371 56.797
+EKD H9  H H   0  0.988 3.914 56.457
+EKD H10 H H   0  0.499 5.017 54.444
+EKD H11 H H   0  1.434 6.234 54.848
+EKD H12 H H   0  3.133 5.627 52.673
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -55,30 +54,31 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-EKD         C02         O01      DOUBLE       n     1.230  0.0200     1.230  0.0200
-EKD         C03         O11      DOUBLE       n     1.229  0.0129     1.229  0.0129
-EKD         C02         C03      SINGLE       n     1.498  0.0138     1.498  0.0138
-EKD         C02         O12      SINGLE       n     1.230  0.0200     1.230  0.0200
-EKD         C03         N04      SINGLE       n     1.332  0.0100     1.332  0.0100
-EKD         C05         N04      SINGLE       n     1.460  0.0100     1.460  0.0100
-EKD         C05         C06      SINGLE       n     1.518  0.0108     1.518  0.0108
-EKD         C05         C10      SINGLE       n     1.518  0.0108     1.518  0.0108
-EKD         C06         C07      SINGLE       n     1.527  0.0100     1.527  0.0100
-EKD         C09         C10      SINGLE       n     1.527  0.0100     1.527  0.0100
-EKD         C07         C08      SINGLE       n     1.516  0.0136     1.516  0.0136
-EKD         C08         C09      SINGLE       n     1.515  0.0126     1.515  0.0126
-EKD         C05          H1      SINGLE       n     1.089  0.0100     0.989  0.0155
-EKD         C06          H2      SINGLE       n     1.089  0.0100     0.981  0.0121
-EKD         C06          H3      SINGLE       n     1.089  0.0100     0.981  0.0121
-EKD         C07          H4      SINGLE       n     1.089  0.0100     0.982  0.0131
-EKD         C07          H5      SINGLE       n     1.089  0.0100     0.982  0.0131
-EKD         C08          H6      SINGLE       n     1.089  0.0100     0.981  0.0138
-EKD         C08          H7      SINGLE       n     1.089  0.0100     0.981  0.0138
-EKD         C09          H8      SINGLE       n     1.089  0.0100     0.982  0.0131
-EKD         C09          H9      SINGLE       n     1.089  0.0100     0.982  0.0131
-EKD         C10         H10      SINGLE       n     1.089  0.0100     0.981  0.0121
-EKD         C10         H11      SINGLE       n     1.089  0.0100     0.981  0.0121
-EKD         N04         H12      SINGLE       n     1.016  0.0100     0.866  0.0200
+EKD C02 O01 DOUBLE n 1.230 0.0200 1.230 0.0200
+EKD C03 O11 DOUBLE n 1.229 0.0129 1.229 0.0129
+EKD C02 C03 SINGLE n 1.498 0.0138 1.498 0.0138
+EKD C02 O12 SINGLE n 1.230 0.0200 1.230 0.0200
+EKD C03 N04 SINGLE n 1.332 0.0100 1.332 0.0100
+EKD C05 N04 SINGLE n 1.460 0.0100 1.460 0.0100
+EKD C05 C06 SINGLE n 1.518 0.0108 1.518 0.0108
+EKD C05 C10 SINGLE n 1.518 0.0108 1.518 0.0108
+EKD C06 C07 SINGLE n 1.527 0.0100 1.527 0.0100
+EKD C09 C10 SINGLE n 1.527 0.0100 1.527 0.0100
+EKD C07 C08 SINGLE n 1.516 0.0136 1.516 0.0136
+EKD C08 C09 SINGLE n 1.515 0.0126 1.515 0.0126
+EKD C05 H1  SINGLE n 1.089 0.0100 0.989 0.0155
+EKD C06 H2  SINGLE n 1.089 0.0100 0.981 0.0121
+EKD C06 H3  SINGLE n 1.089 0.0100 0.981 0.0121
+EKD C07 H4  SINGLE n 1.089 0.0100 0.982 0.0131
+EKD C07 H5  SINGLE n 1.089 0.0100 0.982 0.0131
+EKD C08 H6  SINGLE n 1.089 0.0100 0.981 0.0138
+EKD C08 H7  SINGLE n 1.089 0.0100 0.981 0.0138
+EKD C09 H8  SINGLE n 1.089 0.0100 0.982 0.0131
+EKD C09 H9  SINGLE n 1.089 0.0100 0.982 0.0131
+EKD C10 H10 SINGLE n 1.089 0.0100 0.981 0.0121
+EKD C10 H11 SINGLE n 1.089 0.0100 0.981 0.0121
+EKD N04 H12 SINGLE n 1.016 0.0100 0.866 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -86,51 +86,52 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-EKD         O01         C02         C03     117.022    2.67
-EKD         O01         C02         O12     125.955    1.50
-EKD         C03         C02         O12     117.022    2.67
-EKD         O11         C03         C02     117.876    3.00
-EKD         O11         C03         N04     123.638    2.42
-EKD         C02         C03         N04     118.486    3.00
-EKD         N04         C05         C06     110.824    1.50
-EKD         N04         C05         C10     110.824    1.50
-EKD         N04         C05          H1     107.878    1.50
-EKD         C06         C05         C10     110.870    1.50
-EKD         C06         C05          H1     108.306    1.50
-EKD         C10         C05          H1     108.306    1.50
-EKD         C05         C06         C07     110.796    1.50
-EKD         C05         C06          H2     109.338    1.50
-EKD         C05         C06          H3     109.338    1.50
-EKD         C07         C06          H2     109.472    1.50
-EKD         C07         C06          H3     109.472    1.50
-EKD          H2         C06          H3     108.076    1.50
-EKD         C06         C07         C08     111.328    1.50
-EKD         C06         C07          H4     109.340    1.50
-EKD         C06         C07          H5     109.340    1.50
-EKD         C08         C07          H4     109.386    1.50
-EKD         C08         C07          H5     109.386    1.50
-EKD          H4         C07          H5     108.036    1.50
-EKD         C07         C08         C09     111.038    1.50
-EKD         C07         C08          H6     109.386    1.50
-EKD         C07         C08          H7     109.386    1.50
-EKD         C09         C08          H6     109.386    1.50
-EKD         C09         C08          H7     109.386    1.50
-EKD          H6         C08          H7     108.036    1.50
-EKD         C10         C09         C08     111.328    1.50
-EKD         C10         C09          H8     109.340    1.50
-EKD         C10         C09          H9     109.340    1.50
-EKD         C08         C09          H8     109.386    1.50
-EKD         C08         C09          H9     109.386    1.50
-EKD          H8         C09          H9     108.036    1.50
-EKD         C05         C10         C09     110.796    1.50
-EKD         C05         C10         H10     109.338    1.50
-EKD         C05         C10         H11     109.338    1.50
-EKD         C09         C10         H10     109.472    1.50
-EKD         C09         C10         H11     109.472    1.50
-EKD         H10         C10         H11     108.076    1.50
-EKD         C03         N04         C05     123.116    1.50
-EKD         C03         N04         H12     117.429    1.50
-EKD         C05         N04         H12     119.455    1.82
+EKD O01 C02 C03 117.022 2.67
+EKD O01 C02 O12 125.955 1.50
+EKD C03 C02 O12 117.022 2.67
+EKD O11 C03 C02 117.876 3.00
+EKD O11 C03 N04 123.638 2.42
+EKD C02 C03 N04 118.486 3.00
+EKD N04 C05 C06 110.824 1.50
+EKD N04 C05 C10 110.824 1.50
+EKD N04 C05 H1  107.878 1.50
+EKD C06 C05 C10 110.870 1.50
+EKD C06 C05 H1  108.306 1.50
+EKD C10 C05 H1  108.306 1.50
+EKD C05 C06 C07 110.796 1.50
+EKD C05 C06 H2  109.338 1.50
+EKD C05 C06 H3  109.338 1.50
+EKD C07 C06 H2  109.472 1.50
+EKD C07 C06 H3  109.472 1.50
+EKD H2  C06 H3  108.076 1.50
+EKD C06 C07 C08 111.328 1.50
+EKD C06 C07 H4  109.340 1.50
+EKD C06 C07 H5  109.340 1.50
+EKD C08 C07 H4  109.386 1.50
+EKD C08 C07 H5  109.386 1.50
+EKD H4  C07 H5  108.036 1.50
+EKD C07 C08 C09 111.038 1.50
+EKD C07 C08 H6  109.386 1.50
+EKD C07 C08 H7  109.386 1.50
+EKD C09 C08 H6  109.386 1.50
+EKD C09 C08 H7  109.386 1.50
+EKD H6  C08 H7  108.036 1.50
+EKD C10 C09 C08 111.328 1.50
+EKD C10 C09 H8  109.340 1.50
+EKD C10 C09 H9  109.340 1.50
+EKD C08 C09 H8  109.386 1.50
+EKD C08 C09 H9  109.386 1.50
+EKD H8  C09 H9  108.036 1.50
+EKD C05 C10 C09 110.796 1.50
+EKD C05 C10 H10 109.338 1.50
+EKD C05 C10 H11 109.338 1.50
+EKD C09 C10 H10 109.472 1.50
+EKD C09 C10 H11 109.472 1.50
+EKD H10 C10 H11 108.076 1.50
+EKD C03 N04 C05 123.116 1.50
+EKD C03 N04 H12 117.429 1.50
+EKD C05 N04 H12 119.455 1.82
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -141,15 +142,16 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-EKD             sp2_sp2_2         O01         C02         C03         O11       0.000     5.0     2
-EKD             sp2_sp2_7         O11         C03         N04         C05       0.000     5.0     2
-EKD             sp3_sp3_7         N04         C05         C06         C07     180.000    10.0     3
-EKD            sp3_sp3_49         N04         C05         C10         C09      60.000    10.0     3
-EKD             sp2_sp3_2         C03         N04         C05         C06     120.000    10.0     6
-EKD            sp3_sp3_10         C05         C06         C07         C08     -60.000    10.0     3
-EKD            sp3_sp3_19         C06         C07         C08         C09      60.000    10.0     3
-EKD            sp3_sp3_28         C07         C08         C09         C10     -60.000    10.0     3
-EKD            sp3_sp3_37         C08         C09         C10         C05      60.000    10.0     3
+EKD sp2_sp2_2  O01 C02 C03 O11 0.000   5.0  2
+EKD sp2_sp2_7  O11 C03 N04 C05 0.000   5.0  2
+EKD sp3_sp3_7  N04 C05 C06 C07 180.000 10.0 3
+EKD sp3_sp3_49 N04 C05 C10 C09 60.000  10.0 3
+EKD sp2_sp3_2  C03 N04 C05 C06 120.000 10.0 6
+EKD sp3_sp3_10 C05 C06 C07 C08 -60.000 10.0 3
+EKD sp3_sp3_19 C06 C07 C08 C09 60.000  10.0 3
+EKD sp3_sp3_28 C07 C08 C09 C10 -60.000 10.0 3
+EKD sp3_sp3_37 C08 C09 C10 C05 60.000  10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -158,43 +160,59 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-EKD    chir_1    C05    N04    C06    C10    both
+EKD chir_1 C05 N04 C06 C10 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-EKD    plan-1         C02   0.020
-EKD    plan-1         C03   0.020
-EKD    plan-1         O01   0.020
-EKD    plan-1         O12   0.020
-EKD    plan-2         C02   0.020
-EKD    plan-2         C03   0.020
-EKD    plan-2         N04   0.020
-EKD    plan-2         O11   0.020
-EKD    plan-3         C03   0.020
-EKD    plan-3         C05   0.020
-EKD    plan-3         H12   0.020
-EKD    plan-3         N04   0.020
+EKD plan-1 C02 0.020
+EKD plan-1 C03 0.020
+EKD plan-1 O01 0.020
+EKD plan-1 O12 0.020
+EKD plan-2 C02 0.020
+EKD plan-2 C03 0.020
+EKD plan-2 N04 0.020
+EKD plan-2 O11 0.020
+EKD plan-3 C03 0.020
+EKD plan-3 C05 0.020
+EKD plan-3 H12 0.020
+EKD plan-3 N04 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-EKD           SMILES              ACDLabs 12.01                                                      C(C(NC1CCCCC1)=O)(O)=O
-EKD            InChI                InChI  1.03 InChI=1S/C8H13NO3/c10-7(8(11)12)9-6-4-2-1-3-5-6/h6H,1-5H2,(H,9,10)(H,11,12)
-EKD         InChIKey                InChI  1.03                                                 JXKXKOUBASQQOF-UHFFFAOYSA-N
-EKD SMILES_CANONICAL               CACTVS 3.385                                                        OC(=O)C(=O)NC1CCCCC1
-EKD           SMILES               CACTVS 3.385                                                        OC(=O)C(=O)NC1CCCCC1
-EKD SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                      C1CCC(CC1)NC(=O)C(=O)O
-EKD           SMILES "OpenEye OEToolkits" 2.0.6                                                      C1CCC(CC1)NC(=O)C(=O)O
+EKD SMILES           ACDLabs              12.01 C(C(NC1CCCCC1)=O)(O)=O
+EKD InChI            InChI                1.03  InChI=1S/C8H13NO3/c10-7(8(11)12)9-6-4-2-1-3-5-6/h6H,1-5H2,(H,9,10)(H,11,12)
+EKD InChIKey         InChI                1.03  JXKXKOUBASQQOF-UHFFFAOYSA-N
+EKD SMILES_CANONICAL CACTVS               3.385 OC(=O)C(=O)NC1CCCCC1
+EKD SMILES           CACTVS               3.385 OC(=O)C(=O)NC1CCCCC1
+EKD SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 C1CCC(CC1)NC(=O)C(=O)O
+EKD SMILES           "OpenEye OEToolkits" 2.0.6 C1CCC(CC1)NC(=O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-EKD acedrg               243         "dictionary generator"                  
-EKD acedrg_database      11          "data source"                           
-EKD rdkit                2017.03.2   "Chemoinformatics tool"
-EKD refmac5              5.8.0238    "optimization tool"                     
+EKD acedrg          243       "dictionary generator"
+EKD acedrg_database 11        "data source"
+EKD rdkit           2017.03.2 "Chemoinformatics tool"
+EKD refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+EKD M-peptide O01 O
+EKD M-peptide C02 C
+EKD M-peptide C03 CA
+EKD M-peptide N04 N
+EKD M-peptide C05 CN
+EKD M-peptide O12 OXT
+EKD M-peptide H12 H

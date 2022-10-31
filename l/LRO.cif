@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-LRO     LRO      "5-[2-(4-methylphenyl)ethyl]-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"     NON-POLYMER     33     20     .     
-#
+LRO LRO "5-[2-(4-methylphenyl)ethyl]-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" NON-POLYMER 33 20 .
+
 data_comp_LRO
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,39 +19,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-LRO     OAB     O       OC      -1      4.732       16.822      13.817      
-LRO     CAN     C       C       0       5.852       16.913      14.289      
-LRO     OAE     O       O       0       6.398       17.939      14.657      
-LRO     CAQ     C       CR6     0       6.634       15.637      14.433      
-LRO     NAL     N       NR6     0       6.232       14.796      15.449      
-LRO     CAS     C       CR6     0       6.843       13.590      15.713      
-LRO     OAC     O       O       0       6.477       12.850      16.619      
-LRO     NAM     N       NR6     0       7.893       13.265      14.893      
-LRO     CAT     C       CR6     0       8.388       14.023      13.844      
-LRO     OAD     O       O       0       9.346       13.597      13.189      
-LRO     CAR     C       CR6     0       7.717       15.283      13.605      
-LRO     CAK     C       CH2     0       8.224       16.141      12.465      
-LRO     CAJ     C       CH2     0       7.649       15.742      11.084      
-LRO     CAP     C       CR6     0       6.155       15.940      10.979      
-LRO     CAH     C       CR16    0       5.278       14.871      11.120      
-LRO     CAF     C       CR16    0       3.906       15.056      11.026      
-LRO     CAO     C       CR6     0       3.364       16.310      10.790      
-LRO     CAA     C       CH3     0       1.874       16.507      10.689      
-LRO     CAG     C       CR16    0       4.239       17.376      10.651      
-LRO     CAI     C       CR16    0       5.612       17.197      10.744      
-LRO     H15     H       H       0       5.554       15.029      15.961      
-LRO     H2      H       H       0       8.293       12.487      15.058      
-LRO     H4      H       H       0       9.204       16.081      12.428      
-LRO     H5      H       H       0       8.006       17.082      12.639      
-LRO     H6      H       H       0       7.861       14.797      10.915      
-LRO     H7      H       H       0       8.094       16.278      10.390      
-LRO     H8      H       H       0       5.622       14.009      11.281      
-LRO     H9      H       H       0       3.331       14.316      11.124      
-LRO     H10     H       H       0       1.467       15.717      10.298      
-LRO     H11     H       H       0       1.684       17.277      10.128      
-LRO     H12     H       H       0       1.504       16.655      11.574      
-LRO     H13     H       H       0       3.893       18.238      10.490      
-LRO     H14     H       H       0       6.185       17.938      10.646      
+LRO OAB O OC   -1 4.732 16.822 13.817
+LRO CAN C C    0  5.852 16.913 14.289
+LRO OAE O O    0  6.398 17.939 14.657
+LRO CAQ C CR6  0  6.634 15.637 14.433
+LRO NAL N NR6  0  6.232 14.796 15.449
+LRO CAS C CR6  0  6.843 13.590 15.713
+LRO OAC O O    0  6.477 12.850 16.619
+LRO NAM N NR6  0  7.893 13.265 14.893
+LRO CAT C CR6  0  8.388 14.023 13.844
+LRO OAD O O    0  9.346 13.597 13.189
+LRO CAR C CR6  0  7.717 15.283 13.605
+LRO CAK C CH2  0  8.224 16.141 12.465
+LRO CAJ C CH2  0  7.649 15.742 11.084
+LRO CAP C CR6  0  6.155 15.940 10.979
+LRO CAH C CR16 0  5.278 14.871 11.120
+LRO CAF C CR16 0  3.906 15.056 11.026
+LRO CAO C CR6  0  3.364 16.310 10.790
+LRO CAA C CH3  0  1.874 16.507 10.689
+LRO CAG C CR16 0  4.239 17.376 10.651
+LRO CAI C CR16 0  5.612 17.197 10.744
+LRO H15 H H    0  5.554 15.029 15.961
+LRO H2  H H    0  8.293 12.487 15.058
+LRO H4  H H    0  9.204 16.081 12.428
+LRO H5  H H    0  8.006 17.082 12.639
+LRO H6  H H    0  7.861 14.797 10.915
+LRO H7  H H    0  8.094 16.278 10.390
+LRO H8  H H    0  5.622 14.009 11.281
+LRO H9  H H    0  3.331 14.316 11.124
+LRO H10 H H    0  1.467 15.717 10.298
+LRO H11 H H    0  1.684 17.277 10.128
+LRO H12 H H    0  1.504 16.655 11.574
+LRO H13 H H    0  3.893 18.238 10.490
+LRO H14 H H    0  6.185 17.938 10.646
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,40 +63,41 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-LRO         CAO         CAG      SINGLE       y     1.382  0.0115     1.382  0.0115
-LRO         CAG         CAI      DOUBLE       y     1.384  0.0100     1.384  0.0100
-LRO         CAO         CAA      SINGLE       n     1.507  0.0176     1.507  0.0176
-LRO         CAF         CAO      DOUBLE       y     1.382  0.0115     1.382  0.0115
-LRO         CAP         CAI      SINGLE       y     1.385  0.0110     1.385  0.0110
-LRO         CAP         CAH      DOUBLE       y     1.385  0.0110     1.385  0.0110
-LRO         CAJ         CAP      SINGLE       n     1.511  0.0100     1.511  0.0100
-LRO         CAH         CAF      SINGLE       y     1.384  0.0100     1.384  0.0100
-LRO         CAK         CAJ      SINGLE       n     1.546  0.0200     1.546  0.0200
-LRO         CAR         CAK      SINGLE       n     1.510  0.0100     1.510  0.0100
-LRO         CAT         OAD      DOUBLE       n     1.234  0.0141     1.234  0.0141
-LRO         CAT         CAR      SINGLE       y     1.443  0.0100     1.443  0.0100
-LRO         CAQ         CAR      DOUBLE       y     1.401  0.0100     1.401  0.0100
-LRO         NAM         CAT      SINGLE       y     1.383  0.0100     1.383  0.0100
-LRO         CAN         OAE      DOUBLE       n     1.219  0.0200     1.219  0.0200
-LRO         CAN         CAQ      SINGLE       n     1.496  0.0200     1.496  0.0200
-LRO         OAB         CAN      SINGLE       n     1.219  0.0200     1.219  0.0200
-LRO         CAQ         NAL      SINGLE       y     1.365  0.0158     1.365  0.0158
-LRO         CAS         NAM      SINGLE       y     1.370  0.0100     1.370  0.0100
-LRO         NAL         CAS      SINGLE       y     1.374  0.0100     1.374  0.0100
-LRO         CAS         OAC      DOUBLE       n     1.225  0.0100     1.225  0.0100
-LRO         NAL         H15      SINGLE       n     1.016  0.0100     0.879  0.0200
-LRO         NAM          H2      SINGLE       n     1.016  0.0100     0.889  0.0200
-LRO         CAK          H4      SINGLE       n     1.089  0.0100     0.983  0.0181
-LRO         CAK          H5      SINGLE       n     1.089  0.0100     0.983  0.0181
-LRO         CAJ          H6      SINGLE       n     1.089  0.0100     0.983  0.0181
-LRO         CAJ          H7      SINGLE       n     1.089  0.0100     0.983  0.0181
-LRO         CAH          H8      SINGLE       n     1.082  0.0130     0.942  0.0167
-LRO         CAF          H9      SINGLE       n     1.082  0.0130     0.942  0.0167
-LRO         CAA         H10      SINGLE       n     1.089  0.0100     0.971  0.0135
-LRO         CAA         H11      SINGLE       n     1.089  0.0100     0.971  0.0135
-LRO         CAA         H12      SINGLE       n     1.089  0.0100     0.971  0.0135
-LRO         CAG         H13      SINGLE       n     1.082  0.0130     0.942  0.0167
-LRO         CAI         H14      SINGLE       n     1.082  0.0130     0.942  0.0167
+LRO CAO CAG SINGLE y 1.382 0.0115 1.382 0.0115
+LRO CAG CAI DOUBLE y 1.384 0.0100 1.384 0.0100
+LRO CAO CAA SINGLE n 1.507 0.0176 1.507 0.0176
+LRO CAF CAO DOUBLE y 1.382 0.0115 1.382 0.0115
+LRO CAP CAI SINGLE y 1.385 0.0110 1.385 0.0110
+LRO CAP CAH DOUBLE y 1.385 0.0110 1.385 0.0110
+LRO CAJ CAP SINGLE n 1.511 0.0100 1.511 0.0100
+LRO CAH CAF SINGLE y 1.384 0.0100 1.384 0.0100
+LRO CAK CAJ SINGLE n 1.546 0.0200 1.546 0.0200
+LRO CAR CAK SINGLE n 1.510 0.0100 1.510 0.0100
+LRO CAT OAD DOUBLE n 1.234 0.0141 1.234 0.0141
+LRO CAT CAR SINGLE y 1.443 0.0100 1.443 0.0100
+LRO CAQ CAR DOUBLE y 1.401 0.0100 1.401 0.0100
+LRO NAM CAT SINGLE y 1.383 0.0100 1.383 0.0100
+LRO CAN OAE DOUBLE n 1.219 0.0200 1.219 0.0200
+LRO CAN CAQ SINGLE n 1.496 0.0200 1.496 0.0200
+LRO OAB CAN SINGLE n 1.219 0.0200 1.219 0.0200
+LRO CAQ NAL SINGLE y 1.365 0.0158 1.365 0.0158
+LRO CAS NAM SINGLE y 1.370 0.0100 1.370 0.0100
+LRO NAL CAS SINGLE y 1.374 0.0100 1.374 0.0100
+LRO CAS OAC DOUBLE n 1.225 0.0100 1.225 0.0100
+LRO NAL H15 SINGLE n 1.016 0.0100 0.879 0.0200
+LRO NAM H2  SINGLE n 1.016 0.0100 0.889 0.0200
+LRO CAK H4  SINGLE n 1.089 0.0100 0.983 0.0181
+LRO CAK H5  SINGLE n 1.089 0.0100 0.983 0.0181
+LRO CAJ H6  SINGLE n 1.089 0.0100 0.983 0.0181
+LRO CAJ H7  SINGLE n 1.089 0.0100 0.983 0.0181
+LRO CAH H8  SINGLE n 1.082 0.0130 0.942 0.0167
+LRO CAF H9  SINGLE n 1.082 0.0130 0.942 0.0167
+LRO CAA H10 SINGLE n 1.089 0.0100 0.971 0.0135
+LRO CAA H11 SINGLE n 1.089 0.0100 0.971 0.0135
+LRO CAA H12 SINGLE n 1.089 0.0100 0.971 0.0135
+LRO CAG H13 SINGLE n 1.082 0.0130 0.942 0.0167
+LRO CAI H14 SINGLE n 1.082 0.0130 0.942 0.0167
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -105,63 +105,64 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-LRO         OAE         CAN         CAQ     116.880    1.50
-LRO         OAE         CAN         OAB     126.239    1.50
-LRO         CAQ         CAN         OAB     116.880    1.50
-LRO         CAR         CAQ         CAN     123.296    2.15
-LRO         CAR         CAQ         NAL     119.954    3.00
-LRO         CAN         CAQ         NAL     116.751    1.50
-LRO         CAQ         NAL         CAS     122.126    1.50
-LRO         CAQ         NAL         H15     119.789    2.44
-LRO         CAS         NAL         H15     118.085    1.73
-LRO         NAM         CAS         NAL     115.440    1.50
-LRO         NAM         CAS         OAC     121.869    1.50
-LRO         NAL         CAS         OAC     122.691    1.50
-LRO         CAT         NAM         CAS     127.015    1.50
-LRO         CAT         NAM          H2     117.107    1.81
-LRO         CAS         NAM          H2     115.878    2.30
-LRO         OAD         CAT         CAR     124.355    1.50
-LRO         OAD         CAT         NAM     119.516    1.50
-LRO         CAR         CAT         NAM     116.129    1.50
-LRO         CAK         CAR         CAT     117.768    1.50
-LRO         CAK         CAR         CAQ     122.895    2.15
-LRO         CAT         CAR         CAQ     119.337    1.50
-LRO         CAJ         CAK         CAR     113.312    1.99
-LRO         CAJ         CAK          H4     108.746    1.50
-LRO         CAJ         CAK          H5     108.746    1.50
-LRO         CAR         CAK          H4     108.906    1.50
-LRO         CAR         CAK          H5     108.906    1.50
-LRO          H4         CAK          H5     107.732    2.63
-LRO         CAP         CAJ         CAK     113.191    1.54
-LRO         CAP         CAJ          H6     109.088    1.58
-LRO         CAP         CAJ          H7     109.088    1.58
-LRO         CAK         CAJ          H6     108.746    1.50
-LRO         CAK         CAJ          H7     108.746    1.50
-LRO          H6         CAJ          H7     107.732    2.63
-LRO         CAI         CAP         CAH     117.772    1.50
-LRO         CAI         CAP         CAJ     121.114    1.50
-LRO         CAH         CAP         CAJ     121.114    1.50
-LRO         CAP         CAH         CAF     120.957    1.50
-LRO         CAP         CAH          H8     119.447    1.50
-LRO         CAF         CAH          H8     119.597    1.50
-LRO         CAO         CAF         CAH     121.244    1.50
-LRO         CAO         CAF          H9     119.247    1.50
-LRO         CAH         CAF          H9     119.509    1.50
-LRO         CAG         CAO         CAA     121.087    1.50
-LRO         CAG         CAO         CAF     117.826    1.50
-LRO         CAA         CAO         CAF     121.087    1.50
-LRO         CAO         CAA         H10     109.567    1.50
-LRO         CAO         CAA         H11     109.567    1.50
-LRO         CAO         CAA         H12     109.567    1.50
-LRO         H10         CAA         H11     109.348    1.50
-LRO         H10         CAA         H12     109.348    1.50
-LRO         H11         CAA         H12     109.348    1.50
-LRO         CAO         CAG         CAI     121.244    1.50
-LRO         CAO         CAG         H13     119.247    1.50
-LRO         CAI         CAG         H13     119.509    1.50
-LRO         CAG         CAI         CAP     120.957    1.50
-LRO         CAG         CAI         H14     119.597    1.50
-LRO         CAP         CAI         H14     119.447    1.50
+LRO OAE CAN CAQ 116.880 1.50
+LRO OAE CAN OAB 126.239 1.50
+LRO CAQ CAN OAB 116.880 1.50
+LRO CAR CAQ CAN 123.296 2.15
+LRO CAR CAQ NAL 119.954 3.00
+LRO CAN CAQ NAL 116.751 1.50
+LRO CAQ NAL CAS 122.126 1.50
+LRO CAQ NAL H15 119.789 2.44
+LRO CAS NAL H15 118.085 1.73
+LRO NAM CAS NAL 115.440 1.50
+LRO NAM CAS OAC 121.869 1.50
+LRO NAL CAS OAC 122.691 1.50
+LRO CAT NAM CAS 127.015 1.50
+LRO CAT NAM H2  117.107 1.81
+LRO CAS NAM H2  115.878 2.30
+LRO OAD CAT CAR 124.355 1.50
+LRO OAD CAT NAM 119.516 1.50
+LRO CAR CAT NAM 116.129 1.50
+LRO CAK CAR CAT 117.768 1.50
+LRO CAK CAR CAQ 122.895 2.15
+LRO CAT CAR CAQ 119.337 1.50
+LRO CAJ CAK CAR 113.312 1.99
+LRO CAJ CAK H4  108.746 1.50
+LRO CAJ CAK H5  108.746 1.50
+LRO CAR CAK H4  108.906 1.50
+LRO CAR CAK H5  108.906 1.50
+LRO H4  CAK H5  107.732 2.63
+LRO CAP CAJ CAK 113.191 1.54
+LRO CAP CAJ H6  109.088 1.58
+LRO CAP CAJ H7  109.088 1.58
+LRO CAK CAJ H6  108.746 1.50
+LRO CAK CAJ H7  108.746 1.50
+LRO H6  CAJ H7  107.732 2.63
+LRO CAI CAP CAH 117.772 1.50
+LRO CAI CAP CAJ 121.114 1.50
+LRO CAH CAP CAJ 121.114 1.50
+LRO CAP CAH CAF 120.957 1.50
+LRO CAP CAH H8  119.447 1.50
+LRO CAF CAH H8  119.597 1.50
+LRO CAO CAF CAH 121.244 1.50
+LRO CAO CAF H9  119.247 1.50
+LRO CAH CAF H9  119.509 1.50
+LRO CAG CAO CAA 121.087 1.50
+LRO CAG CAO CAF 117.826 1.50
+LRO CAA CAO CAF 121.087 1.50
+LRO CAO CAA H10 109.567 1.50
+LRO CAO CAA H11 109.567 1.50
+LRO CAO CAA H12 109.567 1.50
+LRO H10 CAA H11 109.348 1.50
+LRO H10 CAA H12 109.348 1.50
+LRO H11 CAA H12 109.348 1.50
+LRO CAO CAG CAI 121.244 1.50
+LRO CAO CAG H13 119.247 1.50
+LRO CAI CAG H13 119.509 1.50
+LRO CAG CAI CAP 120.957 1.50
+LRO CAG CAI H14 119.597 1.50
+LRO CAP CAI H14 119.447 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -172,75 +173,91 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-LRO            sp2_sp3_14         CAT         CAR         CAK         CAJ     -90.000    10.0     6
-LRO             sp3_sp3_1         CAP         CAJ         CAK         CAR     180.000    10.0     3
-LRO             sp2_sp3_8         CAI         CAP         CAJ         CAK     -90.000    10.0     6
-LRO              const_42         CAF         CAH         CAP         CAJ     180.000    10.0     2
-LRO       const_sp2_sp2_2         CAG         CAI         CAP         CAJ     180.000     5.0     2
-LRO              const_17         CAO         CAF         CAH         CAP       0.000    10.0     2
-LRO              const_14         CAH         CAF         CAO         CAA     180.000    10.0     2
-LRO             sp2_sp3_1         CAG         CAO         CAA         H10     150.000    10.0     6
-LRO              const_10         CAI         CAG         CAO         CAA     180.000    10.0     2
-LRO       const_sp2_sp2_5         CAO         CAG         CAI         CAP       0.000     5.0     2
-LRO             sp2_sp2_1         OAE         CAN         CAQ         CAR     180.000     5.0     2
-LRO              const_24         CAN         CAQ         CAR         CAK       0.000    10.0     2
-LRO              const_47         CAN         CAQ         NAL         CAS     180.000    10.0     2
-LRO              const_39         OAC         CAS         NAL         CAQ     180.000    10.0     2
-LRO              const_35         OAC         CAS         NAM         CAT     180.000    10.0     2
-LRO              const_31         OAD         CAT         NAM         CAS     180.000    10.0     2
-LRO              const_28         CAK         CAR         CAT         OAD       0.000    10.0     2
+LRO sp2_sp3_14      CAT CAR CAK CAJ -90.000 10.0 6
+LRO sp3_sp3_1       CAP CAJ CAK CAR 180.000 10.0 3
+LRO sp2_sp3_8       CAI CAP CAJ CAK -90.000 10.0 6
+LRO const_42        CAF CAH CAP CAJ 180.000 10.0 2
+LRO const_sp2_sp2_2 CAG CAI CAP CAJ 180.000 5.0  2
+LRO const_17        CAO CAF CAH CAP 0.000   10.0 2
+LRO const_14        CAH CAF CAO CAA 180.000 10.0 2
+LRO sp2_sp3_1       CAG CAO CAA H10 150.000 10.0 6
+LRO const_10        CAI CAG CAO CAA 180.000 10.0 2
+LRO const_sp2_sp2_5 CAO CAG CAI CAP 0.000   5.0  2
+LRO sp2_sp2_1       OAE CAN CAQ CAR 180.000 5.0  2
+LRO const_24        CAN CAQ CAR CAK 0.000   10.0 2
+LRO const_47        CAN CAQ NAL CAS 180.000 10.0 2
+LRO const_39        OAC CAS NAL CAQ 180.000 10.0 2
+LRO const_35        OAC CAS NAM CAT 180.000 10.0 2
+LRO const_31        OAD CAT NAM CAS 180.000 10.0 2
+LRO const_28        CAK CAR CAT OAD 0.000   10.0 2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-LRO    plan-1         CAK   0.020
-LRO    plan-1         CAN   0.020
-LRO    plan-1         CAQ   0.020
-LRO    plan-1         CAR   0.020
-LRO    plan-1         CAS   0.020
-LRO    plan-1         CAT   0.020
-LRO    plan-1         H15   0.020
-LRO    plan-1          H2   0.020
-LRO    plan-1         NAL   0.020
-LRO    plan-1         NAM   0.020
-LRO    plan-1         OAC   0.020
-LRO    plan-1         OAD   0.020
-LRO    plan-2         CAA   0.020
-LRO    plan-2         CAF   0.020
-LRO    plan-2         CAG   0.020
-LRO    plan-2         CAH   0.020
-LRO    plan-2         CAI   0.020
-LRO    plan-2         CAJ   0.020
-LRO    plan-2         CAO   0.020
-LRO    plan-2         CAP   0.020
-LRO    plan-2         H13   0.020
-LRO    plan-2         H14   0.020
-LRO    plan-2          H8   0.020
-LRO    plan-2          H9   0.020
-LRO    plan-3         CAN   0.020
-LRO    plan-3         CAQ   0.020
-LRO    plan-3         OAB   0.020
-LRO    plan-3         OAE   0.020
+LRO plan-1 CAK 0.020
+LRO plan-1 CAN 0.020
+LRO plan-1 CAQ 0.020
+LRO plan-1 CAR 0.020
+LRO plan-1 CAS 0.020
+LRO plan-1 CAT 0.020
+LRO plan-1 H15 0.020
+LRO plan-1 H2  0.020
+LRO plan-1 NAL 0.020
+LRO plan-1 NAM 0.020
+LRO plan-1 OAC 0.020
+LRO plan-1 OAD 0.020
+LRO plan-2 CAA 0.020
+LRO plan-2 CAF 0.020
+LRO plan-2 CAG 0.020
+LRO plan-2 CAH 0.020
+LRO plan-2 CAI 0.020
+LRO plan-2 CAJ 0.020
+LRO plan-2 CAO 0.020
+LRO plan-2 CAP 0.020
+LRO plan-2 H13 0.020
+LRO plan-2 H14 0.020
+LRO plan-2 H8  0.020
+LRO plan-2 H9  0.020
+LRO plan-3 CAN 0.020
+LRO plan-3 CAQ 0.020
+LRO plan-3 OAB 0.020
+LRO plan-3 OAE 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-LRO           SMILES              ACDLabs 12.01                                                                                 O=C1NC(C(=O)O)=C(C(=O)N1)CCc2ccc(cc2)C
-LRO            InChI                InChI  1.03 InChI=1S/C14H14N2O4/c1-8-2-4-9(5-3-8)6-7-10-11(13(18)19)15-14(20)16-12(10)17/h2-5H,6-7H2,1H3,(H,18,19)(H2,15,16,17,20)
-LRO         InChIKey                InChI  1.03                                                                                            BBNOPYKTLSUCSO-UHFFFAOYSA-N
-LRO SMILES_CANONICAL               CACTVS 3.370                                                                                   Cc1ccc(CCC2=C(NC(=O)NC2=O)C(O)=O)cc1
-LRO           SMILES               CACTVS 3.370                                                                                   Cc1ccc(CCC2=C(NC(=O)NC2=O)C(O)=O)cc1
-LRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                   Cc1ccc(cc1)CCC2=C(NC(=O)NC2=O)C(=O)O
-LRO           SMILES "OpenEye OEToolkits" 1.7.6                                                                                   Cc1ccc(cc1)CCC2=C(NC(=O)NC2=O)C(=O)O
+LRO SMILES           ACDLabs              12.01 O=C1NC(C(=O)O)=C(C(=O)N1)CCc2ccc(cc2)C
+LRO InChI            InChI                1.03  InChI=1S/C14H14N2O4/c1-8-2-4-9(5-3-8)6-7-10-11(13(18)19)15-14(20)16-12(10)17/h2-5H,6-7H2,1H3,(H,18,19)(H2,15,16,17,20)
+LRO InChIKey         InChI                1.03  BBNOPYKTLSUCSO-UHFFFAOYSA-N
+LRO SMILES_CANONICAL CACTVS               3.370 Cc1ccc(CCC2=C(NC(=O)NC2=O)C(O)=O)cc1
+LRO SMILES           CACTVS               3.370 Cc1ccc(CCC2=C(NC(=O)NC2=O)C(O)=O)cc1
+LRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 Cc1ccc(cc1)CCC2=C(NC(=O)NC2=O)C(=O)O
+LRO SMILES           "OpenEye OEToolkits" 1.7.6 Cc1ccc(cc1)CCC2=C(NC(=O)NC2=O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-LRO acedrg               243         "dictionary generator"                  
-LRO acedrg_database      11          "data source"                           
-LRO rdkit                2017.03.2   "Chemoinformatics tool"
-LRO refmac5              5.8.0238    "optimization tool"                     
+LRO acedrg          243       "dictionary generator"
+LRO acedrg_database 11        "data source"
+LRO rdkit           2017.03.2 "Chemoinformatics tool"
+LRO refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+LRO M-peptide OAE O
+LRO M-peptide CAN C
+LRO M-peptide CAQ CA
+LRO M-peptide NAL N
+LRO M-peptide CAS CN
+LRO M-peptide OAB OXT
+LRO M-peptide H15 H

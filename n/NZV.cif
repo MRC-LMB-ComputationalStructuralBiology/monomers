@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-NZV     NZV      "ceftriaxone, bound form"     NON-POLYMER     55     37     .     
-#
+NZV NZV "ceftriaxone, bound form" NON-POLYMER 55 37 .
+
 data_comp_NZV
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,61 +19,62 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-NZV     OBJ     O       O       0       2.890       22.836      11.559      
-NZV     CAK     C       C       0       3.500       22.442      10.563      
-NZV     CAD     C       C       0       4.934       22.940      10.365      
-NZV     CAE     C       CR5     0       5.986       22.089      9.788       
-NZV     CAF     C       CR15    0       6.050       20.703      9.884       
-NZV     SAG     S       S2      0       7.417       20.155      9.104       
-NZV     CAH     C       CR5     0       7.951       21.671      8.649       
-NZV     NAI     N       NH2     0       9.067       21.878      7.960       
-NZV     NAJ     N       NRD5    0       7.089       22.637      9.083       
-NZV     NAC     N       N       0       5.363       24.092      10.771      
-NZV     OAB     O       O2      0       4.356       24.979      11.185      
-NZV     CAA     C       CH3     0       4.577       26.256      10.576      
-NZV     N       N       NH1     0       2.963       21.541      9.712       
-NZV     CA      C       CH1     0       1.649       20.922      9.867       
-NZV     C       C       C       0       1.758       19.398      9.664       
-NZV     O       O       O       0       2.511       18.986      8.758       
-NZV     CB      C       CH1     0       0.555       21.544      8.961       
-NZV     SAV     S       S2      0       0.340       23.298      9.408       
-NZV     CAU     C       CH2     0       1.428       24.056      8.188       
-NZV     NAO     N       NR6     0       0.826       21.361      7.525       
-NZV     CAP     C       CR6     0       0.975       22.322      6.523       
-NZV     CAQ     C       C       0       1.032       21.771      5.102       
-NZV     OAR     O       OC      -1      0.058       21.141      4.731       
-NZV     OAS     O       O       0       2.044       22.014      4.471       
-NZV     CAT     C       CR6     0       1.047       23.644      6.799       
-NZV     CAW     C       CH2     0       0.889       24.728      5.759       
-NZV     SAX     S       S2      0       -0.044      26.193      6.279       
-NZV     CAY     C       CR6     0       0.868       27.711      6.398       
-NZV     NBD     N       NR6     0       0.916       28.570      5.325       
-NZV     CBE     C       CH3     0       0.221       28.292      4.060       
-NZV     NAZ     N       NRD6    0       1.508       27.965      7.549       
-NZV     CBA     C       CR6     0       2.230       29.132      7.670       
-NZV     OBG     O       O       0       2.792       29.300      8.771       
-NZV     CBB     C       CR6     0       2.317       30.045      6.633       
-NZV     NBC     N       NR6     0       1.659       29.769      5.453       
-NZV     OBF     O       O       0       2.959       31.095      6.726       
-NZV     O1      O       OC      -1      1.081       18.675      10.421      
-NZV     H1      H       H       0       5.438       20.120      10.301      
-NZV     H2      H       H       0       9.596       21.203      7.773       
-NZV     H3      H       H       0       9.273       22.689      7.696       
-NZV     H4      H       H       0       4.598       26.158      9.611       
-NZV     H5      H       H       0       5.423       26.619      10.883      
-NZV     H6      H       H       0       3.859       26.860      10.823      
-NZV     H7      H       H       0       3.421       21.327      9.001       
-NZV     H8      H       H       0       1.368       21.053      10.805      
-NZV     H10     H       H       0       -0.291      21.079      9.178       
-NZV     H11     H       H       0       2.348       23.778      8.353       
-NZV     H12     H       H       0       1.386       25.026      8.273       
-NZV     H9      H       H       0       0.874       20.516      7.284       
-NZV     H15     H       H       0       0.450       24.361      4.962       
-NZV     H16     H       H       0       1.789       25.014      5.488       
-NZV     H17     H       H       0       0.382       29.018      3.436       
-NZV     H18     H       H       0       -0.734      28.216      4.221       
-NZV     H19     H       H       0       0.554       27.464      3.678       
-NZV     H20     H       H       0       1.713       30.340      4.804       
+NZV OBJ O O    0  2.890  22.836 11.559
+NZV CAK C C    0  3.500  22.442 10.563
+NZV CAD C C    0  4.934  22.940 10.365
+NZV CAE C CR5  0  5.986  22.089 9.788
+NZV CAF C CR15 0  6.050  20.703 9.884
+NZV SAG S S2   0  7.417  20.155 9.104
+NZV CAH C CR5  0  7.951  21.671 8.649
+NZV NAI N NH2  0  9.067  21.878 7.960
+NZV NAJ N NRD5 0  7.089  22.637 9.083
+NZV NAC N N    0  5.363  24.092 10.771
+NZV OAB O O2   0  4.356  24.979 11.185
+NZV CAA C CH3  0  4.577  26.256 10.576
+NZV N   N NH1  0  2.963  21.541 9.712
+NZV CA  C CH1  0  1.649  20.922 9.867
+NZV C   C C    0  1.758  19.398 9.664
+NZV O   O O    0  2.511  18.986 8.758
+NZV CB  C CH1  0  0.555  21.544 8.961
+NZV SAV S S2   0  0.340  23.298 9.408
+NZV CAU C CH2  0  1.428  24.056 8.188
+NZV NAO N NR6  0  0.826  21.361 7.525
+NZV CAP C CR6  0  0.975  22.322 6.523
+NZV CAQ C C    0  1.032  21.771 5.102
+NZV OAR O OC   -1 0.058  21.141 4.731
+NZV OAS O O    0  2.044  22.014 4.471
+NZV CAT C CR6  0  1.047  23.644 6.799
+NZV CAW C CH2  0  0.889  24.728 5.759
+NZV SAX S S2   0  -0.044 26.193 6.279
+NZV CAY C CR6  0  0.868  27.711 6.398
+NZV NBD N NR6  0  0.916  28.570 5.325
+NZV CBE C CH3  0  0.221  28.292 4.060
+NZV NAZ N NRD6 0  1.508  27.965 7.549
+NZV CBA C CR6  0  2.230  29.132 7.670
+NZV OBG O O    0  2.792  29.300 8.771
+NZV CBB C CR6  0  2.317  30.045 6.633
+NZV NBC N NR6  0  1.659  29.769 5.453
+NZV OBF O O    0  2.959  31.095 6.726
+NZV O1  O OC   -1 1.081  18.675 10.421
+NZV H1  H H    0  5.438  20.120 10.301
+NZV H2  H H    0  9.596  21.203 7.773
+NZV H3  H H    0  9.273  22.689 7.696
+NZV H4  H H    0  4.598  26.158 9.611
+NZV H5  H H    0  5.423  26.619 10.883
+NZV H6  H H    0  3.859  26.860 10.823
+NZV H7  H H    0  3.421  21.327 9.001
+NZV H8  H H    0  1.368  21.053 10.805
+NZV H10 H H    0  -0.291 21.079 9.178
+NZV H11 H H    0  2.348  23.778 8.353
+NZV H12 H H    0  1.386  25.026 8.273
+NZV H9  H H    0  0.874  20.516 7.284
+NZV H15 H H    0  0.450  24.361 4.962
+NZV H16 H H    0  1.789  25.014 5.488
+NZV H17 H H    0  0.382  29.018 3.436
+NZV H18 H H    0  -0.734 28.216 4.221
+NZV H19 H H    0  0.554  27.464 3.678
+NZV H20 H H    0  1.713  30.340 4.804
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -86,63 +85,64 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-NZV         CAQ         OAS      DOUBLE       n     1.217  0.0200     1.217  0.0200
-NZV         CAW         SAX      SINGLE       n     1.809  0.0191     1.809  0.0191
-NZV         SAX         CAY      SINGLE       n     1.772  0.0127     1.772  0.0127
-NZV         CAT         CAW      SINGLE       n     1.504  0.0100     1.504  0.0100
-NZV         NBD         CBE      SINGLE       n     1.467  0.0100     1.467  0.0100
-NZV         CAQ         OAR      SINGLE       n     1.217  0.0200     1.217  0.0200
-NZV         CAP         CAQ      SINGLE       n     1.523  0.0100     1.523  0.0100
-NZV         CAY         NBD      SINGLE       y     1.363  0.0132     1.363  0.0132
-NZV         CAY         NAZ      DOUBLE       y     1.324  0.0200     1.324  0.0200
-NZV         NBD         NBC      SINGLE       y     1.414  0.0100     1.414  0.0100
-NZV         NAZ         CBA      SINGLE       y     1.373  0.0100     1.373  0.0100
-NZV         CBB         NBC      SINGLE       y     1.372  0.0160     1.372  0.0160
-NZV         CBA         CBB      SINGLE       y     1.379  0.0122     1.379  0.0122
-NZV         CBA         OBG      DOUBLE       n     1.247  0.0103     1.247  0.0103
-NZV         CBB         OBF      DOUBLE       n     1.232  0.0157     1.232  0.0157
-NZV         CAP         CAT      DOUBLE       n     1.346  0.0100     1.346  0.0100
-NZV         CAU         CAT      SINGLE       n     1.497  0.0100     1.497  0.0100
-NZV         NAO         CAP      SINGLE       n     1.370  0.0200     1.370  0.0200
-NZV          CB         NAO      SINGLE       n     1.462  0.0118     1.462  0.0118
-NZV         SAV         CAU      SINGLE       n     1.804  0.0100     1.804  0.0100
-NZV           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-NZV         OAB         CAA      SINGLE       n     1.431  0.0100     1.431  0.0100
-NZV          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-NZV          CB         SAV      SINGLE       n     1.816  0.0145     1.816  0.0145
-NZV          CA          CB      SINGLE       n     1.528  0.0200     1.528  0.0200
-NZV           N          CA      SINGLE       n     1.455  0.0100     1.455  0.0100
-NZV         NAC         OAB      SINGLE       n     1.401  0.0129     1.401  0.0129
-NZV         CAK           N      SINGLE       n     1.334  0.0149     1.334  0.0149
-NZV         CAD         NAC      DOUBLE       n     1.285  0.0117     1.285  0.0117
-NZV         CAK         CAD      SINGLE       n     1.498  0.0200     1.498  0.0200
-NZV         CAD         CAE      SINGLE       n     1.467  0.0100     1.467  0.0100
-NZV         OBJ         CAK      DOUBLE       n     1.231  0.0100     1.231  0.0100
-NZV         CAE         NAJ      SINGLE       y     1.377  0.0200     1.377  0.0200
-NZV         CAH         NAJ      DOUBLE       y     1.354  0.0165     1.354  0.0165
-NZV         CAE         CAF      DOUBLE       y     1.379  0.0196     1.379  0.0196
-NZV         CAH         NAI      SINGLE       n     1.328  0.0105     1.328  0.0105
-NZV         SAG         CAH      SINGLE       y     1.695  0.0200     1.695  0.0200
-NZV         CAF         SAG      SINGLE       y     1.695  0.0200     1.695  0.0200
-NZV           C          O1      SINGLE       n     1.247  0.0187     1.247  0.0187
-NZV         CAF          H1      SINGLE       n     1.082  0.0130     0.942  0.0200
-NZV         NAI          H2      SINGLE       n     1.016  0.0100     0.877  0.0200
-NZV         NAI          H3      SINGLE       n     1.016  0.0100     0.877  0.0200
-NZV         CAA          H4      SINGLE       n     1.089  0.0100     0.970  0.0177
-NZV         CAA          H5      SINGLE       n     1.089  0.0100     0.970  0.0177
-NZV         CAA          H6      SINGLE       n     1.089  0.0100     0.970  0.0177
-NZV           N          H7      SINGLE       n     1.016  0.0100     0.874  0.0200
-NZV          CA          H8      SINGLE       n     1.089  0.0100     0.989  0.0198
-NZV          CB         H10      SINGLE       n     1.089  0.0100     0.990  0.0200
-NZV         CAU         H11      SINGLE       n     1.089  0.0100     0.977  0.0141
-NZV         CAU         H12      SINGLE       n     1.089  0.0100     0.977  0.0141
-NZV         NAO          H9      SINGLE       n     1.016  0.0100     0.880  0.0200
-NZV         CAW         H15      SINGLE       n     1.089  0.0100     0.983  0.0188
-NZV         CAW         H16      SINGLE       n     1.089  0.0100     0.983  0.0188
-NZV         CBE         H17      SINGLE       n     1.089  0.0100     0.971  0.0165
-NZV         CBE         H18      SINGLE       n     1.089  0.0100     0.971  0.0165
-NZV         CBE         H19      SINGLE       n     1.089  0.0100     0.971  0.0165
-NZV         NBC         H20      SINGLE       n     1.016  0.0100     0.865  0.0200
+NZV CAQ OAS DOUBLE n 1.217 0.0200 1.217 0.0200
+NZV CAW SAX SINGLE n 1.809 0.0191 1.809 0.0191
+NZV SAX CAY SINGLE n 1.772 0.0127 1.772 0.0127
+NZV CAT CAW SINGLE n 1.504 0.0100 1.504 0.0100
+NZV NBD CBE SINGLE n 1.467 0.0100 1.467 0.0100
+NZV CAQ OAR SINGLE n 1.217 0.0200 1.217 0.0200
+NZV CAP CAQ SINGLE n 1.523 0.0100 1.523 0.0100
+NZV CAY NBD SINGLE y 1.363 0.0132 1.363 0.0132
+NZV CAY NAZ DOUBLE y 1.324 0.0200 1.324 0.0200
+NZV NBD NBC SINGLE y 1.414 0.0100 1.414 0.0100
+NZV NAZ CBA SINGLE y 1.373 0.0100 1.373 0.0100
+NZV CBB NBC SINGLE y 1.372 0.0160 1.372 0.0160
+NZV CBA CBB SINGLE y 1.379 0.0122 1.379 0.0122
+NZV CBA OBG DOUBLE n 1.247 0.0103 1.247 0.0103
+NZV CBB OBF DOUBLE n 1.232 0.0157 1.232 0.0157
+NZV CAP CAT DOUBLE n 1.346 0.0100 1.346 0.0100
+NZV CAU CAT SINGLE n 1.497 0.0100 1.497 0.0100
+NZV NAO CAP SINGLE n 1.370 0.0200 1.370 0.0200
+NZV CB  NAO SINGLE n 1.462 0.0118 1.462 0.0118
+NZV SAV CAU SINGLE n 1.804 0.0100 1.804 0.0100
+NZV C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
+NZV OAB CAA SINGLE n 1.431 0.0100 1.431 0.0100
+NZV CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+NZV CB  SAV SINGLE n 1.816 0.0145 1.816 0.0145
+NZV CA  CB  SINGLE n 1.528 0.0200 1.528 0.0200
+NZV N   CA  SINGLE n 1.455 0.0100 1.455 0.0100
+NZV NAC OAB SINGLE n 1.401 0.0129 1.401 0.0129
+NZV CAK N   SINGLE n 1.334 0.0149 1.334 0.0149
+NZV CAD NAC DOUBLE n 1.285 0.0117 1.285 0.0117
+NZV CAK CAD SINGLE n 1.498 0.0200 1.498 0.0200
+NZV CAD CAE SINGLE n 1.467 0.0100 1.467 0.0100
+NZV OBJ CAK DOUBLE n 1.231 0.0100 1.231 0.0100
+NZV CAE NAJ SINGLE y 1.377 0.0200 1.377 0.0200
+NZV CAH NAJ DOUBLE y 1.354 0.0165 1.354 0.0165
+NZV CAE CAF DOUBLE y 1.379 0.0196 1.379 0.0196
+NZV CAH NAI SINGLE n 1.328 0.0105 1.328 0.0105
+NZV SAG CAH SINGLE y 1.695 0.0200 1.695 0.0200
+NZV CAF SAG SINGLE y 1.695 0.0200 1.695 0.0200
+NZV C   O1  SINGLE n 1.247 0.0187 1.247 0.0187
+NZV CAF H1  SINGLE n 1.082 0.0130 0.942 0.0200
+NZV NAI H2  SINGLE n 1.016 0.0100 0.877 0.0200
+NZV NAI H3  SINGLE n 1.016 0.0100 0.877 0.0200
+NZV CAA H4  SINGLE n 1.089 0.0100 0.970 0.0177
+NZV CAA H5  SINGLE n 1.089 0.0100 0.970 0.0177
+NZV CAA H6  SINGLE n 1.089 0.0100 0.970 0.0177
+NZV N   H7  SINGLE n 1.016 0.0100 0.874 0.0200
+NZV CA  H8  SINGLE n 1.089 0.0100 0.989 0.0198
+NZV CB  H10 SINGLE n 1.089 0.0100 0.990 0.0200
+NZV CAU H11 SINGLE n 1.089 0.0100 0.977 0.0141
+NZV CAU H12 SINGLE n 1.089 0.0100 0.977 0.0141
+NZV NAO H9  SINGLE n 1.016 0.0100 0.880 0.0200
+NZV CAW H15 SINGLE n 1.089 0.0100 0.983 0.0188
+NZV CAW H16 SINGLE n 1.089 0.0100 0.983 0.0188
+NZV CBE H17 SINGLE n 1.089 0.0100 0.971 0.0165
+NZV CBE H18 SINGLE n 1.089 0.0100 0.971 0.0165
+NZV CBE H19 SINGLE n 1.089 0.0100 0.971 0.0165
+NZV NBC H20 SINGLE n 1.016 0.0100 0.865 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -150,100 +150,101 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-NZV           N         CAK         CAD     118.431    3.00
-NZV           N         CAK         OBJ     122.961    1.83
-NZV         CAD         CAK         OBJ     118.608    1.54
-NZV         NAC         CAD         CAK     117.209    3.00
-NZV         NAC         CAD         CAE     120.279    3.00
-NZV         CAK         CAD         CAE     122.513    3.00
-NZV         CAD         CAE         NAJ     122.488    1.50
-NZV         CAD         CAE         CAF     128.808    3.00
-NZV         NAJ         CAE         CAF     108.704    1.50
-NZV         CAE         CAF         SAG     108.532    3.00
-NZV         CAE         CAF          H1     128.300    1.50
-NZV         SAG         CAF          H1     123.168    3.00
-NZV         CAH         SAG         CAF     108.532    3.00
-NZV         NAJ         CAH         NAI     126.664    2.12
-NZV         NAJ         CAH         SAG     108.532    3.00
-NZV         NAI         CAH         SAG     124.804    3.00
-NZV         CAH         NAI          H2     119.811    1.50
-NZV         CAH         NAI          H3     119.811    1.50
-NZV          H2         NAI          H3     120.377    1.82
-NZV         CAE         NAJ         CAH     105.700    1.59
-NZV         OAB         NAC         CAD     111.365    1.50
-NZV         CAA         OAB         NAC     108.634    1.50
-NZV         OAB         CAA          H4     109.449    1.50
-NZV         OAB         CAA          H5     109.449    1.50
-NZV         OAB         CAA          H6     109.449    1.50
-NZV          H4         CAA          H5     109.461    1.50
-NZV          H4         CAA          H6     109.461    1.50
-NZV          H5         CAA          H6     109.461    1.50
-NZV          CA           N         CAK     122.589    2.50
-NZV          CA           N          H7     118.806    1.91
-NZV         CAK           N          H7     118.605    2.08
-NZV           C          CA          CB     113.355    2.65
-NZV           C          CA           N     110.921    1.74
-NZV           C          CA          H8     108.186    1.50
-NZV          CB          CA           N     112.102    2.36
-NZV          CB          CA          H8     109.342    1.50
-NZV           N          CA          H8     108.169    1.50
-NZV           O           C          CA     117.276    1.60
-NZV           O           C          O1     125.448    1.75
-NZV          CA           C          O1     117.276    1.60
-NZV         NAO          CB         SAV     110.151    1.60
-NZV         NAO          CB          CA     110.271    2.01
-NZV         NAO          CB         H10     109.078    1.50
-NZV         SAV          CB          CA     107.746    3.00
-NZV         SAV          CB         H10     108.373    1.68
-NZV          CA          CB         H10     107.642    1.65
-NZV         CAU         SAV          CB      99.411    2.27
-NZV         CAT         CAU         SAV     111.860    2.17
-NZV         CAT         CAU         H11     108.678    1.50
-NZV         CAT         CAU         H12     108.678    1.50
-NZV         SAV         CAU         H11     109.111    1.50
-NZV         SAV         CAU         H12     109.111    1.50
-NZV         H11         CAU         H12     108.104    1.50
-NZV         CAP         NAO          CB     122.646    2.69
-NZV         CAP         NAO          H9     118.959    1.50
-NZV          CB         NAO          H9     118.395    2.75
-NZV         CAQ         CAP         CAT     121.007    2.59
-NZV         CAQ         CAP         NAO     118.922    3.00
-NZV         CAT         CAP         NAO     120.071    1.66
-NZV         OAS         CAQ         OAR     127.626    1.50
-NZV         OAS         CAQ         CAP     116.187    1.68
-NZV         OAR         CAQ         CAP     116.187    1.68
-NZV         CAW         CAT         CAP     122.031    2.28
-NZV         CAW         CAT         CAU     116.541    2.44
-NZV         CAP         CAT         CAU     121.428    3.00
-NZV         SAX         CAW         CAT     111.470    3.00
-NZV         SAX         CAW         H15     109.066    1.50
-NZV         SAX         CAW         H16     109.066    1.50
-NZV         CAT         CAW         H15     109.897    2.66
-NZV         CAT         CAW         H16     109.897    2.66
-NZV         H15         CAW         H16     107.826    1.50
-NZV         CAW         SAX         CAY     120.000    3.00
-NZV         SAX         CAY         NBD     118.150    1.50
-NZV         SAX         CAY         NAZ     119.624    3.00
-NZV         NBD         CAY         NAZ     122.226    1.50
-NZV         CBE         NBD         CAY     120.615    1.57
-NZV         CBE         NBD         NBC     119.731    3.00
-NZV         CAY         NBD         NBC     119.655    2.72
-NZV         NBD         CBE         H17     109.487    1.50
-NZV         NBD         CBE         H18     109.487    1.50
-NZV         NBD         CBE         H19     109.487    1.50
-NZV         H17         CBE         H18     109.480    1.50
-NZV         H17         CBE         H19     109.480    1.50
-NZV         H18         CBE         H19     109.480    1.50
-NZV         CAY         NAZ         CBA     117.679    1.50
-NZV         NAZ         CBA         CBB     121.518    1.50
-NZV         NAZ         CBA         OBG     115.718    1.50
-NZV         CBB         CBA         OBG     122.763    2.81
-NZV         NBC         CBB         CBA     119.267    3.00
-NZV         NBC         CBB         OBF     118.700    1.67
-NZV         CBA         CBB         OBF     122.034    1.75
-NZV         NBD         NBC         CBB     119.655    2.72
-NZV         NBD         NBC         H20     121.503    3.00
-NZV         CBB         NBC         H20     118.842    2.15
+NZV N   CAK CAD 118.431 3.00
+NZV N   CAK OBJ 122.961 1.83
+NZV CAD CAK OBJ 118.608 1.54
+NZV NAC CAD CAK 117.209 3.00
+NZV NAC CAD CAE 120.279 3.00
+NZV CAK CAD CAE 122.513 3.00
+NZV CAD CAE NAJ 122.488 1.50
+NZV CAD CAE CAF 128.808 3.00
+NZV NAJ CAE CAF 108.704 1.50
+NZV CAE CAF SAG 108.532 3.00
+NZV CAE CAF H1  128.300 1.50
+NZV SAG CAF H1  123.168 3.00
+NZV CAH SAG CAF 108.532 3.00
+NZV NAJ CAH NAI 126.664 2.12
+NZV NAJ CAH SAG 108.532 3.00
+NZV NAI CAH SAG 124.804 3.00
+NZV CAH NAI H2  119.811 1.50
+NZV CAH NAI H3  119.811 1.50
+NZV H2  NAI H3  120.377 1.82
+NZV CAE NAJ CAH 105.700 1.59
+NZV OAB NAC CAD 111.365 1.50
+NZV CAA OAB NAC 108.634 1.50
+NZV OAB CAA H4  109.449 1.50
+NZV OAB CAA H5  109.449 1.50
+NZV OAB CAA H6  109.449 1.50
+NZV H4  CAA H5  109.461 1.50
+NZV H4  CAA H6  109.461 1.50
+NZV H5  CAA H6  109.461 1.50
+NZV CA  N   CAK 122.589 2.50
+NZV CA  N   H7  118.806 1.91
+NZV CAK N   H7  118.605 2.08
+NZV C   CA  CB  113.355 2.65
+NZV C   CA  N   110.921 1.74
+NZV C   CA  H8  108.186 1.50
+NZV CB  CA  N   112.102 2.36
+NZV CB  CA  H8  109.342 1.50
+NZV N   CA  H8  108.169 1.50
+NZV O   C   CA  117.276 1.60
+NZV O   C   O1  125.448 1.75
+NZV CA  C   O1  117.276 1.60
+NZV NAO CB  SAV 110.151 1.60
+NZV NAO CB  CA  110.271 2.01
+NZV NAO CB  H10 109.078 1.50
+NZV SAV CB  CA  107.746 3.00
+NZV SAV CB  H10 108.373 1.68
+NZV CA  CB  H10 107.642 1.65
+NZV CAU SAV CB  99.411  2.27
+NZV CAT CAU SAV 111.860 2.17
+NZV CAT CAU H11 108.678 1.50
+NZV CAT CAU H12 108.678 1.50
+NZV SAV CAU H11 109.111 1.50
+NZV SAV CAU H12 109.111 1.50
+NZV H11 CAU H12 108.104 1.50
+NZV CAP NAO CB  122.646 2.69
+NZV CAP NAO H9  118.959 1.50
+NZV CB  NAO H9  118.395 2.75
+NZV CAQ CAP CAT 121.007 2.59
+NZV CAQ CAP NAO 118.922 3.00
+NZV CAT CAP NAO 120.071 1.66
+NZV OAS CAQ OAR 127.626 1.50
+NZV OAS CAQ CAP 116.187 1.68
+NZV OAR CAQ CAP 116.187 1.68
+NZV CAW CAT CAP 122.031 2.28
+NZV CAW CAT CAU 116.541 2.44
+NZV CAP CAT CAU 121.428 3.00
+NZV SAX CAW CAT 111.470 3.00
+NZV SAX CAW H15 109.066 1.50
+NZV SAX CAW H16 109.066 1.50
+NZV CAT CAW H15 109.897 2.66
+NZV CAT CAW H16 109.897 2.66
+NZV H15 CAW H16 107.826 1.50
+NZV CAW SAX CAY 120.000 3.00
+NZV SAX CAY NBD 118.150 1.50
+NZV SAX CAY NAZ 119.624 3.00
+NZV NBD CAY NAZ 122.226 1.50
+NZV CBE NBD CAY 120.615 1.57
+NZV CBE NBD NBC 119.731 3.00
+NZV CAY NBD NBC 119.655 2.72
+NZV NBD CBE H17 109.487 1.50
+NZV NBD CBE H18 109.487 1.50
+NZV NBD CBE H19 109.487 1.50
+NZV H17 CBE H18 109.480 1.50
+NZV H17 CBE H19 109.480 1.50
+NZV H18 CBE H19 109.480 1.50
+NZV CAY NAZ CBA 117.679 1.50
+NZV NAZ CBA CBB 121.518 1.50
+NZV NAZ CBA OBG 115.718 1.50
+NZV CBB CBA OBG 122.763 2.81
+NZV NBC CBB CBA 119.267 3.00
+NZV NBC CBB OBF 118.700 1.67
+NZV CBA CBB OBF 122.034 1.75
+NZV NBD NBC CBB 119.655 2.72
+NZV NBD NBC H20 121.503 3.00
+NZV CBB NBC H20 118.842 2.15
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -254,38 +255,39 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-NZV             sp3_sp3_8          H4         CAA         OAB         NAC     -60.000    10.0     3
-NZV            sp2_sp3_31         CAK           N          CA           C       0.000    10.0     6
-NZV            sp2_sp3_26           O           C          CA           N     120.000    10.0     6
-NZV            sp3_sp3_14           C          CA          CB         NAO     180.000    10.0     3
-NZV            sp3_sp3_12          CA          CB         SAV         CAU      60.000    10.0     3
-NZV             sp2_sp3_2         CAP         NAO          CB          CA     120.000    10.0     6
-NZV             sp3_sp3_1         CAT         CAU         SAV          CB      60.000    10.0     3
-NZV            sp2_sp3_10         CAW         CAT         CAU         SAV     180.000    10.0     6
-NZV             sp2_sp2_3         CAQ         CAP         NAO          CB     180.000     5.0     2
-NZV            sp2_sp2_16         CAD         CAK           N          CA     180.000     5.0     2
-NZV            sp2_sp2_24         NAC         CAD         CAK           N       0.000     5.0     2
-NZV            sp2_sp2_11         CAT         CAP         CAQ         OAS     180.000     5.0     2
-NZV             sp2_sp2_8         CAQ         CAP         CAT         CAW       0.000     5.0     2
-NZV            sp2_sp3_14         CAP         CAT         CAW         SAX     -90.000    10.0     6
-NZV             sp3_sp3_4         CAT         CAW         SAX         CAY     180.000    10.0     3
-NZV             sp2_sp2_9         NBD         CAY         SAX         CAW     180.000     5.0     2
-NZV              const_12         SAX         CAY         NBD         CBE       0.000    10.0     2
-NZV              const_28         SAX         CAY         NAZ         CBA     180.000    10.0     2
-NZV            sp2_sp3_19         CAY         NBD         CBE         H17     150.000    10.0     6
-NZV              const_14         CBB         NBC         NBD         CBE     180.000    10.0     2
-NZV            sp2_sp2_29         NAC         CAD         CAE         NAJ     180.000     5.0     2
-NZV            sp2_sp2_20         CAK         CAD         NAC         OAB     180.000     5.0     2
-NZV              const_26         OBG         CBA         NAZ         CAY     180.000    10.0     2
-NZV              const_24         OBG         CBA         CBB         OBF       0.000    10.0     2
-NZV              const_19         OBF         CBB         NBC         NBD     180.000    10.0     2
-NZV              const_31         CAD         CAE         CAF         SAG     180.000    10.0     2
-NZV       const_sp2_sp2_2         CAD         CAE         NAJ         CAH     180.000     5.0     2
-NZV       const_sp2_sp2_7         CAE         CAF         SAG         CAH       0.000     5.0     2
-NZV       const_sp2_sp2_6         NAI         CAH         SAG         CAF     180.000     5.0     2
-NZV            sp2_sp2_30         NAJ         CAH         NAI          H2     180.000     5.0     2
-NZV       const_sp2_sp2_4         NAI         CAH         NAJ         CAE     180.000     5.0     2
-NZV            sp2_sp2_15         CAD         NAC         OAB         CAA     180.000     5.0     2
+NZV sp3_sp3_8       H4  CAA OAB NAC -60.000 10.0 3
+NZV sp2_sp3_31      CAK N   CA  C   0.000   10.0 6
+NZV sp2_sp3_26      O   C   CA  N   120.000 10.0 6
+NZV sp3_sp3_14      C   CA  CB  NAO 180.000 10.0 3
+NZV sp3_sp3_12      CA  CB  SAV CAU 60.000  10.0 3
+NZV sp2_sp3_2       CAP NAO CB  CA  120.000 10.0 6
+NZV sp3_sp3_1       CAT CAU SAV CB  60.000  10.0 3
+NZV sp2_sp3_10      CAW CAT CAU SAV 180.000 10.0 6
+NZV sp2_sp2_3       CAQ CAP NAO CB  180.000 5.0  2
+NZV sp2_sp2_16      CAD CAK N   CA  180.000 5.0  2
+NZV sp2_sp2_24      NAC CAD CAK N   0.000   5.0  2
+NZV sp2_sp2_11      CAT CAP CAQ OAS 180.000 5.0  2
+NZV sp2_sp2_8       CAQ CAP CAT CAW 0.000   5.0  2
+NZV sp2_sp3_14      CAP CAT CAW SAX -90.000 10.0 6
+NZV sp3_sp3_4       CAT CAW SAX CAY 180.000 10.0 3
+NZV sp2_sp2_9       NBD CAY SAX CAW 180.000 5.0  2
+NZV const_12        SAX CAY NBD CBE 0.000   10.0 2
+NZV const_28        SAX CAY NAZ CBA 180.000 10.0 2
+NZV sp2_sp3_19      CAY NBD CBE H17 150.000 10.0 6
+NZV const_14        CBB NBC NBD CBE 180.000 10.0 2
+NZV sp2_sp2_29      NAC CAD CAE NAJ 180.000 5.0  2
+NZV sp2_sp2_20      CAK CAD NAC OAB 180.000 5.0  2
+NZV const_26        OBG CBA NAZ CAY 180.000 10.0 2
+NZV const_24        OBG CBA CBB OBF 0.000   10.0 2
+NZV const_19        OBF CBB NBC NBD 180.000 10.0 2
+NZV const_31        CAD CAE CAF SAG 180.000 10.0 2
+NZV const_sp2_sp2_2 CAD CAE NAJ CAH 180.000 5.0  2
+NZV const_sp2_sp2_7 CAE CAF SAG CAH 0.000   5.0  2
+NZV const_sp2_sp2_6 NAI CAH SAG CAF 180.000 5.0  2
+NZV sp2_sp2_30      NAJ CAH NAI H2  180.000 5.0  2
+NZV const_sp2_sp2_4 NAI CAH NAJ CAE 180.000 5.0  2
+NZV sp2_sp2_15      CAD NAC OAB CAA 180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -294,87 +296,99 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-NZV    chir_1    CA    N    CB    C    negative
-NZV    chir_2    CB    SAV    NAO    CA    negative
+NZV chir_1 CA N   CB  C  negative
+NZV chir_2 CB SAV NAO CA negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-NZV    plan-1         CAY   0.020
-NZV    plan-1         CBA   0.020
-NZV    plan-1         CBB   0.020
-NZV    plan-1         CBE   0.020
-NZV    plan-1         H20   0.020
-NZV    plan-1         NAZ   0.020
-NZV    plan-1         NBC   0.020
-NZV    plan-1         NBD   0.020
-NZV    plan-1         OBF   0.020
-NZV    plan-1         OBG   0.020
-NZV    plan-1         SAX   0.020
-NZV    plan-2         CAD   0.020
-NZV    plan-2         CAE   0.020
-NZV    plan-2         CAF   0.020
-NZV    plan-2         CAH   0.020
-NZV    plan-2          H1   0.020
-NZV    plan-2         NAI   0.020
-NZV    plan-2         NAJ   0.020
-NZV    plan-2         SAG   0.020
-NZV    plan-3         CAD   0.020
-NZV    plan-3         CAK   0.020
-NZV    plan-3           N   0.020
-NZV    plan-3         OBJ   0.020
-NZV    plan-4         CAD   0.020
-NZV    plan-4         CAE   0.020
-NZV    plan-4         CAK   0.020
-NZV    plan-4         NAC   0.020
-NZV    plan-5         CAH   0.020
-NZV    plan-5          H2   0.020
-NZV    plan-5          H3   0.020
-NZV    plan-5         NAI   0.020
-NZV    plan-6          CA   0.020
-NZV    plan-6         CAK   0.020
-NZV    plan-6          H7   0.020
-NZV    plan-6           N   0.020
-NZV    plan-7           C   0.020
-NZV    plan-7          CA   0.020
-NZV    plan-7           O   0.020
-NZV    plan-7          O1   0.020
-NZV    plan-8         CAP   0.020
-NZV    plan-8          CB   0.020
-NZV    plan-8          H9   0.020
-NZV    plan-8         NAO   0.020
-NZV    plan-9         CAP   0.020
-NZV    plan-9         CAQ   0.020
-NZV    plan-9         CAT   0.020
-NZV    plan-9         NAO   0.020
-NZV   plan-10         CAP   0.020
-NZV   plan-10         CAQ   0.020
-NZV   plan-10         OAR   0.020
-NZV   plan-10         OAS   0.020
-NZV   plan-11         CAP   0.020
-NZV   plan-11         CAT   0.020
-NZV   plan-11         CAU   0.020
-NZV   plan-11         CAW   0.020
+NZV plan-1  CAY 0.020
+NZV plan-1  CBA 0.020
+NZV plan-1  CBB 0.020
+NZV plan-1  CBE 0.020
+NZV plan-1  H20 0.020
+NZV plan-1  NAZ 0.020
+NZV plan-1  NBC 0.020
+NZV plan-1  NBD 0.020
+NZV plan-1  OBF 0.020
+NZV plan-1  OBG 0.020
+NZV plan-1  SAX 0.020
+NZV plan-2  CAD 0.020
+NZV plan-2  CAE 0.020
+NZV plan-2  CAF 0.020
+NZV plan-2  CAH 0.020
+NZV plan-2  H1  0.020
+NZV plan-2  NAI 0.020
+NZV plan-2  NAJ 0.020
+NZV plan-2  SAG 0.020
+NZV plan-3  CAD 0.020
+NZV plan-3  CAK 0.020
+NZV plan-3  N   0.020
+NZV plan-3  OBJ 0.020
+NZV plan-4  CAD 0.020
+NZV plan-4  CAE 0.020
+NZV plan-4  CAK 0.020
+NZV plan-4  NAC 0.020
+NZV plan-5  CAH 0.020
+NZV plan-5  H2  0.020
+NZV plan-5  H3  0.020
+NZV plan-5  NAI 0.020
+NZV plan-6  CA  0.020
+NZV plan-6  CAK 0.020
+NZV plan-6  H7  0.020
+NZV plan-6  N   0.020
+NZV plan-7  C   0.020
+NZV plan-7  CA  0.020
+NZV plan-7  O   0.020
+NZV plan-7  O1  0.020
+NZV plan-8  CAP 0.020
+NZV plan-8  CB  0.020
+NZV plan-8  H9  0.020
+NZV plan-8  NAO 0.020
+NZV plan-9  CAP 0.020
+NZV plan-9  CAQ 0.020
+NZV plan-9  CAT 0.020
+NZV plan-9  NAO 0.020
+NZV plan-10 CAP 0.020
+NZV plan-10 CAQ 0.020
+NZV plan-10 OAR 0.020
+NZV plan-10 OAS 0.020
+NZV plan-11 CAP 0.020
+NZV plan-11 CAT 0.020
+NZV plan-11 CAU 0.020
+NZV plan-11 CAW 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-NZV           SMILES              ACDLabs 12.01                                                                                                                                                      O=C(/C(c1csc(N)n1)=N\OC)NC(C(O)=O)C2SCC(=C(N2)C(O)=O)CSC=3N(NC(C(N=3)=O)=O)C
-NZV            InChI                InChI  1.03 InChI=1S/C18H20N8O8S3/c1-26-18(23-12(28)13(29)24-26)37-4-6-3-35-14(22-8(6)15(30)31)10(16(32)33)21-11(27)9(25-34-2)7-5-36-17(19)20-7/h5,10,14,22H,3-4H2,1-2H3,(H2,19,20)(H,21,27)(H,24,29)(H,30,31)(H,32,33)/b25-9-/t10-,14+/m0/s1
-NZV         InChIKey                InChI  1.03                                                                                                                                                                                                       DQDUICUGMZVNPK-KQSJCSLWSA-N
-NZV SMILES_CANONICAL               CACTVS 3.385                                                                                                                                               CO\N=C(/C(=O)N[C@@H]([C@@H]1NC(=C(CS1)CSC2=NC(=O)C(=O)NN2C)C(O)=O)C(O)=O)c3csc(N)n3
-NZV           SMILES               CACTVS 3.385                                                                                                                                                     CON=C(C(=O)N[CH]([CH]1NC(=C(CS1)CSC2=NC(=O)C(=O)NN2C)C(O)=O)C(O)=O)c3csc(N)n3
-NZV SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7                                                                                                                                             CN1C(=NC(=O)C(=O)N1)SCC2=C(N[C@H](SC2)[C@@H](C(=O)O)NC(=O)/C(=N\OC)/c3csc(n3)N)C(=O)O
-NZV           SMILES "OpenEye OEToolkits" 2.0.7                                                                                                                                                         CN1C(=NC(=O)C(=O)N1)SCC2=C(NC(SC2)C(C(=O)O)NC(=O)C(=NOC)c3csc(n3)N)C(=O)O
+NZV SMILES           ACDLabs              12.01 O=C(/C(c1csc(N)n1)=N\OC)NC(C(O)=O)C2SCC(=C(N2)C(O)=O)CSC=3N(NC(C(N=3)=O)=O)C
+NZV InChI            InChI                1.03  InChI=1S/C18H20N8O8S3/c1-26-18(23-12(28)13(29)24-26)37-4-6-3-35-14(22-8(6)15(30)31)10(16(32)33)21-11(27)9(25-34-2)7-5-36-17(19)20-7/h5,10,14,22H,3-4H2,1-2H3,(H2,19,20)(H,21,27)(H,24,29)(H,30,31)(H,32,33)/b25-9-/t10-,14+/m0/s1
+NZV InChIKey         InChI                1.03  DQDUICUGMZVNPK-KQSJCSLWSA-N
+NZV SMILES_CANONICAL CACTVS               3.385 CO\N=C(/C(=O)N[C@@H]([C@@H]1NC(=C(CS1)CSC2=NC(=O)C(=O)NN2C)C(O)=O)C(O)=O)c3csc(N)n3
+NZV SMILES           CACTVS               3.385 CON=C(C(=O)N[CH]([CH]1NC(=C(CS1)CSC2=NC(=O)C(=O)NN2C)C(O)=O)C(O)=O)c3csc(N)n3
+NZV SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 CN1C(=NC(=O)C(=O)N1)SCC2=C(N[C@H](SC2)[C@@H](C(=O)O)NC(=O)/C(=N\OC)/c3csc(n3)N)C(=O)O
+NZV SMILES           "OpenEye OEToolkits" 2.0.7 CN1C(=NC(=O)C(=O)N1)SCC2=C(NC(SC2)C(C(=O)O)NC(=O)C(=NOC)c3csc(n3)N)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-NZV acedrg               243         "dictionary generator"                  
-NZV acedrg_database      11          "data source"                           
-NZV rdkit                2017.03.2   "Chemoinformatics tool"
-NZV refmac5              5.8.0238    "optimization tool"                     
+NZV acedrg          243       "dictionary generator"
+NZV acedrg_database 11        "data source"
+NZV rdkit           2017.03.2 "Chemoinformatics tool"
+NZV refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+NZV M-peptide CAK CN
+NZV M-peptide O1  OXT
+NZV M-peptide H7  H

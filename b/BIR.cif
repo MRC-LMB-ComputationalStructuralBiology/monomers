@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-BIR     BIR      "N-[3-[(1-AMINOETHYL)(HYDROXY)PHOSPHORYL]-2-(1,1'-BIPHENYL-4-YLMETHYL)PROPANOYL]ALANINE"     NON-POLYMER     55     29     .     
-#
+BIR BIR "N-[3-[(1-AMINOETHYL)(HYDROXY)PHOSPHORYL]-2-(1,1'-BIPHENYL-4-YLMETHYL)PROPANOYL]ALANINE" NON-POLYMER 55 29 .
+
 data_comp_BIR
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,61 +19,62 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-BIR     C3      C       CH3     0       27.137      41.597      29.485      
-BIR     C2      C       CH1     0       27.091      42.680      30.565      
-BIR     N1      N       NT2     0       26.581      43.943      30.003      
-BIR     P4      P       P       0       28.719      42.920      31.369      
-BIR     O6      O       O       0       29.292      41.608      31.771      
-BIR     O5      O       OH1     0       29.616      43.620      30.306      
-BIR     C7      C       CH2     0       28.581      44.084      32.758      
-BIR     C8      C       CH1     0       29.928      44.487      33.368      
-BIR     C10     C       C       0       30.537      43.321      34.145      
-BIR     O23     O       O       0       31.558      42.774      33.730      
-BIR     N24     N       NH1     0       29.903      42.935      35.261      
-BIR     C25     C       CH1     0       30.372      41.855      36.118      
-BIR     C26     C       CH3     0       29.999      42.124      37.570      
-BIR     C27     C       C       0       29.802      40.494      35.680      
-BIR     O28     O       OC      -1      28.590      40.451      35.388      
-BIR     O29     O       O       0       30.588      39.526      35.648      
-BIR     C9      C       CH2     0       29.814      45.752      34.233      
-BIR     C11     C       CR6     0       31.112      46.173      34.881      
-BIR     C12     C       CR16    0       31.351      45.940      36.230      
-BIR     C13     C       CR16    0       32.545      46.322      36.827      
-BIR     C14     C       CR6     0       33.548      46.954      36.093      
-BIR     C15     C       CR16    0       33.307      47.185      34.738      
-BIR     C16     C       CR16    0       32.111      46.800      34.147      
-BIR     C17     C       CR6     0       34.827      47.363      36.728      
-BIR     C18     C       CR16    0       36.054      47.038      36.147      
-BIR     C19     C       CR16    0       37.250      47.419      36.743      
-BIR     C20     C       CR16    0       37.241      48.128      37.927      
-BIR     C21     C       CR16    0       36.039      48.458      38.519      
-BIR     C22     C       CR16    0       34.841      48.079      37.926      
-BIR     H31     H       H       0       28.048      41.283      29.373      
-BIR     H32     H       H       0       26.817      41.958      28.643      
-BIR     H33     H       H       0       26.572      40.854      29.749      
-BIR     H2      H       H       0       26.450      42.378      31.251      
-BIR     HN11    H       H       0       27.112      44.217      29.323      
-BIR     HN12    H       H       0       25.750      43.820      29.665      
-BIR     HO5     H       H       0       29.624      44.454      30.394      
-BIR     H71     H       H       0       28.022      43.677      33.450      
-BIR     H72     H       H       0       28.124      44.889      32.439      
-BIR     H8      H       H       0       30.535      44.699      32.625      
-BIR     H24     H       H       0       29.161      43.336      35.482      
-BIR     H25     H       H       0       31.368      41.808      36.060      
-BIR     H261    H       H       0       29.097      41.807      37.744      
-BIR     H262    H       H       0       30.043      43.080      37.745      
-BIR     H263    H       H       0       30.622      41.662      38.156      
-BIR     H91     H       H       0       29.145      45.601      34.933      
-BIR     H92     H       H       0       29.492      46.489      33.671      
-BIR     H12     H       H       0       30.690      45.514      36.750      
-BIR     H13     H       H       0       32.679      46.152      37.745      
-BIR     H15     H       H       0       33.967      47.610      34.216      
-BIR     H16     H       H       0       31.973      46.968      33.229      
-BIR     H18     H       H       0       36.070      46.552      35.337      
-BIR     H19     H       H       0       38.070      47.191      36.336      
-BIR     H20     H       H       0       38.055      48.386      38.330      
-BIR     H21     H       H       0       36.030      48.943      39.328      
-BIR     H22     H       H       0       34.022      48.310      38.338      
+BIR C3   C CH3  0  27.137 41.597 29.485
+BIR C2   C CH1  0  27.091 42.680 30.565
+BIR N1   N NT2  0  26.581 43.943 30.003
+BIR P4   P P    0  28.719 42.920 31.369
+BIR O6   O O    0  29.292 41.608 31.771
+BIR O5   O OH1  0  29.616 43.620 30.306
+BIR C7   C CH2  0  28.581 44.084 32.758
+BIR C8   C CH1  0  29.928 44.487 33.368
+BIR C10  C C    0  30.537 43.321 34.145
+BIR O23  O O    0  31.558 42.774 33.730
+BIR N24  N NH1  0  29.903 42.935 35.261
+BIR C25  C CH1  0  30.372 41.855 36.118
+BIR C26  C CH3  0  29.999 42.124 37.570
+BIR C27  C C    0  29.802 40.494 35.680
+BIR O28  O OC   -1 28.590 40.451 35.388
+BIR O29  O O    0  30.588 39.526 35.648
+BIR C9   C CH2  0  29.814 45.752 34.233
+BIR C11  C CR6  0  31.112 46.173 34.881
+BIR C12  C CR16 0  31.351 45.940 36.230
+BIR C13  C CR16 0  32.545 46.322 36.827
+BIR C14  C CR6  0  33.548 46.954 36.093
+BIR C15  C CR16 0  33.307 47.185 34.738
+BIR C16  C CR16 0  32.111 46.800 34.147
+BIR C17  C CR6  0  34.827 47.363 36.728
+BIR C18  C CR16 0  36.054 47.038 36.147
+BIR C19  C CR16 0  37.250 47.419 36.743
+BIR C20  C CR16 0  37.241 48.128 37.927
+BIR C21  C CR16 0  36.039 48.458 38.519
+BIR C22  C CR16 0  34.841 48.079 37.926
+BIR H31  H H    0  28.048 41.283 29.373
+BIR H32  H H    0  26.817 41.958 28.643
+BIR H33  H H    0  26.572 40.854 29.749
+BIR H2   H H    0  26.450 42.378 31.251
+BIR HN11 H H    0  27.112 44.217 29.323
+BIR HN12 H H    0  25.750 43.820 29.665
+BIR HO5  H H    0  29.624 44.454 30.394
+BIR H71  H H    0  28.022 43.677 33.450
+BIR H72  H H    0  28.124 44.889 32.439
+BIR H8   H H    0  30.535 44.699 32.625
+BIR H24  H H    0  29.161 43.336 35.482
+BIR H25  H H    0  31.368 41.808 36.060
+BIR H261 H H    0  29.097 41.807 37.744
+BIR H262 H H    0  30.043 43.080 37.745
+BIR H263 H H    0  30.622 41.662 38.156
+BIR H91  H H    0  29.145 45.601 34.933
+BIR H92  H H    0  29.492 46.489 33.671
+BIR H12  H H    0  30.690 45.514 36.750
+BIR H13  H H    0  32.679 46.152 37.745
+BIR H15  H H    0  33.967 47.610 34.216
+BIR H16  H H    0  31.973 46.968 33.229
+BIR H18  H H    0  36.070 46.552 35.337
+BIR H19  H H    0  38.070 47.191 36.336
+BIR H20  H H    0  38.055 48.386 38.330
+BIR H21  H H    0  36.030 48.943 39.328
+BIR H22  H H    0  34.022 48.310 38.338
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -86,62 +85,63 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-BIR          C3          C2      SINGLE       n     1.524  0.0163     1.524  0.0163
-BIR          C2          N1      SINGLE       n     1.473  0.0130     1.473  0.0130
-BIR          C2          P4      SINGLE       n     1.829  0.0200     1.829  0.0200
-BIR          P4          O6      DOUBLE       n     1.485  0.0198     1.485  0.0198
-BIR          P4          O5      SINGLE       n     1.557  0.0168     1.557  0.0168
-BIR          P4          C7      SINGLE       n     1.814  0.0200     1.814  0.0200
-BIR          C7          C8      SINGLE       n     1.530  0.0135     1.530  0.0135
-BIR          C8         C10      SINGLE       n     1.524  0.0100     1.524  0.0100
-BIR          C8          C9      SINGLE       n     1.534  0.0100     1.534  0.0100
-BIR         C10         O23      DOUBLE       n     1.229  0.0102     1.229  0.0102
-BIR         C10         N24      SINGLE       n     1.334  0.0100     1.334  0.0100
-BIR         N24         C25      SINGLE       n     1.453  0.0100     1.453  0.0100
-BIR         C25         C26      SINGLE       n     1.522  0.0106     1.522  0.0106
-BIR         C25         C27      SINGLE       n     1.539  0.0100     1.539  0.0100
-BIR         C27         O28      SINGLE       n     1.247  0.0187     1.247  0.0187
-BIR         C27         O29      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BIR          C9         C11      SINGLE       n     1.509  0.0100     1.509  0.0100
-BIR         C11         C12      DOUBLE       y     1.385  0.0110     1.385  0.0110
-BIR         C11         C16      SINGLE       y     1.385  0.0110     1.385  0.0110
-BIR         C12         C13      SINGLE       y     1.385  0.0100     1.385  0.0100
-BIR         C13         C14      DOUBLE       y     1.391  0.0104     1.391  0.0104
-BIR         C14         C15      SINGLE       y     1.391  0.0104     1.391  0.0104
-BIR         C14         C17      SINGLE       n     1.486  0.0100     1.486  0.0100
-BIR         C15         C16      DOUBLE       y     1.385  0.0100     1.385  0.0100
-BIR         C17         C18      DOUBLE       y     1.392  0.0100     1.392  0.0100
-BIR         C17         C22      SINGLE       y     1.392  0.0100     1.392  0.0100
-BIR         C18         C19      SINGLE       y     1.386  0.0100     1.386  0.0100
-BIR         C19         C20      DOUBLE       y     1.376  0.0114     1.376  0.0114
-BIR         C20         C21      SINGLE       y     1.376  0.0124     1.376  0.0124
-BIR         C21         C22      DOUBLE       y     1.386  0.0100     1.386  0.0100
-BIR          C3         H31      SINGLE       n     1.089  0.0100     0.970  0.0110
-BIR          C3         H32      SINGLE       n     1.089  0.0100     0.970  0.0110
-BIR          C3         H33      SINGLE       n     1.089  0.0100     0.970  0.0110
-BIR          C2          H2      SINGLE       n     1.089  0.0100     0.986  0.0200
-BIR          N1        HN11      SINGLE       n     1.036  0.0160     0.905  0.0200
-BIR          N1        HN12      SINGLE       n     1.036  0.0160     0.905  0.0200
-BIR          O5         HO5      SINGLE       n     0.970  0.0120     0.839  0.0200
-BIR          C7         H71      SINGLE       n     1.089  0.0100     0.979  0.0200
-BIR          C7         H72      SINGLE       n     1.089  0.0100     0.979  0.0200
-BIR          C8          H8      SINGLE       n     1.089  0.0100     0.982  0.0200
-BIR         N24         H24      SINGLE       n     1.016  0.0100     0.873  0.0200
-BIR         C25         H25      SINGLE       n     1.089  0.0100     0.998  0.0200
-BIR         C26        H261      SINGLE       n     1.089  0.0100     0.972  0.0152
-BIR         C26        H262      SINGLE       n     1.089  0.0100     0.972  0.0152
-BIR         C26        H263      SINGLE       n     1.089  0.0100     0.972  0.0152
-BIR          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0169
-BIR          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0169
-BIR         C12         H12      SINGLE       n     1.082  0.0130     0.943  0.0173
-BIR         C13         H13      SINGLE       n     1.082  0.0130     0.943  0.0170
-BIR         C15         H15      SINGLE       n     1.082  0.0130     0.943  0.0170
-BIR         C16         H16      SINGLE       n     1.082  0.0130     0.943  0.0173
-BIR         C18         H18      SINGLE       n     1.082  0.0130     0.945  0.0170
-BIR         C19         H19      SINGLE       n     1.082  0.0130     0.943  0.0180
-BIR         C20         H20      SINGLE       n     1.082  0.0130     0.944  0.0161
-BIR         C21         H21      SINGLE       n     1.082  0.0130     0.943  0.0180
-BIR         C22         H22      SINGLE       n     1.082  0.0130     0.945  0.0170
+BIR C3  C2   SINGLE n 1.524 0.0163 1.524 0.0163
+BIR C2  N1   SINGLE n 1.473 0.0130 1.473 0.0130
+BIR C2  P4   SINGLE n 1.829 0.0200 1.829 0.0200
+BIR P4  O6   DOUBLE n 1.485 0.0198 1.485 0.0198
+BIR P4  O5   SINGLE n 1.557 0.0168 1.557 0.0168
+BIR P4  C7   SINGLE n 1.814 0.0200 1.814 0.0200
+BIR C7  C8   SINGLE n 1.530 0.0135 1.530 0.0135
+BIR C8  C10  SINGLE n 1.524 0.0100 1.524 0.0100
+BIR C8  C9   SINGLE n 1.534 0.0100 1.534 0.0100
+BIR C10 O23  DOUBLE n 1.229 0.0102 1.229 0.0102
+BIR C10 N24  SINGLE n 1.334 0.0100 1.334 0.0100
+BIR N24 C25  SINGLE n 1.453 0.0100 1.453 0.0100
+BIR C25 C26  SINGLE n 1.522 0.0106 1.522 0.0106
+BIR C25 C27  SINGLE n 1.539 0.0100 1.539 0.0100
+BIR C27 O28  SINGLE n 1.247 0.0187 1.247 0.0187
+BIR C27 O29  DOUBLE n 1.247 0.0187 1.247 0.0187
+BIR C9  C11  SINGLE n 1.509 0.0100 1.509 0.0100
+BIR C11 C12  DOUBLE y 1.385 0.0110 1.385 0.0110
+BIR C11 C16  SINGLE y 1.385 0.0110 1.385 0.0110
+BIR C12 C13  SINGLE y 1.385 0.0100 1.385 0.0100
+BIR C13 C14  DOUBLE y 1.391 0.0104 1.391 0.0104
+BIR C14 C15  SINGLE y 1.391 0.0104 1.391 0.0104
+BIR C14 C17  SINGLE n 1.486 0.0100 1.486 0.0100
+BIR C15 C16  DOUBLE y 1.385 0.0100 1.385 0.0100
+BIR C17 C18  DOUBLE y 1.392 0.0100 1.392 0.0100
+BIR C17 C22  SINGLE y 1.392 0.0100 1.392 0.0100
+BIR C18 C19  SINGLE y 1.386 0.0100 1.386 0.0100
+BIR C19 C20  DOUBLE y 1.376 0.0114 1.376 0.0114
+BIR C20 C21  SINGLE y 1.376 0.0124 1.376 0.0124
+BIR C21 C22  DOUBLE y 1.386 0.0100 1.386 0.0100
+BIR C3  H31  SINGLE n 1.089 0.0100 0.970 0.0110
+BIR C3  H32  SINGLE n 1.089 0.0100 0.970 0.0110
+BIR C3  H33  SINGLE n 1.089 0.0100 0.970 0.0110
+BIR C2  H2   SINGLE n 1.089 0.0100 0.986 0.0200
+BIR N1  HN11 SINGLE n 1.036 0.0160 0.905 0.0200
+BIR N1  HN12 SINGLE n 1.036 0.0160 0.905 0.0200
+BIR O5  HO5  SINGLE n 0.970 0.0120 0.839 0.0200
+BIR C7  H71  SINGLE n 1.089 0.0100 0.979 0.0200
+BIR C7  H72  SINGLE n 1.089 0.0100 0.979 0.0200
+BIR C8  H8   SINGLE n 1.089 0.0100 0.982 0.0200
+BIR N24 H24  SINGLE n 1.016 0.0100 0.873 0.0200
+BIR C25 H25  SINGLE n 1.089 0.0100 0.998 0.0200
+BIR C26 H261 SINGLE n 1.089 0.0100 0.972 0.0152
+BIR C26 H262 SINGLE n 1.089 0.0100 0.972 0.0152
+BIR C26 H263 SINGLE n 1.089 0.0100 0.972 0.0152
+BIR C9  H91  SINGLE n 1.089 0.0100 0.981 0.0169
+BIR C9  H92  SINGLE n 1.089 0.0100 0.981 0.0169
+BIR C12 H12  SINGLE n 1.082 0.0130 0.943 0.0173
+BIR C13 H13  SINGLE n 1.082 0.0130 0.943 0.0170
+BIR C15 H15  SINGLE n 1.082 0.0130 0.943 0.0170
+BIR C16 H16  SINGLE n 1.082 0.0130 0.943 0.0173
+BIR C18 H18  SINGLE n 1.082 0.0130 0.945 0.0170
+BIR C19 H19  SINGLE n 1.082 0.0130 0.943 0.0180
+BIR C20 H20  SINGLE n 1.082 0.0130 0.944 0.0161
+BIR C21 H21  SINGLE n 1.082 0.0130 0.943 0.0180
+BIR C22 H22  SINGLE n 1.082 0.0130 0.945 0.0170
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -149,103 +149,104 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-BIR          C2          C3         H31     109.550    1.50
-BIR          C2          C3         H32     109.550    1.50
-BIR          C2          C3         H33     109.550    1.50
-BIR         H31          C3         H32     109.500    1.50
-BIR         H31          C3         H33     109.500    1.50
-BIR         H32          C3         H33     109.500    1.50
-BIR          C3          C2          N1     109.538    2.08
-BIR          C3          C2          P4     111.410    2.87
-BIR          C3          C2          H2     107.425    1.50
-BIR          N1          C2          P4     112.238    3.00
-BIR          N1          C2          H2     107.944    1.55
-BIR          P4          C2          H2     108.528    1.50
-BIR          C2          N1        HN11     109.715    3.00
-BIR          C2          N1        HN12     109.715    3.00
-BIR        HN11          N1        HN12     107.163    3.00
-BIR          C2          P4          O6     110.326    3.00
-BIR          C2          P4          O5     105.177    2.72
-BIR          C2          P4          C7     109.194    3.00
-BIR          O6          P4          O5     110.226    3.00
-BIR          O6          P4          C7     110.326    3.00
-BIR          O5          P4          C7     105.177    2.72
-BIR          P4          O5         HO5     112.398    3.00
-BIR          P4          C7          C8     111.410    2.87
-BIR          P4          C7         H71     107.633    1.97
-BIR          P4          C7         H72     107.633    1.97
-BIR          C8          C7         H71     108.507    1.50
-BIR          C8          C7         H72     108.507    1.50
-BIR         H71          C7         H72     107.498    1.50
-BIR          C7          C8         C10     110.780    2.19
-BIR          C7          C8          C9     112.320    1.68
-BIR          C7          C8          H8     108.236    1.50
-BIR         C10          C8          C9     110.476    1.81
-BIR         C10          C8          H8     108.369    1.50
-BIR          C9          C8          H8     107.967    1.50
-BIR          C8         C10         O23     121.196    1.75
-BIR          C8         C10         N24     116.228    1.50
-BIR         O23         C10         N24     122.576    1.50
-BIR         C10         N24         C25     121.871    1.76
-BIR         C10         N24         H24     118.782    2.34
-BIR         C25         N24         H24     119.347    2.18
-BIR         N24         C25         C26     110.599    1.50
-BIR         N24         C25         C27     111.925    2.31
-BIR         N24         C25         H25     108.173    1.50
-BIR         C26         C25         C27     109.294    1.70
-BIR         C26         C25         H25     108.430    1.50
-BIR         C27         C25         H25     108.101    1.50
-BIR         C25         C26        H261     109.550    1.50
-BIR         C25         C26        H262     109.550    1.50
-BIR         C25         C26        H263     109.550    1.50
-BIR        H261         C26        H262     109.386    1.50
-BIR        H261         C26        H263     109.386    1.50
-BIR        H262         C26        H263     109.386    1.50
-BIR         C25         C27         O28     117.260    2.00
-BIR         C25         C27         O29     117.260    2.00
-BIR         O28         C27         O29     125.481    1.50
-BIR          C8          C9         C11     113.495    1.50
-BIR          C8          C9         H91     108.879    1.50
-BIR          C8          C9         H92     108.879    1.50
-BIR         C11          C9         H91     108.738    1.50
-BIR         C11          C9         H92     108.738    1.50
-BIR         H91          C9         H92     107.709    1.50
-BIR          C9         C11         C12     121.150    1.50
-BIR          C9         C11         C16     121.150    1.50
-BIR         C12         C11         C16     117.699    1.50
-BIR         C11         C12         C13     121.286    1.50
-BIR         C11         C12         H12     119.324    1.50
-BIR         C13         C12         H12     119.389    1.50
-BIR         C12         C13         C14     121.077    1.50
-BIR         C12         C13         H13     119.454    1.50
-BIR         C14         C13         H13     119.469    1.50
-BIR         C13         C14         C15     117.575    1.50
-BIR         C13         C14         C17     121.213    1.50
-BIR         C15         C14         C17     121.213    1.50
-BIR         C14         C15         C16     121.077    1.50
-BIR         C14         C15         H15     119.469    1.50
-BIR         C16         C15         H15     119.454    1.50
-BIR         C11         C16         C15     121.286    1.50
-BIR         C11         C16         H16     119.324    1.50
-BIR         C15         C16         H16     119.389    1.50
-BIR         C14         C17         C18     121.096    1.50
-BIR         C14         C17         C22     121.096    1.50
-BIR         C18         C17         C22     117.808    1.50
-BIR         C17         C18         C19     120.887    1.50
-BIR         C17         C18         H18     119.477    1.50
-BIR         C19         C18         H18     119.636    1.50
-BIR         C18         C19         C20     120.251    1.50
-BIR         C18         C19         H19     119.823    1.50
-BIR         C20         C19         H19     119.926    1.50
-BIR         C19         C20         C21     119.915    1.50
-BIR         C19         C20         H20     120.043    1.50
-BIR         C21         C20         H20     120.043    1.50
-BIR         C20         C21         C22     120.251    1.50
-BIR         C20         C21         H21     119.926    1.50
-BIR         C22         C21         H21     119.823    1.50
-BIR         C17         C22         C21     120.887    1.50
-BIR         C17         C22         H22     119.477    1.50
-BIR         C21         C22         H22     119.636    1.50
+BIR C2   C3  H31  109.550 1.50
+BIR C2   C3  H32  109.550 1.50
+BIR C2   C3  H33  109.550 1.50
+BIR H31  C3  H32  109.500 1.50
+BIR H31  C3  H33  109.500 1.50
+BIR H32  C3  H33  109.500 1.50
+BIR C3   C2  N1   109.538 2.08
+BIR C3   C2  P4   111.410 2.87
+BIR C3   C2  H2   107.425 1.50
+BIR N1   C2  P4   112.238 3.00
+BIR N1   C2  H2   107.944 1.55
+BIR P4   C2  H2   108.528 1.50
+BIR C2   N1  HN11 109.715 3.00
+BIR C2   N1  HN12 109.715 3.00
+BIR HN11 N1  HN12 107.163 3.00
+BIR C2   P4  O6   110.326 3.00
+BIR C2   P4  O5   105.177 2.72
+BIR C2   P4  C7   109.194 3.00
+BIR O6   P4  O5   110.226 3.00
+BIR O6   P4  C7   110.326 3.00
+BIR O5   P4  C7   105.177 2.72
+BIR P4   O5  HO5  112.398 3.00
+BIR P4   C7  C8   111.410 2.87
+BIR P4   C7  H71  107.633 1.97
+BIR P4   C7  H72  107.633 1.97
+BIR C8   C7  H71  108.507 1.50
+BIR C8   C7  H72  108.507 1.50
+BIR H71  C7  H72  107.498 1.50
+BIR C7   C8  C10  110.780 2.19
+BIR C7   C8  C9   112.320 1.68
+BIR C7   C8  H8   108.236 1.50
+BIR C10  C8  C9   110.476 1.81
+BIR C10  C8  H8   108.369 1.50
+BIR C9   C8  H8   107.967 1.50
+BIR C8   C10 O23  121.196 1.75
+BIR C8   C10 N24  116.228 1.50
+BIR O23  C10 N24  122.576 1.50
+BIR C10  N24 C25  121.871 1.76
+BIR C10  N24 H24  118.782 2.34
+BIR C25  N24 H24  119.347 2.18
+BIR N24  C25 C26  110.599 1.50
+BIR N24  C25 C27  111.925 2.31
+BIR N24  C25 H25  108.173 1.50
+BIR C26  C25 C27  109.294 1.70
+BIR C26  C25 H25  108.430 1.50
+BIR C27  C25 H25  108.101 1.50
+BIR C25  C26 H261 109.550 1.50
+BIR C25  C26 H262 109.550 1.50
+BIR C25  C26 H263 109.550 1.50
+BIR H261 C26 H262 109.386 1.50
+BIR H261 C26 H263 109.386 1.50
+BIR H262 C26 H263 109.386 1.50
+BIR C25  C27 O28  117.260 2.00
+BIR C25  C27 O29  117.260 2.00
+BIR O28  C27 O29  125.481 1.50
+BIR C8   C9  C11  113.495 1.50
+BIR C8   C9  H91  108.879 1.50
+BIR C8   C9  H92  108.879 1.50
+BIR C11  C9  H91  108.738 1.50
+BIR C11  C9  H92  108.738 1.50
+BIR H91  C9  H92  107.709 1.50
+BIR C9   C11 C12  121.150 1.50
+BIR C9   C11 C16  121.150 1.50
+BIR C12  C11 C16  117.699 1.50
+BIR C11  C12 C13  121.286 1.50
+BIR C11  C12 H12  119.324 1.50
+BIR C13  C12 H12  119.389 1.50
+BIR C12  C13 C14  121.077 1.50
+BIR C12  C13 H13  119.454 1.50
+BIR C14  C13 H13  119.469 1.50
+BIR C13  C14 C15  117.575 1.50
+BIR C13  C14 C17  121.213 1.50
+BIR C15  C14 C17  121.213 1.50
+BIR C14  C15 C16  121.077 1.50
+BIR C14  C15 H15  119.469 1.50
+BIR C16  C15 H15  119.454 1.50
+BIR C11  C16 C15  121.286 1.50
+BIR C11  C16 H16  119.324 1.50
+BIR C15  C16 H16  119.389 1.50
+BIR C14  C17 C18  121.096 1.50
+BIR C14  C17 C22  121.096 1.50
+BIR C18  C17 C22  117.808 1.50
+BIR C17  C18 C19  120.887 1.50
+BIR C17  C18 H18  119.477 1.50
+BIR C19  C18 H18  119.636 1.50
+BIR C18  C19 C20  120.251 1.50
+BIR C18  C19 H19  119.823 1.50
+BIR C20  C19 H19  119.926 1.50
+BIR C19  C20 C21  119.915 1.50
+BIR C19  C20 H20  120.043 1.50
+BIR C21  C20 H20  120.043 1.50
+BIR C20  C21 C22  120.251 1.50
+BIR C20  C21 H21  119.926 1.50
+BIR C22  C21 H21  119.823 1.50
+BIR C17  C22 C21  120.887 1.50
+BIR C17  C22 H22  119.477 1.50
+BIR C21  C22 H22  119.636 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -256,32 +257,33 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-BIR             sp3_sp3_1          N1          C2          C3         H31     180.000    10.0     3
-BIR             sp2_sp3_7         C10         N24         C25         C26       0.000    10.0     6
-BIR            sp3_sp3_55         N24         C25         C26        H261     180.000    10.0     3
-BIR            sp2_sp3_13         O28         C27         C25         N24       0.000    10.0     6
-BIR            sp2_sp3_20         C12         C11          C9          C8     -90.000    10.0     6
-BIR       const_sp2_sp2_3          C9         C11         C12         C13     180.000     5.0     2
-BIR              const_43          C9         C11         C16         C15     180.000    10.0     2
-BIR       const_sp2_sp2_5         C11         C12         C13         C14       0.000     5.0     2
-BIR       const_sp2_sp2_9         C12         C13         C14         C15       0.000     5.0     2
-BIR            sp3_sp3_10          C3          C2          N1        HN11     180.000    10.0     3
-BIR            sp3_sp3_16          C3          C2          P4          O6     180.000    10.0     3
-BIR              const_13         C13         C14         C15         C16       0.000    10.0     2
-BIR             sp2_sp2_5         C13         C14         C17         C18     180.000     5.0     2
-BIR              const_17         C14         C15         C16         C11       0.000    10.0     2
-BIR              const_23         C14         C17         C18         C19     180.000    10.0     2
-BIR              const_47         C14         C17         C22         C21     180.000    10.0     2
-BIR              const_25         C17         C18         C19         C20       0.000    10.0     2
-BIR              const_29         C18         C19         C20         C21       0.000    10.0     2
-BIR              const_33         C19         C20         C21         C22       0.000    10.0     2
-BIR              const_37         C20         C21         C22         C17       0.000    10.0     2
-BIR            sp3_sp3_25         HO5          O5          P4          C2     180.000    10.0     3
-BIR            sp3_sp3_28          C8          C7          P4          C2     180.000    10.0     3
-BIR            sp3_sp3_37          P4          C7          C8         C10     180.000    10.0     3
-BIR            sp3_sp3_46          C7          C8          C9         C11     180.000    10.0     3
-BIR             sp2_sp3_1         O23         C10          C8          C7       0.000    10.0     6
-BIR             sp2_sp2_1          C8         C10         N24         C25     180.000     5.0     2
+BIR sp3_sp3_1       N1  C2  C3  H31  180.000 10.0 3
+BIR sp2_sp3_7       C10 N24 C25 C26  0.000   10.0 6
+BIR sp3_sp3_55      N24 C25 C26 H261 180.000 10.0 3
+BIR sp2_sp3_13      O28 C27 C25 N24  0.000   10.0 6
+BIR sp2_sp3_20      C12 C11 C9  C8   -90.000 10.0 6
+BIR const_sp2_sp2_3 C9  C11 C12 C13  180.000 5.0  2
+BIR const_43        C9  C11 C16 C15  180.000 10.0 2
+BIR const_sp2_sp2_5 C11 C12 C13 C14  0.000   5.0  2
+BIR const_sp2_sp2_9 C12 C13 C14 C15  0.000   5.0  2
+BIR sp3_sp3_10      C3  C2  N1  HN11 180.000 10.0 3
+BIR sp3_sp3_16      C3  C2  P4  O6   180.000 10.0 3
+BIR const_13        C13 C14 C15 C16  0.000   10.0 2
+BIR sp2_sp2_5       C13 C14 C17 C18  180.000 5.0  2
+BIR const_17        C14 C15 C16 C11  0.000   10.0 2
+BIR const_23        C14 C17 C18 C19  180.000 10.0 2
+BIR const_47        C14 C17 C22 C21  180.000 10.0 2
+BIR const_25        C17 C18 C19 C20  0.000   10.0 2
+BIR const_29        C18 C19 C20 C21  0.000   10.0 2
+BIR const_33        C19 C20 C21 C22  0.000   10.0 2
+BIR const_37        C20 C21 C22 C17  0.000   10.0 2
+BIR sp3_sp3_25      HO5 O5  P4  C2   180.000 10.0 3
+BIR sp3_sp3_28      C8  C7  P4  C2   180.000 10.0 3
+BIR sp3_sp3_37      P4  C7  C8  C10  180.000 10.0 3
+BIR sp3_sp3_46      C7  C8  C9  C11  180.000 10.0 3
+BIR sp2_sp3_1       O23 C10 C8  C7   0.000   10.0 6
+BIR sp2_sp2_1       C8  C10 N24 C25  180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -290,70 +292,86 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-BIR    chir_1    C2    P4    N1    C3    negative
-BIR    chir_2    P4    O5    O6    C2    positive
-BIR    chir_3    C8    C7    C10    C9    positive
-BIR    chir_4    C25    N24    C27    C26    positive
+BIR chir_1 C2  P4  N1  C3  negative
+BIR chir_2 P4  O5  O6  C2  positive
+BIR chir_3 C8  C7  C10 C9  positive
+BIR chir_4 C25 N24 C27 C26 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-BIR    plan-1         C11   0.020
-BIR    plan-1         C12   0.020
-BIR    plan-1         C13   0.020
-BIR    plan-1         C14   0.020
-BIR    plan-1         C15   0.020
-BIR    plan-1         C16   0.020
-BIR    plan-1         C17   0.020
-BIR    plan-1          C9   0.020
-BIR    plan-1         H12   0.020
-BIR    plan-1         H13   0.020
-BIR    plan-1         H15   0.020
-BIR    plan-1         H16   0.020
-BIR    plan-2         C14   0.020
-BIR    plan-2         C17   0.020
-BIR    plan-2         C18   0.020
-BIR    plan-2         C19   0.020
-BIR    plan-2         C20   0.020
-BIR    plan-2         C21   0.020
-BIR    plan-2         C22   0.020
-BIR    plan-2         H18   0.020
-BIR    plan-2         H19   0.020
-BIR    plan-2         H20   0.020
-BIR    plan-2         H21   0.020
-BIR    plan-2         H22   0.020
-BIR    plan-3         C10   0.020
-BIR    plan-3          C8   0.020
-BIR    plan-3         N24   0.020
-BIR    plan-3         O23   0.020
-BIR    plan-4         C10   0.020
-BIR    plan-4         C25   0.020
-BIR    plan-4         H24   0.020
-BIR    plan-4         N24   0.020
-BIR    plan-5         C25   0.020
-BIR    plan-5         C27   0.020
-BIR    plan-5         O28   0.020
-BIR    plan-5         O29   0.020
+BIR plan-1 C11 0.020
+BIR plan-1 C12 0.020
+BIR plan-1 C13 0.020
+BIR plan-1 C14 0.020
+BIR plan-1 C15 0.020
+BIR plan-1 C16 0.020
+BIR plan-1 C17 0.020
+BIR plan-1 C9  0.020
+BIR plan-1 H12 0.020
+BIR plan-1 H13 0.020
+BIR plan-1 H15 0.020
+BIR plan-1 H16 0.020
+BIR plan-2 C14 0.020
+BIR plan-2 C17 0.020
+BIR plan-2 C18 0.020
+BIR plan-2 C19 0.020
+BIR plan-2 C20 0.020
+BIR plan-2 C21 0.020
+BIR plan-2 C22 0.020
+BIR plan-2 H18 0.020
+BIR plan-2 H19 0.020
+BIR plan-2 H20 0.020
+BIR plan-2 H21 0.020
+BIR plan-2 H22 0.020
+BIR plan-3 C10 0.020
+BIR plan-3 C8  0.020
+BIR plan-3 N24 0.020
+BIR plan-3 O23 0.020
+BIR plan-4 C10 0.020
+BIR plan-4 C25 0.020
+BIR plan-4 H24 0.020
+BIR plan-4 N24 0.020
+BIR plan-5 C25 0.020
+BIR plan-5 C27 0.020
+BIR plan-5 O28 0.020
+BIR plan-5 O29 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-BIR           SMILES              ACDLabs 10.04                                                                                                                                      O=C(O)C(NC(=O)C(CP(=O)(O)C(N)C)Cc1ccc(cc1)c2ccccc2)C
-BIR SMILES_CANONICAL               CACTVS 3.341                                                                                                                     C[C@H](N)[P@](O)(=O)C[C@@H](Cc1ccc(cc1)c2ccccc2)C(=O)N[C@@H](C)C(O)=O
-BIR           SMILES               CACTVS 3.341                                                                                                                           C[CH](N)[P](O)(=O)C[CH](Cc1ccc(cc1)c2ccccc2)C(=O)N[CH](C)C(O)=O
-BIR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                     C[C@@H](C(=O)O)NC(=O)[C@H](Cc1ccc(cc1)c2ccccc2)C[P@@](=O)([C@H](C)N)O
-BIR           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                      CC(C(=O)O)NC(=O)C(Cc1ccc(cc1)c2ccccc2)CP(=O)(C(C)N)O
-BIR            InChI                InChI  1.03 InChI=1S/C21H27N2O5P/c1-14(21(25)26)23-20(24)19(13-29(27,28)15(2)22)12-16-8-10-18(11-9-16)17-6-4-3-5-7-17/h3-11,14-15,19H,12-13,22H2,1-2H3,(H,23,24)(H,25,26)(H,27,28)/t14-,15+,19+/m0/s1
-BIR         InChIKey                InChI  1.03                                                                                                                                                               CWJPVKSBGVPXRD-QMTMVMCOSA-N
+BIR SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)C(CP(=O)(O)C(N)C)Cc1ccc(cc1)c2ccccc2)C
+BIR SMILES_CANONICAL CACTVS               3.341 C[C@H](N)[P@](O)(=O)C[C@@H](Cc1ccc(cc1)c2ccccc2)C(=O)N[C@@H](C)C(O)=O
+BIR SMILES           CACTVS               3.341 C[CH](N)[P](O)(=O)C[CH](Cc1ccc(cc1)c2ccccc2)C(=O)N[CH](C)C(O)=O
+BIR SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@@H](C(=O)O)NC(=O)[C@H](Cc1ccc(cc1)c2ccccc2)C[P@@](=O)([C@H](C)N)O
+BIR SMILES           "OpenEye OEToolkits" 1.5.0 CC(C(=O)O)NC(=O)C(Cc1ccc(cc1)c2ccccc2)CP(=O)(C(C)N)O
+BIR InChI            InChI                1.03  InChI=1S/C21H27N2O5P/c1-14(21(25)26)23-20(24)19(13-29(27,28)15(2)22)12-16-8-10-18(11-9-16)17-6-4-3-5-7-17/h3-11,14-15,19H,12-13,22H2,1-2H3,(H,23,24)(H,25,26)(H,27,28)/t14-,15+,19+/m0/s1
+BIR InChIKey         InChI                1.03  CWJPVKSBGVPXRD-QMTMVMCOSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-BIR acedrg               243         "dictionary generator"                  
-BIR acedrg_database      11          "data source"                           
-BIR rdkit                2017.03.2   "Chemoinformatics tool"
-BIR refmac5              5.8.0238    "optimization tool"                     
+BIR acedrg          243       "dictionary generator"
+BIR acedrg_database 11        "data source"
+BIR rdkit           2017.03.2 "Chemoinformatics tool"
+BIR refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+BIR M-peptide O29 O
+BIR M-peptide C27 C
+BIR M-peptide C25 CA
+BIR M-peptide N24 N
+BIR M-peptide C10 CN
+BIR M-peptide O28 OXT
+BIR M-peptide H24 H

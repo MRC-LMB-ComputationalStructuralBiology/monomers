@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-YPP     YPP      "Hydrolyzed piperacillin"     NON-POLYMER     64     37     .     
-#
+YPP YPP "Hydrolyzed piperacillin" NON-POLYMER 64 37 .
+
 data_comp_YPP
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,70 +19,71 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-YPP     C       C       C       0       -4.467      -16.122     14.352      
-YPP     N       N       NH1     0       -6.277      -16.629     12.776      
-YPP     O       O       O       0       -4.397      -15.748     15.541      
-YPP     CA      C       CH1     0       -5.601      -17.094     13.981      
-YPP     CB      C       CH1     0       -5.065      -18.528     13.806      
-YPP     NAE     N       NT1     0       -4.261      -18.669     12.577      
-YPP     CAG     C       CH1     0       -4.984      -19.272     11.439      
-YPP     CAH     C       CT      0       -5.761      -20.453     12.079      
-YPP     SAI     S       S2      0       -6.429      -19.736     13.647      
-YPP     CAJ     C       C       0       -4.032      -19.702     10.308      
-YPP     OAK     O       O       0       -2.889      -20.005     10.613      
-YPP     OAL     O       OC      -1      -4.492      -19.708     9.180       
-YPP     CAM     C       CH3     0       -6.930      -20.900     11.218      
-YPP     CAN     C       CH3     0       -4.900      -21.652     12.444      
-YPP     CAP     C       C       0       -7.606      -16.520     12.653      
-YPP     OAQ     O       O       0       -8.408      -16.856     13.519      
-YPP     CAR     C       CH1     0       -8.105      -15.920     11.319      
-YPP     CAS     C       CR6     0       -8.406      -17.041     10.336      
-YPP     CAT     C       CR16    0       -7.550      -17.311     9.275       
-YPP     CAU     C       CR16    0       -7.832      -18.336     8.380       
-YPP     CAV     C       CR16    0       -8.972      -19.099     8.536       
-YPP     CAW     C       CR16    0       -9.830      -18.841     9.584       
-YPP     CAX     C       CR16    0       -9.549      -17.817     10.480      
-YPP     NAY     N       NH1     0       -9.265      -15.056     11.554      
-YPP     CAZ     C       C       0       -9.689      -14.129     10.651      
-YPP     OBA     O       O       0       -9.052      -13.894     9.621       
-YPP     NBB     N       NR6     0       -10.944     -13.488     10.842      
-YPP     CBC     C       CH2     0       -11.222     -12.228     10.073      
-YPP     CBD     C       CH2     0       -12.158     -11.313     10.834      
-YPP     NBE     N       NR6     0       -13.314     -12.032     11.392      
-YPP     CBF     C       CR6     0       -13.228     -13.305     11.835      
-YPP     OBG     O       O       0       -14.142     -13.877     12.425      
-YPP     CBH     C       CR6     0       -11.981     -14.032     11.617      
-YPP     OBI     O       O       0       -11.884     -15.160     12.132      
-YPP     CBJ     C       CH2     0       -14.580     -11.282     11.515      
-YPP     CBK     C       CH3     0       -14.810     -10.748     12.906      
-YPP     OXT     O       OC      -1      -3.691      -15.774     13.440      
-YPP     HN      H       H       0       -5.778      -16.422     12.090      
-YPP     HA      H       H       0       -6.250      -17.090     14.727      
-YPP     HB      H       H       0       -4.517      -18.747     14.597      
-YPP     HNAE    H       H       0       -3.474      -19.073     12.698      
-YPP     HAG     H       H       0       -5.623      -18.605     11.083      
-YPP     HAM     H       H       0       -7.658      -20.262     11.300      
-YPP     HAMA    H       H       0       -7.235      -21.776     11.511      
-YPP     HAMB    H       H       0       -6.650      -20.950     10.290      
-YPP     HAN     H       H       0       -5.367      -22.200     13.095      
-YPP     HANA    H       H       0       -4.060      -21.348     12.822      
-YPP     HANB    H       H       0       -4.724      -22.179     11.648      
-YPP     HAR     H       H       0       -7.376      -15.364     10.942      
-YPP     HAT     H       H       0       -6.768      -16.794     9.160       
-YPP     HAU     H       H       0       -7.243      -18.510     7.663       
-YPP     HAV     H       H       0       -9.163      -19.795     7.928       
-YPP     HAW     H       H       0       -10.610     -19.362     9.694       
-YPP     HAX     H       H       0       -10.142     -17.647     11.195      
-YPP     HNAY    H       H       0       -9.686      -15.121     12.312      
-YPP     HBC     H       H       0       -10.377     -11.753     9.903       
-YPP     HBCA    H       H       0       -11.623     -12.463     9.206       
-YPP     HBD     H       H       0       -12.470     -10.608     10.234      
-YPP     HBDA    H       H       0       -11.667     -10.889     11.567      
-YPP     HBJ     H       H       0       -15.328     -11.873     11.268      
-YPP     HBJA    H       H       0       -14.577     -10.531     10.881      
-YPP     HBK     H       H       0       -15.634     -10.242     12.925      
-YPP     HBKA    H       H       0       -14.074     -10.174     13.158      
-YPP     HBKB    H       H       0       -14.871     -11.485     13.529      
+YPP C    C C    0  -4.467  -16.122 14.352
+YPP N    N NH1  0  -6.277  -16.629 12.776
+YPP O    O O    0  -4.397  -15.748 15.541
+YPP CA   C CH1  0  -5.601  -17.094 13.981
+YPP CB   C CH1  0  -5.065  -18.528 13.806
+YPP NAE  N NT1  0  -4.261  -18.669 12.577
+YPP CAG  C CH1  0  -4.984  -19.272 11.439
+YPP CAH  C CT   0  -5.761  -20.453 12.079
+YPP SAI  S S2   0  -6.429  -19.736 13.647
+YPP CAJ  C C    0  -4.032  -19.702 10.308
+YPP OAK  O O    0  -2.889  -20.005 10.613
+YPP OAL  O OC   -1 -4.492  -19.708 9.180
+YPP CAM  C CH3  0  -6.930  -20.900 11.218
+YPP CAN  C CH3  0  -4.900  -21.652 12.444
+YPP CAP  C C    0  -7.606  -16.520 12.653
+YPP OAQ  O O    0  -8.408  -16.856 13.519
+YPP CAR  C CH1  0  -8.105  -15.920 11.319
+YPP CAS  C CR6  0  -8.406  -17.041 10.336
+YPP CAT  C CR16 0  -7.550  -17.311 9.275
+YPP CAU  C CR16 0  -7.832  -18.336 8.380
+YPP CAV  C CR16 0  -8.972  -19.099 8.536
+YPP CAW  C CR16 0  -9.830  -18.841 9.584
+YPP CAX  C CR16 0  -9.549  -17.817 10.480
+YPP NAY  N NH1  0  -9.265  -15.056 11.554
+YPP CAZ  C C    0  -9.689  -14.129 10.651
+YPP OBA  O O    0  -9.052  -13.894 9.621
+YPP NBB  N NR6  0  -10.944 -13.488 10.842
+YPP CBC  C CH2  0  -11.222 -12.228 10.073
+YPP CBD  C CH2  0  -12.158 -11.313 10.834
+YPP NBE  N NR6  0  -13.314 -12.032 11.392
+YPP CBF  C CR6  0  -13.228 -13.305 11.835
+YPP OBG  O O    0  -14.142 -13.877 12.425
+YPP CBH  C CR6  0  -11.981 -14.032 11.617
+YPP OBI  O O    0  -11.884 -15.160 12.132
+YPP CBJ  C CH2  0  -14.580 -11.282 11.515
+YPP CBK  C CH3  0  -14.810 -10.748 12.906
+YPP OXT  O OC   -1 -3.691  -15.774 13.440
+YPP HN   H H    0  -5.778  -16.422 12.090
+YPP HA   H H    0  -6.250  -17.090 14.727
+YPP HB   H H    0  -4.517  -18.747 14.597
+YPP HNAE H H    0  -3.474  -19.073 12.698
+YPP HAG  H H    0  -5.623  -18.605 11.083
+YPP HAM  H H    0  -7.658  -20.262 11.300
+YPP HAMA H H    0  -7.235  -21.776 11.511
+YPP HAMB H H    0  -6.650  -20.950 10.290
+YPP HAN  H H    0  -5.367  -22.200 13.095
+YPP HANA H H    0  -4.060  -21.348 12.822
+YPP HANB H H    0  -4.724  -22.179 11.648
+YPP HAR  H H    0  -7.376  -15.364 10.942
+YPP HAT  H H    0  -6.768  -16.794 9.160
+YPP HAU  H H    0  -7.243  -18.510 7.663
+YPP HAV  H H    0  -9.163  -19.795 7.928
+YPP HAW  H H    0  -10.610 -19.362 9.694
+YPP HAX  H H    0  -10.142 -17.647 11.195
+YPP HNAY H H    0  -9.686  -15.121 12.312
+YPP HBC  H H    0  -10.377 -11.753 9.903
+YPP HBCA H H    0  -11.623 -12.463 9.206
+YPP HBD  H H    0  -12.470 -10.608 10.234
+YPP HBDA H H    0  -11.667 -10.889 11.567
+YPP HBJ  H H    0  -15.328 -11.873 11.268
+YPP HBJA H H    0  -14.577 -10.531 10.881
+YPP HBK  H H    0  -15.634 -10.242 12.925
+YPP HBKA H H    0  -14.074 -10.174 13.158
+YPP HBKB H H    0  -14.871 -11.485 13.529
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -95,72 +94,73 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-YPP           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-YPP           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-YPP           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-YPP           N          CA      SINGLE       n     1.454  0.0100     1.454  0.0100
-YPP           N         CAP      SINGLE       n     1.332  0.0101     1.332  0.0101
-YPP          CA          CB      SINGLE       n     1.536  0.0200     1.536  0.0200
-YPP          CB         NAE      SINGLE       n     1.469  0.0170     1.469  0.0170
-YPP          CB         SAI      SINGLE       n     1.828  0.0131     1.828  0.0131
-YPP         NAE         CAG      SINGLE       n     1.468  0.0148     1.468  0.0148
-YPP         CAG         CAH      SINGLE       n     1.549  0.0160     1.549  0.0160
-YPP         CAG         CAJ      SINGLE       n     1.536  0.0100     1.536  0.0100
-YPP         CAH         SAI      SINGLE       n     1.851  0.0113     1.851  0.0113
-YPP         CAH         CAM      SINGLE       n     1.518  0.0100     1.518  0.0100
-YPP         CAH         CAN      SINGLE       n     1.518  0.0100     1.518  0.0100
-YPP         CAJ         OAK      DOUBLE       n     1.218  0.0200     1.218  0.0200
-YPP         CAJ         OAL      SINGLE       n     1.218  0.0200     1.218  0.0200
-YPP         CAP         OAQ      DOUBLE       n     1.226  0.0100     1.226  0.0100
-YPP         CAP         CAR      SINGLE       n     1.540  0.0125     1.540  0.0125
-YPP         CAR         CAS      SINGLE       n     1.520  0.0100     1.520  0.0100
-YPP         CAR         NAY      SINGLE       n     1.460  0.0129     1.460  0.0129
-YPP         CAS         CAT      DOUBLE       y     1.386  0.0100     1.386  0.0100
-YPP         CAS         CAX      SINGLE       y     1.386  0.0100     1.386  0.0100
-YPP         CAT         CAU      SINGLE       y     1.386  0.0100     1.386  0.0100
-YPP         CAU         CAV      DOUBLE       y     1.376  0.0124     1.376  0.0124
-YPP         CAV         CAW      SINGLE       y     1.374  0.0127     1.374  0.0127
-YPP         CAW         CAX      DOUBLE       y     1.386  0.0100     1.386  0.0100
-YPP         NAY         CAZ      SINGLE       n     1.339  0.0200     1.339  0.0200
-YPP         CAZ         OBA      DOUBLE       n     1.230  0.0134     1.230  0.0134
-YPP         CAZ         NBB      SINGLE       n     1.384  0.0200     1.384  0.0200
-YPP         NBB         CBC      SINGLE       n     1.489  0.0150     1.489  0.0150
-YPP         NBB         CBH      SINGLE       n     1.382  0.0169     1.382  0.0169
-YPP         CBC         CBD      SINGLE       n     1.508  0.0200     1.508  0.0200
-YPP         CBD         NBE      SINGLE       n     1.467  0.0100     1.467  0.0100
-YPP         NBE         CBF      SINGLE       n     1.341  0.0133     1.341  0.0133
-YPP         NBE         CBJ      SINGLE       n     1.472  0.0100     1.472  0.0100
-YPP         CBF         OBG      DOUBLE       n     1.226  0.0100     1.226  0.0100
-YPP         CBF         CBH      SINGLE       n     1.441  0.0200     1.441  0.0200
-YPP         CBH         OBI      DOUBLE       n     1.238  0.0180     1.238  0.0180
-YPP         CBJ         CBK      SINGLE       n     1.508  0.0200     1.508  0.0200
-YPP           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
-YPP          CA          HA      SINGLE       n     1.089  0.0100     0.989  0.0198
-YPP          CB          HB      SINGLE       n     1.089  0.0100     0.987  0.0200
-YPP         NAE        HNAE      SINGLE       n     1.036  0.0160     0.890  0.0200
-YPP         CAG         HAG      SINGLE       n     1.089  0.0100     0.990  0.0121
-YPP         CAM         HAM      SINGLE       n     1.089  0.0100     0.971  0.0169
-YPP         CAM        HAMA      SINGLE       n     1.089  0.0100     0.971  0.0169
-YPP         CAM        HAMB      SINGLE       n     1.089  0.0100     0.971  0.0169
-YPP         CAN         HAN      SINGLE       n     1.089  0.0100     0.971  0.0169
-YPP         CAN        HANA      SINGLE       n     1.089  0.0100     0.971  0.0169
-YPP         CAN        HANB      SINGLE       n     1.089  0.0100     0.971  0.0169
-YPP         CAR         HAR      SINGLE       n     1.089  0.0100     0.992  0.0200
-YPP         CAT         HAT      SINGLE       n     1.082  0.0130     0.944  0.0174
-YPP         CAU         HAU      SINGLE       n     1.082  0.0130     0.944  0.0175
-YPP         CAV         HAV      SINGLE       n     1.082  0.0130     0.944  0.0161
-YPP         CAW         HAW      SINGLE       n     1.082  0.0130     0.944  0.0175
-YPP         CAX         HAX      SINGLE       n     1.082  0.0130     0.944  0.0174
-YPP         NAY        HNAY      SINGLE       n     1.016  0.0100     0.871  0.0200
-YPP         CBC         HBC      SINGLE       n     1.089  0.0100     0.984  0.0105
-YPP         CBC        HBCA      SINGLE       n     1.089  0.0100     0.984  0.0105
-YPP         CBD         HBD      SINGLE       n     1.089  0.0100     0.978  0.0161
-YPP         CBD        HBDA      SINGLE       n     1.089  0.0100     0.978  0.0161
-YPP         CBJ         HBJ      SINGLE       n     1.089  0.0100     0.984  0.0191
-YPP         CBJ        HBJA      SINGLE       n     1.089  0.0100     0.984  0.0191
-YPP         CBK         HBK      SINGLE       n     1.089  0.0100     0.967  0.0131
-YPP         CBK        HBKA      SINGLE       n     1.089  0.0100     0.967  0.0131
-YPP         CBK        HBKB      SINGLE       n     1.089  0.0100     0.967  0.0131
+YPP C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+YPP C   CA   SINGLE n 1.539 0.0100 1.539 0.0100
+YPP C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+YPP N   CA   SINGLE n 1.454 0.0100 1.454 0.0100
+YPP N   CAP  SINGLE n 1.332 0.0101 1.332 0.0101
+YPP CA  CB   SINGLE n 1.536 0.0200 1.536 0.0200
+YPP CB  NAE  SINGLE n 1.469 0.0170 1.469 0.0170
+YPP CB  SAI  SINGLE n 1.828 0.0131 1.828 0.0131
+YPP NAE CAG  SINGLE n 1.468 0.0148 1.468 0.0148
+YPP CAG CAH  SINGLE n 1.549 0.0160 1.549 0.0160
+YPP CAG CAJ  SINGLE n 1.536 0.0100 1.536 0.0100
+YPP CAH SAI  SINGLE n 1.851 0.0113 1.851 0.0113
+YPP CAH CAM  SINGLE n 1.518 0.0100 1.518 0.0100
+YPP CAH CAN  SINGLE n 1.518 0.0100 1.518 0.0100
+YPP CAJ OAK  DOUBLE n 1.218 0.0200 1.218 0.0200
+YPP CAJ OAL  SINGLE n 1.218 0.0200 1.218 0.0200
+YPP CAP OAQ  DOUBLE n 1.226 0.0100 1.226 0.0100
+YPP CAP CAR  SINGLE n 1.540 0.0125 1.540 0.0125
+YPP CAR CAS  SINGLE n 1.520 0.0100 1.520 0.0100
+YPP CAR NAY  SINGLE n 1.460 0.0129 1.460 0.0129
+YPP CAS CAT  DOUBLE y 1.386 0.0100 1.386 0.0100
+YPP CAS CAX  SINGLE y 1.386 0.0100 1.386 0.0100
+YPP CAT CAU  SINGLE y 1.386 0.0100 1.386 0.0100
+YPP CAU CAV  DOUBLE y 1.376 0.0124 1.376 0.0124
+YPP CAV CAW  SINGLE y 1.374 0.0127 1.374 0.0127
+YPP CAW CAX  DOUBLE y 1.386 0.0100 1.386 0.0100
+YPP NAY CAZ  SINGLE n 1.339 0.0200 1.339 0.0200
+YPP CAZ OBA  DOUBLE n 1.230 0.0134 1.230 0.0134
+YPP CAZ NBB  SINGLE n 1.384 0.0200 1.384 0.0200
+YPP NBB CBC  SINGLE n 1.489 0.0150 1.489 0.0150
+YPP NBB CBH  SINGLE n 1.382 0.0169 1.382 0.0169
+YPP CBC CBD  SINGLE n 1.508 0.0200 1.508 0.0200
+YPP CBD NBE  SINGLE n 1.467 0.0100 1.467 0.0100
+YPP NBE CBF  SINGLE n 1.341 0.0133 1.341 0.0133
+YPP NBE CBJ  SINGLE n 1.472 0.0100 1.472 0.0100
+YPP CBF OBG  DOUBLE n 1.226 0.0100 1.226 0.0100
+YPP CBF CBH  SINGLE n 1.441 0.0200 1.441 0.0200
+YPP CBH OBI  DOUBLE n 1.238 0.0180 1.238 0.0180
+YPP CBJ CBK  SINGLE n 1.508 0.0200 1.508 0.0200
+YPP N   HN   SINGLE n 1.016 0.0100 0.873 0.0200
+YPP CA  HA   SINGLE n 1.089 0.0100 0.989 0.0198
+YPP CB  HB   SINGLE n 1.089 0.0100 0.987 0.0200
+YPP NAE HNAE SINGLE n 1.036 0.0160 0.890 0.0200
+YPP CAG HAG  SINGLE n 1.089 0.0100 0.990 0.0121
+YPP CAM HAM  SINGLE n 1.089 0.0100 0.971 0.0169
+YPP CAM HAMA SINGLE n 1.089 0.0100 0.971 0.0169
+YPP CAM HAMB SINGLE n 1.089 0.0100 0.971 0.0169
+YPP CAN HAN  SINGLE n 1.089 0.0100 0.971 0.0169
+YPP CAN HANA SINGLE n 1.089 0.0100 0.971 0.0169
+YPP CAN HANB SINGLE n 1.089 0.0100 0.971 0.0169
+YPP CAR HAR  SINGLE n 1.089 0.0100 0.992 0.0200
+YPP CAT HAT  SINGLE n 1.082 0.0130 0.944 0.0174
+YPP CAU HAU  SINGLE n 1.082 0.0130 0.944 0.0175
+YPP CAV HAV  SINGLE n 1.082 0.0130 0.944 0.0161
+YPP CAW HAW  SINGLE n 1.082 0.0130 0.944 0.0175
+YPP CAX HAX  SINGLE n 1.082 0.0130 0.944 0.0174
+YPP NAY HNAY SINGLE n 1.016 0.0100 0.871 0.0200
+YPP CBC HBC  SINGLE n 1.089 0.0100 0.984 0.0105
+YPP CBC HBCA SINGLE n 1.089 0.0100 0.984 0.0105
+YPP CBD HBD  SINGLE n 1.089 0.0100 0.978 0.0161
+YPP CBD HBDA SINGLE n 1.089 0.0100 0.978 0.0161
+YPP CBJ HBJ  SINGLE n 1.089 0.0100 0.984 0.0191
+YPP CBJ HBJA SINGLE n 1.089 0.0100 0.984 0.0191
+YPP CBK HBK  SINGLE n 1.089 0.0100 0.967 0.0131
+YPP CBK HBKA SINGLE n 1.089 0.0100 0.967 0.0131
+YPP CBK HBKB SINGLE n 1.089 0.0100 0.967 0.0131
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -168,124 +168,125 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-YPP           O           C          CA     117.276    1.60
-YPP           O           C         OXT     125.448    1.75
-YPP          CA           C         OXT     117.276    1.60
-YPP          CA           N         CAP     122.005    1.75
-YPP          CA           N          HN     119.110    1.91
-YPP         CAP           N          HN     118.885    1.94
-YPP           C          CA           N     110.921    1.74
-YPP           C          CA          CB     112.778    2.78
-YPP           C          CA          HA     108.186    1.50
-YPP           N          CA          CB     111.113    2.62
-YPP           N          CA          HA     108.169    1.50
-YPP          CB          CA          HA     109.253    1.50
-YPP          CA          CB         NAE     111.633    2.37
-YPP          CA          CB         SAI     111.156    2.31
-YPP          CA          CB          HB     108.599    1.67
-YPP         NAE          CB         SAI     104.726    1.50
-YPP         NAE          CB          HB     110.535    1.50
-YPP         SAI          CB          HB     111.432    2.82
-YPP          CB         NAE         CAG     109.056    3.00
-YPP          CB         NAE        HNAE     114.884    3.00
-YPP         CAG         NAE        HNAE     109.307    3.00
-YPP         NAE         CAG         CAH     103.104    2.01
-YPP         NAE         CAG         CAJ     111.420    2.45
-YPP         NAE         CAG         HAG     109.296    1.50
-YPP         CAH         CAG         CAJ     112.424    2.46
-YPP         CAH         CAG         HAG     110.594    1.50
-YPP         CAJ         CAG         HAG     110.011    1.50
-YPP         CAG         CAH         SAI     107.036    2.68
-YPP         CAG         CAH         CAM     113.745    2.48
-YPP         CAG         CAH         CAN     113.745    2.48
-YPP         SAI         CAH         CAM     108.982    1.53
-YPP         SAI         CAH         CAN     108.982    1.53
-YPP         CAM         CAH         CAN     110.924    1.50
-YPP          CB         SAI         CAH      92.264    3.00
-YPP         CAG         CAJ         OAK     117.013    1.95
-YPP         CAG         CAJ         OAL     117.013    1.95
-YPP         OAK         CAJ         OAL     125.975    1.50
-YPP         CAH         CAM         HAM     109.457    1.50
-YPP         CAH         CAM        HAMA     109.457    1.50
-YPP         CAH         CAM        HAMB     109.457    1.50
-YPP         HAM         CAM        HAMA     109.486    1.50
-YPP         HAM         CAM        HAMB     109.486    1.50
-YPP        HAMA         CAM        HAMB     109.486    1.50
-YPP         CAH         CAN         HAN     109.457    1.50
-YPP         CAH         CAN        HANA     109.457    1.50
-YPP         CAH         CAN        HANB     109.457    1.50
-YPP         HAN         CAN        HANA     109.486    1.50
-YPP         HAN         CAN        HANB     109.486    1.50
-YPP        HANA         CAN        HANB     109.486    1.50
-YPP           N         CAP         OAQ     123.719    1.50
-YPP           N         CAP         CAR     115.163    1.50
-YPP         OAQ         CAP         CAR     121.118    1.50
-YPP         CAP         CAR         CAS     110.517    2.35
-YPP         CAP         CAR         NAY     109.904    2.48
-YPP         CAP         CAR         HAR     108.160    1.50
-YPP         CAS         CAR         NAY     113.090    1.50
-YPP         CAS         CAR         HAR     108.370    1.59
-YPP         NAY         CAR         HAR     108.583    1.50
-YPP         CAR         CAS         CAT     120.770    1.50
-YPP         CAR         CAS         CAX     120.770    1.50
-YPP         CAT         CAS         CAX     118.460    1.50
-YPP         CAS         CAT         CAU     120.588    1.50
-YPP         CAS         CAT         HAT     119.682    1.50
-YPP         CAU         CAT         HAT     119.730    1.50
-YPP         CAT         CAU         CAV     120.216    1.50
-YPP         CAT         CAU         HAU     119.847    1.50
-YPP         CAV         CAU         HAU     119.938    1.50
-YPP         CAU         CAV         CAW     119.933    1.50
-YPP         CAU         CAV         HAV     120.033    1.50
-YPP         CAW         CAV         HAV     120.033    1.50
-YPP         CAV         CAW         CAX     120.216    1.50
-YPP         CAV         CAW         HAW     119.938    1.50
-YPP         CAX         CAW         HAW     119.847    1.50
-YPP         CAS         CAX         CAW     120.588    1.50
-YPP         CAS         CAX         HAX     119.682    1.50
-YPP         CAW         CAX         HAX     119.730    1.50
-YPP         CAR         NAY         CAZ     122.192    1.61
-YPP         CAR         NAY        HNAY     119.242    1.50
-YPP         CAZ         NAY        HNAY     118.565    2.02
-YPP         NAY         CAZ         OBA     122.827    1.58
-YPP         NAY         CAZ         NBB     117.413    3.00
-YPP         OBA         CAZ         NBB     119.741    1.50
-YPP         CAZ         NBB         CBC     119.211    3.00
-YPP         CAZ         NBB         CBH     120.532    2.86
-YPP         CBC         NBB         CBH     120.257    2.69
-YPP         NBB         CBC         CBD     110.160    1.50
-YPP         NBB         CBC         HBC     108.940    1.50
-YPP         NBB         CBC        HBCA     108.940    1.50
-YPP         CBD         CBC         HBC     109.532    1.50
-YPP         CBD         CBC        HBCA     109.532    1.50
-YPP         HBC         CBC        HBCA     108.187    1.50
-YPP         CBC         CBD         NBE     110.821    2.82
-YPP         CBC         CBD         HBD     109.532    1.50
-YPP         CBC         CBD        HBDA     109.532    1.50
-YPP         NBE         CBD         HBD     109.155    1.50
-YPP         NBE         CBD        HBDA     109.155    1.50
-YPP         HBD         CBD        HBDA     108.187    1.50
-YPP         CBD         NBE         CBF     122.782    1.61
-YPP         CBD         NBE         CBJ     117.139    1.83
-YPP         CBF         NBE         CBJ     120.078    1.62
-YPP         NBE         CBF         OBG     123.241    1.56
-YPP         NBE         CBF         CBH     118.078    1.50
-YPP         OBG         CBF         CBH     118.681    1.50
-YPP         NBB         CBH         CBF     120.885    1.50
-YPP         NBB         CBH         OBI     121.671    1.50
-YPP         CBF         CBH         OBI     117.443    1.50
-YPP         NBE         CBJ         CBK     113.158    1.50
-YPP         NBE         CBJ         HBJ     108.907    1.50
-YPP         NBE         CBJ        HBJA     108.907    1.50
-YPP         CBK         CBJ         HBJ     109.296    1.50
-YPP         CBK         CBJ        HBJA     109.296    1.50
-YPP         HBJ         CBJ        HBJA     107.955    1.50
-YPP         CBJ         CBK         HBK     109.493    1.50
-YPP         CBJ         CBK        HBKA     109.493    1.50
-YPP         CBJ         CBK        HBKB     109.493    1.50
-YPP         HBK         CBK        HBKA     109.417    1.50
-YPP         HBK         CBK        HBKB     109.417    1.50
-YPP        HBKA         CBK        HBKB     109.417    1.50
+YPP O    C   CA   117.276 1.60
+YPP O    C   OXT  125.448 1.75
+YPP CA   C   OXT  117.276 1.60
+YPP CA   N   CAP  122.005 1.75
+YPP CA   N   HN   119.110 1.91
+YPP CAP  N   HN   118.885 1.94
+YPP C    CA  N    110.921 1.74
+YPP C    CA  CB   112.778 2.78
+YPP C    CA  HA   108.186 1.50
+YPP N    CA  CB   111.113 2.62
+YPP N    CA  HA   108.169 1.50
+YPP CB   CA  HA   109.253 1.50
+YPP CA   CB  NAE  111.633 2.37
+YPP CA   CB  SAI  111.156 2.31
+YPP CA   CB  HB   108.599 1.67
+YPP NAE  CB  SAI  104.726 1.50
+YPP NAE  CB  HB   110.535 1.50
+YPP SAI  CB  HB   111.432 2.82
+YPP CB   NAE CAG  109.056 3.00
+YPP CB   NAE HNAE 114.884 3.00
+YPP CAG  NAE HNAE 109.307 3.00
+YPP NAE  CAG CAH  103.104 2.01
+YPP NAE  CAG CAJ  111.420 2.45
+YPP NAE  CAG HAG  109.296 1.50
+YPP CAH  CAG CAJ  112.424 2.46
+YPP CAH  CAG HAG  110.594 1.50
+YPP CAJ  CAG HAG  110.011 1.50
+YPP CAG  CAH SAI  107.036 2.68
+YPP CAG  CAH CAM  113.745 2.48
+YPP CAG  CAH CAN  113.745 2.48
+YPP SAI  CAH CAM  108.982 1.53
+YPP SAI  CAH CAN  108.982 1.53
+YPP CAM  CAH CAN  110.924 1.50
+YPP CB   SAI CAH  92.264  3.00
+YPP CAG  CAJ OAK  117.013 1.95
+YPP CAG  CAJ OAL  117.013 1.95
+YPP OAK  CAJ OAL  125.975 1.50
+YPP CAH  CAM HAM  109.457 1.50
+YPP CAH  CAM HAMA 109.457 1.50
+YPP CAH  CAM HAMB 109.457 1.50
+YPP HAM  CAM HAMA 109.486 1.50
+YPP HAM  CAM HAMB 109.486 1.50
+YPP HAMA CAM HAMB 109.486 1.50
+YPP CAH  CAN HAN  109.457 1.50
+YPP CAH  CAN HANA 109.457 1.50
+YPP CAH  CAN HANB 109.457 1.50
+YPP HAN  CAN HANA 109.486 1.50
+YPP HAN  CAN HANB 109.486 1.50
+YPP HANA CAN HANB 109.486 1.50
+YPP N    CAP OAQ  123.719 1.50
+YPP N    CAP CAR  115.163 1.50
+YPP OAQ  CAP CAR  121.118 1.50
+YPP CAP  CAR CAS  110.517 2.35
+YPP CAP  CAR NAY  109.904 2.48
+YPP CAP  CAR HAR  108.160 1.50
+YPP CAS  CAR NAY  113.090 1.50
+YPP CAS  CAR HAR  108.370 1.59
+YPP NAY  CAR HAR  108.583 1.50
+YPP CAR  CAS CAT  120.770 1.50
+YPP CAR  CAS CAX  120.770 1.50
+YPP CAT  CAS CAX  118.460 1.50
+YPP CAS  CAT CAU  120.588 1.50
+YPP CAS  CAT HAT  119.682 1.50
+YPP CAU  CAT HAT  119.730 1.50
+YPP CAT  CAU CAV  120.216 1.50
+YPP CAT  CAU HAU  119.847 1.50
+YPP CAV  CAU HAU  119.938 1.50
+YPP CAU  CAV CAW  119.933 1.50
+YPP CAU  CAV HAV  120.033 1.50
+YPP CAW  CAV HAV  120.033 1.50
+YPP CAV  CAW CAX  120.216 1.50
+YPP CAV  CAW HAW  119.938 1.50
+YPP CAX  CAW HAW  119.847 1.50
+YPP CAS  CAX CAW  120.588 1.50
+YPP CAS  CAX HAX  119.682 1.50
+YPP CAW  CAX HAX  119.730 1.50
+YPP CAR  NAY CAZ  122.192 1.61
+YPP CAR  NAY HNAY 119.242 1.50
+YPP CAZ  NAY HNAY 118.565 2.02
+YPP NAY  CAZ OBA  122.827 1.58
+YPP NAY  CAZ NBB  117.413 3.00
+YPP OBA  CAZ NBB  119.741 1.50
+YPP CAZ  NBB CBC  119.211 3.00
+YPP CAZ  NBB CBH  120.532 2.86
+YPP CBC  NBB CBH  120.257 2.69
+YPP NBB  CBC CBD  110.160 1.50
+YPP NBB  CBC HBC  108.940 1.50
+YPP NBB  CBC HBCA 108.940 1.50
+YPP CBD  CBC HBC  109.532 1.50
+YPP CBD  CBC HBCA 109.532 1.50
+YPP HBC  CBC HBCA 108.187 1.50
+YPP CBC  CBD NBE  110.821 2.82
+YPP CBC  CBD HBD  109.532 1.50
+YPP CBC  CBD HBDA 109.532 1.50
+YPP NBE  CBD HBD  109.155 1.50
+YPP NBE  CBD HBDA 109.155 1.50
+YPP HBD  CBD HBDA 108.187 1.50
+YPP CBD  NBE CBF  122.782 1.61
+YPP CBD  NBE CBJ  117.139 1.83
+YPP CBF  NBE CBJ  120.078 1.62
+YPP NBE  CBF OBG  123.241 1.56
+YPP NBE  CBF CBH  118.078 1.50
+YPP OBG  CBF CBH  118.681 1.50
+YPP NBB  CBH CBF  120.885 1.50
+YPP NBB  CBH OBI  121.671 1.50
+YPP CBF  CBH OBI  117.443 1.50
+YPP NBE  CBJ CBK  113.158 1.50
+YPP NBE  CBJ HBJ  108.907 1.50
+YPP NBE  CBJ HBJA 108.907 1.50
+YPP CBK  CBJ HBJ  109.296 1.50
+YPP CBK  CBJ HBJA 109.296 1.50
+YPP HBJ  CBJ HBJA 107.955 1.50
+YPP CBJ  CBK HBK  109.493 1.50
+YPP CBJ  CBK HBKA 109.493 1.50
+YPP CBJ  CBK HBKB 109.493 1.50
+YPP HBK  CBK HBKA 109.417 1.50
+YPP HBK  CBK HBKB 109.417 1.50
+YPP HBKA CBK HBKB 109.417 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -296,37 +297,38 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-YPP            sp2_sp3_13           O           C          CA           N       0.000    10.0     6
-YPP            sp2_sp3_32           N         CAP         CAR         NAY     120.000    10.0     6
-YPP            sp2_sp3_37         CAT         CAS         CAR         CAP     150.000    10.0     6
-YPP            sp2_sp3_43         CAZ         NAY         CAR         CAP       0.000    10.0     6
-YPP       const_sp2_sp2_3         CAR         CAS         CAT         CAU     180.000     5.0     2
-YPP              const_23         CAR         CAS         CAX         CAW     180.000    10.0     2
-YPP       const_sp2_sp2_5         CAS         CAT         CAU         CAV       0.000     5.0     2
-YPP       const_sp2_sp2_9         CAT         CAU         CAV         CAW       0.000     5.0     2
-YPP            sp2_sp2_11         OAQ         CAP           N          CA       0.000     5.0     2
-YPP            sp2_sp3_19         CAP           N          CA           C       0.000    10.0     6
-YPP              const_13         CAU         CAV         CAW         CAX       0.000    10.0     2
-YPP              const_17         CAV         CAW         CAX         CAS       0.000    10.0     2
-YPP            sp2_sp2_15         OBA         CAZ         NAY         CAR       0.000     5.0     2
-YPP            sp2_sp2_17         NAY         CAZ         NBB         CBC     180.000     5.0     2
-YPP             sp2_sp3_4         CAZ         NBB         CBC         CBD     180.000    10.0     6
-YPP            sp2_sp2_24         OBI         CBH         NBB         CAZ       0.000     5.0     2
-YPP            sp3_sp3_25         NBB         CBC         CBD         NBE     -60.000    10.0     3
-YPP            sp2_sp3_10         CBJ         NBE         CBD         CBC     180.000    10.0     6
-YPP             sp2_sp2_4         OBG         CBF         NBE         CBJ       0.000     5.0     2
-YPP            sp2_sp3_50         CBD         NBE         CBJ         CBK     -90.000    10.0     6
-YPP             sp2_sp2_8         OBG         CBF         CBH         OBI       0.000     5.0     2
-YPP            sp3_sp3_64         NBE         CBJ         CBK         HBK     180.000    10.0     3
-YPP            sp3_sp3_34           C          CA          CB         NAE     180.000    10.0     3
-YPP             sp3_sp3_3          CA          CB         NAE         CAG     -60.000    10.0     3
-YPP            sp3_sp3_44          CA          CB         SAI         CAH      60.000    10.0     3
-YPP             sp3_sp3_9         CAJ         CAG         NAE          CB     180.000    10.0     3
-YPP            sp3_sp3_17         CAJ         CAG         CAH         CAM      60.000    10.0     3
-YPP            sp2_sp3_25         OAK         CAJ         CAG         NAE       0.000    10.0     6
-YPP            sp3_sp3_52         CAN         CAH         CAM         HAM     -60.000    10.0     3
-YPP            sp3_sp3_61         CAM         CAH         CAN         HAN     -60.000    10.0     3
-YPP            sp3_sp3_24         CAM         CAH         SAI          CB      60.000    10.0     3
+YPP sp2_sp3_13      O   C   CA  N   0.000   10.0 6
+YPP sp2_sp3_32      N   CAP CAR NAY 120.000 10.0 6
+YPP sp2_sp3_37      CAT CAS CAR CAP 150.000 10.0 6
+YPP sp2_sp3_43      CAZ NAY CAR CAP 0.000   10.0 6
+YPP const_sp2_sp2_3 CAR CAS CAT CAU 180.000 5.0  2
+YPP const_23        CAR CAS CAX CAW 180.000 10.0 2
+YPP const_sp2_sp2_5 CAS CAT CAU CAV 0.000   5.0  2
+YPP const_sp2_sp2_9 CAT CAU CAV CAW 0.000   5.0  2
+YPP sp2_sp2_11      OAQ CAP N   CA  0.000   5.0  2
+YPP sp2_sp3_19      CAP N   CA  C   0.000   10.0 6
+YPP const_13        CAU CAV CAW CAX 0.000   10.0 2
+YPP const_17        CAV CAW CAX CAS 0.000   10.0 2
+YPP sp2_sp2_15      OBA CAZ NAY CAR 0.000   5.0  2
+YPP sp2_sp2_17      NAY CAZ NBB CBC 180.000 5.0  2
+YPP sp2_sp3_4       CAZ NBB CBC CBD 180.000 10.0 6
+YPP sp2_sp2_24      OBI CBH NBB CAZ 0.000   5.0  2
+YPP sp3_sp3_25      NBB CBC CBD NBE -60.000 10.0 3
+YPP sp2_sp3_10      CBJ NBE CBD CBC 180.000 10.0 6
+YPP sp2_sp2_4       OBG CBF NBE CBJ 0.000   5.0  2
+YPP sp2_sp3_50      CBD NBE CBJ CBK -90.000 10.0 6
+YPP sp2_sp2_8       OBG CBF CBH OBI 0.000   5.0  2
+YPP sp3_sp3_64      NBE CBJ CBK HBK 180.000 10.0 3
+YPP sp3_sp3_34      C   CA  CB  NAE 180.000 10.0 3
+YPP sp3_sp3_3       CA  CB  NAE CAG -60.000 10.0 3
+YPP sp3_sp3_44      CA  CB  SAI CAH 60.000  10.0 3
+YPP sp3_sp3_9       CAJ CAG NAE CB  180.000 10.0 3
+YPP sp3_sp3_17      CAJ CAG CAH CAM 60.000  10.0 3
+YPP sp2_sp3_25      OAK CAJ CAG NAE 0.000   10.0 6
+YPP sp3_sp3_52      CAN CAH CAM HAM -60.000 10.0 3
+YPP sp3_sp3_61      CAM CAH CAN HAN -60.000 10.0 3
+YPP sp3_sp3_24      CAM CAH SAI CB  60.000  10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -335,88 +337,99 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-YPP    chir_1    CA    N    CB    C    negative
-YPP    chir_2    CB    SAI    NAE    CA    negative
-YPP    chir_3    CAG    NAE    CAH    CAJ    positive
-YPP    chir_4    CAH    SAI    CAG    CAM    both
-YPP    chir_5    CAR    NAY    CAP    CAS    negative
-YPP    chir_6    NAE    CB    CAG    HNAE    both
+YPP chir_1 CA  N   CB  C    negative
+YPP chir_2 CB  SAI NAE CA   negative
+YPP chir_3 CAG NAE CAH CAJ  positive
+YPP chir_4 CAH SAI CAG CAM  both
+YPP chir_5 CAR NAY CAP CAS  negative
+YPP chir_6 NAE CB  CAG HNAE both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-YPP    plan-1         CAR   0.020
-YPP    plan-1         CAS   0.020
-YPP    plan-1         CAT   0.020
-YPP    plan-1         CAU   0.020
-YPP    plan-1         CAV   0.020
-YPP    plan-1         CAW   0.020
-YPP    plan-1         CAX   0.020
-YPP    plan-1         HAT   0.020
-YPP    plan-1         HAU   0.020
-YPP    plan-1         HAV   0.020
-YPP    plan-1         HAW   0.020
-YPP    plan-1         HAX   0.020
-YPP    plan-2           C   0.020
-YPP    plan-2          CA   0.020
-YPP    plan-2           O   0.020
-YPP    plan-2         OXT   0.020
-YPP    plan-3          CA   0.020
-YPP    plan-3         CAP   0.020
-YPP    plan-3          HN   0.020
-YPP    plan-3           N   0.020
-YPP    plan-4         CAG   0.020
-YPP    plan-4         CAJ   0.020
-YPP    plan-4         OAK   0.020
-YPP    plan-4         OAL   0.020
-YPP    plan-5         CAP   0.020
-YPP    plan-5         CAR   0.020
-YPP    plan-5           N   0.020
-YPP    plan-5         OAQ   0.020
-YPP    plan-6         CAR   0.020
-YPP    plan-6         CAZ   0.020
-YPP    plan-6        HNAY   0.020
-YPP    plan-6         NAY   0.020
-YPP    plan-7         CAZ   0.020
-YPP    plan-7         NAY   0.020
-YPP    plan-7         NBB   0.020
-YPP    plan-7         OBA   0.020
-YPP    plan-8         CAZ   0.020
-YPP    plan-8         CBC   0.020
-YPP    plan-8         CBH   0.020
-YPP    plan-8         NBB   0.020
-YPP    plan-9         CBD   0.020
-YPP    plan-9         CBF   0.020
-YPP    plan-9         CBJ   0.020
-YPP    plan-9         NBE   0.020
-YPP   plan-10         CBF   0.020
-YPP   plan-10         CBH   0.020
-YPP   plan-10         NBE   0.020
-YPP   plan-10         OBG   0.020
-YPP   plan-11         CBF   0.020
-YPP   plan-11         CBH   0.020
-YPP   plan-11         NBB   0.020
-YPP   plan-11         OBI   0.020
+YPP plan-1  CAR  0.020
+YPP plan-1  CAS  0.020
+YPP plan-1  CAT  0.020
+YPP plan-1  CAU  0.020
+YPP plan-1  CAV  0.020
+YPP plan-1  CAW  0.020
+YPP plan-1  CAX  0.020
+YPP plan-1  HAT  0.020
+YPP plan-1  HAU  0.020
+YPP plan-1  HAV  0.020
+YPP plan-1  HAW  0.020
+YPP plan-1  HAX  0.020
+YPP plan-2  C    0.020
+YPP plan-2  CA   0.020
+YPP plan-2  O    0.020
+YPP plan-2  OXT  0.020
+YPP plan-3  CA   0.020
+YPP plan-3  CAP  0.020
+YPP plan-3  HN   0.020
+YPP plan-3  N    0.020
+YPP plan-4  CAG  0.020
+YPP plan-4  CAJ  0.020
+YPP plan-4  OAK  0.020
+YPP plan-4  OAL  0.020
+YPP plan-5  CAP  0.020
+YPP plan-5  CAR  0.020
+YPP plan-5  N    0.020
+YPP plan-5  OAQ  0.020
+YPP plan-6  CAR  0.020
+YPP plan-6  CAZ  0.020
+YPP plan-6  HNAY 0.020
+YPP plan-6  NAY  0.020
+YPP plan-7  CAZ  0.020
+YPP plan-7  NAY  0.020
+YPP plan-7  NBB  0.020
+YPP plan-7  OBA  0.020
+YPP plan-8  CAZ  0.020
+YPP plan-8  CBC  0.020
+YPP plan-8  CBH  0.020
+YPP plan-8  NBB  0.020
+YPP plan-9  CBD  0.020
+YPP plan-9  CBF  0.020
+YPP plan-9  CBJ  0.020
+YPP plan-9  NBE  0.020
+YPP plan-10 CBF  0.020
+YPP plan-10 CBH  0.020
+YPP plan-10 NBE  0.020
+YPP plan-10 OBG  0.020
+YPP plan-11 CBF  0.020
+YPP plan-11 CBH  0.020
+YPP plan-11 NBB  0.020
+YPP plan-11 OBI  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-YPP           SMILES              ACDLabs 12.01                                                                                                                                                          O=C(NC(C(=O)O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NC(=O)N3C(=O)C(=O)N(CC)CC3
-YPP SMILES_CANONICAL               CACTVS 3.370                                                                                                                                        CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]([C@@H]2N[C@@H](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
-YPP           SMILES               CACTVS 3.370                                                                                                                                                CCN1CCN(C(=O)N[CH](C(=O)N[CH]([CH]2N[CH](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
-YPP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                                          CCN1CCN(C(=O)C1=O)C(=O)N[C@H](c2ccccc2)C(=O)N[C@@H]([C@@H]3N[C@H](C(S3)(C)C)C(=O)O)C(=O)O
-YPP           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                                            CCN1CCN(C(=O)C1=O)C(=O)NC(c2ccccc2)C(=O)NC(C3NC(C(S3)(C)C)C(=O)O)C(=O)O
-YPP            InChI                InChI  1.03 InChI=1S/C23H29N5O8S/c1-4-27-10-11-28(19(31)18(27)30)22(36)25-13(12-8-6-5-7-9-12)16(29)24-14(20(32)33)17-26-15(21(34)35)23(2,3)37-17/h5-9,13-15,17,26H,4,10-11H2,1-3H3,(H,24,29)(H,25,36)(H,32,33)(H,34,35)/t13-,14+,15+,17-/m1/s1
-YPP         InChIKey                InChI  1.03                                                                                                                                                                                                        OKSUEATVFIVTFV-WBTNSWJXSA-N
+YPP SMILES           ACDLabs              12.01 O=C(NC(C(=O)O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NC(=O)N3C(=O)C(=O)N(CC)CC3
+YPP SMILES_CANONICAL CACTVS               3.370 CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]([C@@H]2N[C@@H](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
+YPP SMILES           CACTVS               3.370 CCN1CCN(C(=O)N[CH](C(=O)N[CH]([CH]2N[CH](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
+YPP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CCN1CCN(C(=O)C1=O)C(=O)N[C@H](c2ccccc2)C(=O)N[C@@H]([C@@H]3N[C@H](C(S3)(C)C)C(=O)O)C(=O)O
+YPP SMILES           "OpenEye OEToolkits" 1.7.0 CCN1CCN(C(=O)C1=O)C(=O)NC(c2ccccc2)C(=O)NC(C3NC(C(S3)(C)C)C(=O)O)C(=O)O
+YPP InChI            InChI                1.03  InChI=1S/C23H29N5O8S/c1-4-27-10-11-28(19(31)18(27)30)22(36)25-13(12-8-6-5-7-9-12)16(29)24-14(20(32)33)17-26-15(21(34)35)23(2,3)37-17/h5-9,13-15,17,26H,4,10-11H2,1-3H3,(H,24,29)(H,25,36)(H,32,33)(H,34,35)/t13-,14+,15+,17-/m1/s1
+YPP InChIKey         InChI                1.03  OKSUEATVFIVTFV-WBTNSWJXSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-YPP acedrg               243         "dictionary generator"                  
-YPP acedrg_database      11          "data source"                           
-YPP rdkit                2017.03.2   "Chemoinformatics tool"
-YPP refmac5              5.8.0238    "optimization tool"                     
+YPP acedrg          243       "dictionary generator"
+YPP acedrg_database 11        "data source"
+YPP rdkit           2017.03.2 "Chemoinformatics tool"
+YPP refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+YPP M-peptide CAP CN
+YPP M-peptide HN  H

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-YRO     YRO      "5-(3,3-dimethylbutyl)-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"     NON-POLYMER     32     17     .     
-#
+YRO YRO "5-(3,3-dimethylbutyl)-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" NON-POLYMER 32 17 .
+
 data_comp_YRO
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,38 +19,39 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-YRO     OAD     O       OC      -1      28.854      17.247      -14.562     
-YRO     CAL     C       C       0       27.659      17.258      -14.801     
-YRO     OAG     O       O       0       26.986      18.239      -15.066     
-YRO     CAN     C       CR6     0       26.946      15.934      -14.768     
-YRO     NAJ     N       NR6     0       27.222      15.081      -15.817     
-YRO     CAO     C       CR6     0       26.656      13.831      -15.938     
-YRO     OAE     O       O       0       26.906      13.082      -16.875     
-YRO     NAK     N       NR6     0       25.788      13.474      -14.938     
-YRO     CAP     C       CR6     0       25.434      14.239      -13.839     
-YRO     OAF     O       O       0       24.632      13.782      -13.017     
-YRO     CAM     C       CR6     0       26.056      15.543      -13.749     
-YRO     CAH     C       CH2     0       25.689      16.410      -12.558     
-YRO     CAI     C       CH2     0       26.168      15.919      -11.185     
-YRO     CAQ     C       CT      0       27.660      16.071      -10.791     
-YRO     CAB     C       CH3     0       28.169      17.499      -11.001     
-YRO     CAC     C       CH3     0       27.785      15.733      -9.298      
-YRO     CAA     C       CH3     0       28.554      15.115      -11.589     
-YRO     H17     H       H       0       27.784      15.335      -16.446     
-YRO     H2      H       H       0       25.417      12.668      -15.010     
-YRO     H4      H       H       0       24.711      16.475      -12.524     
-YRO     H5      H       H       0       26.027      17.317      -12.701     
-YRO     H6      H       H       0       25.952      14.969      -11.103     
-YRO     H7      H       H       0       25.648      16.392      -10.500     
-YRO     H8      H       H       0       27.544      18.129      -10.602     
-YRO     H9      H       H       0       28.247      17.683      -11.953     
-YRO     H10     H       H       0       29.041      17.599      -10.581     
-YRO     H11     H       H       0       27.155      15.029      -9.067      
-YRO     H12     H       H       0       27.589      16.525      -8.767      
-YRO     H13     H       H       0       28.689      15.432      -9.098      
-YRO     H14     H       H       0       29.441      15.083      -11.191     
-YRO     H15     H       H       0       28.630      15.427      -12.506     
-YRO     H16     H       H       0       28.165      14.223      -11.582     
+YRO OAD O OC  -1 28.854 17.247 -14.562
+YRO CAL C C   0  27.659 17.258 -14.801
+YRO OAG O O   0  26.986 18.239 -15.066
+YRO CAN C CR6 0  26.946 15.934 -14.768
+YRO NAJ N NR6 0  27.222 15.081 -15.817
+YRO CAO C CR6 0  26.656 13.831 -15.938
+YRO OAE O O   0  26.906 13.082 -16.875
+YRO NAK N NR6 0  25.788 13.474 -14.938
+YRO CAP C CR6 0  25.434 14.239 -13.839
+YRO OAF O O   0  24.632 13.782 -13.017
+YRO CAM C CR6 0  26.056 15.543 -13.749
+YRO CAH C CH2 0  25.689 16.410 -12.558
+YRO CAI C CH2 0  26.168 15.919 -11.185
+YRO CAQ C CT  0  27.660 16.071 -10.791
+YRO CAB C CH3 0  28.169 17.499 -11.001
+YRO CAC C CH3 0  27.785 15.733 -9.298
+YRO CAA C CH3 0  28.554 15.115 -11.589
+YRO H17 H H   0  27.784 15.335 -16.446
+YRO H2  H H   0  25.417 12.668 -15.010
+YRO H4  H H   0  24.711 16.475 -12.524
+YRO H5  H H   0  26.027 17.317 -12.701
+YRO H6  H H   0  25.952 14.969 -11.103
+YRO H7  H H   0  25.648 16.392 -10.500
+YRO H8  H H   0  27.544 18.129 -10.602
+YRO H9  H H   0  28.247 17.683 -11.953
+YRO H10 H H   0  29.041 17.599 -10.581
+YRO H11 H H   0  27.155 15.029 -9.067
+YRO H12 H H   0  27.589 16.525 -8.767
+YRO H13 H H   0  28.689 15.432 -9.098
+YRO H14 H H   0  29.441 15.083 -11.191
+YRO H15 H H   0  28.630 15.427 -12.506
+YRO H16 H H   0  28.165 14.223 -11.582
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -63,38 +62,39 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-YRO         CAO         OAE      DOUBLE       n     1.225  0.0100     1.225  0.0100
-YRO         NAJ         CAO      SINGLE       y     1.374  0.0100     1.374  0.0100
-YRO         CAO         NAK      SINGLE       y     1.370  0.0100     1.370  0.0100
-YRO         CAN         NAJ      SINGLE       y     1.365  0.0158     1.365  0.0158
-YRO         NAK         CAP      SINGLE       y     1.383  0.0100     1.383  0.0100
-YRO         CAL         OAG      DOUBLE       n     1.219  0.0200     1.219  0.0200
-YRO         CAL         CAN      SINGLE       n     1.496  0.0200     1.496  0.0200
-YRO         OAD         CAL      SINGLE       n     1.219  0.0200     1.219  0.0200
-YRO         CAN         CAM      DOUBLE       y     1.401  0.0100     1.401  0.0100
-YRO         CAP         CAM      SINGLE       y     1.443  0.0100     1.443  0.0100
-YRO         CAP         OAF      DOUBLE       n     1.234  0.0141     1.234  0.0141
-YRO         CAM         CAH      SINGLE       n     1.513  0.0100     1.513  0.0100
-YRO         CAH         CAI      SINGLE       n     1.516  0.0200     1.516  0.0200
-YRO         CAQ         CAA      SINGLE       n     1.528  0.0126     1.528  0.0126
-YRO         CAI         CAQ      SINGLE       n     1.545  0.0100     1.545  0.0100
-YRO         CAQ         CAB      SINGLE       n     1.528  0.0126     1.528  0.0126
-YRO         CAQ         CAC      SINGLE       n     1.528  0.0126     1.528  0.0126
-YRO         NAJ         H17      SINGLE       n     1.016  0.0100     0.879  0.0200
-YRO         NAK          H2      SINGLE       n     1.016  0.0100     0.889  0.0200
-YRO         CAH          H4      SINGLE       n     1.089  0.0100     0.981  0.0150
-YRO         CAH          H5      SINGLE       n     1.089  0.0100     0.981  0.0150
-YRO         CAI          H6      SINGLE       n     1.089  0.0100     0.980  0.0160
-YRO         CAI          H7      SINGLE       n     1.089  0.0100     0.980  0.0160
-YRO         CAB          H8      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAB          H9      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAB         H10      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAC         H11      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAC         H12      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAC         H13      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAA         H14      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAA         H15      SINGLE       n     1.089  0.0100     0.973  0.0146
-YRO         CAA         H16      SINGLE       n     1.089  0.0100     0.973  0.0146
+YRO CAO OAE DOUBLE n 1.225 0.0100 1.225 0.0100
+YRO NAJ CAO SINGLE y 1.374 0.0100 1.374 0.0100
+YRO CAO NAK SINGLE y 1.370 0.0100 1.370 0.0100
+YRO CAN NAJ SINGLE y 1.365 0.0158 1.365 0.0158
+YRO NAK CAP SINGLE y 1.383 0.0100 1.383 0.0100
+YRO CAL OAG DOUBLE n 1.219 0.0200 1.219 0.0200
+YRO CAL CAN SINGLE n 1.496 0.0200 1.496 0.0200
+YRO OAD CAL SINGLE n 1.219 0.0200 1.219 0.0200
+YRO CAN CAM DOUBLE y 1.401 0.0100 1.401 0.0100
+YRO CAP CAM SINGLE y 1.443 0.0100 1.443 0.0100
+YRO CAP OAF DOUBLE n 1.234 0.0141 1.234 0.0141
+YRO CAM CAH SINGLE n 1.513 0.0100 1.513 0.0100
+YRO CAH CAI SINGLE n 1.516 0.0200 1.516 0.0200
+YRO CAQ CAA SINGLE n 1.528 0.0126 1.528 0.0126
+YRO CAI CAQ SINGLE n 1.545 0.0100 1.545 0.0100
+YRO CAQ CAB SINGLE n 1.528 0.0126 1.528 0.0126
+YRO CAQ CAC SINGLE n 1.528 0.0126 1.528 0.0126
+YRO NAJ H17 SINGLE n 1.016 0.0100 0.879 0.0200
+YRO NAK H2  SINGLE n 1.016 0.0100 0.889 0.0200
+YRO CAH H4  SINGLE n 1.089 0.0100 0.981 0.0150
+YRO CAH H5  SINGLE n 1.089 0.0100 0.981 0.0150
+YRO CAI H6  SINGLE n 1.089 0.0100 0.980 0.0160
+YRO CAI H7  SINGLE n 1.089 0.0100 0.980 0.0160
+YRO CAB H8  SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAB H9  SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAB H10 SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAC H11 SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAC H12 SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAC H13 SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAA H14 SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAA H15 SINGLE n 1.089 0.0100 0.973 0.0146
+YRO CAA H16 SINGLE n 1.089 0.0100 0.973 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -102,63 +102,64 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-YRO         OAG         CAL         CAN     116.880    1.50
-YRO         OAG         CAL         OAD     126.239    1.50
-YRO         CAN         CAL         OAD     116.880    1.50
-YRO         NAJ         CAN         CAL     116.751    1.50
-YRO         NAJ         CAN         CAM     119.954    3.00
-YRO         CAL         CAN         CAM     123.296    2.15
-YRO         CAO         NAJ         CAN     122.126    1.50
-YRO         CAO         NAJ         H17     118.085    1.73
-YRO         CAN         NAJ         H17     119.789    2.44
-YRO         OAE         CAO         NAJ     122.691    1.50
-YRO         OAE         CAO         NAK     121.869    1.50
-YRO         NAJ         CAO         NAK     115.440    1.50
-YRO         CAO         NAK         CAP     127.015    1.50
-YRO         CAO         NAK          H2     115.878    2.30
-YRO         CAP         NAK          H2     117.107    1.81
-YRO         NAK         CAP         CAM     116.129    1.50
-YRO         NAK         CAP         OAF     119.516    1.50
-YRO         CAM         CAP         OAF     124.355    1.50
-YRO         CAN         CAM         CAP     119.337    1.50
-YRO         CAN         CAM         CAH     122.895    2.15
-YRO         CAP         CAM         CAH     117.768    1.50
-YRO         CAM         CAH         CAI     114.108    2.12
-YRO         CAM         CAH          H4     108.906    1.50
-YRO         CAM         CAH          H5     108.906    1.50
-YRO         CAI         CAH          H4     108.612    1.50
-YRO         CAI         CAH          H5     108.612    1.50
-YRO          H4         CAH          H5     107.745    1.50
-YRO         CAH         CAI         CAQ     111.094    2.85
-YRO         CAH         CAI          H6     108.750    1.50
-YRO         CAH         CAI          H7     108.750    1.50
-YRO         CAQ         CAI          H6     107.314    1.50
-YRO         CAQ         CAI          H7     107.314    1.50
-YRO          H6         CAI          H7     107.715    1.50
-YRO         CAA         CAQ         CAI     110.236    3.00
-YRO         CAA         CAQ         CAB     108.674    1.50
-YRO         CAA         CAQ         CAC     108.674    1.50
-YRO         CAI         CAQ         CAB     110.236    3.00
-YRO         CAI         CAQ         CAC     110.236    3.00
-YRO         CAB         CAQ         CAC     108.674    1.50
-YRO         CAQ         CAB          H8     109.509    1.50
-YRO         CAQ         CAB          H9     109.509    1.50
-YRO         CAQ         CAB         H10     109.509    1.50
-YRO          H8         CAB          H9     109.377    1.50
-YRO          H8         CAB         H10     109.377    1.50
-YRO          H9         CAB         H10     109.377    1.50
-YRO         CAQ         CAC         H11     109.509    1.50
-YRO         CAQ         CAC         H12     109.509    1.50
-YRO         CAQ         CAC         H13     109.509    1.50
-YRO         H11         CAC         H12     109.377    1.50
-YRO         H11         CAC         H13     109.377    1.50
-YRO         H12         CAC         H13     109.377    1.50
-YRO         CAQ         CAA         H14     109.509    1.50
-YRO         CAQ         CAA         H15     109.509    1.50
-YRO         CAQ         CAA         H16     109.509    1.50
-YRO         H14         CAA         H15     109.377    1.50
-YRO         H14         CAA         H16     109.377    1.50
-YRO         H15         CAA         H16     109.377    1.50
+YRO OAG CAL CAN 116.880 1.50
+YRO OAG CAL OAD 126.239 1.50
+YRO CAN CAL OAD 116.880 1.50
+YRO NAJ CAN CAL 116.751 1.50
+YRO NAJ CAN CAM 119.954 3.00
+YRO CAL CAN CAM 123.296 2.15
+YRO CAO NAJ CAN 122.126 1.50
+YRO CAO NAJ H17 118.085 1.73
+YRO CAN NAJ H17 119.789 2.44
+YRO OAE CAO NAJ 122.691 1.50
+YRO OAE CAO NAK 121.869 1.50
+YRO NAJ CAO NAK 115.440 1.50
+YRO CAO NAK CAP 127.015 1.50
+YRO CAO NAK H2  115.878 2.30
+YRO CAP NAK H2  117.107 1.81
+YRO NAK CAP CAM 116.129 1.50
+YRO NAK CAP OAF 119.516 1.50
+YRO CAM CAP OAF 124.355 1.50
+YRO CAN CAM CAP 119.337 1.50
+YRO CAN CAM CAH 122.895 2.15
+YRO CAP CAM CAH 117.768 1.50
+YRO CAM CAH CAI 114.108 2.12
+YRO CAM CAH H4  108.906 1.50
+YRO CAM CAH H5  108.906 1.50
+YRO CAI CAH H4  108.612 1.50
+YRO CAI CAH H5  108.612 1.50
+YRO H4  CAH H5  107.745 1.50
+YRO CAH CAI CAQ 111.094 2.85
+YRO CAH CAI H6  108.750 1.50
+YRO CAH CAI H7  108.750 1.50
+YRO CAQ CAI H6  107.314 1.50
+YRO CAQ CAI H7  107.314 1.50
+YRO H6  CAI H7  107.715 1.50
+YRO CAA CAQ CAI 110.236 3.00
+YRO CAA CAQ CAB 108.674 1.50
+YRO CAA CAQ CAC 108.674 1.50
+YRO CAI CAQ CAB 110.236 3.00
+YRO CAI CAQ CAC 110.236 3.00
+YRO CAB CAQ CAC 108.674 1.50
+YRO CAQ CAB H8  109.509 1.50
+YRO CAQ CAB H9  109.509 1.50
+YRO CAQ CAB H10 109.509 1.50
+YRO H8  CAB H9  109.377 1.50
+YRO H8  CAB H10 109.377 1.50
+YRO H9  CAB H10 109.377 1.50
+YRO CAQ CAC H11 109.509 1.50
+YRO CAQ CAC H12 109.509 1.50
+YRO CAQ CAC H13 109.509 1.50
+YRO H11 CAC H12 109.377 1.50
+YRO H11 CAC H13 109.377 1.50
+YRO H12 CAC H13 109.377 1.50
+YRO CAQ CAA H14 109.509 1.50
+YRO CAQ CAA H15 109.509 1.50
+YRO CAQ CAA H16 109.509 1.50
+YRO H14 CAA H15 109.377 1.50
+YRO H14 CAA H16 109.377 1.50
+YRO H15 CAA H16 109.377 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -169,19 +170,20 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-YRO             sp2_sp3_2         CAN         CAM         CAH         CAI     -90.000    10.0     6
-YRO             sp3_sp3_1         CAM         CAH         CAI         CAQ     180.000    10.0     3
-YRO            sp3_sp3_20         CAH         CAI         CAQ         CAA     -60.000    10.0     3
-YRO            sp3_sp3_28          H8         CAB         CAQ         CAA     180.000    10.0     3
-YRO            sp3_sp3_38         H11         CAC         CAQ         CAA     -60.000    10.0     3
-YRO            sp3_sp3_10         H14         CAA         CAQ         CAI     180.000    10.0     3
-YRO             sp2_sp2_1         OAG         CAL         CAN         NAJ     180.000     5.0     2
-YRO              const_24         CAH         CAM         CAN         CAL       0.000    10.0     2
-YRO       const_sp2_sp2_3         CAL         CAN         NAJ         CAO     180.000     5.0     2
-YRO       const_sp2_sp2_7         OAE         CAO         NAJ         CAN     180.000     5.0     2
-YRO              const_11         OAE         CAO         NAK         CAP     180.000    10.0     2
-YRO              const_15         OAF         CAP         NAK         CAO     180.000    10.0     2
-YRO              const_20         CAH         CAM         CAP         OAF       0.000    10.0     2
+YRO sp2_sp3_2       CAN CAM CAH CAI -90.000 10.0 6
+YRO sp3_sp3_1       CAM CAH CAI CAQ 180.000 10.0 3
+YRO sp3_sp3_20      CAH CAI CAQ CAA -60.000 10.0 3
+YRO sp3_sp3_28      H8  CAB CAQ CAA 180.000 10.0 3
+YRO sp3_sp3_38      H11 CAC CAQ CAA -60.000 10.0 3
+YRO sp3_sp3_10      H14 CAA CAQ CAI 180.000 10.0 3
+YRO sp2_sp2_1       OAG CAL CAN NAJ 180.000 5.0  2
+YRO const_24        CAH CAM CAN CAL 0.000   10.0 2
+YRO const_sp2_sp2_3 CAL CAN NAJ CAO 180.000 5.0  2
+YRO const_sp2_sp2_7 OAE CAO NAJ CAN 180.000 5.0  2
+YRO const_11        OAE CAO NAK CAP 180.000 10.0 2
+YRO const_15        OAF CAP NAK CAO 180.000 10.0 2
+YRO const_20        CAH CAM CAP OAF 0.000   10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -190,47 +192,63 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-YRO    chir_1    CAQ    CAI    CAA    CAB    both
+YRO chir_1 CAQ CAI CAA CAB both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-YRO    plan-1         CAH   0.020
-YRO    plan-1         CAL   0.020
-YRO    plan-1         CAM   0.020
-YRO    plan-1         CAN   0.020
-YRO    plan-1         CAO   0.020
-YRO    plan-1         CAP   0.020
-YRO    plan-1         H17   0.020
-YRO    plan-1          H2   0.020
-YRO    plan-1         NAJ   0.020
-YRO    plan-1         NAK   0.020
-YRO    plan-1         OAE   0.020
-YRO    plan-1         OAF   0.020
-YRO    plan-2         CAL   0.020
-YRO    plan-2         CAN   0.020
-YRO    plan-2         OAD   0.020
-YRO    plan-2         OAG   0.020
+YRO plan-1 CAH 0.020
+YRO plan-1 CAL 0.020
+YRO plan-1 CAM 0.020
+YRO plan-1 CAN 0.020
+YRO plan-1 CAO 0.020
+YRO plan-1 CAP 0.020
+YRO plan-1 H17 0.020
+YRO plan-1 H2  0.020
+YRO plan-1 NAJ 0.020
+YRO plan-1 NAK 0.020
+YRO plan-1 OAE 0.020
+YRO plan-1 OAF 0.020
+YRO plan-2 CAL 0.020
+YRO plan-2 CAN 0.020
+YRO plan-2 OAD 0.020
+YRO plan-2 OAG 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-YRO           SMILES              ACDLabs 12.01                                                                     O=C1NC(C(=O)O)=C(C(=O)N1)CCC(C)(C)C
-YRO            InChI                InChI  1.03 InChI=1S/C11H16N2O4/c1-11(2,3)5-4-6-7(9(15)16)12-10(17)13-8(6)14/h4-5H2,1-3H3,(H,15,16)(H2,12,13,14,17)
-YRO         InChIKey                InChI  1.03                                                                             HROWFJPIAGSCKL-UHFFFAOYSA-N
-YRO SMILES_CANONICAL               CACTVS 3.370                                                                       CC(C)(C)CCC1=C(NC(=O)NC1=O)C(O)=O
-YRO           SMILES               CACTVS 3.370                                                                       CC(C)(C)CCC1=C(NC(=O)NC1=O)C(O)=O
-YRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                       CC(C)(C)CCC1=C(NC(=O)NC1=O)C(=O)O
-YRO           SMILES "OpenEye OEToolkits" 1.7.6                                                                       CC(C)(C)CCC1=C(NC(=O)NC1=O)C(=O)O
+YRO SMILES           ACDLabs              12.01 O=C1NC(C(=O)O)=C(C(=O)N1)CCC(C)(C)C
+YRO InChI            InChI                1.03  InChI=1S/C11H16N2O4/c1-11(2,3)5-4-6-7(9(15)16)12-10(17)13-8(6)14/h4-5H2,1-3H3,(H,15,16)(H2,12,13,14,17)
+YRO InChIKey         InChI                1.03  HROWFJPIAGSCKL-UHFFFAOYSA-N
+YRO SMILES_CANONICAL CACTVS               3.370 CC(C)(C)CCC1=C(NC(=O)NC1=O)C(O)=O
+YRO SMILES           CACTVS               3.370 CC(C)(C)CCC1=C(NC(=O)NC1=O)C(O)=O
+YRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CC(C)(C)CCC1=C(NC(=O)NC1=O)C(=O)O
+YRO SMILES           "OpenEye OEToolkits" 1.7.6 CC(C)(C)CCC1=C(NC(=O)NC1=O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-YRO acedrg               243         "dictionary generator"                  
-YRO acedrg_database      11          "data source"                           
-YRO rdkit                2017.03.2   "Chemoinformatics tool"
-YRO refmac5              5.8.0238    "optimization tool"                     
+YRO acedrg          243       "dictionary generator"
+YRO acedrg_database 11        "data source"
+YRO rdkit           2017.03.2 "Chemoinformatics tool"
+YRO refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+YRO M-peptide OAG O
+YRO M-peptide CAL C
+YRO M-peptide CAN CA
+YRO M-peptide NAJ N
+YRO M-peptide CAO CN
+YRO M-peptide OAD OXT
+YRO M-peptide H17 H

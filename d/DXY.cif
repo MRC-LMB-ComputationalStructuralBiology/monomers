@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DXY     DXY      "N-({4-[(1S)-4-(2,4-diamino-6-oxo-1,6-dihydropyrimidin-5-yl)-1-(methylsulfanyl)butyl]phenyl}carbonyl)-L-glutamic acid"     NON-POLYMER     58     33     .     
-#
+DXY DXY "N-({4-[(1S)-4-(2,4-diamino-6-oxo-1,6-dihydropyrimidin-5-yl)-1-(methylsulfanyl)butyl]phenyl}carbonyl)-L-glutamic acid" NON-POLYMER 58 33 .
+
 data_comp_DXY
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,64 +19,65 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DXY     OE1     O       OC      -1      1.594       73.089      100.337     
-DXY     CD      C       C       0       1.728       72.723      99.152      
-DXY     OE2     O       O       0       1.814       73.514      98.192      
-DXY     CG      C       CH2     0       1.789       71.233      98.864      
-DXY     CB      C       CH2     0       3.172       70.621      99.038      
-DXY     CA      C       CH1     0       3.236       69.109      98.775      
-DXY     C       C       C       0       2.394       68.309      99.787      
-DXY     OXT     O       OC      -1      1.214       68.047      99.476      
-DXY     O       O       O       0       2.949       67.981      100.855     
-DXY     N       N       NH1     0       2.833       68.793      97.405      
-DXY     CAY     C       C       0       3.693       68.435      96.436      
-DXY     OAF     O       O       0       4.895       68.264      96.642      
-DXY     CBB     C       CR6     0       3.152       68.285      95.039      
-DXY     CAK     C       CR16    0       3.612       67.252      94.229      
-DXY     CAM     C       CR16    0       3.144       67.104      92.931      
-DXY     CAJ     C       CR16    0       2.229       69.180      94.513      
-DXY     CAL     C       CR16    0       1.757       69.032      93.217      
-DXY     CBC     C       CR6     0       2.200       67.990      92.402      
-DXY     CBG     C       CH1     0       1.670       67.871      90.980      
-DXY     SAV     S       S2      0       2.654       68.901      89.836      
-DXY     CAA     C       CH3     0       4.332       68.329      90.141      
-DXY     CAQ     C       CH2     0       1.564       66.443      90.430      
-DXY     CAN     C       CH2     0       0.700       65.479      91.240      
-DXY     CAP     C       CH2     0       -0.758      65.890      91.397      
-DXY     CBD     C       CR6     0       -1.579      64.901      92.198      
-DXY     CBE     C       CR6     0       -2.394      63.924      91.505      
-DXY     OAG     O       O       0       -2.486      63.823      90.277      
-DXY     NAU     N       NR6     0       -3.119      63.044      92.299      
-DXY     CAZ     C       CR6     0       -3.072      63.088      93.663      
-DXY     NAB     N       NH2     0       -3.804      62.201      94.343      
-DXY     NAS     N       NRD6    0       -2.334      63.969      94.326      
-DXY     CBA     C       CR6     0       -1.584      64.876      93.621      
-DXY     NAC     N       NH2     0       -0.855      65.745      94.343      
-DXY     H1G     H       H       0       1.486       71.083      97.943      
-DXY     H2G     H       H       0       1.156       70.781      99.461      
-DXY     H1B     H       H       0       3.478       70.790      99.954      
-DXY     H2B     H       H       0       3.793       71.069      98.428      
-DXY     HA      H       H       0       4.178       68.831      98.894      
-DXY     HN      H       H       0       1.979       68.830      97.230      
-DXY     HAK     H       H       0       4.244       66.642      94.566      
-DXY     HAM     H       H       0       3.468       66.394      92.406      
-DXY     HAJ     H       H       0       1.910       69.888      95.045      
-DXY     HAL     H       H       0       1.124       69.645      92.882      
-DXY     HBG     H       H       0       0.758       68.251      90.982      
-DXY     H1AA    H       H       0       4.912       68.652      89.440      
-DXY     H2AA    H       H       0       4.349       67.365      90.152      
-DXY     H3AA    H       H       0       4.638       68.666      90.991      
-DXY     H1AQ    H       H       0       2.460       66.060      90.355      
-DXY     H2AQ    H       H       0       1.196       66.488      89.522      
-DXY     H1AN    H       H       0       1.091       65.371      92.130      
-DXY     H2AN    H       H       0       0.725       64.603      90.803      
-DXY     H1AP    H       H       0       -1.153      65.998      90.506      
-DXY     H2AP    H       H       0       -0.794      66.761      91.845      
-DXY     HNAU    H       H       0       -3.625      62.439      91.893      
-DXY     H1AB    H       H       0       -4.447      61.761      93.939      
-DXY     H2AB    H       H       0       -3.641      62.063      95.195      
-DXY     H1AC    H       H       0       -1.241      66.224      94.968      
-DXY     H2AC    H       H       0       0.004       65.828      94.190      
+DXY OE1  O OC   -1 1.594  73.089 100.337
+DXY CD   C C    0  1.728  72.723 99.152
+DXY OE2  O O    0  1.814  73.514 98.192
+DXY CG   C CH2  0  1.789  71.233 98.864
+DXY CB   C CH2  0  3.172  70.621 99.038
+DXY CA   C CH1  0  3.236  69.109 98.775
+DXY C    C C    0  2.394  68.309 99.787
+DXY OXT  O OC   -1 1.214  68.047 99.476
+DXY O    O O    0  2.949  67.981 100.855
+DXY N    N NH1  0  2.833  68.793 97.405
+DXY CAY  C C    0  3.693  68.435 96.436
+DXY OAF  O O    0  4.895  68.264 96.642
+DXY CBB  C CR6  0  3.152  68.285 95.039
+DXY CAK  C CR16 0  3.612  67.252 94.229
+DXY CAM  C CR16 0  3.144  67.104 92.931
+DXY CAJ  C CR16 0  2.229  69.180 94.513
+DXY CAL  C CR16 0  1.757  69.032 93.217
+DXY CBC  C CR6  0  2.200  67.990 92.402
+DXY CBG  C CH1  0  1.670  67.871 90.980
+DXY SAV  S S2   0  2.654  68.901 89.836
+DXY CAA  C CH3  0  4.332  68.329 90.141
+DXY CAQ  C CH2  0  1.564  66.443 90.430
+DXY CAN  C CH2  0  0.700  65.479 91.240
+DXY CAP  C CH2  0  -0.758 65.890 91.397
+DXY CBD  C CR6  0  -1.579 64.901 92.198
+DXY CBE  C CR6  0  -2.394 63.924 91.505
+DXY OAG  O O    0  -2.486 63.823 90.277
+DXY NAU  N NR6  0  -3.119 63.044 92.299
+DXY CAZ  C CR6  0  -3.072 63.088 93.663
+DXY NAB  N NH2  0  -3.804 62.201 94.343
+DXY NAS  N NRD6 0  -2.334 63.969 94.326
+DXY CBA  C CR6  0  -1.584 64.876 93.621
+DXY NAC  N NH2  0  -0.855 65.745 94.343
+DXY H1G  H H    0  1.486  71.083 97.943
+DXY H2G  H H    0  1.156  70.781 99.461
+DXY H1B  H H    0  3.478  70.790 99.954
+DXY H2B  H H    0  3.793  71.069 98.428
+DXY HA   H H    0  4.178  68.831 98.894
+DXY HN   H H    0  1.979  68.830 97.230
+DXY HAK  H H    0  4.244  66.642 94.566
+DXY HAM  H H    0  3.468  66.394 92.406
+DXY HAJ  H H    0  1.910  69.888 95.045
+DXY HAL  H H    0  1.124  69.645 92.882
+DXY HBG  H H    0  0.758  68.251 90.982
+DXY H1AA H H    0  4.912  68.652 89.440
+DXY H2AA H H    0  4.349  67.365 90.152
+DXY H3AA H H    0  4.638  68.666 90.991
+DXY H1AQ H H    0  2.460  66.060 90.355
+DXY H2AQ H H    0  1.196  66.488 89.522
+DXY H1AN H H    0  1.091  65.371 92.130
+DXY H2AN H H    0  0.725  64.603 90.803
+DXY H1AP H H    0  -1.153 65.998 90.506
+DXY H2AP H H    0  -0.794 66.761 91.845
+DXY HNAU H H    0  -3.625 62.439 91.893
+DXY H1AB H H    0  -4.447 61.761 93.939
+DXY H2AB H H    0  -3.641 62.063 95.195
+DXY H1AC H H    0  -1.241 66.224 94.968
+DXY H2AC H H    0  0.004  65.828 94.190
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -89,65 +88,66 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DXY          CD         OE2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-DXY         OE1          CD      SINGLE       n     1.247  0.0187     1.247  0.0187
-DXY          CD          CG      SINGLE       n     1.519  0.0109     1.519  0.0109
-DXY          CG          CB      SINGLE       n     1.518  0.0153     1.518  0.0153
-DXY          CB          CA      SINGLE       n     1.533  0.0100     1.533  0.0100
-DXY         SAV         CAA      SINGLE       n     1.796  0.0165     1.796  0.0165
-DXY          CA           N      SINGLE       n     1.456  0.0100     1.456  0.0100
-DXY          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-DXY         CBG         SAV      SINGLE       n     1.825  0.0100     1.825  0.0100
-DXY         CAY         OAF      DOUBLE       n     1.230  0.0114     1.230  0.0114
-DXY           N         CAY      SINGLE       n     1.337  0.0101     1.337  0.0101
-DXY         CAY         CBB      SINGLE       n     1.502  0.0100     1.502  0.0100
-DXY         CBB         CAJ      DOUBLE       y     1.386  0.0100     1.386  0.0100
-DXY         CBB         CAK      SINGLE       y     1.386  0.0100     1.386  0.0100
-DXY         CAJ         CAL      SINGLE       y     1.384  0.0100     1.384  0.0100
-DXY         CAK         CAM      DOUBLE       y     1.384  0.0100     1.384  0.0100
-DXY         CAL         CBC      DOUBLE       y     1.391  0.0100     1.391  0.0100
-DXY         CAM         CBC      SINGLE       y     1.391  0.0100     1.391  0.0100
-DXY           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-DXY           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-DXY         CBC         CBG      SINGLE       n     1.515  0.0100     1.515  0.0100
-DXY         CBG         CAQ      SINGLE       n     1.528  0.0109     1.528  0.0109
-DXY         CAQ         CAN      SINGLE       n     1.524  0.0112     1.524  0.0112
-DXY         CAN         CAP      SINGLE       n     1.519  0.0200     1.519  0.0200
-DXY         CAP         CBD      SINGLE       n     1.513  0.0100     1.513  0.0100
-DXY         CBA         NAC      SINGLE       n     1.343  0.0151     1.343  0.0151
-DXY         CBD         CBA      DOUBLE       y     1.416  0.0135     1.416  0.0135
-DXY         CBD         CBE      SINGLE       y     1.443  0.0100     1.443  0.0100
-DXY         NAS         CBA      SINGLE       y     1.369  0.0100     1.369  0.0100
-DXY         CBE         OAG      DOUBLE       n     1.234  0.0141     1.234  0.0141
-DXY         CBE         NAU      SINGLE       y     1.385  0.0100     1.385  0.0100
-DXY         CAZ         NAS      DOUBLE       y     1.324  0.0100     1.324  0.0100
-DXY         NAU         CAZ      SINGLE       y     1.360  0.0100     1.360  0.0100
-DXY         CAZ         NAB      SINGLE       n     1.333  0.0113     1.333  0.0113
-DXY          CG         H1G      SINGLE       n     1.089  0.0100     0.981  0.0185
-DXY          CG         H2G      SINGLE       n     1.089  0.0100     0.981  0.0185
-DXY          CB         H1B      SINGLE       n     1.089  0.0100     0.980  0.0178
-DXY          CB         H2B      SINGLE       n     1.089  0.0100     0.980  0.0178
-DXY          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-DXY           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
-DXY         CAK         HAK      SINGLE       n     1.082  0.0130     0.941  0.0168
-DXY         CAM         HAM      SINGLE       n     1.082  0.0130     0.943  0.0173
-DXY         CAJ         HAJ      SINGLE       n     1.082  0.0130     0.941  0.0168
-DXY         CAL         HAL      SINGLE       n     1.082  0.0130     0.943  0.0173
-DXY         CBG         HBG      SINGLE       n     1.089  0.0100     0.989  0.0200
-DXY         CAA        H1AA      SINGLE       n     1.089  0.0100     0.965  0.0170
-DXY         CAA        H2AA      SINGLE       n     1.089  0.0100     0.965  0.0170
-DXY         CAA        H3AA      SINGLE       n     1.089  0.0100     0.965  0.0170
-DXY         CAQ        H1AQ      SINGLE       n     1.089  0.0100     0.980  0.0160
-DXY         CAQ        H2AQ      SINGLE       n     1.089  0.0100     0.980  0.0160
-DXY         CAN        H1AN      SINGLE       n     1.089  0.0100     0.980  0.0160
-DXY         CAN        H2AN      SINGLE       n     1.089  0.0100     0.980  0.0160
-DXY         CAP        H1AP      SINGLE       n     1.089  0.0100     0.981  0.0150
-DXY         CAP        H2AP      SINGLE       n     1.089  0.0100     0.981  0.0150
-DXY         NAU        HNAU      SINGLE       n     1.016  0.0100     0.886  0.0200
-DXY         NAB        H1AB      SINGLE       n     1.016  0.0100     0.877  0.0200
-DXY         NAB        H2AB      SINGLE       n     1.016  0.0100     0.877  0.0200
-DXY         NAC        H1AC      SINGLE       n     1.016  0.0100     0.877  0.0200
-DXY         NAC        H2AC      SINGLE       n     1.016  0.0100     0.877  0.0200
+DXY CD  OE2  DOUBLE n 1.247 0.0187 1.247 0.0187
+DXY OE1 CD   SINGLE n 1.247 0.0187 1.247 0.0187
+DXY CD  CG   SINGLE n 1.519 0.0109 1.519 0.0109
+DXY CG  CB   SINGLE n 1.518 0.0153 1.518 0.0153
+DXY CB  CA   SINGLE n 1.533 0.0100 1.533 0.0100
+DXY SAV CAA  SINGLE n 1.796 0.0165 1.796 0.0165
+DXY CA  N    SINGLE n 1.456 0.0100 1.456 0.0100
+DXY CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+DXY CBG SAV  SINGLE n 1.825 0.0100 1.825 0.0100
+DXY CAY OAF  DOUBLE n 1.230 0.0114 1.230 0.0114
+DXY N   CAY  SINGLE n 1.337 0.0101 1.337 0.0101
+DXY CAY CBB  SINGLE n 1.502 0.0100 1.502 0.0100
+DXY CBB CAJ  DOUBLE y 1.386 0.0100 1.386 0.0100
+DXY CBB CAK  SINGLE y 1.386 0.0100 1.386 0.0100
+DXY CAJ CAL  SINGLE y 1.384 0.0100 1.384 0.0100
+DXY CAK CAM  DOUBLE y 1.384 0.0100 1.384 0.0100
+DXY CAL CBC  DOUBLE y 1.391 0.0100 1.391 0.0100
+DXY CAM CBC  SINGLE y 1.391 0.0100 1.391 0.0100
+DXY C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+DXY C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+DXY CBC CBG  SINGLE n 1.515 0.0100 1.515 0.0100
+DXY CBG CAQ  SINGLE n 1.528 0.0109 1.528 0.0109
+DXY CAQ CAN  SINGLE n 1.524 0.0112 1.524 0.0112
+DXY CAN CAP  SINGLE n 1.519 0.0200 1.519 0.0200
+DXY CAP CBD  SINGLE n 1.513 0.0100 1.513 0.0100
+DXY CBA NAC  SINGLE n 1.343 0.0151 1.343 0.0151
+DXY CBD CBA  DOUBLE y 1.416 0.0135 1.416 0.0135
+DXY CBD CBE  SINGLE y 1.443 0.0100 1.443 0.0100
+DXY NAS CBA  SINGLE y 1.369 0.0100 1.369 0.0100
+DXY CBE OAG  DOUBLE n 1.234 0.0141 1.234 0.0141
+DXY CBE NAU  SINGLE y 1.385 0.0100 1.385 0.0100
+DXY CAZ NAS  DOUBLE y 1.324 0.0100 1.324 0.0100
+DXY NAU CAZ  SINGLE y 1.360 0.0100 1.360 0.0100
+DXY CAZ NAB  SINGLE n 1.333 0.0113 1.333 0.0113
+DXY CG  H1G  SINGLE n 1.089 0.0100 0.981 0.0185
+DXY CG  H2G  SINGLE n 1.089 0.0100 0.981 0.0185
+DXY CB  H1B  SINGLE n 1.089 0.0100 0.980 0.0178
+DXY CB  H2B  SINGLE n 1.089 0.0100 0.980 0.0178
+DXY CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
+DXY N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
+DXY CAK HAK  SINGLE n 1.082 0.0130 0.941 0.0168
+DXY CAM HAM  SINGLE n 1.082 0.0130 0.943 0.0173
+DXY CAJ HAJ  SINGLE n 1.082 0.0130 0.941 0.0168
+DXY CAL HAL  SINGLE n 1.082 0.0130 0.943 0.0173
+DXY CBG HBG  SINGLE n 1.089 0.0100 0.989 0.0200
+DXY CAA H1AA SINGLE n 1.089 0.0100 0.965 0.0170
+DXY CAA H2AA SINGLE n 1.089 0.0100 0.965 0.0170
+DXY CAA H3AA SINGLE n 1.089 0.0100 0.965 0.0170
+DXY CAQ H1AQ SINGLE n 1.089 0.0100 0.980 0.0160
+DXY CAQ H2AQ SINGLE n 1.089 0.0100 0.980 0.0160
+DXY CAN H1AN SINGLE n 1.089 0.0100 0.980 0.0160
+DXY CAN H2AN SINGLE n 1.089 0.0100 0.980 0.0160
+DXY CAP H1AP SINGLE n 1.089 0.0100 0.981 0.0150
+DXY CAP H2AP SINGLE n 1.089 0.0100 0.981 0.0150
+DXY NAU HNAU SINGLE n 1.016 0.0100 0.886 0.0200
+DXY NAB H1AB SINGLE n 1.016 0.0100 0.877 0.0200
+DXY NAB H2AB SINGLE n 1.016 0.0100 0.877 0.0200
+DXY NAC H1AC SINGLE n 1.016 0.0100 0.877 0.0200
+DXY NAC H2AC SINGLE n 1.016 0.0100 0.877 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -155,107 +155,108 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DXY         OE2          CD         OE1     123.571    1.50
-DXY         OE2          CD          CG     118.214    1.64
-DXY         OE1          CD          CG     118.214    1.64
-DXY          CD          CG          CB     114.629    2.24
-DXY          CD          CG         H1G     108.404    1.50
-DXY          CD          CG         H2G     108.404    1.50
-DXY          CB          CG         H1G     108.906    1.50
-DXY          CB          CG         H2G     108.906    1.50
-DXY         H1G          CG         H2G     107.521    1.50
-DXY          CG          CB          CA     112.938    1.50
-DXY          CG          CB         H1B     108.890    1.50
-DXY          CG          CB         H2B     108.890    1.50
-DXY          CA          CB         H1B     108.606    1.50
-DXY          CA          CB         H2B     108.606    1.50
-DXY         H1B          CB         H2B     107.844    1.50
-DXY          CB          CA           N     110.984    1.61
-DXY          CB          CA           C     111.638    2.31
-DXY          CB          CA          HA     108.155    1.50
-DXY           N          CA           C     110.522    1.86
-DXY           N          CA          HA     107.930    1.50
-DXY           C          CA          HA     108.327    1.50
-DXY          CA           C           O     117.249    1.61
-DXY          CA           C         OXT     117.249    1.61
-DXY           O           C         OXT     125.502    1.50
-DXY          CA           N         CAY     122.253    1.50
-DXY          CA           N          HN     118.320    2.24
-DXY         CAY           N          HN     119.427    1.94
-DXY         OAF         CAY           N     122.394    1.50
-DXY         OAF         CAY         CBB     120.865    1.50
-DXY           N         CAY         CBB     116.740    1.50
-DXY         CAY         CBB         CAJ     120.543    2.80
-DXY         CAY         CBB         CAK     120.543    2.80
-DXY         CAJ         CBB         CAK     118.913    1.50
-DXY         CBB         CAK         CAM     120.483    1.50
-DXY         CBB         CAK         HAK     119.855    1.50
-DXY         CAM         CAK         HAK     119.661    1.50
-DXY         CAK         CAM         CBC     120.795    1.50
-DXY         CAK         CAM         HAM     119.576    1.50
-DXY         CBC         CAM         HAM     119.622    1.50
-DXY         CBB         CAJ         CAL     120.483    1.50
-DXY         CBB         CAJ         HAJ     119.855    1.50
-DXY         CAL         CAJ         HAJ     119.661    1.50
-DXY         CAJ         CAL         CBC     120.795    1.50
-DXY         CAJ         CAL         HAL     119.576    1.50
-DXY         CBC         CAL         HAL     119.622    1.50
-DXY         CAL         CBC         CAM     118.546    1.50
-DXY         CAL         CBC         CBG     120.727    1.50
-DXY         CAM         CBC         CBG     120.727    1.50
-DXY         SAV         CBG         CBC     111.331    2.30
-DXY         SAV         CBG         CAQ     112.239    3.00
-DXY         SAV         CBG         HBG     108.086    1.50
-DXY         CBC         CBG         CAQ     111.214    1.89
-DXY         CBC         CBG         HBG     108.259    1.50
-DXY         CAQ         CBG         HBG     108.564    1.57
-DXY         CAA         SAV         CBG     100.627    1.50
-DXY         SAV         CAA        H1AA     109.465    1.50
-DXY         SAV         CAA        H2AA     109.465    1.50
-DXY         SAV         CAA        H3AA     109.465    1.50
-DXY        H1AA         CAA        H2AA     109.509    1.50
-DXY        H1AA         CAA        H3AA     109.509    1.50
-DXY        H2AA         CAA        H3AA     109.509    1.50
-DXY         CBG         CAQ         CAN     114.339    1.50
-DXY         CBG         CAQ        H1AQ     109.269    1.50
-DXY         CBG         CAQ        H2AQ     109.269    1.50
-DXY         CAN         CAQ        H1AQ     108.801    1.50
-DXY         CAN         CAQ        H2AQ     108.801    1.50
-DXY        H1AQ         CAQ        H2AQ     107.715    1.50
-DXY         CAQ         CAN         CAP     113.764    1.91
-DXY         CAQ         CAN        H1AN     108.801    1.50
-DXY         CAQ         CAN        H2AN     108.801    1.50
-DXY         CAP         CAN        H1AN     108.763    1.50
-DXY         CAP         CAN        H2AN     108.763    1.50
-DXY        H1AN         CAN        H2AN     107.749    1.50
-DXY         CAN         CAP         CBD     114.108    2.12
-DXY         CAN         CAP        H1AP     108.665    1.50
-DXY         CAN         CAP        H2AP     108.665    1.50
-DXY         CBD         CAP        H1AP     108.906    1.50
-DXY         CBD         CAP        H2AP     108.906    1.50
-DXY        H1AP         CAP        H2AP     107.745    1.50
-DXY         CAP         CBD         CBA     123.144    1.56
-DXY         CAP         CBD         CBE     118.636    1.50
-DXY         CBA         CBD         CBE     118.220    1.50
-DXY         CBD         CBE         OAG     124.619    1.50
-DXY         CBD         CBE         NAU     116.403    1.50
-DXY         OAG         CBE         NAU     118.977    1.50
-DXY         CBE         NAU         CAZ     121.858    1.50
-DXY         CBE         NAU        HNAU     118.233    1.78
-DXY         CAZ         NAU        HNAU     119.909    1.62
-DXY         NAS         CAZ         NAU     122.841    1.50
-DXY         NAS         CAZ         NAB     119.602    1.50
-DXY         NAU         CAZ         NAB     117.557    1.50
-DXY         CAZ         NAB        H1AB     119.731    1.85
-DXY         CAZ         NAB        H2AB     119.731    1.85
-DXY        H1AB         NAB        H2AB     120.538    1.96
-DXY         CBA         NAS         CAZ     118.798    1.50
-DXY         NAC         CBA         CBD     121.272    1.50
-DXY         NAC         CBA         NAS     116.848    1.55
-DXY         CBD         CBA         NAS     121.880    1.50
-DXY         CBA         NAC        H1AC     119.860    1.50
-DXY         CBA         NAC        H2AC     119.860    1.50
-DXY        H1AC         NAC        H2AC     120.280    1.85
+DXY OE2  CD  OE1  123.571 1.50
+DXY OE2  CD  CG   118.214 1.64
+DXY OE1  CD  CG   118.214 1.64
+DXY CD   CG  CB   114.629 2.24
+DXY CD   CG  H1G  108.404 1.50
+DXY CD   CG  H2G  108.404 1.50
+DXY CB   CG  H1G  108.906 1.50
+DXY CB   CG  H2G  108.906 1.50
+DXY H1G  CG  H2G  107.521 1.50
+DXY CG   CB  CA   112.938 1.50
+DXY CG   CB  H1B  108.890 1.50
+DXY CG   CB  H2B  108.890 1.50
+DXY CA   CB  H1B  108.606 1.50
+DXY CA   CB  H2B  108.606 1.50
+DXY H1B  CB  H2B  107.844 1.50
+DXY CB   CA  N    110.984 1.61
+DXY CB   CA  C    111.638 2.31
+DXY CB   CA  HA   108.155 1.50
+DXY N    CA  C    110.522 1.86
+DXY N    CA  HA   107.930 1.50
+DXY C    CA  HA   108.327 1.50
+DXY CA   C   O    117.249 1.61
+DXY CA   C   OXT  117.249 1.61
+DXY O    C   OXT  125.502 1.50
+DXY CA   N   CAY  122.253 1.50
+DXY CA   N   HN   118.320 2.24
+DXY CAY  N   HN   119.427 1.94
+DXY OAF  CAY N    122.394 1.50
+DXY OAF  CAY CBB  120.865 1.50
+DXY N    CAY CBB  116.740 1.50
+DXY CAY  CBB CAJ  120.543 2.80
+DXY CAY  CBB CAK  120.543 2.80
+DXY CAJ  CBB CAK  118.913 1.50
+DXY CBB  CAK CAM  120.483 1.50
+DXY CBB  CAK HAK  119.855 1.50
+DXY CAM  CAK HAK  119.661 1.50
+DXY CAK  CAM CBC  120.795 1.50
+DXY CAK  CAM HAM  119.576 1.50
+DXY CBC  CAM HAM  119.622 1.50
+DXY CBB  CAJ CAL  120.483 1.50
+DXY CBB  CAJ HAJ  119.855 1.50
+DXY CAL  CAJ HAJ  119.661 1.50
+DXY CAJ  CAL CBC  120.795 1.50
+DXY CAJ  CAL HAL  119.576 1.50
+DXY CBC  CAL HAL  119.622 1.50
+DXY CAL  CBC CAM  118.546 1.50
+DXY CAL  CBC CBG  120.727 1.50
+DXY CAM  CBC CBG  120.727 1.50
+DXY SAV  CBG CBC  111.331 2.30
+DXY SAV  CBG CAQ  112.239 3.00
+DXY SAV  CBG HBG  108.086 1.50
+DXY CBC  CBG CAQ  111.214 1.89
+DXY CBC  CBG HBG  108.259 1.50
+DXY CAQ  CBG HBG  108.564 1.57
+DXY CAA  SAV CBG  100.627 1.50
+DXY SAV  CAA H1AA 109.465 1.50
+DXY SAV  CAA H2AA 109.465 1.50
+DXY SAV  CAA H3AA 109.465 1.50
+DXY H1AA CAA H2AA 109.509 1.50
+DXY H1AA CAA H3AA 109.509 1.50
+DXY H2AA CAA H3AA 109.509 1.50
+DXY CBG  CAQ CAN  114.339 1.50
+DXY CBG  CAQ H1AQ 109.269 1.50
+DXY CBG  CAQ H2AQ 109.269 1.50
+DXY CAN  CAQ H1AQ 108.801 1.50
+DXY CAN  CAQ H2AQ 108.801 1.50
+DXY H1AQ CAQ H2AQ 107.715 1.50
+DXY CAQ  CAN CAP  113.764 1.91
+DXY CAQ  CAN H1AN 108.801 1.50
+DXY CAQ  CAN H2AN 108.801 1.50
+DXY CAP  CAN H1AN 108.763 1.50
+DXY CAP  CAN H2AN 108.763 1.50
+DXY H1AN CAN H2AN 107.749 1.50
+DXY CAN  CAP CBD  114.108 2.12
+DXY CAN  CAP H1AP 108.665 1.50
+DXY CAN  CAP H2AP 108.665 1.50
+DXY CBD  CAP H1AP 108.906 1.50
+DXY CBD  CAP H2AP 108.906 1.50
+DXY H1AP CAP H2AP 107.745 1.50
+DXY CAP  CBD CBA  123.144 1.56
+DXY CAP  CBD CBE  118.636 1.50
+DXY CBA  CBD CBE  118.220 1.50
+DXY CBD  CBE OAG  124.619 1.50
+DXY CBD  CBE NAU  116.403 1.50
+DXY OAG  CBE NAU  118.977 1.50
+DXY CBE  NAU CAZ  121.858 1.50
+DXY CBE  NAU HNAU 118.233 1.78
+DXY CAZ  NAU HNAU 119.909 1.62
+DXY NAS  CAZ NAU  122.841 1.50
+DXY NAS  CAZ NAB  119.602 1.50
+DXY NAU  CAZ NAB  117.557 1.50
+DXY CAZ  NAB H1AB 119.731 1.85
+DXY CAZ  NAB H2AB 119.731 1.85
+DXY H1AB NAB H2AB 120.538 1.96
+DXY CBA  NAS CAZ  118.798 1.50
+DXY NAC  CBA CBD  121.272 1.50
+DXY NAC  CBA NAS  116.848 1.55
+DXY CBD  CBA NAS  121.880 1.50
+DXY CBA  NAC H1AC 119.860 1.50
+DXY CBA  NAC H2AC 119.860 1.50
+DXY H1AC NAC H2AC 120.280 1.85
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -266,34 +267,35 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DXY             sp2_sp2_7         OAF         CAY         CBB         CAJ       0.000     5.0     2
-DXY              const_38         CAM         CAK         CBB         CAY     180.000    10.0     2
-DXY       const_sp2_sp2_2         CAL         CAJ         CBB         CAY     180.000     5.0     2
-DXY              const_17         CBB         CAK         CAM         CBC       0.000    10.0     2
-DXY              const_14         CAK         CAM         CBC         CBG     180.000    10.0     2
-DXY       const_sp2_sp2_5         CBB         CAJ         CAL         CBC       0.000     5.0     2
-DXY              const_10         CAJ         CAL         CBC         CBG     180.000    10.0     2
-DXY            sp2_sp3_19         CAL         CBC         CBG         SAV     150.000    10.0     6
-DXY            sp3_sp3_23         CAQ         CBG         SAV         CAA      60.000    10.0     3
-DXY            sp3_sp3_25         CAN         CAQ         CBG         SAV     180.000    10.0     3
-DXY            sp3_sp3_19        H1AA         CAA         SAV         CBG     180.000    10.0     3
-DXY             sp2_sp3_2         OE2          CD          CG          CB     120.000    10.0     6
-DXY            sp3_sp3_34         CAP         CAN         CAQ         CBG     180.000    10.0     3
-DXY            sp3_sp3_43         CAQ         CAN         CAP         CBD     180.000    10.0     3
-DXY            sp2_sp3_26         CBA         CBD         CAP         CAN     -90.000    10.0     6
-DXY              const_44         CAP         CBD         CBE         OAG       0.000    10.0     2
-DXY              const_24         NAC         CBA         CBD         CAP       0.000    10.0     2
-DXY              const_35         OAG         CBE         NAU         CAZ     180.000    10.0     2
-DXY              const_31         NAB         CAZ         NAU         CBE     180.000    10.0     2
-DXY            sp2_sp2_15         NAS         CAZ         NAB        H1AB       0.000     5.0     2
-DXY              const_28         NAB         CAZ         NAS         CBA     180.000    10.0     2
-DXY              const_26         NAC         CBA         NAS         CAZ     180.000    10.0     2
-DXY             sp2_sp2_9         CBD         CBA         NAC        H1AC     180.000     5.0     2
-DXY             sp3_sp3_1          CA          CB          CG          CD     180.000    10.0     3
-DXY            sp3_sp3_10           N          CA          CB          CG     180.000    10.0     3
-DXY            sp2_sp3_13           O           C          CA          CB       0.000    10.0     6
-DXY             sp2_sp3_7         CAY           N          CA          CB       0.000    10.0     6
-DXY             sp2_sp2_3         OAF         CAY           N          CA       0.000     5.0     2
+DXY sp2_sp2_7       OAF  CAY CBB CAJ  0.000   5.0  2
+DXY const_38        CAM  CAK CBB CAY  180.000 10.0 2
+DXY const_sp2_sp2_2 CAL  CAJ CBB CAY  180.000 5.0  2
+DXY const_17        CBB  CAK CAM CBC  0.000   10.0 2
+DXY const_14        CAK  CAM CBC CBG  180.000 10.0 2
+DXY const_sp2_sp2_5 CBB  CAJ CAL CBC  0.000   5.0  2
+DXY const_10        CAJ  CAL CBC CBG  180.000 10.0 2
+DXY sp2_sp3_19      CAL  CBC CBG SAV  150.000 10.0 6
+DXY sp3_sp3_23      CAQ  CBG SAV CAA  60.000  10.0 3
+DXY sp3_sp3_25      CAN  CAQ CBG SAV  180.000 10.0 3
+DXY sp3_sp3_19      H1AA CAA SAV CBG  180.000 10.0 3
+DXY sp2_sp3_2       OE2  CD  CG  CB   120.000 10.0 6
+DXY sp3_sp3_34      CAP  CAN CAQ CBG  180.000 10.0 3
+DXY sp3_sp3_43      CAQ  CAN CAP CBD  180.000 10.0 3
+DXY sp2_sp3_26      CBA  CBD CAP CAN  -90.000 10.0 6
+DXY const_44        CAP  CBD CBE OAG  0.000   10.0 2
+DXY const_24        NAC  CBA CBD CAP  0.000   10.0 2
+DXY const_35        OAG  CBE NAU CAZ  180.000 10.0 2
+DXY const_31        NAB  CAZ NAU CBE  180.000 10.0 2
+DXY sp2_sp2_15      NAS  CAZ NAB H1AB 0.000   5.0  2
+DXY const_28        NAB  CAZ NAS CBA  180.000 10.0 2
+DXY const_26        NAC  CBA NAS CAZ  180.000 10.0 2
+DXY sp2_sp2_9       CBD  CBA NAC H1AC 180.000 5.0  2
+DXY sp3_sp3_1       CA   CB  CG  CD   180.000 10.0 3
+DXY sp3_sp3_10      N    CA  CB  CG   180.000 10.0 3
+DXY sp2_sp3_13      O    C   CA  CB   0.000   10.0 6
+DXY sp2_sp3_7       CAY  N   CA  CB   0.000   10.0 6
+DXY sp2_sp2_3       OAF  CAY N   CA   0.000   5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -302,79 +304,90 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DXY    chir_1    CA    N    C    CB    positive
-DXY    chir_2    CBG    SAV    CBC    CAQ    positive
+DXY chir_1 CA  N   C   CB  positive
+DXY chir_2 CBG SAV CBC CAQ positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DXY    plan-1         CAJ   0.020
-DXY    plan-1         CAK   0.020
-DXY    plan-1         CAL   0.020
-DXY    plan-1         CAM   0.020
-DXY    plan-1         CAY   0.020
-DXY    plan-1         CBB   0.020
-DXY    plan-1         CBC   0.020
-DXY    plan-1         CBG   0.020
-DXY    plan-1         HAJ   0.020
-DXY    plan-1         HAK   0.020
-DXY    plan-1         HAL   0.020
-DXY    plan-1         HAM   0.020
-DXY    plan-2         CAP   0.020
-DXY    plan-2         CAZ   0.020
-DXY    plan-2         CBA   0.020
-DXY    plan-2         CBD   0.020
-DXY    plan-2         CBE   0.020
-DXY    plan-2        HNAU   0.020
-DXY    plan-2         NAB   0.020
-DXY    plan-2         NAC   0.020
-DXY    plan-2         NAS   0.020
-DXY    plan-2         NAU   0.020
-DXY    plan-2         OAG   0.020
-DXY    plan-3          CD   0.020
-DXY    plan-3          CG   0.020
-DXY    plan-3         OE1   0.020
-DXY    plan-3         OE2   0.020
-DXY    plan-4           C   0.020
-DXY    plan-4          CA   0.020
-DXY    plan-4           O   0.020
-DXY    plan-4         OXT   0.020
-DXY    plan-5          CA   0.020
-DXY    plan-5         CAY   0.020
-DXY    plan-5          HN   0.020
-DXY    plan-5           N   0.020
-DXY    plan-6         CAY   0.020
-DXY    plan-6         CBB   0.020
-DXY    plan-6           N   0.020
-DXY    plan-6         OAF   0.020
-DXY    plan-7         CAZ   0.020
-DXY    plan-7        H1AB   0.020
-DXY    plan-7        H2AB   0.020
-DXY    plan-7         NAB   0.020
-DXY    plan-8         CBA   0.020
-DXY    plan-8        H1AC   0.020
-DXY    plan-8        H2AC   0.020
-DXY    plan-8         NAC   0.020
+DXY plan-1 CAJ  0.020
+DXY plan-1 CAK  0.020
+DXY plan-1 CAL  0.020
+DXY plan-1 CAM  0.020
+DXY plan-1 CAY  0.020
+DXY plan-1 CBB  0.020
+DXY plan-1 CBC  0.020
+DXY plan-1 CBG  0.020
+DXY plan-1 HAJ  0.020
+DXY plan-1 HAK  0.020
+DXY plan-1 HAL  0.020
+DXY plan-1 HAM  0.020
+DXY plan-2 CAP  0.020
+DXY plan-2 CAZ  0.020
+DXY plan-2 CBA  0.020
+DXY plan-2 CBD  0.020
+DXY plan-2 CBE  0.020
+DXY plan-2 HNAU 0.020
+DXY plan-2 NAB  0.020
+DXY plan-2 NAC  0.020
+DXY plan-2 NAS  0.020
+DXY plan-2 NAU  0.020
+DXY plan-2 OAG  0.020
+DXY plan-3 CD   0.020
+DXY plan-3 CG   0.020
+DXY plan-3 OE1  0.020
+DXY plan-3 OE2  0.020
+DXY plan-4 C    0.020
+DXY plan-4 CA   0.020
+DXY plan-4 O    0.020
+DXY plan-4 OXT  0.020
+DXY plan-5 CA   0.020
+DXY plan-5 CAY  0.020
+DXY plan-5 HN   0.020
+DXY plan-5 N    0.020
+DXY plan-6 CAY  0.020
+DXY plan-6 CBB  0.020
+DXY plan-6 N    0.020
+DXY plan-6 OAF  0.020
+DXY plan-7 CAZ  0.020
+DXY plan-7 H1AB 0.020
+DXY plan-7 H2AB 0.020
+DXY plan-7 NAB  0.020
+DXY plan-8 CBA  0.020
+DXY plan-8 H1AC 0.020
+DXY plan-8 H2AC 0.020
+DXY plan-8 NAC  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DXY           SMILES              ACDLabs 10.04                                                                                                                                                  O=C1C(=C(N=C(N)N1)N)CCCC(SC)c2ccc(C(=O)NC(C(=O)O)CCC(=O)O)cc2
-DXY SMILES_CANONICAL               CACTVS 3.341                                                                                                                                          CS[C@@H](CCCC1=C(N)N=C(N)NC1=O)c2ccc(cc2)C(=O)N[C@@H](CCC(O)=O)C(O)=O
-DXY           SMILES               CACTVS 3.341                                                                                                                                              CS[CH](CCCC1=C(N)N=C(N)NC1=O)c2ccc(cc2)C(=O)N[CH](CCC(O)=O)C(O)=O
-DXY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                          CS[C@@H](CCCC1=C(N=C(NC1=O)N)N)c2ccc(cc2)C(=O)N[C@@H](CCC(=O)O)C(=O)O
-DXY           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                    CSC(CCCC1=C(N=C(NC1=O)N)N)c2ccc(cc2)C(=O)NC(CCC(=O)O)C(=O)O
-DXY            InChI                InChI  1.03 InChI=1S/C21H27N5O6S/c1-33-15(4-2-3-13-17(22)25-21(23)26-19(13)30)11-5-7-12(8-6-11)18(29)24-14(20(31)32)9-10-16(27)28/h5-8,14-15H,2-4,9-10H2,1H3,(H,24,29)(H,27,28)(H,31,32)(H5,22,23,25,26,30)/t14-,15-/m0/s1
-DXY         InChIKey                InChI  1.03                                                                                                                                                                                    GEZLAVXTPLTVRU-GJZGRUSLSA-N
+DXY SMILES           ACDLabs              10.04 O=C1C(=C(N=C(N)N1)N)CCCC(SC)c2ccc(C(=O)NC(C(=O)O)CCC(=O)O)cc2
+DXY SMILES_CANONICAL CACTVS               3.341 CS[C@@H](CCCC1=C(N)N=C(N)NC1=O)c2ccc(cc2)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+DXY SMILES           CACTVS               3.341 CS[CH](CCCC1=C(N)N=C(N)NC1=O)c2ccc(cc2)C(=O)N[CH](CCC(O)=O)C(O)=O
+DXY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CS[C@@H](CCCC1=C(N=C(NC1=O)N)N)c2ccc(cc2)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+DXY SMILES           "OpenEye OEToolkits" 1.5.0 CSC(CCCC1=C(N=C(NC1=O)N)N)c2ccc(cc2)C(=O)NC(CCC(=O)O)C(=O)O
+DXY InChI            InChI                1.03  InChI=1S/C21H27N5O6S/c1-33-15(4-2-3-13-17(22)25-21(23)26-19(13)30)11-5-7-12(8-6-11)18(29)24-14(20(31)32)9-10-16(27)28/h5-8,14-15H,2-4,9-10H2,1H3,(H,24,29)(H,27,28)(H,31,32)(H5,22,23,25,26,30)/t14-,15-/m0/s1
+DXY InChIKey         InChI                1.03  GEZLAVXTPLTVRU-GJZGRUSLSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DXY acedrg               243         "dictionary generator"                  
-DXY acedrg_database      11          "data source"                           
-DXY rdkit                2017.03.2   "Chemoinformatics tool"
-DXY refmac5              5.8.0238    "optimization tool"                     
+DXY acedrg          243       "dictionary generator"
+DXY acedrg_database 11        "data source"
+DXY rdkit           2017.03.2 "Chemoinformatics tool"
+DXY refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+DXY M-peptide CAY CN
+DXY M-peptide HN  H

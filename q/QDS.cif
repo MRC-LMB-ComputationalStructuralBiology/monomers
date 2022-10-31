@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-QDS     QDS      N-(quinoxalin-2-ylcarbonyl)-D-serine     NON-POLYMER     29     19     .     
-#
+QDS QDS N-(quinoxalin-2-ylcarbonyl)-D-serine NON-POLYMER 29 19 .
+
 data_comp_QDS
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,35 +19,36 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-QDS     N1      N       NRD6    0       -6.635      69.733      23.664      
-QDS     C2      C       CR6     0       -5.903      70.418      22.797      
-QDS     C3      C       CR16    0       -4.823      71.270      23.263      
-QDS     N4      N       NRD6    0       -4.526      71.401      24.530      
-QDS     C5      C       CR16    0       -5.007      70.794      26.813      
-QDS     C6      C       CR16    0       -5.755      70.093      27.714      
-QDS     C7      C       CR16    0       -6.810      69.259      27.280      
-QDS     C8      C       CR16    0       -7.101      69.139      25.953      
-QDS     C9      C       CR66    0       -6.342      69.854      24.997      
-QDS     C10     C       CR66    0       -5.284      70.691      25.433      
-QDS     C11     C       C       0       -6.215      70.294      21.332      
-QDS     O12     O       O       0       -5.611      70.979      20.505      
-QDS     N       N       NH1     0       -7.170      69.416      21.005      
-QDS     CA      C       CH1     0       -7.606      69.191      19.631      
-QDS     C       C       C       0       -6.572      68.353      18.854      
-QDS     O       O       O       0       -6.318      68.704      17.685      
-QDS     CB      C       CH2     0       -8.981      68.522      19.587      
-QDS     OG      O       OH1     0       -8.973      67.300      20.311      
-QDS     OXT     O       OC      -1      -6.065      67.380      19.449      
-QDS     H3      H       H       0       -4.316      71.746      22.632      
-QDS     H5      H       H       0       -4.302      71.350      27.112      
-QDS     H6      H       H       0       -5.565      70.166      28.636      
-QDS     H7      H       H       0       -7.320      68.779      27.914      
-QDS     H8      H       H       0       -7.809      68.579      25.669      
-QDS     H       H       H       0       -7.548      68.953      21.642      
-QDS     HA      H       H       0       -7.689      70.069      19.179      
-QDS     HB2     H       H       0       -9.234      68.345      18.652      
-QDS     HB3     H       H       0       -9.655      69.125      19.974      
-QDS     HG      H       H       0       -9.636      66.837      20.063      
+QDS N1  N NRD6 0  -6.635 69.733 23.664
+QDS C2  C CR6  0  -5.903 70.418 22.797
+QDS C3  C CR16 0  -4.823 71.270 23.263
+QDS N4  N NRD6 0  -4.526 71.401 24.530
+QDS C5  C CR16 0  -5.007 70.794 26.813
+QDS C6  C CR16 0  -5.755 70.093 27.714
+QDS C7  C CR16 0  -6.810 69.259 27.280
+QDS C8  C CR16 0  -7.101 69.139 25.953
+QDS C9  C CR66 0  -6.342 69.854 24.997
+QDS C10 C CR66 0  -5.284 70.691 25.433
+QDS C11 C C    0  -6.215 70.294 21.332
+QDS O12 O O    0  -5.611 70.979 20.505
+QDS N   N NH1  0  -7.170 69.416 21.005
+QDS CA  C CH1  0  -7.606 69.191 19.631
+QDS C   C C    0  -6.572 68.353 18.854
+QDS O   O O    0  -6.318 68.704 17.685
+QDS CB  C CH2  0  -8.981 68.522 19.587
+QDS OG  O OH1  0  -8.973 67.300 20.311
+QDS OXT O OC   -1 -6.065 67.380 19.449
+QDS H3  H H    0  -4.316 71.746 22.632
+QDS H5  H H    0  -4.302 71.350 27.112
+QDS H6  H H    0  -5.565 70.166 28.636
+QDS H7  H H    0  -7.320 68.779 27.914
+QDS H8  H H    0  -7.809 68.579 25.669
+QDS H   H H    0  -7.548 68.953 21.642
+QDS HA  H H    0  -7.689 70.069 19.179
+QDS HB2 H H    0  -9.234 68.345 18.652
+QDS HB3 H H    0  -9.655 69.125 19.974
+QDS HG  H H    0  -9.636 66.837 20.063
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -60,36 +59,37 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-QDS          N1          C2      DOUBLE       y     1.321  0.0102     1.321  0.0102
-QDS          N1          C9      SINGLE       y     1.368  0.0100     1.368  0.0100
-QDS          C2          C3      SINGLE       y     1.432  0.0200     1.432  0.0200
-QDS          C2         C11      SINGLE       n     1.482  0.0200     1.482  0.0200
-QDS          C3          N4      DOUBLE       y     1.303  0.0100     1.303  0.0100
-QDS          N4         C10      SINGLE       y     1.372  0.0100     1.372  0.0100
-QDS          C5          C6      SINGLE       y     1.361  0.0100     1.361  0.0100
-QDS          C5         C10      DOUBLE       y     1.408  0.0100     1.408  0.0100
-QDS          C6          C7      DOUBLE       y     1.409  0.0116     1.409  0.0116
-QDS          C7          C8      SINGLE       y     1.361  0.0100     1.361  0.0100
-QDS          C8          C9      DOUBLE       y     1.411  0.0100     1.411  0.0100
-QDS          C9         C10      SINGLE       y     1.412  0.0100     1.412  0.0100
-QDS         C11         O12      DOUBLE       n     1.230  0.0114     1.230  0.0114
-QDS         C11           N      SINGLE       n     1.332  0.0100     1.332  0.0100
-QDS           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
-QDS          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-QDS          CA          CB      SINGLE       n     1.529  0.0100     1.529  0.0100
-QDS           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-QDS           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-QDS          CB          OG      SINGLE       n     1.420  0.0140     1.420  0.0140
-QDS          C3          H3      SINGLE       n     1.082  0.0130     0.939  0.0118
-QDS          C5          H5      SINGLE       n     1.082  0.0130     0.946  0.0200
-QDS          C6          H6      SINGLE       n     1.082  0.0130     0.944  0.0200
-QDS          C7          H7      SINGLE       n     1.082  0.0130     0.944  0.0200
-QDS          C8          H8      SINGLE       n     1.082  0.0130     0.946  0.0200
-QDS           N           H      SINGLE       n     1.016  0.0100     0.872  0.0200
-QDS          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0123
-QDS          CB         HB2      SINGLE       n     1.089  0.0100     0.984  0.0200
-QDS          CB         HB3      SINGLE       n     1.089  0.0100     0.984  0.0200
-QDS          OG          HG      SINGLE       n     0.970  0.0120     0.846  0.0200
+QDS N1  C2  DOUBLE y 1.321 0.0102 1.321 0.0102
+QDS N1  C9  SINGLE y 1.368 0.0100 1.368 0.0100
+QDS C2  C3  SINGLE y 1.432 0.0200 1.432 0.0200
+QDS C2  C11 SINGLE n 1.482 0.0200 1.482 0.0200
+QDS C3  N4  DOUBLE y 1.303 0.0100 1.303 0.0100
+QDS N4  C10 SINGLE y 1.372 0.0100 1.372 0.0100
+QDS C5  C6  SINGLE y 1.361 0.0100 1.361 0.0100
+QDS C5  C10 DOUBLE y 1.408 0.0100 1.408 0.0100
+QDS C6  C7  DOUBLE y 1.409 0.0116 1.409 0.0116
+QDS C7  C8  SINGLE y 1.361 0.0100 1.361 0.0100
+QDS C8  C9  DOUBLE y 1.411 0.0100 1.411 0.0100
+QDS C9  C10 SINGLE y 1.412 0.0100 1.412 0.0100
+QDS C11 O12 DOUBLE n 1.230 0.0114 1.230 0.0114
+QDS C11 N   SINGLE n 1.332 0.0100 1.332 0.0100
+QDS N   CA  SINGLE n 1.456 0.0100 1.456 0.0100
+QDS CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+QDS CA  CB  SINGLE n 1.529 0.0100 1.529 0.0100
+QDS C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
+QDS C   OXT SINGLE n 1.247 0.0187 1.247 0.0187
+QDS CB  OG  SINGLE n 1.420 0.0140 1.420 0.0140
+QDS C3  H3  SINGLE n 1.082 0.0130 0.939 0.0118
+QDS C5  H5  SINGLE n 1.082 0.0130 0.946 0.0200
+QDS C6  H6  SINGLE n 1.082 0.0130 0.944 0.0200
+QDS C7  H7  SINGLE n 1.082 0.0130 0.944 0.0200
+QDS C8  H8  SINGLE n 1.082 0.0130 0.946 0.0200
+QDS N   H   SINGLE n 1.016 0.0100 0.872 0.0200
+QDS CA  HA  SINGLE n 1.089 0.0100 0.991 0.0123
+QDS CB  HB2 SINGLE n 1.089 0.0100 0.984 0.0200
+QDS CB  HB3 SINGLE n 1.089 0.0100 0.984 0.0200
+QDS OG  HG  SINGLE n 0.970 0.0120 0.846 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -97,54 +97,55 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-QDS          C2          N1          C9     118.263    1.50
-QDS          N1          C2          C3     121.360    1.50
-QDS          N1          C2         C11     118.410    1.50
-QDS          C3          C2         C11     120.230    3.00
-QDS          C2          C3          N4     122.374    1.50
-QDS          C2          C3          H3     118.788    1.50
-QDS          N4          C3          H3     118.838    1.50
-QDS          C3          N4         C10     116.098    1.50
-QDS          C6          C5         C10     119.931    1.50
-QDS          C6          C5          H5     120.173    1.50
-QDS         C10          C5          H5     119.887    1.50
-QDS          C5          C6          C7     120.703    1.50
-QDS          C5          C6          H6     119.575    1.50
-QDS          C7          C6          H6     119.722    1.50
-QDS          C6          C7          C8     120.703    1.50
-QDS          C6          C7          H7     119.722    1.50
-QDS          C8          C7          H7     119.575    1.50
-QDS          C7          C8          C9     119.931    1.50
-QDS          C7          C8          H8     120.173    1.50
-QDS          C9          C8          H8     119.887    1.50
-QDS          N1          C9          C8     119.601    1.50
-QDS          N1          C9         C10     121.023    1.50
-QDS          C8          C9         C10     119.376    1.50
-QDS          N4         C10          C5     119.741    1.50
-QDS          N4         C10          C9     120.883    1.50
-QDS          C5         C10          C9     119.376    1.50
-QDS          C2         C11         O12     120.855    1.50
-QDS          C2         C11           N     115.527    1.50
-QDS         O12         C11           N     123.619    1.50
-QDS         C11           N          CA     122.170    1.50
-QDS         C11           N           H     118.724    1.50
-QDS          CA           N           H     119.106    1.91
-QDS           N          CA           C     110.522    1.86
-QDS           N          CA          CB     111.090    1.58
-QDS           N          CA          HA     108.209    1.50
-QDS           C          CA          CB     110.594    1.50
-QDS           C          CA          HA     107.898    1.50
-QDS          CB          CA          HA     107.641    1.50
-QDS          CA           C           O     117.118    2.07
-QDS          CA           C         OXT     117.118    2.07
-QDS           O           C         OXT     125.765    1.50
-QDS          CA          CB          OG     110.859    1.50
-QDS          CA          CB         HB2     109.826    1.50
-QDS          CA          CB         HB3     109.826    1.50
-QDS          OG          CB         HB2     109.411    1.50
-QDS          OG          CB         HB3     109.411    1.50
-QDS         HB2          CB         HB3     108.070    1.50
-QDS          CB          OG          HG     108.529    2.94
+QDS C2  N1  C9  118.263 1.50
+QDS N1  C2  C3  121.360 1.50
+QDS N1  C2  C11 118.410 1.50
+QDS C3  C2  C11 120.230 3.00
+QDS C2  C3  N4  122.374 1.50
+QDS C2  C3  H3  118.788 1.50
+QDS N4  C3  H3  118.838 1.50
+QDS C3  N4  C10 116.098 1.50
+QDS C6  C5  C10 119.931 1.50
+QDS C6  C5  H5  120.173 1.50
+QDS C10 C5  H5  119.887 1.50
+QDS C5  C6  C7  120.703 1.50
+QDS C5  C6  H6  119.575 1.50
+QDS C7  C6  H6  119.722 1.50
+QDS C6  C7  C8  120.703 1.50
+QDS C6  C7  H7  119.722 1.50
+QDS C8  C7  H7  119.575 1.50
+QDS C7  C8  C9  119.931 1.50
+QDS C7  C8  H8  120.173 1.50
+QDS C9  C8  H8  119.887 1.50
+QDS N1  C9  C8  119.601 1.50
+QDS N1  C9  C10 121.023 1.50
+QDS C8  C9  C10 119.376 1.50
+QDS N4  C10 C5  119.741 1.50
+QDS N4  C10 C9  120.883 1.50
+QDS C5  C10 C9  119.376 1.50
+QDS C2  C11 O12 120.855 1.50
+QDS C2  C11 N   115.527 1.50
+QDS O12 C11 N   123.619 1.50
+QDS C11 N   CA  122.170 1.50
+QDS C11 N   H   118.724 1.50
+QDS CA  N   H   119.106 1.91
+QDS N   CA  C   110.522 1.86
+QDS N   CA  CB  111.090 1.58
+QDS N   CA  HA  108.209 1.50
+QDS C   CA  CB  110.594 1.50
+QDS C   CA  HA  107.898 1.50
+QDS CB  CA  HA  107.641 1.50
+QDS CA  C   O   117.118 2.07
+QDS CA  C   OXT 117.118 2.07
+QDS O   C   OXT 125.765 1.50
+QDS CA  CB  OG  110.859 1.50
+QDS CA  CB  HB2 109.826 1.50
+QDS CA  CB  HB3 109.826 1.50
+QDS OG  CB  HB2 109.411 1.50
+QDS OG  CB  HB3 109.411 1.50
+QDS HB2 CB  HB3 108.070 1.50
+QDS CB  OG  HG  108.529 2.94
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -155,23 +156,24 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-QDS       const_sp2_sp2_2         C11          C2          N1          C9     180.000     5.0     2
-QDS              const_32          C8          C9          N1          C2     180.000    10.0     2
-QDS             sp2_sp2_7         O12         C11           N          CA       0.000     5.0     2
-QDS             sp2_sp3_1         C11           N          CA           C       0.000    10.0     6
-QDS             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-QDS             sp3_sp3_1           N          CA          CB          OG     180.000    10.0     3
-QDS            sp3_sp3_10          CA          CB          OG          HG     180.000    10.0     3
-QDS             sp2_sp2_4         O12         C11          C2          N1     180.000     5.0     2
-QDS       const_sp2_sp2_5         C11          C2          C3          N4     180.000     5.0     2
-QDS       const_sp2_sp2_7          C2          C3          N4         C10       0.000     5.0     2
-QDS              const_10          C5         C10          N4          C3     180.000    10.0     2
-QDS              const_15         C10          C5          C6          C7       0.000    10.0     2
-QDS              const_35          N4         C10          C5          C6     180.000    10.0     2
-QDS              const_19          C5          C6          C7          C8       0.000    10.0     2
-QDS              const_23          C6          C7          C8          C9       0.000    10.0     2
-QDS              const_28          C7          C8          C9          N1     180.000    10.0     2
-QDS              const_11          N4         C10          C9          N1       0.000    10.0     2
+QDS const_sp2_sp2_2 C11 C2  N1 C9  180.000 5.0  2
+QDS const_32        C8  C9  N1 C2  180.000 10.0 2
+QDS sp2_sp2_7       O12 C11 N  CA  0.000   5.0  2
+QDS sp2_sp3_1       C11 N   CA C   0.000   10.0 6
+QDS sp2_sp3_7       O   C   CA N   0.000   10.0 6
+QDS sp3_sp3_1       N   CA  CB OG  180.000 10.0 3
+QDS sp3_sp3_10      CA  CB  OG HG  180.000 10.0 3
+QDS sp2_sp2_4       O12 C11 C2 N1  180.000 5.0  2
+QDS const_sp2_sp2_5 C11 C2  C3 N4  180.000 5.0  2
+QDS const_sp2_sp2_7 C2  C3  N4 C10 0.000   5.0  2
+QDS const_10        C5  C10 N4 C3  180.000 10.0 2
+QDS const_15        C10 C5  C6 C7  0.000   10.0 2
+QDS const_35        N4  C10 C5 C6  180.000 10.0 2
+QDS const_19        C5  C6  C7 C8  0.000   10.0 2
+QDS const_23        C6  C7  C8 C9  0.000   10.0 2
+QDS const_28        C7  C8  C9 N1  180.000 10.0 2
+QDS const_11        N4  C10 C9 N1  0.000   10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -180,59 +182,69 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-QDS    chir_1    CA    N    C    CB    negative
+QDS chir_1 CA N C CB negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-QDS    plan-1         C10   0.020
-QDS    plan-1         C11   0.020
-QDS    plan-1          C2   0.020
-QDS    plan-1          C3   0.020
-QDS    plan-1          C5   0.020
-QDS    plan-1          C6   0.020
-QDS    plan-1          C7   0.020
-QDS    plan-1          C8   0.020
-QDS    plan-1          C9   0.020
-QDS    plan-1          H3   0.020
-QDS    plan-1          H5   0.020
-QDS    plan-1          H6   0.020
-QDS    plan-1          H7   0.020
-QDS    plan-1          H8   0.020
-QDS    plan-1          N1   0.020
-QDS    plan-1          N4   0.020
-QDS    plan-2         C11   0.020
-QDS    plan-2          C2   0.020
-QDS    plan-2           N   0.020
-QDS    plan-2         O12   0.020
-QDS    plan-3         C11   0.020
-QDS    plan-3          CA   0.020
-QDS    plan-3           H   0.020
-QDS    plan-3           N   0.020
-QDS    plan-4           C   0.020
-QDS    plan-4          CA   0.020
-QDS    plan-4           O   0.020
-QDS    plan-4         OXT   0.020
+QDS plan-1 C10 0.020
+QDS plan-1 C11 0.020
+QDS plan-1 C2  0.020
+QDS plan-1 C3  0.020
+QDS plan-1 C5  0.020
+QDS plan-1 C6  0.020
+QDS plan-1 C7  0.020
+QDS plan-1 C8  0.020
+QDS plan-1 C9  0.020
+QDS plan-1 H3  0.020
+QDS plan-1 H5  0.020
+QDS plan-1 H6  0.020
+QDS plan-1 H7  0.020
+QDS plan-1 H8  0.020
+QDS plan-1 N1  0.020
+QDS plan-1 N4  0.020
+QDS plan-2 C11 0.020
+QDS plan-2 C2  0.020
+QDS plan-2 N   0.020
+QDS plan-2 O12 0.020
+QDS plan-3 C11 0.020
+QDS plan-3 CA  0.020
+QDS plan-3 H   0.020
+QDS plan-3 N   0.020
+QDS plan-4 C   0.020
+QDS plan-4 CA  0.020
+QDS plan-4 O   0.020
+QDS plan-4 OXT 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-QDS           SMILES              ACDLabs 10.04                                                                                        O=C(O)C(NC(=O)c1nc2ccccc2nc1)CO
-QDS SMILES_CANONICAL               CACTVS 3.352                                                                                   OC[C@@H](NC(=O)c1cnc2ccccc2n1)C(O)=O
-QDS           SMILES               CACTVS 3.352                                                                                     OC[CH](NC(=O)c1cnc2ccccc2n1)C(O)=O
-QDS SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1                                                                                c1ccc2c(c1)ncc(n2)C(=O)N[C@H](CO)C(=O)O
-QDS           SMILES "OpenEye OEToolkits" 1.6.1                                                                                    c1ccc2c(c1)ncc(n2)C(=O)NC(CO)C(=O)O
-QDS            InChI                InChI  1.03 InChI=1S/C12H11N3O4/c16-6-10(12(18)19)15-11(17)9-5-13-7-3-1-2-4-8(7)14-9/h1-5,10,16H,6H2,(H,15,17)(H,18,19)/t10-/m1/s1
-QDS         InChIKey                InChI  1.03                                                                                            LGAAZSQTJQTRJH-SNVBAGLBSA-N
+QDS SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)c1nc2ccccc2nc1)CO
+QDS SMILES_CANONICAL CACTVS               3.352 OC[C@@H](NC(=O)c1cnc2ccccc2n1)C(O)=O
+QDS SMILES           CACTVS               3.352 OC[CH](NC(=O)c1cnc2ccccc2n1)C(O)=O
+QDS SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 c1ccc2c(c1)ncc(n2)C(=O)N[C@H](CO)C(=O)O
+QDS SMILES           "OpenEye OEToolkits" 1.6.1 c1ccc2c(c1)ncc(n2)C(=O)NC(CO)C(=O)O
+QDS InChI            InChI                1.03  InChI=1S/C12H11N3O4/c16-6-10(12(18)19)15-11(17)9-5-13-7-3-1-2-4-8(7)14-9/h1-5,10,16H,6H2,(H,15,17)(H,18,19)/t10-/m1/s1
+QDS InChIKey         InChI                1.03  LGAAZSQTJQTRJH-SNVBAGLBSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-QDS acedrg               243         "dictionary generator"                  
-QDS acedrg_database      11          "data source"                           
-QDS rdkit                2017.03.2   "Chemoinformatics tool"
-QDS refmac5              5.8.0238    "optimization tool"                     
+QDS acedrg          243       "dictionary generator"
+QDS acedrg_database 11        "data source"
+QDS rdkit           2017.03.2 "Chemoinformatics tool"
+QDS refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+QDS M-peptide C11 CN

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-BNN     BNN      ACETYL-P-AMIDINOPHENYLALANINE     NON-POLYMER     32     18     .     
-#
+BNN BNN ACETYL-P-AMIDINOPHENYLALANINE NON-POLYMER 32 18 .
+
 data_comp_BNN
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,38 +19,39 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-BNN     N       N       NH1     0       17.210      -13.434     20.275      
-BNN     CA      C       CH1     0       16.143      -13.318     21.263      
-BNN     C       C       C       0       16.022      -14.591     22.122      
-BNN     O       O       O       0       15.868      -14.439     23.350      
-BNN     O1      O       O       0       18.895      -13.184     21.744      
-BNN     CH      C       CH3     0       19.495      -13.553     19.475      
-BNN     C11     C       C       0       18.512      -13.371     20.590      
-BNN     N16     N       NH2     0       9.844       -10.461     24.035      
-BNN     N17     N       NH1     0       10.402      -12.175     25.442      
-BNN     C1      C       CR6     0       13.700      -12.644     21.563      
-BNN     C2      C       CR16    0       12.731      -13.558     21.962      
-BNN     C3      C       CR16    0       11.733      -13.202     22.856      
-BNN     C4      C       CR6     0       11.678      -11.913     23.380      
-BNN     C5      C       CR16    0       12.648      -10.995     22.987      
-BNN     C6      C       CR16    0       13.643      -11.359     22.091      
-BNN     C7      C       CH2     0       14.786      -13.036     20.593      
-BNN     C15     C       C       0       10.611      -11.529     24.341      
-BNN     OXT     O       OC      -1      16.085      -15.687     21.530      
-BNN     H       H       H       0       16.975      -13.552     19.442      
-BNN     HA      H       H       0       16.354      -12.556     21.856      
-BNN     HH11    H       H       0       19.029      -13.656     18.629      
-BNN     HH12    H       H       0       20.032      -14.345     19.642      
-BNN     HH13    H       H       0       20.077      -12.778     19.426      
-BNN     H161    H       H       0       9.978       -10.017     23.277      
-BNN     H162    H       H       0       9.205       -10.200     24.592      
-BNN     H17     H       H       0       10.894      -12.820     25.589      
-BNN     H2      H       H       0       12.753      -14.435     21.616      
-BNN     H3      H       H       0       11.088      -13.839     23.110      
-BNN     H5      H       H       0       12.629      -10.118     23.329      
-BNN     H6      H       H       0       14.292      -10.724     21.834      
-BNN     H71     H       H       0       14.503      -13.838     20.105      
-BNN     H72     H       H       0       14.902      -12.315     19.940      
+BNN N    N NH1  0  17.210 -13.434 20.275
+BNN CA   C CH1  0  16.143 -13.318 21.263
+BNN C    C C    0  16.022 -14.591 22.122
+BNN O    O O    0  15.868 -14.439 23.350
+BNN O1   O O    0  18.895 -13.184 21.744
+BNN CH   C CH3  0  19.495 -13.553 19.475
+BNN C11  C C    0  18.512 -13.371 20.590
+BNN N16  N NH2  0  9.844  -10.461 24.035
+BNN N17  N NH1  0  10.402 -12.175 25.442
+BNN C1   C CR6  0  13.700 -12.644 21.563
+BNN C2   C CR16 0  12.731 -13.558 21.962
+BNN C3   C CR16 0  11.733 -13.202 22.856
+BNN C4   C CR6  0  11.678 -11.913 23.380
+BNN C5   C CR16 0  12.648 -10.995 22.987
+BNN C6   C CR16 0  13.643 -11.359 22.091
+BNN C7   C CH2  0  14.786 -13.036 20.593
+BNN C15  C C    0  10.611 -11.529 24.341
+BNN OXT  O OC   -1 16.085 -15.687 21.530
+BNN H    H H    0  16.975 -13.552 19.442
+BNN HA   H H    0  16.354 -12.556 21.856
+BNN HH11 H H    0  19.029 -13.656 18.629
+BNN HH12 H H    0  20.032 -14.345 19.642
+BNN HH13 H H    0  20.077 -12.778 19.426
+BNN H161 H H    0  9.978  -10.017 23.277
+BNN H162 H H    0  9.205  -10.200 24.592
+BNN H17  H H    0  10.894 -12.820 25.589
+BNN H2   H H    0  12.753 -14.435 21.616
+BNN H3   H H    0  11.088 -13.839 23.110
+BNN H5   H H    0  12.629 -10.118 23.329
+BNN H6   H H    0  14.292 -10.724 21.834
+BNN H71  H H    0  14.503 -13.838 20.105
+BNN H72  H H    0  14.902 -12.315 19.940
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -63,38 +62,39 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-BNN           N          CA      SINGLE       n     1.455  0.0100     1.455  0.0100
-BNN           N         C11      SINGLE       n     1.335  0.0100     1.335  0.0100
-BNN          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-BNN          CA          C7      SINGLE       n     1.538  0.0100     1.538  0.0100
-BNN           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BNN           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-BNN          O1         C11      DOUBLE       n     1.229  0.0102     1.229  0.0102
-BNN          CH         C11      SINGLE       n     1.495  0.0100     1.495  0.0100
-BNN         N16         C15      SINGLE       n     1.347  0.0152     1.347  0.0152
-BNN         N17         C15      DOUBLE       n     1.287  0.0200     1.287  0.0200
-BNN          C1          C2      DOUBLE       y     1.385  0.0110     1.385  0.0110
-BNN          C1          C6      SINGLE       y     1.385  0.0110     1.385  0.0110
-BNN          C1          C7      SINGLE       n     1.508  0.0100     1.508  0.0100
-BNN          C2          C3      SINGLE       y     1.383  0.0100     1.383  0.0100
-BNN          C3          C4      DOUBLE       y     1.390  0.0100     1.390  0.0100
-BNN          C4          C5      SINGLE       y     1.390  0.0100     1.390  0.0100
-BNN          C4         C15      SINGLE       n     1.484  0.0100     1.484  0.0100
-BNN          C5          C6      DOUBLE       y     1.384  0.0100     1.384  0.0100
-BNN           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
-BNN          CA          HA      SINGLE       n     1.089  0.0100     0.988  0.0135
-BNN          CH        HH11      SINGLE       n     1.089  0.0100     0.971  0.0140
-BNN          CH        HH12      SINGLE       n     1.089  0.0100     0.971  0.0140
-BNN          CH        HH13      SINGLE       n     1.089  0.0100     0.971  0.0140
-BNN         N16        H161      SINGLE       n     1.016  0.0100     0.887  0.0200
-BNN         N16        H162      SINGLE       n     1.016  0.0100     0.887  0.0200
-BNN         N17         H17      SINGLE       n     1.016  0.0100     0.823  0.0200
-BNN          C2          H2      SINGLE       n     1.082  0.0130     0.943  0.0173
-BNN          C3          H3      SINGLE       n     1.082  0.0130     0.941  0.0168
-BNN          C5          H5      SINGLE       n     1.082  0.0130     0.941  0.0168
-BNN          C6          H6      SINGLE       n     1.082  0.0130     0.943  0.0173
-BNN          C7         H71      SINGLE       n     1.089  0.0100     0.980  0.0164
-BNN          C7         H72      SINGLE       n     1.089  0.0100     0.980  0.0164
+BNN N   CA   SINGLE n 1.455 0.0100 1.455 0.0100
+BNN N   C11  SINGLE n 1.335 0.0100 1.335 0.0100
+BNN CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+BNN CA  C7   SINGLE n 1.538 0.0100 1.538 0.0100
+BNN C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+BNN C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+BNN O1  C11  DOUBLE n 1.229 0.0102 1.229 0.0102
+BNN CH  C11  SINGLE n 1.495 0.0100 1.495 0.0100
+BNN N16 C15  SINGLE n 1.347 0.0152 1.347 0.0152
+BNN N17 C15  DOUBLE n 1.287 0.0200 1.287 0.0200
+BNN C1  C2   DOUBLE y 1.385 0.0110 1.385 0.0110
+BNN C1  C6   SINGLE y 1.385 0.0110 1.385 0.0110
+BNN C1  C7   SINGLE n 1.508 0.0100 1.508 0.0100
+BNN C2  C3   SINGLE y 1.383 0.0100 1.383 0.0100
+BNN C3  C4   DOUBLE y 1.390 0.0100 1.390 0.0100
+BNN C4  C5   SINGLE y 1.390 0.0100 1.390 0.0100
+BNN C4  C15  SINGLE n 1.484 0.0100 1.484 0.0100
+BNN C5  C6   DOUBLE y 1.384 0.0100 1.384 0.0100
+BNN N   H    SINGLE n 1.016 0.0100 0.873 0.0200
+BNN CA  HA   SINGLE n 1.089 0.0100 0.988 0.0135
+BNN CH  HH11 SINGLE n 1.089 0.0100 0.971 0.0140
+BNN CH  HH12 SINGLE n 1.089 0.0100 0.971 0.0140
+BNN CH  HH13 SINGLE n 1.089 0.0100 0.971 0.0140
+BNN N16 H161 SINGLE n 1.016 0.0100 0.887 0.0200
+BNN N16 H162 SINGLE n 1.016 0.0100 0.887 0.0200
+BNN N17 H17  SINGLE n 1.016 0.0100 0.823 0.0200
+BNN C2  H2   SINGLE n 1.082 0.0130 0.943 0.0173
+BNN C3  H3   SINGLE n 1.082 0.0130 0.941 0.0168
+BNN C5  H5   SINGLE n 1.082 0.0130 0.941 0.0168
+BNN C6  H6   SINGLE n 1.082 0.0130 0.943 0.0173
+BNN C7  H71  SINGLE n 1.089 0.0100 0.980 0.0164
+BNN C7  H72  SINGLE n 1.089 0.0100 0.980 0.0164
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -102,58 +102,59 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-BNN          CA           N         C11     121.952    1.76
-BNN          CA           N           H     118.666    2.22
-BNN         C11           N           H     119.381    2.25
-BNN           N          CA           C     111.747    1.50
-BNN           N          CA          C7     111.246    1.50
-BNN           N          CA          HA     107.939    1.50
-BNN           C          CA          C7     108.347    3.00
-BNN           C          CA          HA     108.456    1.50
-BNN          C7          CA          HA     108.204    1.50
-BNN          CA           C           O     117.245    1.50
-BNN          CA           C         OXT     117.245    1.50
-BNN           O           C         OXT     125.509    1.50
-BNN         C11          CH        HH11     109.678    1.50
-BNN         C11          CH        HH12     109.678    1.50
-BNN         C11          CH        HH13     109.678    1.50
-BNN        HH11          CH        HH12     109.365    1.50
-BNN        HH11          CH        HH13     109.365    1.50
-BNN        HH12          CH        HH13     109.365    1.50
-BNN           N         C11          O1     121.667    1.50
-BNN           N         C11          CH     116.420    1.50
-BNN          O1         C11          CH     121.913    1.50
-BNN         C15         N16        H161     119.893    1.50
-BNN         C15         N16        H162     119.893    1.50
-BNN        H161         N16        H162     120.214    2.70
-BNN         C15         N17         H17     114.748    3.00
-BNN          C2          C1          C6     117.748    1.50
-BNN          C2          C1          C7     121.126    1.50
-BNN          C6          C1          C7     121.126    1.50
-BNN          C1          C2          C3     120.933    1.50
-BNN          C1          C2          H2     119.459    1.50
-BNN          C3          C2          H2     119.609    1.50
-BNN          C2          C3          C4     120.726    1.50
-BNN          C2          C3          H3     119.511    1.50
-BNN          C4          C3          H3     119.763    1.50
-BNN          C3          C4          C5     118.934    1.50
-BNN          C3          C4         C15     120.533    1.50
-BNN          C5          C4         C15     120.533    1.50
-BNN          C4          C5          C6     120.726    1.50
-BNN          C4          C5          H5     119.763    1.50
-BNN          C6          C5          H5     119.511    1.50
-BNN          C1          C6          C5     120.933    1.50
-BNN          C1          C6          H6     119.459    1.50
-BNN          C5          C6          H6     119.609    1.50
-BNN          CA          C7          C1     113.563    1.55
-BNN          CA          C7         H71     108.745    1.50
-BNN          CA          C7         H72     108.745    1.50
-BNN          C1          C7         H71     108.862    1.50
-BNN          C1          C7         H72     108.862    1.50
-BNN         H71          C7         H72     107.782    1.50
-BNN         N16         C15         N17     120.652    2.66
-BNN         N16         C15          C4     117.501    1.50
-BNN         N17         C15          C4     121.847    3.00
+BNN CA   N   C11  121.952 1.76
+BNN CA   N   H    118.666 2.22
+BNN C11  N   H    119.381 2.25
+BNN N    CA  C    111.747 1.50
+BNN N    CA  C7   111.246 1.50
+BNN N    CA  HA   107.939 1.50
+BNN C    CA  C7   108.347 3.00
+BNN C    CA  HA   108.456 1.50
+BNN C7   CA  HA   108.204 1.50
+BNN CA   C   O    117.245 1.50
+BNN CA   C   OXT  117.245 1.50
+BNN O    C   OXT  125.509 1.50
+BNN C11  CH  HH11 109.678 1.50
+BNN C11  CH  HH12 109.678 1.50
+BNN C11  CH  HH13 109.678 1.50
+BNN HH11 CH  HH12 109.365 1.50
+BNN HH11 CH  HH13 109.365 1.50
+BNN HH12 CH  HH13 109.365 1.50
+BNN N    C11 O1   121.667 1.50
+BNN N    C11 CH   116.420 1.50
+BNN O1   C11 CH   121.913 1.50
+BNN C15  N16 H161 119.893 1.50
+BNN C15  N16 H162 119.893 1.50
+BNN H161 N16 H162 120.214 2.70
+BNN C15  N17 H17  114.748 3.00
+BNN C2   C1  C6   117.748 1.50
+BNN C2   C1  C7   121.126 1.50
+BNN C6   C1  C7   121.126 1.50
+BNN C1   C2  C3   120.933 1.50
+BNN C1   C2  H2   119.459 1.50
+BNN C3   C2  H2   119.609 1.50
+BNN C2   C3  C4   120.726 1.50
+BNN C2   C3  H3   119.511 1.50
+BNN C4   C3  H3   119.763 1.50
+BNN C3   C4  C5   118.934 1.50
+BNN C3   C4  C15  120.533 1.50
+BNN C5   C4  C15  120.533 1.50
+BNN C4   C5  C6   120.726 1.50
+BNN C4   C5  H5   119.763 1.50
+BNN C6   C5  H5   119.511 1.50
+BNN C1   C6  C5   120.933 1.50
+BNN C1   C6  H6   119.459 1.50
+BNN C5   C6  H6   119.609 1.50
+BNN CA   C7  C1   113.563 1.55
+BNN CA   C7  H71  108.745 1.50
+BNN CA   C7  H72  108.745 1.50
+BNN C1   C7  H71  108.862 1.50
+BNN C1   C7  H72  108.862 1.50
+BNN H71  C7  H72  107.782 1.50
+BNN N16  C15 N17  120.652 2.66
+BNN N16  C15 C4   117.501 1.50
+BNN N17  C15 C4   121.847 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -164,21 +165,22 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-BNN             sp2_sp3_1         C11           N          CA           C       0.000    10.0     6
-BNN             sp2_sp2_3          O1         C11           N          CA       0.000     5.0     2
-BNN       const_sp2_sp2_5          C1          C2          C3          C4       0.000     5.0     2
-BNN              const_10          C2          C3          C4         C15     180.000    10.0     2
-BNN              const_15         C15          C4          C5          C6     180.000    10.0     2
-BNN            sp2_sp2_11         N16         C15          C4          C3     180.000     5.0     2
-BNN              const_17          C4          C5          C6          C1       0.000    10.0     2
-BNN             sp3_sp3_1          C1          C7          CA           N     180.000    10.0     3
-BNN             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-BNN            sp2_sp3_13           N         C11          CH        HH11       0.000    10.0     6
-BNN             sp2_sp2_7         N17         C15         N16        H161       0.000     5.0     2
-BNN             sp2_sp2_9         N16         C15         N17         H17     180.000     5.0     2
-BNN       const_sp2_sp2_3          C7          C1          C2          C3     180.000     5.0     2
-BNN              const_23          C7          C1          C6          C5     180.000    10.0     2
-BNN            sp2_sp3_20          C2          C1          C7          CA     -90.000    10.0     6
+BNN sp2_sp3_1       C11 N   CA  C    0.000   10.0 6
+BNN sp2_sp2_3       O1  C11 N   CA   0.000   5.0  2
+BNN const_sp2_sp2_5 C1  C2  C3  C4   0.000   5.0  2
+BNN const_10        C2  C3  C4  C15  180.000 10.0 2
+BNN const_15        C15 C4  C5  C6   180.000 10.0 2
+BNN sp2_sp2_11      N16 C15 C4  C3   180.000 5.0  2
+BNN const_17        C4  C5  C6  C1   0.000   10.0 2
+BNN sp3_sp3_1       C1  C7  CA  N    180.000 10.0 3
+BNN sp2_sp3_7       O   C   CA  N    0.000   10.0 6
+BNN sp2_sp3_13      N   C11 CH  HH11 0.000   10.0 6
+BNN sp2_sp2_7       N17 C15 N16 H161 0.000   5.0  2
+BNN sp2_sp2_9       N16 C15 N17 H17  180.000 5.0  2
+BNN const_sp2_sp2_3 C7  C1  C2  C3   180.000 5.0  2
+BNN const_23        C7  C1  C6  C5   180.000 10.0 2
+BNN sp2_sp3_20      C2  C1  C7  CA   -90.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -187,63 +189,73 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-BNN    chir_1    CA    N    C    C7    positive
+BNN chir_1 CA N C C7 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-BNN    plan-1          C1   0.020
-BNN    plan-1         C15   0.020
-BNN    plan-1          C2   0.020
-BNN    plan-1          C3   0.020
-BNN    plan-1          C4   0.020
-BNN    plan-1          C5   0.020
-BNN    plan-1          C6   0.020
-BNN    plan-1          C7   0.020
-BNN    plan-1          H2   0.020
-BNN    plan-1          H3   0.020
-BNN    plan-1          H5   0.020
-BNN    plan-1          H6   0.020
-BNN    plan-2         C11   0.020
-BNN    plan-2          CA   0.020
-BNN    plan-2           H   0.020
-BNN    plan-2           N   0.020
-BNN    plan-3           C   0.020
-BNN    plan-3          CA   0.020
-BNN    plan-3           O   0.020
-BNN    plan-3         OXT   0.020
-BNN    plan-4         C11   0.020
-BNN    plan-4          CH   0.020
-BNN    plan-4           N   0.020
-BNN    plan-4          O1   0.020
-BNN    plan-5         C15   0.020
-BNN    plan-5        H161   0.020
-BNN    plan-5        H162   0.020
-BNN    plan-5         N16   0.020
-BNN    plan-6         C15   0.020
-BNN    plan-6          C4   0.020
-BNN    plan-6         N16   0.020
-BNN    plan-6         N17   0.020
+BNN plan-1 C1   0.020
+BNN plan-1 C15  0.020
+BNN plan-1 C2   0.020
+BNN plan-1 C3   0.020
+BNN plan-1 C4   0.020
+BNN plan-1 C5   0.020
+BNN plan-1 C6   0.020
+BNN plan-1 C7   0.020
+BNN plan-1 H2   0.020
+BNN plan-1 H3   0.020
+BNN plan-1 H5   0.020
+BNN plan-1 H6   0.020
+BNN plan-2 C11  0.020
+BNN plan-2 CA   0.020
+BNN plan-2 H    0.020
+BNN plan-2 N    0.020
+BNN plan-3 C    0.020
+BNN plan-3 CA   0.020
+BNN plan-3 O    0.020
+BNN plan-3 OXT  0.020
+BNN plan-4 C11  0.020
+BNN plan-4 CH   0.020
+BNN plan-4 N    0.020
+BNN plan-4 O1   0.020
+BNN plan-5 C15  0.020
+BNN plan-5 H161 0.020
+BNN plan-5 H162 0.020
+BNN plan-5 N16  0.020
+BNN plan-6 C15  0.020
+BNN plan-6 C4   0.020
+BNN plan-6 N16  0.020
+BNN plan-6 N17  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-BNN           SMILES              ACDLabs 12.01                                                                                        O=C(O)C(NC(=O)C)Cc1ccc(cc1)C(=[N@H])N
-BNN SMILES_CANONICAL               CACTVS 3.370                                                                                       CC(=O)N[C@@H](Cc1ccc(cc1)C(N)=N)C(O)=O
-BNN           SMILES               CACTVS 3.370                                                                                         CC(=O)N[CH](Cc1ccc(cc1)C(N)=N)C(O)=O
-BNN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2                                                                               "[H]/N=C(\c1ccc(cc1)C[C@@H](C(=O)O)NC(=O)C)/N"
-BNN           SMILES "OpenEye OEToolkits" 1.7.2                                                                                            CC(=O)NC(Cc1ccc(cc1)C(=N)N)C(=O)O
-BNN            InChI                InChI  1.03 InChI=1S/C12H15N3O3/c1-7(16)15-10(12(17)18)6-8-2-4-9(5-3-8)11(13)14/h2-5,10H,6H2,1H3,(H3,13,14)(H,15,16)(H,17,18)/t10-/m0/s1
-BNN         InChIKey                InChI  1.03                                                                                                  OKWDELZOYQDSQL-JTQLQIEISA-N
+BNN SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)C)Cc1ccc(cc1)C(=[N@H])N
+BNN SMILES_CANONICAL CACTVS               3.370 CC(=O)N[C@@H](Cc1ccc(cc1)C(N)=N)C(O)=O
+BNN SMILES           CACTVS               3.370 CC(=O)N[CH](Cc1ccc(cc1)C(N)=N)C(O)=O
+BNN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 "[H]/N=C(\c1ccc(cc1)C[C@@H](C(=O)O)NC(=O)C)/N"
+BNN SMILES           "OpenEye OEToolkits" 1.7.2 CC(=O)NC(Cc1ccc(cc1)C(=N)N)C(=O)O
+BNN InChI            InChI                1.03  InChI=1S/C12H15N3O3/c1-7(16)15-10(12(17)18)6-8-2-4-9(5-3-8)11(13)14/h2-5,10H,6H2,1H3,(H3,13,14)(H,15,16)(H,17,18)/t10-/m0/s1
+BNN InChIKey         InChI                1.03  OKWDELZOYQDSQL-JTQLQIEISA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-BNN acedrg               243         "dictionary generator"                  
-BNN acedrg_database      11          "data source"                           
-BNN rdkit                2017.03.2   "Chemoinformatics tool"
-BNN refmac5              5.8.0238    "optimization tool"                     
+BNN acedrg          243       "dictionary generator"
+BNN acedrg_database 11        "data source"
+BNN rdkit           2017.03.2 "Chemoinformatics tool"
+BNN refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+BNN M-peptide C11 CN

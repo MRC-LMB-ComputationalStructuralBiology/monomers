@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-JLK     JLK      "(2~{R})-2-[[6-ethyl-5-(2-methylphenyl)thieno[2,3-d]pyrimidin-4-yl]amino]-3-phenyl-propanoic acid"     NON-POLYMER     52     30     .     
-#
+JLK JLK "(2~{R})-2-[[6-ethyl-5-(2-methylphenyl)thieno[2,3-d]pyrimidin-4-yl]amino]-3-phenyl-propanoic acid" NON-POLYMER 52 30 .
+
 data_comp_JLK
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,58 +19,59 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-JLK     N10     N       NH1     0       -5.623      0.712       4.504       
-JLK     C11     C       CH1     0       -5.174      -0.551      3.937       
-JLK     C13     C       C       0       -5.949      -1.731      4.551       
-JLK     C18     C       CR6     0       -8.128      2.573       4.916       
-JLK     C19     C       CR16    0       -9.590      2.165       2.566       
-JLK     C20     C       CR16    0       -9.730      1.295       3.625       
-JLK     C21     C       CR16    0       -9.005      1.494       4.789       
-JLK     C22     C       CR16    0       -8.724      3.236       2.672       
-JLK     C23     C       CR6     0       -7.976      3.466       3.829       
-JLK     C24     C       CH3     0       -7.056      4.661       3.857       
-JLK     C25     C       CR6     0       -4.655      0.562       1.700       
-JLK     C27     C       CR16    0       -2.611      1.482       0.798       
-JLK     C28     C       CR16    0       -3.284      2.615       0.390       
-JLK     C29     C       CR16    0       -4.636      2.732       0.633       
-JLK     C30     C       CR16    0       -5.318      1.712       1.285       
-JLK     C9      C       CR5     0       -7.370      2.743       6.170       
-JLK     C5      C       CR56    0       -6.115      2.067       6.482       
-JLK     C8      C       CR5     0       -7.789      3.569       7.218       
-JLK     C16     C       CH2     0       -8.989      4.438       7.344       
-JLK     C17     C       CH3     0       -10.220     3.695       7.804       
-JLK     S7      S       S2      0       -6.708      3.518       8.488       
-JLK     C6      C       CR56    0       -5.650      2.443       7.782       
-JLK     N3      N       NRD6    0       -4.510      1.965       8.315       
-JLK     C2      C       CR16    0       -3.824      1.110       7.559       
-JLK     N1      N       NRD6    0       -4.161      0.690       6.330       
-JLK     C4      C       CR6     0       -5.309      1.140       5.759       
-JLK     O15     O       OC      -1      -7.194      -1.661      4.545       
-JLK     O14     O       O       0       -5.279      -2.678      5.012       
-JLK     C12     C       CH2     0       -5.396      -0.543      2.414       
-JLK     C26     C       CR16    0       -3.291      0.461       1.451       
-JLK     H1      H       H       0       -6.101      1.230       4.008       
-JLK     H2      H       H       0       -4.201      -0.680      4.123       
-JLK     H3      H       H       0       -10.084     2.032       1.772       
-JLK     H4      H       H       0       -10.320     0.562       3.559       
-JLK     H5      H       H       0       -9.107      0.892       5.509       
-JLK     H6      H       H       0       -8.630      3.831       1.946       
-JLK     H7      H       H       0       -6.394      4.564       4.559       
-JLK     H8      H       H       0       -7.575      5.466       4.015       
-JLK     H9      H       H       0       -6.602      4.738       3.003       
-JLK     H10     H       H       0       -1.685      1.399       0.633       
-JLK     H11     H       H       0       -2.821      3.308       -0.053      
-JLK     H12     H       H       0       -5.100      3.505       0.356       
-JLK     H13     H       H       0       -6.244      1.799       1.448       
-JLK     H14     H       H       0       -9.173      4.846       6.479       
-JLK     H15     H       H       0       -8.799      5.156       7.975       
-JLK     H16     H       H       0       -10.995     4.281       7.742       
-JLK     H17     H       H       0       -10.102     3.412       8.728       
-JLK     H18     H       H       0       -10.358     2.914       7.241       
-JLK     H19     H       H       0       -3.030      0.771       7.918       
-JLK     H21     H       H       0       -6.355      -0.451      2.234       
-JLK     H22     H       H       0       -5.106      -1.405      2.048       
-JLK     H23     H       H       0       -2.824      -0.311      1.726       
+JLK N10 N NH1  0  -5.623  0.712  4.504
+JLK C11 C CH1  0  -5.174  -0.551 3.937
+JLK C13 C C    0  -5.949  -1.731 4.551
+JLK C18 C CR6  0  -8.128  2.573  4.916
+JLK C19 C CR16 0  -9.590  2.165  2.566
+JLK C20 C CR16 0  -9.730  1.295  3.625
+JLK C21 C CR16 0  -9.005  1.494  4.789
+JLK C22 C CR16 0  -8.724  3.236  2.672
+JLK C23 C CR6  0  -7.976  3.466  3.829
+JLK C24 C CH3  0  -7.056  4.661  3.857
+JLK C25 C CR6  0  -4.655  0.562  1.700
+JLK C27 C CR16 0  -2.611  1.482  0.798
+JLK C28 C CR16 0  -3.284  2.615  0.390
+JLK C29 C CR16 0  -4.636  2.732  0.633
+JLK C30 C CR16 0  -5.318  1.712  1.285
+JLK C9  C CR5  0  -7.370  2.743  6.170
+JLK C5  C CR56 0  -6.115  2.067  6.482
+JLK C8  C CR5  0  -7.789  3.569  7.218
+JLK C16 C CH2  0  -8.989  4.438  7.344
+JLK C17 C CH3  0  -10.220 3.695  7.804
+JLK S7  S S2   0  -6.708  3.518  8.488
+JLK C6  C CR56 0  -5.650  2.443  7.782
+JLK N3  N NRD6 0  -4.510  1.965  8.315
+JLK C2  C CR16 0  -3.824  1.110  7.559
+JLK N1  N NRD6 0  -4.161  0.690  6.330
+JLK C4  C CR6  0  -5.309  1.140  5.759
+JLK O15 O OC   -1 -7.194  -1.661 4.545
+JLK O14 O O    0  -5.279  -2.678 5.012
+JLK C12 C CH2  0  -5.396  -0.543 2.414
+JLK C26 C CR16 0  -3.291  0.461  1.451
+JLK H1  H H    0  -6.101  1.230  4.008
+JLK H2  H H    0  -4.201  -0.680 4.123
+JLK H3  H H    0  -10.084 2.032  1.772
+JLK H4  H H    0  -10.320 0.562  3.559
+JLK H5  H H    0  -9.107  0.892  5.509
+JLK H6  H H    0  -8.630  3.831  1.946
+JLK H7  H H    0  -6.394  4.564  4.559
+JLK H8  H H    0  -7.575  5.466  4.015
+JLK H9  H H    0  -6.602  4.738  3.003
+JLK H10 H H    0  -1.685  1.399  0.633
+JLK H11 H H    0  -2.821  3.308  -0.053
+JLK H12 H H    0  -5.100  3.505  0.356
+JLK H13 H H    0  -6.244  1.799  1.448
+JLK H14 H H    0  -9.173  4.846  6.479
+JLK H15 H H    0  -8.799  5.156  7.975
+JLK H16 H H    0  -10.995 4.281  7.742
+JLK H17 H H    0  -10.102 3.412  8.728
+JLK H18 H H    0  -10.358 2.914  7.241
+JLK H19 H H    0  -3.030  0.771  7.918
+JLK H21 H H    0  -6.355  -0.451 2.234
+JLK H22 H H    0  -5.106  -1.405 2.048
+JLK H23 H H    0  -2.824  -0.311 1.726
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -83,61 +82,62 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-JLK         C28         C29      SINGLE       y     1.374  0.0127     1.374  0.0127
-JLK         C27         C28      DOUBLE       y     1.376  0.0124     1.376  0.0124
-JLK         C29         C30      DOUBLE       y     1.386  0.0100     1.386  0.0100
-JLK         C27         C26      SINGLE       y     1.386  0.0100     1.386  0.0100
-JLK         C25         C30      SINGLE       y     1.385  0.0111     1.385  0.0111
-JLK         C25         C26      DOUBLE       y     1.385  0.0111     1.385  0.0111
-JLK         C25         C12      SINGLE       n     1.508  0.0100     1.508  0.0100
-JLK         C19         C22      DOUBLE       y     1.379  0.0108     1.379  0.0108
-JLK         C19         C20      SINGLE       y     1.376  0.0124     1.376  0.0124
-JLK         C11         C12      SINGLE       n     1.537  0.0100     1.537  0.0100
-JLK         C22         C23      SINGLE       y     1.393  0.0100     1.393  0.0100
-JLK         C20         C21      DOUBLE       y     1.383  0.0100     1.383  0.0100
-JLK         C23         C24      SINGLE       n     1.505  0.0100     1.505  0.0100
-JLK         C18         C23      DOUBLE       y     1.406  0.0100     1.406  0.0100
-JLK         N10         C11      SINGLE       n     1.450  0.0100     1.450  0.0100
-JLK         C11         C13      SINGLE       n     1.539  0.0100     1.539  0.0100
-JLK         C18         C21      SINGLE       y     1.391  0.0100     1.391  0.0100
-JLK         N10          C4      SINGLE       n     1.348  0.0172     1.348  0.0172
-JLK         C13         O14      DOUBLE       n     1.247  0.0187     1.247  0.0187
-JLK         C18          C9      SINGLE       n     1.473  0.0100     1.473  0.0100
-JLK         C13         O15      SINGLE       n     1.247  0.0187     1.247  0.0187
-JLK          C5          C4      DOUBLE       y     1.415  0.0100     1.415  0.0100
-JLK          N1          C4      SINGLE       y     1.353  0.0100     1.353  0.0100
-JLK          C9          C5      SINGLE       y     1.446  0.0100     1.446  0.0100
-JLK          C9          C8      DOUBLE       y     1.386  0.0200     1.386  0.0200
-JLK          C5          C6      SINGLE       y     1.401  0.0200     1.401  0.0200
-JLK          C2          N1      DOUBLE       y     1.339  0.0100     1.339  0.0100
-JLK          C8         C16      SINGLE       n     1.486  0.0100     1.486  0.0100
-JLK         C16         C17      SINGLE       n     1.510  0.0200     1.510  0.0200
-JLK          C8          S7      SINGLE       y     1.695  0.0200     1.695  0.0200
-JLK          N3          C2      SINGLE       y     1.330  0.0100     1.330  0.0100
-JLK          C6          N3      DOUBLE       y     1.338  0.0176     1.338  0.0176
-JLK          S7          C6      SINGLE       y     1.695  0.0200     1.695  0.0200
-JLK         N10          H1      SINGLE       n     1.016  0.0100     0.870  0.0200
-JLK         C11          H2      SINGLE       n     1.089  0.0100     1.000  0.0100
-JLK         C19          H3      SINGLE       n     1.082  0.0130     0.944  0.0175
-JLK         C20          H4      SINGLE       n     1.082  0.0130     0.943  0.0180
-JLK         C21          H5      SINGLE       n     1.082  0.0130     0.943  0.0139
-JLK         C22          H6      SINGLE       n     1.082  0.0130     0.943  0.0173
-JLK         C24          H7      SINGLE       n     1.089  0.0100     0.971  0.0135
-JLK         C24          H8      SINGLE       n     1.089  0.0100     0.971  0.0135
-JLK         C24          H9      SINGLE       n     1.089  0.0100     0.971  0.0135
-JLK         C27         H10      SINGLE       n     1.082  0.0130     0.944  0.0175
-JLK         C28         H11      SINGLE       n     1.082  0.0130     0.944  0.0161
-JLK         C29         H12      SINGLE       n     1.082  0.0130     0.944  0.0175
-JLK         C30         H13      SINGLE       n     1.082  0.0130     0.944  0.0174
-JLK         C16         H14      SINGLE       n     1.089  0.0100     0.974  0.0100
-JLK         C16         H15      SINGLE       n     1.089  0.0100     0.974  0.0100
-JLK         C17         H16      SINGLE       n     1.089  0.0100     0.973  0.0120
-JLK         C17         H17      SINGLE       n     1.089  0.0100     0.973  0.0120
-JLK         C17         H18      SINGLE       n     1.089  0.0100     0.973  0.0120
-JLK          C2         H19      SINGLE       n     1.082  0.0130     0.935  0.0100
-JLK         C12         H21      SINGLE       n     1.089  0.0100     0.980  0.0164
-JLK         C12         H22      SINGLE       n     1.089  0.0100     0.980  0.0164
-JLK         C26         H23      SINGLE       n     1.082  0.0130     0.944  0.0174
+JLK C28 C29 SINGLE y 1.374 0.0127 1.374 0.0127
+JLK C27 C28 DOUBLE y 1.376 0.0124 1.376 0.0124
+JLK C29 C30 DOUBLE y 1.386 0.0100 1.386 0.0100
+JLK C27 C26 SINGLE y 1.386 0.0100 1.386 0.0100
+JLK C25 C30 SINGLE y 1.385 0.0111 1.385 0.0111
+JLK C25 C26 DOUBLE y 1.385 0.0111 1.385 0.0111
+JLK C25 C12 SINGLE n 1.508 0.0100 1.508 0.0100
+JLK C19 C22 DOUBLE y 1.379 0.0108 1.379 0.0108
+JLK C19 C20 SINGLE y 1.376 0.0124 1.376 0.0124
+JLK C11 C12 SINGLE n 1.537 0.0100 1.537 0.0100
+JLK C22 C23 SINGLE y 1.393 0.0100 1.393 0.0100
+JLK C20 C21 DOUBLE y 1.383 0.0100 1.383 0.0100
+JLK C23 C24 SINGLE n 1.505 0.0100 1.505 0.0100
+JLK C18 C23 DOUBLE y 1.406 0.0100 1.406 0.0100
+JLK N10 C11 SINGLE n 1.450 0.0100 1.450 0.0100
+JLK C11 C13 SINGLE n 1.539 0.0100 1.539 0.0100
+JLK C18 C21 SINGLE y 1.391 0.0100 1.391 0.0100
+JLK N10 C4  SINGLE n 1.348 0.0172 1.348 0.0172
+JLK C13 O14 DOUBLE n 1.247 0.0187 1.247 0.0187
+JLK C18 C9  SINGLE n 1.473 0.0100 1.473 0.0100
+JLK C13 O15 SINGLE n 1.247 0.0187 1.247 0.0187
+JLK C5  C4  DOUBLE y 1.415 0.0100 1.415 0.0100
+JLK N1  C4  SINGLE y 1.353 0.0100 1.353 0.0100
+JLK C9  C5  SINGLE y 1.446 0.0100 1.446 0.0100
+JLK C9  C8  DOUBLE y 1.386 0.0200 1.386 0.0200
+JLK C5  C6  SINGLE y 1.401 0.0200 1.401 0.0200
+JLK C2  N1  DOUBLE y 1.339 0.0100 1.339 0.0100
+JLK C8  C16 SINGLE n 1.486 0.0100 1.486 0.0100
+JLK C16 C17 SINGLE n 1.510 0.0200 1.510 0.0200
+JLK C8  S7  SINGLE y 1.695 0.0200 1.695 0.0200
+JLK N3  C2  SINGLE y 1.330 0.0100 1.330 0.0100
+JLK C6  N3  DOUBLE y 1.338 0.0176 1.338 0.0176
+JLK S7  C6  SINGLE y 1.695 0.0200 1.695 0.0200
+JLK N10 H1  SINGLE n 1.016 0.0100 0.870 0.0200
+JLK C11 H2  SINGLE n 1.089 0.0100 1.000 0.0100
+JLK C19 H3  SINGLE n 1.082 0.0130 0.944 0.0175
+JLK C20 H4  SINGLE n 1.082 0.0130 0.943 0.0180
+JLK C21 H5  SINGLE n 1.082 0.0130 0.943 0.0139
+JLK C22 H6  SINGLE n 1.082 0.0130 0.943 0.0173
+JLK C24 H7  SINGLE n 1.089 0.0100 0.971 0.0135
+JLK C24 H8  SINGLE n 1.089 0.0100 0.971 0.0135
+JLK C24 H9  SINGLE n 1.089 0.0100 0.971 0.0135
+JLK C27 H10 SINGLE n 1.082 0.0130 0.944 0.0175
+JLK C28 H11 SINGLE n 1.082 0.0130 0.944 0.0161
+JLK C29 H12 SINGLE n 1.082 0.0130 0.944 0.0175
+JLK C30 H13 SINGLE n 1.082 0.0130 0.944 0.0174
+JLK C16 H14 SINGLE n 1.089 0.0100 0.974 0.0100
+JLK C16 H15 SINGLE n 1.089 0.0100 0.974 0.0100
+JLK C17 H16 SINGLE n 1.089 0.0100 0.973 0.0120
+JLK C17 H17 SINGLE n 1.089 0.0100 0.973 0.0120
+JLK C17 H18 SINGLE n 1.089 0.0100 0.973 0.0120
+JLK C2  H19 SINGLE n 1.082 0.0130 0.935 0.0100
+JLK C12 H21 SINGLE n 1.089 0.0100 0.980 0.0164
+JLK C12 H22 SINGLE n 1.089 0.0100 0.980 0.0164
+JLK C26 H23 SINGLE n 1.082 0.0130 0.944 0.0174
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -145,99 +145,100 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-JLK         C11         N10          C4     121.608    2.30
-JLK         C11         N10          H1     119.214    1.50
-JLK          C4         N10          H1     119.178    1.50
-JLK         C12         C11         N10     109.192    1.50
-JLK         C12         C11         C13     108.756    3.00
-JLK         C12         C11          H2     109.239    1.50
-JLK         N10         C11         C13     110.522    1.86
-JLK         N10         C11          H2     109.268    1.50
-JLK         C13         C11          H2     108.186    1.50
-JLK         C11         C13         O14     117.234    1.60
-JLK         C11         C13         O15     117.234    1.60
-JLK         O14         C13         O15     125.532    1.50
-JLK         C23         C18         C21     118.854    1.50
-JLK         C23         C18          C9     120.308    1.50
-JLK         C21         C18          C9     120.838    1.50
-JLK         C22         C19         C20     119.999    1.50
-JLK         C22         C19          H3     119.955    1.50
-JLK         C20         C19          H3     120.046    1.50
-JLK         C19         C20         C21     120.161    1.50
-JLK         C19         C20          H4     120.020    1.50
-JLK         C21         C20          H4     119.819    1.50
-JLK         C20         C21         C18     120.378    1.50
-JLK         C20         C21          H5     119.856    1.50
-JLK         C18         C21          H5     119.765    1.50
-JLK         C19         C22         C23     121.896    1.50
-JLK         C19         C22          H6     119.450    1.50
-JLK         C23         C22          H6     118.654    1.50
-JLK         C22         C23         C24     119.492    1.50
-JLK         C22         C23         C18     118.711    1.50
-JLK         C24         C23         C18     121.797    1.50
-JLK         C23         C24          H7     109.688    1.50
-JLK         C23         C24          H8     109.688    1.50
-JLK         C23         C24          H9     109.688    1.50
-JLK          H7         C24          H8     109.348    1.50
-JLK          H7         C24          H9     109.348    1.50
-JLK          H8         C24          H9     109.348    1.50
-JLK         C30         C25         C26     118.059    1.50
-JLK         C30         C25         C12     120.970    1.50
-JLK         C26         C25         C12     120.970    1.50
-JLK         C28         C27         C26     120.325    1.50
-JLK         C28         C27         H10     119.883    1.50
-JLK         C26         C27         H10     119.792    1.50
-JLK         C29         C28         C27     120.043    1.50
-JLK         C29         C28         H11     119.979    1.50
-JLK         C27         C28         H11     119.979    1.50
-JLK         C28         C29         C30     120.325    1.50
-JLK         C28         C29         H12     119.883    1.50
-JLK         C30         C29         H12     119.792    1.50
-JLK         C29         C30         C25     120.624    1.50
-JLK         C29         C30         H13     119.786    1.50
-JLK         C25         C30         H13     119.591    1.50
-JLK         C18          C9          C5     125.527    2.23
-JLK         C18          C9          C8     126.714    1.78
-JLK          C5          C9          C8     107.760    1.50
-JLK          C4          C5          C9     133.743    2.28
-JLK          C4          C5          C6     118.440    1.50
-JLK          C9          C5          C6     107.817    1.50
-JLK          C9          C8         C16     132.650    2.66
-JLK          C9          C8          S7     108.141    3.00
-JLK         C16          C8          S7     119.209    3.00
-JLK          C8         C16         C17     113.284    1.50
-JLK          C8         C16         H14     108.883    1.50
-JLK          C8         C16         H15     108.883    1.50
-JLK         C17         C16         H14     108.959    1.50
-JLK         C17         C16         H15     108.959    1.50
-JLK         H14         C16         H15     107.724    1.50
-JLK         C16         C17         H16     109.517    1.50
-JLK         C16         C17         H17     109.517    1.50
-JLK         C16         C17         H18     109.517    1.50
-JLK         H16         C17         H17     109.422    1.50
-JLK         H16         C17         H18     109.422    1.50
-JLK         H17         C17         H18     109.422    1.50
-JLK          C8          S7          C6     108.141    3.00
-JLK          C5          C6          N3     122.412    2.68
-JLK          C5          C6          S7     108.141    3.00
-JLK          N3          C6          S7     129.447    3.00
-JLK          C2          N3          C6     115.778    1.50
-JLK          N1          C2          N3     126.299    1.50
-JLK          N1          C2         H19     116.831    1.50
-JLK          N3          C2         H19     116.871    1.50
-JLK          C4          N1          C2     118.322    1.50
-JLK         N10          C4          C5     122.314    2.29
-JLK         N10          C4          N1     118.937    1.50
-JLK          C5          C4          N1     118.749    1.50
-JLK         C25         C12         C11     113.369    1.50
-JLK         C25         C12         H21     108.862    1.50
-JLK         C25         C12         H22     108.862    1.50
-JLK         C11         C12         H21     108.871    1.50
-JLK         C11         C12         H22     108.871    1.50
-JLK         H21         C12         H22     107.782    1.50
-JLK         C27         C26         C25     120.624    1.50
-JLK         C27         C26         H23     119.786    1.50
-JLK         C25         C26         H23     119.591    1.50
+JLK C11 N10 C4  121.608 2.30
+JLK C11 N10 H1  119.214 1.50
+JLK C4  N10 H1  119.178 1.50
+JLK C12 C11 N10 109.192 1.50
+JLK C12 C11 C13 108.756 3.00
+JLK C12 C11 H2  109.239 1.50
+JLK N10 C11 C13 110.522 1.86
+JLK N10 C11 H2  109.268 1.50
+JLK C13 C11 H2  108.186 1.50
+JLK C11 C13 O14 117.234 1.60
+JLK C11 C13 O15 117.234 1.60
+JLK O14 C13 O15 125.532 1.50
+JLK C23 C18 C21 118.854 1.50
+JLK C23 C18 C9  120.308 1.50
+JLK C21 C18 C9  120.838 1.50
+JLK C22 C19 C20 119.999 1.50
+JLK C22 C19 H3  119.955 1.50
+JLK C20 C19 H3  120.046 1.50
+JLK C19 C20 C21 120.161 1.50
+JLK C19 C20 H4  120.020 1.50
+JLK C21 C20 H4  119.819 1.50
+JLK C20 C21 C18 120.378 1.50
+JLK C20 C21 H5  119.856 1.50
+JLK C18 C21 H5  119.765 1.50
+JLK C19 C22 C23 121.896 1.50
+JLK C19 C22 H6  119.450 1.50
+JLK C23 C22 H6  118.654 1.50
+JLK C22 C23 C24 119.492 1.50
+JLK C22 C23 C18 118.711 1.50
+JLK C24 C23 C18 121.797 1.50
+JLK C23 C24 H7  109.688 1.50
+JLK C23 C24 H8  109.688 1.50
+JLK C23 C24 H9  109.688 1.50
+JLK H7  C24 H8  109.348 1.50
+JLK H7  C24 H9  109.348 1.50
+JLK H8  C24 H9  109.348 1.50
+JLK C30 C25 C26 118.059 1.50
+JLK C30 C25 C12 120.970 1.50
+JLK C26 C25 C12 120.970 1.50
+JLK C28 C27 C26 120.325 1.50
+JLK C28 C27 H10 119.883 1.50
+JLK C26 C27 H10 119.792 1.50
+JLK C29 C28 C27 120.043 1.50
+JLK C29 C28 H11 119.979 1.50
+JLK C27 C28 H11 119.979 1.50
+JLK C28 C29 C30 120.325 1.50
+JLK C28 C29 H12 119.883 1.50
+JLK C30 C29 H12 119.792 1.50
+JLK C29 C30 C25 120.624 1.50
+JLK C29 C30 H13 119.786 1.50
+JLK C25 C30 H13 119.591 1.50
+JLK C18 C9  C5  125.527 2.23
+JLK C18 C9  C8  126.714 1.78
+JLK C5  C9  C8  107.760 1.50
+JLK C4  C5  C9  133.743 2.28
+JLK C4  C5  C6  118.440 1.50
+JLK C9  C5  C6  107.817 1.50
+JLK C9  C8  C16 132.650 2.66
+JLK C9  C8  S7  108.141 3.00
+JLK C16 C8  S7  119.209 3.00
+JLK C8  C16 C17 113.284 1.50
+JLK C8  C16 H14 108.883 1.50
+JLK C8  C16 H15 108.883 1.50
+JLK C17 C16 H14 108.959 1.50
+JLK C17 C16 H15 108.959 1.50
+JLK H14 C16 H15 107.724 1.50
+JLK C16 C17 H16 109.517 1.50
+JLK C16 C17 H17 109.517 1.50
+JLK C16 C17 H18 109.517 1.50
+JLK H16 C17 H17 109.422 1.50
+JLK H16 C17 H18 109.422 1.50
+JLK H17 C17 H18 109.422 1.50
+JLK C8  S7  C6  108.141 3.00
+JLK C5  C6  N3  122.412 2.68
+JLK C5  C6  S7  108.141 3.00
+JLK N3  C6  S7  129.447 3.00
+JLK C2  N3  C6  115.778 1.50
+JLK N1  C2  N3  126.299 1.50
+JLK N1  C2  H19 116.831 1.50
+JLK N3  C2  H19 116.871 1.50
+JLK C4  N1  C2  118.322 1.50
+JLK N10 C4  C5  122.314 2.29
+JLK N10 C4  N1  118.937 1.50
+JLK C5  C4  N1  118.749 1.50
+JLK C25 C12 C11 113.369 1.50
+JLK C25 C12 H21 108.862 1.50
+JLK C25 C12 H22 108.862 1.50
+JLK C11 C12 H21 108.871 1.50
+JLK C11 C12 H22 108.871 1.50
+JLK H21 C12 H22 107.782 1.50
+JLK C27 C26 C25 120.624 1.50
+JLK C27 C26 H23 119.786 1.50
+JLK C25 C26 H23 119.591 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -248,37 +249,38 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-JLK            sp2_sp3_13          C4         N10         C11         C12       0.000    10.0     6
-JLK             sp2_sp2_1          C5          C4         N10         C11     180.000     5.0     2
-JLK              const_23         C12         C25         C30         C29     180.000    10.0     2
-JLK             sp2_sp3_2         C30         C25         C12         C11     -90.000    10.0     6
-JLK              const_67         C12         C25         C26         C27     180.000    10.0     2
-JLK              const_33         C26         C27         C28         C29       0.000    10.0     2
-JLK              const_37         C25         C26         C27         C28       0.000    10.0     2
-JLK              const_29         C27         C28         C29         C30       0.000    10.0     2
-JLK              const_25         C28         C29         C30         C25       0.000    10.0     2
-JLK              const_56          C4          C5          C9         C18       0.000    10.0     2
-JLK              const_76         C16          C8          C9         C18       0.000    10.0     2
-JLK              const_57          C4          C5          C6          N3       0.000    10.0     2
-JLK              const_44         N10          C4          C5          C9       0.000    10.0     2
-JLK            sp2_sp3_26          C9          C8         C16         C17     -90.000    10.0     6
-JLK              const_64         C16          C8          S7          C6     180.000    10.0     2
-JLK            sp3_sp3_10          C8         C16         C17         H16     180.000    10.0     3
-JLK            sp2_sp3_19         O14         C13         C11         C12       0.000    10.0     6
-JLK             sp3_sp3_1         N10         C11         C12         C25     180.000    10.0     3
-JLK              const_61          C5          C6          S7          C8       0.000    10.0     2
-JLK              const_51          C5          C6          N3          C2       0.000    10.0     2
-JLK              const_49          N1          C2          N3          C6       0.000    10.0     2
-JLK              const_47          N3          C2          N1          C4       0.000    10.0     2
-JLK              const_46         N10          C4          N1          C2     180.000    10.0     2
-JLK             sp2_sp2_5         C23         C18          C9          C5     180.000     5.0     2
-JLK              const_69         C23         C18         C21         C20       0.000    10.0     2
-JLK       const_sp2_sp2_2         C21         C18         C23         C24     180.000     5.0     2
-JLK              const_13         C22         C19         C20         C21       0.000    10.0     2
-JLK       const_sp2_sp2_9         C20         C19         C22         C23       0.000     5.0     2
-JLK              const_17         C19         C20         C21         C18       0.000    10.0     2
-JLK       const_sp2_sp2_6         C19         C22         C23         C24     180.000     5.0     2
-JLK             sp2_sp3_7         C22         C23         C24          H7     150.000    10.0     6
+JLK sp2_sp3_13      C4  N10 C11 C12 0.000   10.0 6
+JLK sp2_sp2_1       C5  C4  N10 C11 180.000 5.0  2
+JLK const_23        C12 C25 C30 C29 180.000 10.0 2
+JLK sp2_sp3_2       C30 C25 C12 C11 -90.000 10.0 6
+JLK const_67        C12 C25 C26 C27 180.000 10.0 2
+JLK const_33        C26 C27 C28 C29 0.000   10.0 2
+JLK const_37        C25 C26 C27 C28 0.000   10.0 2
+JLK const_29        C27 C28 C29 C30 0.000   10.0 2
+JLK const_25        C28 C29 C30 C25 0.000   10.0 2
+JLK const_56        C4  C5  C9  C18 0.000   10.0 2
+JLK const_76        C16 C8  C9  C18 0.000   10.0 2
+JLK const_57        C4  C5  C6  N3  0.000   10.0 2
+JLK const_44        N10 C4  C5  C9  0.000   10.0 2
+JLK sp2_sp3_26      C9  C8  C16 C17 -90.000 10.0 6
+JLK const_64        C16 C8  S7  C6  180.000 10.0 2
+JLK sp3_sp3_10      C8  C16 C17 H16 180.000 10.0 3
+JLK sp2_sp3_19      O14 C13 C11 C12 0.000   10.0 6
+JLK sp3_sp3_1       N10 C11 C12 C25 180.000 10.0 3
+JLK const_61        C5  C6  S7  C8  0.000   10.0 2
+JLK const_51        C5  C6  N3  C2  0.000   10.0 2
+JLK const_49        N1  C2  N3  C6  0.000   10.0 2
+JLK const_47        N3  C2  N1  C4  0.000   10.0 2
+JLK const_46        N10 C4  N1  C2  180.000 10.0 2
+JLK sp2_sp2_5       C23 C18 C9  C5  180.000 5.0  2
+JLK const_69        C23 C18 C21 C20 0.000   10.0 2
+JLK const_sp2_sp2_2 C21 C18 C23 C24 180.000 5.0  2
+JLK const_13        C22 C19 C20 C21 0.000   10.0 2
+JLK const_sp2_sp2_9 C20 C19 C22 C23 0.000   5.0  2
+JLK const_17        C19 C20 C21 C18 0.000   10.0 2
+JLK const_sp2_sp2_6 C19 C22 C23 C24 180.000 5.0  2
+JLK sp2_sp3_7       C22 C23 C24 H7  150.000 10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -287,75 +289,91 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-JLK    chir_1    C11    N10    C13    C12    negative
+JLK chir_1 C11 N10 C13 C12 negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-JLK    plan-1         C16   0.020
-JLK    plan-1         C18   0.020
-JLK    plan-1          C2   0.020
-JLK    plan-1          C4   0.020
-JLK    plan-1          C5   0.020
-JLK    plan-1          C6   0.020
-JLK    plan-1          C8   0.020
-JLK    plan-1          C9   0.020
-JLK    plan-1         H19   0.020
-JLK    plan-1          N1   0.020
-JLK    plan-1         N10   0.020
-JLK    plan-1          N3   0.020
-JLK    plan-1          S7   0.020
-JLK    plan-2         C12   0.020
-JLK    plan-2         C25   0.020
-JLK    plan-2         C26   0.020
-JLK    plan-2         C27   0.020
-JLK    plan-2         C28   0.020
-JLK    plan-2         C29   0.020
-JLK    plan-2         C30   0.020
-JLK    plan-2         H10   0.020
-JLK    plan-2         H11   0.020
-JLK    plan-2         H12   0.020
-JLK    plan-2         H13   0.020
-JLK    plan-2         H23   0.020
-JLK    plan-3         C18   0.020
-JLK    plan-3         C19   0.020
-JLK    plan-3         C20   0.020
-JLK    plan-3         C21   0.020
-JLK    plan-3         C22   0.020
-JLK    plan-3         C23   0.020
-JLK    plan-3         C24   0.020
-JLK    plan-3          C9   0.020
-JLK    plan-3          H3   0.020
-JLK    plan-3          H4   0.020
-JLK    plan-3          H5   0.020
-JLK    plan-3          H6   0.020
-JLK    plan-4         C11   0.020
-JLK    plan-4          C4   0.020
-JLK    plan-4          H1   0.020
-JLK    plan-4         N10   0.020
-JLK    plan-5         C11   0.020
-JLK    plan-5         C13   0.020
-JLK    plan-5         O14   0.020
-JLK    plan-5         O15   0.020
+JLK plan-1 C16 0.020
+JLK plan-1 C18 0.020
+JLK plan-1 C2  0.020
+JLK plan-1 C4  0.020
+JLK plan-1 C5  0.020
+JLK plan-1 C6  0.020
+JLK plan-1 C8  0.020
+JLK plan-1 C9  0.020
+JLK plan-1 H19 0.020
+JLK plan-1 N1  0.020
+JLK plan-1 N10 0.020
+JLK plan-1 N3  0.020
+JLK plan-1 S7  0.020
+JLK plan-2 C12 0.020
+JLK plan-2 C25 0.020
+JLK plan-2 C26 0.020
+JLK plan-2 C27 0.020
+JLK plan-2 C28 0.020
+JLK plan-2 C29 0.020
+JLK plan-2 C30 0.020
+JLK plan-2 H10 0.020
+JLK plan-2 H11 0.020
+JLK plan-2 H12 0.020
+JLK plan-2 H13 0.020
+JLK plan-2 H23 0.020
+JLK plan-3 C18 0.020
+JLK plan-3 C19 0.020
+JLK plan-3 C20 0.020
+JLK plan-3 C21 0.020
+JLK plan-3 C22 0.020
+JLK plan-3 C23 0.020
+JLK plan-3 C24 0.020
+JLK plan-3 C9  0.020
+JLK plan-3 H3  0.020
+JLK plan-3 H4  0.020
+JLK plan-3 H5  0.020
+JLK plan-3 H6  0.020
+JLK plan-4 C11 0.020
+JLK plan-4 C4  0.020
+JLK plan-4 H1  0.020
+JLK plan-4 N10 0.020
+JLK plan-5 C11 0.020
+JLK plan-5 C13 0.020
+JLK plan-5 O14 0.020
+JLK plan-5 O15 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-JLK            InChI                InChI  1.03 InChI=1S/C24H23N3O2S/c1-3-19-20(17-12-8-7-9-15(17)2)21-22(25-14-26-23(21)30-19)27-18(24(28)29)13-16-10-5-4-6-11-16/h4-12,14,18H,3,13H2,1-2H3,(H,28,29)(H,25,26,27)/t18-/m1/s1
-JLK         InChIKey                InChI  1.03                                                                                                                                                   BJYZTAWEBOABQO-GOSISDBHSA-N
-JLK SMILES_CANONICAL               CACTVS 3.385                                                                                                                             CCc1sc2ncnc(N[C@H](Cc3ccccc3)C(O)=O)c2c1c4ccccc4C
-JLK           SMILES               CACTVS 3.385                                                                                                                              CCc1sc2ncnc(N[CH](Cc3ccccc3)C(O)=O)c2c1c4ccccc4C
-JLK SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7                                                                                                                           CCc1c(c2c(ncnc2s1)N[C@H](Cc3ccccc3)C(=O)O)c4ccccc4C
-JLK           SMILES "OpenEye OEToolkits" 2.0.7                                                                                                                               CCc1c(c2c(ncnc2s1)NC(Cc3ccccc3)C(=O)O)c4ccccc4C
+JLK InChI            InChI                1.03  InChI=1S/C24H23N3O2S/c1-3-19-20(17-12-8-7-9-15(17)2)21-22(25-14-26-23(21)30-19)27-18(24(28)29)13-16-10-5-4-6-11-16/h4-12,14,18H,3,13H2,1-2H3,(H,28,29)(H,25,26,27)/t18-/m1/s1
+JLK InChIKey         InChI                1.03  BJYZTAWEBOABQO-GOSISDBHSA-N
+JLK SMILES_CANONICAL CACTVS               3.385 CCc1sc2ncnc(N[C@H](Cc3ccccc3)C(O)=O)c2c1c4ccccc4C
+JLK SMILES           CACTVS               3.385 CCc1sc2ncnc(N[CH](Cc3ccccc3)C(O)=O)c2c1c4ccccc4C
+JLK SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 CCc1c(c2c(ncnc2s1)N[C@H](Cc3ccccc3)C(=O)O)c4ccccc4C
+JLK SMILES           "OpenEye OEToolkits" 2.0.7 CCc1c(c2c(ncnc2s1)NC(Cc3ccccc3)C(=O)O)c4ccccc4C
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-JLK acedrg               243         "dictionary generator"                  
-JLK acedrg_database      11          "data source"                           
-JLK rdkit                2017.03.2   "Chemoinformatics tool"
-JLK refmac5              5.8.0238    "optimization tool"                     
+JLK acedrg          243       "dictionary generator"
+JLK acedrg_database 11        "data source"
+JLK rdkit           2017.03.2 "Chemoinformatics tool"
+JLK refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+JLK M-peptide O14 O
+JLK M-peptide C13 C
+JLK M-peptide C11 CA
+JLK M-peptide N10 N
+JLK M-peptide C4  CN
+JLK M-peptide O15 OXT
+JLK M-peptide H1  H

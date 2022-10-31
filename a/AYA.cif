@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-AYA     AYA      N-ACETYLALANINE     NON-POLYMER     17     9     .     
-#
+AYA AYA N-ACETYLALANINE NON-POLYMER 17 9 .
+
 data_comp_AYA
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,23 +19,24 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-AYA     N       N       NH1     0       44.462      32.471      107.164     
-AYA     CA      C       CH1     0       43.423      33.434      107.502     
-AYA     CB      C       CH3     0       44.028      34.801      107.792     
-AYA     C       C       C       0       42.377      33.576      106.381     
-AYA     O       O       O       0       41.179      33.417      106.691     
-AYA     OXT     O       OC      -1      42.800      33.842      105.239     
-AYA     CT      C       C       0       44.266      31.147      107.176     
-AYA     OT      O       O       0       43.182      30.645      107.473     
-AYA     CM      C       CH3     0       45.440      30.298      106.807     
-AYA     H       H       H       0       45.252      32.774      106.939     
-AYA     HA      H       H       0       42.957      33.118      108.327     
-AYA     HB1     H       H       0       43.322      35.425      108.028     
-AYA     HB2     H       H       0       44.495      35.124      107.004     
-AYA     HB3     H       H       0       44.655      34.729      108.532     
-AYA     HM1     H       H       0       45.186      29.361      106.828     
-AYA     HM2     H       H       0       46.163      30.449      107.438     
-AYA     HM3     H       H       0       45.741      30.529      105.913     
+AYA N   N NH1 0  44.462 32.471 107.164
+AYA CA  C CH1 0  43.423 33.434 107.502
+AYA CB  C CH3 0  44.028 34.801 107.792
+AYA C   C C   0  42.377 33.576 106.381
+AYA O   O O   0  41.179 33.417 106.691
+AYA OXT O OC  -1 42.800 33.842 105.239
+AYA CT  C C   0  44.266 31.147 107.176
+AYA OT  O O   0  43.182 30.645 107.473
+AYA CM  C CH3 0  45.440 30.298 106.807
+AYA H   H H   0  45.252 32.774 106.939
+AYA HA  H H   0  42.957 33.118 108.327
+AYA HB1 H H   0  43.322 35.425 108.028
+AYA HB2 H H   0  44.495 35.124 107.004
+AYA HB3 H H   0  44.655 34.729 108.532
+AYA HM1 H H   0  45.186 29.361 106.828
+AYA HM2 H H   0  46.163 30.449 107.438
+AYA HM3 H H   0  45.741 30.529 105.913
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -48,22 +47,23 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-AYA           N          CA      SINGLE       n     1.453  0.0100     1.453  0.0100
-AYA           N          CT      SINGLE       n     1.335  0.0100     1.335  0.0100
-AYA          CA          CB      SINGLE       n     1.522  0.0106     1.522  0.0106
-AYA          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-AYA           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-AYA           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-AYA          CT          OT      DOUBLE       n     1.229  0.0102     1.229  0.0102
-AYA          CT          CM      SINGLE       n     1.495  0.0100     1.495  0.0100
-AYA           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
-AYA          CA          HA      SINGLE       n     1.089  0.0100     0.998  0.0200
-AYA          CB         HB1      SINGLE       n     1.089  0.0100     0.972  0.0152
-AYA          CB         HB2      SINGLE       n     1.089  0.0100     0.972  0.0152
-AYA          CB         HB3      SINGLE       n     1.089  0.0100     0.972  0.0152
-AYA          CM         HM1      SINGLE       n     1.089  0.0100     0.971  0.0140
-AYA          CM         HM2      SINGLE       n     1.089  0.0100     0.971  0.0140
-AYA          CM         HM3      SINGLE       n     1.089  0.0100     0.971  0.0140
+AYA N  CA  SINGLE n 1.453 0.0100 1.453 0.0100
+AYA N  CT  SINGLE n 1.335 0.0100 1.335 0.0100
+AYA CA CB  SINGLE n 1.522 0.0106 1.522 0.0106
+AYA CA C   SINGLE n 1.539 0.0100 1.539 0.0100
+AYA C  O   DOUBLE n 1.247 0.0187 1.247 0.0187
+AYA C  OXT SINGLE n 1.247 0.0187 1.247 0.0187
+AYA CT OT  DOUBLE n 1.229 0.0102 1.229 0.0102
+AYA CT CM  SINGLE n 1.495 0.0100 1.495 0.0100
+AYA N  H   SINGLE n 1.016 0.0100 0.873 0.0200
+AYA CA HA  SINGLE n 1.089 0.0100 0.998 0.0200
+AYA CB HB1 SINGLE n 1.089 0.0100 0.972 0.0152
+AYA CB HB2 SINGLE n 1.089 0.0100 0.972 0.0152
+AYA CB HB3 SINGLE n 1.089 0.0100 0.972 0.0152
+AYA CM HM1 SINGLE n 1.089 0.0100 0.971 0.0140
+AYA CM HM2 SINGLE n 1.089 0.0100 0.971 0.0140
+AYA CM HM3 SINGLE n 1.089 0.0100 0.971 0.0140
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -71,33 +71,34 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-AYA          CA           N          CT     121.698    1.76
-AYA          CA           N           H     119.175    2.18
-AYA          CT           N           H     119.127    2.25
-AYA           N          CA          CB     110.599    1.50
-AYA           N          CA           C     111.925    2.31
-AYA           N          CA          HA     108.173    1.50
-AYA          CB          CA           C     109.294    1.70
-AYA          CB          CA          HA     108.430    1.50
-AYA           C          CA          HA     108.101    1.50
-AYA          CA          CB         HB1     109.550    1.50
-AYA          CA          CB         HB2     109.550    1.50
-AYA          CA          CB         HB3     109.550    1.50
-AYA         HB1          CB         HB2     109.386    1.50
-AYA         HB1          CB         HB3     109.386    1.50
-AYA         HB2          CB         HB3     109.386    1.50
-AYA          CA           C           O     117.260    2.00
-AYA          CA           C         OXT     117.260    2.00
-AYA           O           C         OXT     125.481    1.50
-AYA           N          CT          OT     121.667    1.50
-AYA           N          CT          CM     116.420    1.50
-AYA          OT          CT          CM     121.913    1.50
-AYA          CT          CM         HM1     109.678    1.50
-AYA          CT          CM         HM2     109.678    1.50
-AYA          CT          CM         HM3     109.678    1.50
-AYA         HM1          CM         HM2     109.365    1.50
-AYA         HM1          CM         HM3     109.365    1.50
-AYA         HM2          CM         HM3     109.365    1.50
+AYA CA  N  CT  121.698 1.76
+AYA CA  N  H   119.175 2.18
+AYA CT  N  H   119.127 2.25
+AYA N   CA CB  110.599 1.50
+AYA N   CA C   111.925 2.31
+AYA N   CA HA  108.173 1.50
+AYA CB  CA C   109.294 1.70
+AYA CB  CA HA  108.430 1.50
+AYA C   CA HA  108.101 1.50
+AYA CA  CB HB1 109.550 1.50
+AYA CA  CB HB2 109.550 1.50
+AYA CA  CB HB3 109.550 1.50
+AYA HB1 CB HB2 109.386 1.50
+AYA HB1 CB HB3 109.386 1.50
+AYA HB2 CB HB3 109.386 1.50
+AYA CA  C  O   117.260 2.00
+AYA CA  C  OXT 117.260 2.00
+AYA O   C  OXT 125.481 1.50
+AYA N   CT OT  121.667 1.50
+AYA N   CT CM  116.420 1.50
+AYA OT  CT CM  121.913 1.50
+AYA CT  CM HM1 109.678 1.50
+AYA CT  CM HM2 109.678 1.50
+AYA CT  CM HM3 109.678 1.50
+AYA HM1 CM HM2 109.365 1.50
+AYA HM1 CM HM3 109.365 1.50
+AYA HM2 CM HM3 109.365 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -108,11 +109,12 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-AYA             sp2_sp3_1          CT           N          CA          CB       0.000    10.0     6
-AYA             sp2_sp2_3          OT          CT           N          CA       0.000     5.0     2
-AYA             sp3_sp3_1           N          CA          CB         HB1     180.000    10.0     3
-AYA             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-AYA            sp2_sp3_13           N          CT          CM         HM1       0.000    10.0     6
+AYA sp2_sp3_1  CT N  CA CB  0.000   10.0 6
+AYA sp2_sp2_3  OT CT N  CA  0.000   5.0  2
+AYA sp3_sp3_1  N  CA CB HB1 180.000 10.0 3
+AYA sp2_sp3_7  O  C  CA N   0.000   10.0 6
+AYA sp2_sp3_13 N  CT CM HM1 0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -121,43 +123,53 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-AYA    chir_1    CA    N    C    CB    positive
+AYA chir_1 CA N C CB positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-AYA    plan-1          CA   0.020
-AYA    plan-1          CT   0.020
-AYA    plan-1           H   0.020
-AYA    plan-1           N   0.020
-AYA    plan-2           C   0.020
-AYA    plan-2          CA   0.020
-AYA    plan-2           O   0.020
-AYA    plan-2         OXT   0.020
-AYA    plan-3          CM   0.020
-AYA    plan-3          CT   0.020
-AYA    plan-3           N   0.020
-AYA    plan-3          OT   0.020
+AYA plan-1 CA  0.020
+AYA plan-1 CT  0.020
+AYA plan-1 H   0.020
+AYA plan-1 N   0.020
+AYA plan-2 C   0.020
+AYA plan-2 CA  0.020
+AYA plan-2 O   0.020
+AYA plan-2 OXT 0.020
+AYA plan-3 CM  0.020
+AYA plan-3 CT  0.020
+AYA plan-3 N   0.020
+AYA plan-3 OT  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-AYA           SMILES              ACDLabs 10.04                                                      O=C(NC(C(=O)O)C)C
-AYA SMILES_CANONICAL               CACTVS 3.341                                                  C[C@H](NC(C)=O)C(O)=O
-AYA           SMILES               CACTVS 3.341                                                   C[CH](NC(C)=O)C(O)=O
-AYA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                 C[C@@H](C(=O)O)NC(=O)C
-AYA           SMILES "OpenEye OEToolkits" 1.5.0                                                      CC(C(=O)O)NC(=O)C
-AYA            InChI                InChI  1.03 InChI=1S/C5H9NO3/c1-3(5(8)9)6-4(2)7/h3H,1-2H3,(H,6,7)(H,8,9)/t3-/m0/s1
-AYA         InChIKey                InChI  1.03                                            KTHDTJVBEPMMGL-VKHMYHEASA-N
+AYA SMILES           ACDLabs              10.04 O=C(NC(C(=O)O)C)C
+AYA SMILES_CANONICAL CACTVS               3.341 C[C@H](NC(C)=O)C(O)=O
+AYA SMILES           CACTVS               3.341 C[CH](NC(C)=O)C(O)=O
+AYA SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@@H](C(=O)O)NC(=O)C
+AYA SMILES           "OpenEye OEToolkits" 1.5.0 CC(C(=O)O)NC(=O)C
+AYA InChI            InChI                1.03  InChI=1S/C5H9NO3/c1-3(5(8)9)6-4(2)7/h3H,1-2H3,(H,6,7)(H,8,9)/t3-/m0/s1
+AYA InChIKey         InChI                1.03  KTHDTJVBEPMMGL-VKHMYHEASA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-AYA acedrg               243         "dictionary generator"                  
-AYA acedrg_database      11          "data source"                           
-AYA rdkit                2017.03.2   "Chemoinformatics tool"
-AYA refmac5              5.8.0238    "optimization tool"                     
+AYA acedrg          243       "dictionary generator"
+AYA acedrg_database 11        "data source"
+AYA rdkit           2017.03.2 "Chemoinformatics tool"
+AYA refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+AYA M-peptide CT CN

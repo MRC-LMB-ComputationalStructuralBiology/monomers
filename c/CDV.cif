@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-CDV     CDV      "3-METHYL-2-UREIDO-BUTYRIC ACID"     NON-POLYMER     22     11     .     
-#
+CDV CDV "3-METHYL-2-UREIDO-BUTYRIC ACID" NON-POLYMER 22 11 .
+
 data_comp_CDV
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,28 +19,29 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-CDV     NT      N       NH2     0       53.325      79.870      -4.424      
-CDV     CT      C       C       0       52.684      80.251      -3.310      
-CDV     OT      O       O       0       52.116      81.359      -3.254      
-CDV     N       N       NH1     0       52.668      79.388      -2.266      
-CDV     CA      C       CH1     0       52.039      79.671      -0.980      
-CDV     CB      C       CH1     0       52.623      78.787      0.144       
-CDV     CG1     C       CH3     0       54.136      78.950      0.255       
-CDV     CG2     C       CH3     0       51.951      79.064      1.487       
-CDV     C       C       C       0       50.513      79.507      -1.100      
-CDV     O       O       O       0       50.082      78.372      -1.382      
-CDV     OXT     O       OC      -1      49.814      80.522      -0.907      
-CDV     HT1     H       H       0       53.730      79.089      -4.471      
-CDV     HT2     H       H       0       53.340      80.411      -5.120      
-CDV     HN1     H       H       0       53.043      78.606      -2.370      
-CDV     HA      H       H       0       52.227      80.611      -0.747      
-CDV     HB      H       H       0       52.441      77.844      -0.092      
-CDV     HG11    H       H       0       54.464      78.458      1.027       
-CDV     HG12    H       H       0       54.354      79.893      0.356       
-CDV     HG13    H       H       0       54.562      78.604      -0.548      
-CDV     HG21    H       H       0       51.118      78.564      1.543       
-CDV     HG22    H       H       0       51.762      80.015      1.565       
-CDV     HG23    H       H       0       52.536      78.791      2.214       
+CDV NT   N NH2 0  53.325 79.870 -4.424
+CDV CT   C C   0  52.684 80.251 -3.310
+CDV OT   O O   0  52.116 81.359 -3.254
+CDV N    N NH1 0  52.668 79.388 -2.266
+CDV CA   C CH1 0  52.039 79.671 -0.980
+CDV CB   C CH1 0  52.623 78.787 0.144
+CDV CG1  C CH3 0  54.136 78.950 0.255
+CDV CG2  C CH3 0  51.951 79.064 1.487
+CDV C    C C   0  50.513 79.507 -1.100
+CDV O    O O   0  50.082 78.372 -1.382
+CDV OXT  O OC  -1 49.814 80.522 -0.907
+CDV HT1  H H   0  53.730 79.089 -4.471
+CDV HT2  H H   0  53.340 80.411 -5.120
+CDV HN1  H H   0  53.043 78.606 -2.370
+CDV HA   H H   0  52.227 80.611 -0.747
+CDV HB   H H   0  52.441 77.844 -0.092
+CDV HG11 H H   0  54.464 78.458 1.027
+CDV HG12 H H   0  54.354 79.893 0.356
+CDV HG13 H H   0  54.562 78.604 -0.548
+CDV HG21 H H   0  51.118 78.564 1.543
+CDV HG22 H H   0  51.762 80.015 1.565
+CDV HG23 H H   0  52.536 78.791 2.214
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -53,27 +52,28 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-CDV          NT          CT      SINGLE       n     1.334  0.0157     1.334  0.0157
-CDV          CT          OT      DOUBLE       n     1.243  0.0179     1.243  0.0179
-CDV          CT           N      SINGLE       n     1.350  0.0100     1.350  0.0100
-CDV           N          CA      SINGLE       n     1.454  0.0128     1.454  0.0128
-CDV          CA          CB      SINGLE       n     1.541  0.0100     1.541  0.0100
-CDV          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-CDV          CB         CG1      SINGLE       n     1.521  0.0135     1.521  0.0135
-CDV          CB         CG2      SINGLE       n     1.521  0.0135     1.521  0.0135
-CDV           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-CDV           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-CDV          NT         HT1      SINGLE       n     1.016  0.0100     0.881  0.0200
-CDV          NT         HT2      SINGLE       n     1.016  0.0100     0.881  0.0200
-CDV           N         HN1      SINGLE       n     1.016  0.0100     0.873  0.0200
-CDV          CA          HA      SINGLE       n     1.089  0.0100     0.986  0.0179
-CDV          CB          HB      SINGLE       n     1.089  0.0100     0.989  0.0175
-CDV         CG1        HG11      SINGLE       n     1.089  0.0100     0.973  0.0146
-CDV         CG1        HG12      SINGLE       n     1.089  0.0100     0.973  0.0146
-CDV         CG1        HG13      SINGLE       n     1.089  0.0100     0.973  0.0146
-CDV         CG2        HG21      SINGLE       n     1.089  0.0100     0.973  0.0146
-CDV         CG2        HG22      SINGLE       n     1.089  0.0100     0.973  0.0146
-CDV         CG2        HG23      SINGLE       n     1.089  0.0100     0.973  0.0146
+CDV NT  CT   SINGLE n 1.334 0.0157 1.334 0.0157
+CDV CT  OT   DOUBLE n 1.243 0.0179 1.243 0.0179
+CDV CT  N    SINGLE n 1.350 0.0100 1.350 0.0100
+CDV N   CA   SINGLE n 1.454 0.0128 1.454 0.0128
+CDV CA  CB   SINGLE n 1.541 0.0100 1.541 0.0100
+CDV CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
+CDV CB  CG1  SINGLE n 1.521 0.0135 1.521 0.0135
+CDV CB  CG2  SINGLE n 1.521 0.0135 1.521 0.0135
+CDV C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
+CDV C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+CDV NT  HT1  SINGLE n 1.016 0.0100 0.881 0.0200
+CDV NT  HT2  SINGLE n 1.016 0.0100 0.881 0.0200
+CDV N   HN1  SINGLE n 1.016 0.0100 0.873 0.0200
+CDV CA  HA   SINGLE n 1.089 0.0100 0.986 0.0179
+CDV CB  HB   SINGLE n 1.089 0.0100 0.989 0.0175
+CDV CG1 HG11 SINGLE n 1.089 0.0100 0.973 0.0146
+CDV CG1 HG12 SINGLE n 1.089 0.0100 0.973 0.0146
+CDV CG1 HG13 SINGLE n 1.089 0.0100 0.973 0.0146
+CDV CG2 HG21 SINGLE n 1.089 0.0100 0.973 0.0146
+CDV CG2 HG22 SINGLE n 1.089 0.0100 0.973 0.0146
+CDV CG2 HG23 SINGLE n 1.089 0.0100 0.973 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -81,42 +81,43 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-CDV          CT          NT         HT1     119.809    2.97
-CDV          CT          NT         HT2     119.809    2.97
-CDV         HT1          NT         HT2     120.382    2.62
-CDV          NT          CT          OT     121.364    1.81
-CDV          NT          CT           N     117.179    1.50
-CDV          OT          CT           N     121.457    1.50
-CDV          CT           N          CA     122.563    3.00
-CDV          CT           N         HN1     118.596    1.50
-CDV          CA           N         HN1     118.841    1.92
-CDV           N          CA          CB     111.159    1.50
-CDV           N          CA           C     110.939    1.74
-CDV           N          CA          HA     108.161    1.50
-CDV          CB          CA           C     111.291    1.50
-CDV          CB          CA          HA     108.105    1.50
-CDV           C          CA          HA     108.240    1.50
-CDV          CA          CB         CG1     111.285    1.50
-CDV          CA          CB         CG2     111.285    1.50
-CDV          CA          CB          HB     107.617    1.50
-CDV         CG1          CB         CG2     110.676    1.50
-CDV         CG1          CB          HB     107.603    1.50
-CDV         CG2          CB          HB     107.603    1.50
-CDV          CB         CG1        HG11     109.507    1.50
-CDV          CB         CG1        HG12     109.507    1.50
-CDV          CB         CG1        HG13     109.507    1.50
-CDV        HG11         CG1        HG12     109.411    1.50
-CDV        HG11         CG1        HG13     109.411    1.50
-CDV        HG12         CG1        HG13     109.411    1.50
-CDV          CB         CG2        HG21     109.507    1.50
-CDV          CB         CG2        HG22     109.507    1.50
-CDV          CB         CG2        HG23     109.507    1.50
-CDV        HG21         CG2        HG22     109.411    1.50
-CDV        HG21         CG2        HG23     109.411    1.50
-CDV        HG22         CG2        HG23     109.411    1.50
-CDV          CA           C           O     117.195    1.50
-CDV          CA           C         OXT     117.195    1.50
-CDV           O           C         OXT     125.611    1.50
+CDV CT   NT  HT1  119.809 2.97
+CDV CT   NT  HT2  119.809 2.97
+CDV HT1  NT  HT2  120.382 2.62
+CDV NT   CT  OT   121.364 1.81
+CDV NT   CT  N    117.179 1.50
+CDV OT   CT  N    121.457 1.50
+CDV CT   N   CA   122.563 3.00
+CDV CT   N   HN1  118.596 1.50
+CDV CA   N   HN1  118.841 1.92
+CDV N    CA  CB   111.159 1.50
+CDV N    CA  C    110.939 1.74
+CDV N    CA  HA   108.161 1.50
+CDV CB   CA  C    111.291 1.50
+CDV CB   CA  HA   108.105 1.50
+CDV C    CA  HA   108.240 1.50
+CDV CA   CB  CG1  111.285 1.50
+CDV CA   CB  CG2  111.285 1.50
+CDV CA   CB  HB   107.617 1.50
+CDV CG1  CB  CG2  110.676 1.50
+CDV CG1  CB  HB   107.603 1.50
+CDV CG2  CB  HB   107.603 1.50
+CDV CB   CG1 HG11 109.507 1.50
+CDV CB   CG1 HG12 109.507 1.50
+CDV CB   CG1 HG13 109.507 1.50
+CDV HG11 CG1 HG12 109.411 1.50
+CDV HG11 CG1 HG13 109.411 1.50
+CDV HG12 CG1 HG13 109.411 1.50
+CDV CB   CG2 HG21 109.507 1.50
+CDV CB   CG2 HG22 109.507 1.50
+CDV CB   CG2 HG23 109.507 1.50
+CDV HG21 CG2 HG22 109.411 1.50
+CDV HG21 CG2 HG23 109.411 1.50
+CDV HG22 CG2 HG23 109.411 1.50
+CDV CA   C   O    117.195 1.50
+CDV CA   C   OXT  117.195 1.50
+CDV O    C   OXT  125.611 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -127,13 +128,14 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-CDV             sp2_sp2_3          OT          CT          NT         HT1       0.000     5.0     2
-CDV             sp2_sp2_5          NT          CT           N          CA     180.000     5.0     2
-CDV             sp2_sp3_1          CT           N          CA          CB       0.000    10.0     6
-CDV             sp3_sp3_2           N          CA          CB         CG1     -60.000    10.0     3
-CDV             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
-CDV            sp3_sp3_10          CA          CB         CG1        HG11     180.000    10.0     3
-CDV            sp3_sp3_22          CA          CB         CG2        HG21      60.000    10.0     3
+CDV sp2_sp2_3  OT CT NT  HT1  0.000   5.0  2
+CDV sp2_sp2_5  NT CT N   CA   180.000 5.0  2
+CDV sp2_sp3_1  CT N  CA  CB   0.000   10.0 6
+CDV sp3_sp3_2  N  CA CB  CG1  -60.000 10.0 3
+CDV sp2_sp3_7  O  C  CA  N    0.000   10.0 6
+CDV sp3_sp3_10 CA CB CG1 HG11 180.000 10.0 3
+CDV sp3_sp3_22 CA CB CG2 HG21 60.000  10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -142,48 +144,59 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-CDV    chir_1    CA    N    C    CB    negative
-CDV    chir_2    CB    CA    CG1    CG2    both
+CDV chir_1 CA N  C   CB  negative
+CDV chir_2 CB CA CG1 CG2 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-CDV    plan-1          CT   0.020
-CDV    plan-1         HT1   0.020
-CDV    plan-1         HT2   0.020
-CDV    plan-1          NT   0.020
-CDV    plan-2          CT   0.020
-CDV    plan-2           N   0.020
-CDV    plan-2          NT   0.020
-CDV    plan-2          OT   0.020
-CDV    plan-3          CA   0.020
-CDV    plan-3          CT   0.020
-CDV    plan-3         HN1   0.020
-CDV    plan-3           N   0.020
-CDV    plan-4           C   0.020
-CDV    plan-4          CA   0.020
-CDV    plan-4           O   0.020
-CDV    plan-4         OXT   0.020
+CDV plan-1 CT  0.020
+CDV plan-1 HT1 0.020
+CDV plan-1 HT2 0.020
+CDV plan-1 NT  0.020
+CDV plan-2 CT  0.020
+CDV plan-2 N   0.020
+CDV plan-2 NT  0.020
+CDV plan-2 OT  0.020
+CDV plan-3 CA  0.020
+CDV plan-3 CT  0.020
+CDV plan-3 HN1 0.020
+CDV plan-3 N   0.020
+CDV plan-4 C   0.020
+CDV plan-4 CA  0.020
+CDV plan-4 O   0.020
+CDV plan-4 OXT 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-CDV           SMILES              ACDLabs 10.04                                                                 O=C(O)C(NC(=O)N)C(C)C
-CDV SMILES_CANONICAL               CACTVS 3.341                                                            CC(C)[C@@H](NC(N)=O)C(O)=O
-CDV           SMILES               CACTVS 3.341                                                              CC(C)[CH](NC(N)=O)C(O)=O
-CDV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                             CC(C)[C@H](C(=O)O)NC(=O)N
-CDV           SMILES "OpenEye OEToolkits" 1.5.0                                                                 CC(C)C(C(=O)O)NC(=O)N
-CDV            InChI                InChI  1.03 InChI=1S/C6H12N2O3/c1-3(2)4(5(9)10)8-6(7)11/h3-4H,1-2H3,(H,9,10)(H3,7,8,11)/t4-/m1/s1
-CDV         InChIKey                InChI  1.03                                                           JDXMIYHOSFNZKO-SCSAIBSYSA-N
+CDV SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)N)C(C)C
+CDV SMILES_CANONICAL CACTVS               3.341 CC(C)[C@@H](NC(N)=O)C(O)=O
+CDV SMILES           CACTVS               3.341 CC(C)[CH](NC(N)=O)C(O)=O
+CDV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(C)[C@H](C(=O)O)NC(=O)N
+CDV SMILES           "OpenEye OEToolkits" 1.5.0 CC(C)C(C(=O)O)NC(=O)N
+CDV InChI            InChI                1.03  InChI=1S/C6H12N2O3/c1-3(2)4(5(9)10)8-6(7)11/h3-4H,1-2H3,(H,9,10)(H3,7,8,11)/t4-/m1/s1
+CDV InChIKey         InChI                1.03  JDXMIYHOSFNZKO-SCSAIBSYSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-CDV acedrg               243         "dictionary generator"                  
-CDV acedrg_database      11          "data source"                           
-CDV rdkit                2017.03.2   "Chemoinformatics tool"
-CDV refmac5              5.8.0238    "optimization tool"                     
+CDV acedrg          243       "dictionary generator"
+CDV acedrg_database 11        "data source"
+CDV rdkit           2017.03.2 "Chemoinformatics tool"
+CDV refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+CDV M-peptide CT  CN
+CDV M-peptide HN1 H

@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-D6E     D6E      "(2~{S})-2-[[(2~{S})-4-methyl-1-oxidanyl-1-oxidanylidene-pentan-2-yl]carbamoylamino]pentanedioic acid"     NON-POLYMER     38     21     .     
-#
+D6E D6E "(2~{S})-2-[[(2~{S})-4-methyl-1-oxidanyl-1-oxidanylidene-pentan-2-yl]carbamoylamino]pentanedioic acid" NON-POLYMER 38 21 .
+
 data_comp_D6E
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,44 +19,45 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-D6E     OE1     O       O       0       12.442      46.965      39.934      
-D6E     CD      C       C       0       13.208      47.112      40.907      
-D6E     OE2     O       OC      -1      12.870      47.663      41.973      
-D6E     CG      C       CH2     0       14.630      46.592      40.786      
-D6E     CB      C       CH2     0       14.845      45.208      41.388      
-D6E     CA      C       CH1     0       16.317      44.783      41.512      
-D6E     C       C       C       0       17.052      44.839      40.158      
-D6E     OXT     O       O       0       17.037      43.806      39.459      
-D6E     O       O       OC      -1      17.611      45.911      39.850      
-D6E     N       N       NH1     0       17.019      45.567      42.525      
-D6E     CAR     C       C       0       18.215      45.220      43.058      
-D6E     OAF     O       O       0       18.800      44.165      42.732      
-D6E     NAN     N       NH1     0       18.758      46.089      43.945      
-D6E     CAU     C       CH1     0       20.063      45.915      44.576      
-D6E     CAQ     C       C       0       20.155      46.733      45.877      
-D6E     OAI     O       O       0       19.889      47.949      45.808      
-D6E     OAE     O       OC      -1      20.490      46.123      46.912      
-D6E     CAL     C       CH2     0       21.188      46.326      43.617      
-D6E     CAS     C       CH1     0       22.615      45.977      44.048      
-D6E     CAB     C       CH3     0       23.625      46.603      43.095      
-D6E     CAA     C       CH3     0       22.826      44.468      44.143      
-D6E     H2      H       H       0       15.231      47.230      41.224      
-D6E     H3      H       H       0       14.866      46.569      39.835      
-D6E     H4      H       H       0       14.378      44.549      40.834      
-D6E     H5      H       H       0       14.441      45.188      42.280      
-D6E     H6      H       H       0       16.322      43.839      41.813      
-D6E     H8      H       H       0       16.640      46.299      42.813      
-D6E     H9      H       H       0       18.299      46.804      44.151      
-D6E     H10     H       H       0       20.173      44.959      44.805      
-D6E     H12     H       H       0       21.137      47.294      43.486      
-D6E     H13     H       H       0       21.020      45.907      42.750      
-D6E     H14     H       H       0       22.771      46.362      44.945      
-D6E     H15     H       H       0       24.526      46.446      43.426      
-D6E     H16     H       H       0       23.465      47.561      43.035      
-D6E     H17     H       H       0       23.529      46.204      42.212      
-D6E     H18     H       H       0       22.143      44.006      43.626      
-D6E     H19     H       H       0       22.765      44.192      45.074      
-D6E     H20     H       H       0       23.705      44.234      43.796      
+D6E OE1 O O   0  12.442 46.965 39.934
+D6E CD  C C   0  13.208 47.112 40.907
+D6E OE2 O OC  -1 12.870 47.663 41.973
+D6E CG  C CH2 0  14.630 46.592 40.786
+D6E CB  C CH2 0  14.845 45.208 41.388
+D6E CA  C CH1 0  16.317 44.783 41.512
+D6E C   C C   0  17.052 44.839 40.158
+D6E OXT O O   0  17.037 43.806 39.459
+D6E O   O OC  -1 17.611 45.911 39.850
+D6E N   N NH1 0  17.019 45.567 42.525
+D6E CAR C C   0  18.215 45.220 43.058
+D6E OAF O O   0  18.800 44.165 42.732
+D6E NAN N NH1 0  18.758 46.089 43.945
+D6E CAU C CH1 0  20.063 45.915 44.576
+D6E CAQ C C   0  20.155 46.733 45.877
+D6E OAI O O   0  19.889 47.949 45.808
+D6E OAE O OC  -1 20.490 46.123 46.912
+D6E CAL C CH2 0  21.188 46.326 43.617
+D6E CAS C CH1 0  22.615 45.977 44.048
+D6E CAB C CH3 0  23.625 46.603 43.095
+D6E CAA C CH3 0  22.826 44.468 44.143
+D6E H2  H H   0  15.231 47.230 41.224
+D6E H3  H H   0  14.866 46.569 39.835
+D6E H4  H H   0  14.378 44.549 40.834
+D6E H5  H H   0  14.441 45.188 42.280
+D6E H6  H H   0  16.322 43.839 41.813
+D6E H8  H H   0  16.640 46.299 42.813
+D6E H9  H H   0  18.299 46.804 44.151
+D6E H10 H H   0  20.173 44.959 44.805
+D6E H12 H H   0  21.137 47.294 43.486
+D6E H13 H H   0  21.020 45.907 42.750
+D6E H14 H H   0  22.771 46.362 44.945
+D6E H15 H H   0  24.526 46.446 43.426
+D6E H16 H H   0  23.465 47.561 43.035
+D6E H17 H H   0  23.529 46.204 42.212
+D6E H18 H H   0  22.143 44.006 43.626
+D6E H19 H H   0  22.765 44.192 45.074
+D6E H20 H H   0  23.705 44.234 43.796
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -69,43 +68,44 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-D6E           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-D6E         OE1          CD      DOUBLE       n     1.247  0.0187     1.247  0.0187
-D6E           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-D6E          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-D6E          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
-D6E          CD          CG      SINGLE       n     1.519  0.0109     1.519  0.0109
-D6E          CG          CB      SINGLE       n     1.518  0.0153     1.518  0.0153
-D6E          CB          CA      SINGLE       n     1.533  0.0100     1.533  0.0100
-D6E          CA           N      SINGLE       n     1.454  0.0128     1.454  0.0128
-D6E         CAR         OAF      DOUBLE       n     1.243  0.0179     1.243  0.0179
-D6E           N         CAR      SINGLE       n     1.349  0.0100     1.349  0.0100
-D6E         CAS         CAB      SINGLE       n     1.521  0.0151     1.521  0.0151
-D6E         CAR         NAN      SINGLE       n     1.349  0.0100     1.349  0.0100
-D6E         CAL         CAS      SINGLE       n     1.528  0.0105     1.528  0.0105
-D6E         CAU         CAL      SINGLE       n     1.531  0.0100     1.531  0.0100
-D6E         CAS         CAA      SINGLE       n     1.521  0.0151     1.521  0.0151
-D6E         NAN         CAU      SINGLE       n     1.454  0.0128     1.454  0.0128
-D6E         CAU         CAQ      SINGLE       n     1.539  0.0100     1.539  0.0100
-D6E         CAQ         OAI      DOUBLE       n     1.247  0.0187     1.247  0.0187
-D6E         CAQ         OAE      SINGLE       n     1.247  0.0187     1.247  0.0187
-D6E          CG          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
-D6E          CG          H3      SINGLE       n     1.089  0.0100     0.981  0.0185
-D6E          CB          H4      SINGLE       n     1.089  0.0100     0.980  0.0178
-D6E          CB          H5      SINGLE       n     1.089  0.0100     0.980  0.0178
-D6E          CA          H6      SINGLE       n     1.089  0.0100     0.991  0.0200
-D6E           N          H8      SINGLE       n     1.016  0.0100     0.873  0.0200
-D6E         NAN          H9      SINGLE       n     1.016  0.0100     0.873  0.0200
-D6E         CAU         H10      SINGLE       n     1.089  0.0100     0.991  0.0200
-D6E         CAL         H12      SINGLE       n     1.089  0.0100     0.978  0.0119
-D6E         CAL         H13      SINGLE       n     1.089  0.0100     0.978  0.0119
-D6E         CAS         H14      SINGLE       n     1.089  0.0100     0.989  0.0162
-D6E         CAB         H15      SINGLE       n     1.089  0.0100     0.973  0.0146
-D6E         CAB         H16      SINGLE       n     1.089  0.0100     0.973  0.0146
-D6E         CAB         H17      SINGLE       n     1.089  0.0100     0.973  0.0146
-D6E         CAA         H18      SINGLE       n     1.089  0.0100     0.973  0.0146
-D6E         CAA         H19      SINGLE       n     1.089  0.0100     0.973  0.0146
-D6E         CAA         H20      SINGLE       n     1.089  0.0100     0.973  0.0146
+D6E C   OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+D6E OE1 CD  DOUBLE n 1.247 0.0187 1.247 0.0187
+D6E C   O   SINGLE n 1.247 0.0187 1.247 0.0187
+D6E CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+D6E CD  OE2 SINGLE n 1.247 0.0187 1.247 0.0187
+D6E CD  CG  SINGLE n 1.519 0.0109 1.519 0.0109
+D6E CG  CB  SINGLE n 1.518 0.0153 1.518 0.0153
+D6E CB  CA  SINGLE n 1.533 0.0100 1.533 0.0100
+D6E CA  N   SINGLE n 1.454 0.0128 1.454 0.0128
+D6E CAR OAF DOUBLE n 1.243 0.0179 1.243 0.0179
+D6E N   CAR SINGLE n 1.349 0.0100 1.349 0.0100
+D6E CAS CAB SINGLE n 1.521 0.0151 1.521 0.0151
+D6E CAR NAN SINGLE n 1.349 0.0100 1.349 0.0100
+D6E CAL CAS SINGLE n 1.528 0.0105 1.528 0.0105
+D6E CAU CAL SINGLE n 1.531 0.0100 1.531 0.0100
+D6E CAS CAA SINGLE n 1.521 0.0151 1.521 0.0151
+D6E NAN CAU SINGLE n 1.454 0.0128 1.454 0.0128
+D6E CAU CAQ SINGLE n 1.539 0.0100 1.539 0.0100
+D6E CAQ OAI DOUBLE n 1.247 0.0187 1.247 0.0187
+D6E CAQ OAE SINGLE n 1.247 0.0187 1.247 0.0187
+D6E CG  H2  SINGLE n 1.089 0.0100 0.981 0.0185
+D6E CG  H3  SINGLE n 1.089 0.0100 0.981 0.0185
+D6E CB  H4  SINGLE n 1.089 0.0100 0.980 0.0178
+D6E CB  H5  SINGLE n 1.089 0.0100 0.980 0.0178
+D6E CA  H6  SINGLE n 1.089 0.0100 0.991 0.0200
+D6E N   H8  SINGLE n 1.016 0.0100 0.873 0.0200
+D6E NAN H9  SINGLE n 1.016 0.0100 0.873 0.0200
+D6E CAU H10 SINGLE n 1.089 0.0100 0.991 0.0200
+D6E CAL H12 SINGLE n 1.089 0.0100 0.978 0.0119
+D6E CAL H13 SINGLE n 1.089 0.0100 0.978 0.0119
+D6E CAS H14 SINGLE n 1.089 0.0100 0.989 0.0162
+D6E CAB H15 SINGLE n 1.089 0.0100 0.973 0.0146
+D6E CAB H16 SINGLE n 1.089 0.0100 0.973 0.0146
+D6E CAB H17 SINGLE n 1.089 0.0100 0.973 0.0146
+D6E CAA H18 SINGLE n 1.089 0.0100 0.973 0.0146
+D6E CAA H19 SINGLE n 1.089 0.0100 0.973 0.0146
+D6E CAA H20 SINGLE n 1.089 0.0100 0.973 0.0146
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -113,72 +113,73 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-D6E         OE1          CD         OE2     123.571    1.50
-D6E         OE1          CD          CG     118.214    1.64
-D6E         OE2          CD          CG     118.214    1.64
-D6E          CD          CG          CB     114.629    2.24
-D6E          CD          CG          H2     108.404    1.50
-D6E          CD          CG          H3     108.404    1.50
-D6E          CB          CG          H2     108.906    1.50
-D6E          CB          CG          H3     108.906    1.50
-D6E          H2          CG          H3     107.521    1.50
-D6E          CG          CB          CA     112.938    1.50
-D6E          CG          CB          H4     108.890    1.50
-D6E          CG          CB          H5     108.890    1.50
-D6E          CA          CB          H4     108.606    1.50
-D6E          CA          CB          H5     108.606    1.50
-D6E          H4          CB          H5     107.844    1.50
-D6E           C          CA          CB     111.638    2.31
-D6E           C          CA           N     110.939    1.74
-D6E           C          CA          H6     108.327    1.50
-D6E          CB          CA           N     111.076    1.75
-D6E          CB          CA          H6     108.155    1.50
-D6E           N          CA          H6     108.161    1.50
-D6E         OXT           C           O     125.502    1.50
-D6E         OXT           C          CA     117.249    1.61
-D6E           O           C          CA     117.249    1.61
-D6E          CA           N         CAR     122.812    3.00
-D6E          CA           N          H8     119.090    1.92
-D6E         CAR           N          H8     118.098    1.50
-D6E         OAF         CAR           N     122.060    1.50
-D6E         OAF         CAR         NAN     122.060    1.50
-D6E           N         CAR         NAN     115.881    1.50
-D6E         CAR         NAN         CAU     122.812    3.00
-D6E         CAR         NAN          H9     118.098    1.50
-D6E         CAU         NAN          H9     119.090    1.92
-D6E         CAL         CAU         NAN     111.076    1.75
-D6E         CAL         CAU         CAQ     109.518    1.62
-D6E         CAL         CAU         H10     108.412    1.50
-D6E         NAN         CAU         CAQ     110.939    1.74
-D6E         NAN         CAU         H10     108.161    1.50
-D6E         CAQ         CAU         H10     108.327    1.50
-D6E         CAU         CAQ         OAI     117.249    1.61
-D6E         CAU         CAQ         OAE     117.249    1.61
-D6E         OAI         CAQ         OAE     125.502    1.50
-D6E         CAS         CAL         CAU     115.116    1.50
-D6E         CAS         CAL         H12     108.478    1.50
-D6E         CAS         CAL         H13     108.478    1.50
-D6E         CAU         CAL         H12     108.495    1.50
-D6E         CAU         CAL         H13     108.495    1.50
-D6E         H12         CAL         H13     107.542    1.50
-D6E         CAB         CAS         CAL     110.880    1.50
-D6E         CAB         CAS         CAA     110.507    1.50
-D6E         CAB         CAS         H14     108.052    1.50
-D6E         CAL         CAS         CAA     110.880    1.50
-D6E         CAL         CAS         H14     108.053    1.50
-D6E         CAA         CAS         H14     108.052    1.50
-D6E         CAS         CAB         H15     109.488    1.50
-D6E         CAS         CAB         H16     109.488    1.50
-D6E         CAS         CAB         H17     109.488    1.50
-D6E         H15         CAB         H16     109.411    1.50
-D6E         H15         CAB         H17     109.411    1.50
-D6E         H16         CAB         H17     109.411    1.50
-D6E         CAS         CAA         H18     109.488    1.50
-D6E         CAS         CAA         H19     109.488    1.50
-D6E         CAS         CAA         H20     109.488    1.50
-D6E         H18         CAA         H19     109.411    1.50
-D6E         H18         CAA         H20     109.411    1.50
-D6E         H19         CAA         H20     109.411    1.50
+D6E OE1 CD  OE2 123.571 1.50
+D6E OE1 CD  CG  118.214 1.64
+D6E OE2 CD  CG  118.214 1.64
+D6E CD  CG  CB  114.629 2.24
+D6E CD  CG  H2  108.404 1.50
+D6E CD  CG  H3  108.404 1.50
+D6E CB  CG  H2  108.906 1.50
+D6E CB  CG  H3  108.906 1.50
+D6E H2  CG  H3  107.521 1.50
+D6E CG  CB  CA  112.938 1.50
+D6E CG  CB  H4  108.890 1.50
+D6E CG  CB  H5  108.890 1.50
+D6E CA  CB  H4  108.606 1.50
+D6E CA  CB  H5  108.606 1.50
+D6E H4  CB  H5  107.844 1.50
+D6E C   CA  CB  111.638 2.31
+D6E C   CA  N   110.939 1.74
+D6E C   CA  H6  108.327 1.50
+D6E CB  CA  N   111.076 1.75
+D6E CB  CA  H6  108.155 1.50
+D6E N   CA  H6  108.161 1.50
+D6E OXT C   O   125.502 1.50
+D6E OXT C   CA  117.249 1.61
+D6E O   C   CA  117.249 1.61
+D6E CA  N   CAR 122.812 3.00
+D6E CA  N   H8  119.090 1.92
+D6E CAR N   H8  118.098 1.50
+D6E OAF CAR N   122.060 1.50
+D6E OAF CAR NAN 122.060 1.50
+D6E N   CAR NAN 115.881 1.50
+D6E CAR NAN CAU 122.812 3.00
+D6E CAR NAN H9  118.098 1.50
+D6E CAU NAN H9  119.090 1.92
+D6E CAL CAU NAN 111.076 1.75
+D6E CAL CAU CAQ 109.518 1.62
+D6E CAL CAU H10 108.412 1.50
+D6E NAN CAU CAQ 110.939 1.74
+D6E NAN CAU H10 108.161 1.50
+D6E CAQ CAU H10 108.327 1.50
+D6E CAU CAQ OAI 117.249 1.61
+D6E CAU CAQ OAE 117.249 1.61
+D6E OAI CAQ OAE 125.502 1.50
+D6E CAS CAL CAU 115.116 1.50
+D6E CAS CAL H12 108.478 1.50
+D6E CAS CAL H13 108.478 1.50
+D6E CAU CAL H12 108.495 1.50
+D6E CAU CAL H13 108.495 1.50
+D6E H12 CAL H13 107.542 1.50
+D6E CAB CAS CAL 110.880 1.50
+D6E CAB CAS CAA 110.507 1.50
+D6E CAB CAS H14 108.052 1.50
+D6E CAL CAS CAA 110.880 1.50
+D6E CAL CAS H14 108.053 1.50
+D6E CAA CAS H14 108.052 1.50
+D6E CAS CAB H15 109.488 1.50
+D6E CAS CAB H16 109.488 1.50
+D6E CAS CAB H17 109.488 1.50
+D6E H15 CAB H16 109.411 1.50
+D6E H15 CAB H17 109.411 1.50
+D6E H16 CAB H17 109.411 1.50
+D6E CAS CAA H18 109.488 1.50
+D6E CAS CAA H19 109.488 1.50
+D6E CAS CAA H20 109.488 1.50
+D6E H18 CAA H19 109.411 1.50
+D6E H18 CAA H20 109.411 1.50
+D6E H19 CAA H20 109.411 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -189,19 +190,20 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-D6E             sp2_sp2_7         OAF         CAR         NAN         CAU       0.000     5.0     2
-D6E            sp2_sp3_19         CAR         NAN         CAU         CAL       0.000    10.0     6
-D6E            sp2_sp3_25         OAI         CAQ         CAU         CAL       0.000    10.0     6
-D6E            sp3_sp3_37         CAS         CAL         CAU         NAN     180.000    10.0     3
-D6E            sp3_sp3_29         CAU         CAL         CAS         CAB     -60.000    10.0     3
-D6E            sp3_sp3_19         H15         CAB         CAS         CAL     180.000    10.0     3
-D6E            sp3_sp3_46         H18         CAA         CAS         CAB     180.000    10.0     3
-D6E             sp2_sp3_8         OE1          CD          CG          CB     120.000    10.0     6
-D6E             sp3_sp3_1          CA          CB          CG          CD     180.000    10.0     3
-D6E            sp3_sp3_10           C          CA          CB          CG     180.000    10.0     3
-D6E             sp2_sp3_1         OXT           C          CA          CB       0.000    10.0     6
-D6E            sp2_sp3_13         CAR           N          CA           C       0.000    10.0     6
-D6E             sp2_sp2_3         OAF         CAR           N          CA       0.000     5.0     2
+D6E sp2_sp2_7  OAF CAR NAN CAU 0.000   5.0  2
+D6E sp2_sp3_19 CAR NAN CAU CAL 0.000   10.0 6
+D6E sp2_sp3_25 OAI CAQ CAU CAL 0.000   10.0 6
+D6E sp3_sp3_37 CAS CAL CAU NAN 180.000 10.0 3
+D6E sp3_sp3_29 CAU CAL CAS CAB -60.000 10.0 3
+D6E sp3_sp3_19 H15 CAB CAS CAL 180.000 10.0 3
+D6E sp3_sp3_46 H18 CAA CAS CAB 180.000 10.0 3
+D6E sp2_sp3_8  OE1 CD  CG  CB  120.000 10.0 6
+D6E sp3_sp3_1  CA  CB  CG  CD  180.000 10.0 3
+D6E sp3_sp3_10 C   CA  CB  CG  180.000 10.0 3
+D6E sp2_sp3_1  OXT C   CA  CB  0.000   10.0 6
+D6E sp2_sp3_13 CAR N   CA  C   0.000   10.0 6
+D6E sp2_sp2_3  OAF CAR N   CA  0.000   5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -210,56 +212,69 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-D6E    chir_1    CA    N    C    CB    positive
-D6E    chir_2    CAU    NAN    CAQ    CAL    positive
-D6E    chir_3    CAS    CAL    CAB    CAA    both
+D6E chir_1 CA  N   C   CB  positive
+D6E chir_2 CAU NAN CAQ CAL positive
+D6E chir_3 CAS CAL CAB CAA both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-D6E    plan-1          CD   0.020
-D6E    plan-1          CG   0.020
-D6E    plan-1         OE1   0.020
-D6E    plan-1         OE2   0.020
-D6E    plan-2           C   0.020
-D6E    plan-2          CA   0.020
-D6E    plan-2           O   0.020
-D6E    plan-2         OXT   0.020
-D6E    plan-3          CA   0.020
-D6E    plan-3         CAR   0.020
-D6E    plan-3          H8   0.020
-D6E    plan-3           N   0.020
-D6E    plan-4         CAR   0.020
-D6E    plan-4           N   0.020
-D6E    plan-4         NAN   0.020
-D6E    plan-4         OAF   0.020
-D6E    plan-5         CAR   0.020
-D6E    plan-5         CAU   0.020
-D6E    plan-5          H9   0.020
-D6E    plan-5         NAN   0.020
-D6E    plan-6         CAQ   0.020
-D6E    plan-6         CAU   0.020
-D6E    plan-6         OAE   0.020
-D6E    plan-6         OAI   0.020
+D6E plan-1 CD  0.020
+D6E plan-1 CG  0.020
+D6E plan-1 OE1 0.020
+D6E plan-1 OE2 0.020
+D6E plan-2 C   0.020
+D6E plan-2 CA  0.020
+D6E plan-2 O   0.020
+D6E plan-2 OXT 0.020
+D6E plan-3 CA  0.020
+D6E plan-3 CAR 0.020
+D6E plan-3 H8  0.020
+D6E plan-3 N   0.020
+D6E plan-4 CAR 0.020
+D6E plan-4 N   0.020
+D6E plan-4 NAN 0.020
+D6E plan-4 OAF 0.020
+D6E plan-5 CAR 0.020
+D6E plan-5 CAU 0.020
+D6E plan-5 H9  0.020
+D6E plan-5 NAN 0.020
+D6E plan-6 CAQ 0.020
+D6E plan-6 CAU 0.020
+D6E plan-6 OAE 0.020
+D6E plan-6 OAI 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-D6E            InChI                InChI  1.03 InChI=1S/C12H20N2O7/c1-6(2)5-8(11(19)20)14-12(21)13-7(10(17)18)3-4-9(15)16/h6-8H,3-5H2,1-2H3,(H,15,16)(H,17,18)(H,19,20)(H2,13,14,21)/t7-,8-/m0/s1
-D6E         InChIKey                InChI  1.03                                                                                                                        BSGWCSGMXAVYRT-YUMQZZPRSA-N
-D6E SMILES_CANONICAL               CACTVS 3.385                                                                                                   CC(C)C[C@H](NC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O
-D6E           SMILES               CACTVS 3.385                                                                                                      CC(C)C[CH](NC(=O)N[CH](CCC(O)=O)C(O)=O)C(O)=O
-D6E SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                  CC(C)C[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O
-D6E           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                            CC(C)CC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O
+D6E InChI            InChI                1.03  InChI=1S/C12H20N2O7/c1-6(2)5-8(11(19)20)14-12(21)13-7(10(17)18)3-4-9(15)16/h6-8H,3-5H2,1-2H3,(H,15,16)(H,17,18)(H,19,20)(H2,13,14,21)/t7-,8-/m0/s1
+D6E InChIKey         InChI                1.03  BSGWCSGMXAVYRT-YUMQZZPRSA-N
+D6E SMILES_CANONICAL CACTVS               3.385 CC(C)C[C@H](NC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O
+D6E SMILES           CACTVS               3.385 CC(C)C[CH](NC(=O)N[CH](CCC(O)=O)C(O)=O)C(O)=O
+D6E SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 CC(C)C[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O
+D6E SMILES           "OpenEye OEToolkits" 2.0.6 CC(C)CC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-D6E acedrg               243         "dictionary generator"                  
-D6E acedrg_database      11          "data source"                           
-D6E rdkit                2017.03.2   "Chemoinformatics tool"
-D6E refmac5              5.8.0238    "optimization tool"                     
+D6E acedrg          243       "dictionary generator"
+D6E acedrg_database 11        "data source"
+D6E rdkit           2017.03.2 "Chemoinformatics tool"
+D6E refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+D6E M-peptide OXT O
+D6E M-peptide CAR CN
+D6E M-peptide O   OXT
+D6E M-peptide H8  H

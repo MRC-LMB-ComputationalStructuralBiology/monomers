@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IR8     IR8      "[(2R,3S,4R,5R)-3,4-dihydroxypyrrolidine-2,5-diyl]bis(methylene) bis[dihydrogen (phosphate)]"     NON-POLYMER     30     19     .     
-#
+IR8 IR8 "[(2R,3S,4R,5R)-3,4-dihydroxypyrrolidine-2,5-diyl]bis(methylene) bis[dihydrogen (phosphate)]" NON-POLYMER 30 19 .
+
 data_comp_IR8
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,36 +19,37 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IR8     O3P     O       O       0       -1.977      -7.427      31.838      
-IR8     P1      P       P       0       -2.151      -7.515      33.342      
-IR8     O1P     O       OP      -1      -1.254      -8.561      33.978      
-IR8     O2P     O       OP      -1      -2.057      -6.164      34.026      
-IR8     O1      O       O2      0       -3.663      -8.029      33.581      
-IR8     C1      C       CH2     0       -4.763      -7.184      33.158      
-IR8     C2      C       CH1     0       -6.066      -7.891      33.477      
-IR8     C3      C       CH1     0       -7.312      -7.248      32.847      
-IR8     O3      O       OH1     0       -7.221      -5.830      32.770      
-IR8     N1      N       NT1     0       -6.375      -7.854      34.919      
-IR8     C5      C       CH1     0       -7.828      -7.749      35.167      
-IR8     C4      C       CH1     0       -8.450      -7.707      33.760      
-IR8     O4      O       OH1     0       -9.569      -6.831      33.719      
-IR8     C6      C       CH2     0       -8.358      -8.882      36.025      
-IR8     O6      O       O2      0       -7.822      -8.736      37.368      
-IR8     P2      P       P       0       -8.763      -8.132      38.537      
-IR8     O4P     O       OP      -1      -7.883      -8.042      39.770      
-IR8     O5P     O       O       0       -9.904      -9.118      38.698      
-IR8     O6P     O       OP      -1      -9.223      -6.774      38.041      
-IR8     H3      H       H       0       -4.705      -7.013      32.196      
-IR8     H4      H       H       0       -4.727      -6.328      33.630      
-IR8     H5      H       H       0       -6.003      -8.836      33.189      
-IR8     H6      H       H       0       -7.455      -7.622      31.941      
-IR8     H7      H       H       0       -7.088      -5.520      33.549      
-IR8     H8      H       H       0       -6.024      -8.571      35.322      
-IR8     H10     H       H       0       -8.005      -6.889      35.625      
-IR8     H11     H       H       0       -8.730      -8.619      33.492      
-IR8     H12     H       H       0       -10.171     -7.136      34.233      
-IR8     H13     H       H       0       -8.080      -9.741      35.647      
-IR8     H14     H       H       0       -9.337      -8.854      36.043      
+IR8 O3P O O   0  -1.977  -7.427 31.838
+IR8 P1  P P   0  -2.151  -7.515 33.342
+IR8 O1P O OP  -1 -1.254  -8.561 33.978
+IR8 O2P O OP  -1 -2.057  -6.164 34.026
+IR8 O1  O O2  0  -3.663  -8.029 33.581
+IR8 C1  C CH2 0  -4.763  -7.184 33.158
+IR8 C2  C CH1 0  -6.066  -7.891 33.477
+IR8 C3  C CH1 0  -7.312  -7.248 32.847
+IR8 O3  O OH1 0  -7.221  -5.830 32.770
+IR8 N1  N NT1 0  -6.375  -7.854 34.919
+IR8 C5  C CH1 0  -7.828  -7.749 35.167
+IR8 C4  C CH1 0  -8.450  -7.707 33.760
+IR8 O4  O OH1 0  -9.569  -6.831 33.719
+IR8 C6  C CH2 0  -8.358  -8.882 36.025
+IR8 O6  O O2  0  -7.822  -8.736 37.368
+IR8 P2  P P   0  -8.763  -8.132 38.537
+IR8 O4P O OP  -1 -7.883  -8.042 39.770
+IR8 O5P O O   0  -9.904  -9.118 38.698
+IR8 O6P O OP  -1 -9.223  -6.774 38.041
+IR8 H3  H H   0  -4.705  -7.013 32.196
+IR8 H4  H H   0  -4.727  -6.328 33.630
+IR8 H5  H H   0  -6.003  -8.836 33.189
+IR8 H6  H H   0  -7.455  -7.622 31.941
+IR8 H7  H H   0  -7.088  -5.520 33.549
+IR8 H8  H H   0  -6.024  -8.571 35.322
+IR8 H10 H H   0  -8.005  -6.889 35.625
+IR8 H11 H H   0  -8.730  -8.619 33.492
+IR8 H12 H H   0  -10.171 -7.136 34.233
+IR8 H13 H H   0  -8.080  -9.741 35.647
+IR8 H14 H H   0  -9.337  -8.854 36.043
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -61,36 +60,37 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IR8          C3          O3      SINGLE       n     1.421  0.0100     1.421  0.0100
-IR8          C2          C3      SINGLE       n     1.536  0.0148     1.536  0.0148
-IR8          C3          C4      SINGLE       n     1.529  0.0127     1.529  0.0127
-IR8         O3P          P1      DOUBLE       n     1.517  0.0192     1.517  0.0192
-IR8          C1          C2      SINGLE       n     1.515  0.0106     1.515  0.0106
-IR8          O1          C1      SINGLE       n     1.450  0.0166     1.450  0.0166
-IR8          C2          N1      SINGLE       n     1.475  0.0100     1.475  0.0100
-IR8          C4          O4      SINGLE       n     1.421  0.0100     1.421  0.0100
-IR8          C5          C4      SINGLE       n     1.536  0.0148     1.536  0.0148
-IR8          P1          O1      SINGLE       n     1.614  0.0178     1.614  0.0178
-IR8          P1         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
-IR8          P1         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
-IR8          N1          C5      SINGLE       n     1.475  0.0100     1.475  0.0100
-IR8          C5          C6      SINGLE       n     1.515  0.0106     1.515  0.0106
-IR8          C6          O6      SINGLE       n     1.450  0.0166     1.450  0.0166
-IR8          O6          P2      SINGLE       n     1.614  0.0178     1.614  0.0178
-IR8          P2         O5P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-IR8          P2         O6P      SINGLE       n     1.517  0.0192     1.517  0.0192
-IR8          P2         O4P      SINGLE       n     1.517  0.0192     1.517  0.0192
-IR8          C1          H3      SINGLE       n     1.089  0.0100     0.979  0.0188
-IR8          C1          H4      SINGLE       n     1.089  0.0100     0.979  0.0188
-IR8          C2          H5      SINGLE       n     1.089  0.0100     0.990  0.0135
-IR8          C3          H6      SINGLE       n     1.089  0.0100     0.990  0.0168
-IR8          O3          H7      SINGLE       n     0.970  0.0120     0.849  0.0200
-IR8          N1          H8      SINGLE       n     1.036  0.0160     0.891  0.0200
-IR8          C5         H10      SINGLE       n     1.089  0.0100     0.990  0.0135
-IR8          C4         H11      SINGLE       n     1.089  0.0100     0.990  0.0168
-IR8          O4         H12      SINGLE       n     0.970  0.0120     0.849  0.0200
-IR8          C6         H13      SINGLE       n     1.089  0.0100     0.979  0.0188
-IR8          C6         H14      SINGLE       n     1.089  0.0100     0.979  0.0188
+IR8 C3  O3  SINGLE n 1.421 0.0100 1.421 0.0100
+IR8 C2  C3  SINGLE n 1.536 0.0148 1.536 0.0148
+IR8 C3  C4  SINGLE n 1.529 0.0127 1.529 0.0127
+IR8 O3P P1  DOUBLE n 1.517 0.0192 1.517 0.0192
+IR8 C1  C2  SINGLE n 1.515 0.0106 1.515 0.0106
+IR8 O1  C1  SINGLE n 1.450 0.0166 1.450 0.0166
+IR8 C2  N1  SINGLE n 1.475 0.0100 1.475 0.0100
+IR8 C4  O4  SINGLE n 1.421 0.0100 1.421 0.0100
+IR8 C5  C4  SINGLE n 1.536 0.0148 1.536 0.0148
+IR8 P1  O1  SINGLE n 1.614 0.0178 1.614 0.0178
+IR8 P1  O1P SINGLE n 1.517 0.0192 1.517 0.0192
+IR8 P1  O2P SINGLE n 1.517 0.0192 1.517 0.0192
+IR8 N1  C5  SINGLE n 1.475 0.0100 1.475 0.0100
+IR8 C5  C6  SINGLE n 1.515 0.0106 1.515 0.0106
+IR8 C6  O6  SINGLE n 1.450 0.0166 1.450 0.0166
+IR8 O6  P2  SINGLE n 1.614 0.0178 1.614 0.0178
+IR8 P2  O5P DOUBLE n 1.517 0.0192 1.517 0.0192
+IR8 P2  O6P SINGLE n 1.517 0.0192 1.517 0.0192
+IR8 P2  O4P SINGLE n 1.517 0.0192 1.517 0.0192
+IR8 C1  H3  SINGLE n 1.089 0.0100 0.979 0.0188
+IR8 C1  H4  SINGLE n 1.089 0.0100 0.979 0.0188
+IR8 C2  H5  SINGLE n 1.089 0.0100 0.990 0.0135
+IR8 C3  H6  SINGLE n 1.089 0.0100 0.990 0.0168
+IR8 O3  H7  SINGLE n 0.970 0.0120 0.849 0.0200
+IR8 N1  H8  SINGLE n 1.036 0.0160 0.891 0.0200
+IR8 C5  H10 SINGLE n 1.089 0.0100 0.990 0.0135
+IR8 C4  H11 SINGLE n 1.089 0.0100 0.990 0.0168
+IR8 O4  H12 SINGLE n 0.970 0.0120 0.849 0.0200
+IR8 C6  H13 SINGLE n 1.089 0.0100 0.979 0.0188
+IR8 C6  H14 SINGLE n 1.089 0.0100 0.979 0.0188
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -98,61 +98,62 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IR8         O3P          P1          O1     105.808    2.07
-IR8         O3P          P1         O1P     112.864    1.69
-IR8         O3P          P1         O2P     112.864    1.69
-IR8          O1          P1         O1P     105.808    2.07
-IR8          O1          P1         O2P     105.808    2.07
-IR8         O1P          P1         O2P     112.864    1.69
-IR8          C1          O1          P1     118.783    1.50
-IR8          C2          C1          O1     108.378    1.55
-IR8          C2          C1          H3     109.608    1.50
-IR8          C2          C1          H4     109.608    1.50
-IR8          O1          C1          H3     109.821    1.50
-IR8          O1          C1          H4     109.821    1.50
-IR8          H3          C1          H4     108.335    1.56
-IR8          C3          C2          C1     113.697    1.51
-IR8          C3          C2          N1     103.104    2.01
-IR8          C3          C2          H5     109.485    1.57
-IR8          C1          C2          N1     111.633    2.37
-IR8          C1          C2          H5     109.324    1.50
-IR8          N1          C2          H5     108.836    1.79
-IR8          O3          C3          C2     111.549    2.36
-IR8          O3          C3          C4     111.828    2.48
-IR8          O3          C3          H6     110.147    1.64
-IR8          C2          C3          C4     104.666    1.50
-IR8          C2          C3          H6     109.851    1.50
-IR8          C4          C3          H6     109.344    1.50
-IR8          C3          O3          H7     108.584    1.68
-IR8          C2          N1          C5     109.056    3.00
-IR8          C2          N1          H8     110.078    2.70
-IR8          C5          N1          H8     110.078    2.70
-IR8          C4          C5          N1     103.104    2.01
-IR8          C4          C5          C6     113.697    1.51
-IR8          C4          C5         H10     109.485    1.57
-IR8          N1          C5          C6     111.633    2.37
-IR8          N1          C5         H10     108.836    1.79
-IR8          C6          C5         H10     109.324    1.50
-IR8          C3          C4          O4     111.828    2.48
-IR8          C3          C4          C5     104.666    1.50
-IR8          C3          C4         H11     109.344    1.50
-IR8          O4          C4          C5     111.549    2.36
-IR8          O4          C4         H11     110.147    1.64
-IR8          C5          C4         H11     109.851    1.50
-IR8          C4          O4         H12     108.584    1.68
-IR8          C5          C6          O6     108.378    1.55
-IR8          C5          C6         H13     109.608    1.50
-IR8          C5          C6         H14     109.608    1.50
-IR8          O6          C6         H13     109.821    1.50
-IR8          O6          C6         H14     109.821    1.50
-IR8         H13          C6         H14     108.335    1.56
-IR8          C6          O6          P2     118.783    1.50
-IR8          O6          P2         O5P     105.808    2.07
-IR8          O6          P2         O6P     105.808    2.07
-IR8          O6          P2         O4P     105.808    2.07
-IR8         O5P          P2         O6P     112.864    1.69
-IR8         O5P          P2         O4P     112.864    1.69
-IR8         O6P          P2         O4P     112.864    1.69
+IR8 O3P P1 O1  105.808 2.07
+IR8 O3P P1 O1P 112.864 1.69
+IR8 O3P P1 O2P 112.864 1.69
+IR8 O1  P1 O1P 105.808 2.07
+IR8 O1  P1 O2P 105.808 2.07
+IR8 O1P P1 O2P 112.864 1.69
+IR8 C1  O1 P1  118.783 1.50
+IR8 C2  C1 O1  108.378 1.55
+IR8 C2  C1 H3  109.608 1.50
+IR8 C2  C1 H4  109.608 1.50
+IR8 O1  C1 H3  109.821 1.50
+IR8 O1  C1 H4  109.821 1.50
+IR8 H3  C1 H4  108.335 1.56
+IR8 C3  C2 C1  113.697 1.51
+IR8 C3  C2 N1  103.104 2.01
+IR8 C3  C2 H5  109.485 1.57
+IR8 C1  C2 N1  111.633 2.37
+IR8 C1  C2 H5  109.324 1.50
+IR8 N1  C2 H5  108.836 1.79
+IR8 O3  C3 C2  111.549 2.36
+IR8 O3  C3 C4  111.828 2.48
+IR8 O3  C3 H6  110.147 1.64
+IR8 C2  C3 C4  104.666 1.50
+IR8 C2  C3 H6  109.851 1.50
+IR8 C4  C3 H6  109.344 1.50
+IR8 C3  O3 H7  108.584 1.68
+IR8 C2  N1 C5  109.056 3.00
+IR8 C2  N1 H8  110.078 2.70
+IR8 C5  N1 H8  110.078 2.70
+IR8 C4  C5 N1  103.104 2.01
+IR8 C4  C5 C6  113.697 1.51
+IR8 C4  C5 H10 109.485 1.57
+IR8 N1  C5 C6  111.633 2.37
+IR8 N1  C5 H10 108.836 1.79
+IR8 C6  C5 H10 109.324 1.50
+IR8 C3  C4 O4  111.828 2.48
+IR8 C3  C4 C5  104.666 1.50
+IR8 C3  C4 H11 109.344 1.50
+IR8 O4  C4 C5  111.549 2.36
+IR8 O4  C4 H11 110.147 1.64
+IR8 C5  C4 H11 109.851 1.50
+IR8 C4  O4 H12 108.584 1.68
+IR8 C5  C6 O6  108.378 1.55
+IR8 C5  C6 H13 109.608 1.50
+IR8 C5  C6 H14 109.608 1.50
+IR8 O6  C6 H13 109.821 1.50
+IR8 O6  C6 H14 109.821 1.50
+IR8 H13 C6 H14 108.335 1.56
+IR8 C6  O6 P2  118.783 1.50
+IR8 O6  P2 O5P 105.808 2.07
+IR8 O6  P2 O6P 105.808 2.07
+IR8 O6  P2 O4P 105.808 2.07
+IR8 O5P P2 O6P 112.864 1.69
+IR8 O5P P2 O4P 112.864 1.69
+IR8 O6P P2 O4P 112.864 1.69
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -163,19 +164,20 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IR8            sp3_sp3_23          O4          C4          C5          C6      60.000    10.0     3
-IR8            sp3_sp3_61          C4          C5          C6          O6     180.000    10.0     3
-IR8            sp3_sp3_55          C3          C4          O4         H12     180.000    10.0     3
-IR8            sp3_sp3_70          C5          C6          O6          P2     180.000    10.0     3
-IR8            sp3_sp3_75          C6          O6          P2         O5P      60.000    10.0     3
-IR8            sp3_sp3_60          C1          O1          P1         O3P      60.000    10.0     3
-IR8            sp3_sp3_46          C2          C1          O1          P1     180.000    10.0     3
-IR8            sp3_sp3_37          O1          C1          C2          C3     180.000    10.0     3
-IR8             sp3_sp3_5          C1          C2          C3          O3      60.000    10.0     3
-IR8            sp3_sp3_51          C1          C2          N1          C5      60.000    10.0     3
-IR8            sp3_sp3_14          O3          C3          C4          O4     -60.000    10.0     3
-IR8            sp3_sp3_34          C2          C3          O3          H7     180.000    10.0     3
-IR8            sp3_sp3_30          C6          C5          N1          C2     180.000    10.0     3
+IR8 sp3_sp3_23 O4 C4 C5 C6  60.000  10.0 3
+IR8 sp3_sp3_61 C4 C5 C6 O6  180.000 10.0 3
+IR8 sp3_sp3_55 C3 C4 O4 H12 180.000 10.0 3
+IR8 sp3_sp3_70 C5 C6 O6 P2  180.000 10.0 3
+IR8 sp3_sp3_75 C6 O6 P2 O5P 60.000  10.0 3
+IR8 sp3_sp3_60 C1 O1 P1 O3P 60.000  10.0 3
+IR8 sp3_sp3_46 C2 C1 O1 P1  180.000 10.0 3
+IR8 sp3_sp3_37 O1 C1 C2 C3  180.000 10.0 3
+IR8 sp3_sp3_5  C1 C2 C3 O3  60.000  10.0 3
+IR8 sp3_sp3_51 C1 C2 N1 C5  60.000  10.0 3
+IR8 sp3_sp3_14 O3 C3 C4 O4  -60.000 10.0 3
+IR8 sp3_sp3_34 C2 C3 O3 H7  180.000 10.0 3
+IR8 sp3_sp3_30 C6 C5 N1 C2  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -184,32 +186,50 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-IR8    chir_1    P1    O1    O1P    O2P    both
-IR8    chir_2    C2    N1    C3    C1    negative
-IR8    chir_3    C3    O3    C4    C2    positive
-IR8    chir_4    C5    N1    C4    C6    negative
-IR8    chir_5    C4    O4    C3    C5    negative
-IR8    chir_6    P2    O6    O6P    O4P    both
-IR8    chir_7    N1    C5    C2    H8    both
+IR8 chir_1 P1 O1 O1P O2P both
+IR8 chir_2 C2 N1 C3  C1  negative
+IR8 chir_3 C3 O3 C4  C2  positive
+IR8 chir_4 C5 N1 C4  C6  negative
+IR8 chir_5 C4 O4 C3  C5  negative
+IR8 chir_6 P2 O6 O6P O4P both
+IR8 chir_7 N1 C5 C2  H8  both
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IR8           SMILES              ACDLabs 12.01                                                                                               O=P(O)(O)OCC1NC(COP(O)(O)=O)C(C1O)O
-IR8            InChI                InChI  1.03 InChI=1S/C6H15NO10P2/c8-5-3(1-16-18(10,11)12)7-4(6(5)9)2-17-19(13,14)15/h3-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5-,6+/m1/s1
-IR8         InChIKey                InChI  1.03                                                                                                       JDMJAXIARMVOFV-KAZBKCHUSA-N
-IR8 SMILES_CANONICAL               CACTVS 3.385                                                                        O[C@@H]1[C@H](O)[C@@H](CO[P](O)(O)=O)N[C@@H]1CO[P](O)(O)=O
-IR8           SMILES               CACTVS 3.385                                                                               O[CH]1[CH](O)[CH](CO[P](O)(O)=O)N[CH]1CO[P](O)(O)=O
-IR8 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                          C([C@@H]1[C@H]([C@H]([C@H](N1)COP(=O)(O)O)O)O)OP(=O)(O)O
-IR8           SMILES "OpenEye OEToolkits" 2.0.6                                                                                           C(C1C(C(C(N1)COP(=O)(O)O)O)O)OP(=O)(O)O
+IR8 SMILES           ACDLabs              12.01 O=P(O)(O)OCC1NC(COP(O)(O)=O)C(C1O)O
+IR8 InChI            InChI                1.03  InChI=1S/C6H15NO10P2/c8-5-3(1-16-18(10,11)12)7-4(6(5)9)2-17-19(13,14)15/h3-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5-,6+/m1/s1
+IR8 InChIKey         InChI                1.03  JDMJAXIARMVOFV-KAZBKCHUSA-N
+IR8 SMILES_CANONICAL CACTVS               3.385 O[C@@H]1[C@H](O)[C@@H](CO[P](O)(O)=O)N[C@@H]1CO[P](O)(O)=O
+IR8 SMILES           CACTVS               3.385 O[CH]1[CH](O)[CH](CO[P](O)(O)=O)N[CH]1CO[P](O)(O)=O
+IR8 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 C([C@@H]1[C@H]([C@H]([C@H](N1)COP(=O)(O)O)O)O)OP(=O)(O)O
+IR8 SMILES           "OpenEye OEToolkits" 2.0.6 C(C1C(C(C(N1)COP(=O)(O)O)O)O)OP(=O)(O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IR8 acedrg               243         "dictionary generator"                  
-IR8 acedrg_database      11          "data source"                           
-IR8 rdkit                2017.03.2   "Chemoinformatics tool"
-IR8 refmac5              5.8.0238    "optimization tool"                     
+IR8 acedrg          243       "dictionary generator"
+IR8 acedrg_database 11        "data source"
+IR8 rdkit           2017.03.2 "Chemoinformatics tool"
+IR8 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+IR8 DNA/RNA O1P OP3
+IR8 DNA/RNA P1  P
+IR8 DNA/RNA O3P OP1
+IR8 DNA/RNA O2P OP2
+IR8 DNA/RNA O1  O5'
+IR8 DNA/RNA C1  C5'
+IR8 DNA/RNA C2  C4'
+IR8 DNA/RNA C3  C3'
+IR8 DNA/RNA O3  O3'
+IR8 DNA/RNA H7  HO3'

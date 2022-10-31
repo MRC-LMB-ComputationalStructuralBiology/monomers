@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-BMH     BMH      "5H-PYRAZOLO(1,2-A)(1,2,4)TRIAZOL-4-IUM,6-((2-CARBOXY-6-(1-HYDROXYETHYL)-4-METHYL-7-OXO-1-AZABICYCLO(3.2.0)HEPT-2-EN-3-YL)THIO)-6,7-DIHYDRO-, HYDROXIDE, INNERSALT, (4R-(4ALPHA,5BETA,6BETA(R*)))-"     NON-POLYMER     46     25     .     
-#
+BMH BMH "5H-PYRAZOLO(1,2-A)(1,2,4)TRIAZOL-4-IUM,6-((2-CARBOXY-6-(1-HYDROXYETHYL)-4-METHYL-7-OXO-1-AZABICYCLO(3.2.0)HEPT-2-EN-3-YL)THIO)-6,7-DIHYDRO-, HYDROXIDE, INNERSALT, (4R-(4ALPHA,5BETA,6BETA(R*)))-" NON-POLYMER 46 25 .
+
 data_comp_BMH
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,52 +19,53 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-BMH     O71     O       OC      -1      13.733      49.808      70.804      
-BMH     C7      C       C       0       14.939      50.029      70.572      
-BMH     O72     O       O       0       15.395      51.115      70.156      
-BMH     C6      C       CH1     0       15.916      48.870      70.836      
-BMH     C61     C       CH1     0       17.325      49.375      71.207      
-BMH     O62     O       OH1     0       18.255      48.295      71.220      
-BMH     C62     C       CH3     0       17.373      50.055      72.558      
-BMH     C5      C       CH1     0       15.761      47.801      69.700      
-BMH     N4      N       NR5     0       16.232      46.514      70.206      
-BMH     C3      C       CR5     0       17.135      45.912      69.434      
-BMH     C31     C       CH1     0       17.794      44.603      69.774      
-BMH     O31     O       OC      -1      17.838      44.423      71.174      
-BMH     O32     O       OH1     0       17.084      43.519      69.198      
-BMH     C1      C       CH1     0       16.463      47.891      68.322      
-BMH     C11     C       CH3     0       17.255      49.146      67.995      
-BMH     C2      C       CR5     0       17.333      46.667      68.320      
-BMH     S21     S       S2      0       18.429      46.306      67.009      
-BMH     C22     C       CH1     0       20.178      46.847      67.142      
-BMH     C23     C       CH2     0       20.463      47.980      66.149      
-BMH     N24     N       NT      1       21.623      47.494      65.408      
-BMH     C25     C       CR15    0       22.497      47.876      64.434      
-BMH     N28     N       NT      0       21.992      46.207      65.795      
-BMH     C27     C       CH2     0       21.123      45.677      66.842      
-BMH     C29     C       CR15    0       23.074      45.865      65.039      
-BMH     N26     N       NRD5    0       23.400      46.884      64.195      
-BMH     H6      H       H       0       15.586      48.417      71.652      
-BMH     H61     H       H       0       17.625      50.019      70.519      
-BMH     H62     H       H       0       19.043      48.605      71.184      
-BMH     H621    H       H       0       18.302      50.205      72.812      
-BMH     H622    H       H       0       16.944      49.489      73.225      
-BMH     H623    H       H       0       16.909      50.910      72.511      
-BMH     H5      H       H       0       14.792      47.719      69.506      
-BMH     HN4     H       H       0       15.932      46.175      70.946      
-BMH     H31     H       H       0       18.710      44.599      69.428      
-BMH     H32     H       H       0       16.341      43.426      69.598      
-BMH     H1      H       H       0       15.757      47.797      67.634      
-BMH     H111    H       H       0       18.117      49.116      68.441      
-BMH     H112    H       H       0       16.768      49.927      68.289      
-BMH     H113    H       H       0       17.394      49.199      67.037      
-BMH     H22     H       H       0       20.333      47.169      68.064      
-BMH     H231    H       H       0       19.701      48.131      65.548      
-BMH     H232    H       H       0       20.674      48.816      66.620      
-BMH     H25     H       H       0       22.489      48.706      63.986      
-BMH     H271    H       H       0       20.631      44.893      66.523      
-BMH     H272    H       H       0       21.641      45.432      67.636      
-BMH     H29     H       H       0       23.537      45.046      65.086      
+BMH O71  O OC   -1 13.733 49.808 70.804
+BMH C7   C C    0  14.939 50.029 70.572
+BMH O72  O O    0  15.395 51.115 70.156
+BMH C6   C CH1  0  15.916 48.870 70.836
+BMH C61  C CH1  0  17.325 49.375 71.207
+BMH O62  O OH1  0  18.255 48.295 71.220
+BMH C62  C CH3  0  17.373 50.055 72.558
+BMH C5   C CH1  0  15.761 47.801 69.700
+BMH N4   N NR5  0  16.232 46.514 70.206
+BMH C3   C CR5  0  17.135 45.912 69.434
+BMH C31  C CH1  0  17.794 44.603 69.774
+BMH O31  O OC   -1 17.838 44.423 71.174
+BMH O32  O OH1  0  17.084 43.519 69.198
+BMH C1   C CH1  0  16.463 47.891 68.322
+BMH C11  C CH3  0  17.255 49.146 67.995
+BMH C2   C CR5  0  17.333 46.667 68.320
+BMH S21  S S2   0  18.429 46.306 67.009
+BMH C22  C CH1  0  20.178 46.847 67.142
+BMH C23  C CH2  0  20.463 47.980 66.149
+BMH N24  N NT   1  21.623 47.494 65.408
+BMH C25  C CR15 0  22.497 47.876 64.434
+BMH N28  N NT   0  21.992 46.207 65.795
+BMH C27  C CH2  0  21.123 45.677 66.842
+BMH C29  C CR15 0  23.074 45.865 65.039
+BMH N26  N NRD5 0  23.400 46.884 64.195
+BMH H6   H H    0  15.586 48.417 71.652
+BMH H61  H H    0  17.625 50.019 70.519
+BMH H62  H H    0  19.043 48.605 71.184
+BMH H621 H H    0  18.302 50.205 72.812
+BMH H622 H H    0  16.944 49.489 73.225
+BMH H623 H H    0  16.909 50.910 72.511
+BMH H5   H H    0  14.792 47.719 69.506
+BMH HN4  H H    0  15.932 46.175 70.946
+BMH H31  H H    0  18.710 44.599 69.428
+BMH H32  H H    0  16.341 43.426 69.598
+BMH H1   H H    0  15.757 47.797 67.634
+BMH H111 H H    0  18.117 49.116 68.441
+BMH H112 H H    0  16.768 49.927 68.289
+BMH H113 H H    0  17.394 49.199 67.037
+BMH H22  H H    0  20.333 47.169 68.064
+BMH H231 H H    0  19.701 48.131 65.548
+BMH H232 H H    0  20.674 48.816 66.620
+BMH H25  H H    0  22.489 48.706 63.986
+BMH H271 H H    0  20.631 44.893 66.523
+BMH H272 H H    0  21.641 45.432 67.636
+BMH H29  H H    0  23.537 45.046 65.086
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -77,54 +76,55 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-BMH         O71          C7      SINGLE       n     1.247  0.0187     1.247  0.0187
-BMH          C7         O72      DOUBLE       n     1.247  0.0187     1.247  0.0187
-BMH          C7          C6      SINGLE       n     1.533  0.0100     1.533  0.0100
-BMH          C6         C61      SINGLE       n     1.534  0.0100     1.534  0.0100
-BMH          C6          C5      SINGLE       n     1.526  0.0200     1.526  0.0200
-BMH         C61         O62      SINGLE       n     1.426  0.0179     1.426  0.0179
-BMH         C61         C62      SINGLE       n     1.511  0.0143     1.511  0.0143
-BMH          C5          N4      SINGLE       n     1.456  0.0100     1.456  0.0100
-BMH          C5          C1      SINGLE       n     1.537  0.0162     1.537  0.0162
-BMH          N4          C3      SINGLE       n     1.322  0.0152     1.322  0.0152
-BMH          C3         C31      SINGLE       n     1.498  0.0174     1.498  0.0174
-BMH          C3          C2      DOUBLE       n     1.357  0.0200     1.357  0.0200
-BMH         C31         O31      SINGLE       n     1.410  0.0200     1.410  0.0200
-BMH         C31         O32      SINGLE       n     1.417  0.0163     1.417  0.0163
-BMH          C1         C11      SINGLE       n     1.517  0.0124     1.517  0.0124
-BMH          C1          C2      SINGLE       n     1.505  0.0120     1.505  0.0120
-BMH          C2         S21      SINGLE       n     1.746  0.0119     1.746  0.0119
-BMH         S21         C22      SINGLE       n     1.832  0.0200     1.832  0.0200
-BMH         C22         C23      SINGLE       n     1.527  0.0114     1.527  0.0114
-BMH         C22         C27      SINGLE       n     1.527  0.0114     1.527  0.0114
-BMH         C23         N24      SINGLE       n     1.462  0.0100     1.462  0.0100
-BMH         N24         C25      DOUBLE       y     1.368  0.0147     1.368  0.0147
-BMH         N24         N28      SINGLE       y     1.407  0.0100     1.407  0.0100
-BMH         C25         N26      SINGLE       y     1.338  0.0200     1.338  0.0200
-BMH         N28         C27      SINGLE       n     1.462  0.0100     1.462  0.0100
-BMH         N28         C29      SINGLE       y     1.368  0.0147     1.368  0.0147
-BMH         C29         N26      DOUBLE       y     1.338  0.0200     1.338  0.0200
-BMH          C6          H6      SINGLE       n     1.089  0.0100     0.990  0.0102
-BMH         C61         H61      SINGLE       n     1.089  0.0100     0.995  0.0200
-BMH         O62         H62      SINGLE       n     0.970  0.0120     0.848  0.0200
-BMH         C62        H621      SINGLE       n     1.089  0.0100     0.974  0.0145
-BMH         C62        H622      SINGLE       n     1.089  0.0100     0.974  0.0145
-BMH         C62        H623      SINGLE       n     1.089  0.0100     0.974  0.0145
-BMH          C5          H5      SINGLE       n     1.089  0.0100     0.991  0.0103
-BMH          N4         HN4      SINGLE       n     1.016  0.0100     0.868  0.0200
-BMH         C31         H31      SINGLE       n     1.089  0.0100     0.980  0.0156
-BMH         O32         H32      SINGLE       n     0.970  0.0120     0.848  0.0200
-BMH          C1          H1      SINGLE       n     1.089  0.0100     0.990  0.0175
-BMH         C11        H111      SINGLE       n     1.089  0.0100     0.970  0.0163
-BMH         C11        H112      SINGLE       n     1.089  0.0100     0.970  0.0163
-BMH         C11        H113      SINGLE       n     1.089  0.0100     0.970  0.0163
-BMH         C22         H22      SINGLE       n     1.089  0.0100     0.988  0.0200
-BMH         C23        H231      SINGLE       n     1.089  0.0100     0.982  0.0179
-BMH         C23        H232      SINGLE       n     1.089  0.0100     0.982  0.0179
-BMH         C25         H25      SINGLE       n     1.082  0.0130     0.943  0.0179
-BMH         C27        H271      SINGLE       n     1.089  0.0100     0.979  0.0113
-BMH         C27        H272      SINGLE       n     1.089  0.0100     0.979  0.0113
-BMH         C29         H29      SINGLE       n     1.082  0.0130     0.942  0.0200
+BMH O71 C7   SINGLE n 1.247 0.0187 1.247 0.0187
+BMH C7  O72  DOUBLE n 1.247 0.0187 1.247 0.0187
+BMH C7  C6   SINGLE n 1.533 0.0100 1.533 0.0100
+BMH C6  C61  SINGLE n 1.534 0.0100 1.534 0.0100
+BMH C6  C5   SINGLE n 1.526 0.0200 1.526 0.0200
+BMH C61 O62  SINGLE n 1.426 0.0179 1.426 0.0179
+BMH C61 C62  SINGLE n 1.511 0.0143 1.511 0.0143
+BMH C5  N4   SINGLE n 1.456 0.0100 1.456 0.0100
+BMH C5  C1   SINGLE n 1.537 0.0162 1.537 0.0162
+BMH N4  C3   SINGLE n 1.322 0.0152 1.322 0.0152
+BMH C3  C31  SINGLE n 1.498 0.0174 1.498 0.0174
+BMH C3  C2   DOUBLE n 1.357 0.0200 1.357 0.0200
+BMH C31 O31  SINGLE n 1.410 0.0200 1.410 0.0200
+BMH C31 O32  SINGLE n 1.417 0.0163 1.417 0.0163
+BMH C1  C11  SINGLE n 1.517 0.0124 1.517 0.0124
+BMH C1  C2   SINGLE n 1.505 0.0120 1.505 0.0120
+BMH C2  S21  SINGLE n 1.746 0.0119 1.746 0.0119
+BMH S21 C22  SINGLE n 1.832 0.0200 1.832 0.0200
+BMH C22 C23  SINGLE n 1.527 0.0114 1.527 0.0114
+BMH C22 C27  SINGLE n 1.527 0.0114 1.527 0.0114
+BMH C23 N24  SINGLE n 1.462 0.0100 1.462 0.0100
+BMH N24 C25  DOUBLE y 1.368 0.0147 1.368 0.0147
+BMH N24 N28  SINGLE y 1.407 0.0100 1.407 0.0100
+BMH C25 N26  SINGLE y 1.338 0.0200 1.338 0.0200
+BMH N28 C27  SINGLE n 1.462 0.0100 1.462 0.0100
+BMH N28 C29  SINGLE y 1.368 0.0147 1.368 0.0147
+BMH C29 N26  DOUBLE y 1.338 0.0200 1.338 0.0200
+BMH C6  H6   SINGLE n 1.089 0.0100 0.990 0.0102
+BMH C61 H61  SINGLE n 1.089 0.0100 0.995 0.0200
+BMH O62 H62  SINGLE n 0.970 0.0120 0.848 0.0200
+BMH C62 H621 SINGLE n 1.089 0.0100 0.974 0.0145
+BMH C62 H622 SINGLE n 1.089 0.0100 0.974 0.0145
+BMH C62 H623 SINGLE n 1.089 0.0100 0.974 0.0145
+BMH C5  H5   SINGLE n 1.089 0.0100 0.991 0.0103
+BMH N4  HN4  SINGLE n 1.016 0.0100 0.868 0.0200
+BMH C31 H31  SINGLE n 1.089 0.0100 0.980 0.0156
+BMH O32 H32  SINGLE n 0.970 0.0120 0.848 0.0200
+BMH C1  H1   SINGLE n 1.089 0.0100 0.990 0.0175
+BMH C11 H111 SINGLE n 1.089 0.0100 0.970 0.0163
+BMH C11 H112 SINGLE n 1.089 0.0100 0.970 0.0163
+BMH C11 H113 SINGLE n 1.089 0.0100 0.970 0.0163
+BMH C22 H22  SINGLE n 1.089 0.0100 0.988 0.0200
+BMH C23 H231 SINGLE n 1.089 0.0100 0.982 0.0179
+BMH C23 H232 SINGLE n 1.089 0.0100 0.982 0.0179
+BMH C25 H25  SINGLE n 1.082 0.0130 0.943 0.0179
+BMH C27 H271 SINGLE n 1.089 0.0100 0.979 0.0113
+BMH C27 H272 SINGLE n 1.089 0.0100 0.979 0.0113
+BMH C29 H29  SINGLE n 1.082 0.0130 0.942 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -132,94 +132,95 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-BMH         O71          C7         O72     125.559    1.75
-BMH         O71          C7          C6     117.220    1.50
-BMH         O72          C7          C6     117.220    1.50
-BMH          C7          C6         C61     111.511    2.91
-BMH          C7          C6          C5     112.778    2.78
-BMH          C7          C6          H6     108.585    1.50
-BMH         C61          C6          C5     112.518    2.73
-BMH         C61          C6          H6     107.529    1.50
-BMH          C5          C6          H6     107.419    1.50
-BMH          C6         C61         O62     108.805    2.04
-BMH          C6         C61         C62     113.131    1.50
-BMH          C6         C61         H61     108.167    1.50
-BMH         O62         C61         C62     109.686    2.24
-BMH         O62         C61         H61     108.183    1.96
-BMH         C62         C61         H61     109.344    1.50
-BMH         C61         O62         H62     109.265    3.00
-BMH         C61         C62        H621     109.508    1.50
-BMH         C61         C62        H622     109.508    1.50
-BMH         C61         C62        H623     109.508    1.50
-BMH        H621         C62        H622     109.425    1.50
-BMH        H621         C62        H623     109.425    1.50
-BMH        H622         C62        H623     109.425    1.50
-BMH          C6          C5          N4     109.797    2.76
-BMH          C6          C5          C1     113.745    2.48
-BMH          C6          C5          H5     108.328    1.50
-BMH          N4          C5          C1     102.354    1.84
-BMH          N4          C5          H5     109.448    1.50
-BMH          C1          C5          H5     108.027    1.83
-BMH          C5          N4          C3     112.331    2.00
-BMH          C5          N4         HN4     123.272    1.56
-BMH          C3          N4         HN4     124.397    1.50
-BMH          N4          C3         C31     124.074    1.85
-BMH          N4          C3          C2     107.670    1.57
-BMH         C31          C3          C2     128.256    2.76
-BMH          C3         C31         O31     109.471    3.00
-BMH          C3         C31         O32     110.979    1.50
-BMH          C3         C31         H31     109.646    1.50
-BMH         O31         C31         O32     109.471    3.00
-BMH         O31         C31         H31     109.444    1.61
-BMH         O32         C31         H31     109.169    1.50
-BMH         C31         O32         H32     108.678    3.00
-BMH          C5          C1         C11     115.350    1.50
-BMH          C5          C1          C2     104.009    1.83
-BMH          C5          C1          H1     108.027    1.83
-BMH         C11          C1          C2     111.539    2.78
-BMH         C11          C1          H1     108.374    1.50
-BMH          C2          C1          H1     110.367    1.60
-BMH          C1         C11        H111     109.611    1.50
-BMH          C1         C11        H112     109.611    1.50
-BMH          C1         C11        H113     109.611    1.50
-BMH        H111         C11        H112     109.347    1.50
-BMH        H111         C11        H113     109.347    1.50
-BMH        H112         C11        H113     109.347    1.50
-BMH          C3          C2          C1     111.680    2.72
-BMH          C3          C2         S21     125.907    2.39
-BMH          C1          C2         S21     122.413    1.50
-BMH          C2         S21         C22     120.000    3.00
-BMH         S21         C22         C23     111.815    3.00
-BMH         S21         C22         C27     111.815    3.00
-BMH         S21         C22         H22     109.380    1.69
-BMH         C23         C22         C27     104.443    2.26
-BMH         C23         C22         H22     110.422    1.50
-BMH         C27         C22         H22     110.422    1.50
-BMH         C22         C23         N24     100.927    2.33
-BMH         C22         C23        H231     111.014    1.50
-BMH         C22         C23        H232     111.014    1.50
-BMH         N24         C23        H231     110.907    1.50
-BMH         N24         C23        H232     110.907    1.50
-BMH        H231         C23        H232     109.266    1.50
-BMH         C23         N24         C25     125.134    3.00
-BMH         C23         N24         N28     109.660    1.50
-BMH         C25         N24         N28     107.993    1.50
-BMH         N24         C25         N26     111.723    1.94
-BMH         N24         C25         H25     124.526    2.15
-BMH         N26         C25         H25     123.751    1.55
-BMH         N24         N28         C27     109.660    1.50
-BMH         N24         N28         C29     107.993    1.50
-BMH         C27         N28         C29     125.134    3.00
-BMH         C22         C27         N28     100.927    2.33
-BMH         C22         C27        H271     111.014    1.50
-BMH         C22         C27        H272     111.014    1.50
-BMH         N28         C27        H271     110.907    1.50
-BMH         N28         C27        H272     110.907    1.50
-BMH        H271         C27        H272     109.266    1.50
-BMH         N28         C29         N26     111.723    1.94
-BMH         N28         C29         H29     124.526    2.15
-BMH         N26         C29         H29     123.751    1.55
-BMH         C25         N26         C29     104.899    1.50
+BMH O71  C7  O72  125.559 1.75
+BMH O71  C7  C6   117.220 1.50
+BMH O72  C7  C6   117.220 1.50
+BMH C7   C6  C61  111.511 2.91
+BMH C7   C6  C5   112.778 2.78
+BMH C7   C6  H6   108.585 1.50
+BMH C61  C6  C5   112.518 2.73
+BMH C61  C6  H6   107.529 1.50
+BMH C5   C6  H6   107.419 1.50
+BMH C6   C61 O62  108.805 2.04
+BMH C6   C61 C62  113.131 1.50
+BMH C6   C61 H61  108.167 1.50
+BMH O62  C61 C62  109.686 2.24
+BMH O62  C61 H61  108.183 1.96
+BMH C62  C61 H61  109.344 1.50
+BMH C61  O62 H62  109.265 3.00
+BMH C61  C62 H621 109.508 1.50
+BMH C61  C62 H622 109.508 1.50
+BMH C61  C62 H623 109.508 1.50
+BMH H621 C62 H622 109.425 1.50
+BMH H621 C62 H623 109.425 1.50
+BMH H622 C62 H623 109.425 1.50
+BMH C6   C5  N4   109.797 2.76
+BMH C6   C5  C1   113.745 2.48
+BMH C6   C5  H5   108.328 1.50
+BMH N4   C5  C1   102.354 1.84
+BMH N4   C5  H5   109.448 1.50
+BMH C1   C5  H5   108.027 1.83
+BMH C5   N4  C3   112.331 2.00
+BMH C5   N4  HN4  123.272 1.56
+BMH C3   N4  HN4  124.397 1.50
+BMH N4   C3  C31  124.074 1.85
+BMH N4   C3  C2   107.670 1.57
+BMH C31  C3  C2   128.256 2.76
+BMH C3   C31 O31  109.471 3.00
+BMH C3   C31 O32  110.979 1.50
+BMH C3   C31 H31  109.646 1.50
+BMH O31  C31 O32  109.471 3.00
+BMH O31  C31 H31  109.444 1.61
+BMH O32  C31 H31  109.169 1.50
+BMH C31  O32 H32  108.678 3.00
+BMH C5   C1  C11  115.350 1.50
+BMH C5   C1  C2   104.009 1.83
+BMH C5   C1  H1   108.027 1.83
+BMH C11  C1  C2   111.539 2.78
+BMH C11  C1  H1   108.374 1.50
+BMH C2   C1  H1   110.367 1.60
+BMH C1   C11 H111 109.611 1.50
+BMH C1   C11 H112 109.611 1.50
+BMH C1   C11 H113 109.611 1.50
+BMH H111 C11 H112 109.347 1.50
+BMH H111 C11 H113 109.347 1.50
+BMH H112 C11 H113 109.347 1.50
+BMH C3   C2  C1   111.680 2.72
+BMH C3   C2  S21  125.907 2.39
+BMH C1   C2  S21  122.413 1.50
+BMH C2   S21 C22  120.000 3.00
+BMH S21  C22 C23  111.815 3.00
+BMH S21  C22 C27  111.815 3.00
+BMH S21  C22 H22  109.380 1.69
+BMH C23  C22 C27  104.443 2.26
+BMH C23  C22 H22  110.422 1.50
+BMH C27  C22 H22  110.422 1.50
+BMH C22  C23 N24  100.927 2.33
+BMH C22  C23 H231 111.014 1.50
+BMH C22  C23 H232 111.014 1.50
+BMH N24  C23 H231 110.907 1.50
+BMH N24  C23 H232 110.907 1.50
+BMH H231 C23 H232 109.266 1.50
+BMH C23  N24 C25  125.134 3.00
+BMH C23  N24 N28  109.660 1.50
+BMH C25  N24 N28  107.993 1.50
+BMH N24  C25 N26  111.723 1.94
+BMH N24  C25 H25  124.526 2.15
+BMH N26  C25 H25  123.751 1.55
+BMH N24  N28 C27  109.660 1.50
+BMH N24  N28 C29  107.993 1.50
+BMH C27  N28 C29  125.134 3.00
+BMH C22  C27 N28  100.927 2.33
+BMH C22  C27 H271 111.014 1.50
+BMH C22  C27 H272 111.014 1.50
+BMH N28  C27 H271 110.907 1.50
+BMH N28  C27 H272 110.907 1.50
+BMH H271 C27 H272 109.266 1.50
+BMH N28  C29 N26  111.723 1.94
+BMH N28  C29 H29  124.526 2.15
+BMH N26  C29 H29  123.751 1.55
+BMH C25  N26 C29  104.899 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -230,30 +231,31 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-BMH            sp3_sp3_50         O31         C31         O32         H32      60.000    10.0     3
-BMH            sp3_sp3_52          C5          C1         C11        H111     180.000    10.0     3
-BMH            sp2_sp3_11         S21          C2          C1         C11     -60.000    10.0     6
-BMH             sp2_sp2_9          C3          C2         S21         C22     180.000     5.0     2
-BMH            sp3_sp3_61         C23         C22         S21          C2     180.000    10.0     3
-BMH             sp3_sp3_4         S21         C22         C23         N24     -60.000    10.0     3
-BMH            sp3_sp3_67         S21         C22         C27         N28      60.000    10.0     3
-BMH            sp2_sp3_16         C25         N24         C23         C22     180.000    10.0     6
-BMH       const_sp2_sp2_6         N26         C25         N24         C23     180.000     5.0     2
-BMH       const_sp2_sp2_1         C23         N24         N28         C27       0.000     5.0     2
-BMH            sp2_sp3_25         O71          C7          C6         C61       0.000    10.0     6
-BMH       const_sp2_sp2_9         N24         C25         N26         C29       0.000     5.0     2
-BMH            sp2_sp3_19         N24         N28         C27         C22       0.000    10.0     6
-BMH              const_13         N26         C29         N28         N24       0.000    10.0     2
-BMH              const_11         N28         C29         N26         C25       0.000    10.0     2
-BMH            sp3_sp3_10          C7          C6         C61         O62     180.000    10.0     3
-BMH            sp3_sp3_19          N4          C5          C6          C7     180.000    10.0     3
-BMH            sp3_sp3_28          C6         C61         O62         H62     180.000    10.0     3
-BMH            sp3_sp3_31          C6         C61         C62        H621     180.000    10.0     3
-BMH            sp3_sp3_44         C11          C1          C5          C6     180.000    10.0     3
-BMH             sp2_sp3_2          C3          N4          C5          C6     120.000    10.0     6
-BMH             sp2_sp2_3         C31          C3          N4          C5     180.000     5.0     2
-BMH            sp2_sp3_31          N4          C3         C31         O31     150.000    10.0     6
-BMH             sp2_sp2_8         S21          C2          C3         C31       0.000     5.0     2
+BMH sp3_sp3_50      O31 C31 O32 H32  60.000  10.0 3
+BMH sp3_sp3_52      C5  C1  C11 H111 180.000 10.0 3
+BMH sp2_sp3_11      S21 C2  C1  C11  -60.000 10.0 6
+BMH sp2_sp2_9       C3  C2  S21 C22  180.000 5.0  2
+BMH sp3_sp3_61      C23 C22 S21 C2   180.000 10.0 3
+BMH sp3_sp3_4       S21 C22 C23 N24  -60.000 10.0 3
+BMH sp3_sp3_67      S21 C22 C27 N28  60.000  10.0 3
+BMH sp2_sp3_16      C25 N24 C23 C22  180.000 10.0 6
+BMH const_sp2_sp2_6 N26 C25 N24 C23  180.000 5.0  2
+BMH const_sp2_sp2_1 C23 N24 N28 C27  0.000   5.0  2
+BMH sp2_sp3_25      O71 C7  C6  C61  0.000   10.0 6
+BMH const_sp2_sp2_9 N24 C25 N26 C29  0.000   5.0  2
+BMH sp2_sp3_19      N24 N28 C27 C22  0.000   10.0 6
+BMH const_13        N26 C29 N28 N24  0.000   10.0 2
+BMH const_11        N28 C29 N26 C25  0.000   10.0 2
+BMH sp3_sp3_10      C7  C6  C61 O62  180.000 10.0 3
+BMH sp3_sp3_19      N4  C5  C6  C7   180.000 10.0 3
+BMH sp3_sp3_28      C6  C61 O62 H62  180.000 10.0 3
+BMH sp3_sp3_31      C6  C61 C62 H621 180.000 10.0 3
+BMH sp3_sp3_44      C11 C1  C5  C6   180.000 10.0 3
+BMH sp2_sp3_2       C3  N4  C5  C6   120.000 10.0 6
+BMH sp2_sp2_3       C31 C3  N4  C5   180.000 5.0  2
+BMH sp2_sp3_31      N4  C3  C31 O31  150.000 10.0 6
+BMH sp2_sp2_8       S21 C2  C3  C31  0.000   5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -262,61 +264,77 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-BMH    chir_1    C6    C7    C61    C5    positive
-BMH    chir_2    C61    O62    C6    C62    negative
-BMH    chir_3    C5    N4    C1    C6    positive
-BMH    chir_4    C31    O32    O31    C3    positive
-BMH    chir_5    C1    C2    C5    C11    negative
-BMH    chir_6    C22    S21    C23    C27    positive
+BMH chir_1 C6  C7  C61 C5  positive
+BMH chir_2 C61 O62 C6  C62 negative
+BMH chir_3 C5  N4  C1  C6  positive
+BMH chir_4 C31 O32 O31 C3  positive
+BMH chir_5 C1  C2  C5  C11 negative
+BMH chir_6 C22 S21 C23 C27 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-BMH    plan-1         C23   0.020
-BMH    plan-1         C25   0.020
-BMH    plan-1         C27   0.020
-BMH    plan-1         C29   0.020
-BMH    plan-1         H25   0.020
-BMH    plan-1         H29   0.020
-BMH    plan-1         N24   0.020
-BMH    plan-1         N26   0.020
-BMH    plan-1         N28   0.020
-BMH    plan-2          C6   0.020
-BMH    plan-2          C7   0.020
-BMH    plan-2         O71   0.020
-BMH    plan-2         O72   0.020
-BMH    plan-3          C3   0.020
-BMH    plan-3          C5   0.020
-BMH    plan-3         HN4   0.020
-BMH    plan-3          N4   0.020
-BMH    plan-4          C2   0.020
-BMH    plan-4          C3   0.020
-BMH    plan-4         C31   0.020
-BMH    plan-4          N4   0.020
-BMH    plan-5          C1   0.020
-BMH    plan-5          C2   0.020
-BMH    plan-5          C3   0.020
-BMH    plan-5         S21   0.020
+BMH plan-1 C23 0.020
+BMH plan-1 C25 0.020
+BMH plan-1 C27 0.020
+BMH plan-1 C29 0.020
+BMH plan-1 H25 0.020
+BMH plan-1 H29 0.020
+BMH plan-1 N24 0.020
+BMH plan-1 N26 0.020
+BMH plan-1 N28 0.020
+BMH plan-2 C6  0.020
+BMH plan-2 C7  0.020
+BMH plan-2 O71 0.020
+BMH plan-2 O72 0.020
+BMH plan-3 C3  0.020
+BMH plan-3 C5  0.020
+BMH plan-3 HN4 0.020
+BMH plan-3 N4  0.020
+BMH plan-4 C2  0.020
+BMH plan-4 C3  0.020
+BMH plan-4 C31 0.020
+BMH plan-4 N4  0.020
+BMH plan-5 C1  0.020
+BMH plan-5 C2  0.020
+BMH plan-5 C3  0.020
+BMH plan-5 S21 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-BMH           SMILES              ACDLabs 10.04                                                                                                              O=C(O)C(C(O)C)C3NC(=C(SC2C[n+]1cncn1C2)C3C)C([O-])O
-BMH SMILES_CANONICAL               CACTVS 3.341                                                                                   C[C@@H](O)[C@H]([C@@H]1NC(=C(S[C@H]2Cn3cnc[n+]3C2)[C@@H]1C)[C@H](O)[O-])C(O)=O
-BMH           SMILES               CACTVS 3.341                                                                                            C[CH](O)[CH]([CH]1NC(=C(S[CH]2Cn3cnc[n+]3C2)[CH]1C)[CH](O)[O-])C(O)=O
-BMH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                      C[C@@H]1[C@@H](NC(=C1S[C@H]2Cn3cnc[n+]3C2)C(O)[O-])[C@@H]([C@@H](C)O)C(=O)O
-BMH           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                              CC1C(NC(=C1SC2Cn3cnc[n+]3C2)C(O)[O-])C(C(C)O)C(=O)O
-BMH            InChI                InChI  1.03 InChI=1S/C15H22N4O5S/c1-7-11(10(8(2)20)14(21)22)17-12(15(23)24)13(7)25-9-3-18-5-16-6-19(18)4-9/h5-11,15,17,20,23H,3-4H2,1-2H3,(H,21,22)/t7-,8-,10-,11-,15-/m1/s1
-BMH         InChIKey                InChI  1.03                                                                                                                                      GJACIOMQYIQIKX-FGOODDOWSA-N
+BMH SMILES           ACDLabs              10.04 O=C(O)C(C(O)C)C3NC(=C(SC2C[n+]1cncn1C2)C3C)C([O-])O
+BMH SMILES_CANONICAL CACTVS               3.341 C[C@@H](O)[C@H]([C@@H]1NC(=C(S[C@H]2Cn3cnc[n+]3C2)[C@@H]1C)[C@H](O)[O-])C(O)=O
+BMH SMILES           CACTVS               3.341 C[CH](O)[CH]([CH]1NC(=C(S[CH]2Cn3cnc[n+]3C2)[CH]1C)[CH](O)[O-])C(O)=O
+BMH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@@H]1[C@@H](NC(=C1S[C@H]2Cn3cnc[n+]3C2)C(O)[O-])[C@@H]([C@@H](C)O)C(=O)O
+BMH SMILES           "OpenEye OEToolkits" 1.5.0 CC1C(NC(=C1SC2Cn3cnc[n+]3C2)C(O)[O-])C(C(C)O)C(=O)O
+BMH InChI            InChI                1.03  InChI=1S/C15H22N4O5S/c1-7-11(10(8(2)20)14(21)22)17-12(15(23)24)13(7)25-9-3-18-5-16-6-19(18)4-9/h5-11,15,17,20,23H,3-4H2,1-2H3,(H,21,22)/t7-,8-,10-,11-,15-/m1/s1
+BMH InChIKey         InChI                1.03  GJACIOMQYIQIKX-FGOODDOWSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-BMH acedrg               243         "dictionary generator"                  
-BMH acedrg_database      11          "data source"                           
-BMH rdkit                2017.03.2   "Chemoinformatics tool"
-BMH refmac5              5.8.0238    "optimization tool"                     
+BMH acedrg          243       "dictionary generator"
+BMH acedrg_database 11        "data source"
+BMH rdkit           2017.03.2 "Chemoinformatics tool"
+BMH refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+BMH P-peptide N4  N
+BMH P-peptide C3  CA
+BMH P-peptide C31 C
+BMH P-peptide O32 O
+BMH P-peptide C5  CD
+BMH P-peptide O31 OXT
+BMH P-peptide HN4 H

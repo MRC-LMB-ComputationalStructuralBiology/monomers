@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-PNS     PNS      "4'-PHOSPHOPANTETHEINE"     NON-POLYMER     43     22     .     
-#
+PNS PNS "4'-PHOSPHOPANTETHEINE" NON-POLYMER 43 22 .
+
 data_comp_PNS
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,49 +19,50 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-PNS     O23     O       OP      -1      16.537      22.025      35.288      
-PNS     P24     P       P       0       16.162      23.093      34.278      
-PNS     O25     O       OP      -1      16.885      24.406      34.513      
-PNS     O26     O       O       0       16.268      22.610      32.844      
-PNS     O27     O       O2      0       14.597      23.402      34.526      
-PNS     C28     C       CH2     0       13.945      24.412      33.701      
-PNS     C29     C       CT      0       12.450      24.504      34.028      
-PNS     C30     C       CH3     0       11.745      23.204      33.615      
-PNS     C31     C       CH3     0       12.270      24.706      35.541      
-PNS     C32     C       CH1     0       11.851      25.707      33.274      
-PNS     O33     O       OH1     0       12.126      25.615      31.878      
-PNS     C34     C       C       0       10.355      25.930      33.468      
-PNS     O35     O       O       0       9.978       26.633      34.404      
-PNS     N36     N       NH1     0       9.526       25.363      32.595      
-PNS     C37     C       CH2     0       8.074       25.526      32.596      
-PNS     C38     C       CH2     0       7.589       26.507      31.541      
-PNS     C39     C       C       0       8.246       27.871      31.628      
-PNS     O40     O       O       0       7.823       28.713      32.419      
-PNS     N41     N       NH1     0       9.294       28.108      30.824      
-PNS     C42     C       CH2     0       10.040      29.359      30.796      
-PNS     C43     C       CH2     0       11.006      29.472      31.950      
-PNS     S44     S       SH1     0       11.935      31.026      31.942      
-PNS     H282    H       H       0       14.061      24.182      32.758      
-PNS     H281    H       H       0       14.364      25.282      33.854      
-PNS     H303    H       H       0       11.589      23.204      32.655      
-PNS     H302    H       H       0       10.893      23.132      34.078      
-PNS     H301    H       H       0       12.299      22.439      33.847      
-PNS     H313    H       H       0       12.693      25.540      35.810      
-PNS     H312    H       H       0       12.679      23.969      36.025      
-PNS     H311    H       H       0       11.324      24.740      35.761      
-PNS     H32     H       H       0       12.310      26.512      33.616      
-PNS     H33     H       H       0       12.104      26.393      31.539      
-PNS     H36     H       H       0       9.870       24.854      31.975      
-PNS     H372    H       H       0       7.774       25.833      33.477      
-PNS     H371    H       H       0       7.659       24.654      32.429      
-PNS     H382    H       H       0       6.627       26.620      31.631      
-PNS     H381    H       H       0       7.750       26.132      30.657      
-PNS     H41     H       H       0       9.549       27.471      30.285      
-PNS     H422    H       H       0       9.414       30.113      30.826      
-PNS     H421    H       H       0       10.542      29.415      29.955      
-PNS     H431    H       H       0       11.635      28.731      31.909      
-PNS     H432    H       H       0       10.512      29.407      32.784      
-PNS     H44     H       HSH1    0       12.602      30.805      32.918      
+PNS O23  O OP   -1 16.537 22.025 35.288
+PNS P24  P P    0  16.162 23.093 34.278
+PNS O25  O OP   -1 16.885 24.406 34.513
+PNS O26  O O    0  16.268 22.610 32.844
+PNS O27  O O2   0  14.597 23.402 34.526
+PNS C28  C CH2  0  13.945 24.412 33.701
+PNS C29  C CT   0  12.450 24.504 34.028
+PNS C30  C CH3  0  11.745 23.204 33.615
+PNS C31  C CH3  0  12.270 24.706 35.541
+PNS C32  C CH1  0  11.851 25.707 33.274
+PNS O33  O OH1  0  12.126 25.615 31.878
+PNS C34  C C    0  10.355 25.930 33.468
+PNS O35  O O    0  9.978  26.633 34.404
+PNS N36  N NH1  0  9.526  25.363 32.595
+PNS C37  C CH2  0  8.074  25.526 32.596
+PNS C38  C CH2  0  7.589  26.507 31.541
+PNS C39  C C    0  8.246  27.871 31.628
+PNS O40  O O    0  7.823  28.713 32.419
+PNS N41  N NH1  0  9.294  28.108 30.824
+PNS C42  C CH2  0  10.040 29.359 30.796
+PNS C43  C CH2  0  11.006 29.472 31.950
+PNS S44  S SH1  0  11.935 31.026 31.942
+PNS H282 H H    0  14.061 24.182 32.758
+PNS H281 H H    0  14.364 25.282 33.854
+PNS H303 H H    0  11.589 23.204 32.655
+PNS H302 H H    0  10.893 23.132 34.078
+PNS H301 H H    0  12.299 22.439 33.847
+PNS H313 H H    0  12.693 25.540 35.810
+PNS H312 H H    0  12.679 23.969 36.025
+PNS H311 H H    0  11.324 24.740 35.761
+PNS H32  H H    0  12.310 26.512 33.616
+PNS H33  H H    0  12.104 26.393 31.539
+PNS H36  H H    0  9.870  24.854 31.975
+PNS H372 H H    0  7.774  25.833 33.477
+PNS H371 H H    0  7.659  24.654 32.429
+PNS H382 H H    0  6.627  26.620 31.631
+PNS H381 H H    0  7.750  26.132 30.657
+PNS H41  H H    0  9.549  27.471 30.285
+PNS H422 H H    0  9.414  30.113 30.826
+PNS H421 H H    0  10.542 29.415 29.955
+PNS H431 H H    0  11.635 28.731 31.909
+PNS H432 H H    0  10.512 29.407 32.784
+PNS H44  H HSH1 0  12.602 30.805 32.918
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -74,48 +73,49 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-PNS         O23         P24      SINGLE       n     1.517  0.0192     1.517  0.0192
-PNS         P24         O25      SINGLE       n     1.517  0.0192     1.517  0.0192
-PNS         P24         O26      DOUBLE       n     1.517  0.0192     1.517  0.0192
-PNS         P24         O27      SINGLE       n     1.614  0.0178     1.614  0.0178
-PNS         O27         C28      SINGLE       n     1.454  0.0165     1.454  0.0165
-PNS         C28         C29      SINGLE       n     1.526  0.0108     1.526  0.0108
-PNS         C29         C30      SINGLE       n     1.531  0.0109     1.531  0.0109
-PNS         C29         C31      SINGLE       n     1.531  0.0109     1.531  0.0109
-PNS         C29         C32      SINGLE       n     1.532  0.0112     1.532  0.0112
-PNS         C32         O33      SINGLE       n     1.419  0.0162     1.419  0.0162
-PNS         C32         C34      SINGLE       n     1.519  0.0108     1.519  0.0108
-PNS         C34         O35      DOUBLE       n     1.229  0.0102     1.229  0.0102
-PNS         C34         N36      SINGLE       n     1.326  0.0100     1.326  0.0100
-PNS         N36         C37      SINGLE       n     1.457  0.0100     1.457  0.0100
-PNS         C37         C38      SINGLE       n     1.513  0.0195     1.513  0.0195
-PNS         C38         C39      SINGLE       n     1.514  0.0100     1.514  0.0100
-PNS         C39         O40      DOUBLE       n     1.229  0.0102     1.229  0.0102
-PNS         C39         N41      SINGLE       n     1.337  0.0118     1.337  0.0118
-PNS         N41         C42      SINGLE       n     1.455  0.0100     1.455  0.0100
-PNS         C42         C43      SINGLE       n     1.509  0.0190     1.509  0.0190
-PNS         C43         S44      SINGLE       n     1.811  0.0100     1.811  0.0100
-PNS         C28        H282      SINGLE       n     1.089  0.0100     0.978  0.0102
-PNS         C28        H281      SINGLE       n     1.089  0.0100     0.978  0.0102
-PNS         C30        H303      SINGLE       n     1.089  0.0100     0.973  0.0146
-PNS         C30        H302      SINGLE       n     1.089  0.0100     0.973  0.0146
-PNS         C30        H301      SINGLE       n     1.089  0.0100     0.973  0.0146
-PNS         C31        H313      SINGLE       n     1.089  0.0100     0.973  0.0146
-PNS         C31        H312      SINGLE       n     1.089  0.0100     0.973  0.0146
-PNS         C31        H311      SINGLE       n     1.089  0.0100     0.973  0.0146
-PNS         C32         H32      SINGLE       n     1.089  0.0100     0.988  0.0129
-PNS         O33         H33      SINGLE       n     0.970  0.0120     0.848  0.0200
-PNS         N36         H36      SINGLE       n     1.016  0.0100     0.872  0.0200
-PNS         C37        H372      SINGLE       n     1.089  0.0100     0.980  0.0159
-PNS         C37        H371      SINGLE       n     1.089  0.0100     0.980  0.0159
-PNS         C38        H382      SINGLE       n     1.089  0.0100     0.973  0.0156
-PNS         C38        H381      SINGLE       n     1.089  0.0100     0.973  0.0156
-PNS         N41         H41      SINGLE       n     1.016  0.0100     0.872  0.0200
-PNS         C42        H422      SINGLE       n     1.089  0.0100     0.981  0.0127
-PNS         C42        H421      SINGLE       n     1.089  0.0100     0.981  0.0127
-PNS         C43        H431      SINGLE       n     1.089  0.0100     0.972  0.0107
-PNS         C43        H432      SINGLE       n     1.089  0.0100     0.972  0.0107
-PNS         S44         H44      SINGLE       n     1.338  0.0100     1.203  0.0200
+PNS O23 P24  SINGLE n 1.517 0.0192 1.517 0.0192
+PNS P24 O25  SINGLE n 1.517 0.0192 1.517 0.0192
+PNS P24 O26  DOUBLE n 1.517 0.0192 1.517 0.0192
+PNS P24 O27  SINGLE n 1.614 0.0178 1.614 0.0178
+PNS O27 C28  SINGLE n 1.454 0.0165 1.454 0.0165
+PNS C28 C29  SINGLE n 1.526 0.0108 1.526 0.0108
+PNS C29 C30  SINGLE n 1.531 0.0109 1.531 0.0109
+PNS C29 C31  SINGLE n 1.531 0.0109 1.531 0.0109
+PNS C29 C32  SINGLE n 1.532 0.0112 1.532 0.0112
+PNS C32 O33  SINGLE n 1.419 0.0162 1.419 0.0162
+PNS C32 C34  SINGLE n 1.519 0.0108 1.519 0.0108
+PNS C34 O35  DOUBLE n 1.229 0.0102 1.229 0.0102
+PNS C34 N36  SINGLE n 1.326 0.0100 1.326 0.0100
+PNS N36 C37  SINGLE n 1.457 0.0100 1.457 0.0100
+PNS C37 C38  SINGLE n 1.513 0.0195 1.513 0.0195
+PNS C38 C39  SINGLE n 1.514 0.0100 1.514 0.0100
+PNS C39 O40  DOUBLE n 1.229 0.0102 1.229 0.0102
+PNS C39 N41  SINGLE n 1.337 0.0118 1.337 0.0118
+PNS N41 C42  SINGLE n 1.455 0.0100 1.455 0.0100
+PNS C42 C43  SINGLE n 1.509 0.0190 1.509 0.0190
+PNS C43 S44  SINGLE n 1.811 0.0100 1.811 0.0100
+PNS C28 H282 SINGLE n 1.089 0.0100 0.978 0.0102
+PNS C28 H281 SINGLE n 1.089 0.0100 0.978 0.0102
+PNS C30 H303 SINGLE n 1.089 0.0100 0.973 0.0146
+PNS C30 H302 SINGLE n 1.089 0.0100 0.973 0.0146
+PNS C30 H301 SINGLE n 1.089 0.0100 0.973 0.0146
+PNS C31 H313 SINGLE n 1.089 0.0100 0.973 0.0146
+PNS C31 H312 SINGLE n 1.089 0.0100 0.973 0.0146
+PNS C31 H311 SINGLE n 1.089 0.0100 0.973 0.0146
+PNS C32 H32  SINGLE n 1.089 0.0100 0.988 0.0129
+PNS O33 H33  SINGLE n 0.970 0.0120 0.848 0.0200
+PNS N36 H36  SINGLE n 1.016 0.0100 0.872 0.0200
+PNS C37 H372 SINGLE n 1.089 0.0100 0.980 0.0159
+PNS C37 H371 SINGLE n 1.089 0.0100 0.980 0.0159
+PNS C38 H382 SINGLE n 1.089 0.0100 0.973 0.0156
+PNS C38 H381 SINGLE n 1.089 0.0100 0.973 0.0156
+PNS N41 H41  SINGLE n 1.016 0.0100 0.872 0.0200
+PNS C42 H422 SINGLE n 1.089 0.0100 0.981 0.0127
+PNS C42 H421 SINGLE n 1.089 0.0100 0.981 0.0127
+PNS C43 H431 SINGLE n 1.089 0.0100 0.972 0.0107
+PNS C43 H432 SINGLE n 1.089 0.0100 0.972 0.0107
+PNS S44 H44  SINGLE n 1.338 0.0100 1.203 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -123,81 +123,82 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-PNS         O23         P24         O25     112.864    1.69
-PNS         O23         P24         O26     112.864    1.69
-PNS         O23         P24         O27     105.795    2.09
-PNS         O25         P24         O26     112.864    1.69
-PNS         O25         P24         O27     105.795    2.09
-PNS         O26         P24         O27     105.795    2.09
-PNS         P24         O27         C28     118.671    1.50
-PNS         O27         C28         C29     108.435    1.69
-PNS         O27         C28        H282     109.739    1.50
-PNS         O27         C28        H281     109.739    1.50
-PNS         C29         C28        H282     109.473    1.50
-PNS         C29         C28        H281     109.473    1.50
-PNS        H282         C28        H281     108.108    1.50
-PNS         C28         C29         C30     109.385    1.50
-PNS         C28         C29         C31     109.385    1.50
-PNS         C28         C29         C32     111.094    2.85
-PNS         C30         C29         C31     108.765    1.50
-PNS         C30         C29         C32     109.534    1.52
-PNS         C31         C29         C32     109.534    1.52
-PNS         C29         C30        H303     109.575    1.50
-PNS         C29         C30        H302     109.575    1.50
-PNS         C29         C30        H301     109.575    1.50
-PNS        H303         C30        H302     109.377    1.50
-PNS        H303         C30        H301     109.377    1.50
-PNS        H302         C30        H301     109.377    1.50
-PNS         C29         C31        H313     109.575    1.50
-PNS         C29         C31        H312     109.575    1.50
-PNS         C29         C31        H311     109.575    1.50
-PNS        H313         C31        H312     109.377    1.50
-PNS        H313         C31        H311     109.377    1.50
-PNS        H312         C31        H311     109.377    1.50
-PNS         C29         C32         O33     109.482    3.00
-PNS         C29         C32         C34     111.511    2.91
-PNS         C29         C32         H32     107.825    1.50
-PNS         O33         C32         C34     109.850    1.55
-PNS         O33         C32         H32     108.675    1.50
-PNS         C34         C32         H32     108.529    1.70
-PNS         C32         O33         H33     108.894    3.00
-PNS         C32         C34         O35     119.859    1.78
-PNS         C32         C34         N36     117.147    1.50
-PNS         O35         C34         N36     122.977    1.50
-PNS         C34         N36         C37     122.964    1.80
-PNS         C34         N36         H36     118.685    1.94
-PNS         C37         N36         H36     118.351    1.90
-PNS         N36         C37         C38     112.257    1.50
-PNS         N36         C37        H372     108.979    1.50
-PNS         N36         C37        H371     108.979    1.50
-PNS         C38         C37        H372     108.971    1.50
-PNS         C38         C37        H371     108.971    1.50
-PNS        H372         C37        H371     107.877    1.50
-PNS         C37         C38         C39     112.120    2.79
-PNS         C37         C38        H382     109.432    1.50
-PNS         C37         C38        H381     109.432    1.50
-PNS         C39         C38        H382     108.945    1.50
-PNS         C39         C38        H381     108.945    1.50
-PNS        H382         C38        H381     107.745    2.07
-PNS         C38         C39         O40     120.987    1.50
-PNS         C38         C39         N41     117.070    1.96
-PNS         O40         C39         N41     121.943    1.50
-PNS         C39         N41         C42     123.437    1.80
-PNS         C39         N41         H41     117.862    2.10
-PNS         C42         N41         H41     118.700    1.83
-PNS         N41         C42         C43     112.117    1.54
-PNS         N41         C42        H422     109.102    1.50
-PNS         N41         C42        H421     109.102    1.50
-PNS         C43         C42        H422     108.883    1.50
-PNS         C43         C42        H421     108.883    1.50
-PNS        H422         C42        H421     107.995    1.50
-PNS         C42         C43         S44     112.239    3.00
-PNS         C42         C43        H431     108.864    1.50
-PNS         C42         C43        H432     108.864    1.50
-PNS         S44         C43        H431     108.594    1.76
-PNS         S44         C43        H432     108.594    1.76
-PNS        H431         C43        H432     108.165    1.50
-PNS         C43         S44         H44      97.089    1.52
+PNS O23  P24 O25  112.864 1.69
+PNS O23  P24 O26  112.864 1.69
+PNS O23  P24 O27  105.795 2.09
+PNS O25  P24 O26  112.864 1.69
+PNS O25  P24 O27  105.795 2.09
+PNS O26  P24 O27  105.795 2.09
+PNS P24  O27 C28  118.671 1.50
+PNS O27  C28 C29  108.435 1.69
+PNS O27  C28 H282 109.739 1.50
+PNS O27  C28 H281 109.739 1.50
+PNS C29  C28 H282 109.473 1.50
+PNS C29  C28 H281 109.473 1.50
+PNS H282 C28 H281 108.108 1.50
+PNS C28  C29 C30  109.385 1.50
+PNS C28  C29 C31  109.385 1.50
+PNS C28  C29 C32  111.094 2.85
+PNS C30  C29 C31  108.765 1.50
+PNS C30  C29 C32  109.534 1.52
+PNS C31  C29 C32  109.534 1.52
+PNS C29  C30 H303 109.575 1.50
+PNS C29  C30 H302 109.575 1.50
+PNS C29  C30 H301 109.575 1.50
+PNS H303 C30 H302 109.377 1.50
+PNS H303 C30 H301 109.377 1.50
+PNS H302 C30 H301 109.377 1.50
+PNS C29  C31 H313 109.575 1.50
+PNS C29  C31 H312 109.575 1.50
+PNS C29  C31 H311 109.575 1.50
+PNS H313 C31 H312 109.377 1.50
+PNS H313 C31 H311 109.377 1.50
+PNS H312 C31 H311 109.377 1.50
+PNS C29  C32 O33  109.482 3.00
+PNS C29  C32 C34  111.511 2.91
+PNS C29  C32 H32  107.825 1.50
+PNS O33  C32 C34  109.850 1.55
+PNS O33  C32 H32  108.675 1.50
+PNS C34  C32 H32  108.529 1.70
+PNS C32  O33 H33  108.894 3.00
+PNS C32  C34 O35  119.859 1.78
+PNS C32  C34 N36  117.147 1.50
+PNS O35  C34 N36  122.977 1.50
+PNS C34  N36 C37  122.964 1.80
+PNS C34  N36 H36  118.685 1.94
+PNS C37  N36 H36  118.351 1.90
+PNS N36  C37 C38  112.257 1.50
+PNS N36  C37 H372 108.979 1.50
+PNS N36  C37 H371 108.979 1.50
+PNS C38  C37 H372 108.971 1.50
+PNS C38  C37 H371 108.971 1.50
+PNS H372 C37 H371 107.877 1.50
+PNS C37  C38 C39  112.120 2.79
+PNS C37  C38 H382 109.432 1.50
+PNS C37  C38 H381 109.432 1.50
+PNS C39  C38 H382 108.945 1.50
+PNS C39  C38 H381 108.945 1.50
+PNS H382 C38 H381 107.745 2.07
+PNS C38  C39 O40  120.987 1.50
+PNS C38  C39 N41  117.070 1.96
+PNS O40  C39 N41  121.943 1.50
+PNS C39  N41 C42  123.437 1.80
+PNS C39  N41 H41  117.862 2.10
+PNS C42  N41 H41  118.700 1.83
+PNS N41  C42 C43  112.117 1.54
+PNS N41  C42 H422 109.102 1.50
+PNS N41  C42 H421 109.102 1.50
+PNS C43  C42 H422 108.883 1.50
+PNS C43  C42 H421 108.883 1.50
+PNS H422 C42 H421 107.995 1.50
+PNS C42  C43 S44  112.239 3.00
+PNS C42  C43 H431 108.864 1.50
+PNS C42  C43 H432 108.864 1.50
+PNS S44  C43 H431 108.594 1.76
+PNS S44  C43 H432 108.594 1.76
+PNS H431 C43 H432 108.165 1.50
+PNS C43  S44 H44  97.089  1.52
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -208,22 +209,23 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-PNS             sp2_sp2_1         C32         C34         N36         C37     180.000     5.0     2
-PNS             sp2_sp3_8         C34         N36         C37         C38     120.000    10.0     6
-PNS            sp3_sp3_46         N36         C37         C38         C39     180.000    10.0     3
-PNS            sp2_sp3_14         O40         C39         C38         C37     120.000    10.0     6
-PNS             sp2_sp2_5         C38         C39         N41         C42     180.000     5.0     2
-PNS            sp2_sp3_20         C39         N41         C42         C43     120.000    10.0     6
-PNS            sp3_sp3_55         N41         C42         C43         S44     180.000    10.0     3
-PNS             sp3_sp3_2         C28         O27         P24         O23     -60.000    10.0     3
-PNS            sp3_sp3_64         C42         C43         S44         H44     180.000    10.0     3
-PNS             sp3_sp3_4         C29         C28         O27         P24     180.000    10.0     3
-PNS             sp3_sp3_8         O27         C28         C29         C30     -60.000    10.0     3
-PNS            sp3_sp3_16         C28         C29         C30        H303     180.000    10.0     3
-PNS            sp3_sp3_28         C28         C29         C31        H313      60.000    10.0     3
-PNS            sp3_sp3_37         C28         C29         C32         O33      60.000    10.0     3
-PNS            sp3_sp3_43         C29         C32         O33         H33     180.000    10.0     3
-PNS             sp2_sp3_1         O35         C34         C32         C29       0.000    10.0     6
+PNS sp2_sp2_1  C32 C34 N36 C37  180.000 5.0  2
+PNS sp2_sp3_8  C34 N36 C37 C38  120.000 10.0 6
+PNS sp3_sp3_46 N36 C37 C38 C39  180.000 10.0 3
+PNS sp2_sp3_14 O40 C39 C38 C37  120.000 10.0 6
+PNS sp2_sp2_5  C38 C39 N41 C42  180.000 5.0  2
+PNS sp2_sp3_20 C39 N41 C42 C43  120.000 10.0 6
+PNS sp3_sp3_55 N41 C42 C43 S44  180.000 10.0 3
+PNS sp3_sp3_2  C28 O27 P24 O23  -60.000 10.0 3
+PNS sp3_sp3_64 C42 C43 S44 H44  180.000 10.0 3
+PNS sp3_sp3_4  C29 C28 O27 P24  180.000 10.0 3
+PNS sp3_sp3_8  O27 C28 C29 C30  -60.000 10.0 3
+PNS sp3_sp3_16 C28 C29 C30 H303 180.000 10.0 3
+PNS sp3_sp3_28 C28 C29 C31 H313 60.000  10.0 3
+PNS sp3_sp3_37 C28 C29 C32 O33  60.000  10.0 3
+PNS sp3_sp3_43 C29 C32 O33 H33  180.000 10.0 3
+PNS sp2_sp3_1  O35 C34 C32 C29  0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -232,49 +234,68 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-PNS    chir_1    P24    O27    O23    O25    both
-PNS    chir_2    C29    C32    C28    C30    both
-PNS    chir_3    C32    O33    C34    C29    negative
+PNS chir_1 P24 O27 O23 O25 both
+PNS chir_2 C29 C32 C28 C30 both
+PNS chir_3 C32 O33 C34 C29 negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-PNS    plan-1         C32   0.020
-PNS    plan-1         C34   0.020
-PNS    plan-1         N36   0.020
-PNS    plan-1         O35   0.020
-PNS    plan-2         C34   0.020
-PNS    plan-2         C37   0.020
-PNS    plan-2         H36   0.020
-PNS    plan-2         N36   0.020
-PNS    plan-3         C38   0.020
-PNS    plan-3         C39   0.020
-PNS    plan-3         N41   0.020
-PNS    plan-3         O40   0.020
-PNS    plan-4         C39   0.020
-PNS    plan-4         C42   0.020
-PNS    plan-4         H41   0.020
-PNS    plan-4         N41   0.020
+PNS plan-1 C32 0.020
+PNS plan-1 C34 0.020
+PNS plan-1 N36 0.020
+PNS plan-1 O35 0.020
+PNS plan-2 C34 0.020
+PNS plan-2 C37 0.020
+PNS plan-2 H36 0.020
+PNS plan-2 N36 0.020
+PNS plan-3 C38 0.020
+PNS plan-3 C39 0.020
+PNS plan-3 N41 0.020
+PNS plan-3 O40 0.020
+PNS plan-4 C39 0.020
+PNS plan-4 C42 0.020
+PNS plan-4 H41 0.020
+PNS plan-4 N41 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-PNS           SMILES              ACDLabs 10.04                                                                                                         O=C(NCCS)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O
-PNS SMILES_CANONICAL               CACTVS 3.341                                                                                                  CC(C)(CO[P](O)(O)=O)[C@@H](O)C(=O)NCCC(=O)NCCS
-PNS           SMILES               CACTVS 3.341                                                                                                    CC(C)(CO[P](O)(O)=O)[CH](O)C(=O)NCCC(=O)NCCS
-PNS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                     CC(C)(COP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCS)O
-PNS           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                         CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O
-PNS            InChI                InChI  1.03 InChI=1S/C11H23N2O7PS/c1-11(2,7-20-21(17,18)19)9(15)10(16)13-4-3-8(14)12-5-6-22/h9,15,22H,3-7H2,1-2H3,(H,12,14)(H,13,16)(H2,17,18,19)/t9-/m0/s1
-PNS         InChIKey                InChI  1.03                                                                                                                     JDMUPRLRUUMCTL-VIFPVBQESA-N
+PNS SMILES           ACDLabs              10.04 O=C(NCCS)CCNC(=O)C(O)C(C)(C)COP(=O)(O)O
+PNS SMILES_CANONICAL CACTVS               3.341 CC(C)(CO[P](O)(O)=O)[C@@H](O)C(=O)NCCC(=O)NCCS
+PNS SMILES           CACTVS               3.341 CC(C)(CO[P](O)(O)=O)[CH](O)C(=O)NCCC(=O)NCCS
+PNS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(C)(COP(=O)(O)O)[C@H](C(=O)NCCC(=O)NCCS)O
+PNS SMILES           "OpenEye OEToolkits" 1.5.0 CC(C)(COP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O
+PNS InChI            InChI                1.03  InChI=1S/C11H23N2O7PS/c1-11(2,7-20-21(17,18)19)9(15)10(16)13-4-3-8(14)12-5-6-22/h9,15,22H,3-7H2,1-2H3,(H,12,14)(H,13,16)(H2,17,18,19)/t9-/m0/s1
+PNS InChIKey         InChI                1.03  JDMUPRLRUUMCTL-VIFPVBQESA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-PNS acedrg               243         "dictionary generator"                  
-PNS acedrg_database      11          "data source"                           
-PNS rdkit                2017.03.2   "Chemoinformatics tool"
-PNS refmac5              5.8.0238    "optimization tool"                     
+PNS acedrg          243       "dictionary generator"
+PNS acedrg_database 11        "data source"
+PNS rdkit           2017.03.2 "Chemoinformatics tool"
+PNS refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+PNS DNA/RNA O23 OP3
+PNS DNA/RNA P24 P
+PNS DNA/RNA O26 OP1
+PNS DNA/RNA O25 OP2
+PNS DNA/RNA O27 O5'
+PNS DNA/RNA C28 C5'
+PNS DNA/RNA C29 C4'
+PNS DNA/RNA C32 C3'
+PNS DNA/RNA O33 O3'
+PNS DNA/RNA H33 HO3'

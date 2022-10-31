@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-6MW     6MW      "(2S,4S)-2-(pyridin-4-yl)-1,3-thiazolidine-4-carboxylic acid"     NON-POLYMER     23     14     .     
-#
+6MW 6MW "(2S,4S)-2-(pyridin-4-yl)-1,3-thiazolidine-4-carboxylic acid" NON-POLYMER 23 14 .
+
 data_comp_6MW
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,29 +19,30 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-6MW     C10     C       CR16    0       32.066      77.204      62.382      
-6MW     C11     C       CR16    0       30.762      76.984      61.980      
-6MW     C13     C       CR16    0       31.169      74.782      61.577      
-6MW     C14     C       CR16    0       32.491      74.903      61.959      
-6MW     O01     O       OC      -1      38.082      79.069      61.989      
-6MW     C02     C       C       0       36.866      79.100      62.041      
-6MW     O03     O       O       0       36.151      79.959      61.558      
-6MW     C04     C       CH1     0       36.170      77.950      62.786      
-6MW     C05     C       CH2     0       35.407      78.423      63.999      
-6MW     S06     S       S2      0       34.495      76.970      64.541      
-6MW     C07     C       CH1     0       34.396      76.331      62.801      
-6MW     N08     N       NT1     0       35.123      77.316      61.983      
-6MW     C09     C       CR6     0       32.960      76.143      62.370      
-6MW     N12     N       NRD6    0       30.300      75.796      61.581      
-6MW     H1      H       H       0       32.347      78.050      62.651      
-6MW     H2      H       H       0       30.164      77.714      61.990      
-6MW     H3      H       H       0       30.862      73.935      61.298      
-6MW     H4      H       H       0       33.063      74.167      61.941      
-6MW     H6      H       H       0       36.835      77.268      63.056      
-6MW     H7      H       H       0       36.005      78.725      64.689      
-6MW     H8      H       H       0       34.804      79.137      63.773      
-6MW     H9      H       H       0       34.855      75.458      62.763      
-6MW     H10     H       H       0       34.630      77.940      61.583      
+6MW C10 C CR16 0  32.066 77.204 62.382
+6MW C11 C CR16 0  30.762 76.984 61.980
+6MW C13 C CR16 0  31.169 74.782 61.577
+6MW C14 C CR16 0  32.491 74.903 61.959
+6MW O01 O OC   -1 38.082 79.069 61.989
+6MW C02 C C    0  36.866 79.100 62.041
+6MW O03 O O    0  36.151 79.959 61.558
+6MW C04 C CH1  0  36.170 77.950 62.786
+6MW C05 C CH2  0  35.407 78.423 63.999
+6MW S06 S S2   0  34.495 76.970 64.541
+6MW C07 C CH1  0  34.396 76.331 62.801
+6MW N08 N NT1  0  35.123 77.316 61.983
+6MW C09 C CR6  0  32.960 76.143 62.370
+6MW N12 N NRD6 0  30.300 75.796 61.581
+6MW H1  H H    0  32.347 78.050 62.651
+6MW H2  H H    0  30.164 77.714 61.990
+6MW H3  H H    0  30.862 73.935 61.298
+6MW H4  H H    0  33.063 74.167 61.941
+6MW H6  H H    0  36.835 77.268 63.056
+6MW H7  H H    0  36.005 78.725 64.689
+6MW H8  H H    0  34.804 79.137 63.773
+6MW H9  H H    0  34.855 75.458 62.763
+6MW H10 H H    0  34.630 77.940 61.583
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -54,30 +53,31 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-6MW         C10         C11      DOUBLE       y     1.378  0.0100     1.378  0.0100
-6MW         C11         N12      SINGLE       y     1.331  0.0107     1.331  0.0107
-6MW         C10         C09      SINGLE       y     1.384  0.0100     1.384  0.0100
-6MW         C13         N12      DOUBLE       y     1.331  0.0107     1.331  0.0107
-6MW         C02         O03      DOUBLE       n     1.218  0.0200     1.218  0.0200
-6MW         C13         C14      SINGLE       y     1.378  0.0100     1.378  0.0100
-6MW         C07         C09      SINGLE       n     1.509  0.0100     1.509  0.0100
-6MW         C14         C09      DOUBLE       y     1.384  0.0100     1.384  0.0100
-6MW         C07         N08      SINGLE       n     1.467  0.0155     1.467  0.0155
-6MW         C04         N08      SINGLE       n     1.463  0.0119     1.463  0.0119
-6MW         S06         C07      SINGLE       n     1.851  0.0175     1.851  0.0175
-6MW         C02         C04      SINGLE       n     1.536  0.0100     1.536  0.0100
-6MW         O01         C02      SINGLE       n     1.218  0.0200     1.218  0.0200
-6MW         C04         C05      SINGLE       n     1.514  0.0200     1.514  0.0200
-6MW         C05         S06      SINGLE       n     1.799  0.0100     1.799  0.0100
-6MW         C10          H1      SINGLE       n     1.082  0.0130     0.932  0.0100
-6MW         C11          H2      SINGLE       n     1.082  0.0130     0.943  0.0162
-6MW         C13          H3      SINGLE       n     1.082  0.0130     0.943  0.0162
-6MW         C14          H4      SINGLE       n     1.082  0.0130     0.932  0.0100
-6MW         C04          H6      SINGLE       n     1.089  0.0100     0.990  0.0121
-6MW         C05          H7      SINGLE       n     1.089  0.0100     0.962  0.0200
-6MW         C05          H8      SINGLE       n     1.089  0.0100     0.962  0.0200
-6MW         C07          H9      SINGLE       n     1.089  0.0100     0.987  0.0157
-6MW         N08         H10      SINGLE       n     1.036  0.0160     0.889  0.0200
+6MW C10 C11 DOUBLE y 1.378 0.0100 1.378 0.0100
+6MW C11 N12 SINGLE y 1.331 0.0107 1.331 0.0107
+6MW C10 C09 SINGLE y 1.384 0.0100 1.384 0.0100
+6MW C13 N12 DOUBLE y 1.331 0.0107 1.331 0.0107
+6MW C02 O03 DOUBLE n 1.218 0.0200 1.218 0.0200
+6MW C13 C14 SINGLE y 1.378 0.0100 1.378 0.0100
+6MW C07 C09 SINGLE n 1.509 0.0100 1.509 0.0100
+6MW C14 C09 DOUBLE y 1.384 0.0100 1.384 0.0100
+6MW C07 N08 SINGLE n 1.467 0.0155 1.467 0.0155
+6MW C04 N08 SINGLE n 1.463 0.0119 1.463 0.0119
+6MW S06 C07 SINGLE n 1.851 0.0175 1.851 0.0175
+6MW C02 C04 SINGLE n 1.536 0.0100 1.536 0.0100
+6MW O01 C02 SINGLE n 1.218 0.0200 1.218 0.0200
+6MW C04 C05 SINGLE n 1.514 0.0200 1.514 0.0200
+6MW C05 S06 SINGLE n 1.799 0.0100 1.799 0.0100
+6MW C10 H1  SINGLE n 1.082 0.0130 0.932 0.0100
+6MW C11 H2  SINGLE n 1.082 0.0130 0.943 0.0162
+6MW C13 H3  SINGLE n 1.082 0.0130 0.943 0.0162
+6MW C14 H4  SINGLE n 1.082 0.0130 0.932 0.0100
+6MW C04 H6  SINGLE n 1.089 0.0100 0.990 0.0121
+6MW C05 H7  SINGLE n 1.089 0.0100 0.962 0.0200
+6MW C05 H8  SINGLE n 1.089 0.0100 0.962 0.0200
+6MW C07 H9  SINGLE n 1.089 0.0100 0.987 0.0157
+6MW N08 H10 SINGLE n 1.036 0.0160 0.889 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -85,47 +85,48 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-6MW         C11         C10         C09     119.111    1.50
-6MW         C11         C10          H1     120.831    1.50
-6MW         C09         C10          H1     120.058    1.50
-6MW         C10         C11         N12     123.592    1.50
-6MW         C10         C11          H2     118.235    1.50
-6MW         N12         C11          H2     118.173    1.50
-6MW         N12         C13         C14     123.592    1.50
-6MW         N12         C13          H3     118.173    1.50
-6MW         C14         C13          H3     118.235    1.50
-6MW         C13         C14         C09     119.111    1.50
-6MW         C13         C14          H4     120.831    1.50
-6MW         C09         C14          H4     120.058    1.50
-6MW         O03         C02         C04     117.013    1.95
-6MW         O03         C02         O01     125.975    1.50
-6MW         C04         C02         O01     117.013    1.95
-6MW         N08         C04         C02     111.420    2.45
-6MW         N08         C04         C05     103.104    2.01
-6MW         N08         C04          H6     109.296    1.50
-6MW         C02         C04         C05     112.424    2.46
-6MW         C02         C04          H6     110.011    1.50
-6MW         C05         C04          H6     109.476    2.47
-6MW         C04         C05         S06     104.492    1.50
-6MW         C04         C05          H7     111.325    3.00
-6MW         C04         C05          H8     111.325    3.00
-6MW         S06         C05          H7     110.748    1.50
-6MW         S06         C05          H8     110.748    1.50
-6MW          H7         C05          H8     109.038    1.50
-6MW         C07         S06         C05      90.522    1.50
-6MW         C09         C07         N08     112.734    1.83
-6MW         C09         C07         S06     111.643    1.64
-6MW         C09         C07          H9     109.032    1.50
-6MW         N08         C07         S06     104.726    1.50
-6MW         N08         C07          H9     110.535    1.50
-6MW         S06         C07          H9     109.023    1.50
-6MW         C07         N08         C04     109.056    3.00
-6MW         C07         N08         H10     114.884    3.00
-6MW         C04         N08         H10     109.307    3.00
-6MW         C10         C09         C07     120.784    1.85
-6MW         C10         C09         C14     118.432    1.50
-6MW         C07         C09         C14     120.784    1.85
-6MW         C11         N12         C13     116.161    1.50
+6MW C11 C10 C09 119.111 1.50
+6MW C11 C10 H1  120.831 1.50
+6MW C09 C10 H1  120.058 1.50
+6MW C10 C11 N12 123.592 1.50
+6MW C10 C11 H2  118.235 1.50
+6MW N12 C11 H2  118.173 1.50
+6MW N12 C13 C14 123.592 1.50
+6MW N12 C13 H3  118.173 1.50
+6MW C14 C13 H3  118.235 1.50
+6MW C13 C14 C09 119.111 1.50
+6MW C13 C14 H4  120.831 1.50
+6MW C09 C14 H4  120.058 1.50
+6MW O03 C02 C04 117.013 1.95
+6MW O03 C02 O01 125.975 1.50
+6MW C04 C02 O01 117.013 1.95
+6MW N08 C04 C02 111.420 2.45
+6MW N08 C04 C05 103.104 2.01
+6MW N08 C04 H6  109.296 1.50
+6MW C02 C04 C05 112.424 2.46
+6MW C02 C04 H6  110.011 1.50
+6MW C05 C04 H6  109.476 2.47
+6MW C04 C05 S06 104.492 1.50
+6MW C04 C05 H7  111.325 3.00
+6MW C04 C05 H8  111.325 3.00
+6MW S06 C05 H7  110.748 1.50
+6MW S06 C05 H8  110.748 1.50
+6MW H7  C05 H8  109.038 1.50
+6MW C07 S06 C05 90.522  1.50
+6MW C09 C07 N08 112.734 1.83
+6MW C09 C07 S06 111.643 1.64
+6MW C09 C07 H9  109.032 1.50
+6MW N08 C07 S06 104.726 1.50
+6MW N08 C07 H9  110.535 1.50
+6MW S06 C07 H9  109.023 1.50
+6MW C07 N08 C04 109.056 3.00
+6MW C07 N08 H10 114.884 3.00
+6MW C04 N08 H10 109.307 3.00
+6MW C10 C09 C07 120.784 1.85
+6MW C10 C09 C14 118.432 1.50
+6MW C07 C09 C14 120.784 1.85
+6MW C11 N12 C13 116.161 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -136,19 +137,20 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-6MW       const_sp2_sp2_1         C09         C10         C11         N12       0.000     5.0     2
-6MW              const_19         C07         C09         C10         C11     180.000    10.0     2
-6MW             sp3_sp3_9         C09         C07         N08         C04     180.000    10.0     3
-6MW             sp2_sp3_1         C10         C09         C07         N08     150.000    10.0     6
-6MW       const_sp2_sp2_5         C10         C11         N12         C13       0.000     5.0     2
-6MW       const_sp2_sp2_7         C14         C13         N12         C11       0.000     5.0     2
-6MW       const_sp2_sp2_9         N12         C13         C14         C09       0.000     5.0     2
-6MW              const_13         C10         C09         C14         C13       0.000    10.0     2
-6MW             sp2_sp3_7         O03         C02         C04         N08       0.000    10.0     6
-6MW             sp3_sp3_3         C02         C04         N08         C07     -60.000    10.0     3
-6MW            sp3_sp3_22         C02         C04         C05         S06      60.000    10.0     3
-6MW            sp3_sp3_16         C04         C05         S06         C07     -60.000    10.0     3
-6MW            sp3_sp3_14         C09         C07         S06         C05     -60.000    10.0     3
+6MW const_sp2_sp2_1 C09 C10 C11 N12 0.000   5.0  2
+6MW const_19        C07 C09 C10 C11 180.000 10.0 2
+6MW sp3_sp3_9       C09 C07 N08 C04 180.000 10.0 3
+6MW sp2_sp3_1       C10 C09 C07 N08 150.000 10.0 6
+6MW const_sp2_sp2_5 C10 C11 N12 C13 0.000   5.0  2
+6MW const_sp2_sp2_7 C14 C13 N12 C11 0.000   5.0  2
+6MW const_sp2_sp2_9 N12 C13 C14 C09 0.000   5.0  2
+6MW const_13        C10 C09 C14 C13 0.000   10.0 2
+6MW sp2_sp3_7       O03 C02 C04 N08 0.000   10.0 6
+6MW sp3_sp3_3       C02 C04 N08 C07 -60.000 10.0 3
+6MW sp3_sp3_22      C02 C04 C05 S06 60.000  10.0 3
+6MW sp3_sp3_16      C04 C05 S06 C07 -60.000 10.0 3
+6MW sp3_sp3_14      C09 C07 S06 C05 -60.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -157,48 +159,64 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-6MW    chir_1    C04    N08    C05    C02    positive
-6MW    chir_2    C07    S06    N08    C09    positive
-6MW    chir_3    N08    C07    C04    H10    both
+6MW chir_1 C04 N08 C05 C02 positive
+6MW chir_2 C07 S06 N08 C09 positive
+6MW chir_3 N08 C07 C04 H10 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-6MW    plan-1         C07   0.020
-6MW    plan-1         C09   0.020
-6MW    plan-1         C10   0.020
-6MW    plan-1         C11   0.020
-6MW    plan-1         C13   0.020
-6MW    plan-1         C14   0.020
-6MW    plan-1          H1   0.020
-6MW    plan-1          H2   0.020
-6MW    plan-1          H3   0.020
-6MW    plan-1          H4   0.020
-6MW    plan-1         N12   0.020
-6MW    plan-2         C02   0.020
-6MW    plan-2         C04   0.020
-6MW    plan-2         O01   0.020
-6MW    plan-2         O03   0.020
+6MW plan-1 C07 0.020
+6MW plan-1 C09 0.020
+6MW plan-1 C10 0.020
+6MW plan-1 C11 0.020
+6MW plan-1 C13 0.020
+6MW plan-1 C14 0.020
+6MW plan-1 H1  0.020
+6MW plan-1 H2  0.020
+6MW plan-1 H3  0.020
+6MW plan-1 H4  0.020
+6MW plan-1 N12 0.020
+6MW plan-2 C02 0.020
+6MW plan-2 C04 0.020
+6MW plan-2 O01 0.020
+6MW plan-2 O03 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-6MW           SMILES              ACDLabs 12.01                                                                         c1c(ccnc1)C2SCC(C(O)=O)N2
-6MW            InChI                InChI  1.03 InChI=1S/C9H10N2O2S/c12-9(13)7-5-14-8(11-7)6-1-3-10-4-2-6/h1-4,7-8,11H,5H2,(H,12,13)/t7-,8+/m1/s1
-6MW         InChIKey                InChI  1.03                                                                       IYYUJCKJSSPXQQ-SFYZADRCSA-N
-6MW SMILES_CANONICAL               CACTVS 3.385                                                                   OC(=O)[C@H]1CS[C@H](N1)c2ccncc2
-6MW           SMILES               CACTVS 3.385                                                                     OC(=O)[CH]1CS[CH](N1)c2ccncc2
-6MW SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4                                                                   c1cnccc1[C@H]2N[C@H](CS2)C(=O)O
-6MW           SMILES "OpenEye OEToolkits" 2.0.4                                                                           c1cnccc1C2NC(CS2)C(=O)O
+6MW SMILES           ACDLabs              12.01 c1c(ccnc1)C2SCC(C(O)=O)N2
+6MW InChI            InChI                1.03  InChI=1S/C9H10N2O2S/c12-9(13)7-5-14-8(11-7)6-1-3-10-4-2-6/h1-4,7-8,11H,5H2,(H,12,13)/t7-,8+/m1/s1
+6MW InChIKey         InChI                1.03  IYYUJCKJSSPXQQ-SFYZADRCSA-N
+6MW SMILES_CANONICAL CACTVS               3.385 OC(=O)[C@H]1CS[C@H](N1)c2ccncc2
+6MW SMILES           CACTVS               3.385 OC(=O)[CH]1CS[CH](N1)c2ccncc2
+6MW SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4 c1cnccc1[C@H]2N[C@H](CS2)C(=O)O
+6MW SMILES           "OpenEye OEToolkits" 2.0.4 c1cnccc1C2NC(CS2)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-6MW acedrg               243         "dictionary generator"                  
-6MW acedrg_database      11          "data source"                           
-6MW rdkit                2017.03.2   "Chemoinformatics tool"
-6MW refmac5              5.8.0238    "optimization tool"                     
+6MW acedrg          243       "dictionary generator"
+6MW acedrg_database 11        "data source"
+6MW rdkit           2017.03.2 "Chemoinformatics tool"
+6MW refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+6MW M-peptide O03 O
+6MW M-peptide C02 C
+6MW M-peptide C04 CA
+6MW M-peptide N08 N
+6MW M-peptide C07 CN
+6MW M-peptide O01 OXT
+6MW M-peptide H10 H

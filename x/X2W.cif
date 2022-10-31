@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-X2W     X2W      "N-ACETYL-L-GLUTAMYL 5-PHOSPHATE"     NON-POLYMER     26     17     .     
-#
+X2W X2W "N-ACETYL-L-GLUTAMYL 5-PHOSPHATE" NON-POLYMER 26 17 .
+
 data_comp_X2W
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,32 +19,33 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-X2W     CA      C       CH1     0       36.142      52.010      101.224     
-X2W     CB      C       CH2     0       34.939      52.911      100.914     
-X2W     CG      C       CH2     0       35.057      53.663      99.596      
-X2W     C3      C       C       0       34.726      52.843      98.379      
-X2W     C       C       C       0       37.341      52.845      101.712     
-X2W     O       O       O       0       38.284      53.015      100.913     
-X2W     OXT     O       OC      -1      37.286      53.297      102.873     
-X2W     C1      C       C       0       36.554      49.860      102.361     
-X2W     O1      O       O       0       37.552      49.627      101.680     
-X2W     P       P       P       0       36.410      52.722      96.442      
-X2W     O2P     O       OP      -1      36.429      54.233      96.383      
-X2W     O1P     O       O       0       35.486      52.156      95.392      
-X2W     O3P     O       OP      -1      37.791      52.146      96.304      
-X2W     N1      N       NH1     0       35.822      50.971      102.193     
-X2W     C2      C       CH3     0       36.112      48.907      103.429     
-X2W     O2      O       O       0       33.624      52.710      97.940      
-X2W     OE2     O       O2      0       35.812      52.280      97.846      
-X2W     HA      H       H       0       36.405      51.566      100.378     
-X2W     HB1C    H       H       0       34.836      53.560      101.642     
-X2W     HB2C    H       H       0       34.131      52.356      100.892     
-X2W     HG1C    H       H       0       35.970      54.009      99.505      
-X2W     HG2C    H       H       0       34.453      54.436      99.622      
-X2W     H1      H       H       0       35.110      51.098      102.684     
-X2W     H21C    H       H       0       35.337      49.259      103.895     
-X2W     H22C    H       H       0       36.835      48.776      104.064     
-X2W     H23C    H       H       0       35.883      48.054      103.027     
+X2W CA   C CH1 0  36.142 52.010 101.224
+X2W CB   C CH2 0  34.939 52.911 100.914
+X2W CG   C CH2 0  35.057 53.663 99.596
+X2W C3   C C   0  34.726 52.843 98.379
+X2W C    C C   0  37.341 52.845 101.712
+X2W O    O O   0  38.284 53.015 100.913
+X2W OXT  O OC  -1 37.286 53.297 102.873
+X2W C1   C C   0  36.554 49.860 102.361
+X2W O1   O O   0  37.552 49.627 101.680
+X2W P    P P   0  36.410 52.722 96.442
+X2W O2P  O OP  -1 36.429 54.233 96.383
+X2W O1P  O O   0  35.486 52.156 95.392
+X2W O3P  O OP  -1 37.791 52.146 96.304
+X2W N1   N NH1 0  35.822 50.971 102.193
+X2W C2   C CH3 0  36.112 48.907 103.429
+X2W O2   O O   0  33.624 52.710 97.940
+X2W OE2  O O2  0  35.812 52.280 97.846
+X2W HA   H H   0  36.405 51.566 100.378
+X2W HB1C H H   0  34.836 53.560 101.642
+X2W HB2C H H   0  34.131 52.356 100.892
+X2W HG1C H H   0  35.970 54.009 99.505
+X2W HG2C H H   0  34.453 54.436 99.622
+X2W H1   H H   0  35.110 51.098 102.684
+X2W H21C H H   0  35.337 49.259 103.895
+X2W H22C H H   0  36.835 48.776 104.064
+X2W H23C H H   0  35.883 48.054 103.027
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -57,31 +56,32 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-X2W          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-X2W          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-X2W          CA          N1      SINGLE       n     1.453  0.0100     1.453  0.0100
-X2W          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-X2W           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
-X2W           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
-X2W          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-X2W          C1          N1      SINGLE       n     1.335  0.0100     1.335  0.0100
-X2W          C1          C2      SINGLE       n     1.495  0.0100     1.495  0.0100
-X2W           P         O3P      SINGLE       n     1.509  0.0200     1.509  0.0200
-X2W           P         O2P      SINGLE       n     1.509  0.0200     1.509  0.0200
-X2W           P         O1P      DOUBLE       n     1.509  0.0200     1.509  0.0200
-X2W           P         OE2      SINGLE       n     1.595  0.0200     1.595  0.0200
-X2W          C3          O2      DOUBLE       n     1.194  0.0158     1.194  0.0158
-X2W          CG          C3      SINGLE       n     1.502  0.0148     1.502  0.0148
-X2W          C3         OE2      SINGLE       n     1.333  0.0162     1.333  0.0162
-X2W          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
-X2W          CB        HB1C      SINGLE       n     1.089  0.0100     0.980  0.0178
-X2W          CB        HB2C      SINGLE       n     1.089  0.0100     0.980  0.0178
-X2W          CG        HG1C      SINGLE       n     1.089  0.0100     0.981  0.0185
-X2W          CG        HG2C      SINGLE       n     1.089  0.0100     0.981  0.0185
-X2W          N1          H1      SINGLE       n     1.016  0.0100     0.873  0.0200
-X2W          C2        H21C      SINGLE       n     1.089  0.0100     0.971  0.0140
-X2W          C2        H22C      SINGLE       n     1.089  0.0100     0.971  0.0140
-X2W          C2        H23C      SINGLE       n     1.089  0.0100     0.971  0.0140
+X2W CA CB   SINGLE n 1.533 0.0100 1.533 0.0100
+X2W CA C    SINGLE n 1.539 0.0100 1.539 0.0100
+X2W CA N1   SINGLE n 1.453 0.0100 1.453 0.0100
+X2W CB CG   SINGLE n 1.518 0.0153 1.518 0.0153
+X2W C  O    DOUBLE n 1.247 0.0187 1.247 0.0187
+X2W C  OXT  SINGLE n 1.247 0.0187 1.247 0.0187
+X2W C1 O1   DOUBLE n 1.229 0.0102 1.229 0.0102
+X2W C1 N1   SINGLE n 1.335 0.0100 1.335 0.0100
+X2W C1 C2   SINGLE n 1.495 0.0100 1.495 0.0100
+X2W P  O3P  SINGLE n 1.509 0.0200 1.509 0.0200
+X2W P  O2P  SINGLE n 1.509 0.0200 1.509 0.0200
+X2W P  O1P  DOUBLE n 1.509 0.0200 1.509 0.0200
+X2W P  OE2  SINGLE n 1.595 0.0200 1.595 0.0200
+X2W C3 O2   DOUBLE n 1.194 0.0158 1.194 0.0158
+X2W CG C3   SINGLE n 1.502 0.0148 1.502 0.0148
+X2W C3 OE2  SINGLE n 1.333 0.0162 1.333 0.0162
+X2W CA HA   SINGLE n 1.089 0.0100 0.991 0.0200
+X2W CB HB1C SINGLE n 1.089 0.0100 0.980 0.0178
+X2W CB HB2C SINGLE n 1.089 0.0100 0.980 0.0178
+X2W CG HG1C SINGLE n 1.089 0.0100 0.981 0.0185
+X2W CG HG2C SINGLE n 1.089 0.0100 0.981 0.0185
+X2W N1 H1   SINGLE n 1.016 0.0100 0.873 0.0200
+X2W C2 H21C SINGLE n 1.089 0.0100 0.971 0.0140
+X2W C2 H22C SINGLE n 1.089 0.0100 0.971 0.0140
+X2W C2 H23C SINGLE n 1.089 0.0100 0.971 0.0140
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -89,49 +89,50 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-X2W          CB          CA           C     111.638    2.31
-X2W          CB          CA          N1     113.029    1.50
-X2W          CB          CA          HA     108.155    1.50
-X2W           C          CA          N1     110.976    1.55
-X2W           C          CA          HA     108.327    1.50
-X2W          N1          CA          HA     108.343    1.63
-X2W          CA          CB          CG     112.938    1.50
-X2W          CA          CB        HB1C     108.606    1.50
-X2W          CA          CB        HB2C     108.606    1.50
-X2W          CG          CB        HB1C     108.890    1.50
-X2W          CG          CB        HB2C     108.890    1.50
-X2W        HB1C          CB        HB2C     107.844    1.50
-X2W          CB          CG          C3     114.046    1.93
-X2W          CB          CG        HG1C     108.906    1.50
-X2W          CB          CG        HG2C     108.906    1.50
-X2W          C3          CG        HG1C     108.648    1.50
-X2W          C3          CG        HG2C     108.648    1.50
-X2W        HG1C          CG        HG2C     107.521    1.50
-X2W          O2          C3          CG     124.278    1.60
-X2W          O2          C3         OE2     124.062    1.74
-X2W          CG          C3         OE2     111.661    1.82
-X2W          CA           C           O     117.249    1.61
-X2W          CA           C         OXT     117.249    1.61
-X2W           O           C         OXT     125.502    1.50
-X2W          O1          C1          N1     121.667    1.50
-X2W          O1          C1          C2     121.913    1.50
-X2W          N1          C1          C2     116.420    1.50
-X2W         O3P           P         O2P     112.864    1.69
-X2W         O3P           P         O1P     112.864    1.69
-X2W         O3P           P         OE2     112.304    3.00
-X2W         O2P           P         O1P     112.864    1.69
-X2W         O2P           P         OE2     112.304    3.00
-X2W         O1P           P         OE2     112.304    3.00
-X2W          CA          N1          C1     122.215    1.76
-X2W          CA          N1          H1     118.142    2.15
-X2W          C1          N1          H1     119.644    2.25
-X2W          C1          C2        H21C     109.678    1.50
-X2W          C1          C2        H22C     109.678    1.50
-X2W          C1          C2        H23C     109.678    1.50
-X2W        H21C          C2        H22C     109.365    1.50
-X2W        H21C          C2        H23C     109.365    1.50
-X2W        H22C          C2        H23C     109.365    1.50
-X2W           P         OE2          C3     122.808    2.93
+X2W CB   CA  C    111.638 2.31
+X2W CB   CA  N1   113.029 1.50
+X2W CB   CA  HA   108.155 1.50
+X2W C    CA  N1   110.976 1.55
+X2W C    CA  HA   108.327 1.50
+X2W N1   CA  HA   108.343 1.63
+X2W CA   CB  CG   112.938 1.50
+X2W CA   CB  HB1C 108.606 1.50
+X2W CA   CB  HB2C 108.606 1.50
+X2W CG   CB  HB1C 108.890 1.50
+X2W CG   CB  HB2C 108.890 1.50
+X2W HB1C CB  HB2C 107.844 1.50
+X2W CB   CG  C3   114.046 1.93
+X2W CB   CG  HG1C 108.906 1.50
+X2W CB   CG  HG2C 108.906 1.50
+X2W C3   CG  HG1C 108.648 1.50
+X2W C3   CG  HG2C 108.648 1.50
+X2W HG1C CG  HG2C 107.521 1.50
+X2W O2   C3  CG   124.278 1.60
+X2W O2   C3  OE2  124.062 1.74
+X2W CG   C3  OE2  111.661 1.82
+X2W CA   C   O    117.249 1.61
+X2W CA   C   OXT  117.249 1.61
+X2W O    C   OXT  125.502 1.50
+X2W O1   C1  N1   121.667 1.50
+X2W O1   C1  C2   121.913 1.50
+X2W N1   C1  C2   116.420 1.50
+X2W O3P  P   O2P  112.864 1.69
+X2W O3P  P   O1P  112.864 1.69
+X2W O3P  P   OE2  112.304 3.00
+X2W O2P  P   O1P  112.864 1.69
+X2W O2P  P   OE2  112.304 3.00
+X2W O1P  P   OE2  112.304 3.00
+X2W CA   N1  C1   122.215 1.76
+X2W CA   N1  H1   118.142 2.15
+X2W C1   N1  H1   119.644 2.25
+X2W C1   C2  H21C 109.678 1.50
+X2W C1   C2  H22C 109.678 1.50
+X2W C1   C2  H23C 109.678 1.50
+X2W H21C C2  H22C 109.365 1.50
+X2W H21C C2  H23C 109.365 1.50
+X2W H22C C2  H23C 109.365 1.50
+X2W P    OE2 C3   122.808 2.93
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -142,15 +143,16 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-X2W             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
-X2W             sp2_sp3_7          C1          N1          CA          CB       0.000    10.0     6
-X2W             sp2_sp3_1           O           C          CA          CB       0.000    10.0     6
-X2W            sp3_sp3_10          CA          CB          CG          C3     180.000    10.0     3
-X2W            sp2_sp3_20          O2          C3          CG          CB     120.000    10.0     6
-X2W             sp2_sp2_5          O2          C3         OE2           P     180.000     5.0     2
-X2W             sp2_sp2_3          O1          C1          N1          CA       0.000     5.0     2
-X2W            sp2_sp3_13          O1          C1          C2        H21C       0.000    10.0     6
-X2W            sp3_sp3_19         O3P           P         OE2          C3     180.000    10.0     3
+X2W sp3_sp3_1  C   CA CB  CG   180.000 10.0 3
+X2W sp2_sp3_7  C1  N1 CA  CB   0.000   10.0 6
+X2W sp2_sp3_1  O   C  CA  CB   0.000   10.0 6
+X2W sp3_sp3_10 CA  CB CG  C3   180.000 10.0 3
+X2W sp2_sp3_20 O2  C3 CG  CB   120.000 10.0 6
+X2W sp2_sp2_5  O2  C3 OE2 P    180.000 5.0  2
+X2W sp2_sp2_3  O1  C1 N1  CA   0.000   5.0  2
+X2W sp2_sp3_13 O1  C1 C2  H21C 0.000   10.0 6
+X2W sp3_sp3_19 O3P P  OE2 C3   180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -159,48 +161,60 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-X2W    chir_1    CA    N1    C    CB    positive
-X2W    chir_2    P    OE2    O3P    O2P    both
+X2W chir_1 CA N1  C   CB  positive
+X2W chir_2 P  OE2 O3P O2P both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-X2W    plan-1          C3   0.020
-X2W    plan-1          CG   0.020
-X2W    plan-1          O2   0.020
-X2W    plan-1         OE2   0.020
-X2W    plan-2           C   0.020
-X2W    plan-2          CA   0.020
-X2W    plan-2           O   0.020
-X2W    plan-2         OXT   0.020
-X2W    plan-3          C1   0.020
-X2W    plan-3          C2   0.020
-X2W    plan-3          N1   0.020
-X2W    plan-3          O1   0.020
-X2W    plan-4          C1   0.020
-X2W    plan-4          CA   0.020
-X2W    plan-4          H1   0.020
-X2W    plan-4          N1   0.020
+X2W plan-1 C3  0.020
+X2W plan-1 CG  0.020
+X2W plan-1 O2  0.020
+X2W plan-1 OE2 0.020
+X2W plan-2 C   0.020
+X2W plan-2 CA  0.020
+X2W plan-2 O   0.020
+X2W plan-2 OXT 0.020
+X2W plan-3 C1  0.020
+X2W plan-3 C2  0.020
+X2W plan-3 N1  0.020
+X2W plan-3 O1  0.020
+X2W plan-4 C1  0.020
+X2W plan-4 CA  0.020
+X2W plan-4 H1  0.020
+X2W plan-4 N1  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-X2W           SMILES              ACDLabs 10.04                                                                                   O=C(OP(=O)(O)O)CCC(C(=O)O)NC(=O)C
-X2W SMILES_CANONICAL               CACTVS 3.352                                                                            CC(=O)N[C@@H](CCC(=O)O[P](O)(O)=O)C(O)=O
-X2W           SMILES               CACTVS 3.352                                                                              CC(=O)N[CH](CCC(=O)O[P](O)(O)=O)C(O)=O
-X2W SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1                                                                              CC(=O)N[C@@H](CCC(=O)OP(=O)(O)O)C(=O)O
-X2W           SMILES "OpenEye OEToolkits" 1.6.1                                                                                   CC(=O)NC(CCC(=O)OP(=O)(O)O)C(=O)O
-X2W            InChI                InChI  1.03 InChI=1S/C7H12NO8P/c1-4(9)8-5(7(11)12)2-3-6(10)16-17(13,14)15/h5H,2-3H2,1H3,(H,8,9)(H,11,12)(H2,13,14,15)/t5-/m0/s1
-X2W         InChIKey                InChI  1.03                                                                                         FCVIHFVSXHOPSW-YFKPBYRVSA-N
+X2W SMILES           ACDLabs              10.04 O=C(OP(=O)(O)O)CCC(C(=O)O)NC(=O)C
+X2W SMILES_CANONICAL CACTVS               3.352 CC(=O)N[C@@H](CCC(=O)O[P](O)(O)=O)C(O)=O
+X2W SMILES           CACTVS               3.352 CC(=O)N[CH](CCC(=O)O[P](O)(O)=O)C(O)=O
+X2W SMILES_CANONICAL "OpenEye OEToolkits" 1.6.1 CC(=O)N[C@@H](CCC(=O)OP(=O)(O)O)C(=O)O
+X2W SMILES           "OpenEye OEToolkits" 1.6.1 CC(=O)NC(CCC(=O)OP(=O)(O)O)C(=O)O
+X2W InChI            InChI                1.03  InChI=1S/C7H12NO8P/c1-4(9)8-5(7(11)12)2-3-6(10)16-17(13,14)15/h5H,2-3H2,1H3,(H,8,9)(H,11,12)(H2,13,14,15)/t5-/m0/s1
+X2W InChIKey         InChI                1.03  FCVIHFVSXHOPSW-YFKPBYRVSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-X2W acedrg               243         "dictionary generator"                  
-X2W acedrg_database      11          "data source"                           
-X2W rdkit                2017.03.2   "Chemoinformatics tool"
-X2W refmac5              5.8.0238    "optimization tool"                     
+X2W acedrg          243       "dictionary generator"
+X2W acedrg_database 11        "data source"
+X2W rdkit           2017.03.2 "Chemoinformatics tool"
+X2W refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+X2W M-peptide N1 N
+X2W M-peptide C1 CN
+X2W M-peptide H1 H

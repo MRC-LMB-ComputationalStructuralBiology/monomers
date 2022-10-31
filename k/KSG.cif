@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-KSG     KSG      "(1S,2R,3S,4R,5S,6S)-2,3,4,5,6-PENTAHYDROXYCYCLOHEXYL2-AMINO-4-{[CARBOXY(IMINO)METHYL]AMINO}-2,3,4,6-TETRADEOXY-ALPHA-D-ARABINO-HEXOPYRANOSIDE"     NON-POLYMER     50     26     .     
-#
+KSG KSG "(1S,2R,3S,4R,5S,6S)-2,3,4,5,6-PENTAHYDROXYCYCLOHEXYL2-AMINO-4-{[CARBOXY(IMINO)METHYL]AMINO}-2,3,4,6-TETRADEOXY-ALPHA-D-ARABINO-HEXOPYRANOSIDE" NON-POLYMER 50 26 .
+
 data_comp_KSG
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,56 +19,57 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-KSG     C1      C       CH1     0       304.808     185.578     -6.802      
-KSG     O1      O       O2      0       303.821     184.897     -6.054      
-KSG     C2      C       CH1     0       302.676     184.381     -6.754      
-KSG     C3      C       CH1     0       301.420     184.747     -5.968      
-KSG     O2      O       OH1     0       301.271     186.166     -5.925      
-KSG     C4      C       CH1     0       300.177     184.121     -6.593      
-KSG     O3      O       OH1     0       299.938     184.697     -7.877      
-KSG     C5      C       CH1     0       300.323     182.610     -6.733      
-KSG     O4      O       OH1     0       300.354     182.012     -5.436      
-KSG     C6      C       CH1     0       301.588     182.241     -7.503      
-KSG     O5      O       OH1     0       301.735     180.820     -7.540      
-KSG     C7      C       CH1     0       302.828     182.869     -6.874      
-KSG     O6      O       OH1     0       303.972     182.558     -7.668      
-KSG     O7      O       O2      0       304.407     186.927     -7.082      
-KSG     C8      C       CH1     0       304.260     187.773     -5.933      
-KSG     C9      C       CH3     0       303.681     189.094     -6.416      
-KSG     C10     C       CH1     0       305.615     187.872     -5.221      
-KSG     C11     C       CH2     0       306.155     186.490     -4.866      
-KSG     C12     C       CH1     0       306.135     185.504     -6.029      
-KSG     N1      N       NT2     0       307.289     185.726     -6.912      
-KSG     N2      N       NH1     0       305.516     188.708     -4.024      
-KSG     C13     C       C       0       306.181     189.885     -3.827      
-KSG     N3      N       NH1     0       306.986     190.378     -4.727      
-KSG     C14     C       C       0       305.975     190.575     -2.595      
-KSG     O8      O       O       0       306.572     191.638     -2.411      
-KSG     O9      O       OC      -1      305.206     190.071     -1.773      
-KSG     H1      H       H       0       304.924     185.096     -7.658      
-KSG     H2      H       H       0       302.620     184.778     -7.660      
-KSG     H3      H       H       0       301.513     184.413     -5.040      
-KSG     HO2     H       H       0       300.671     186.360     -5.369      
-KSG     H4      H       H       0       299.398     184.312     -6.011      
-KSG     HO3     H       H       0       299.173     184.468     -8.141      
-KSG     H5      H       H       0       299.538     182.259     -7.226      
-KSG     HO4     H       H       0       299.950     181.275     -5.461      
-KSG     H6      H       H       0       301.502     182.572     -8.432      
-KSG     HO5     H       H       0       301.817     180.525     -6.755      
-KSG     H7      H       H       0       302.957     182.484     -5.970      
-KSG     HO6     H       H       0       304.227     181.778     -7.485      
-KSG     H8      H       H       0       303.624     187.360     -5.314      
-KSG     H91     H       H       0       304.323     189.807     -6.263      
-KSG     H92     H       H       0       302.865     189.288     -5.927      
-KSG     H93     H       H       0       303.481     189.042     -7.365      
-KSG     H10     H       H       0       306.244     188.286     -5.861      
-KSG     H111    H       H       0       305.623     186.121     -4.126      
-KSG     H112    H       H       0       307.079     186.584     -4.543      
-KSG     H12     H       H       0       306.209     184.594     -5.651      
-KSG     HN11    H       H       0       307.219     186.518     -7.310      
-KSG     HN12    H       H       0       307.319     185.095     -7.537      
-KSG     HN2     H       H       0       304.990     188.430     -3.388      
-KSG     HN3     H       H       0       307.373     191.144     -4.514      
+KSG C1   C CH1 0  304.808 185.578 -6.802
+KSG O1   O O2  0  303.821 184.897 -6.054
+KSG C2   C CH1 0  302.676 184.381 -6.754
+KSG C3   C CH1 0  301.420 184.747 -5.968
+KSG O2   O OH1 0  301.271 186.166 -5.925
+KSG C4   C CH1 0  300.177 184.121 -6.593
+KSG O3   O OH1 0  299.938 184.697 -7.877
+KSG C5   C CH1 0  300.323 182.610 -6.733
+KSG O4   O OH1 0  300.354 182.012 -5.436
+KSG C6   C CH1 0  301.588 182.241 -7.503
+KSG O5   O OH1 0  301.735 180.820 -7.540
+KSG C7   C CH1 0  302.828 182.869 -6.874
+KSG O6   O OH1 0  303.972 182.558 -7.668
+KSG O7   O O2  0  304.407 186.927 -7.082
+KSG C8   C CH1 0  304.260 187.773 -5.933
+KSG C9   C CH3 0  303.681 189.094 -6.416
+KSG C10  C CH1 0  305.615 187.872 -5.221
+KSG C11  C CH2 0  306.155 186.490 -4.866
+KSG C12  C CH1 0  306.135 185.504 -6.029
+KSG N1   N NT2 0  307.289 185.726 -6.912
+KSG N2   N NH1 0  305.516 188.708 -4.024
+KSG C13  C C   0  306.181 189.885 -3.827
+KSG N3   N NH1 0  306.986 190.378 -4.727
+KSG C14  C C   0  305.975 190.575 -2.595
+KSG O8   O O   0  306.572 191.638 -2.411
+KSG O9   O OC  -1 305.206 190.071 -1.773
+KSG H1   H H   0  304.924 185.096 -7.658
+KSG H2   H H   0  302.620 184.778 -7.660
+KSG H3   H H   0  301.513 184.413 -5.040
+KSG HO2  H H   0  300.671 186.360 -5.369
+KSG H4   H H   0  299.398 184.312 -6.011
+KSG HO3  H H   0  299.173 184.468 -8.141
+KSG H5   H H   0  299.538 182.259 -7.226
+KSG HO4  H H   0  299.950 181.275 -5.461
+KSG H6   H H   0  301.502 182.572 -8.432
+KSG HO5  H H   0  301.817 180.525 -6.755
+KSG H7   H H   0  302.957 182.484 -5.970
+KSG HO6  H H   0  304.227 181.778 -7.485
+KSG H8   H H   0  303.624 187.360 -5.314
+KSG H91  H H   0  304.323 189.807 -6.263
+KSG H92  H H   0  302.865 189.288 -5.927
+KSG H93  H H   0  303.481 189.042 -7.365
+KSG H10  H H   0  306.244 188.286 -5.861
+KSG H111 H H   0  305.623 186.121 -4.126
+KSG H112 H H   0  307.079 186.584 -4.543
+KSG H12  H H   0  306.209 184.594 -5.651
+KSG HN11 H H   0  307.219 186.518 -7.310
+KSG HN12 H H   0  307.319 185.095 -7.537
+KSG HN2  H H   0  304.990 188.430 -3.388
+KSG HN3  H H   0  307.373 191.144 -4.514
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -81,57 +80,58 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-KSG          C1          O7      SINGLE       n     1.422  0.0172     1.422  0.0172
-KSG          C1          O1      SINGLE       n     1.406  0.0151     1.406  0.0151
-KSG          C1         C12      SINGLE       n     1.535  0.0100     1.535  0.0100
-KSG          O1          C2      SINGLE       n     1.436  0.0100     1.436  0.0100
-KSG          C2          C7      SINGLE       n     1.521  0.0165     1.521  0.0165
-KSG          C2          C3      SINGLE       n     1.521  0.0165     1.521  0.0165
-KSG          C3          C4      SINGLE       n     1.523  0.0100     1.523  0.0100
-KSG          C3          O2      SINGLE       n     1.427  0.0138     1.427  0.0138
-KSG          C4          O3      SINGLE       n     1.427  0.0138     1.427  0.0138
-KSG          C4          C5      SINGLE       n     1.523  0.0100     1.523  0.0100
-KSG          C5          C6      SINGLE       n     1.523  0.0100     1.523  0.0100
-KSG          C5          O4      SINGLE       n     1.427  0.0138     1.427  0.0138
-KSG          C6          O5      SINGLE       n     1.427  0.0138     1.427  0.0138
-KSG          C6          C7      SINGLE       n     1.523  0.0100     1.523  0.0100
-KSG          C7          O6      SINGLE       n     1.427  0.0138     1.427  0.0138
-KSG          O7          C8      SINGLE       n     1.429  0.0100     1.429  0.0100
-KSG          C8          C9      SINGLE       n     1.518  0.0129     1.518  0.0129
-KSG          C8         C10      SINGLE       n     1.532  0.0100     1.532  0.0100
-KSG         C10         C11      SINGLE       n     1.525  0.0100     1.525  0.0100
-KSG         C10          N2      SINGLE       n     1.461  0.0100     1.461  0.0100
-KSG         C11         C12      SINGLE       n     1.525  0.0112     1.525  0.0112
-KSG         C12          N1      SINGLE       n     1.470  0.0107     1.470  0.0107
-KSG          N2         C13      SINGLE       n     1.341  0.0200     1.341  0.0200
-KSG         C13          N3      DOUBLE       n     1.288  0.0200     1.288  0.0200
-KSG         C13         C14      SINGLE       n     1.403  0.0200     1.403  0.0200
-KSG         C14          O8      DOUBLE       n     1.230  0.0200     1.230  0.0200
-KSG         C14          O9      SINGLE       n     1.230  0.0200     1.230  0.0200
-KSG          C1          H1      SINGLE       n     1.089  0.0100     0.989  0.0183
-KSG          C2          H2      SINGLE       n     1.089  0.0100     0.990  0.0112
-KSG          C3          H3      SINGLE       n     1.089  0.0100     0.991  0.0121
-KSG          O2         HO2      SINGLE       n     0.970  0.0120     0.841  0.0200
-KSG          C4          H4      SINGLE       n     1.089  0.0100     0.991  0.0121
-KSG          O3         HO3      SINGLE       n     0.970  0.0120     0.841  0.0200
-KSG          C5          H5      SINGLE       n     1.089  0.0100     0.991  0.0121
-KSG          O4         HO4      SINGLE       n     0.970  0.0120     0.841  0.0200
-KSG          C6          H6      SINGLE       n     1.089  0.0100     0.991  0.0121
-KSG          O5         HO5      SINGLE       n     0.970  0.0120     0.841  0.0200
-KSG          C7          H7      SINGLE       n     1.089  0.0100     0.991  0.0121
-KSG          O6         HO6      SINGLE       n     0.970  0.0120     0.841  0.0200
-KSG          C8          H8      SINGLE       n     1.089  0.0100     0.979  0.0100
-KSG          C9         H91      SINGLE       n     1.089  0.0100     0.971  0.0171
-KSG          C9         H92      SINGLE       n     1.089  0.0100     0.971  0.0171
-KSG          C9         H93      SINGLE       n     1.089  0.0100     0.971  0.0171
-KSG         C10         H10      SINGLE       n     1.089  0.0100     0.990  0.0147
-KSG         C11        H111      SINGLE       n     1.089  0.0100     0.983  0.0138
-KSG         C11        H112      SINGLE       n     1.089  0.0100     0.983  0.0138
-KSG         C12         H12      SINGLE       n     1.089  0.0100     0.988  0.0199
-KSG          N1        HN11      SINGLE       n     1.036  0.0160     0.889  0.0200
-KSG          N1        HN12      SINGLE       n     1.036  0.0160     0.889  0.0200
-KSG          N2         HN2      SINGLE       n     1.016  0.0100     0.869  0.0200
-KSG          N3         HN3      SINGLE       n     1.016  0.0100     0.882  0.0200
+KSG C1  O7   SINGLE n 1.422 0.0172 1.422 0.0172
+KSG C1  O1   SINGLE n 1.406 0.0151 1.406 0.0151
+KSG C1  C12  SINGLE n 1.535 0.0100 1.535 0.0100
+KSG O1  C2   SINGLE n 1.436 0.0100 1.436 0.0100
+KSG C2  C7   SINGLE n 1.521 0.0165 1.521 0.0165
+KSG C2  C3   SINGLE n 1.521 0.0165 1.521 0.0165
+KSG C3  C4   SINGLE n 1.523 0.0100 1.523 0.0100
+KSG C3  O2   SINGLE n 1.427 0.0138 1.427 0.0138
+KSG C4  O3   SINGLE n 1.427 0.0138 1.427 0.0138
+KSG C4  C5   SINGLE n 1.523 0.0100 1.523 0.0100
+KSG C5  C6   SINGLE n 1.523 0.0100 1.523 0.0100
+KSG C5  O4   SINGLE n 1.427 0.0138 1.427 0.0138
+KSG C6  O5   SINGLE n 1.427 0.0138 1.427 0.0138
+KSG C6  C7   SINGLE n 1.523 0.0100 1.523 0.0100
+KSG C7  O6   SINGLE n 1.427 0.0138 1.427 0.0138
+KSG O7  C8   SINGLE n 1.429 0.0100 1.429 0.0100
+KSG C8  C9   SINGLE n 1.518 0.0129 1.518 0.0129
+KSG C8  C10  SINGLE n 1.532 0.0100 1.532 0.0100
+KSG C10 C11  SINGLE n 1.525 0.0100 1.525 0.0100
+KSG C10 N2   SINGLE n 1.461 0.0100 1.461 0.0100
+KSG C11 C12  SINGLE n 1.525 0.0112 1.525 0.0112
+KSG C12 N1   SINGLE n 1.470 0.0107 1.470 0.0107
+KSG N2  C13  SINGLE n 1.341 0.0200 1.341 0.0200
+KSG C13 N3   DOUBLE n 1.288 0.0200 1.288 0.0200
+KSG C13 C14  SINGLE n 1.403 0.0200 1.403 0.0200
+KSG C14 O8   DOUBLE n 1.230 0.0200 1.230 0.0200
+KSG C14 O9   SINGLE n 1.230 0.0200 1.230 0.0200
+KSG C1  H1   SINGLE n 1.089 0.0100 0.989 0.0183
+KSG C2  H2   SINGLE n 1.089 0.0100 0.990 0.0112
+KSG C3  H3   SINGLE n 1.089 0.0100 0.991 0.0121
+KSG O2  HO2  SINGLE n 0.970 0.0120 0.841 0.0200
+KSG C4  H4   SINGLE n 1.089 0.0100 0.991 0.0121
+KSG O3  HO3  SINGLE n 0.970 0.0120 0.841 0.0200
+KSG C5  H5   SINGLE n 1.089 0.0100 0.991 0.0121
+KSG O4  HO4  SINGLE n 0.970 0.0120 0.841 0.0200
+KSG C6  H6   SINGLE n 1.089 0.0100 0.991 0.0121
+KSG O5  HO5  SINGLE n 0.970 0.0120 0.841 0.0200
+KSG C7  H7   SINGLE n 1.089 0.0100 0.991 0.0121
+KSG O6  HO6  SINGLE n 0.970 0.0120 0.841 0.0200
+KSG C8  H8   SINGLE n 1.089 0.0100 0.979 0.0100
+KSG C9  H91  SINGLE n 1.089 0.0100 0.971 0.0171
+KSG C9  H92  SINGLE n 1.089 0.0100 0.971 0.0171
+KSG C9  H93  SINGLE n 1.089 0.0100 0.971 0.0171
+KSG C10 H10  SINGLE n 1.089 0.0100 0.990 0.0147
+KSG C11 H111 SINGLE n 1.089 0.0100 0.983 0.0138
+KSG C11 H112 SINGLE n 1.089 0.0100 0.983 0.0138
+KSG C12 H12  SINGLE n 1.089 0.0100 0.988 0.0199
+KSG N1  HN11 SINGLE n 1.036 0.0160 0.889 0.0200
+KSG N1  HN12 SINGLE n 1.036 0.0160 0.889 0.0200
+KSG N2  HN2  SINGLE n 1.016 0.0100 0.869 0.0200
+KSG N3  HN3  SINGLE n 1.016 0.0100 0.882 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -139,98 +139,99 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-KSG          O7          C1          O1     110.325    1.95
-KSG          O7          C1         C12     111.350    3.00
-KSG          O7          C1          H1     109.272    1.61
-KSG          O1          C1         C12     108.367    1.50
-KSG          O1          C1          H1     107.875    2.12
-KSG         C12          C1          H1     108.848    1.50
-KSG          C1          O1          C2     114.885    2.31
-KSG          O1          C2          C7     108.580    2.45
-KSG          O1          C2          C3     108.580    2.45
-KSG          O1          C2          H2     109.522    1.50
-KSG          C7          C2          C3     110.796    1.54
-KSG          C7          C2          H2     109.166    1.50
-KSG          C3          C2          H2     109.166    1.50
-KSG          C2          C3          C4     110.796    1.54
-KSG          C2          C3          O2     110.081    2.02
-KSG          C2          C3          H3     109.166    1.50
-KSG          C4          C3          O2     109.587    1.51
-KSG          C4          C3          H3     108.868    1.50
-KSG          O2          C3          H3     108.767    1.50
-KSG          C3          O2         HO2     108.895    2.41
-KSG          C3          C4          O3     109.587    1.51
-KSG          C3          C4          C5     111.184    1.50
-KSG          C3          C4          H4     108.868    1.50
-KSG          O3          C4          C5     109.587    1.51
-KSG          O3          C4          H4     108.767    1.50
-KSG          C5          C4          H4     108.868    1.50
-KSG          C4          O3         HO3     108.895    2.41
-KSG          C4          C5          C6     111.184    1.50
-KSG          C4          C5          O4     109.587    1.51
-KSG          C4          C5          H5     108.868    1.50
-KSG          C6          C5          O4     109.587    1.51
-KSG          C6          C5          H5     108.868    1.50
-KSG          O4          C5          H5     108.767    1.50
-KSG          C5          O4         HO4     108.895    2.41
-KSG          C5          C6          O5     109.587    1.51
-KSG          C5          C6          C7     111.184    1.50
-KSG          C5          C6          H6     108.868    1.50
-KSG          O5          C6          C7     109.587    1.51
-KSG          O5          C6          H6     108.767    1.50
-KSG          C7          C6          H6     108.868    1.50
-KSG          C6          O5         HO5     108.895    2.41
-KSG          C2          C7          C6     110.796    1.54
-KSG          C2          C7          O6     110.081    2.02
-KSG          C2          C7          H7     109.166    1.50
-KSG          C6          C7          O6     109.587    1.51
-KSG          C6          C7          H7     108.868    1.50
-KSG          O6          C7          H7     108.767    1.50
-KSG          C7          O6         HO6     108.895    2.41
-KSG          C1          O7          C8     113.097    1.50
-KSG          O7          C8          C9     107.094    1.50
-KSG          O7          C8         C10     107.969    1.58
-KSG          O7          C8          H8     108.843    1.50
-KSG          C9          C8         C10     115.626    1.50
-KSG          C9          C8          H8     109.260    1.50
-KSG         C10          C8          H8     108.738    2.27
-KSG          C8          C9         H91     109.535    1.50
-KSG          C8          C9         H92     109.535    1.50
-KSG          C8          C9         H93     109.535    1.50
-KSG         H91          C9         H92     109.383    1.59
-KSG         H91          C9         H93     109.383    1.59
-KSG         H92          C9         H93     109.383    1.59
-KSG          C8         C10         C11     111.124    1.57
-KSG          C8         C10          N2     110.829    2.03
-KSG          C8         C10         H10     106.721    1.50
-KSG         C11         C10          N2     110.528    1.50
-KSG         C11         C10         H10     107.655    1.50
-KSG          N2         C10         H10     108.143    1.50
-KSG         C10         C11         C12     114.316    1.50
-KSG         C10         C11        H111     109.341    1.50
-KSG         C10         C11        H112     109.341    1.50
-KSG         C12         C11        H111     109.341    1.50
-KSG         C12         C11        H112     109.341    1.50
-KSG        H111         C11        H112     107.784    1.50
-KSG          C1         C12         C11     111.124    1.57
-KSG          C1         C12          N1     111.865    2.42
-KSG          C1         C12         H12     107.511    1.55
-KSG         C11         C12          N1     110.671    1.99
-KSG         C11         C12         H12     107.655    1.50
-KSG          N1         C12         H12     108.113    1.50
-KSG         C12          N1        HN11     109.984    3.00
-KSG         C12          N1        HN12     109.984    3.00
-KSG        HN11          N1        HN12     108.673    3.00
-KSG         C10          N2         C13     123.426    1.50
-KSG         C10          N2         HN2     118.522    2.07
-KSG         C13          N2         HN2     118.052    1.89
-KSG          N2         C13          N3     121.447    3.00
-KSG          N2         C13         C14     118.836    3.00
-KSG          N3         C13         C14     119.718    3.00
-KSG         C13          N3         HN3     112.803    3.00
-KSG         C13         C14          O8     117.738    3.00
-KSG         C13         C14          O9     117.738    3.00
-KSG          O8         C14          O9     124.523    1.63
+KSG O7   C1  O1   110.325 1.95
+KSG O7   C1  C12  111.350 3.00
+KSG O7   C1  H1   109.272 1.61
+KSG O1   C1  C12  108.367 1.50
+KSG O1   C1  H1   107.875 2.12
+KSG C12  C1  H1   108.848 1.50
+KSG C1   O1  C2   114.885 2.31
+KSG O1   C2  C7   108.580 2.45
+KSG O1   C2  C3   108.580 2.45
+KSG O1   C2  H2   109.522 1.50
+KSG C7   C2  C3   110.796 1.54
+KSG C7   C2  H2   109.166 1.50
+KSG C3   C2  H2   109.166 1.50
+KSG C2   C3  C4   110.796 1.54
+KSG C2   C3  O2   110.081 2.02
+KSG C2   C3  H3   109.166 1.50
+KSG C4   C3  O2   109.587 1.51
+KSG C4   C3  H3   108.868 1.50
+KSG O2   C3  H3   108.767 1.50
+KSG C3   O2  HO2  108.895 2.41
+KSG C3   C4  O3   109.587 1.51
+KSG C3   C4  C5   111.184 1.50
+KSG C3   C4  H4   108.868 1.50
+KSG O3   C4  C5   109.587 1.51
+KSG O3   C4  H4   108.767 1.50
+KSG C5   C4  H4   108.868 1.50
+KSG C4   O3  HO3  108.895 2.41
+KSG C4   C5  C6   111.184 1.50
+KSG C4   C5  O4   109.587 1.51
+KSG C4   C5  H5   108.868 1.50
+KSG C6   C5  O4   109.587 1.51
+KSG C6   C5  H5   108.868 1.50
+KSG O4   C5  H5   108.767 1.50
+KSG C5   O4  HO4  108.895 2.41
+KSG C5   C6  O5   109.587 1.51
+KSG C5   C6  C7   111.184 1.50
+KSG C5   C6  H6   108.868 1.50
+KSG O5   C6  C7   109.587 1.51
+KSG O5   C6  H6   108.767 1.50
+KSG C7   C6  H6   108.868 1.50
+KSG C6   O5  HO5  108.895 2.41
+KSG C2   C7  C6   110.796 1.54
+KSG C2   C7  O6   110.081 2.02
+KSG C2   C7  H7   109.166 1.50
+KSG C6   C7  O6   109.587 1.51
+KSG C6   C7  H7   108.868 1.50
+KSG O6   C7  H7   108.767 1.50
+KSG C7   O6  HO6  108.895 2.41
+KSG C1   O7  C8   113.097 1.50
+KSG O7   C8  C9   107.094 1.50
+KSG O7   C8  C10  107.969 1.58
+KSG O7   C8  H8   108.843 1.50
+KSG C9   C8  C10  115.626 1.50
+KSG C9   C8  H8   109.260 1.50
+KSG C10  C8  H8   108.738 2.27
+KSG C8   C9  H91  109.535 1.50
+KSG C8   C9  H92  109.535 1.50
+KSG C8   C9  H93  109.535 1.50
+KSG H91  C9  H92  109.383 1.59
+KSG H91  C9  H93  109.383 1.59
+KSG H92  C9  H93  109.383 1.59
+KSG C8   C10 C11  111.124 1.57
+KSG C8   C10 N2   110.829 2.03
+KSG C8   C10 H10  106.721 1.50
+KSG C11  C10 N2   110.528 1.50
+KSG C11  C10 H10  107.655 1.50
+KSG N2   C10 H10  108.143 1.50
+KSG C10  C11 C12  114.316 1.50
+KSG C10  C11 H111 109.341 1.50
+KSG C10  C11 H112 109.341 1.50
+KSG C12  C11 H111 109.341 1.50
+KSG C12  C11 H112 109.341 1.50
+KSG H111 C11 H112 107.784 1.50
+KSG C1   C12 C11  111.124 1.57
+KSG C1   C12 N1   111.865 2.42
+KSG C1   C12 H12  107.511 1.55
+KSG C11  C12 N1   110.671 1.99
+KSG C11  C12 H12  107.655 1.50
+KSG N1   C12 H12  108.113 1.50
+KSG C12  N1  HN11 109.984 3.00
+KSG C12  N1  HN12 109.984 3.00
+KSG HN11 N1  HN12 108.673 3.00
+KSG C10  N2  C13  123.426 1.50
+KSG C10  N2  HN2  118.522 2.07
+KSG C13  N2  HN2  118.052 1.89
+KSG N2   C13 N3   121.447 3.00
+KSG N2   C13 C14  118.836 3.00
+KSG N3   C13 C14  119.718 3.00
+KSG C13  N3  HN3  112.803 3.00
+KSG C13  C14 O8   117.738 3.00
+KSG C13  C14 O9   117.738 3.00
+KSG O8   C14 O9   124.523 1.63
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -241,31 +242,32 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-KSG            sp3_sp3_79          O7          C1          O1          C2     180.000    10.0     3
-KSG             sp3_sp3_2          O1          C1          O7          C8     -60.000    10.0     3
-KSG            sp3_sp3_86          O1          C1         C12          N1     180.000    10.0     3
-KSG           sp3_sp3_115          C2          C7          O6         HO6     180.000    10.0     3
-KSG             sp3_sp3_5          C9          C8          O7          C1     180.000    10.0     3
-KSG           sp3_sp3_118          O7          C8          C9         H91     180.000    10.0     3
-KSG            sp3_sp3_11          N2         C10          C8          C9      60.000    10.0     3
-KSG            sp3_sp3_19          N2         C10         C11         C12     180.000    10.0     3
-KSG             sp2_sp3_1         C13          N2         C10          C8       0.000    10.0     6
-KSG            sp3_sp3_26         C10         C11         C12          N1     180.000    10.0     3
-KSG           sp3_sp3_127          C1         C12          N1        HN11     180.000    10.0     3
-KSG            sp3_sp3_91          C7          C2          O1          C1     180.000    10.0     3
-KSG             sp2_sp2_3          N3         C13          N2         C10       0.000     5.0     2
-KSG             sp2_sp2_5          N2         C13          N3         HN3     180.000     5.0     2
-KSG             sp2_sp2_7          N2         C13         C14          O8     180.000     5.0     2
-KSG            sp3_sp3_38          O1          C2          C7          O6      60.000    10.0     3
-KSG            sp3_sp3_98          O1          C2          C3          O2     180.000    10.0     3
-KSG           sp3_sp3_103          C2          C3          O2         HO2     180.000    10.0     3
-KSG            sp3_sp3_74          O2          C3          C4          O3      60.000    10.0     3
-KSG           sp3_sp3_106          C3          C4          O3         HO3     180.000    10.0     3
-KSG            sp3_sp3_65          O3          C4          C5          O4     -60.000    10.0     3
-KSG           sp3_sp3_109          C4          C5          O4         HO4     180.000    10.0     3
-KSG            sp3_sp3_56          O4          C5          C6          O5      60.000    10.0     3
-KSG           sp3_sp3_112          C5          C6          O5         HO5     180.000    10.0     3
-KSG            sp3_sp3_47          O5          C6          C7          O6     -60.000    10.0     3
+KSG sp3_sp3_79  O7  C1  O1  C2   180.000 10.0 3
+KSG sp3_sp3_2   O1  C1  O7  C8   -60.000 10.0 3
+KSG sp3_sp3_86  O1  C1  C12 N1   180.000 10.0 3
+KSG sp3_sp3_115 C2  C7  O6  HO6  180.000 10.0 3
+KSG sp3_sp3_5   C9  C8  O7  C1   180.000 10.0 3
+KSG sp3_sp3_118 O7  C8  C9  H91  180.000 10.0 3
+KSG sp3_sp3_11  N2  C10 C8  C9   60.000  10.0 3
+KSG sp3_sp3_19  N2  C10 C11 C12  180.000 10.0 3
+KSG sp2_sp3_1   C13 N2  C10 C8   0.000   10.0 6
+KSG sp3_sp3_26  C10 C11 C12 N1   180.000 10.0 3
+KSG sp3_sp3_127 C1  C12 N1  HN11 180.000 10.0 3
+KSG sp3_sp3_91  C7  C2  O1  C1   180.000 10.0 3
+KSG sp2_sp2_3   N3  C13 N2  C10  0.000   5.0  2
+KSG sp2_sp2_5   N2  C13 N3  HN3  180.000 5.0  2
+KSG sp2_sp2_7   N2  C13 C14 O8   180.000 5.0  2
+KSG sp3_sp3_38  O1  C2  C7  O6   60.000  10.0 3
+KSG sp3_sp3_98  O1  C2  C3  O2   180.000 10.0 3
+KSG sp3_sp3_103 C2  C3  O2  HO2  180.000 10.0 3
+KSG sp3_sp3_74  O2  C3  C4  O3   60.000  10.0 3
+KSG sp3_sp3_106 C3  C4  O3  HO3  180.000 10.0 3
+KSG sp3_sp3_65  O3  C4  C5  O4   -60.000 10.0 3
+KSG sp3_sp3_109 C4  C5  O4  HO4  180.000 10.0 3
+KSG sp3_sp3_56  O4  C5  C6  O5   60.000  10.0 3
+KSG sp3_sp3_112 C5  C6  O5  HO5  180.000 10.0 3
+KSG sp3_sp3_47  O5  C6  C7  O6   -60.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -274,52 +276,68 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-KSG    chir_1    C1    O1    O7    C12    negative
-KSG    chir_2    C2    O1    C7    C3    negative
-KSG    chir_3    C3    O2    C2    C4    positive
-KSG    chir_4    C4    O3    C3    C5    positive
-KSG    chir_5    C5    O4    C6    C4    positive
-KSG    chir_6    C6    O5    C7    C5    positive
-KSG    chir_7    C7    O6    C2    C6    negative
-KSG    chir_8    C8    O7    C10    C9    negative
-KSG    chir_9    C10    N2    C8    C11    positive
-KSG    chir_10    C12    N1    C1    C11    positive
+KSG chir_1  C1  O1 O7  C12 negative
+KSG chir_2  C2  O1 C7  C3  negative
+KSG chir_3  C3  O2 C2  C4  positive
+KSG chir_4  C4  O3 C3  C5  positive
+KSG chir_5  C5  O4 C6  C4  positive
+KSG chir_6  C6  O5 C7  C5  positive
+KSG chir_7  C7  O6 C2  C6  negative
+KSG chir_8  C8  O7 C10 C9  negative
+KSG chir_9  C10 N2 C8  C11 positive
+KSG chir_10 C12 N1 C1  C11 positive
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-KSG    plan-1         C10   0.020
-KSG    plan-1         C13   0.020
-KSG    plan-1         HN2   0.020
-KSG    plan-1          N2   0.020
-KSG    plan-2         C13   0.020
-KSG    plan-2         C14   0.020
-KSG    plan-2          N2   0.020
-KSG    plan-2          N3   0.020
-KSG    plan-3         C13   0.020
-KSG    plan-3         C14   0.020
-KSG    plan-3          O8   0.020
-KSG    plan-3          O9   0.020
+KSG plan-1 C10 0.020
+KSG plan-1 C13 0.020
+KSG plan-1 HN2 0.020
+KSG plan-1 N2  0.020
+KSG plan-2 C13 0.020
+KSG plan-2 C14 0.020
+KSG plan-2 N2  0.020
+KSG plan-2 N3  0.020
+KSG plan-3 C13 0.020
+KSG plan-3 C14 0.020
+KSG plan-3 O8  0.020
+KSG plan-3 O9  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-KSG           SMILES              ACDLabs 10.04                                                                                                                                O=C(O)C(=[N@H])NC2C(OC(OC1C(O)C(O)C(O)C(O)C1O)C(N)C2)C
-KSG SMILES_CANONICAL               CACTVS 3.341                                                                                         C[C@H]1O[C@H](O[C@@H]2[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)[C@H]2O)[C@@H](N)C[C@@H]1NC(=N)C(O)=O
-KSG           SMILES               CACTVS 3.341                                                                                                        C[CH]1O[CH](O[CH]2[CH](O)[CH](O)[CH](O)[CH](O)[CH]2O)[CH](N)C[CH]1NC(=N)C(O)=O
-KSG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                           "[H]/N=C(/C(=O)O)\N[C@H]1C[C@@H]([C@H](O[C@@H]1C)OC2[C@H]([C@H](C([C@@H]([C@H]2O)O)O)O)O)N"
-KSG           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                 "[H]N=C(C(=O)O)NC1CC(C(OC1C)OC2C(C(C(C(C2O)O)O)O)O)N"
-KSG            InChI                InChI  1.03 InChI=1S/C14H25N3O9/c1-3-5(17-12(16)13(23)24)2-4(15)14(25-3)26-11-9(21)7(19)6(18)8(20)10(11)22/h3-11,14,18-22H,2,15H2,1H3,(H2,16,17)(H,23,24)/t3-,4+,5+,6-,7+,8+,9-,10+,11+,14-/m1/s1
-KSG         InChIKey                InChI  1.03                                                                                                                                                           PVTHJAPFENJVNC-MHRBZPPQSA-N
+KSG SMILES           ACDLabs              10.04 O=C(O)C(=[N@H])NC2C(OC(OC1C(O)C(O)C(O)C(O)C1O)C(N)C2)C
+KSG SMILES_CANONICAL CACTVS               3.341 C[C@H]1O[C@H](O[C@@H]2[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)[C@H]2O)[C@@H](N)C[C@@H]1NC(=N)C(O)=O
+KSG SMILES           CACTVS               3.341 C[CH]1O[CH](O[CH]2[CH](O)[CH](O)[CH](O)[CH](O)[CH]2O)[CH](N)C[CH]1NC(=N)C(O)=O
+KSG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 "[H]/N=C(/C(=O)O)\N[C@H]1C[C@@H]([C@H](O[C@@H]1C)OC2[C@H]([C@H](C([C@@H]([C@H]2O)O)O)O)O)N"
+KSG SMILES           "OpenEye OEToolkits" 1.5.0 "[H]N=C(C(=O)O)NC1CC(C(OC1C)OC2C(C(C(C(C2O)O)O)O)O)N"
+KSG InChI            InChI                1.03  InChI=1S/C14H25N3O9/c1-3-5(17-12(16)13(23)24)2-4(15)14(25-3)26-11-9(21)7(19)6(18)8(20)10(11)22/h3-11,14,18-22H,2,15H2,1H3,(H2,16,17)(H,23,24)/t3-,4+,5+,6-,7+,8+,9-,10+,11+,14-/m1/s1
+KSG InChIKey         InChI                1.03  PVTHJAPFENJVNC-MHRBZPPQSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-KSG acedrg               243         "dictionary generator"                  
-KSG acedrg_database      11          "data source"                           
-KSG rdkit                2017.03.2   "Chemoinformatics tool"
-KSG refmac5              5.8.0238    "optimization tool"                     
+KSG acedrg          243       "dictionary generator"
+KSG acedrg_database 11        "data source"
+KSG rdkit           2017.03.2 "Chemoinformatics tool"
+KSG refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+KSG M-peptide O8  O
+KSG M-peptide C14 C
+KSG M-peptide C13 CA
+KSG M-peptide N2  N
+KSG M-peptide C10 CN
+KSG M-peptide O9  OXT
+KSG M-peptide HN2 H

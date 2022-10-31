@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-B2U     B2U      N-[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydro-1H-2-benzopyran-7-carbonyl]-D-phenylalanine     NON-POLYMER     45     28     .     
-#
+B2U B2U N-[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydro-1H-2-benzopyran-7-carbonyl]-D-phenylalanine NON-POLYMER 45 28 .
+
 data_comp_B2U
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,51 +19,52 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-B2U     CD1     C       CR16    0       -6.765      -3.421      14.135      
-B2U     CE1     C       CR16    0       -7.841      -4.139      14.643      
-B2U     CZ      C       CR16    0       -9.129      -3.819      14.266      
-B2U     CE2     C       CR16    0       -9.344      -2.782      13.382      
-B2U     CD2     C       CR16    0       -8.270      -2.063      12.872      
-B2U     CG      C       CR6     0       -6.966      -2.372      13.244      
-B2U     CB      C       CH2     0       -5.799      -1.595      12.688      
-B2U     CA      C       CH1     0       -5.378      -2.041      11.275      
-B2U     C       C       C       0       -4.766      -3.453      11.360      
-B2U     O       O       OC      -1      -3.632      -3.554      11.869      
-B2U     OXT     O       O       0       -5.447      -4.399      10.915      
-B2U     N       N       NH1     0       -4.439      -1.113      10.673      
-B2U     CAN     C       C       0       -4.128      -1.146      9.367       
-B2U     OAX     O       O       0       -4.707      -1.878      8.563       
-B2U     CAA     C       CR6     0       -2.985      -0.291      8.902       
-B2U     CAB     C       CR16    0       -1.779      -0.299      9.625       
-B2U     CAC     C       CR6     0       -0.699      0.471       9.217       
-B2U     CLA     CL      CL      0       0.754       0.410       10.182      
-B2U     CAD     C       CR66    0       -0.784      1.266       8.070       
-B2U     CAG     C       CH2     0       0.392       2.100       7.616       
-B2U     CAH     C       CH1     0       -0.024      3.230       6.711       
-B2U     CAL     C       CH3     0       1.114       3.829       5.931       
-B2U     OAI     O       O2      0       -0.986      2.767       5.703       
-B2U     CAJ     C       CR6     0       -2.069      2.105       6.111       
-B2U     OAK     O       O       0       -3.090      2.239       5.438       
-B2U     CAE     C       CR66    0       -1.978      1.277       7.317       
-B2U     CAF     C       CR6     0       -3.072      0.497       7.738       
-B2U     OBB     O       OH1     0       -4.240      0.511       7.008       
-B2U     HD1     H       H       0       -5.887      -3.647      14.397      
-B2U     HE1     H       H       0       -7.689      -4.848      15.248      
-B2U     HZ      H       H       0       -9.859      -4.306      14.613      
-B2U     HE2     H       H       0       -10.224     -2.559      13.122      
-B2U     HD2     H       H       0       -8.425      -1.355      12.268      
-B2U     HB1     H       H       0       -5.033      -1.695      13.292      
-B2U     HB2     H       H       0       -6.036      -0.645      12.660      
-B2U     HAM     H       H       0       -6.189      -2.080      10.712      
-B2U     H       H       H       0       -4.079      -0.503      11.184      
-B2U     HAB     H       H       0       -1.710      -0.826      10.403      
-B2U     HAH     H       H       0       0.841       2.471       8.389       
-B2U     HAG     H       H       0       1.022       1.531       7.148       
-B2U     HAI     H       H       0       -0.450      3.942       7.260       
-B2U     HA2     H       H       0       1.812       4.114       6.543       
-B2U     HA3     H       H       0       0.795       4.595       5.427       
-B2U     HA1     H       H       0       1.472       3.166       5.319       
-B2U     H2      H       H       0       -4.943      0.894       7.327       
+B2U CD1 C  CR16 0  -6.765  -3.421 14.135
+B2U CE1 C  CR16 0  -7.841  -4.139 14.643
+B2U CZ  C  CR16 0  -9.129  -3.819 14.266
+B2U CE2 C  CR16 0  -9.344  -2.782 13.382
+B2U CD2 C  CR16 0  -8.270  -2.063 12.872
+B2U CG  C  CR6  0  -6.966  -2.372 13.244
+B2U CB  C  CH2  0  -5.799  -1.595 12.688
+B2U CA  C  CH1  0  -5.378  -2.041 11.275
+B2U C   C  C    0  -4.766  -3.453 11.360
+B2U O   O  OC   -1 -3.632  -3.554 11.869
+B2U OXT O  O    0  -5.447  -4.399 10.915
+B2U N   N  NH1  0  -4.439  -1.113 10.673
+B2U CAN C  C    0  -4.128  -1.146 9.367
+B2U OAX O  O    0  -4.707  -1.878 8.563
+B2U CAA C  CR6  0  -2.985  -0.291 8.902
+B2U CAB C  CR16 0  -1.779  -0.299 9.625
+B2U CAC C  CR6  0  -0.699  0.471  9.217
+B2U CLA CL CL   0  0.754   0.410  10.182
+B2U CAD C  CR66 0  -0.784  1.266  8.070
+B2U CAG C  CH2  0  0.392   2.100  7.616
+B2U CAH C  CH1  0  -0.024  3.230  6.711
+B2U CAL C  CH3  0  1.114   3.829  5.931
+B2U OAI O  O2   0  -0.986  2.767  5.703
+B2U CAJ C  CR6  0  -2.069  2.105  6.111
+B2U OAK O  O    0  -3.090  2.239  5.438
+B2U CAE C  CR66 0  -1.978  1.277  7.317
+B2U CAF C  CR6  0  -3.072  0.497  7.738
+B2U OBB O  OH1  0  -4.240  0.511  7.008
+B2U HD1 H  H    0  -5.887  -3.647 14.397
+B2U HE1 H  H    0  -7.689  -4.848 15.248
+B2U HZ  H  H    0  -9.859  -4.306 14.613
+B2U HE2 H  H    0  -10.224 -2.559 13.122
+B2U HD2 H  H    0  -8.425  -1.355 12.268
+B2U HB1 H  H    0  -5.033  -1.695 13.292
+B2U HB2 H  H    0  -6.036  -0.645 12.660
+B2U HAM H  H    0  -6.189  -2.080 10.712
+B2U H   H  H    0  -4.079  -0.503 11.184
+B2U HAB H  H    0  -1.710  -0.826 10.403
+B2U HAH H  H    0  0.841   2.471  8.389
+B2U HAG H  H    0  1.022   1.531  7.148
+B2U HAI H  H    0  -0.450  3.942  7.260
+B2U HA2 H  H    0  1.812   4.114  6.543
+B2U HA3 H  H    0  0.795   4.595  5.427
+B2U HA1 H  H    0  1.472   3.166  5.319
+B2U H2  H  H    0  -4.943  0.894  7.327
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -76,53 +75,54 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-B2U         CAJ         OAK      DOUBLE       n     1.229  0.0126     1.229  0.0126
-B2U         OAI         CAJ      SINGLE       n     1.332  0.0100     1.332  0.0100
-B2U         CAH         OAI      SINGLE       n     1.466  0.0122     1.466  0.0122
-B2U         CAJ         CAE      SINGLE       n     1.459  0.0119     1.459  0.0119
-B2U         CAH         CAL      SINGLE       n     1.504  0.0100     1.504  0.0100
-B2U         CAG         CAH      SINGLE       n     1.504  0.0100     1.504  0.0100
-B2U         CAF         OBB      SINGLE       n     1.374  0.0155     1.374  0.0155
-B2U         CAE         CAF      DOUBLE       y     1.400  0.0100     1.400  0.0100
-B2U         CAD         CAE      SINGLE       y     1.404  0.0100     1.404  0.0100
-B2U         CAA         CAF      SINGLE       y     1.404  0.0100     1.404  0.0100
-B2U         CAD         CAG      SINGLE       n     1.505  0.0100     1.505  0.0100
-B2U         CAC         CAD      DOUBLE       y     1.391  0.0100     1.391  0.0100
-B2U         CAN         OAX      DOUBLE       n     1.230  0.0114     1.230  0.0114
-B2U         CAN         CAA      SINGLE       n     1.498  0.0100     1.498  0.0100
-B2U         CAA         CAB      DOUBLE       y     1.400  0.0130     1.400  0.0130
-B2U           N         CAN      SINGLE       n     1.337  0.0101     1.337  0.0101
-B2U         CAB         CAC      SINGLE       y     1.382  0.0131     1.382  0.0131
-B2U         CAC         CLA      SINGLE       n     1.744  0.0100     1.744  0.0100
-B2U           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-B2U          CA           N      SINGLE       n     1.447  0.0100     1.447  0.0100
-B2U          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-B2U           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-B2U          CB          CA      SINGLE       n     1.538  0.0100     1.538  0.0100
-B2U          CG          CB      SINGLE       n     1.508  0.0100     1.508  0.0100
-B2U         CD2          CG      SINGLE       y     1.385  0.0111     1.385  0.0111
-B2U         CE2         CD2      DOUBLE       y     1.386  0.0100     1.386  0.0100
-B2U         CD1          CG      DOUBLE       y     1.385  0.0111     1.385  0.0111
-B2U          CZ         CE2      SINGLE       y     1.376  0.0124     1.376  0.0124
-B2U         CD1         CE1      SINGLE       y     1.386  0.0100     1.386  0.0100
-B2U         CE1          CZ      DOUBLE       y     1.376  0.0124     1.376  0.0124
-B2U         CD1         HD1      SINGLE       n     1.082  0.0130     0.944  0.0174
-B2U         CE1         HE1      SINGLE       n     1.082  0.0130     0.944  0.0175
-B2U          CZ          HZ      SINGLE       n     1.082  0.0130     0.944  0.0161
-B2U         CE2         HE2      SINGLE       n     1.082  0.0130     0.944  0.0175
-B2U         CD2         HD2      SINGLE       n     1.082  0.0130     0.944  0.0174
-B2U          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0164
-B2U          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0164
-B2U          CA         HAM      SINGLE       n     1.089  0.0100     0.988  0.0135
-B2U           N           H      SINGLE       n     1.016  0.0100     0.872  0.0200
-B2U         CAB         HAB      SINGLE       n     1.082  0.0130     0.942  0.0177
-B2U         CAG         HAH      SINGLE       n     1.089  0.0100     0.969  0.0100
-B2U         CAG         HAG      SINGLE       n     1.089  0.0100     0.969  0.0100
-B2U         CAH         HAI      SINGLE       n     1.089  0.0100     0.995  0.0100
-B2U         CAL         HA2      SINGLE       n     1.089  0.0100     0.971  0.0171
-B2U         CAL         HA3      SINGLE       n     1.089  0.0100     0.971  0.0171
-B2U         CAL         HA1      SINGLE       n     1.089  0.0100     0.971  0.0171
-B2U         OBB          H2      SINGLE       n     0.966  0.0059     0.861  0.0200
+B2U CAJ OAK DOUBLE n 1.229 0.0126 1.229 0.0126
+B2U OAI CAJ SINGLE n 1.332 0.0100 1.332 0.0100
+B2U CAH OAI SINGLE n 1.466 0.0122 1.466 0.0122
+B2U CAJ CAE SINGLE n 1.459 0.0119 1.459 0.0119
+B2U CAH CAL SINGLE n 1.504 0.0100 1.504 0.0100
+B2U CAG CAH SINGLE n 1.504 0.0100 1.504 0.0100
+B2U CAF OBB SINGLE n 1.374 0.0155 1.374 0.0155
+B2U CAE CAF DOUBLE y 1.400 0.0100 1.400 0.0100
+B2U CAD CAE SINGLE y 1.404 0.0100 1.404 0.0100
+B2U CAA CAF SINGLE y 1.404 0.0100 1.404 0.0100
+B2U CAD CAG SINGLE n 1.505 0.0100 1.505 0.0100
+B2U CAC CAD DOUBLE y 1.391 0.0100 1.391 0.0100
+B2U CAN OAX DOUBLE n 1.230 0.0114 1.230 0.0114
+B2U CAN CAA SINGLE n 1.498 0.0100 1.498 0.0100
+B2U CAA CAB DOUBLE y 1.400 0.0130 1.400 0.0130
+B2U N   CAN SINGLE n 1.337 0.0101 1.337 0.0101
+B2U CAB CAC SINGLE y 1.382 0.0131 1.382 0.0131
+B2U CAC CLA SINGLE n 1.744 0.0100 1.744 0.0100
+B2U C   OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+B2U CA  N   SINGLE n 1.447 0.0100 1.447 0.0100
+B2U CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
+B2U C   O   SINGLE n 1.247 0.0187 1.247 0.0187
+B2U CB  CA  SINGLE n 1.538 0.0100 1.538 0.0100
+B2U CG  CB  SINGLE n 1.508 0.0100 1.508 0.0100
+B2U CD2 CG  SINGLE y 1.385 0.0111 1.385 0.0111
+B2U CE2 CD2 DOUBLE y 1.386 0.0100 1.386 0.0100
+B2U CD1 CG  DOUBLE y 1.385 0.0111 1.385 0.0111
+B2U CZ  CE2 SINGLE y 1.376 0.0124 1.376 0.0124
+B2U CD1 CE1 SINGLE y 1.386 0.0100 1.386 0.0100
+B2U CE1 CZ  DOUBLE y 1.376 0.0124 1.376 0.0124
+B2U CD1 HD1 SINGLE n 1.082 0.0130 0.944 0.0174
+B2U CE1 HE1 SINGLE n 1.082 0.0130 0.944 0.0175
+B2U CZ  HZ  SINGLE n 1.082 0.0130 0.944 0.0161
+B2U CE2 HE2 SINGLE n 1.082 0.0130 0.944 0.0175
+B2U CD2 HD2 SINGLE n 1.082 0.0130 0.944 0.0174
+B2U CB  HB1 SINGLE n 1.089 0.0100 0.980 0.0164
+B2U CB  HB2 SINGLE n 1.089 0.0100 0.980 0.0164
+B2U CA  HAM SINGLE n 1.089 0.0100 0.988 0.0135
+B2U N   H   SINGLE n 1.016 0.0100 0.872 0.0200
+B2U CAB HAB SINGLE n 1.082 0.0130 0.942 0.0177
+B2U CAG HAH SINGLE n 1.089 0.0100 0.969 0.0100
+B2U CAG HAG SINGLE n 1.089 0.0100 0.969 0.0100
+B2U CAH HAI SINGLE n 1.089 0.0100 0.995 0.0100
+B2U CAL HA2 SINGLE n 1.089 0.0100 0.971 0.0171
+B2U CAL HA3 SINGLE n 1.089 0.0100 0.971 0.0171
+B2U CAL HA1 SINGLE n 1.089 0.0100 0.971 0.0171
+B2U OBB H2  SINGLE n 0.966 0.0059 0.861 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -130,86 +130,87 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-B2U          CG         CD1         CE1     120.624    1.50
-B2U          CG         CD1         HD1     119.591    1.50
-B2U         CE1         CD1         HD1     119.786    1.50
-B2U         CD1         CE1          CZ     120.325    1.50
-B2U         CD1         CE1         HE1     119.792    1.50
-B2U          CZ         CE1         HE1     119.883    1.50
-B2U         CE2          CZ         CE1     120.043    1.50
-B2U         CE2          CZ          HZ     119.979    1.50
-B2U         CE1          CZ          HZ     119.979    1.50
-B2U         CD2         CE2          CZ     120.325    1.50
-B2U         CD2         CE2         HE2     119.792    1.50
-B2U          CZ         CE2         HE2     119.883    1.50
-B2U          CG         CD2         CE2     120.624    1.50
-B2U          CG         CD2         HD2     119.591    1.50
-B2U         CE2         CD2         HD2     119.786    1.50
-B2U          CB          CG         CD2     120.970    1.50
-B2U          CB          CG         CD1     120.970    1.50
-B2U         CD2          CG         CD1     118.060    1.50
-B2U          CA          CB          CG     113.563    1.55
-B2U          CA          CB         HB1     108.745    1.50
-B2U          CA          CB         HB2     108.745    1.50
-B2U          CG          CB         HB1     108.862    1.50
-B2U          CG          CB         HB2     108.862    1.50
-B2U         HB1          CB         HB2     107.782    1.50
-B2U           N          CA           C     110.522    1.86
-B2U           N          CA          CB     111.151    1.50
-B2U           N          CA         HAM     108.209    1.50
-B2U           C          CA          CB     108.347    3.00
-B2U           C          CA         HAM     108.456    1.50
-B2U          CB          CA         HAM     108.204    1.50
-B2U         OXT           C          CA     117.245    1.50
-B2U         OXT           C           O     125.509    1.50
-B2U          CA           C           O     117.245    1.50
-B2U         CAN           N          CA     121.852    1.50
-B2U         CAN           N           H     119.360    1.94
-B2U          CA           N           H     118.788    1.91
-B2U         OAX         CAN         CAA     120.744    1.50
-B2U         OAX         CAN           N     122.442    1.50
-B2U         CAA         CAN           N     116.814    1.50
-B2U         CAF         CAA         CAN     121.716    2.27
-B2U         CAF         CAA         CAB     118.794    1.50
-B2U         CAN         CAA         CAB     119.490    2.89
-B2U         CAA         CAB         CAC     120.312    1.50
-B2U         CAA         CAB         HAB     119.640    1.50
-B2U         CAC         CAB         HAB     120.048    1.50
-B2U         CAD         CAC         CAB     120.452    1.50
-B2U         CAD         CAC         CLA     120.542    1.90
-B2U         CAB         CAC         CLA     119.006    1.68
-B2U         CAE         CAD         CAG     119.536    1.58
-B2U         CAE         CAD         CAC     119.847    1.50
-B2U         CAG         CAD         CAC     120.617    1.97
-B2U         CAH         CAG         CAD     111.016    1.50
-B2U         CAH         CAG         HAH     109.388    1.50
-B2U         CAH         CAG         HAG     109.388    1.50
-B2U         CAD         CAG         HAH     109.223    1.50
-B2U         CAD         CAG         HAG     109.223    1.50
-B2U         HAH         CAG         HAG     108.135    1.50
-B2U         OAI         CAH         CAL     105.473    1.50
-B2U         OAI         CAH         CAG     110.381    1.50
-B2U         OAI         CAH         HAI     109.005    1.50
-B2U         CAL         CAH         CAG     113.671    1.50
-B2U         CAL         CAH         HAI     109.072    1.50
-B2U         CAG         CAH         HAI     109.018    1.50
-B2U         CAH         CAL         HA2     109.471    1.50
-B2U         CAH         CAL         HA3     109.471    1.50
-B2U         CAH         CAL         HA1     109.471    1.50
-B2U         HA2         CAL         HA3     109.383    1.59
-B2U         HA2         CAL         HA1     109.383    1.59
-B2U         HA3         CAL         HA1     109.383    1.59
-B2U         CAJ         OAI         CAH     118.808    1.50
-B2U         OAK         CAJ         OAI     117.281    1.50
-B2U         OAK         CAJ         CAE     123.415    1.50
-B2U         OAI         CAJ         CAE     119.304    1.50
-B2U         CAJ         CAE         CAF     119.716    1.50
-B2U         CAJ         CAE         CAD     120.477    1.50
-B2U         CAF         CAE         CAD     119.807    1.50
-B2U         OBB         CAF         CAE     118.166    2.42
-B2U         OBB         CAF         CAA     121.046    3.00
-B2U         CAE         CAF         CAA     120.788    1.50
-B2U         CAF         OBB          H2     120.000    3.00
+B2U CG  CD1 CE1 120.624 1.50
+B2U CG  CD1 HD1 119.591 1.50
+B2U CE1 CD1 HD1 119.786 1.50
+B2U CD1 CE1 CZ  120.325 1.50
+B2U CD1 CE1 HE1 119.792 1.50
+B2U CZ  CE1 HE1 119.883 1.50
+B2U CE2 CZ  CE1 120.043 1.50
+B2U CE2 CZ  HZ  119.979 1.50
+B2U CE1 CZ  HZ  119.979 1.50
+B2U CD2 CE2 CZ  120.325 1.50
+B2U CD2 CE2 HE2 119.792 1.50
+B2U CZ  CE2 HE2 119.883 1.50
+B2U CG  CD2 CE2 120.624 1.50
+B2U CG  CD2 HD2 119.591 1.50
+B2U CE2 CD2 HD2 119.786 1.50
+B2U CB  CG  CD2 120.970 1.50
+B2U CB  CG  CD1 120.970 1.50
+B2U CD2 CG  CD1 118.060 1.50
+B2U CA  CB  CG  113.563 1.55
+B2U CA  CB  HB1 108.745 1.50
+B2U CA  CB  HB2 108.745 1.50
+B2U CG  CB  HB1 108.862 1.50
+B2U CG  CB  HB2 108.862 1.50
+B2U HB1 CB  HB2 107.782 1.50
+B2U N   CA  C   110.522 1.86
+B2U N   CA  CB  111.151 1.50
+B2U N   CA  HAM 108.209 1.50
+B2U C   CA  CB  108.347 3.00
+B2U C   CA  HAM 108.456 1.50
+B2U CB  CA  HAM 108.204 1.50
+B2U OXT C   CA  117.245 1.50
+B2U OXT C   O   125.509 1.50
+B2U CA  C   O   117.245 1.50
+B2U CAN N   CA  121.852 1.50
+B2U CAN N   H   119.360 1.94
+B2U CA  N   H   118.788 1.91
+B2U OAX CAN CAA 120.744 1.50
+B2U OAX CAN N   122.442 1.50
+B2U CAA CAN N   116.814 1.50
+B2U CAF CAA CAN 121.716 2.27
+B2U CAF CAA CAB 118.794 1.50
+B2U CAN CAA CAB 119.490 2.89
+B2U CAA CAB CAC 120.312 1.50
+B2U CAA CAB HAB 119.640 1.50
+B2U CAC CAB HAB 120.048 1.50
+B2U CAD CAC CAB 120.452 1.50
+B2U CAD CAC CLA 120.542 1.90
+B2U CAB CAC CLA 119.006 1.68
+B2U CAE CAD CAG 119.536 1.58
+B2U CAE CAD CAC 119.847 1.50
+B2U CAG CAD CAC 120.617 1.97
+B2U CAH CAG CAD 111.016 1.50
+B2U CAH CAG HAH 109.388 1.50
+B2U CAH CAG HAG 109.388 1.50
+B2U CAD CAG HAH 109.223 1.50
+B2U CAD CAG HAG 109.223 1.50
+B2U HAH CAG HAG 108.135 1.50
+B2U OAI CAH CAL 105.473 1.50
+B2U OAI CAH CAG 110.381 1.50
+B2U OAI CAH HAI 109.005 1.50
+B2U CAL CAH CAG 113.671 1.50
+B2U CAL CAH HAI 109.072 1.50
+B2U CAG CAH HAI 109.018 1.50
+B2U CAH CAL HA2 109.471 1.50
+B2U CAH CAL HA3 109.471 1.50
+B2U CAH CAL HA1 109.471 1.50
+B2U HA2 CAL HA3 109.383 1.59
+B2U HA2 CAL HA1 109.383 1.59
+B2U HA3 CAL HA1 109.383 1.59
+B2U CAJ OAI CAH 118.808 1.50
+B2U OAK CAJ OAI 117.281 1.50
+B2U OAK CAJ CAE 123.415 1.50
+B2U OAI CAJ CAE 119.304 1.50
+B2U CAJ CAE CAF 119.716 1.50
+B2U CAJ CAE CAD 120.477 1.50
+B2U CAF CAE CAD 119.807 1.50
+B2U OBB CAF CAE 118.166 2.42
+B2U OBB CAF CAA 121.046 3.00
+B2U CAE CAF CAA 120.788 1.50
+B2U CAF OBB H2  120.000 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -220,31 +221,32 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-B2U              const_45          CG         CD1         CE1          CZ       0.000    10.0     2
-B2U              const_22         CE1         CD1          CG          CB     180.000    10.0     2
-B2U            sp2_sp2_15         OAX         CAN           N          CA       0.000     5.0     2
-B2U            sp2_sp2_10         CAF         CAA         CAN         OAX       0.000     5.0     2
-B2U              const_43         CAN         CAA         CAB         CAC     180.000    10.0     2
-B2U       const_sp2_sp2_4         CAN         CAA         CAF         OBB       0.000     5.0     2
-B2U              const_18         CAA         CAB         CAC         CLA     180.000    10.0     2
-B2U              const_15         CLA         CAC         CAD         CAE     180.000    10.0     2
-B2U             sp2_sp3_1         CAE         CAD         CAG         CAH       0.000    10.0     6
-B2U       const_sp2_sp2_9         CAG         CAD         CAE         CAJ       0.000     5.0     2
-B2U             sp3_sp3_5         CAD         CAG         CAH         CAL     180.000    10.0     3
-B2U              const_37         CD1         CE1          CZ         CE2       0.000    10.0     2
-B2U            sp3_sp3_13         OAI         CAH         CAL         HA2     180.000    10.0     3
-B2U             sp3_sp3_2         CAL         CAH         OAI         CAJ      60.000    10.0     3
-B2U             sp2_sp2_6         OAK         CAJ         OAI         CAH     180.000     5.0     2
-B2U             sp2_sp2_4         CAF         CAE         CAJ         OAK       0.000     5.0     2
-B2U       const_sp2_sp2_8         CAJ         CAE         CAF         OBB       0.000     5.0     2
-B2U             sp2_sp2_7         CAE         CAF         OBB          H2     180.000     5.0     2
-B2U              const_33         CD2         CE2          CZ         CE1       0.000    10.0     2
-B2U              const_29          CG         CD2         CE2          CZ       0.000    10.0     2
-B2U              const_26         CE2         CD2          CG          CB     180.000    10.0     2
-B2U            sp2_sp3_20         CD2          CG          CB          CA     -90.000    10.0     6
-B2U            sp3_sp3_22           N          CA          CB          CG     180.000    10.0     3
-B2U             sp2_sp3_7         CAN           N          CA           C       0.000    10.0     6
-B2U            sp2_sp3_13         OXT           C          CA           N       0.000    10.0     6
+B2U const_45        CG  CD1 CE1 CZ  0.000   10.0 2
+B2U const_22        CE1 CD1 CG  CB  180.000 10.0 2
+B2U sp2_sp2_15      OAX CAN N   CA  0.000   5.0  2
+B2U sp2_sp2_10      CAF CAA CAN OAX 0.000   5.0  2
+B2U const_43        CAN CAA CAB CAC 180.000 10.0 2
+B2U const_sp2_sp2_4 CAN CAA CAF OBB 0.000   5.0  2
+B2U const_18        CAA CAB CAC CLA 180.000 10.0 2
+B2U const_15        CLA CAC CAD CAE 180.000 10.0 2
+B2U sp2_sp3_1       CAE CAD CAG CAH 0.000   10.0 6
+B2U const_sp2_sp2_9 CAG CAD CAE CAJ 0.000   5.0  2
+B2U sp3_sp3_5       CAD CAG CAH CAL 180.000 10.0 3
+B2U const_37        CD1 CE1 CZ  CE2 0.000   10.0 2
+B2U sp3_sp3_13      OAI CAH CAL HA2 180.000 10.0 3
+B2U sp3_sp3_2       CAL CAH OAI CAJ 60.000  10.0 3
+B2U sp2_sp2_6       OAK CAJ OAI CAH 180.000 5.0  2
+B2U sp2_sp2_4       CAF CAE CAJ OAK 0.000   5.0  2
+B2U const_sp2_sp2_8 CAJ CAE CAF OBB 0.000   5.0  2
+B2U sp2_sp2_7       CAE CAF OBB H2  180.000 5.0  2
+B2U const_33        CD2 CE2 CZ  CE1 0.000   10.0 2
+B2U const_29        CG  CD2 CE2 CZ  0.000   10.0 2
+B2U const_26        CE2 CD2 CG  CB  180.000 10.0 2
+B2U sp2_sp3_20      CD2 CG  CB  CA  -90.000 10.0 6
+B2U sp3_sp3_22      N   CA  CB  CG  180.000 10.0 3
+B2U sp2_sp3_7       CAN N   CA  C   0.000   10.0 6
+B2U sp2_sp3_13      OXT C   CA  N   0.000   10.0 6
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -253,72 +255,84 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-B2U    chir_1    CA    N    C    CB    negative
-B2U    chir_2    CAH    OAI    CAG    CAL    negative
+B2U chir_1 CA  N   C   CB  negative
+B2U chir_2 CAH OAI CAG CAL negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-B2U    plan-1          CB   0.020
-B2U    plan-1         CD1   0.020
-B2U    plan-1         CD2   0.020
-B2U    plan-1         CE1   0.020
-B2U    plan-1         CE2   0.020
-B2U    plan-1          CG   0.020
-B2U    plan-1          CZ   0.020
-B2U    plan-1         HD1   0.020
-B2U    plan-1         HD2   0.020
-B2U    plan-1         HE1   0.020
-B2U    plan-1         HE2   0.020
-B2U    plan-1          HZ   0.020
-B2U    plan-2         CAA   0.020
-B2U    plan-2         CAB   0.020
-B2U    plan-2         CAC   0.020
-B2U    plan-2         CAD   0.020
-B2U    plan-2         CAE   0.020
-B2U    plan-2         CAF   0.020
-B2U    plan-2         CAG   0.020
-B2U    plan-2         CAJ   0.020
-B2U    plan-2         CAN   0.020
-B2U    plan-2         CLA   0.020
-B2U    plan-2         HAB   0.020
-B2U    plan-2         OBB   0.020
-B2U    plan-3           C   0.020
-B2U    plan-3          CA   0.020
-B2U    plan-3           O   0.020
-B2U    plan-3         OXT   0.020
-B2U    plan-4          CA   0.020
-B2U    plan-4         CAN   0.020
-B2U    plan-4           H   0.020
-B2U    plan-4           N   0.020
-B2U    plan-5         CAA   0.020
-B2U    plan-5         CAN   0.020
-B2U    plan-5           N   0.020
-B2U    plan-5         OAX   0.020
-B2U    plan-6         CAE   0.020
-B2U    plan-6         CAJ   0.020
-B2U    plan-6         OAI   0.020
-B2U    plan-6         OAK   0.020
+B2U plan-1 CB  0.020
+B2U plan-1 CD1 0.020
+B2U plan-1 CD2 0.020
+B2U plan-1 CE1 0.020
+B2U plan-1 CE2 0.020
+B2U plan-1 CG  0.020
+B2U plan-1 CZ  0.020
+B2U plan-1 HD1 0.020
+B2U plan-1 HD2 0.020
+B2U plan-1 HE1 0.020
+B2U plan-1 HE2 0.020
+B2U plan-1 HZ  0.020
+B2U plan-2 CAA 0.020
+B2U plan-2 CAB 0.020
+B2U plan-2 CAC 0.020
+B2U plan-2 CAD 0.020
+B2U plan-2 CAE 0.020
+B2U plan-2 CAF 0.020
+B2U plan-2 CAG 0.020
+B2U plan-2 CAJ 0.020
+B2U plan-2 CAN 0.020
+B2U plan-2 CLA 0.020
+B2U plan-2 HAB 0.020
+B2U plan-2 OBB 0.020
+B2U plan-3 C   0.020
+B2U plan-3 CA  0.020
+B2U plan-3 O   0.020
+B2U plan-3 OXT 0.020
+B2U plan-4 CA  0.020
+B2U plan-4 CAN 0.020
+B2U plan-4 H   0.020
+B2U plan-4 N   0.020
+B2U plan-5 CAA 0.020
+B2U plan-5 CAN 0.020
+B2U plan-5 N   0.020
+B2U plan-5 OAX 0.020
+B2U plan-6 CAE 0.020
+B2U plan-6 CAJ 0.020
+B2U plan-6 OAI 0.020
+B2U plan-6 OAK 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-B2U           SMILES              ACDLabs 12.01                                                                                                                     c1ccccc1CC(C(O)=O)NC(=O)c3cc(Cl)c2CC(C)OC(c2c3O)=O
-B2U            InChI                InChI  1.03 InChI=1S/C20H18ClNO6/c1-10-7-12-14(21)9-13(17(23)16(12)20(27)28-10)18(24)22-15(19(25)26)8-11-5-3-2-4-6-11/h2-6,9-10,15,23H,7-8H2,1H3,(H,22,24)(H,25,26)/t10-,15-/m1/s1
-B2U         InChIKey                InChI  1.03                                                                                                                                            RWQKHEORZBHNRI-MEBBXXQBSA-N
-B2U SMILES_CANONICAL               CACTVS 3.385                                                                                                          C[C@@H]1Cc2c(Cl)cc(c(O)c2C(=O)O1)C(=O)N[C@H](Cc3ccccc3)C(O)=O
-B2U           SMILES               CACTVS 3.385                                                                                                             C[CH]1Cc2c(Cl)cc(c(O)c2C(=O)O1)C(=O)N[CH](Cc3ccccc3)C(O)=O
-B2U SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                          C[C@@H]1Cc2c(cc(c(c2C(=O)O1)O)C(=O)N[C@H](Cc3ccccc3)C(=O)O)Cl
-B2U           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                   CC1Cc2c(cc(c(c2C(=O)O1)O)C(=O)NC(Cc3ccccc3)C(=O)O)Cl
+B2U SMILES           ACDLabs              12.01 c1ccccc1CC(C(O)=O)NC(=O)c3cc(Cl)c2CC(C)OC(c2c3O)=O
+B2U InChI            InChI                1.03  InChI=1S/C20H18ClNO6/c1-10-7-12-14(21)9-13(17(23)16(12)20(27)28-10)18(24)22-15(19(25)26)8-11-5-3-2-4-6-11/h2-6,9-10,15,23H,7-8H2,1H3,(H,22,24)(H,25,26)/t10-,15-/m1/s1
+B2U InChIKey         InChI                1.03  RWQKHEORZBHNRI-MEBBXXQBSA-N
+B2U SMILES_CANONICAL CACTVS               3.385 C[C@@H]1Cc2c(Cl)cc(c(O)c2C(=O)O1)C(=O)N[C@H](Cc3ccccc3)C(O)=O
+B2U SMILES           CACTVS               3.385 C[CH]1Cc2c(Cl)cc(c(O)c2C(=O)O1)C(=O)N[CH](Cc3ccccc3)C(O)=O
+B2U SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 C[C@@H]1Cc2c(cc(c(c2C(=O)O1)O)C(=O)N[C@H](Cc3ccccc3)C(=O)O)Cl
+B2U SMILES           "OpenEye OEToolkits" 2.0.6 CC1Cc2c(cc(c(c2C(=O)O1)O)C(=O)NC(Cc3ccccc3)C(=O)O)Cl
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-B2U acedrg               243         "dictionary generator"                  
-B2U acedrg_database      11          "data source"                           
-B2U rdkit                2017.03.2   "Chemoinformatics tool"
-B2U refmac5              5.8.0238    "optimization tool"                     
+B2U acedrg          243       "dictionary generator"
+B2U acedrg_database 11        "data source"
+B2U rdkit           2017.03.2 "Chemoinformatics tool"
+B2U refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+B2U M-peptide OXT O
+B2U M-peptide CAN CN
+B2U M-peptide O   OXT

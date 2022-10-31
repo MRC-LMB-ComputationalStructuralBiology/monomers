@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-CDS     CDS      "(2R)-2-[(1R)-1-{[(2Z)-2-(2-AMINO-1,3-THIAZOL-4-YL)-2-(METHOXYIMINO)ACETYL]AMINO}-2-OXOETHYL]-5-[(Z)-2-(4-METHYL-1,3-THIAZOL-5-YL)VINYL]-3,6-DIHYDRO-2H-1,3-THIAZINE-4-CARBOXYLIC ACID"     NON-POLYMER     52     33     .     
-#
+CDS CDS "(2R)-2-[(1R)-1-{[(2Z)-2-(2-AMINO-1,3-THIAZOL-4-YL)-2-(METHOXYIMINO)ACETYL]AMINO}-2-OXOETHYL]-5-[(Z)-2-(4-METHYL-1,3-THIAZOL-5-YL)VINYL]-3,6-DIHYDRO-2H-1,3-THIAZINE-4-CARBOXYLIC ACID" NON-POLYMER 52 33 .
+
 data_comp_CDS
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,58 +19,59 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-CDS     O23     O       O       0       17.136      10.147      36.638      
-CDS     C22     C       C       0       18.221      9.696       37.010      
-CDS     C24     C       C       0       18.416      8.178       36.980      
-CDS     C28     C       CR5     0       17.555      7.306       36.165      
-CDS     N32     N       NRD5    0       17.296      5.961       36.532      
-CDS     C31     C       CR5     0       16.488      5.332       35.629      
-CDS     N33     N       NH2     0       16.070      4.074       35.705      
-CDS     S30     S       S2      0       16.074      6.360       34.380      
-CDS     C29     C       CR15    0       16.937      7.658       34.967      
-CDS     N25     N       N       0       19.363      7.548       37.595      
-CDS     O26     O       O2      0       20.140      8.358       38.438      
-CDS     C27     C       CH3     0       20.879      7.519       39.333      
-CDS     N21     N       NH1     0       19.261      10.493      37.318      
-CDS     C7      C       CH1     0       19.299      11.940      37.132      
-CDS     C8      C       C1      0       19.894      12.280      35.754      
-CDS     O9      O       O       0       20.817      11.661      35.322      
-CDS     C6      C       CH1     0       20.066      12.670      38.247      
-CDS     S1      S       S2      0       19.016      12.751      39.732      
-CDS     N5      N       NR6     0       21.375      12.051      38.502      
-CDS     C4      C       CR6     0       21.801      11.334      39.614      
-CDS     C10     C       C       0       23.264      10.904      39.598      
-CDS     O12     O       O       0       24.085      11.799      39.517      
-CDS     O11     O       OC      -1      23.476      9.708       39.668      
-CDS     C3      C       CR6     0       20.932      11.072      40.716      
-CDS     C2      C       CH2     0       19.450      11.196      40.529      
-CDS     C13     C       C1      0       21.408      10.644      42.010      
-CDS     C14     C       C1      0       22.467      11.140      42.687      
-CDS     C15     C       CR5     0       22.836      12.525      42.849      
-CDS     C19     C       CR5     0       23.979      13.016      43.470      
-CDS     C20     C       CH3     0       25.067      12.229      44.117      
-CDS     N18     N       NRD5    0       24.067      14.395      43.465      
-CDS     C17     C       CR15    0       23.012      14.972      42.844      
-CDS     S16     S       S2      0       21.945      13.821      42.289      
-CDS     H331    H       H       0       15.439      3.790       35.166      
-CDS     H332    H       H       0       16.430      3.530       36.293      
-CDS     H29     H       H       0       16.959      8.488       34.522      
-CDS     H271    H       H       0       21.505      6.978       38.827      
-CDS     H272    H       H       0       20.268      6.941       39.817      
-CDS     H273    H       H       0       21.366      8.071       39.964      
-CDS     HN21    H       H       0       19.972      10.111      37.648      
-CDS     H7      H       H       0       18.367      12.271      37.135      
-CDS     H8      H       H       0       19.522      12.991      35.250      
-CDS     H6      H       H       0       20.214      13.598      37.936      
-CDS     HN5     H       H       0       21.948      12.166      37.843      
-CDS     H21     H       H       0       19.129      10.452      39.985      
-CDS     H22     H       H       0       19.008      11.149      41.399      
-CDS     H13     H       H       0       20.921      9.949       42.409      
-CDS     H14     H       H       0       23.032      10.514      43.106      
-CDS     H201    H       H       0       25.802      12.817      44.353      
-CDS     H202    H       H       0       25.385      11.548      43.503      
-CDS     H203    H       H       0       24.726      11.803      44.919      
-CDS     H17     H       H       0       22.871      15.891      42.728      
+CDS O23  O O    0  17.136 10.147 36.638
+CDS C22  C C    0  18.221 9.696  37.010
+CDS C24  C C    0  18.416 8.178  36.980
+CDS C28  C CR5  0  17.555 7.306  36.165
+CDS N32  N NRD5 0  17.296 5.961  36.532
+CDS C31  C CR5  0  16.488 5.332  35.629
+CDS N33  N NH2  0  16.070 4.074  35.705
+CDS S30  S S2   0  16.074 6.360  34.380
+CDS C29  C CR15 0  16.937 7.658  34.967
+CDS N25  N N    0  19.363 7.548  37.595
+CDS O26  O O2   0  20.140 8.358  38.438
+CDS C27  C CH3  0  20.879 7.519  39.333
+CDS N21  N NH1  0  19.261 10.493 37.318
+CDS C7   C CH1  0  19.299 11.940 37.132
+CDS C8   C C1   0  19.894 12.280 35.754
+CDS O9   O O    0  20.817 11.661 35.322
+CDS C6   C CH1  0  20.066 12.670 38.247
+CDS S1   S S2   0  19.016 12.751 39.732
+CDS N5   N NR6  0  21.375 12.051 38.502
+CDS C4   C CR6  0  21.801 11.334 39.614
+CDS C10  C C    0  23.264 10.904 39.598
+CDS O12  O O    0  24.085 11.799 39.517
+CDS O11  O OC   -1 23.476 9.708  39.668
+CDS C3   C CR6  0  20.932 11.072 40.716
+CDS C2   C CH2  0  19.450 11.196 40.529
+CDS C13  C C1   0  21.408 10.644 42.010
+CDS C14  C C1   0  22.467 11.140 42.687
+CDS C15  C CR5  0  22.836 12.525 42.849
+CDS C19  C CR5  0  23.979 13.016 43.470
+CDS C20  C CH3  0  25.067 12.229 44.117
+CDS N18  N NRD5 0  24.067 14.395 43.465
+CDS C17  C CR15 0  23.012 14.972 42.844
+CDS S16  S S2   0  21.945 13.821 42.289
+CDS H331 H H    0  15.439 3.790  35.166
+CDS H332 H H    0  16.430 3.530  36.293
+CDS H29  H H    0  16.959 8.488  34.522
+CDS H271 H H    0  21.505 6.978  38.827
+CDS H272 H H    0  20.268 6.941  39.817
+CDS H273 H H    0  21.366 8.071  39.964
+CDS HN21 H H    0  19.972 10.111 37.648
+CDS H7   H H    0  18.367 12.271 37.135
+CDS H8   H H    0  19.522 12.991 35.250
+CDS H6   H H    0  20.214 13.598 37.936
+CDS HN5  H H    0  21.948 12.166 37.843
+CDS H21  H H    0  19.129 10.452 39.985
+CDS H22  H H    0  19.008 11.149 41.399
+CDS H13  H H    0  20.921 9.949  42.409
+CDS H14  H H    0  23.032 10.514 43.106
+CDS H201 H H    0  25.802 12.817 44.353
+CDS H202 H H    0  25.385 11.548 43.503
+CDS H203 H H    0  24.726 11.803 44.919
+CDS H17  H H    0  22.871 15.891 42.728
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -83,60 +82,61 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-CDS         O23         C22      DOUBLE       n     1.231  0.0100     1.231  0.0100
-CDS         C22         N21      SINGLE       n     1.334  0.0149     1.334  0.0149
-CDS         C22         C24      SINGLE       n     1.498  0.0200     1.498  0.0200
-CDS         C24         C28      SINGLE       n     1.467  0.0100     1.467  0.0100
-CDS         C24         N25      DOUBLE       n     1.285  0.0117     1.285  0.0117
-CDS         C28         C29      DOUBLE       y     1.379  0.0196     1.379  0.0196
-CDS         C28         N32      SINGLE       y     1.377  0.0200     1.377  0.0200
-CDS         N32         C31      DOUBLE       y     1.354  0.0165     1.354  0.0165
-CDS         C31         S30      SINGLE       y     1.695  0.0200     1.695  0.0200
-CDS         C31         N33      SINGLE       n     1.328  0.0105     1.328  0.0105
-CDS         S30         C29      SINGLE       y     1.695  0.0200     1.695  0.0200
-CDS         N25         O26      SINGLE       n     1.401  0.0129     1.401  0.0129
-CDS         O26         C27      SINGLE       n     1.431  0.0100     1.431  0.0100
-CDS         N21          C7      SINGLE       n     1.455  0.0100     1.455  0.0100
-CDS          C7          C8      SINGLE       n     1.539  0.0100     1.539  0.0100
-CDS          C7          C6      SINGLE       n     1.528  0.0200     1.528  0.0200
-CDS          C8          O9      DOUBLE       n     1.191  0.0200     1.191  0.0200
-CDS          C6          N5      SINGLE       n     1.462  0.0118     1.462  0.0118
-CDS          C6          S1      SINGLE       n     1.816  0.0145     1.816  0.0145
-CDS          S1          C2      SINGLE       n     1.802  0.0100     1.802  0.0100
-CDS          N5          C4      SINGLE       n     1.370  0.0200     1.370  0.0200
-CDS          C4         C10      SINGLE       n     1.523  0.0100     1.523  0.0100
-CDS          C4          C3      DOUBLE       n     1.408  0.0200     1.408  0.0200
-CDS         C10         O12      DOUBLE       n     1.217  0.0200     1.217  0.0200
-CDS         C10         O11      SINGLE       n     1.217  0.0200     1.217  0.0200
-CDS          C3          C2      SINGLE       n     1.499  0.0100     1.499  0.0100
-CDS          C3         C13      SINGLE       n     1.432  0.0200     1.432  0.0200
-CDS         C13         C14      DOUBLE       n     1.340  0.0200     1.340  0.0200
-CDS         C14         C15      SINGLE       n     1.429  0.0200     1.429  0.0200
-CDS         C15         S16      SINGLE       y     1.695  0.0200     1.695  0.0200
-CDS         C15         C19      DOUBLE       y     1.373  0.0200     1.373  0.0200
-CDS         C19         N18      SINGLE       y     1.339  0.0200     1.339  0.0200
-CDS         C19         C20      SINGLE       n     1.491  0.0100     1.491  0.0100
-CDS         N18         C17      DOUBLE       y     1.347  0.0132     1.347  0.0132
-CDS         C17         S16      SINGLE       y     1.695  0.0200     1.695  0.0200
-CDS         N33        H331      SINGLE       n     1.016  0.0100     0.877  0.0200
-CDS         N33        H332      SINGLE       n     1.016  0.0100     0.877  0.0200
-CDS         C29         H29      SINGLE       n     1.082  0.0130     0.942  0.0200
-CDS         C27        H271      SINGLE       n     1.089  0.0100     0.970  0.0177
-CDS         C27        H272      SINGLE       n     1.089  0.0100     0.970  0.0177
-CDS         C27        H273      SINGLE       n     1.089  0.0100     0.970  0.0177
-CDS         N21        HN21      SINGLE       n     1.016  0.0100     0.874  0.0200
-CDS          C7          H7      SINGLE       n     1.089  0.0100     0.989  0.0198
-CDS          C8          H8      SINGLE       n     1.082  0.0130     0.947  0.0200
-CDS          C6          H6      SINGLE       n     1.089  0.0100     0.990  0.0200
-CDS          N5         HN5      SINGLE       n     1.016  0.0100     0.880  0.0200
-CDS          C2         H21      SINGLE       n     1.089  0.0100     0.977  0.0141
-CDS          C2         H22      SINGLE       n     1.089  0.0100     0.977  0.0141
-CDS         C13         H13      SINGLE       n     1.082  0.0130     0.938  0.0146
-CDS         C14         H14      SINGLE       n     1.082  0.0130     0.942  0.0200
-CDS         C20        H201      SINGLE       n     1.089  0.0100     0.970  0.0153
-CDS         C20        H202      SINGLE       n     1.089  0.0100     0.970  0.0153
-CDS         C20        H203      SINGLE       n     1.089  0.0100     0.970  0.0153
-CDS         C17         H17      SINGLE       n     1.082  0.0130     0.937  0.0100
+CDS O23 C22  DOUBLE n 1.231 0.0100 1.231 0.0100
+CDS C22 N21  SINGLE n 1.334 0.0149 1.334 0.0149
+CDS C22 C24  SINGLE n 1.498 0.0200 1.498 0.0200
+CDS C24 C28  SINGLE n 1.467 0.0100 1.467 0.0100
+CDS C24 N25  DOUBLE n 1.285 0.0117 1.285 0.0117
+CDS C28 C29  DOUBLE y 1.379 0.0196 1.379 0.0196
+CDS C28 N32  SINGLE y 1.377 0.0200 1.377 0.0200
+CDS N32 C31  DOUBLE y 1.354 0.0165 1.354 0.0165
+CDS C31 S30  SINGLE y 1.695 0.0200 1.695 0.0200
+CDS C31 N33  SINGLE n 1.328 0.0105 1.328 0.0105
+CDS S30 C29  SINGLE y 1.695 0.0200 1.695 0.0200
+CDS N25 O26  SINGLE n 1.401 0.0129 1.401 0.0129
+CDS O26 C27  SINGLE n 1.431 0.0100 1.431 0.0100
+CDS N21 C7   SINGLE n 1.455 0.0100 1.455 0.0100
+CDS C7  C8   SINGLE n 1.539 0.0100 1.539 0.0100
+CDS C7  C6   SINGLE n 1.528 0.0200 1.528 0.0200
+CDS C8  O9   DOUBLE n 1.191 0.0200 1.191 0.0200
+CDS C6  N5   SINGLE n 1.462 0.0118 1.462 0.0118
+CDS C6  S1   SINGLE n 1.816 0.0145 1.816 0.0145
+CDS S1  C2   SINGLE n 1.802 0.0100 1.802 0.0100
+CDS N5  C4   SINGLE n 1.370 0.0200 1.370 0.0200
+CDS C4  C10  SINGLE n 1.523 0.0100 1.523 0.0100
+CDS C4  C3   DOUBLE n 1.408 0.0200 1.408 0.0200
+CDS C10 O12  DOUBLE n 1.217 0.0200 1.217 0.0200
+CDS C10 O11  SINGLE n 1.217 0.0200 1.217 0.0200
+CDS C3  C2   SINGLE n 1.499 0.0100 1.499 0.0100
+CDS C3  C13  SINGLE n 1.432 0.0200 1.432 0.0200
+CDS C13 C14  DOUBLE n 1.340 0.0200 1.340 0.0200
+CDS C14 C15  SINGLE n 1.429 0.0200 1.429 0.0200
+CDS C15 S16  SINGLE y 1.695 0.0200 1.695 0.0200
+CDS C15 C19  DOUBLE y 1.373 0.0200 1.373 0.0200
+CDS C19 N18  SINGLE y 1.339 0.0200 1.339 0.0200
+CDS C19 C20  SINGLE n 1.491 0.0100 1.491 0.0100
+CDS N18 C17  DOUBLE y 1.347 0.0132 1.347 0.0132
+CDS C17 S16  SINGLE y 1.695 0.0200 1.695 0.0200
+CDS N33 H331 SINGLE n 1.016 0.0100 0.877 0.0200
+CDS N33 H332 SINGLE n 1.016 0.0100 0.877 0.0200
+CDS C29 H29  SINGLE n 1.082 0.0130 0.942 0.0200
+CDS C27 H271 SINGLE n 1.089 0.0100 0.970 0.0177
+CDS C27 H272 SINGLE n 1.089 0.0100 0.970 0.0177
+CDS C27 H273 SINGLE n 1.089 0.0100 0.970 0.0177
+CDS N21 HN21 SINGLE n 1.016 0.0100 0.874 0.0200
+CDS C7  H7   SINGLE n 1.089 0.0100 0.989 0.0198
+CDS C8  H8   SINGLE n 1.082 0.0130 0.947 0.0200
+CDS C6  H6   SINGLE n 1.089 0.0100 0.990 0.0200
+CDS N5  HN5  SINGLE n 1.016 0.0100 0.880 0.0200
+CDS C2  H21  SINGLE n 1.089 0.0100 0.977 0.0141
+CDS C2  H22  SINGLE n 1.089 0.0100 0.977 0.0141
+CDS C13 H13  SINGLE n 1.082 0.0130 0.938 0.0146
+CDS C14 H14  SINGLE n 1.082 0.0130 0.942 0.0200
+CDS C20 H201 SINGLE n 1.089 0.0100 0.970 0.0153
+CDS C20 H202 SINGLE n 1.089 0.0100 0.970 0.0153
+CDS C20 H203 SINGLE n 1.089 0.0100 0.970 0.0153
+CDS C17 H17  SINGLE n 1.082 0.0130 0.937 0.0100
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -144,94 +144,95 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-CDS         O23         C22         N21     122.961    1.83
-CDS         O23         C22         C24     118.608    1.54
-CDS         N21         C22         C24     118.431    3.00
-CDS         C22         C24         C28     122.513    3.00
-CDS         C22         C24         N25     117.209    3.00
-CDS         C28         C24         N25     120.279    3.00
-CDS         C24         C28         C29     128.808    3.00
-CDS         C24         C28         N32     122.488    1.50
-CDS         C29         C28         N32     108.704    1.50
-CDS         C28         N32         C31     105.700    1.59
-CDS         N32         C31         S30     108.532    3.00
-CDS         N32         C31         N33     126.664    2.12
-CDS         S30         C31         N33     124.804    3.00
-CDS         C31         N33        H331     119.811    1.50
-CDS         C31         N33        H332     119.811    1.50
-CDS        H331         N33        H332     120.377    1.82
-CDS         C31         S30         C29     108.532    3.00
-CDS         C28         C29         S30     108.532    3.00
-CDS         C28         C29         H29     128.300    1.50
-CDS         S30         C29         H29     123.168    3.00
-CDS         C24         N25         O26     111.365    1.50
-CDS         N25         O26         C27     108.634    1.50
-CDS         O26         C27        H271     109.449    1.50
-CDS         O26         C27        H272     109.449    1.50
-CDS         O26         C27        H273     109.449    1.50
-CDS        H271         C27        H272     109.461    1.50
-CDS        H271         C27        H273     109.461    1.50
-CDS        H272         C27        H273     109.461    1.50
-CDS         C22         N21          C7     122.589    2.50
-CDS         C22         N21        HN21     118.605    2.08
-CDS          C7         N21        HN21     118.806    1.91
-CDS         N21          C7          C8     110.921    1.74
-CDS         N21          C7          C6     112.102    2.36
-CDS         N21          C7          H7     108.169    1.50
-CDS          C8          C7          C6     113.355    2.65
-CDS          C8          C7          H7     108.186    1.50
-CDS          C6          C7          H7     109.342    1.50
-CDS          C7          C8          O9     120.289    1.60
-CDS          C7          C8          H8     119.547    2.53
-CDS          O9          C8          H8     120.163    1.50
-CDS          C7          C6          N5     110.271    2.01
-CDS          C7          C6          S1     107.746    3.00
-CDS          C7          C6          H6     107.642    1.65
-CDS          N5          C6          S1     110.151    1.60
-CDS          N5          C6          H6     109.078    1.50
-CDS          S1          C6          H6     108.373    1.68
-CDS          C6          S1          C2      99.411    2.27
-CDS          C6          N5          C4     122.646    2.69
-CDS          C6          N5         HN5     118.395    2.75
-CDS          C4          N5         HN5     118.959    1.50
-CDS          N5          C4         C10     118.922    3.00
-CDS          N5          C4          C3     120.071    1.66
-CDS         C10          C4          C3     121.007    2.59
-CDS          C4         C10         O12     116.187    1.68
-CDS          C4         C10         O11     116.187    1.68
-CDS         O12         C10         O11     127.626    1.50
-CDS          C4          C3          C2     119.248    3.00
-CDS          C4          C3         C13     119.325    3.00
-CDS          C2          C3         C13     121.426    3.00
-CDS          S1          C2          C3     111.860    2.17
-CDS          S1          C2         H21     109.111    1.50
-CDS          S1          C2         H22     109.111    1.50
-CDS          C3          C2         H21     109.181    1.50
-CDS          C3          C2         H22     109.181    1.50
-CDS         H21          C2         H22     108.104    1.50
-CDS          C3         C13         C14     125.599    1.50
-CDS          C3         C13         H13     115.838    1.50
-CDS         C14         C13         H13     118.563    2.36
-CDS         C13         C14         C15     124.414    3.00
-CDS         C13         C14         H14     118.075    1.50
-CDS         C15         C14         H14     117.511    1.81
-CDS         C14         C15         S16     121.362    3.00
-CDS         C14         C15         C19     130.231    3.00
-CDS         S16         C15         C19     108.407    3.00
-CDS         C15         C19         N18     108.809    1.50
-CDS         C15         C19         C20     131.329    2.88
-CDS         N18         C19         C20     119.862    1.50
-CDS         C19         C20        H201     109.591    1.50
-CDS         C19         C20        H202     109.591    1.50
-CDS         C19         C20        H203     109.591    1.50
-CDS        H201         C20        H202     109.354    1.50
-CDS        H201         C20        H203     109.354    1.50
-CDS        H202         C20        H203     109.354    1.50
-CDS         C19         N18         C17     105.970    1.50
-CDS         N18         C17         S16     108.407    3.00
-CDS         N18         C17         H17     126.856    1.50
-CDS         S16         C17         H17     124.737    3.00
-CDS         C15         S16         C17     108.407    3.00
+CDS O23  C22 N21  122.961 1.83
+CDS O23  C22 C24  118.608 1.54
+CDS N21  C22 C24  118.431 3.00
+CDS C22  C24 C28  122.513 3.00
+CDS C22  C24 N25  117.209 3.00
+CDS C28  C24 N25  120.279 3.00
+CDS C24  C28 C29  128.808 3.00
+CDS C24  C28 N32  122.488 1.50
+CDS C29  C28 N32  108.704 1.50
+CDS C28  N32 C31  105.700 1.59
+CDS N32  C31 S30  108.532 3.00
+CDS N32  C31 N33  126.664 2.12
+CDS S30  C31 N33  124.804 3.00
+CDS C31  N33 H331 119.811 1.50
+CDS C31  N33 H332 119.811 1.50
+CDS H331 N33 H332 120.377 1.82
+CDS C31  S30 C29  108.532 3.00
+CDS C28  C29 S30  108.532 3.00
+CDS C28  C29 H29  128.300 1.50
+CDS S30  C29 H29  123.168 3.00
+CDS C24  N25 O26  111.365 1.50
+CDS N25  O26 C27  108.634 1.50
+CDS O26  C27 H271 109.449 1.50
+CDS O26  C27 H272 109.449 1.50
+CDS O26  C27 H273 109.449 1.50
+CDS H271 C27 H272 109.461 1.50
+CDS H271 C27 H273 109.461 1.50
+CDS H272 C27 H273 109.461 1.50
+CDS C22  N21 C7   122.589 2.50
+CDS C22  N21 HN21 118.605 2.08
+CDS C7   N21 HN21 118.806 1.91
+CDS N21  C7  C8   110.921 1.74
+CDS N21  C7  C6   112.102 2.36
+CDS N21  C7  H7   108.169 1.50
+CDS C8   C7  C6   113.355 2.65
+CDS C8   C7  H7   108.186 1.50
+CDS C6   C7  H7   109.342 1.50
+CDS C7   C8  O9   120.289 1.60
+CDS C7   C8  H8   119.547 2.53
+CDS O9   C8  H8   120.163 1.50
+CDS C7   C6  N5   110.271 2.01
+CDS C7   C6  S1   107.746 3.00
+CDS C7   C6  H6   107.642 1.65
+CDS N5   C6  S1   110.151 1.60
+CDS N5   C6  H6   109.078 1.50
+CDS S1   C6  H6   108.373 1.68
+CDS C6   S1  C2   99.411  2.27
+CDS C6   N5  C4   122.646 2.69
+CDS C6   N5  HN5  118.395 2.75
+CDS C4   N5  HN5  118.959 1.50
+CDS N5   C4  C10  118.922 3.00
+CDS N5   C4  C3   120.071 1.66
+CDS C10  C4  C3   121.007 2.59
+CDS C4   C10 O12  116.187 1.68
+CDS C4   C10 O11  116.187 1.68
+CDS O12  C10 O11  127.626 1.50
+CDS C4   C3  C2   119.248 3.00
+CDS C4   C3  C13  119.325 3.00
+CDS C2   C3  C13  121.426 3.00
+CDS S1   C2  C3   111.860 2.17
+CDS S1   C2  H21  109.111 1.50
+CDS S1   C2  H22  109.111 1.50
+CDS C3   C2  H21  109.181 1.50
+CDS C3   C2  H22  109.181 1.50
+CDS H21  C2  H22  108.104 1.50
+CDS C3   C13 C14  125.599 1.50
+CDS C3   C13 H13  115.838 1.50
+CDS C14  C13 H13  118.563 2.36
+CDS C13  C14 C15  124.414 3.00
+CDS C13  C14 H14  118.075 1.50
+CDS C15  C14 H14  117.511 1.81
+CDS C14  C15 S16  121.362 3.00
+CDS C14  C15 C19  130.231 3.00
+CDS S16  C15 C19  108.407 3.00
+CDS C15  C19 N18  108.809 1.50
+CDS C15  C19 C20  131.329 2.88
+CDS N18  C19 C20  119.862 1.50
+CDS C19  C20 H201 109.591 1.50
+CDS C19  C20 H202 109.591 1.50
+CDS C19  C20 H203 109.591 1.50
+CDS H201 C20 H202 109.354 1.50
+CDS H201 C20 H203 109.354 1.50
+CDS H202 C20 H203 109.354 1.50
+CDS C19  N18 C17  105.970 1.50
+CDS N18  C17 S16  108.407 3.00
+CDS N18  C17 H17  126.856 1.50
+CDS S16  C17 H17  124.737 3.00
+CDS C15  S16 C17  108.407 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -242,37 +243,38 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-CDS             sp3_sp3_5        H271         C27         O26         N25     -60.000    10.0     3
-CDS            sp2_sp3_13         C22         N21          C7          C8       0.000    10.0     6
-CDS            sp2_sp3_19          O9          C8          C7         N21       0.000    10.0     6
-CDS             sp3_sp3_8          N5          C6          C7         N21     180.000    10.0     3
-CDS            sp3_sp3_18          C7          C6          S1          C2      60.000    10.0     3
-CDS             sp2_sp3_2          C4          N5          C6          C7     120.000    10.0     6
-CDS             sp3_sp3_1          C3          C2          S1          C6      60.000    10.0     3
-CDS             sp2_sp2_3         C10          C4          N5          C6     180.000     5.0     2
-CDS            sp2_sp2_28         O12         C10          C4          N5     180.000     5.0     2
-CDS             sp2_sp2_8         C13          C3          C4         C10       0.000     5.0     2
-CDS            sp2_sp2_11         O23         C22         N21          C7       0.000     5.0     2
-CDS            sp2_sp2_16         O23         C22         C24         N25     180.000     5.0     2
-CDS            sp2_sp3_10         C13          C3          C2          S1     180.000    10.0     6
-CDS            sp2_sp2_33         C14         C13          C3          C4       0.000     5.0     2
-CDS            sp2_sp2_36          C3         C13         C14         C15     180.000     5.0     2
-CDS            sp2_sp2_41         C13         C14         C15         S16       0.000     5.0     2
-CDS              const_24         C14         C15         C19         C20       0.000    10.0     2
-CDS       const_sp2_sp2_2         C14         C15         S16         C17     180.000     5.0     2
-CDS            sp2_sp3_25         C15         C19         C20        H201     150.000    10.0     6
-CDS       const_sp2_sp2_8         C20         C19         N18         C17     180.000     5.0     2
-CDS            sp2_sp2_17         C22         C24         C28         C29     180.000     5.0     2
-CDS            sp2_sp2_21         C22         C24         N25         O26     180.000     5.0     2
-CDS       const_sp2_sp2_5         S16         C17         N18         C19       0.000     5.0     2
-CDS       const_sp2_sp2_3         N18         C17         S16         C15       0.000     5.0     2
-CDS              const_20         C24         C28         N32         C31     180.000    10.0     2
-CDS              const_11         C24         C28         C29         S30     180.000    10.0     2
-CDS              const_18         N33         C31         N32         C28     180.000    10.0     2
-CDS            sp2_sp2_23         N32         C31         N33        H331     180.000     5.0     2
-CDS              const_16         N33         C31         S30         C29     180.000    10.0     2
-CDS              const_13         C28         C29         S30         C31       0.000    10.0     2
-CDS            sp2_sp2_27         C24         N25         O26         C27     180.000     5.0     2
+CDS sp3_sp3_5       H271 C27 O26 N25  -60.000 10.0 3
+CDS sp2_sp3_13      C22  N21 C7  C8   0.000   10.0 6
+CDS sp2_sp3_19      O9   C8  C7  N21  0.000   10.0 6
+CDS sp3_sp3_8       N5   C6  C7  N21  180.000 10.0 3
+CDS sp3_sp3_18      C7   C6  S1  C2   60.000  10.0 3
+CDS sp2_sp3_2       C4   N5  C6  C7   120.000 10.0 6
+CDS sp3_sp3_1       C3   C2  S1  C6   60.000  10.0 3
+CDS sp2_sp2_3       C10  C4  N5  C6   180.000 5.0  2
+CDS sp2_sp2_28      O12  C10 C4  N5   180.000 5.0  2
+CDS sp2_sp2_8       C13  C3  C4  C10  0.000   5.0  2
+CDS sp2_sp2_11      O23  C22 N21 C7   0.000   5.0  2
+CDS sp2_sp2_16      O23  C22 C24 N25  180.000 5.0  2
+CDS sp2_sp3_10      C13  C3  C2  S1   180.000 10.0 6
+CDS sp2_sp2_33      C14  C13 C3  C4   0.000   5.0  2
+CDS sp2_sp2_36      C3   C13 C14 C15  180.000 5.0  2
+CDS sp2_sp2_41      C13  C14 C15 S16  0.000   5.0  2
+CDS const_24        C14  C15 C19 C20  0.000   10.0 2
+CDS const_sp2_sp2_2 C14  C15 S16 C17  180.000 5.0  2
+CDS sp2_sp3_25      C15  C19 C20 H201 150.000 10.0 6
+CDS const_sp2_sp2_8 C20  C19 N18 C17  180.000 5.0  2
+CDS sp2_sp2_17      C22  C24 C28 C29  180.000 5.0  2
+CDS sp2_sp2_21      C22  C24 N25 O26  180.000 5.0  2
+CDS const_sp2_sp2_5 S16  C17 N18 C19  0.000   5.0  2
+CDS const_sp2_sp2_3 N18  C17 S16 C15  0.000   5.0  2
+CDS const_20        C24  C28 N32 C31  180.000 10.0 2
+CDS const_11        C24  C28 C29 S30  180.000 10.0 2
+CDS const_18        N33  C31 N32 C28  180.000 10.0 2
+CDS sp2_sp2_23      N32  C31 N33 H331 180.000 5.0  2
+CDS const_16        N33  C31 S30 C29  180.000 10.0 2
+CDS const_13        C28  C29 S30 C31  0.000   10.0 2
+CDS sp2_sp2_27      C24  N25 O26 C27  180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -281,92 +283,108 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-CDS    chir_1    C7    N21    C6    C8    negative
-CDS    chir_2    C6    S1    N5    C7    negative
+CDS chir_1 C7 N21 C6 C8 negative
+CDS chir_2 C6 S1  N5 C7 negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-CDS    plan-1         C14   0.020
-CDS    plan-1         C15   0.020
-CDS    plan-1         C17   0.020
-CDS    plan-1         C19   0.020
-CDS    plan-1         C20   0.020
-CDS    plan-1         H17   0.020
-CDS    plan-1         N18   0.020
-CDS    plan-1         S16   0.020
-CDS    plan-2         C24   0.020
-CDS    plan-2         C28   0.020
-CDS    plan-2         C29   0.020
-CDS    plan-2         C31   0.020
-CDS    plan-2         H29   0.020
-CDS    plan-2         N32   0.020
-CDS    plan-2         N33   0.020
-CDS    plan-2         S30   0.020
-CDS    plan-3         C22   0.020
-CDS    plan-3         C24   0.020
-CDS    plan-3         N21   0.020
-CDS    plan-3         O23   0.020
-CDS    plan-4         C22   0.020
-CDS    plan-4         C24   0.020
-CDS    plan-4         C28   0.020
-CDS    plan-4         N25   0.020
-CDS    plan-5         C31   0.020
-CDS    plan-5        H331   0.020
-CDS    plan-5        H332   0.020
-CDS    plan-5         N33   0.020
-CDS    plan-6         C22   0.020
-CDS    plan-6          C7   0.020
-CDS    plan-6        HN21   0.020
-CDS    plan-6         N21   0.020
-CDS    plan-7          C7   0.020
-CDS    plan-7          C8   0.020
-CDS    plan-7          H8   0.020
-CDS    plan-7          O9   0.020
-CDS    plan-8          C4   0.020
-CDS    plan-8          C6   0.020
-CDS    plan-8         HN5   0.020
-CDS    plan-8          N5   0.020
-CDS    plan-9         C10   0.020
-CDS    plan-9          C3   0.020
-CDS    plan-9          C4   0.020
-CDS    plan-9          N5   0.020
-CDS   plan-10         C10   0.020
-CDS   plan-10          C4   0.020
-CDS   plan-10         O11   0.020
-CDS   plan-10         O12   0.020
-CDS   plan-11         C13   0.020
-CDS   plan-11          C2   0.020
-CDS   plan-11          C3   0.020
-CDS   plan-11          C4   0.020
-CDS   plan-12         C13   0.020
-CDS   plan-12         C14   0.020
-CDS   plan-12          C3   0.020
-CDS   plan-12         H13   0.020
-CDS   plan-13         C13   0.020
-CDS   plan-13         C14   0.020
-CDS   plan-13         C15   0.020
-CDS   plan-13         H14   0.020
+CDS plan-1  C14  0.020
+CDS plan-1  C15  0.020
+CDS plan-1  C17  0.020
+CDS plan-1  C19  0.020
+CDS plan-1  C20  0.020
+CDS plan-1  H17  0.020
+CDS plan-1  N18  0.020
+CDS plan-1  S16  0.020
+CDS plan-2  C24  0.020
+CDS plan-2  C28  0.020
+CDS plan-2  C29  0.020
+CDS plan-2  C31  0.020
+CDS plan-2  H29  0.020
+CDS plan-2  N32  0.020
+CDS plan-2  N33  0.020
+CDS plan-2  S30  0.020
+CDS plan-3  C22  0.020
+CDS plan-3  C24  0.020
+CDS plan-3  N21  0.020
+CDS plan-3  O23  0.020
+CDS plan-4  C22  0.020
+CDS plan-4  C24  0.020
+CDS plan-4  C28  0.020
+CDS plan-4  N25  0.020
+CDS plan-5  C31  0.020
+CDS plan-5  H331 0.020
+CDS plan-5  H332 0.020
+CDS plan-5  N33  0.020
+CDS plan-6  C22  0.020
+CDS plan-6  C7   0.020
+CDS plan-6  HN21 0.020
+CDS plan-6  N21  0.020
+CDS plan-7  C7   0.020
+CDS plan-7  C8   0.020
+CDS plan-7  H8   0.020
+CDS plan-7  O9   0.020
+CDS plan-8  C4   0.020
+CDS plan-8  C6   0.020
+CDS plan-8  HN5  0.020
+CDS plan-8  N5   0.020
+CDS plan-9  C10  0.020
+CDS plan-9  C3   0.020
+CDS plan-9  C4   0.020
+CDS plan-9  N5   0.020
+CDS plan-10 C10  0.020
+CDS plan-10 C4   0.020
+CDS plan-10 O11  0.020
+CDS plan-10 O12  0.020
+CDS plan-11 C13  0.020
+CDS plan-11 C2   0.020
+CDS plan-11 C3   0.020
+CDS plan-11 C4   0.020
+CDS plan-12 C13  0.020
+CDS plan-12 C14  0.020
+CDS plan-12 C3   0.020
+CDS plan-12 H13  0.020
+CDS plan-13 C13  0.020
+CDS plan-13 C14  0.020
+CDS plan-13 C15  0.020
+CDS plan-13 H14  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-CDS           SMILES              ACDLabs 10.04                                                                                                                                                O=CC(NC(=O)/C(=N\OC)c1nc(sc1)N)C2SCC(=C(N2)C(=O)O)/C=C\c3scnc3C
-CDS SMILES_CANONICAL               CACTVS 3.341                                                                                                                                       CO\N=C(/C(=O)N[C@H](C=O)[C@@H]1NC(=C(CS1)\C=C/c2scnc2C)C(O)=O)c3csc(N)n3
-CDS           SMILES               CACTVS 3.341                                                                                                                                              CON=C(C(=O)N[CH](C=O)[CH]1NC(=C(CS1)C=Cc2scnc2C)C(O)=O)c3csc(N)n3
-CDS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                    Cc1c(scn1)\C=C/C2=C(N[C@H](SC2)[C@@H](C=O)NC(=O)/C(=N\OC)/c3csc(n3)N)C(=O)O
-CDS           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                  Cc1c(scn1)C=CC2=C(NC(SC2)C(C=O)NC(=O)C(=NOC)c3csc(n3)N)C(=O)O
-CDS            InChI                InChI  1.03 InChI=1S/C19H20N6O5S3/c1-9-13(33-8-21-9)4-3-10-6-31-17(24-14(10)18(28)29)11(5-26)22-16(27)15(25-30-2)12-7-32-19(20)23-12/h3-5,7-8,11,17,24H,6H2,1-2H3,(H2,20,23)(H,22,27)(H,28,29)/b4-3-,25-15-/t11-,17-/m1/s1
-CDS         InChIKey                InChI  1.03                                                                                                                                                                                    XCLKPDQELZKNLK-KRRFQGJCSA-N
+CDS SMILES           ACDLabs              10.04 O=CC(NC(=O)/C(=N\OC)c1nc(sc1)N)C2SCC(=C(N2)C(=O)O)/C=C\c3scnc3C
+CDS SMILES_CANONICAL CACTVS               3.341 CO\N=C(/C(=O)N[C@H](C=O)[C@@H]1NC(=C(CS1)\C=C/c2scnc2C)C(O)=O)c3csc(N)n3
+CDS SMILES           CACTVS               3.341 CON=C(C(=O)N[CH](C=O)[CH]1NC(=C(CS1)C=Cc2scnc2C)C(O)=O)c3csc(N)n3
+CDS SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 Cc1c(scn1)\C=C/C2=C(N[C@H](SC2)[C@@H](C=O)NC(=O)/C(=N\OC)/c3csc(n3)N)C(=O)O
+CDS SMILES           "OpenEye OEToolkits" 1.5.0 Cc1c(scn1)C=CC2=C(NC(SC2)C(C=O)NC(=O)C(=NOC)c3csc(n3)N)C(=O)O
+CDS InChI            InChI                1.03  InChI=1S/C19H20N6O5S3/c1-9-13(33-8-21-9)4-3-10-6-31-17(24-14(10)18(28)29)11(5-26)22-16(27)15(25-30-2)12-7-32-19(20)23-12/h3-5,7-8,11,17,24H,6H2,1-2H3,(H2,20,23)(H,22,27)(H,28,29)/b4-3-,25-15-/t11-,17-/m1/s1
+CDS InChIKey         InChI                1.03  XCLKPDQELZKNLK-KRRFQGJCSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-CDS acedrg               243         "dictionary generator"                  
-CDS acedrg_database      11          "data source"                           
-CDS rdkit                2017.03.2   "Chemoinformatics tool"
-CDS refmac5              5.8.0238    "optimization tool"                     
+CDS acedrg          243       "dictionary generator"
+CDS acedrg_database 11        "data source"
+CDS rdkit           2017.03.2 "Chemoinformatics tool"
+CDS refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+CDS M-peptide O12 O
+CDS M-peptide C10 C
+CDS M-peptide C4  CA
+CDS M-peptide N5  N
+CDS M-peptide C6  CN
+CDS M-peptide O11 OXT
+CDS M-peptide HN5 H

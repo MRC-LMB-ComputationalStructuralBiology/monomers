@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-EG6     EG6      N-({4-methyl-2-[4-(trifluoromethyl)phenyl]-1,3-thiazol-5-yl}carbonyl)-L-serine     NON-POLYMER     37     25     .     
-#
+EG6 EG6 N-({4-methyl-2-[4-(trifluoromethyl)phenyl]-1,3-thiazol-5-yl}carbonyl)-L-serine NON-POLYMER 37 25 .
+
 data_comp_EG6
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,43 +19,44 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-EG6     O01     O       O       0       3.804       -1.987      1.127       
-EG6     C02     C       C       0       3.141       -1.096      0.593       
-EG6     N03     N       NH1     0       3.683       0.052       0.152       
-EG6     C04     C       CH1     0       5.117       0.330       0.200       
-EG6     C05     C       CH2     0       5.720       0.337       -1.205      
-EG6     O06     O       OH1     0       5.075       1.298       -2.028      
-EG6     C10     C       CR5     0       1.694       -1.280      0.393       
-EG6     C11     C       CR5     0       0.992       -2.445      0.129       
-EG6     C12     C       CH3     0       1.528       -3.829      -0.023      
-EG6     N13     N       NRD5    0       -0.394      -2.243      -0.002      
-EG6     C14     C       CR5     0       -0.758      -0.967      0.156       
-EG6     C15     C       CR6     0       -2.139      -0.487      0.074       
-EG6     C16     C       CR16    0       -3.201      -1.394      0.099       
-EG6     C17     C       CR16    0       -4.515      -0.959      0.020       
-EG6     C18     C       CR6     0       -4.795      0.397       -0.092      
-EG6     C19     C       CT      0       -6.215      0.868       -0.172      
-EG6     F20     F       F       0       -7.026      -0.005      -0.764      
-EG6     F21     F       F       0       -6.745      1.099       1.025       
-EG6     F22     F       F       0       -6.357      2.001       -0.856      
-EG6     C23     C       CR16    0       -3.750      1.313       -0.114      
-EG6     C24     C       CR16    0       -2.436      0.875       -0.036      
-EG6     S25     S       S2      0       0.598       -0.026      0.467       
-EG6     C1      C       C       0       5.396       1.667       0.914       
-EG6     O2      O       OC      -1      6.374       1.699       1.687       
-EG6     O1      O       O       0       4.633       2.623       0.665       
-EG6     H12     H       H       0       3.162       0.670       -0.177      
-EG6     H1      H       H       0       5.574       -0.382      0.715       
-EG6     H2      H       H       0       5.626       -0.554      -1.611      
-EG6     H3      H       H       0       6.681       0.546       -1.153      
-EG6     H4      H       H       0       5.578       1.468       -2.687      
-EG6     H5      H       H       0       2.298       -3.816      -0.613      
-EG6     H6      H       H       0       0.844       -4.404      -0.400      
-EG6     H7      H       H       0       1.794       -4.172      0.845       
-EG6     H8      H       H       0       -3.026      -2.315      0.171       
-EG6     H9      H       H       0       -5.213      -1.594      0.041       
-EG6     H10     H       H       0       -3.923      2.238       -0.186      
-EG6     H11     H       H       0       -1.740      1.507       -0.056      
+EG6 O01 O O    0  3.804  -1.987 1.127
+EG6 C02 C C    0  3.141  -1.096 0.593
+EG6 N03 N NH1  0  3.683  0.052  0.152
+EG6 C04 C CH1  0  5.117  0.330  0.200
+EG6 C05 C CH2  0  5.720  0.337  -1.205
+EG6 O06 O OH1  0  5.075  1.298  -2.028
+EG6 C10 C CR5  0  1.694  -1.280 0.393
+EG6 C11 C CR5  0  0.992  -2.445 0.129
+EG6 C12 C CH3  0  1.528  -3.829 -0.023
+EG6 N13 N NRD5 0  -0.394 -2.243 -0.002
+EG6 C14 C CR5  0  -0.758 -0.967 0.156
+EG6 C15 C CR6  0  -2.139 -0.487 0.074
+EG6 C16 C CR16 0  -3.201 -1.394 0.099
+EG6 C17 C CR16 0  -4.515 -0.959 0.020
+EG6 C18 C CR6  0  -4.795 0.397  -0.092
+EG6 C19 C CT   0  -6.215 0.868  -0.172
+EG6 F20 F F    0  -7.026 -0.005 -0.764
+EG6 F21 F F    0  -6.745 1.099  1.025
+EG6 F22 F F    0  -6.357 2.001  -0.856
+EG6 C23 C CR16 0  -3.750 1.313  -0.114
+EG6 C24 C CR16 0  -2.436 0.875  -0.036
+EG6 S25 S S2   0  0.598  -0.026 0.467
+EG6 C1  C C    0  5.396  1.667  0.914
+EG6 O2  O OC   -1 6.374  1.699  1.687
+EG6 O1  O O    0  4.633  2.623  0.665
+EG6 H12 H H    0  3.162  0.670  -0.177
+EG6 H1  H H    0  5.574  -0.382 0.715
+EG6 H2  H H    0  5.626  -0.554 -1.611
+EG6 H3  H H    0  6.681  0.546  -1.153
+EG6 H4  H H    0  5.578  1.468  -2.687
+EG6 H5  H H    0  2.298  -3.816 -0.613
+EG6 H6  H H    0  0.844  -4.404 -0.400
+EG6 H7  H H    0  1.794  -4.172 0.845
+EG6 H8  H H    0  -3.026 -2.315 0.171
+EG6 H9  H H    0  -5.213 -1.594 0.041
+EG6 H10 H H    0  -3.923 2.238  -0.186
+EG6 H11 H H    0  -1.740 1.507  -0.056
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -68,44 +67,45 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-EG6         C19         F22      SINGLE       n     1.329  0.0183     1.329  0.0183
-EG6         C19         F20      SINGLE       n     1.329  0.0183     1.329  0.0183
-EG6         C19         F21      SINGLE       n     1.329  0.0183     1.329  0.0183
-EG6         C18         C19      SINGLE       n     1.493  0.0100     1.493  0.0100
-EG6         C18         C23      DOUBLE       y     1.383  0.0111     1.383  0.0111
-EG6         C23         C24      SINGLE       y     1.383  0.0100     1.383  0.0100
-EG6         C17         C18      SINGLE       y     1.383  0.0111     1.383  0.0111
-EG6         C15         C24      DOUBLE       y     1.392  0.0100     1.392  0.0100
-EG6         C16         C17      DOUBLE       y     1.383  0.0100     1.383  0.0100
-EG6         C15         C16      SINGLE       y     1.392  0.0100     1.392  0.0100
-EG6         C14         C15      SINGLE       n     1.458  0.0100     1.458  0.0100
-EG6         N13         C14      DOUBLE       y     1.312  0.0200     1.312  0.0200
-EG6         C11         N13      SINGLE       y     1.369  0.0200     1.369  0.0200
-EG6         C14         S25      SINGLE       y     1.695  0.0200     1.695  0.0200
-EG6         C11         C12      SINGLE       n     1.491  0.0100     1.491  0.0100
-EG6         C10         C11      DOUBLE       y     1.373  0.0200     1.373  0.0200
-EG6         C10         S25      SINGLE       y     1.695  0.0200     1.695  0.0200
-EG6         C02         C10      SINGLE       n     1.467  0.0127     1.467  0.0127
-EG6         C02         N03      SINGLE       n     1.336  0.0103     1.336  0.0103
-EG6         N03         C04      SINGLE       n     1.456  0.0100     1.456  0.0100
-EG6         O01         C02      DOUBLE       n     1.231  0.0100     1.231  0.0100
-EG6         C04         C05      SINGLE       n     1.529  0.0100     1.529  0.0100
-EG6         C05         O06      SINGLE       n     1.420  0.0140     1.420  0.0140
-EG6         C04          C1      SINGLE       n     1.539  0.0100     1.539  0.0100
-EG6          C1          O2      SINGLE       n     1.247  0.0187     1.247  0.0187
-EG6          C1          O1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-EG6         N03         H12      SINGLE       n     1.016  0.0100     0.873  0.0101
-EG6         C04          H1      SINGLE       n     1.089  0.0100     0.991  0.0123
-EG6         C05          H2      SINGLE       n     1.089  0.0100     0.984  0.0200
-EG6         C05          H3      SINGLE       n     1.089  0.0100     0.984  0.0200
-EG6         O06          H4      SINGLE       n     0.970  0.0120     0.846  0.0200
-EG6         C12          H5      SINGLE       n     1.089  0.0100     0.970  0.0153
-EG6         C12          H6      SINGLE       n     1.089  0.0100     0.970  0.0153
-EG6         C12          H7      SINGLE       n     1.089  0.0100     0.970  0.0153
-EG6         C16          H8      SINGLE       n     1.082  0.0130     0.941  0.0147
-EG6         C17          H9      SINGLE       n     1.082  0.0130     0.943  0.0173
-EG6         C23         H10      SINGLE       n     1.082  0.0130     0.943  0.0173
-EG6         C24         H11      SINGLE       n     1.082  0.0130     0.941  0.0147
+EG6 C19 F22 SINGLE n 1.329 0.0183 1.329 0.0183
+EG6 C19 F20 SINGLE n 1.329 0.0183 1.329 0.0183
+EG6 C19 F21 SINGLE n 1.329 0.0183 1.329 0.0183
+EG6 C18 C19 SINGLE n 1.493 0.0100 1.493 0.0100
+EG6 C18 C23 DOUBLE y 1.383 0.0111 1.383 0.0111
+EG6 C23 C24 SINGLE y 1.383 0.0100 1.383 0.0100
+EG6 C17 C18 SINGLE y 1.383 0.0111 1.383 0.0111
+EG6 C15 C24 DOUBLE y 1.392 0.0100 1.392 0.0100
+EG6 C16 C17 DOUBLE y 1.383 0.0100 1.383 0.0100
+EG6 C15 C16 SINGLE y 1.392 0.0100 1.392 0.0100
+EG6 C14 C15 SINGLE n 1.458 0.0100 1.458 0.0100
+EG6 N13 C14 DOUBLE y 1.312 0.0200 1.312 0.0200
+EG6 C11 N13 SINGLE y 1.369 0.0200 1.369 0.0200
+EG6 C14 S25 SINGLE y 1.695 0.0200 1.695 0.0200
+EG6 C11 C12 SINGLE n 1.491 0.0100 1.491 0.0100
+EG6 C10 C11 DOUBLE y 1.373 0.0200 1.373 0.0200
+EG6 C10 S25 SINGLE y 1.695 0.0200 1.695 0.0200
+EG6 C02 C10 SINGLE n 1.467 0.0127 1.467 0.0127
+EG6 C02 N03 SINGLE n 1.336 0.0103 1.336 0.0103
+EG6 N03 C04 SINGLE n 1.456 0.0100 1.456 0.0100
+EG6 O01 C02 DOUBLE n 1.231 0.0100 1.231 0.0100
+EG6 C04 C05 SINGLE n 1.529 0.0100 1.529 0.0100
+EG6 C05 O06 SINGLE n 1.420 0.0140 1.420 0.0140
+EG6 C04 C1  SINGLE n 1.539 0.0100 1.539 0.0100
+EG6 C1  O2  SINGLE n 1.247 0.0187 1.247 0.0187
+EG6 C1  O1  DOUBLE n 1.247 0.0187 1.247 0.0187
+EG6 N03 H12 SINGLE n 1.016 0.0100 0.873 0.0101
+EG6 C04 H1  SINGLE n 1.089 0.0100 0.991 0.0123
+EG6 C05 H2  SINGLE n 1.089 0.0100 0.984 0.0200
+EG6 C05 H3  SINGLE n 1.089 0.0100 0.984 0.0200
+EG6 O06 H4  SINGLE n 0.970 0.0120 0.846 0.0200
+EG6 C12 H5  SINGLE n 1.089 0.0100 0.970 0.0153
+EG6 C12 H6  SINGLE n 1.089 0.0100 0.970 0.0153
+EG6 C12 H7  SINGLE n 1.089 0.0100 0.970 0.0153
+EG6 C16 H8  SINGLE n 1.082 0.0130 0.941 0.0147
+EG6 C17 H9  SINGLE n 1.082 0.0130 0.943 0.0173
+EG6 C23 H10 SINGLE n 1.082 0.0130 0.943 0.0173
+EG6 C24 H11 SINGLE n 1.082 0.0130 0.941 0.0147
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -113,69 +113,70 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-EG6         C10         C02         N03     116.796    1.69
-EG6         C10         C02         O01     121.045    1.72
-EG6         N03         C02         O01     122.159    1.50
-EG6         C02         N03         C04     121.039    1.61
-EG6         C02         N03         H12     119.739    1.50
-EG6         C04         N03         H12     119.222    1.91
-EG6         N03         C04         C05     111.090    1.58
-EG6         N03         C04          C1     110.522    1.86
-EG6         N03         C04          H1     108.209    1.50
-EG6         C05         C04          C1     110.594    1.50
-EG6         C05         C04          H1     107.641    1.50
-EG6          C1         C04          H1     107.898    1.50
-EG6         C04         C05         O06     110.859    1.50
-EG6         C04         C05          H2     109.826    1.50
-EG6         C04         C05          H3     109.826    1.50
-EG6         O06         C05          H2     109.411    1.50
-EG6         O06         C05          H3     109.411    1.50
-EG6          H2         C05          H3     108.070    1.50
-EG6         C05         O06          H4     108.529    2.94
-EG6         C11         C10         S25     108.294    3.00
-EG6         C11         C10         C02     130.288    3.00
-EG6         S25         C10         C02     121.418    3.00
-EG6         N13         C11         C12     119.918    1.50
-EG6         N13         C11         C10     108.696    1.50
-EG6         C12         C11         C10     131.385    2.88
-EG6         C11         C12          H5     109.591    1.50
-EG6         C11         C12          H6     109.591    1.50
-EG6         C11         C12          H7     109.591    1.50
-EG6          H5         C12          H6     109.354    1.50
-EG6          H5         C12          H7     109.354    1.50
-EG6          H6         C12          H7     109.354    1.50
-EG6         C14         N13         C11     106.423    1.50
-EG6         C15         C14         N13     128.418    3.00
-EG6         C15         C14         S25     123.289    3.00
-EG6         N13         C14         S25     108.294    3.00
-EG6         C24         C15         C16     118.925    1.50
-EG6         C24         C15         C14     120.537    1.50
-EG6         C16         C15         C14     120.537    1.50
-EG6         C17         C16         C15     120.580    1.50
-EG6         C17         C16          H8     119.761    1.50
-EG6         C15         C16          H8     119.659    1.50
-EG6         C18         C17         C16     119.873    1.50
-EG6         C18         C17          H9     120.398    1.50
-EG6         C16         C17          H9     119.730    1.50
-EG6         C19         C18         C23     119.915    1.50
-EG6         C19         C18         C17     119.915    1.50
-EG6         C23         C18         C17     120.169    1.50
-EG6         F22         C19         F20     105.974    1.50
-EG6         F22         C19         F21     105.974    1.50
-EG6         F22         C19         C18     112.813    1.50
-EG6         F20         C19         F21     105.974    1.50
-EG6         F20         C19         C18     112.813    1.50
-EG6         F21         C19         C18     112.813    1.50
-EG6         C18         C23         C24     119.873    1.50
-EG6         C18         C23         H10     120.398    1.50
-EG6         C24         C23         H10     119.730    1.50
-EG6         C23         C24         C15     120.580    1.50
-EG6         C23         C24         H11     119.761    1.50
-EG6         C15         C24         H11     119.659    1.50
-EG6         C14         S25         C10     108.294    3.00
-EG6         C04          C1          O2     117.118    2.07
-EG6         C04          C1          O1     117.118    2.07
-EG6          O2          C1          O1     125.765    1.50
+EG6 C10 C02 N03 116.796 1.69
+EG6 C10 C02 O01 121.045 1.72
+EG6 N03 C02 O01 122.159 1.50
+EG6 C02 N03 C04 121.039 1.61
+EG6 C02 N03 H12 119.739 1.50
+EG6 C04 N03 H12 119.222 1.91
+EG6 N03 C04 C05 111.090 1.58
+EG6 N03 C04 C1  110.522 1.86
+EG6 N03 C04 H1  108.209 1.50
+EG6 C05 C04 C1  110.594 1.50
+EG6 C05 C04 H1  107.641 1.50
+EG6 C1  C04 H1  107.898 1.50
+EG6 C04 C05 O06 110.859 1.50
+EG6 C04 C05 H2  109.826 1.50
+EG6 C04 C05 H3  109.826 1.50
+EG6 O06 C05 H2  109.411 1.50
+EG6 O06 C05 H3  109.411 1.50
+EG6 H2  C05 H3  108.070 1.50
+EG6 C05 O06 H4  108.529 2.94
+EG6 C11 C10 S25 108.294 3.00
+EG6 C11 C10 C02 130.288 3.00
+EG6 S25 C10 C02 121.418 3.00
+EG6 N13 C11 C12 119.918 1.50
+EG6 N13 C11 C10 108.696 1.50
+EG6 C12 C11 C10 131.385 2.88
+EG6 C11 C12 H5  109.591 1.50
+EG6 C11 C12 H6  109.591 1.50
+EG6 C11 C12 H7  109.591 1.50
+EG6 H5  C12 H6  109.354 1.50
+EG6 H5  C12 H7  109.354 1.50
+EG6 H6  C12 H7  109.354 1.50
+EG6 C14 N13 C11 106.423 1.50
+EG6 C15 C14 N13 128.418 3.00
+EG6 C15 C14 S25 123.289 3.00
+EG6 N13 C14 S25 108.294 3.00
+EG6 C24 C15 C16 118.925 1.50
+EG6 C24 C15 C14 120.537 1.50
+EG6 C16 C15 C14 120.537 1.50
+EG6 C17 C16 C15 120.580 1.50
+EG6 C17 C16 H8  119.761 1.50
+EG6 C15 C16 H8  119.659 1.50
+EG6 C18 C17 C16 119.873 1.50
+EG6 C18 C17 H9  120.398 1.50
+EG6 C16 C17 H9  119.730 1.50
+EG6 C19 C18 C23 119.915 1.50
+EG6 C19 C18 C17 119.915 1.50
+EG6 C23 C18 C17 120.169 1.50
+EG6 F22 C19 F20 105.974 1.50
+EG6 F22 C19 F21 105.974 1.50
+EG6 F22 C19 C18 112.813 1.50
+EG6 F20 C19 F21 105.974 1.50
+EG6 F20 C19 C18 112.813 1.50
+EG6 F21 C19 C18 112.813 1.50
+EG6 C18 C23 C24 119.873 1.50
+EG6 C18 C23 H10 120.398 1.50
+EG6 C24 C23 H10 119.730 1.50
+EG6 C23 C24 C15 120.580 1.50
+EG6 C23 C24 H11 119.761 1.50
+EG6 C15 C24 H11 119.659 1.50
+EG6 C14 S25 C10 108.294 3.00
+EG6 C04 C1  O2  117.118 2.07
+EG6 C04 C1  O1  117.118 2.07
+EG6 O2  C1  O1  125.765 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -186,26 +187,27 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-EG6             sp2_sp2_1         N13         C14         C15         C24     180.000     5.0     2
-EG6              const_10         C15         C14         S25         C10     180.000    10.0     2
-EG6              const_31         C24         C15         C16         C17       0.000    10.0     2
-EG6              const_11         C16         C15         C24         C23       0.000    10.0     2
-EG6              const_27         C15         C16         C17         C18       0.000    10.0     2
-EG6              const_24         C16         C17         C18         C19     180.000    10.0     2
-EG6             sp2_sp3_1         C23         C18         C19         F22     150.000    10.0     6
-EG6              const_21         C19         C18         C23         C24     180.000    10.0     2
-EG6              const_15         C18         C23         C24         C15       0.000    10.0     2
-EG6            sp2_sp2_11         O01         C02         N03         C04       0.000     5.0     2
-EG6             sp2_sp2_5         N03         C02         C10         C11     180.000     5.0     2
-EG6            sp2_sp3_13         C02         N03         C04         C05       0.000    10.0     6
-EG6            sp2_sp3_19          O2          C1         C04         N03       0.000    10.0     6
-EG6             sp3_sp3_1         N03         C04         C05         O06     180.000    10.0     3
-EG6            sp3_sp3_10         C04         C05         O06          H4     180.000    10.0     3
-EG6              const_36         C02         C10         S25         C14     180.000    10.0     2
-EG6       const_sp2_sp2_4         C02         C10         C11         C12       0.000     5.0     2
-EG6             sp2_sp3_7         N13         C11         C12          H5     150.000    10.0     6
-EG6       const_sp2_sp2_6         C12         C11         N13         C14     180.000     5.0     2
-EG6       const_sp2_sp2_8         C15         C14         N13         C11     180.000     5.0     2
+EG6 sp2_sp2_1       N13 C14 C15 C24 180.000 5.0  2
+EG6 const_10        C15 C14 S25 C10 180.000 10.0 2
+EG6 const_31        C24 C15 C16 C17 0.000   10.0 2
+EG6 const_11        C16 C15 C24 C23 0.000   10.0 2
+EG6 const_27        C15 C16 C17 C18 0.000   10.0 2
+EG6 const_24        C16 C17 C18 C19 180.000 10.0 2
+EG6 sp2_sp3_1       C23 C18 C19 F22 150.000 10.0 6
+EG6 const_21        C19 C18 C23 C24 180.000 10.0 2
+EG6 const_15        C18 C23 C24 C15 0.000   10.0 2
+EG6 sp2_sp2_11      O01 C02 N03 C04 0.000   5.0  2
+EG6 sp2_sp2_5       N03 C02 C10 C11 180.000 5.0  2
+EG6 sp2_sp3_13      C02 N03 C04 C05 0.000   10.0 6
+EG6 sp2_sp3_19      O2  C1  C04 N03 0.000   10.0 6
+EG6 sp3_sp3_1       N03 C04 C05 O06 180.000 10.0 3
+EG6 sp3_sp3_10      C04 C05 O06 H4  180.000 10.0 3
+EG6 const_36        C02 C10 S25 C14 180.000 10.0 2
+EG6 const_sp2_sp2_4 C02 C10 C11 C12 0.000   5.0  2
+EG6 sp2_sp3_7       N13 C11 C12 H5  150.000 10.0 6
+EG6 const_sp2_sp2_6 C12 C11 N13 C14 180.000 5.0  2
+EG6 const_sp2_sp2_8 C15 C14 N13 C11 180.000 5.0  2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -214,64 +216,80 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-EG6    chir_1    C04    N03    C1    C05    positive
-EG6    chir_2    C19    F22    F20    F21    both
+EG6 chir_1 C04 N03 C1  C05 positive
+EG6 chir_2 C19 F22 F20 F21 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-EG6    plan-1         C02   0.020
-EG6    plan-1         C10   0.020
-EG6    plan-1         C11   0.020
-EG6    plan-1         C12   0.020
-EG6    plan-1         C14   0.020
-EG6    plan-1         C15   0.020
-EG6    plan-1         N13   0.020
-EG6    plan-1         S25   0.020
-EG6    plan-2         C14   0.020
-EG6    plan-2         C15   0.020
-EG6    plan-2         C16   0.020
-EG6    plan-2         C17   0.020
-EG6    plan-2         C18   0.020
-EG6    plan-2         C19   0.020
-EG6    plan-2         C23   0.020
-EG6    plan-2         C24   0.020
-EG6    plan-2         H10   0.020
-EG6    plan-2         H11   0.020
-EG6    plan-2          H8   0.020
-EG6    plan-2          H9   0.020
-EG6    plan-3         C02   0.020
-EG6    plan-3         C10   0.020
-EG6    plan-3         N03   0.020
-EG6    plan-3         O01   0.020
-EG6    plan-4         C02   0.020
-EG6    plan-4         C04   0.020
-EG6    plan-4         H12   0.020
-EG6    plan-4         N03   0.020
-EG6    plan-5         C04   0.020
-EG6    plan-5          C1   0.020
-EG6    plan-5          O1   0.020
-EG6    plan-5          O2   0.020
+EG6 plan-1 C02 0.020
+EG6 plan-1 C10 0.020
+EG6 plan-1 C11 0.020
+EG6 plan-1 C12 0.020
+EG6 plan-1 C14 0.020
+EG6 plan-1 C15 0.020
+EG6 plan-1 N13 0.020
+EG6 plan-1 S25 0.020
+EG6 plan-2 C14 0.020
+EG6 plan-2 C15 0.020
+EG6 plan-2 C16 0.020
+EG6 plan-2 C17 0.020
+EG6 plan-2 C18 0.020
+EG6 plan-2 C19 0.020
+EG6 plan-2 C23 0.020
+EG6 plan-2 C24 0.020
+EG6 plan-2 H10 0.020
+EG6 plan-2 H11 0.020
+EG6 plan-2 H8  0.020
+EG6 plan-2 H9  0.020
+EG6 plan-3 C02 0.020
+EG6 plan-3 C10 0.020
+EG6 plan-3 N03 0.020
+EG6 plan-3 O01 0.020
+EG6 plan-4 C02 0.020
+EG6 plan-4 C04 0.020
+EG6 plan-4 H12 0.020
+EG6 plan-4 N03 0.020
+EG6 plan-5 C04 0.020
+EG6 plan-5 C1  0.020
+EG6 plan-5 O1  0.020
+EG6 plan-5 O2  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-EG6           SMILES              ACDLabs 12.01                                                                                        O=C(O)C(NC(=O)c1sc(nc1C)c2ccc(cc2)C(F)(F)F)CO
-EG6            InChI                InChI  1.03 InChI=1S/C15H13F3N2O4S/c1-7-11(12(22)20-10(6-21)14(23)24)25-13(19-7)8-2-4-9(5-3-8)15(16,17)18/h2-5,10,21H,6H2,1H3,(H,20,22)(H,23,24)
-EG6         InChIKey                InChI  1.03                                                                                                          YJGBVICLINVYSP-UHFFFAOYSA-N
-EG6 SMILES_CANONICAL               CACTVS 3.385                                                                                   Cc1nc(sc1C(=O)N[C@@H](CO)C(O)=O)c2ccc(cc2)C(F)(F)F
-EG6           SMILES               CACTVS 3.385                                                                                     Cc1nc(sc1C(=O)N[CH](CO)C(O)=O)c2ccc(cc2)C(F)(F)F
-EG6 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                                                                      Cc1c(sc(n1)c2ccc(cc2)C(F)(F)F)C(=O)NC(CO)C(=O)O
-EG6           SMILES "OpenEye OEToolkits" 1.9.2                                                                                      Cc1c(sc(n1)c2ccc(cc2)C(F)(F)F)C(=O)NC(CO)C(=O)O
+EG6 SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)c1sc(nc1C)c2ccc(cc2)C(F)(F)F)CO
+EG6 InChI            InChI                1.03  InChI=1S/C15H13F3N2O4S/c1-7-11(12(22)20-10(6-21)14(23)24)25-13(19-7)8-2-4-9(5-3-8)15(16,17)18/h2-5,10,21H,6H2,1H3,(H,20,22)(H,23,24)
+EG6 InChIKey         InChI                1.03  YJGBVICLINVYSP-UHFFFAOYSA-N
+EG6 SMILES_CANONICAL CACTVS               3.385 Cc1nc(sc1C(=O)N[C@@H](CO)C(O)=O)c2ccc(cc2)C(F)(F)F
+EG6 SMILES           CACTVS               3.385 Cc1nc(sc1C(=O)N[CH](CO)C(O)=O)c2ccc(cc2)C(F)(F)F
+EG6 SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 Cc1c(sc(n1)c2ccc(cc2)C(F)(F)F)C(=O)NC(CO)C(=O)O
+EG6 SMILES           "OpenEye OEToolkits" 1.9.2 Cc1c(sc(n1)c2ccc(cc2)C(F)(F)F)C(=O)NC(CO)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-EG6 acedrg               243         "dictionary generator"                  
-EG6 acedrg_database      11          "data source"                           
-EG6 rdkit                2017.03.2   "Chemoinformatics tool"
-EG6 refmac5              5.8.0238    "optimization tool"                     
+EG6 acedrg          243       "dictionary generator"
+EG6 acedrg_database 11        "data source"
+EG6 rdkit           2017.03.2 "Chemoinformatics tool"
+EG6 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+EG6 M-peptide O1  O
+EG6 M-peptide C1  C
+EG6 M-peptide C04 CA
+EG6 M-peptide N03 N
+EG6 M-peptide C02 CN
+EG6 M-peptide O2  OXT
+EG6 M-peptide H12 H

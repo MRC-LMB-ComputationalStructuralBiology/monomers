@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-XP9     XP9      O-phosphono-N-(9-sulfanylnonanoyl)-L-threonine     NON-POLYMER     46     23     .     
-#
+XP9 XP9 O-phosphono-N-(9-sulfanylnonanoyl)-L-threonine NON-POLYMER 46 23 .
+
 data_comp_XP9
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,52 +19,53 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-XP9     C       C       C       0       22.752      38.820      -19.835     
-XP9     N       N       NH1     0       23.090      37.107      -18.080     
-XP9     O       O       OC      -1      23.875      39.309      -19.602     
-XP9     P       P       P       0       22.120      41.289      -16.791     
-XP9     C1      C       C       0       23.605      36.015      -18.660     
-XP9     O1      O       O       0       23.300      35.661      -19.798     
-XP9     C2      C       CH2     0       24.591      35.216      -17.832     
-XP9     C3      C       CH2     0       23.921      34.273      -16.877     
-XP9     C4      C       CH2     0       24.875      33.296      -16.201     
-XP9     C5      C       CH2     0       25.951      33.927      -15.334     
-XP9     C6      C       CH2     0       25.454      34.830      -14.218     
-XP9     C7      C       CH2     0       24.449      34.210      -13.260     
-XP9     C8      C       CH2     0       24.945      32.979      -12.525     
-XP9     C9      C       CH2     0       26.130      33.259      -11.612     
-XP9     S9      S       SH1     0       26.542      31.899      -10.491     
-XP9     CA      C       CH1     0       22.108      37.959      -18.732     
-XP9     CB      C       CH1     0       21.388      38.858      -17.710     
-XP9     CG      C       CH3     0       20.644      38.057      -16.667     
-XP9     O1P     O       OP      -1      23.179      41.737      -15.801     
-XP9     O2P     O       O       0       22.285      41.924      -18.159     
-XP9     O3P     O       OP      -1      20.710      41.422      -16.246     
-XP9     O4P     O       O2      0       22.360      39.706      -17.008     
-XP9     OXT     O       O       0       22.106      38.974      -20.892     
-XP9     HN      H       H       0       23.362      37.312      -17.275     
-XP9     H2      H       H       0       25.161      35.833      -17.326     
-XP9     H2A     H       H       0       25.168      34.700      -18.435     
-XP9     H3      H       H       0       23.244      33.759      -17.366     
-XP9     H3A     H       H       0       23.456      34.794      -16.190     
-XP9     H4      H       H       0       25.314      32.762      -16.897     
-XP9     H4A     H       H       0       24.349      32.680      -15.649     
-XP9     H5      H       H       0       26.547      34.450      -15.912     
-XP9     H5A     H       H       0       26.488      33.210      -14.938     
-XP9     H6      H       H       0       25.045      35.625      -14.621     
-XP9     H6A     H       H       0       26.230      35.136      -13.701     
-XP9     H7      H       H       0       23.640      33.974      -13.761     
-XP9     H7A     H       H       0       24.195      34.887      -12.597     
-XP9     H8      H       H       0       25.203      32.293      -13.176     
-XP9     H8A     H       H       0       24.213      32.617      -11.983     
-XP9     H9      H       H       0       25.918      34.031      -11.052     
-XP9     H9A     H       H       0       26.921      33.416      -12.165     
-XP9     HS9     H       HSH1    0       27.520      32.385      -9.985      
-XP9     HA      H       H       0       21.424      37.374      -19.163     
-XP9     HB      H       H       0       20.747      39.428      -18.203     
-XP9     HG      H       H       0       20.086      38.654      -16.136     
-XP9     HGA     H       H       0       21.283      37.608      -16.084     
-XP9     HGB     H       H       0       20.083      37.393      -17.105     
+XP9 C   C C    0  22.752 38.820 -19.835
+XP9 N   N NH1  0  23.090 37.107 -18.080
+XP9 O   O OC   -1 23.875 39.309 -19.602
+XP9 P   P P    0  22.120 41.289 -16.791
+XP9 C1  C C    0  23.605 36.015 -18.660
+XP9 O1  O O    0  23.300 35.661 -19.798
+XP9 C2  C CH2  0  24.591 35.216 -17.832
+XP9 C3  C CH2  0  23.921 34.273 -16.877
+XP9 C4  C CH2  0  24.875 33.296 -16.201
+XP9 C5  C CH2  0  25.951 33.927 -15.334
+XP9 C6  C CH2  0  25.454 34.830 -14.218
+XP9 C7  C CH2  0  24.449 34.210 -13.260
+XP9 C8  C CH2  0  24.945 32.979 -12.525
+XP9 C9  C CH2  0  26.130 33.259 -11.612
+XP9 S9  S SH1  0  26.542 31.899 -10.491
+XP9 CA  C CH1  0  22.108 37.959 -18.732
+XP9 CB  C CH1  0  21.388 38.858 -17.710
+XP9 CG  C CH3  0  20.644 38.057 -16.667
+XP9 O1P O OP   -1 23.179 41.737 -15.801
+XP9 O2P O O    0  22.285 41.924 -18.159
+XP9 O3P O OP   -1 20.710 41.422 -16.246
+XP9 O4P O O2   0  22.360 39.706 -17.008
+XP9 OXT O O    0  22.106 38.974 -20.892
+XP9 HN  H H    0  23.362 37.312 -17.275
+XP9 H2  H H    0  25.161 35.833 -17.326
+XP9 H2A H H    0  25.168 34.700 -18.435
+XP9 H3  H H    0  23.244 33.759 -17.366
+XP9 H3A H H    0  23.456 34.794 -16.190
+XP9 H4  H H    0  25.314 32.762 -16.897
+XP9 H4A H H    0  24.349 32.680 -15.649
+XP9 H5  H H    0  26.547 34.450 -15.912
+XP9 H5A H H    0  26.488 33.210 -14.938
+XP9 H6  H H    0  25.045 35.625 -14.621
+XP9 H6A H H    0  26.230 35.136 -13.701
+XP9 H7  H H    0  23.640 33.974 -13.761
+XP9 H7A H H    0  24.195 34.887 -12.597
+XP9 H8  H H    0  25.203 32.293 -13.176
+XP9 H8A H H    0  24.213 32.617 -11.983
+XP9 H9  H H    0  25.918 34.031 -11.052
+XP9 H9A H H    0  26.921 33.416 -12.165
+XP9 HS9 H HSH1 0  27.520 32.385 -9.985
+XP9 HA  H H    0  21.424 37.374 -19.163
+XP9 HB  H H    0  20.747 39.428 -18.203
+XP9 HG  H H    0  20.086 38.654 -16.136
+XP9 HGA H H    0  21.283 37.608 -16.084
+XP9 HGB H H    0  20.083 37.393 -17.105
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -77,51 +76,52 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-XP9           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-XP9           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-XP9           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-XP9           N          CA      SINGLE       n     1.450  0.0100     1.450  0.0100
-XP9           N          C1      SINGLE       n     1.334  0.0100     1.334  0.0100
-XP9           P         O2P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-XP9           P         O4P      SINGLE       n     1.614  0.0178     1.614  0.0178
-XP9           P         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
-XP9           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
-XP9          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-XP9          C1          C2      SINGLE       n     1.514  0.0100     1.514  0.0100
-XP9          C2          C3      SINGLE       n     1.497  0.0200     1.497  0.0200
-XP9          C3          C4      SINGLE       n     1.519  0.0164     1.519  0.0164
-XP9          C4          C5      SINGLE       n     1.509  0.0200     1.509  0.0200
-XP9          C5          C6      SINGLE       n     1.509  0.0200     1.509  0.0200
-XP9          C6          C7      SINGLE       n     1.509  0.0200     1.509  0.0200
-XP9          C7          C8      SINGLE       n     1.510  0.0200     1.510  0.0200
-XP9          C8          C9      SINGLE       n     1.522  0.0100     1.522  0.0100
-XP9          C9          S9      SINGLE       n     1.810  0.0100     1.810  0.0100
-XP9          CA          CB      SINGLE       n     1.538  0.0100     1.538  0.0100
-XP9          CB         O4P      SINGLE       n     1.467  0.0151     1.467  0.0151
-XP9          CB          CG      SINGLE       n     1.511  0.0109     1.511  0.0109
-XP9           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
-XP9          C2          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
-XP9          C2         H2A      SINGLE       n     1.089  0.0100     0.981  0.0185
-XP9          C3          H3      SINGLE       n     1.089  0.0100     0.980  0.0160
-XP9          C3         H3A      SINGLE       n     1.089  0.0100     0.980  0.0160
-XP9          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C5          H5      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C5         H5A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C6          H6      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C6         H6A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C7          H7      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C7         H7A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP9          C8          H8      SINGLE       n     1.089  0.0100     0.981  0.0160
-XP9          C8         H8A      SINGLE       n     1.089  0.0100     0.981  0.0160
-XP9          C9          H9      SINGLE       n     1.089  0.0100     0.977  0.0169
-XP9          C9         H9A      SINGLE       n     1.089  0.0100     0.977  0.0169
-XP9          S9         HS9      SINGLE       n     1.338  0.0100     1.203  0.0200
-XP9          CA          HA      SINGLE       n     1.089  0.0100     0.997  0.0200
-XP9          CB          HB      SINGLE       n     1.089  0.0100     0.989  0.0161
-XP9          CG          HG      SINGLE       n     1.089  0.0100     0.974  0.0145
-XP9          CG         HGA      SINGLE       n     1.089  0.0100     0.974  0.0145
-XP9          CG         HGB      SINGLE       n     1.089  0.0100     0.974  0.0145
+XP9 C  OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+XP9 C  O   SINGLE n 1.247 0.0187 1.247 0.0187
+XP9 C  CA  SINGLE n 1.539 0.0100 1.539 0.0100
+XP9 N  CA  SINGLE n 1.450 0.0100 1.450 0.0100
+XP9 N  C1  SINGLE n 1.334 0.0100 1.334 0.0100
+XP9 P  O2P DOUBLE n 1.517 0.0192 1.517 0.0192
+XP9 P  O4P SINGLE n 1.614 0.0178 1.614 0.0178
+XP9 P  O1P SINGLE n 1.517 0.0192 1.517 0.0192
+XP9 P  O3P SINGLE n 1.517 0.0192 1.517 0.0192
+XP9 C1 O1  DOUBLE n 1.229 0.0102 1.229 0.0102
+XP9 C1 C2  SINGLE n 1.514 0.0100 1.514 0.0100
+XP9 C2 C3  SINGLE n 1.497 0.0200 1.497 0.0200
+XP9 C3 C4  SINGLE n 1.519 0.0164 1.519 0.0164
+XP9 C4 C5  SINGLE n 1.509 0.0200 1.509 0.0200
+XP9 C5 C6  SINGLE n 1.509 0.0200 1.509 0.0200
+XP9 C6 C7  SINGLE n 1.509 0.0200 1.509 0.0200
+XP9 C7 C8  SINGLE n 1.510 0.0200 1.510 0.0200
+XP9 C8 C9  SINGLE n 1.522 0.0100 1.522 0.0100
+XP9 C9 S9  SINGLE n 1.810 0.0100 1.810 0.0100
+XP9 CA CB  SINGLE n 1.538 0.0100 1.538 0.0100
+XP9 CB O4P SINGLE n 1.467 0.0151 1.467 0.0151
+XP9 CB CG  SINGLE n 1.511 0.0109 1.511 0.0109
+XP9 N  HN  SINGLE n 1.016 0.0100 0.873 0.0200
+XP9 C2 H2  SINGLE n 1.089 0.0100 0.981 0.0185
+XP9 C2 H2A SINGLE n 1.089 0.0100 0.981 0.0185
+XP9 C3 H3  SINGLE n 1.089 0.0100 0.980 0.0160
+XP9 C3 H3A SINGLE n 1.089 0.0100 0.980 0.0160
+XP9 C4 H4  SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C4 H4A SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C5 H5  SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C5 H5A SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C6 H6  SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C6 H6A SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C7 H7  SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C7 H7A SINGLE n 1.089 0.0100 0.981 0.0163
+XP9 C8 H8  SINGLE n 1.089 0.0100 0.981 0.0160
+XP9 C8 H8A SINGLE n 1.089 0.0100 0.981 0.0160
+XP9 C9 H9  SINGLE n 1.089 0.0100 0.977 0.0169
+XP9 C9 H9A SINGLE n 1.089 0.0100 0.977 0.0169
+XP9 S9 HS9 SINGLE n 1.338 0.0100 1.203 0.0200
+XP9 CA HA  SINGLE n 1.089 0.0100 0.997 0.0200
+XP9 CB HB  SINGLE n 1.089 0.0100 0.989 0.0161
+XP9 CG HG  SINGLE n 1.089 0.0100 0.974 0.0145
+XP9 CG HGA SINGLE n 1.089 0.0100 0.974 0.0145
+XP9 CG HGB SINGLE n 1.089 0.0100 0.974 0.0145
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -129,89 +129,90 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-XP9         OXT           C           O     125.259    1.50
-XP9         OXT           C          CA     117.371    1.50
-XP9           O           C          CA     117.371    1.50
-XP9          CA           N          C1     121.656    1.76
-XP9          CA           N          HN     119.934    1.61
-XP9          C1           N          HN     118.410    1.50
-XP9         O2P           P         O4P     105.808    2.07
-XP9         O2P           P         O1P     112.864    1.69
-XP9         O2P           P         O3P     112.864    1.69
-XP9         O4P           P         O1P     105.808    2.07
-XP9         O4P           P         O3P     105.808    2.07
-XP9         O1P           P         O3P     112.864    1.69
-XP9           N          C1          O1     122.033    1.50
-XP9           N          C1          C2     116.136    1.50
-XP9          O1          C1          C2     121.831    1.50
-XP9          C1          C2          C3     112.836    1.50
-XP9          C1          C2          H2     108.930    1.50
-XP9          C1          C2         H2A     108.930    1.50
-XP9          C3          C2          H2     108.897    1.50
-XP9          C3          C2         H2A     108.897    1.50
-XP9          H2          C2         H2A     107.846    1.50
-XP9          C2          C3          C4     113.472    1.51
-XP9          C2          C3          H3     108.795    1.50
-XP9          C2          C3         H3A     108.795    1.50
-XP9          C4          C3          H3     108.698    1.50
-XP9          C4          C3         H3A     108.698    1.50
-XP9          H3          C3         H3A     107.646    1.50
-XP9          C3          C4          C5     114.243    1.69
-XP9          C3          C4          H4     108.698    1.50
-XP9          C3          C4         H4A     108.698    1.50
-XP9          C5          C4          H4     108.698    1.50
-XP9          C5          C4         H4A     108.698    1.50
-XP9          H4          C4         H4A     107.646    1.50
-XP9          C4          C5          C6     114.243    1.69
-XP9          C4          C5          H5     108.698    1.50
-XP9          C4          C5         H5A     108.698    1.50
-XP9          C6          C5          H5     108.698    1.50
-XP9          C6          C5         H5A     108.698    1.50
-XP9          H5          C5         H5A     107.646    1.50
-XP9          C5          C6          C7     114.243    1.69
-XP9          C5          C6          H6     108.698    1.50
-XP9          C5          C6         H6A     108.698    1.50
-XP9          C7          C6          H6     108.698    1.50
-XP9          C7          C6         H6A     108.698    1.50
-XP9          H6          C6         H6A     107.646    1.50
-XP9          C6          C7          C8     113.198    1.72
-XP9          C6          C7          H7     108.698    1.50
-XP9          C6          C7         H7A     108.698    1.50
-XP9          C8          C7          H7     108.891    1.50
-XP9          C8          C7         H7A     108.891    1.50
-XP9          H7          C7         H7A     107.646    1.50
-XP9          C7          C8          C9     112.785    1.50
-XP9          C7          C8          H8     108.963    1.50
-XP9          C7          C8         H8A     108.963    1.50
-XP9          C9          C8          H8     108.591    1.50
-XP9          C9          C8         H8A     108.591    1.50
-XP9          H8          C8         H8A     107.852    1.50
-XP9          C8          C9          S9     113.854    1.50
-XP9          C8          C9          H9     108.231    1.50
-XP9          C8          C9         H9A     108.231    1.50
-XP9          S9          C9          H9     105.353    2.82
-XP9          S9          C9         H9A     105.353    2.82
-XP9          H9          C9         H9A     111.425    1.71
-XP9          C9          S9         HS9      98.146    3.00
-XP9           C          CA           N     110.939    1.74
-XP9           C          CA          CB     110.275    1.50
-XP9           C          CA          HA     107.601    1.50
-XP9           N          CA          CB     110.507    1.90
-XP9           N          CA          HA     107.971    1.50
-XP9          CB          CA          HA     108.179    1.50
-XP9          CA          CB         O4P     109.482    3.00
-XP9          CA          CB          CG     112.076    1.65
-XP9          CA          CB          HB     108.267    2.06
-XP9         O4P          CB          CG     107.625    1.78
-XP9         O4P          CB          HB     109.315    1.50
-XP9          CG          CB          HB     109.344    1.50
-XP9          CB          CG          HG     109.508    1.50
-XP9          CB          CG         HGA     109.508    1.50
-XP9          CB          CG         HGB     109.508    1.50
-XP9          HG          CG         HGA     109.425    1.50
-XP9          HG          CG         HGB     109.425    1.50
-XP9         HGA          CG         HGB     109.425    1.50
-XP9           P         O4P          CB     121.496    2.55
+XP9 OXT C   O   125.259 1.50
+XP9 OXT C   CA  117.371 1.50
+XP9 O   C   CA  117.371 1.50
+XP9 CA  N   C1  121.656 1.76
+XP9 CA  N   HN  119.934 1.61
+XP9 C1  N   HN  118.410 1.50
+XP9 O2P P   O4P 105.808 2.07
+XP9 O2P P   O1P 112.864 1.69
+XP9 O2P P   O3P 112.864 1.69
+XP9 O4P P   O1P 105.808 2.07
+XP9 O4P P   O3P 105.808 2.07
+XP9 O1P P   O3P 112.864 1.69
+XP9 N   C1  O1  122.033 1.50
+XP9 N   C1  C2  116.136 1.50
+XP9 O1  C1  C2  121.831 1.50
+XP9 C1  C2  C3  112.836 1.50
+XP9 C1  C2  H2  108.930 1.50
+XP9 C1  C2  H2A 108.930 1.50
+XP9 C3  C2  H2  108.897 1.50
+XP9 C3  C2  H2A 108.897 1.50
+XP9 H2  C2  H2A 107.846 1.50
+XP9 C2  C3  C4  113.472 1.51
+XP9 C2  C3  H3  108.795 1.50
+XP9 C2  C3  H3A 108.795 1.50
+XP9 C4  C3  H3  108.698 1.50
+XP9 C4  C3  H3A 108.698 1.50
+XP9 H3  C3  H3A 107.646 1.50
+XP9 C3  C4  C5  114.243 1.69
+XP9 C3  C4  H4  108.698 1.50
+XP9 C3  C4  H4A 108.698 1.50
+XP9 C5  C4  H4  108.698 1.50
+XP9 C5  C4  H4A 108.698 1.50
+XP9 H4  C4  H4A 107.646 1.50
+XP9 C4  C5  C6  114.243 1.69
+XP9 C4  C5  H5  108.698 1.50
+XP9 C4  C5  H5A 108.698 1.50
+XP9 C6  C5  H5  108.698 1.50
+XP9 C6  C5  H5A 108.698 1.50
+XP9 H5  C5  H5A 107.646 1.50
+XP9 C5  C6  C7  114.243 1.69
+XP9 C5  C6  H6  108.698 1.50
+XP9 C5  C6  H6A 108.698 1.50
+XP9 C7  C6  H6  108.698 1.50
+XP9 C7  C6  H6A 108.698 1.50
+XP9 H6  C6  H6A 107.646 1.50
+XP9 C6  C7  C8  113.198 1.72
+XP9 C6  C7  H7  108.698 1.50
+XP9 C6  C7  H7A 108.698 1.50
+XP9 C8  C7  H7  108.891 1.50
+XP9 C8  C7  H7A 108.891 1.50
+XP9 H7  C7  H7A 107.646 1.50
+XP9 C7  C8  C9  112.785 1.50
+XP9 C7  C8  H8  108.963 1.50
+XP9 C7  C8  H8A 108.963 1.50
+XP9 C9  C8  H8  108.591 1.50
+XP9 C9  C8  H8A 108.591 1.50
+XP9 H8  C8  H8A 107.852 1.50
+XP9 C8  C9  S9  113.854 1.50
+XP9 C8  C9  H9  108.231 1.50
+XP9 C8  C9  H9A 108.231 1.50
+XP9 S9  C9  H9  105.353 2.82
+XP9 S9  C9  H9A 105.353 2.82
+XP9 H9  C9  H9A 111.425 1.71
+XP9 C9  S9  HS9 98.146  3.00
+XP9 C   CA  N   110.939 1.74
+XP9 C   CA  CB  110.275 1.50
+XP9 C   CA  HA  107.601 1.50
+XP9 N   CA  CB  110.507 1.90
+XP9 N   CA  HA  107.971 1.50
+XP9 CB  CA  HA  108.179 1.50
+XP9 CA  CB  O4P 109.482 3.00
+XP9 CA  CB  CG  112.076 1.65
+XP9 CA  CB  HB  108.267 2.06
+XP9 O4P CB  CG  107.625 1.78
+XP9 O4P CB  HB  109.315 1.50
+XP9 CG  CB  HB  109.344 1.50
+XP9 CB  CG  HG  109.508 1.50
+XP9 CB  CG  HGA 109.508 1.50
+XP9 CB  CG  HGB 109.508 1.50
+XP9 HG  CG  HGA 109.425 1.50
+XP9 HG  CG  HGB 109.425 1.50
+XP9 HGA CG  HGB 109.425 1.50
+XP9 P   O4P CB  121.496 2.55
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -222,22 +223,23 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-XP9             sp2_sp3_1         OXT           C          CA           N       0.000    10.0     6
-XP9            sp3_sp3_40          C5          C6          C7          C8     180.000    10.0     3
-XP9            sp3_sp3_49          C6          C7          C8          C9     180.000    10.0     3
-XP9            sp3_sp3_58          C7          C8          C9          S9     180.000    10.0     3
-XP9            sp3_sp3_67          C8          C9          S9         HS9     180.000    10.0     3
-XP9            sp3_sp3_70           C          CA          CB         O4P     180.000    10.0     3
-XP9            sp3_sp3_82          CA          CB          CG          HG     180.000    10.0     3
-XP9            sp3_sp3_79          CA          CB         O4P           P     180.000    10.0     3
-XP9             sp2_sp3_7          C1           N          CA           C       0.000    10.0     6
-XP9             sp2_sp2_3          O1          C1           N          CA       0.000     5.0     2
-XP9             sp3_sp3_3          CB         O4P           P         O2P      60.000    10.0     3
-XP9            sp2_sp3_14           N          C1          C2          C3     120.000    10.0     6
-XP9             sp3_sp3_4          C1          C2          C3          C4     180.000    10.0     3
-XP9            sp3_sp3_13          C2          C3          C4          C5     180.000    10.0     3
-XP9            sp3_sp3_22          C3          C4          C5          C6     180.000    10.0     3
-XP9            sp3_sp3_31          C4          C5          C6          C7     180.000    10.0     3
+XP9 sp2_sp3_1  OXT C   CA  N   0.000   10.0 6
+XP9 sp3_sp3_40 C5  C6  C7  C8  180.000 10.0 3
+XP9 sp3_sp3_49 C6  C7  C8  C9  180.000 10.0 3
+XP9 sp3_sp3_58 C7  C8  C9  S9  180.000 10.0 3
+XP9 sp3_sp3_67 C8  C9  S9  HS9 180.000 10.0 3
+XP9 sp3_sp3_70 C   CA  CB  O4P 180.000 10.0 3
+XP9 sp3_sp3_82 CA  CB  CG  HG  180.000 10.0 3
+XP9 sp3_sp3_79 CA  CB  O4P P   180.000 10.0 3
+XP9 sp2_sp3_7  C1  N   CA  C   0.000   10.0 6
+XP9 sp2_sp2_3  O1  C1  N   CA  0.000   5.0  2
+XP9 sp3_sp3_3  CB  O4P P   O2P 60.000  10.0 3
+XP9 sp2_sp3_14 N   C1  C2  C3  120.000 10.0 6
+XP9 sp3_sp3_4  C1  C2  C3  C4  180.000 10.0 3
+XP9 sp3_sp3_13 C2  C3  C4  C5  180.000 10.0 3
+XP9 sp3_sp3_22 C3  C4  C5  C6  180.000 10.0 3
+XP9 sp3_sp3_31 C4  C5  C6  C7  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -246,45 +248,58 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-XP9    chir_1    P    O4P    O1P    O3P    both
-XP9    chir_2    CA    N    C    CB    positive
-XP9    chir_3    CB    O4P    CA    CG    negative
+XP9 chir_1 P  O4P O1P O3P both
+XP9 chir_2 CA N   C   CB  positive
+XP9 chir_3 CB O4P CA  CG  negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-XP9    plan-1           C   0.020
-XP9    plan-1          CA   0.020
-XP9    plan-1           O   0.020
-XP9    plan-1         OXT   0.020
-XP9    plan-2          C1   0.020
-XP9    plan-2          CA   0.020
-XP9    plan-2          HN   0.020
-XP9    plan-2           N   0.020
-XP9    plan-3          C1   0.020
-XP9    plan-3          C2   0.020
-XP9    plan-3           N   0.020
-XP9    plan-3          O1   0.020
+XP9 plan-1 C   0.020
+XP9 plan-1 CA  0.020
+XP9 plan-1 O   0.020
+XP9 plan-1 OXT 0.020
+XP9 plan-2 C1  0.020
+XP9 plan-2 CA  0.020
+XP9 plan-2 HN  0.020
+XP9 plan-2 N   0.020
+XP9 plan-3 C1  0.020
+XP9 plan-3 C2  0.020
+XP9 plan-3 N   0.020
+XP9 plan-3 O1  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-XP9           SMILES              ACDLabs 12.01                                                                                                                O=C(O)C(NC(=O)CCCCCCCCS)C(OP(=O)(O)O)C
-XP9 SMILES_CANONICAL               CACTVS 3.370                                                                                                     C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCCCCCS)C(O)=O
-XP9           SMILES               CACTVS 3.370                                                                                                        C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCCCCCS)C(O)=O
-XP9 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                       C[C@H]([C@@H](C(=O)O)NC(=O)CCCCCCCCS)OP(=O)(O)O
-XP9           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                CC(C(C(=O)O)NC(=O)CCCCCCCCS)OP(=O)(O)O
-XP9            InChI                InChI  1.03 InChI=1S/C13H26NO7PS/c1-10(21-22(18,19)20)12(13(16)17)14-11(15)8-6-4-2-3-5-7-9-23/h10,12,23H,2-9H2,1H3,(H,14,15)(H,16,17)(H2,18,19,20)/t10-,12+/m1/s1
-XP9         InChIKey                InChI  1.03                                                                                                                           WUTPSGIFCCYDED-PWSUYJOCSA-N
+XP9 SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)CCCCCCCCS)C(OP(=O)(O)O)C
+XP9 SMILES_CANONICAL CACTVS               3.370 C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCCCCCS)C(O)=O
+XP9 SMILES           CACTVS               3.370 C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCCCCCS)C(O)=O
+XP9 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 C[C@H]([C@@H](C(=O)O)NC(=O)CCCCCCCCS)OP(=O)(O)O
+XP9 SMILES           "OpenEye OEToolkits" 1.7.0 CC(C(C(=O)O)NC(=O)CCCCCCCCS)OP(=O)(O)O
+XP9 InChI            InChI                1.03  InChI=1S/C13H26NO7PS/c1-10(21-22(18,19)20)12(13(16)17)14-11(15)8-6-4-2-3-5-7-9-23/h10,12,23H,2-9H2,1H3,(H,14,15)(H,16,17)(H2,18,19,20)/t10-,12+/m1/s1
+XP9 InChIKey         InChI                1.03  WUTPSGIFCCYDED-PWSUYJOCSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-XP9 acedrg               243         "dictionary generator"                  
-XP9 acedrg_database      11          "data source"                           
-XP9 rdkit                2017.03.2   "Chemoinformatics tool"
-XP9 refmac5              5.8.0238    "optimization tool"                     
+XP9 acedrg          243       "dictionary generator"
+XP9 acedrg_database 11        "data source"
+XP9 rdkit           2017.03.2 "Chemoinformatics tool"
+XP9 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+XP9 M-peptide OXT O
+XP9 M-peptide C1  CN
+XP9 M-peptide O   OXT
+XP9 M-peptide HN  H

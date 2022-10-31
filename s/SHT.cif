@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-SHT     SHT      O-PHOSPHONO-N-{(2E)-7-[(2-SULFOETHYL)DITHIO]HEPT-2-ENOYL}-L-THREONINE     NON-POLYMER     49     28     .     
-#
+SHT SHT O-PHOSPHONO-N-{(2E)-7-[(2-SULFOETHYL)DITHIO]HEPT-2-ENOYL}-L-THREONINE NON-POLYMER 49 28 .
+
 data_comp_SHT
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,55 +19,56 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-SHT     S1      S       S2      0       24.978      30.606      -11.841     
-SHT     OS3     O       O       0       27.796      29.829      -7.984      
-SHT     SG2     S       S3      0       27.206      31.134      -8.066      
-SHT     OS1     O       O       0       28.018      32.240      -8.485      
-SHT     OS2     O       OH1     0       26.491      31.476      -6.735      
-SHT     CD      C       CH2     0       25.867      31.018      -9.220      
-SHT     CC      C       CH2     0       26.327      30.687      -10.629     
-SHT     SK      S       S2      0       24.692      32.542      -12.354     
-SHT     CK6     C       CH2     0       25.858      32.797      -13.722     
-SHT     CK5     C       CH2     0       25.955      34.244      -14.186     
-SHT     CK4     C       CH2     0       26.966      34.457      -15.308     
-SHT     CK3     C       CH2     0       26.650      33.773      -16.612     
-SHT     CK2     C       C1      0       25.315      34.140      -17.190     
-SHT     CK1     C       C1      0       24.959      35.356      -17.603     
-SHT     CK      C       C       0       23.714      35.716      -18.105     
-SHT     OK      O       O       0       22.790      34.905      -18.191     
-SHT     N       N       NH1     0       23.579      37.034      -18.503     
-SHT     CA      C       CH1     0       22.349      37.595      -19.057     
-SHT     C       C       C       0       22.619      38.326      -20.386     
-SHT     OXT     O       O       0       23.647      39.031      -20.460     
-SHT     O       O       OC      -1      21.791      38.166      -21.304     
-SHT     CB      C       CH1     0       21.675      38.544      -18.049     
-SHT     CG2     C       CH3     0       21.317      37.851      -16.752     
-SHT     "O3'"   O       O2      0       22.572      39.663      -17.727     
-SHT     P       P       P       0       22.039      41.184      -17.608     
-SHT     O1P     O       O       0       21.679      41.607      -19.019     
-SHT     O2P     O       OP      -1      20.838      41.130      -16.683     
-SHT     O8P     O       OP      -1      23.192      41.982      -17.030     
-SHT     HO2S    H       H       0       25.857      30.984      -6.620      
-SHT     HCD1    H       H       0       25.386      31.874      -9.235      
-SHT     HCD2    H       H       0       25.246      30.319      -8.916      
-SHT     HCC1    H       H       0       26.975      31.373      -10.928     
-SHT     HCC2    H       H       0       26.794      29.814      -10.622     
-SHT     HK61    H       H       0       25.579      32.234      -14.475     
-SHT     HK62    H       H       0       26.746      32.492      -13.436     
-SHT     HK51    H       H       0       26.213      34.801      -13.421     
-SHT     HK52    H       H       0       25.070      34.542      -14.484     
-SHT     HK41    H       H       0       27.842      34.144      -15.000     
-SHT     HK42    H       H       0       27.044      35.419      -15.476     
-SHT     HK31    H       H       0       26.680      32.801      -16.476     
-SHT     HK32    H       H       0       27.349      34.005      -17.264     
-SHT     HC2K    H       H       0       24.682      33.446      -17.265     
-SHT     HC1K    H       H       0       25.621      36.026      -17.543     
-SHT     HN      H       H       0       24.273      37.558      -18.416     
-SHT     HCA     H       H       0       21.714      36.853      -19.253     
-SHT     HCB     H       H       0       20.850      38.895      -18.468     
-SHT     HG21    H       H       0       22.004      38.028      -16.084     
-SHT     HG22    H       H       0       21.251      36.890      -16.900     
-SHT     HG23    H       H       0       20.460      38.187      -16.431     
+SHT S1    S S2  0  24.978 30.606 -11.841
+SHT OS3   O O   0  27.796 29.829 -7.984
+SHT SG2   S S3  0  27.206 31.134 -8.066
+SHT OS1   O O   0  28.018 32.240 -8.485
+SHT OS2   O OH1 0  26.491 31.476 -6.735
+SHT CD    C CH2 0  25.867 31.018 -9.220
+SHT CC    C CH2 0  26.327 30.687 -10.629
+SHT SK    S S2  0  24.692 32.542 -12.354
+SHT CK6   C CH2 0  25.858 32.797 -13.722
+SHT CK5   C CH2 0  25.955 34.244 -14.186
+SHT CK4   C CH2 0  26.966 34.457 -15.308
+SHT CK3   C CH2 0  26.650 33.773 -16.612
+SHT CK2   C C1  0  25.315 34.140 -17.190
+SHT CK1   C C1  0  24.959 35.356 -17.603
+SHT CK    C C   0  23.714 35.716 -18.105
+SHT OK    O O   0  22.790 34.905 -18.191
+SHT N     N NH1 0  23.579 37.034 -18.503
+SHT CA    C CH1 0  22.349 37.595 -19.057
+SHT C     C C   0  22.619 38.326 -20.386
+SHT OXT   O O   0  23.647 39.031 -20.460
+SHT O     O OC  -1 21.791 38.166 -21.304
+SHT CB    C CH1 0  21.675 38.544 -18.049
+SHT CG2   C CH3 0  21.317 37.851 -16.752
+SHT "O3'" O O2  0  22.572 39.663 -17.727
+SHT P     P P   0  22.039 41.184 -17.608
+SHT O1P   O O   0  21.679 41.607 -19.019
+SHT O2P   O OP  -1 20.838 41.130 -16.683
+SHT O8P   O OP  -1 23.192 41.982 -17.030
+SHT HO2S  H H   0  25.857 30.984 -6.620
+SHT HCD1  H H   0  25.386 31.874 -9.235
+SHT HCD2  H H   0  25.246 30.319 -8.916
+SHT HCC1  H H   0  26.975 31.373 -10.928
+SHT HCC2  H H   0  26.794 29.814 -10.622
+SHT HK61  H H   0  25.579 32.234 -14.475
+SHT HK62  H H   0  26.746 32.492 -13.436
+SHT HK51  H H   0  26.213 34.801 -13.421
+SHT HK52  H H   0  25.070 34.542 -14.484
+SHT HK41  H H   0  27.842 34.144 -15.000
+SHT HK42  H H   0  27.044 35.419 -15.476
+SHT HK31  H H   0  26.680 32.801 -16.476
+SHT HK32  H H   0  27.349 34.005 -17.264
+SHT HC2K  H H   0  24.682 33.446 -17.265
+SHT HC1K  H H   0  25.621 36.026 -17.543
+SHT HN    H H   0  24.273 37.558 -18.416
+SHT HCA   H H   0  21.714 36.853 -19.253
+SHT HCB   H H   0  20.850 38.895 -18.468
+SHT HG21  H H   0  22.004 38.028 -16.084
+SHT HG22  H H   0  21.251 36.890 -16.900
+SHT HG23  H H   0  20.460 38.187 -16.431
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -80,54 +79,55 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-SHT          S1          CC      SINGLE       n     1.816  0.0107     1.816  0.0107
-SHT          S1          SK      SINGLE       n     2.023  0.0152     2.023  0.0152
-SHT         OS3         SG2      DOUBLE       n     1.435  0.0100     1.435  0.0100
-SHT         SG2         OS1      DOUBLE       n     1.435  0.0100     1.435  0.0100
-SHT         SG2         OS2      SINGLE       n     1.549  0.0200     1.549  0.0200
-SHT         SG2          CD      SINGLE       n     1.771  0.0119     1.771  0.0119
-SHT          CD          CC      SINGLE       n     1.519  0.0176     1.519  0.0176
-SHT          SK         CK6      SINGLE       n     1.816  0.0107     1.816  0.0107
-SHT         CK6         CK5      SINGLE       n     1.522  0.0100     1.522  0.0100
-SHT         CK5         CK4      SINGLE       n     1.519  0.0164     1.519  0.0164
-SHT         CK4         CK3      SINGLE       n     1.497  0.0200     1.497  0.0200
-SHT         CK3         CK2      SINGLE       n     1.499  0.0157     1.499  0.0157
-SHT         CK2         CK1      DOUBLE       n     1.327  0.0151     1.327  0.0151
-SHT         CK1          CK      SINGLE       n     1.366  0.0200     1.366  0.0200
-SHT          CK          OK      DOUBLE       n     1.229  0.0129     1.229  0.0129
-SHT          CK           N      SINGLE       n     1.354  0.0200     1.354  0.0200
-SHT           N          CA      SINGLE       n     1.457  0.0100     1.457  0.0100
-SHT          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
-SHT          CA          CB      SINGLE       n     1.538  0.0100     1.538  0.0100
-SHT           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-SHT           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-SHT          CB         CG2      SINGLE       n     1.511  0.0109     1.511  0.0109
-SHT          CB       "O3'"      SINGLE       n     1.467  0.0151     1.467  0.0151
-SHT       "O3'"           P      SINGLE       n     1.614  0.0178     1.614  0.0178
-SHT           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-SHT           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
-SHT           P         O8P      SINGLE       n     1.517  0.0192     1.517  0.0192
-SHT         OS2        HO2S      SINGLE       n     0.970  0.0120     0.811  0.0200
-SHT          CD        HCD1      SINGLE       n     1.089  0.0100     0.983  0.0113
-SHT          CD        HCD2      SINGLE       n     1.089  0.0100     0.983  0.0113
-SHT          CC        HCC1      SINGLE       n     1.089  0.0100     0.990  0.0100
-SHT          CC        HCC2      SINGLE       n     1.089  0.0100     0.990  0.0100
-SHT         CK6        HK61      SINGLE       n     1.089  0.0100     0.981  0.0122
-SHT         CK6        HK62      SINGLE       n     1.089  0.0100     0.981  0.0122
-SHT         CK5        HK51      SINGLE       n     1.089  0.0100     0.981  0.0160
-SHT         CK5        HK52      SINGLE       n     1.089  0.0100     0.981  0.0160
-SHT         CK4        HK41      SINGLE       n     1.089  0.0100     0.980  0.0160
-SHT         CK4        HK42      SINGLE       n     1.089  0.0100     0.980  0.0160
-SHT         CK3        HK31      SINGLE       n     1.089  0.0100     0.983  0.0180
-SHT         CK3        HK32      SINGLE       n     1.089  0.0100     0.983  0.0180
-SHT         CK2        HC2K      SINGLE       n     1.082  0.0130     0.943  0.0181
-SHT         CK1        HC1K      SINGLE       n     1.082  0.0130     0.943  0.0200
-SHT           N          HN      SINGLE       n     1.016  0.0100     0.874  0.0200
-SHT          CA         HCA      SINGLE       n     1.089  0.0100     0.997  0.0200
-SHT          CB         HCB      SINGLE       n     1.089  0.0100     0.989  0.0161
-SHT         CG2        HG21      SINGLE       n     1.089  0.0100     0.974  0.0145
-SHT         CG2        HG22      SINGLE       n     1.089  0.0100     0.974  0.0145
-SHT         CG2        HG23      SINGLE       n     1.089  0.0100     0.974  0.0145
+SHT S1    CC    SINGLE n 1.816 0.0107 1.816 0.0107
+SHT S1    SK    SINGLE n 2.023 0.0152 2.023 0.0152
+SHT OS3   SG2   DOUBLE n 1.435 0.0100 1.435 0.0100
+SHT SG2   OS1   DOUBLE n 1.435 0.0100 1.435 0.0100
+SHT SG2   OS2   SINGLE n 1.549 0.0200 1.549 0.0200
+SHT SG2   CD    SINGLE n 1.771 0.0119 1.771 0.0119
+SHT CD    CC    SINGLE n 1.519 0.0176 1.519 0.0176
+SHT SK    CK6   SINGLE n 1.816 0.0107 1.816 0.0107
+SHT CK6   CK5   SINGLE n 1.522 0.0100 1.522 0.0100
+SHT CK5   CK4   SINGLE n 1.519 0.0164 1.519 0.0164
+SHT CK4   CK3   SINGLE n 1.497 0.0200 1.497 0.0200
+SHT CK3   CK2   SINGLE n 1.499 0.0157 1.499 0.0157
+SHT CK2   CK1   DOUBLE n 1.327 0.0151 1.327 0.0151
+SHT CK1   CK    SINGLE n 1.366 0.0200 1.366 0.0200
+SHT CK    OK    DOUBLE n 1.229 0.0129 1.229 0.0129
+SHT CK    N     SINGLE n 1.354 0.0200 1.354 0.0200
+SHT N     CA    SINGLE n 1.457 0.0100 1.457 0.0100
+SHT CA    C     SINGLE n 1.539 0.0100 1.539 0.0100
+SHT CA    CB    SINGLE n 1.538 0.0100 1.538 0.0100
+SHT C     OXT   DOUBLE n 1.247 0.0187 1.247 0.0187
+SHT C     O     SINGLE n 1.247 0.0187 1.247 0.0187
+SHT CB    CG2   SINGLE n 1.511 0.0109 1.511 0.0109
+SHT CB    "O3'" SINGLE n 1.467 0.0151 1.467 0.0151
+SHT "O3'" P     SINGLE n 1.614 0.0178 1.614 0.0178
+SHT P     O1P   DOUBLE n 1.517 0.0192 1.517 0.0192
+SHT P     O2P   SINGLE n 1.517 0.0192 1.517 0.0192
+SHT P     O8P   SINGLE n 1.517 0.0192 1.517 0.0192
+SHT OS2   HO2S  SINGLE n 0.970 0.0120 0.811 0.0200
+SHT CD    HCD1  SINGLE n 1.089 0.0100 0.983 0.0113
+SHT CD    HCD2  SINGLE n 1.089 0.0100 0.983 0.0113
+SHT CC    HCC1  SINGLE n 1.089 0.0100 0.990 0.0100
+SHT CC    HCC2  SINGLE n 1.089 0.0100 0.990 0.0100
+SHT CK6   HK61  SINGLE n 1.089 0.0100 0.981 0.0122
+SHT CK6   HK62  SINGLE n 1.089 0.0100 0.981 0.0122
+SHT CK5   HK51  SINGLE n 1.089 0.0100 0.981 0.0160
+SHT CK5   HK52  SINGLE n 1.089 0.0100 0.981 0.0160
+SHT CK4   HK41  SINGLE n 1.089 0.0100 0.980 0.0160
+SHT CK4   HK42  SINGLE n 1.089 0.0100 0.980 0.0160
+SHT CK3   HK31  SINGLE n 1.089 0.0100 0.983 0.0180
+SHT CK3   HK32  SINGLE n 1.089 0.0100 0.983 0.0180
+SHT CK2   HC2K  SINGLE n 1.082 0.0130 0.943 0.0181
+SHT CK1   HC1K  SINGLE n 1.082 0.0130 0.943 0.0200
+SHT N     HN    SINGLE n 1.016 0.0100 0.874 0.0200
+SHT CA    HCA   SINGLE n 1.089 0.0100 0.997 0.0200
+SHT CB    HCB   SINGLE n 1.089 0.0100 0.989 0.0161
+SHT CG2   HG21  SINGLE n 1.089 0.0100 0.974 0.0145
+SHT CG2   HG22  SINGLE n 1.089 0.0100 0.974 0.0145
+SHT CG2   HG23  SINGLE n 1.089 0.0100 0.974 0.0145
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -135,91 +135,92 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-SHT          CC          S1          SK     103.571    1.50
-SHT         OS3         SG2         OS1     119.289    2.60
-SHT         OS3         SG2         OS2     110.306    2.80
-SHT         OS3         SG2          CD     106.916    1.50
-SHT         OS1         SG2         OS2     110.306    2.80
-SHT         OS1         SG2          CD     106.916    1.50
-SHT         OS2         SG2          CD     103.568    2.80
-SHT         SG2         OS2        HO2S     110.371    3.00
-SHT         SG2          CD          CC     113.041    1.50
-SHT         SG2          CD        HCD1     108.904    1.50
-SHT         SG2          CD        HCD2     108.904    1.50
-SHT          CC          CD        HCD1     108.957    1.50
-SHT          CC          CD        HCD2     108.957    1.50
-SHT        HCD1          CD        HCD2     108.483    1.91
-SHT          S1          CC          CD     114.114    1.50
-SHT          S1          CC        HCC1     108.628    1.50
-SHT          S1          CC        HCC2     108.628    1.50
-SHT          CD          CC        HCC1     109.410    1.50
-SHT          CD          CC        HCC2     109.410    1.50
-SHT        HCC1          CC        HCC2     107.922    1.50
-SHT          S1          SK         CK6     103.571    1.50
-SHT          SK         CK6         CK5     114.114    1.50
-SHT          SK         CK6        HK61     108.628    1.50
-SHT          SK         CK6        HK62     108.628    1.50
-SHT         CK5         CK6        HK61     109.079    1.50
-SHT         CK5         CK6        HK62     109.079    1.50
-SHT        HK61         CK6        HK62     107.680    1.50
-SHT         CK6         CK5         CK4     112.785    1.50
-SHT         CK6         CK5        HK51     108.867    1.50
-SHT         CK6         CK5        HK52     108.867    1.50
-SHT         CK4         CK5        HK51     108.963    1.50
-SHT         CK4         CK5        HK52     108.963    1.50
-SHT        HK51         CK5        HK52     107.852    1.50
-SHT         CK5         CK4         CK3     113.314    2.25
-SHT         CK5         CK4        HK41     108.891    1.50
-SHT         CK5         CK4        HK42     108.891    1.50
-SHT         CK3         CK4        HK41     108.805    1.50
-SHT         CK3         CK4        HK42     108.805    1.50
-SHT        HK41         CK4        HK42     107.646    1.50
-SHT         CK4         CK3         CK2     113.226    1.94
-SHT         CK4         CK3        HK31     108.819    1.50
-SHT         CK4         CK3        HK32     108.819    1.50
-SHT         CK2         CK3        HK31     108.886    1.50
-SHT         CK2         CK3        HK32     108.886    1.50
-SHT        HK31         CK3        HK32     107.922    1.50
-SHT         CK3         CK2         CK1     125.879    2.56
-SHT         CK3         CK2        HC2K     116.963    1.61
-SHT         CK1         CK2        HC2K     117.170    2.02
-SHT         CK2         CK1          CK     123.345    3.00
-SHT         CK2         CK1        HC1K     118.371    2.29
-SHT          CK         CK1        HC1K     118.284    2.13
-SHT         CK1          CK          OK     122.325    1.94
-SHT         CK1          CK           N     115.463    1.50
-SHT          OK          CK           N     122.212    1.75
-SHT          CK           N          CA     122.223    1.88
-SHT          CK           N          HN     117.893    1.50
-SHT          CA           N          HN     119.884    1.61
-SHT           N          CA           C     110.939    1.74
-SHT           N          CA          CB     110.507    1.90
-SHT           N          CA         HCA     107.971    1.50
-SHT           C          CA          CB     110.275    1.50
-SHT           C          CA         HCA     107.601    1.50
-SHT          CB          CA         HCA     108.179    1.50
-SHT          CA           C         OXT     117.371    1.50
-SHT          CA           C           O     117.371    1.50
-SHT         OXT           C           O     125.259    1.50
-SHT          CA          CB         CG2     112.076    1.65
-SHT          CA          CB       "O3'"     109.482    3.00
-SHT          CA          CB         HCB     108.267    2.06
-SHT         CG2          CB       "O3'"     107.625    1.78
-SHT         CG2          CB         HCB     109.344    1.50
-SHT       "O3'"          CB         HCB     109.315    1.50
-SHT          CB         CG2        HG21     109.508    1.50
-SHT          CB         CG2        HG22     109.508    1.50
-SHT          CB         CG2        HG23     109.508    1.50
-SHT        HG21         CG2        HG22     109.425    1.50
-SHT        HG21         CG2        HG23     109.425    1.50
-SHT        HG22         CG2        HG23     109.425    1.50
-SHT          CB       "O3'"           P     121.496    2.55
-SHT       "O3'"           P         O1P     105.808    2.07
-SHT       "O3'"           P         O2P     105.808    2.07
-SHT       "O3'"           P         O8P     105.808    2.07
-SHT         O1P           P         O2P     112.864    1.69
-SHT         O1P           P         O8P     112.864    1.69
-SHT         O2P           P         O8P     112.864    1.69
+SHT CC    S1    SK    103.571 1.50
+SHT OS3   SG2   OS1   119.289 2.60
+SHT OS3   SG2   OS2   110.306 2.80
+SHT OS3   SG2   CD    106.916 1.50
+SHT OS1   SG2   OS2   110.306 2.80
+SHT OS1   SG2   CD    106.916 1.50
+SHT OS2   SG2   CD    103.568 2.80
+SHT SG2   OS2   HO2S  110.371 3.00
+SHT SG2   CD    CC    113.041 1.50
+SHT SG2   CD    HCD1  108.904 1.50
+SHT SG2   CD    HCD2  108.904 1.50
+SHT CC    CD    HCD1  108.957 1.50
+SHT CC    CD    HCD2  108.957 1.50
+SHT HCD1  CD    HCD2  108.483 1.91
+SHT S1    CC    CD    114.114 1.50
+SHT S1    CC    HCC1  108.628 1.50
+SHT S1    CC    HCC2  108.628 1.50
+SHT CD    CC    HCC1  109.410 1.50
+SHT CD    CC    HCC2  109.410 1.50
+SHT HCC1  CC    HCC2  107.922 1.50
+SHT S1    SK    CK6   103.571 1.50
+SHT SK    CK6   CK5   114.114 1.50
+SHT SK    CK6   HK61  108.628 1.50
+SHT SK    CK6   HK62  108.628 1.50
+SHT CK5   CK6   HK61  109.079 1.50
+SHT CK5   CK6   HK62  109.079 1.50
+SHT HK61  CK6   HK62  107.680 1.50
+SHT CK6   CK5   CK4   112.785 1.50
+SHT CK6   CK5   HK51  108.867 1.50
+SHT CK6   CK5   HK52  108.867 1.50
+SHT CK4   CK5   HK51  108.963 1.50
+SHT CK4   CK5   HK52  108.963 1.50
+SHT HK51  CK5   HK52  107.852 1.50
+SHT CK5   CK4   CK3   113.314 2.25
+SHT CK5   CK4   HK41  108.891 1.50
+SHT CK5   CK4   HK42  108.891 1.50
+SHT CK3   CK4   HK41  108.805 1.50
+SHT CK3   CK4   HK42  108.805 1.50
+SHT HK41  CK4   HK42  107.646 1.50
+SHT CK4   CK3   CK2   113.226 1.94
+SHT CK4   CK3   HK31  108.819 1.50
+SHT CK4   CK3   HK32  108.819 1.50
+SHT CK2   CK3   HK31  108.886 1.50
+SHT CK2   CK3   HK32  108.886 1.50
+SHT HK31  CK3   HK32  107.922 1.50
+SHT CK3   CK2   CK1   125.879 2.56
+SHT CK3   CK2   HC2K  116.963 1.61
+SHT CK1   CK2   HC2K  117.170 2.02
+SHT CK2   CK1   CK    123.345 3.00
+SHT CK2   CK1   HC1K  118.371 2.29
+SHT CK    CK1   HC1K  118.284 2.13
+SHT CK1   CK    OK    122.325 1.94
+SHT CK1   CK    N     115.463 1.50
+SHT OK    CK    N     122.212 1.75
+SHT CK    N     CA    122.223 1.88
+SHT CK    N     HN    117.893 1.50
+SHT CA    N     HN    119.884 1.61
+SHT N     CA    C     110.939 1.74
+SHT N     CA    CB    110.507 1.90
+SHT N     CA    HCA   107.971 1.50
+SHT C     CA    CB    110.275 1.50
+SHT C     CA    HCA   107.601 1.50
+SHT CB    CA    HCA   108.179 1.50
+SHT CA    C     OXT   117.371 1.50
+SHT CA    C     O     117.371 1.50
+SHT OXT   C     O     125.259 1.50
+SHT CA    CB    CG2   112.076 1.65
+SHT CA    CB    "O3'" 109.482 3.00
+SHT CA    CB    HCB   108.267 2.06
+SHT CG2   CB    "O3'" 107.625 1.78
+SHT CG2   CB    HCB   109.344 1.50
+SHT "O3'" CB    HCB   109.315 1.50
+SHT CB    CG2   HG21  109.508 1.50
+SHT CB    CG2   HG22  109.508 1.50
+SHT CB    CG2   HG23  109.508 1.50
+SHT HG21  CG2   HG22  109.425 1.50
+SHT HG21  CG2   HG23  109.425 1.50
+SHT HG22  CG2   HG23  109.425 1.50
+SHT CB    "O3'" P     121.496 2.55
+SHT "O3'" P     O1P   105.808 2.07
+SHT "O3'" P     O2P   105.808 2.07
+SHT "O3'" P     O8P   105.808 2.07
+SHT O1P   P     O2P   112.864 1.69
+SHT O1P   P     O8P   112.864 1.69
+SHT O2P   P     O8P   112.864 1.69
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -230,25 +231,26 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-SHT             sp3_sp3_1          CD          CC          S1          SK     180.000    10.0     3
-SHT             sp3_sp3_4          CC          S1          SK         CK6     180.000    10.0     3
-SHT            sp3_sp3_47         CK2         CK3         CK4         CK5     180.000    10.0     3
-SHT             sp2_sp3_2         CK1         CK2         CK3         CK4     120.000    10.0     6
-SHT             sp2_sp2_1          CK         CK1         CK2         CK3     180.000     5.0     2
-SHT             sp2_sp2_7          OK          CK         CK1         CK2       0.000     5.0     2
-SHT             sp2_sp2_9         CK1          CK           N          CA     180.000     5.0     2
-SHT             sp2_sp3_7          CK           N          CA           C       0.000    10.0     6
-SHT            sp2_sp3_13         OXT           C          CA           N       0.000    10.0     6
-SHT            sp3_sp3_56           N          CA          CB         CG2     180.000    10.0     3
-SHT            sp3_sp3_65          CA          CB         CG2        HG21     180.000    10.0     3
-SHT            sp3_sp3_74          CA          CB       "O3'"           P     180.000    10.0     3
-SHT            sp3_sp3_79          CB       "O3'"           P         O1P      60.000    10.0     3
-SHT             sp3_sp3_6        HO2S         OS2         SG2         OS3     -60.000    10.0     3
-SHT             sp3_sp3_8          CC          CD         SG2         OS3     180.000    10.0     3
-SHT            sp3_sp3_17          S1          CC          CD         SG2     180.000    10.0     3
-SHT            sp3_sp3_26         CK5         CK6          SK          S1     180.000    10.0     3
-SHT            sp3_sp3_29         CK4         CK5         CK6          SK     180.000    10.0     3
-SHT            sp3_sp3_38         CK3         CK4         CK5         CK6     180.000    10.0     3
+SHT sp3_sp3_1  CD   CC    S1    SK   180.000 10.0 3
+SHT sp3_sp3_4  CC   S1    SK    CK6  180.000 10.0 3
+SHT sp3_sp3_47 CK2  CK3   CK4   CK5  180.000 10.0 3
+SHT sp2_sp3_2  CK1  CK2   CK3   CK4  120.000 10.0 6
+SHT sp2_sp2_1  CK   CK1   CK2   CK3  180.000 5.0  2
+SHT sp2_sp2_7  OK   CK    CK1   CK2  0.000   5.0  2
+SHT sp2_sp2_9  CK1  CK    N     CA   180.000 5.0  2
+SHT sp2_sp3_7  CK   N     CA    C    0.000   10.0 6
+SHT sp2_sp3_13 OXT  C     CA    N    0.000   10.0 6
+SHT sp3_sp3_56 N    CA    CB    CG2  180.000 10.0 3
+SHT sp3_sp3_65 CA   CB    CG2   HG21 180.000 10.0 3
+SHT sp3_sp3_74 CA   CB    "O3'" P    180.000 10.0 3
+SHT sp3_sp3_79 CB   "O3'" P     O1P  60.000  10.0 3
+SHT sp3_sp3_6  HO2S OS2   SG2   OS3  -60.000 10.0 3
+SHT sp3_sp3_8  CC   CD    SG2   OS3  180.000 10.0 3
+SHT sp3_sp3_17 S1   CC    CD    SG2  180.000 10.0 3
+SHT sp3_sp3_26 CK5  CK6   SK    S1   180.000 10.0 3
+SHT sp3_sp3_29 CK4  CK5   CK6   SK   180.000 10.0 3
+SHT sp3_sp3_38 CK3  CK4   CK5   CK6  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -257,54 +259,67 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-SHT    chir_1    SG2    OS3    OS1    OS2    both
-SHT    chir_2    CA    N    C    CB    positive
-SHT    chir_3    CB    "O3'"    CA    CG2    negative
-SHT    chir_4    P    "O3'"    O2P    O8P    both
+SHT chir_1 SG2 OS3   OS1 OS2 both
+SHT chir_2 CA  N     C   CB  positive
+SHT chir_3 CB  "O3'" CA  CG2 negative
+SHT chir_4 P   "O3'" O2P O8P both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-SHT    plan-1         CK1   0.020
-SHT    plan-1         CK2   0.020
-SHT    plan-1         CK3   0.020
-SHT    plan-1        HC2K   0.020
-SHT    plan-2          CK   0.020
-SHT    plan-2         CK1   0.020
-SHT    plan-2         CK2   0.020
-SHT    plan-2        HC1K   0.020
-SHT    plan-3          CK   0.020
-SHT    plan-3         CK1   0.020
-SHT    plan-3           N   0.020
-SHT    plan-3          OK   0.020
-SHT    plan-4          CA   0.020
-SHT    plan-4          CK   0.020
-SHT    plan-4          HN   0.020
-SHT    plan-4           N   0.020
-SHT    plan-5           C   0.020
-SHT    plan-5          CA   0.020
-SHT    plan-5           O   0.020
-SHT    plan-5         OXT   0.020
+SHT plan-1 CK1  0.020
+SHT plan-1 CK2  0.020
+SHT plan-1 CK3  0.020
+SHT plan-1 HC2K 0.020
+SHT plan-2 CK   0.020
+SHT plan-2 CK1  0.020
+SHT plan-2 CK2  0.020
+SHT plan-2 HC1K 0.020
+SHT plan-3 CK   0.020
+SHT plan-3 CK1  0.020
+SHT plan-3 N    0.020
+SHT plan-3 OK   0.020
+SHT plan-4 CA   0.020
+SHT plan-4 CK   0.020
+SHT plan-4 HN   0.020
+SHT plan-4 N    0.020
+SHT plan-5 C    0.020
+SHT plan-5 CA   0.020
+SHT plan-5 O    0.020
+SHT plan-5 OXT  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-SHT           SMILES              ACDLabs 10.04                                                                                                                                            O=S(=O)(O)CCSSCCCC\C=C\C(=O)NC(C(=O)O)C(OP(=O)(O)O)C
-SHT SMILES_CANONICAL               CACTVS 3.341                                                                                                                               C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)/C=C/CCCCSSCC[S](O)(=O)=O)C(O)=O
-SHT           SMILES               CACTVS 3.341                                                                                                                                    C[CH](O[P](O)(O)=O)[CH](NC(=O)C=CCCCCSSCC[S](O)(=O)=O)C(O)=O
-SHT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                     C[C@H]([C@@H](C(=O)O)NC(=O)C=CCCCCSSCCS(=O)(=O)O)OP(=O)(O)O
-SHT           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                              CC(C(C(=O)O)NC(=O)C=CCCCCSSCCS(=O)(=O)O)OP(=O)(O)O
-SHT            InChI                InChI  1.03 InChI=1S/C13H24NO10PS3/c1-10(24-25(18,19)20)12(13(16)17)14-11(15)6-4-2-3-5-7-26-27-8-9-28(21,22)23/h4,6,10,12H,2-3,5,7-9H2,1H3,(H,14,15)(H,16,17)(H2,18,19,20)(H,21,22,23)/b6-4+/t10-,12+/m1/s1
-SHT         InChIKey                InChI  1.03                                                                                                                                                                     CVQZOMWKHKTFCZ-UIALCFJWSA-N
+SHT SMILES           ACDLabs              10.04 O=S(=O)(O)CCSSCCCC\C=C\C(=O)NC(C(=O)O)C(OP(=O)(O)O)C
+SHT SMILES_CANONICAL CACTVS               3.341 C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)/C=C/CCCCSSCC[S](O)(=O)=O)C(O)=O
+SHT SMILES           CACTVS               3.341 C[CH](O[P](O)(O)=O)[CH](NC(=O)C=CCCCCSSCC[S](O)(=O)=O)C(O)=O
+SHT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@H]([C@@H](C(=O)O)NC(=O)C=CCCCCSSCCS(=O)(=O)O)OP(=O)(O)O
+SHT SMILES           "OpenEye OEToolkits" 1.5.0 CC(C(C(=O)O)NC(=O)C=CCCCCSSCCS(=O)(=O)O)OP(=O)(O)O
+SHT InChI            InChI                1.03  InChI=1S/C13H24NO10PS3/c1-10(24-25(18,19)20)12(13(16)17)14-11(15)6-4-2-3-5-7-26-27-8-9-28(21,22)23/h4,6,10,12H,2-3,5,7-9H2,1H3,(H,14,15)(H,16,17)(H2,18,19,20)(H,21,22,23)/b6-4+/t10-,12+/m1/s1
+SHT InChIKey         InChI                1.03  CVQZOMWKHKTFCZ-UIALCFJWSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-SHT acedrg               243         "dictionary generator"                  
-SHT acedrg_database      11          "data source"                           
-SHT rdkit                2017.03.2   "Chemoinformatics tool"
-SHT refmac5              5.8.0238    "optimization tool"                     
+SHT acedrg          243       "dictionary generator"
+SHT acedrg_database 11        "data source"
+SHT rdkit           2017.03.2 "Chemoinformatics tool"
+SHT refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+SHT M-peptide OXT O
+SHT M-peptide CK  CN
+SHT M-peptide O   OXT
+SHT M-peptide HN  H

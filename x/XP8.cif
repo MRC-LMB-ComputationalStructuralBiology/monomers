@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-XP8     XP8      O-phosphono-N-(8-sulfanyloctanoyl)-L-threonine     NON-POLYMER     43     22     .     
-#
+XP8 XP8 O-phosphono-N-(8-sulfanyloctanoyl)-L-threonine NON-POLYMER 43 22 .
+
 data_comp_XP8
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,49 +19,50 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-XP8     C       C       C       0       23.436      39.380      -45.569     
-XP8     N       N       NH1     0       24.327      38.727      -47.778     
-XP8     O       O       OC      -1      23.028      40.414      -45.005     
-XP8     P       P       P       0       21.106      36.187      -45.932     
-XP8     C1      C       C       0       24.833      39.277      -48.891     
-XP8     O1      O       O       0       24.336      40.262      -49.435     
-XP8     C2      C       CH2     0       26.067      38.612      -49.467     
-XP8     C3      C       CH2     0       27.330      39.012      -48.761     
-XP8     C4      C       CH2     0       28.583      38.313      -49.278     
-XP8     C5      C       CH2     0       28.947      38.582      -50.731     
-XP8     C6      C       CH2     0       29.172      40.037      -51.099     
-XP8     C7      C       CH2     0       30.319      40.689      -50.359     
-XP8     C8      C       CH2     0       30.620      42.096      -50.854     
-XP8     S8      S       SH1     0       31.478      42.159      -52.446     
-XP8     CA      C       CH1     0       23.160      39.244      -47.079     
-XP8     CB      C       CH1     0       21.926      38.354      -47.317     
-XP8     CG      C       CH3     0       21.557      38.264      -48.780     
-XP8     O1P     O       OP      -1      21.711      34.817      -45.689     
-XP8     O2P     O       OP      -1      20.956      36.999      -44.659     
-XP8     O3P     O       O       0       19.828      36.130      -46.748     
-XP8     O4P     O       O2      0       22.175      36.986      -46.841     
-XP8     OXT     O       O       0       24.050      38.449      -45.007     
-XP8     HN      H       H       0       24.726      38.019      -47.456     
-XP8     H2      H       H       0       26.140      38.853      -50.414     
-XP8     H2A     H       H       0       25.964      37.638      -49.411     
-XP8     H3      H       H       0       27.232      38.809      -47.807     
-XP8     H3A     H       H       0       27.447      39.980      -48.845     
-XP8     H4      H       H       0       28.463      37.346      -49.166     
-XP8     H4A     H       H       0       29.340      38.578      -48.713     
-XP8     H5      H       H       0       28.235      38.225      -51.302     
-XP8     H5A     H       H       0       29.766      38.083      -50.939     
-XP8     H6      H       H       0       28.350      40.542      -50.923     
-XP8     H6A     H       H       0       29.348      40.090      -52.062     
-XP8     H7      H       H       0       31.124      40.138      -50.465     
-XP8     H7A     H       H       0       30.104      40.731      -49.403     
-XP8     H8      H       H       0       31.201      42.538      -50.204     
-XP8     H8A     H       H       0       29.775      42.573      -50.970     
-XP8     HS8     H       HSH1    0       31.518      43.355      -52.571     
-XP8     HA      H       H       0       22.953      40.156      -47.421     
-XP8     HB      H       H       0       21.169      38.744      -46.814     
-XP8     HG      H       H       0       20.701      37.807      -48.871     
-XP8     HGA     H       H       0       22.243      37.766      -49.259     
-XP8     HGB     H       H       0       21.486      39.161      -49.153     
+XP8 C   C C    0  23.436 39.380 -45.569
+XP8 N   N NH1  0  24.327 38.727 -47.778
+XP8 O   O OC   -1 23.028 40.414 -45.005
+XP8 P   P P    0  21.106 36.187 -45.932
+XP8 C1  C C    0  24.833 39.277 -48.891
+XP8 O1  O O    0  24.336 40.262 -49.435
+XP8 C2  C CH2  0  26.067 38.612 -49.467
+XP8 C3  C CH2  0  27.330 39.012 -48.761
+XP8 C4  C CH2  0  28.583 38.313 -49.278
+XP8 C5  C CH2  0  28.947 38.582 -50.731
+XP8 C6  C CH2  0  29.172 40.037 -51.099
+XP8 C7  C CH2  0  30.319 40.689 -50.359
+XP8 C8  C CH2  0  30.620 42.096 -50.854
+XP8 S8  S SH1  0  31.478 42.159 -52.446
+XP8 CA  C CH1  0  23.160 39.244 -47.079
+XP8 CB  C CH1  0  21.926 38.354 -47.317
+XP8 CG  C CH3  0  21.557 38.264 -48.780
+XP8 O1P O OP   -1 21.711 34.817 -45.689
+XP8 O2P O OP   -1 20.956 36.999 -44.659
+XP8 O3P O O    0  19.828 36.130 -46.748
+XP8 O4P O O2   0  22.175 36.986 -46.841
+XP8 OXT O O    0  24.050 38.449 -45.007
+XP8 HN  H H    0  24.726 38.019 -47.456
+XP8 H2  H H    0  26.140 38.853 -50.414
+XP8 H2A H H    0  25.964 37.638 -49.411
+XP8 H3  H H    0  27.232 38.809 -47.807
+XP8 H3A H H    0  27.447 39.980 -48.845
+XP8 H4  H H    0  28.463 37.346 -49.166
+XP8 H4A H H    0  29.340 38.578 -48.713
+XP8 H5  H H    0  28.235 38.225 -51.302
+XP8 H5A H H    0  29.766 38.083 -50.939
+XP8 H6  H H    0  28.350 40.542 -50.923
+XP8 H6A H H    0  29.348 40.090 -52.062
+XP8 H7  H H    0  31.124 40.138 -50.465
+XP8 H7A H H    0  30.104 40.731 -49.403
+XP8 H8  H H    0  31.201 42.538 -50.204
+XP8 H8A H H    0  29.775 42.573 -50.970
+XP8 HS8 H HSH1 0  31.518 43.355 -52.571
+XP8 HA  H H    0  22.953 40.156 -47.421
+XP8 HB  H H    0  21.169 38.744 -46.814
+XP8 HG  H H    0  20.701 37.807 -48.871
+XP8 HGA H H    0  22.243 37.766 -49.259
+XP8 HGB H H    0  21.486 39.161 -49.153
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -74,48 +73,49 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-XP8           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
-XP8           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
-XP8           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
-XP8           N          C1      SINGLE       n     1.334  0.0100     1.334  0.0100
-XP8           N          CA      SINGLE       n     1.450  0.0100     1.450  0.0100
-XP8           P         O3P      DOUBLE       n     1.517  0.0192     1.517  0.0192
-XP8           P         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
-XP8           P         O4P      SINGLE       n     1.614  0.0178     1.614  0.0178
-XP8           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
-XP8          C1          C2      SINGLE       n     1.514  0.0100     1.514  0.0100
-XP8          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
-XP8          C2          C3      SINGLE       n     1.497  0.0200     1.497  0.0200
-XP8          C3          C4      SINGLE       n     1.519  0.0164     1.519  0.0164
-XP8          C4          C5      SINGLE       n     1.509  0.0200     1.509  0.0200
-XP8          C5          C6      SINGLE       n     1.509  0.0200     1.509  0.0200
-XP8          C6          C7      SINGLE       n     1.510  0.0200     1.510  0.0200
-XP8          C7          C8      SINGLE       n     1.522  0.0100     1.522  0.0100
-XP8          C8          S8      SINGLE       n     1.810  0.0100     1.810  0.0100
-XP8          CA          CB      SINGLE       n     1.538  0.0100     1.538  0.0100
-XP8          CB          CG      SINGLE       n     1.511  0.0109     1.511  0.0109
-XP8          CB         O4P      SINGLE       n     1.467  0.0151     1.467  0.0151
-XP8           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
-XP8          C2          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
-XP8          C2         H2A      SINGLE       n     1.089  0.0100     0.981  0.0185
-XP8          C3          H3      SINGLE       n     1.089  0.0100     0.980  0.0160
-XP8          C3         H3A      SINGLE       n     1.089  0.0100     0.980  0.0160
-XP8          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP8          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP8          C5          H5      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP8          C5         H5A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP8          C6          H6      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP8          C6         H6A      SINGLE       n     1.089  0.0100     0.981  0.0163
-XP8          C7          H7      SINGLE       n     1.089  0.0100     0.981  0.0160
-XP8          C7         H7A      SINGLE       n     1.089  0.0100     0.981  0.0160
-XP8          C8          H8      SINGLE       n     1.089  0.0100     0.977  0.0169
-XP8          C8         H8A      SINGLE       n     1.089  0.0100     0.977  0.0169
-XP8          S8         HS8      SINGLE       n     1.338  0.0100     1.203  0.0200
-XP8          CA          HA      SINGLE       n     1.089  0.0100     0.997  0.0200
-XP8          CB          HB      SINGLE       n     1.089  0.0100     0.989  0.0161
-XP8          CG          HG      SINGLE       n     1.089  0.0100     0.974  0.0145
-XP8          CG         HGA      SINGLE       n     1.089  0.0100     0.974  0.0145
-XP8          CG         HGB      SINGLE       n     1.089  0.0100     0.974  0.0145
+XP8 C  CA  SINGLE n 1.539 0.0100 1.539 0.0100
+XP8 C  OXT DOUBLE n 1.247 0.0187 1.247 0.0187
+XP8 C  O   SINGLE n 1.247 0.0187 1.247 0.0187
+XP8 N  C1  SINGLE n 1.334 0.0100 1.334 0.0100
+XP8 N  CA  SINGLE n 1.450 0.0100 1.450 0.0100
+XP8 P  O3P DOUBLE n 1.517 0.0192 1.517 0.0192
+XP8 P  O1P SINGLE n 1.517 0.0192 1.517 0.0192
+XP8 P  O4P SINGLE n 1.614 0.0178 1.614 0.0178
+XP8 P  O2P SINGLE n 1.517 0.0192 1.517 0.0192
+XP8 C1 C2  SINGLE n 1.514 0.0100 1.514 0.0100
+XP8 C1 O1  DOUBLE n 1.229 0.0102 1.229 0.0102
+XP8 C2 C3  SINGLE n 1.497 0.0200 1.497 0.0200
+XP8 C3 C4  SINGLE n 1.519 0.0164 1.519 0.0164
+XP8 C4 C5  SINGLE n 1.509 0.0200 1.509 0.0200
+XP8 C5 C6  SINGLE n 1.509 0.0200 1.509 0.0200
+XP8 C6 C7  SINGLE n 1.510 0.0200 1.510 0.0200
+XP8 C7 C8  SINGLE n 1.522 0.0100 1.522 0.0100
+XP8 C8 S8  SINGLE n 1.810 0.0100 1.810 0.0100
+XP8 CA CB  SINGLE n 1.538 0.0100 1.538 0.0100
+XP8 CB CG  SINGLE n 1.511 0.0109 1.511 0.0109
+XP8 CB O4P SINGLE n 1.467 0.0151 1.467 0.0151
+XP8 N  HN  SINGLE n 1.016 0.0100 0.873 0.0200
+XP8 C2 H2  SINGLE n 1.089 0.0100 0.981 0.0185
+XP8 C2 H2A SINGLE n 1.089 0.0100 0.981 0.0185
+XP8 C3 H3  SINGLE n 1.089 0.0100 0.980 0.0160
+XP8 C3 H3A SINGLE n 1.089 0.0100 0.980 0.0160
+XP8 C4 H4  SINGLE n 1.089 0.0100 0.981 0.0163
+XP8 C4 H4A SINGLE n 1.089 0.0100 0.981 0.0163
+XP8 C5 H5  SINGLE n 1.089 0.0100 0.981 0.0163
+XP8 C5 H5A SINGLE n 1.089 0.0100 0.981 0.0163
+XP8 C6 H6  SINGLE n 1.089 0.0100 0.981 0.0163
+XP8 C6 H6A SINGLE n 1.089 0.0100 0.981 0.0163
+XP8 C7 H7  SINGLE n 1.089 0.0100 0.981 0.0160
+XP8 C7 H7A SINGLE n 1.089 0.0100 0.981 0.0160
+XP8 C8 H8  SINGLE n 1.089 0.0100 0.977 0.0169
+XP8 C8 H8A SINGLE n 1.089 0.0100 0.977 0.0169
+XP8 S8 HS8 SINGLE n 1.338 0.0100 1.203 0.0200
+XP8 CA HA  SINGLE n 1.089 0.0100 0.997 0.0200
+XP8 CB HB  SINGLE n 1.089 0.0100 0.989 0.0161
+XP8 CG HG  SINGLE n 1.089 0.0100 0.974 0.0145
+XP8 CG HGA SINGLE n 1.089 0.0100 0.974 0.0145
+XP8 CG HGB SINGLE n 1.089 0.0100 0.974 0.0145
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -123,83 +123,84 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-XP8          CA           C         OXT     117.371    1.50
-XP8          CA           C           O     117.371    1.50
-XP8         OXT           C           O     125.259    1.50
-XP8          C1           N          CA     121.656    1.76
-XP8          C1           N          HN     118.410    1.50
-XP8          CA           N          HN     119.934    1.61
-XP8         O3P           P         O1P     112.864    1.69
-XP8         O3P           P         O4P     105.808    2.07
-XP8         O3P           P         O2P     112.864    1.69
-XP8         O1P           P         O4P     105.808    2.07
-XP8         O1P           P         O2P     112.864    1.69
-XP8         O4P           P         O2P     105.808    2.07
-XP8           N          C1          C2     116.136    1.50
-XP8           N          C1          O1     122.033    1.50
-XP8          C2          C1          O1     121.831    1.50
-XP8          C1          C2          C3     112.836    1.50
-XP8          C1          C2          H2     108.930    1.50
-XP8          C1          C2         H2A     108.930    1.50
-XP8          C3          C2          H2     108.897    1.50
-XP8          C3          C2         H2A     108.897    1.50
-XP8          H2          C2         H2A     107.846    1.50
-XP8          C2          C3          C4     113.472    1.51
-XP8          C2          C3          H3     108.795    1.50
-XP8          C2          C3         H3A     108.795    1.50
-XP8          C4          C3          H3     108.698    1.50
-XP8          C4          C3         H3A     108.698    1.50
-XP8          H3          C3         H3A     107.646    1.50
-XP8          C3          C4          C5     114.243    1.69
-XP8          C3          C4          H4     108.698    1.50
-XP8          C3          C4         H4A     108.698    1.50
-XP8          C5          C4          H4     108.698    1.50
-XP8          C5          C4         H4A     108.698    1.50
-XP8          H4          C4         H4A     107.646    1.50
-XP8          C4          C5          C6     114.243    1.69
-XP8          C4          C5          H5     108.698    1.50
-XP8          C4          C5         H5A     108.698    1.50
-XP8          C6          C5          H5     108.698    1.50
-XP8          C6          C5         H5A     108.698    1.50
-XP8          H5          C5         H5A     107.646    1.50
-XP8          C5          C6          C7     113.198    1.72
-XP8          C5          C6          H6     108.698    1.50
-XP8          C5          C6         H6A     108.698    1.50
-XP8          C7          C6          H6     108.891    1.50
-XP8          C7          C6         H6A     108.891    1.50
-XP8          H6          C6         H6A     107.646    1.50
-XP8          C6          C7          C8     112.785    1.50
-XP8          C6          C7          H7     108.963    1.50
-XP8          C6          C7         H7A     108.963    1.50
-XP8          C8          C7          H7     108.591    1.50
-XP8          C8          C7         H7A     108.591    1.50
-XP8          H7          C7         H7A     107.852    1.50
-XP8          C7          C8          S8     113.854    1.50
-XP8          C7          C8          H8     108.231    1.50
-XP8          C7          C8         H8A     108.231    1.50
-XP8          S8          C8          H8     105.353    2.82
-XP8          S8          C8         H8A     105.353    2.82
-XP8          H8          C8         H8A     111.425    1.71
-XP8          C8          S8         HS8      98.146    3.00
-XP8           C          CA           N     110.939    1.74
-XP8           C          CA          CB     110.275    1.50
-XP8           C          CA          HA     107.601    1.50
-XP8           N          CA          CB     110.507    1.90
-XP8           N          CA          HA     107.971    1.50
-XP8          CB          CA          HA     108.179    1.50
-XP8          CA          CB          CG     112.076    1.65
-XP8          CA          CB         O4P     109.482    3.00
-XP8          CA          CB          HB     108.267    2.06
-XP8          CG          CB         O4P     107.625    1.78
-XP8          CG          CB          HB     109.344    1.50
-XP8         O4P          CB          HB     109.315    1.50
-XP8          CB          CG          HG     109.508    1.50
-XP8          CB          CG         HGA     109.508    1.50
-XP8          CB          CG         HGB     109.508    1.50
-XP8          HG          CG         HGA     109.425    1.50
-XP8          HG          CG         HGB     109.425    1.50
-XP8         HGA          CG         HGB     109.425    1.50
-XP8           P         O4P          CB     121.496    2.55
+XP8 CA  C   OXT 117.371 1.50
+XP8 CA  C   O   117.371 1.50
+XP8 OXT C   O   125.259 1.50
+XP8 C1  N   CA  121.656 1.76
+XP8 C1  N   HN  118.410 1.50
+XP8 CA  N   HN  119.934 1.61
+XP8 O3P P   O1P 112.864 1.69
+XP8 O3P P   O4P 105.808 2.07
+XP8 O3P P   O2P 112.864 1.69
+XP8 O1P P   O4P 105.808 2.07
+XP8 O1P P   O2P 112.864 1.69
+XP8 O4P P   O2P 105.808 2.07
+XP8 N   C1  C2  116.136 1.50
+XP8 N   C1  O1  122.033 1.50
+XP8 C2  C1  O1  121.831 1.50
+XP8 C1  C2  C3  112.836 1.50
+XP8 C1  C2  H2  108.930 1.50
+XP8 C1  C2  H2A 108.930 1.50
+XP8 C3  C2  H2  108.897 1.50
+XP8 C3  C2  H2A 108.897 1.50
+XP8 H2  C2  H2A 107.846 1.50
+XP8 C2  C3  C4  113.472 1.51
+XP8 C2  C3  H3  108.795 1.50
+XP8 C2  C3  H3A 108.795 1.50
+XP8 C4  C3  H3  108.698 1.50
+XP8 C4  C3  H3A 108.698 1.50
+XP8 H3  C3  H3A 107.646 1.50
+XP8 C3  C4  C5  114.243 1.69
+XP8 C3  C4  H4  108.698 1.50
+XP8 C3  C4  H4A 108.698 1.50
+XP8 C5  C4  H4  108.698 1.50
+XP8 C5  C4  H4A 108.698 1.50
+XP8 H4  C4  H4A 107.646 1.50
+XP8 C4  C5  C6  114.243 1.69
+XP8 C4  C5  H5  108.698 1.50
+XP8 C4  C5  H5A 108.698 1.50
+XP8 C6  C5  H5  108.698 1.50
+XP8 C6  C5  H5A 108.698 1.50
+XP8 H5  C5  H5A 107.646 1.50
+XP8 C5  C6  C7  113.198 1.72
+XP8 C5  C6  H6  108.698 1.50
+XP8 C5  C6  H6A 108.698 1.50
+XP8 C7  C6  H6  108.891 1.50
+XP8 C7  C6  H6A 108.891 1.50
+XP8 H6  C6  H6A 107.646 1.50
+XP8 C6  C7  C8  112.785 1.50
+XP8 C6  C7  H7  108.963 1.50
+XP8 C6  C7  H7A 108.963 1.50
+XP8 C8  C7  H7  108.591 1.50
+XP8 C8  C7  H7A 108.591 1.50
+XP8 H7  C7  H7A 107.852 1.50
+XP8 C7  C8  S8  113.854 1.50
+XP8 C7  C8  H8  108.231 1.50
+XP8 C7  C8  H8A 108.231 1.50
+XP8 S8  C8  H8  105.353 2.82
+XP8 S8  C8  H8A 105.353 2.82
+XP8 H8  C8  H8A 111.425 1.71
+XP8 C8  S8  HS8 98.146  3.00
+XP8 C   CA  N   110.939 1.74
+XP8 C   CA  CB  110.275 1.50
+XP8 C   CA  HA  107.601 1.50
+XP8 N   CA  CB  110.507 1.90
+XP8 N   CA  HA  107.971 1.50
+XP8 CB  CA  HA  108.179 1.50
+XP8 CA  CB  CG  112.076 1.65
+XP8 CA  CB  O4P 109.482 3.00
+XP8 CA  CB  HB  108.267 2.06
+XP8 CG  CB  O4P 107.625 1.78
+XP8 CG  CB  HB  109.344 1.50
+XP8 O4P CB  HB  109.315 1.50
+XP8 CB  CG  HG  109.508 1.50
+XP8 CB  CG  HGA 109.508 1.50
+XP8 CB  CG  HGB 109.508 1.50
+XP8 HG  CG  HGA 109.425 1.50
+XP8 HG  CG  HGB 109.425 1.50
+XP8 HGA CG  HGB 109.425 1.50
+XP8 P   O4P CB  121.496 2.55
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -210,21 +211,22 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-XP8             sp2_sp3_1         OXT           C          CA           N       0.000    10.0     6
-XP8            sp3_sp3_40          C5          C6          C7          C8     180.000    10.0     3
-XP8            sp3_sp3_49          C6          C7          C8          S8     180.000    10.0     3
-XP8            sp3_sp3_58          C7          C8          S8         HS8     180.000    10.0     3
-XP8            sp3_sp3_61           C          CA          CB          CG     180.000    10.0     3
-XP8            sp3_sp3_70          CA          CB          CG          HG     180.000    10.0     3
-XP8            sp3_sp3_79          CA          CB         O4P           P     180.000    10.0     3
-XP8             sp2_sp3_7          C1           N          CA           C       0.000    10.0     6
-XP8             sp2_sp2_1          C2          C1           N          CA     180.000     5.0     2
-XP8             sp3_sp3_3          CB         O4P           P         O3P      60.000    10.0     3
-XP8            sp2_sp3_14           N          C1          C2          C3     120.000    10.0     6
-XP8             sp3_sp3_4          C1          C2          C3          C4     180.000    10.0     3
-XP8            sp3_sp3_13          C2          C3          C4          C5     180.000    10.0     3
-XP8            sp3_sp3_22          C3          C4          C5          C6     180.000    10.0     3
-XP8            sp3_sp3_31          C4          C5          C6          C7     180.000    10.0     3
+XP8 sp2_sp3_1  OXT C   CA  N   0.000   10.0 6
+XP8 sp3_sp3_40 C5  C6  C7  C8  180.000 10.0 3
+XP8 sp3_sp3_49 C6  C7  C8  S8  180.000 10.0 3
+XP8 sp3_sp3_58 C7  C8  S8  HS8 180.000 10.0 3
+XP8 sp3_sp3_61 C   CA  CB  CG  180.000 10.0 3
+XP8 sp3_sp3_70 CA  CB  CG  HG  180.000 10.0 3
+XP8 sp3_sp3_79 CA  CB  O4P P   180.000 10.0 3
+XP8 sp2_sp3_7  C1  N   CA  C   0.000   10.0 6
+XP8 sp2_sp2_1  C2  C1  N   CA  180.000 5.0  2
+XP8 sp3_sp3_3  CB  O4P P   O3P 60.000  10.0 3
+XP8 sp2_sp3_14 N   C1  C2  C3  120.000 10.0 6
+XP8 sp3_sp3_4  C1  C2  C3  C4  180.000 10.0 3
+XP8 sp3_sp3_13 C2  C3  C4  C5  180.000 10.0 3
+XP8 sp3_sp3_22 C3  C4  C5  C6  180.000 10.0 3
+XP8 sp3_sp3_31 C4  C5  C6  C7  180.000 10.0 3
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -233,45 +235,58 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-XP8    chir_1    P    O4P    O1P    O2P    both
-XP8    chir_2    CA    N    C    CB    positive
-XP8    chir_3    CB    O4P    CA    CG    negative
+XP8 chir_1 P  O4P O1P O2P both
+XP8 chir_2 CA N   C   CB  positive
+XP8 chir_3 CB O4P CA  CG  negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-XP8    plan-1           C   0.020
-XP8    plan-1          CA   0.020
-XP8    plan-1           O   0.020
-XP8    plan-1         OXT   0.020
-XP8    plan-2          C1   0.020
-XP8    plan-2          CA   0.020
-XP8    plan-2          HN   0.020
-XP8    plan-2           N   0.020
-XP8    plan-3          C1   0.020
-XP8    plan-3          C2   0.020
-XP8    plan-3           N   0.020
-XP8    plan-3          O1   0.020
+XP8 plan-1 C   0.020
+XP8 plan-1 CA  0.020
+XP8 plan-1 O   0.020
+XP8 plan-1 OXT 0.020
+XP8 plan-2 C1  0.020
+XP8 plan-2 CA  0.020
+XP8 plan-2 HN  0.020
+XP8 plan-2 N   0.020
+XP8 plan-3 C1  0.020
+XP8 plan-3 C2  0.020
+XP8 plan-3 N   0.020
+XP8 plan-3 O1  0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-XP8           SMILES              ACDLabs 12.01                                                                                                            O=C(O)C(NC(=O)CCCCCCCS)C(OP(=O)(O)O)C
-XP8 SMILES_CANONICAL               CACTVS 3.370                                                                                                 C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCCCCS)C(O)=O
-XP8           SMILES               CACTVS 3.370                                                                                                    C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCCCCS)C(O)=O
-XP8 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                   C[C@H]([C@@H](C(=O)O)NC(=O)CCCCCCCS)OP(=O)(O)O
-XP8           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                            CC(C(C(=O)O)NC(=O)CCCCCCCS)OP(=O)(O)O
-XP8            InChI                InChI  1.03 InChI=1S/C12H24NO7PS/c1-9(20-21(17,18)19)11(12(15)16)13-10(14)7-5-3-2-4-6-8-22/h9,11,22H,2-8H2,1H3,(H,13,14)(H,15,16)(H2,17,18,19)/t9-,11+/m1/s1
-XP8         InChIKey                InChI  1.03                                                                                                                      WKMFNKCCBNAWBN-KOLCDFICSA-N
+XP8 SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)CCCCCCCS)C(OP(=O)(O)O)C
+XP8 SMILES_CANONICAL CACTVS               3.370 C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCCCCS)C(O)=O
+XP8 SMILES           CACTVS               3.370 C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCCCCS)C(O)=O
+XP8 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 C[C@H]([C@@H](C(=O)O)NC(=O)CCCCCCCS)OP(=O)(O)O
+XP8 SMILES           "OpenEye OEToolkits" 1.7.0 CC(C(C(=O)O)NC(=O)CCCCCCCS)OP(=O)(O)O
+XP8 InChI            InChI                1.03  InChI=1S/C12H24NO7PS/c1-9(20-21(17,18)19)11(12(15)16)13-10(14)7-5-3-2-4-6-8-22/h9,11,22H,2-8H2,1H3,(H,13,14)(H,15,16)(H2,17,18,19)/t9-,11+/m1/s1
+XP8 InChIKey         InChI                1.03  WKMFNKCCBNAWBN-KOLCDFICSA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-XP8 acedrg               243         "dictionary generator"                  
-XP8 acedrg_database      11          "data source"                           
-XP8 rdkit                2017.03.2   "Chemoinformatics tool"
-XP8 refmac5              5.8.0238    "optimization tool"                     
+XP8 acedrg          243       "dictionary generator"
+XP8 acedrg_database 11        "data source"
+XP8 rdkit           2017.03.2 "Chemoinformatics tool"
+XP8 refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+XP8 M-peptide OXT O
+XP8 M-peptide C1  CN
+XP8 M-peptide O   OXT
+XP8 M-peptide HN  H
