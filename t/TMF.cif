@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TMF TMF "5,10-METHYLENE-6-HYDROFOLIC ACID" NON-POLYMER 52 33 .
-
+TMF     TMF      "5,10-METHYLENE-6-HYDROFOLIC ACID"     NON-POLYMER     52     33     .     
+#
 data_comp_TMF
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,59 +21,58 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TMF N1   N NR6  0  46.258 70.272 51.317
-TMF C2   C CR6  0  47.469 70.161 50.692
-TMF NA2  N NH2  0  48.376 69.335 51.215
-TMF N3   N NRD6 0  47.755 70.852 49.587
-TMF C4   C CR6  0  46.808 71.706 49.053
-TMF O4   O O    0  47.131 72.323 48.027
-TMF C4A  C CR66 0  45.533 71.862 49.652
-TMF N5   N NT   0  44.556 72.715 49.145
-TMF C6   C CH1  0  43.480 73.169 50.037
-TMF C7   C CR16 0  43.284 72.225 51.217
-TMF N8   N NRD6 0  44.061 71.193 51.492
-TMF C8A  C CR66 0  45.280 71.106 50.826
-TMF C9   C CH2  0  42.220 73.297 49.156
-TMF N10  N NR5  0  42.651 72.891 47.807
-TMF C11  C CR6  0  40.173 72.985 44.388
-TMF C12  C CR16 0  41.471 72.484 44.308
-TMF C13  C CR16 0  42.300 72.453 45.421
-TMF C14  C CR6  0  41.823 72.923 46.660
-TMF C15  C CR16 0  40.508 73.418 46.748
-TMF C16  C CR16 0  39.703 73.440 45.618
-TMF C    C C    0  39.263 73.012 43.190
-TMF O    O O    0  38.086 72.668 43.306
-TMF N    N NH1  0  39.796 73.374 42.013
-TMF CA   C CH1  0  39.066 73.299 40.750
-TMF CB   C CH2  0  38.912 71.844 40.286
-TMF CG   C CH2  0  37.859 71.662 39.206
-TMF CD   C C    0  37.473 70.216 38.944
-TMF OE1  O O    0  36.291 69.872 39.147
-TMF OE2  O OC   -1 38.357 69.436 38.537
-TMF CT   C C    0  39.756 74.150 39.668
-TMF O1   O O    0  40.963 73.925 39.449
-TMF O2   O OC   -1 39.061 75.005 39.085
-TMF CP1  C CH2  0  44.046 72.421 47.799
-TMF HN1  H H    0  46.099 69.799 52.049
-TMF HN21 H H    0  48.920 68.893 50.687
-TMF HN22 H H    0  48.423 69.238 52.086
-TMF H6   H H    0  43.699 74.061 50.384
-TMF H7   H H    0  42.528 72.399 51.809
-TMF H91  H H    0  41.897 74.222 49.158
-TMF H92  H H    0  41.508 72.710 49.487
-TMF H12  H H    0  41.799 72.171 43.483
-TMF H13  H H    0  43.174 72.117 45.342
-TMF H15  H H    0  40.171 73.735 47.566
-TMF H16  H H    0  38.825 73.773 45.686
-TMF HN   H H    0  40.613 73.683 41.988
-TMF HA   H H    0  38.160 73.672 40.898
-TMF HB1  H H    0  38.673 71.286 41.055
-TMF HB2  H H    0  39.775 71.530 39.944
-TMF HG1  H H    0  38.192 72.050 38.368
-TMF HG2  H H    0  37.051 72.158 39.461
-TMF HCP1 H H    0  44.091 71.469 47.617
-TMF HCP2 H H    0  44.570 72.891 47.133
-
+TMF     N1      N       NR6     0       46.258      70.272      51.317      
+TMF     C2      C       CR6     0       47.469      70.161      50.692      
+TMF     NA2     N       NH2     0       48.376      69.335      51.215      
+TMF     N3      N       NRD6    0       47.755      70.852      49.587      
+TMF     C4      C       CR6     0       46.808      71.706      49.053      
+TMF     O4      O       O       0       47.131      72.323      48.027      
+TMF     C4A     C       CR66    0       45.533      71.862      49.652      
+TMF     N5      N       NT      0       44.556      72.715      49.145      
+TMF     C6      C       CH1     0       43.480      73.169      50.037      
+TMF     C7      C       CR16    0       43.284      72.225      51.217      
+TMF     N8      N       NRD6    0       44.061      71.193      51.492      
+TMF     C8A     C       CR66    0       45.280      71.106      50.826      
+TMF     C9      C       CH2     0       42.220      73.297      49.156      
+TMF     N10     N       NR5     0       42.651      72.891      47.807      
+TMF     C11     C       CR6     0       40.173      72.985      44.388      
+TMF     C12     C       CR16    0       41.471      72.484      44.308      
+TMF     C13     C       CR16    0       42.300      72.453      45.421      
+TMF     C14     C       CR6     0       41.823      72.923      46.660      
+TMF     C15     C       CR16    0       40.508      73.418      46.748      
+TMF     C16     C       CR16    0       39.703      73.440      45.618      
+TMF     C       C       C       0       39.263      73.012      43.190      
+TMF     O       O       O       0       38.086      72.668      43.306      
+TMF     N       N       NH1     0       39.796      73.374      42.013      
+TMF     CA      C       CH1     0       39.066      73.299      40.750      
+TMF     CB      C       CH2     0       38.912      71.844      40.286      
+TMF     CG      C       CH2     0       37.859      71.662      39.206      
+TMF     CD      C       C       0       37.473      70.216      38.944      
+TMF     OE1     O       O       0       36.291      69.872      39.147      
+TMF     OE2     O       OC      -1      38.357      69.436      38.537      
+TMF     CT      C       C       0       39.756      74.150      39.668      
+TMF     O1      O       O       0       40.963      73.925      39.449      
+TMF     O2      O       OC      -1      39.061      75.005      39.085      
+TMF     CP1     C       CH2     0       44.046      72.421      47.799      
+TMF     HN1     H       H       0       46.099      69.799      52.049      
+TMF     HN21    H       H       0       48.920      68.893      50.687      
+TMF     HN22    H       H       0       48.423      69.238      52.086      
+TMF     H6      H       H       0       43.699      74.061      50.384      
+TMF     H7      H       H       0       42.528      72.399      51.809      
+TMF     H91     H       H       0       41.897      74.222      49.158      
+TMF     H92     H       H       0       41.508      72.710      49.487      
+TMF     H12     H       H       0       41.799      72.171      43.483      
+TMF     H13     H       H       0       43.174      72.117      45.342      
+TMF     H15     H       H       0       40.171      73.735      47.566      
+TMF     H16     H       H       0       38.825      73.773      45.686      
+TMF     HN      H       H       0       40.613      73.683      41.988      
+TMF     HA      H       H       0       38.160      73.672      40.898      
+TMF     HB1     H       H       0       38.673      71.286      41.055      
+TMF     HB2     H       H       0       39.775      71.530      39.944      
+TMF     HG1     H       H       0       38.192      72.050      38.368      
+TMF     HG2     H       H       0       37.051      72.158      39.461      
+TMF     HCP1    H       H       0       44.091      71.469      47.617      
+TMF     HCP2    H       H       0       44.570      72.891      47.133      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -82,62 +83,61 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TMF N1  C2   SINGLE y 1.362 0.0100 1.362 0.0100
-TMF N1  C8A  SINGLE y 1.367 0.0162 1.367 0.0162
-TMF C2  NA2  SINGLE n 1.333 0.0100 1.333 0.0100
-TMF C2  N3   DOUBLE y 1.328 0.0100 1.328 0.0100
-TMF N3  C4   SINGLE y 1.367 0.0200 1.367 0.0200
-TMF C4  O4   DOUBLE n 1.239 0.0136 1.239 0.0136
-TMF C4  C4A  SINGLE y 1.402 0.0200 1.402 0.0200
-TMF C4A N5   SINGLE n 1.382 0.0145 1.382 0.0145
-TMF C4A C8A  DOUBLE y 1.406 0.0182 1.406 0.0182
-TMF N5  C6   SINGLE n 1.461 0.0155 1.461 0.0155
-TMF N5  CP1  SINGLE n 1.466 0.0200 1.466 0.0200
-TMF C6  C7   SINGLE n 1.518 0.0139 1.518 0.0139
-TMF C6  C9   SINGLE n 1.538 0.0128 1.538 0.0128
-TMF C7  N8   DOUBLE n 1.310 0.0200 1.310 0.0200
-TMF N8  C8A  SINGLE n 1.378 0.0200 1.378 0.0200
-TMF C9  N10  SINGLE n 1.470 0.0105 1.470 0.0105
-TMF N10 C14  SINGLE n 1.389 0.0175 1.389 0.0175
-TMF N10 CP1  SINGLE n 1.471 0.0100 1.471 0.0100
-TMF C11 C12  DOUBLE y 1.390 0.0100 1.390 0.0100
-TMF C11 C16  SINGLE y 1.390 0.0100 1.390 0.0100
-TMF C11 C    SINGLE n 1.502 0.0100 1.502 0.0100
-TMF C12 C13  SINGLE y 1.385 0.0100 1.385 0.0100
-TMF C13 C14  DOUBLE y 1.401 0.0100 1.401 0.0100
-TMF C14 C15  SINGLE y 1.401 0.0100 1.401 0.0100
-TMF C15 C16  DOUBLE y 1.385 0.0100 1.385 0.0100
-TMF C   O    DOUBLE n 1.230 0.0114 1.230 0.0114
-TMF C   N    SINGLE n 1.337 0.0101 1.337 0.0101
-TMF N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
-TMF CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
-TMF CA  CT   SINGLE n 1.539 0.0100 1.539 0.0100
-TMF CB  CG   SINGLE n 1.518 0.0153 1.518 0.0153
-TMF CG  CD   SINGLE n 1.519 0.0109 1.519 0.0109
-TMF CD  OE1  DOUBLE n 1.247 0.0187 1.247 0.0187
-TMF CD  OE2  SINGLE n 1.247 0.0187 1.247 0.0187
-TMF CT  O1   DOUBLE n 1.247 0.0187 1.247 0.0187
-TMF CT  O2   SINGLE n 1.247 0.0187 1.247 0.0187
-TMF N1  HN1  SINGLE n 1.016 0.0100 0.885 0.0200
-TMF NA2 HN21 SINGLE n 1.016 0.0100 0.877 0.0200
-TMF NA2 HN22 SINGLE n 1.016 0.0100 0.877 0.0200
-TMF C6  H6   SINGLE n 1.089 0.0100 0.982 0.0189
-TMF C7  H7   SINGLE n 1.082 0.0130 0.976 0.0200
-TMF C9  H91  SINGLE n 1.089 0.0100 0.980 0.0174
-TMF C9  H92  SINGLE n 1.089 0.0100 0.980 0.0174
-TMF C12 H12  SINGLE n 1.082 0.0130 0.941 0.0168
-TMF C13 H13  SINGLE n 1.082 0.0130 0.941 0.0137
-TMF C15 H15  SINGLE n 1.082 0.0130 0.941 0.0137
-TMF C16 H16  SINGLE n 1.082 0.0130 0.941 0.0168
-TMF N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
-TMF CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
-TMF CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0178
-TMF CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0178
-TMF CG  HG1  SINGLE n 1.089 0.0100 0.981 0.0185
-TMF CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0185
-TMF CP1 HCP1 SINGLE n 1.089 0.0100 0.970 0.0140
-TMF CP1 HCP2 SINGLE n 1.089 0.0100 0.970 0.0140
-
+TMF          N1          C2      SINGLE       y     1.362  0.0100     1.362  0.0100
+TMF          N1         C8A      SINGLE       y     1.367  0.0162     1.367  0.0162
+TMF          C2         NA2      SINGLE       n     1.333  0.0100     1.333  0.0100
+TMF          C2          N3      DOUBLE       y     1.328  0.0100     1.328  0.0100
+TMF          N3          C4      SINGLE       y     1.367  0.0200     1.367  0.0200
+TMF          C4          O4      DOUBLE       n     1.239  0.0136     1.239  0.0136
+TMF          C4         C4A      SINGLE       y     1.402  0.0200     1.402  0.0200
+TMF         C4A          N5      SINGLE       n     1.382  0.0145     1.382  0.0145
+TMF         C4A         C8A      DOUBLE       y     1.406  0.0182     1.406  0.0182
+TMF          N5          C6      SINGLE       n     1.461  0.0155     1.461  0.0155
+TMF          N5         CP1      SINGLE       n     1.466  0.0200     1.466  0.0200
+TMF          C6          C7      SINGLE       n     1.518  0.0139     1.518  0.0139
+TMF          C6          C9      SINGLE       n     1.538  0.0128     1.538  0.0128
+TMF          C7          N8      DOUBLE       n     1.310  0.0200     1.310  0.0200
+TMF          N8         C8A      SINGLE       n     1.378  0.0200     1.378  0.0200
+TMF          C9         N10      SINGLE       n     1.470  0.0105     1.470  0.0105
+TMF         N10         C14      SINGLE       n     1.389  0.0175     1.389  0.0175
+TMF         N10         CP1      SINGLE       n     1.471  0.0100     1.471  0.0100
+TMF         C11         C12      DOUBLE       y     1.390  0.0100     1.390  0.0100
+TMF         C11         C16      SINGLE       y     1.390  0.0100     1.390  0.0100
+TMF         C11           C      SINGLE       n     1.502  0.0100     1.502  0.0100
+TMF         C12         C13      SINGLE       y     1.385  0.0100     1.385  0.0100
+TMF         C13         C14      DOUBLE       y     1.401  0.0100     1.401  0.0100
+TMF         C14         C15      SINGLE       y     1.401  0.0100     1.401  0.0100
+TMF         C15         C16      DOUBLE       y     1.385  0.0100     1.385  0.0100
+TMF           C           O      DOUBLE       n     1.230  0.0114     1.230  0.0114
+TMF           C           N      SINGLE       n     1.337  0.0101     1.337  0.0101
+TMF           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
+TMF          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
+TMF          CA          CT      SINGLE       n     1.539  0.0100     1.539  0.0100
+TMF          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
+TMF          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
+TMF          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+TMF          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
+TMF          CT          O1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+TMF          CT          O2      SINGLE       n     1.247  0.0187     1.247  0.0187
+TMF          N1         HN1      SINGLE       n     1.016  0.0100     0.885  0.0200
+TMF         NA2        HN21      SINGLE       n     1.016  0.0100     0.877  0.0200
+TMF         NA2        HN22      SINGLE       n     1.016  0.0100     0.877  0.0200
+TMF          C6          H6      SINGLE       n     1.089  0.0100     0.982  0.0189
+TMF          C7          H7      SINGLE       n     1.082  0.0130     0.976  0.0200
+TMF          C9         H91      SINGLE       n     1.089  0.0100     0.980  0.0174
+TMF          C9         H92      SINGLE       n     1.089  0.0100     0.980  0.0174
+TMF         C12         H12      SINGLE       n     1.082  0.0130     0.941  0.0168
+TMF         C13         H13      SINGLE       n     1.082  0.0130     0.941  0.0137
+TMF         C15         H15      SINGLE       n     1.082  0.0130     0.941  0.0137
+TMF         C16         H16      SINGLE       n     1.082  0.0130     0.941  0.0168
+TMF           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
+TMF          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
+TMF          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0178
+TMF          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0178
+TMF          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0185
+TMF          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0185
+TMF         CP1        HCP1      SINGLE       n     1.089  0.0100     0.970  0.0140
+TMF         CP1        HCP2      SINGLE       n     1.089  0.0100     0.970  0.0140
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -145,102 +145,101 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TMF C2   N1  C8A  120.281 1.90
-TMF C2   N1  HN1  119.921 1.95
-TMF C8A  N1  HN1  119.798 1.73
-TMF N1   C2  NA2  118.551 1.50
-TMF N1   C2  N3   121.019 1.50
-TMF NA2  C2  N3   120.430 1.50
-TMF C2   NA2 HN21 119.700 2.06
-TMF C2   NA2 HN22 119.700 2.06
-TMF HN21 NA2 HN22 120.601 1.96
-TMF C2   N3  C4   118.392 1.50
-TMF N3   C4  O4   116.965 1.50
-TMF N3   C4  C4A  121.813 1.50
-TMF O4   C4  C4A  121.222 1.69
-TMF C4   C4A N5   120.334 2.50
-TMF C4   C4A C8A  118.718 1.78
-TMF N5   C4A C8A  120.948 2.13
-TMF C4A  N5  C6   118.878 3.00
-TMF C4A  N5  CP1  114.218 3.00
-TMF C6   N5  CP1  107.732 3.00
-TMF N5   C6  C7   112.197 3.00
-TMF N5   C6  C9   102.591 1.95
-TMF N5   C6  H6   109.673 1.63
-TMF C7   C6  C9   112.868 3.00
-TMF C7   C6  H6   108.760 1.50
-TMF C9   C6  H6   108.485 2.30
-TMF C6   C7  N8   124.586 2.59
-TMF C6   C7  H7   117.355 1.67
-TMF N8   C7  H7   118.059 3.00
-TMF C7   N8  C8A  117.081 1.50
-TMF N1   C8A C4A  119.777 1.68
-TMF N1   C8A N8   119.193 3.00
-TMF C4A  C8A N8   121.030 1.50
-TMF C6   C9  N10  102.804 1.50
-TMF C6   C9  H91  110.336 1.62
-TMF C6   C9  H92  110.336 1.62
-TMF N10  C9  H91  111.070 1.50
-TMF N10  C9  H92  111.070 1.50
-TMF H91  C9  H92  108.986 1.50
-TMF C9   N10 C14  124.291 2.27
-TMF C9   N10 CP1  112.615 1.77
-TMF C14  N10 CP1  123.094 2.19
-TMF C12  C11 C16  118.992 1.50
-TMF C12  C11 C    120.504 2.80
-TMF C16  C11 C    120.504 2.80
-TMF C11  C12 C13  120.756 1.50
-TMF C11  C12 H12  119.807 1.50
-TMF C13  C12 H12  119.437 1.50
-TMF C12  C13 C14  119.499 1.50
-TMF C12  C13 H13  120.309 1.50
-TMF C14  C13 H13  120.195 1.50
-TMF N10  C14 C13  119.755 1.50
-TMF N10  C14 C15  119.755 1.50
-TMF C13  C14 C15  120.490 1.50
-TMF C14  C15 C16  119.499 1.50
-TMF C14  C15 H15  120.195 1.50
-TMF C16  C15 H15  120.309 1.50
-TMF C11  C16 C15  120.756 1.50
-TMF C11  C16 H16  119.807 1.50
-TMF C15  C16 H16  119.437 1.50
-TMF C11  C   O    120.865 1.50
-TMF C11  C   N    116.740 1.50
-TMF O    C   N    122.394 1.50
-TMF C    N   CA   122.253 1.50
-TMF C    N   HN   119.427 1.94
-TMF CA   N   HN   118.320 2.24
-TMF N    CA  CB   110.984 1.61
-TMF N    CA  CT   110.522 1.86
-TMF N    CA  HA   107.930 1.50
-TMF CB   CA  CT   111.638 2.31
-TMF CB   CA  HA   108.155 1.50
-TMF CT   CA  HA   108.327 1.50
-TMF CA   CB  CG   112.938 1.50
-TMF CA   CB  HB1  108.606 1.50
-TMF CA   CB  HB2  108.606 1.50
-TMF CG   CB  HB1  108.890 1.50
-TMF CG   CB  HB2  108.890 1.50
-TMF HB1  CB  HB2  107.844 1.50
-TMF CB   CG  CD   114.629 2.24
-TMF CB   CG  HG1  108.906 1.50
-TMF CB   CG  HG2  108.906 1.50
-TMF CD   CG  HG1  108.404 1.50
-TMF CD   CG  HG2  108.404 1.50
-TMF HG1  CG  HG2  107.521 1.50
-TMF CG   CD  OE1  118.214 1.64
-TMF CG   CD  OE2  118.214 1.64
-TMF OE1  CD  OE2  123.571 1.50
-TMF CA   CT  O1   117.249 1.61
-TMF CA   CT  O2   117.249 1.61
-TMF O1   CT  O2   125.502 1.50
-TMF N5   CP1 N10  102.797 2.93
-TMF N5   CP1 HCP1 110.484 1.50
-TMF N5   CP1 HCP2 110.484 1.50
-TMF N10  CP1 HCP1 111.391 1.50
-TMF N10  CP1 HCP2 111.391 1.50
-TMF HCP1 CP1 HCP2 109.145 2.04
-
+TMF          C2          N1         C8A     120.281    1.90
+TMF          C2          N1         HN1     119.921    1.95
+TMF         C8A          N1         HN1     119.798    1.73
+TMF          N1          C2         NA2     118.551    1.50
+TMF          N1          C2          N3     121.019    1.50
+TMF         NA2          C2          N3     120.430    1.50
+TMF          C2         NA2        HN21     119.700    2.06
+TMF          C2         NA2        HN22     119.700    2.06
+TMF        HN21         NA2        HN22     120.601    1.96
+TMF          C2          N3          C4     118.392    1.50
+TMF          N3          C4          O4     116.965    1.50
+TMF          N3          C4         C4A     121.813    1.50
+TMF          O4          C4         C4A     121.222    1.69
+TMF          C4         C4A          N5     120.334    2.50
+TMF          C4         C4A         C8A     118.718    1.78
+TMF          N5         C4A         C8A     120.948    2.13
+TMF         C4A          N5          C6     118.878    3.00
+TMF         C4A          N5         CP1     114.218    3.00
+TMF          C6          N5         CP1     107.732    3.00
+TMF          N5          C6          C7     112.197    3.00
+TMF          N5          C6          C9     102.591    1.95
+TMF          N5          C6          H6     109.673    1.63
+TMF          C7          C6          C9     112.868    3.00
+TMF          C7          C6          H6     108.760    1.50
+TMF          C9          C6          H6     108.485    2.30
+TMF          C6          C7          N8     124.586    2.59
+TMF          C6          C7          H7     117.355    1.67
+TMF          N8          C7          H7     118.059    3.00
+TMF          C7          N8         C8A     117.081    1.50
+TMF          N1         C8A         C4A     119.777    1.68
+TMF          N1         C8A          N8     119.193    3.00
+TMF         C4A         C8A          N8     121.030    1.50
+TMF          C6          C9         N10     102.804    1.50
+TMF          C6          C9         H91     110.336    1.62
+TMF          C6          C9         H92     110.336    1.62
+TMF         N10          C9         H91     111.070    1.50
+TMF         N10          C9         H92     111.070    1.50
+TMF         H91          C9         H92     108.986    1.50
+TMF          C9         N10         C14     124.291    2.27
+TMF          C9         N10         CP1     112.615    1.77
+TMF         C14         N10         CP1     123.094    2.19
+TMF         C12         C11         C16     118.992    1.50
+TMF         C12         C11           C     120.504    2.80
+TMF         C16         C11           C     120.504    2.80
+TMF         C11         C12         C13     120.756    1.50
+TMF         C11         C12         H12     119.807    1.50
+TMF         C13         C12         H12     119.437    1.50
+TMF         C12         C13         C14     119.499    1.50
+TMF         C12         C13         H13     120.309    1.50
+TMF         C14         C13         H13     120.195    1.50
+TMF         N10         C14         C13     119.755    1.50
+TMF         N10         C14         C15     119.755    1.50
+TMF         C13         C14         C15     120.490    1.50
+TMF         C14         C15         C16     119.499    1.50
+TMF         C14         C15         H15     120.195    1.50
+TMF         C16         C15         H15     120.309    1.50
+TMF         C11         C16         C15     120.756    1.50
+TMF         C11         C16         H16     119.807    1.50
+TMF         C15         C16         H16     119.437    1.50
+TMF         C11           C           O     120.865    1.50
+TMF         C11           C           N     116.740    1.50
+TMF           O           C           N     122.394    1.50
+TMF           C           N          CA     122.253    1.50
+TMF           C           N          HN     119.427    1.94
+TMF          CA           N          HN     118.320    2.24
+TMF           N          CA          CB     110.984    1.61
+TMF           N          CA          CT     110.522    1.86
+TMF           N          CA          HA     107.930    1.50
+TMF          CB          CA          CT     111.638    2.31
+TMF          CB          CA          HA     108.155    1.50
+TMF          CT          CA          HA     108.327    1.50
+TMF          CA          CB          CG     112.938    1.50
+TMF          CA          CB         HB1     108.606    1.50
+TMF          CA          CB         HB2     108.606    1.50
+TMF          CG          CB         HB1     108.890    1.50
+TMF          CG          CB         HB2     108.890    1.50
+TMF         HB1          CB         HB2     107.844    1.50
+TMF          CB          CG          CD     114.629    2.24
+TMF          CB          CG         HG1     108.906    1.50
+TMF          CB          CG         HG2     108.906    1.50
+TMF          CD          CG         HG1     108.404    1.50
+TMF          CD          CG         HG2     108.404    1.50
+TMF         HG1          CG         HG2     107.521    1.50
+TMF          CG          CD         OE1     118.214    1.64
+TMF          CG          CD         OE2     118.214    1.64
+TMF         OE1          CD         OE2     123.571    1.50
+TMF          CA          CT          O1     117.249    1.61
+TMF          CA          CT          O2     117.249    1.61
+TMF          O1          CT          O2     125.502    1.50
+TMF          N5         CP1         N10     102.797    2.93
+TMF          N5         CP1        HCP1     110.484    1.50
+TMF          N5         CP1        HCP2     110.484    1.50
+TMF         N10         CP1        HCP1     111.391    1.50
+TMF         N10         CP1        HCP2     111.391    1.50
+TMF        HCP1         CP1        HCP2     109.145    2.04
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -251,37 +250,36 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TMF const_23        NA2 C2  N1  C8A  180.000 10.0 2
-TMF const_37        C4A C8A N1  C2   0.000   10.0 2
-TMF sp2_sp2_8       N1  C8A N8  C7   180.000 5.0  2
-TMF sp2_sp3_16      C14 N10 C9  C6   180.000 10.0 6
-TMF sp2_sp2_13      C13 C14 N10 C9   180.000 5.0  2
-TMF sp2_sp3_19      C9  N10 CP1 N5   0.000   10.0 6
-TMF const_sp2_sp2_3 C   C11 C12 C13  180.000 5.0  2
-TMF const_43        C   C11 C16 C15  180.000 10.0 2
-TMF sp2_sp2_19      O   C   C11 C12  0.000   5.0  2
-TMF const_sp2_sp2_5 C11 C12 C13 C14  0.000   5.0  2
-TMF const_10        C12 C13 C14 N10  180.000 10.0 2
-TMF const_15        N10 C14 C15 C16  180.000 10.0 2
-TMF const_17        C14 C15 C16 C11  0.000   10.0 2
-TMF sp2_sp2_9       N1  C2  NA2 HN21 180.000 5.0  2
-TMF const_26        NA2 C2  N3  C4   180.000 10.0 2
-TMF sp2_sp2_23      O   C   N   CA   0.000   5.0  2
-TMF sp2_sp3_31      C   N   CA  CB   0.000   10.0 6
-TMF sp3_sp3_10      N   CA  CB  CG   180.000 10.0 3
-TMF sp2_sp3_37      O1  CT  CA  N    0.000   10.0 6
-TMF sp3_sp3_19      CA  CB  CG  CD   180.000 10.0 3
-TMF sp2_sp3_44      OE1 CD  CG  CB   120.000 10.0 6
-TMF const_28        O4  C4  N3  C2   180.000 10.0 2
-TMF const_32        O4  C4  C4A N5   0.000   10.0 2
-TMF const_33        C4  C4A C8A N1   0.000   10.0 2
-TMF sp2_sp2_3       C4  C4A N5  C6   180.000 5.0  2
-TMF sp2_sp3_28      C4A N5  CP1 N10  180.000 10.0 6
-TMF sp2_sp3_1       C4A N5  C6  C7   0.000   10.0 6
-TMF sp3_sp3_1       N5  C6  C9  N10  -60.000 10.0 3
-TMF sp2_sp3_7       N8  C7  C6  N5   0.000   10.0 6
-TMF sp2_sp2_5       C6  C7  N8  C8A  0.000   5.0  2
-
+TMF              const_23         NA2          C2          N1         C8A     180.000    10.0     2
+TMF              const_37         C4A         C8A          N1          C2       0.000    10.0     2
+TMF             sp2_sp2_8          N1         C8A          N8          C7     180.000     5.0     2
+TMF            sp2_sp3_16         C14         N10          C9          C6     180.000    10.0     6
+TMF            sp2_sp2_13         C13         C14         N10          C9     180.000     5.0     2
+TMF            sp2_sp3_19          C9         N10         CP1          N5       0.000    10.0     6
+TMF       const_sp2_sp2_3           C         C11         C12         C13     180.000     5.0     2
+TMF              const_43           C         C11         C16         C15     180.000    10.0     2
+TMF            sp2_sp2_19           O           C         C11         C12       0.000     5.0     2
+TMF       const_sp2_sp2_5         C11         C12         C13         C14       0.000     5.0     2
+TMF              const_10         C12         C13         C14         N10     180.000    10.0     2
+TMF              const_15         N10         C14         C15         C16     180.000    10.0     2
+TMF              const_17         C14         C15         C16         C11       0.000    10.0     2
+TMF             sp2_sp2_9          N1          C2         NA2        HN21     180.000     5.0     2
+TMF              const_26         NA2          C2          N3          C4     180.000    10.0     2
+TMF            sp2_sp2_23           O           C           N          CA       0.000     5.0     2
+TMF            sp2_sp3_31           C           N          CA          CB       0.000    10.0     6
+TMF            sp3_sp3_10           N          CA          CB          CG     180.000    10.0     3
+TMF            sp2_sp3_37          O1          CT          CA           N       0.000    10.0     6
+TMF            sp3_sp3_19          CA          CB          CG          CD     180.000    10.0     3
+TMF            sp2_sp3_44         OE1          CD          CG          CB     120.000    10.0     6
+TMF              const_28          O4          C4          N3          C2     180.000    10.0     2
+TMF              const_32          O4          C4         C4A          N5       0.000    10.0     2
+TMF              const_33          C4         C4A         C8A          N1       0.000    10.0     2
+TMF             sp2_sp2_3          C4         C4A          N5          C6     180.000     5.0     2
+TMF            sp2_sp3_28         C4A          N5         CP1         N10     180.000    10.0     6
+TMF             sp2_sp3_1         C4A          N5          C6          C7       0.000    10.0     6
+TMF             sp3_sp3_1          N5          C6          C9         N10     -60.000    10.0     3
+TMF             sp2_sp3_7          N8          C7          C6          N5       0.000    10.0     6
+TMF             sp2_sp2_5          C6          C7          N8         C8A       0.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -290,97 +288,83 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TMF chir_1 C6 N5 C7 C9 positive
-TMF chir_2 CA N  CT CB negative
-
+TMF    chir_1    C6    N5    C7    C9    positive
+TMF    chir_2    CA    N    CT    CB    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TMF plan-1 C2   0.020
-TMF plan-1 C4   0.020
-TMF plan-1 C4A  0.020
-TMF plan-1 C8A  0.020
-TMF plan-1 HN1  0.020
-TMF plan-1 N1   0.020
-TMF plan-1 N3   0.020
-TMF plan-1 N5   0.020
-TMF plan-1 N8   0.020
-TMF plan-1 NA2  0.020
-TMF plan-1 O4   0.020
-TMF plan-2 C    0.020
-TMF plan-2 C11  0.020
-TMF plan-2 C12  0.020
-TMF plan-2 C13  0.020
-TMF plan-2 C14  0.020
-TMF plan-2 C15  0.020
-TMF plan-2 C16  0.020
-TMF plan-2 H12  0.020
-TMF plan-2 H13  0.020
-TMF plan-2 H15  0.020
-TMF plan-2 H16  0.020
-TMF plan-2 N10  0.020
-TMF plan-3 C2   0.020
-TMF plan-3 HN21 0.020
-TMF plan-3 HN22 0.020
-TMF plan-3 NA2  0.020
-TMF plan-4 C6   0.020
-TMF plan-4 C7   0.020
-TMF plan-4 H7   0.020
-TMF plan-4 N8   0.020
-TMF plan-5 C14  0.020
-TMF plan-5 C9   0.020
-TMF plan-5 CP1  0.020
-TMF plan-5 N10  0.020
-TMF plan-6 C    0.020
-TMF plan-6 C11  0.020
-TMF plan-6 N    0.020
-TMF plan-6 O    0.020
-TMF plan-7 C    0.020
-TMF plan-7 CA   0.020
-TMF plan-7 HN   0.020
-TMF plan-7 N    0.020
-TMF plan-8 CD   0.020
-TMF plan-8 CG   0.020
-TMF plan-8 OE1  0.020
-TMF plan-8 OE2  0.020
-TMF plan-9 CA   0.020
-TMF plan-9 CT   0.020
-TMF plan-9 O1   0.020
-TMF plan-9 O2   0.020
-
+TMF    plan-1          C2   0.020
+TMF    plan-1          C4   0.020
+TMF    plan-1         C4A   0.020
+TMF    plan-1         C8A   0.020
+TMF    plan-1         HN1   0.020
+TMF    plan-1          N1   0.020
+TMF    plan-1          N3   0.020
+TMF    plan-1          N5   0.020
+TMF    plan-1          N8   0.020
+TMF    plan-1         NA2   0.020
+TMF    plan-1          O4   0.020
+TMF    plan-2           C   0.020
+TMF    plan-2         C11   0.020
+TMF    plan-2         C12   0.020
+TMF    plan-2         C13   0.020
+TMF    plan-2         C14   0.020
+TMF    plan-2         C15   0.020
+TMF    plan-2         C16   0.020
+TMF    plan-2         H12   0.020
+TMF    plan-2         H13   0.020
+TMF    plan-2         H15   0.020
+TMF    plan-2         H16   0.020
+TMF    plan-2         N10   0.020
+TMF    plan-3          C2   0.020
+TMF    plan-3        HN21   0.020
+TMF    plan-3        HN22   0.020
+TMF    plan-3         NA2   0.020
+TMF    plan-4          C6   0.020
+TMF    plan-4          C7   0.020
+TMF    plan-4          H7   0.020
+TMF    plan-4          N8   0.020
+TMF    plan-5         C14   0.020
+TMF    plan-5          C9   0.020
+TMF    plan-5         CP1   0.020
+TMF    plan-5         N10   0.020
+TMF    plan-6           C   0.020
+TMF    plan-6         C11   0.020
+TMF    plan-6           N   0.020
+TMF    plan-6           O   0.020
+TMF    plan-7           C   0.020
+TMF    plan-7          CA   0.020
+TMF    plan-7          HN   0.020
+TMF    plan-7           N   0.020
+TMF    plan-8          CD   0.020
+TMF    plan-8          CG   0.020
+TMF    plan-8         OE1   0.020
+TMF    plan-8         OE2   0.020
+TMF    plan-9          CA   0.020
+TMF    plan-9          CT   0.020
+TMF    plan-9          O1   0.020
+TMF    plan-9          O2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TMF SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)c1ccc(cc1)N3CN2C4=C(N=CC2C3)NC(=NC4=O)N)CCC(=O)O
-TMF SMILES_CANONICAL CACTVS               3.341 NC1=NC(=O)C2=C(N1)N=C[C@@H]3CN(CN23)c4ccc(cc4)C(=O)N[C@H](CCC(O)=O)C(O)=O
-TMF SMILES           CACTVS               3.341 NC1=NC(=O)C2=C(N1)N=C[CH]3CN(CN23)c4ccc(cc4)C(=O)N[CH](CCC(O)=O)C(O)=O
-TMF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1cc(ccc1C(=O)N[C@H](CCC(=O)O)C(=O)O)[N@@]2C[C@H]3C=NC4=C([N@]3C2)C(=O)N=C(N4)N
-TMF SMILES           "OpenEye OEToolkits" 1.5.0 c1cc(ccc1C(=O)NC(CCC(=O)O)C(=O)O)N2CC3C=NC4=C(N3C2)C(=O)N=C(N4)N
-TMF InChI            InChI                1.03  InChI=1S/C20H21N7O6/c21-20-24-16-15(18(31)25-20)27-9-26(8-12(27)7-22-16)11-3-1-10(2-4-11)17(30)23-13(19(32)33)5-6-14(28)29/h1-4,7,12-13H,5-6,8-9H2,(H,23,30)(H,28,29)(H,32,33)(H3,21,24,25,31)/t12-,13-/m1/s1
-TMF InChIKey         InChI                1.03  BHJAPJNOACHPNI-CHWSQXEVSA-N
-
+TMF           SMILES              ACDLabs 10.04                                                                                                                                                O=C(O)C(NC(=O)c1ccc(cc1)N3CN2C4=C(N=CC2C3)NC(=NC4=O)N)CCC(=O)O
+TMF SMILES_CANONICAL               CACTVS 3.341                                                                                                                                     NC1=NC(=O)C2=C(N1)N=C[C@@H]3CN(CN23)c4ccc(cc4)C(=O)N[C@H](CCC(O)=O)C(O)=O
+TMF           SMILES               CACTVS 3.341                                                                                                                                        NC1=NC(=O)C2=C(N1)N=C[CH]3CN(CN23)c4ccc(cc4)C(=O)N[CH](CCC(O)=O)C(O)=O
+TMF SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                               c1cc(ccc1C(=O)N[C@H](CCC(=O)O)C(=O)O)[N@@]2C[C@H]3C=NC4=C([N@]3C2)C(=O)N=C(N4)N
+TMF           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                              c1cc(ccc1C(=O)NC(CCC(=O)O)C(=O)O)N2CC3C=NC4=C(N3C2)C(=O)N=C(N4)N
+TMF            InChI                InChI  1.03 InChI=1S/C20H21N7O6/c21-20-24-16-15(18(31)25-20)27-9-26(8-12(27)7-22-16)11-3-1-10(2-4-11)17(30)23-13(19(32)33)5-6-14(28)29/h1-4,7,12-13H,5-6,8-9H2,(H,23,30)(H,28,29)(H,32,33)(H3,21,24,25,31)/t12-,13-/m1/s1
+TMF         InChIKey                InChI  1.03                                                                                                                                                                                   BHJAPJNOACHPNI-CHWSQXEVSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TMF acedrg          243       "dictionary generator"
-TMF acedrg_database 11        "data source"
-TMF rdkit           2017.03.2 "Chemoinformatics tool"
-TMF refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-TMF M-peptide O1 O
-TMF M-peptide CT C
-TMF M-peptide C  CN
-TMF M-peptide O2 OXT
-TMF M-peptide HN H
+TMF acedrg               243         "dictionary generator"                  
+TMF acedrg_database      11          "data source"                           
+TMF rdkit                2017.03.2   "Chemoinformatics tool"
+TMF refmac5              5.8.0238    "optimization tool"                     

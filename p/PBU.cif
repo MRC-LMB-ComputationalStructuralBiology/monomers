@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-PBU PBU "(2R)-3-{[(R)-HYDROXY{[(1R,2R,3S,4R,5R,6S)-2,3,6-TRIHYDROXY-4,5-BIS(PHOSPHONOOXY)CYCLOHEXYL]OXY}PHOSPHORYL]OXY}PROPANE-1,2-DIYL DIBUTANOATE" NON-POLYMER 67 39 .
-
+PBU     PBU      "(2R)-3-{[(R)-HYDROXY{[(1R,2R,3S,4R,5R,6S)-2,3,6-TRIHYDROXY-4,5-BIS(PHOSPHONOOXY)CYCLOHEXYL]OXY}PHOSPHORYL]OXY}PROPANE-1,2-DIYL DIBUTANOATE"     NON-POLYMER     67     39     .     
+#
 data_comp_PBU
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,74 +21,73 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-PBU P1     P P   0  -7.054  -22.556 -13.572
-PBU P4     P P   0  -14.046 -20.415 -17.318
-PBU P5     P P   0  -10.791 -22.769 -19.488
-PBU "C3'"  C CH2 0  -5.178  -21.699 -15.248
-PBU "C2'"  C CH1 0  -4.396  -20.564 -14.615
-PBU "O2'"  O O2  0  -3.994  -19.543 -15.582
-PBU "C1'"  C CH2 0  -3.133  -21.030 -13.920
-PBU "O1'"  O O2  0  -2.268  -21.663 -14.896
-PBU C1     C CH1 0  -8.937  -21.732 -15.345
-PBU O1     O O2  0  -8.004  -22.751 -14.853
-PBU C2     C CH1 0  -10.201 -21.779 -14.493
-PBU O2     O OH1 0  -10.721 -23.110 -14.457
-PBU C3     C CH1 0  -11.265 -20.829 -15.038
-PBU O3     O OH1 0  -12.460 -20.948 -14.264
-PBU C4     C CH1 0  -11.559 -21.118 -16.505
-PBU O4     O O2  0  -12.494 -20.104 -17.000
-PBU C5     C CH1 0  -10.288 -21.048 -17.336
-PBU O5     O O2  0  -10.613 -21.340 -18.740
-PBU C6     C CH1 0  -9.242  -22.025 -16.809
-PBU O6     O OH1 0  -8.046  -21.922 -17.582
-PBU C7     C C   0  -4.899  -18.994 -16.420
-PBU O7     O O   0  -4.707  -19.018 -17.609
-PBU C8     C CH2 0  -6.114  -18.373 -15.762
-PBU C9     C CH2 0  -7.054  -17.657 -16.689
-PBU C10    C CH3 0  -8.381  -17.321 -16.037
-PBU C11    C C   0  -1.438  -22.633 -14.502
-PBU O11    O O   0  -1.251  -22.955 -13.354
-PBU C12    C CH2 0  -0.733  -23.261 -15.674
-PBU C13    C CH2 0  -1.635  -23.934 -16.664
-PBU C14    C CH3 0  -0.872  -24.646 -17.763
-PBU O41    O O   0  -14.736 -19.072 -17.472
-PBU O42    O OP  -1 -14.072 -21.221 -18.603
-PBU O43    O OP  -1 -14.582 -21.202 -16.137
-PBU O51    O O   0  -11.544 -22.478 -20.772
-PBU O52    O OP  -1 -9.389  -23.284 -19.755
-PBU O53    O OP  -1 -11.570 -23.693 -18.570
-PBU OP1    O O2  0  -5.590  -22.657 -14.229
-PBU OP2    O O   0  -7.242  -21.182 -12.988
-PBU OP3    O OP  -1 -7.237  -23.729 -12.649
-PBU "H3'1" H H   0  -4.623  -22.153 -15.916
-PBU "H3'2" H H   0  -5.971  -21.346 -15.701
-PBU "H2'"  H H   0  -4.973  -20.142 -13.932
-PBU "H1'1" H H   0  -3.362  -21.664 -13.202
-PBU "H1'2" H H   0  -2.664  -20.263 -13.519
-PBU H1     H H   0  -8.519  -20.826 -15.271
-PBU H2     H H   0  -9.975  -21.503 -13.569
-PBU H02    H H   0  -11.041 -23.262 -13.694
-PBU H3     H H   0  -10.929 -19.900 -14.956
-PBU H03    H H   0  -12.763 -21.730 -14.335
-PBU H4     H H   0  -11.969 -22.026 -16.590
-PBU H5     H H   0  -9.918  -20.121 -17.277
-PBU H6     H H   0  -9.590  -22.950 -16.880
-PBU H06    H H   0  -8.037  -22.531 -18.162
-PBU H81    H H   0  -5.811  -17.736 -15.080
-PBU H82    H H   0  -6.620  -19.075 -15.302
-PBU H91    H H   0  -7.221  -18.220 -17.474
-PBU H92    H H   0  -6.630  -16.829 -16.997
-PBU H11    H H   0  -8.972  -16.913 -16.694
-PBU H12    H H   0  -8.235  -16.700 -15.303
-PBU H13    H H   0  -8.791  -18.135 -15.695
-PBU H121   H H   0  -0.093  -23.924 -15.339
-PBU H122   H H   0  -0.221  -22.569 -16.142
-PBU H131   H H   0  -2.223  -23.263 -17.068
-PBU H132   H H   0  -2.198  -24.584 -16.193
-PBU H141   H H   0  -1.497  -24.987 -18.426
-PBU H142   H H   0  -0.368  -25.387 -17.383
-PBU H143   H H   0  -0.257  -24.024 -18.189
-
+PBU     P1      P       P       0       -7.054      -22.556     -13.572     
+PBU     P4      P       P       0       -14.046     -20.415     -17.318     
+PBU     P5      P       P       0       -10.791     -22.769     -19.488     
+PBU     "C3'"   C       CH2     0       -5.178      -21.699     -15.248     
+PBU     "C2'"   C       CH1     0       -4.396      -20.564     -14.615     
+PBU     "O2'"   O       O2      0       -3.994      -19.543     -15.582     
+PBU     "C1'"   C       CH2     0       -3.133      -21.030     -13.920     
+PBU     "O1'"   O       O2      0       -2.268      -21.663     -14.896     
+PBU     C1      C       CH1     0       -8.937      -21.732     -15.345     
+PBU     O1      O       O2      0       -8.004      -22.751     -14.853     
+PBU     C2      C       CH1     0       -10.201     -21.779     -14.493     
+PBU     O2      O       OH1     0       -10.721     -23.110     -14.457     
+PBU     C3      C       CH1     0       -11.265     -20.829     -15.038     
+PBU     O3      O       OH1     0       -12.460     -20.948     -14.264     
+PBU     C4      C       CH1     0       -11.559     -21.118     -16.505     
+PBU     O4      O       O2      0       -12.494     -20.104     -17.000     
+PBU     C5      C       CH1     0       -10.288     -21.048     -17.336     
+PBU     O5      O       O2      0       -10.613     -21.340     -18.740     
+PBU     C6      C       CH1     0       -9.242      -22.025     -16.809     
+PBU     O6      O       OH1     0       -8.046      -21.922     -17.582     
+PBU     C7      C       C       0       -4.899      -18.994     -16.420     
+PBU     O7      O       O       0       -4.707      -19.018     -17.609     
+PBU     C8      C       CH2     0       -6.114      -18.373     -15.762     
+PBU     C9      C       CH2     0       -7.054      -17.657     -16.689     
+PBU     C10     C       CH3     0       -8.381      -17.321     -16.037     
+PBU     C11     C       C       0       -1.438      -22.633     -14.502     
+PBU     O11     O       O       0       -1.251      -22.955     -13.354     
+PBU     C12     C       CH2     0       -0.733      -23.261     -15.674     
+PBU     C13     C       CH2     0       -1.635      -23.934     -16.664     
+PBU     C14     C       CH3     0       -0.872      -24.646     -17.763     
+PBU     O41     O       O       0       -14.736     -19.072     -17.472     
+PBU     O42     O       OP      -1      -14.072     -21.221     -18.603     
+PBU     O43     O       OP      -1      -14.582     -21.202     -16.137     
+PBU     O51     O       O       0       -11.544     -22.478     -20.772     
+PBU     O52     O       OP      -1      -9.389      -23.284     -19.755     
+PBU     O53     O       OP      -1      -11.570     -23.693     -18.570     
+PBU     OP1     O       O2      0       -5.590      -22.657     -14.229     
+PBU     OP2     O       O       0       -7.242      -21.182     -12.988     
+PBU     OP3     O       OP      -1      -7.237      -23.729     -12.649     
+PBU     "H3'1"  H       H       0       -4.623      -22.153     -15.916     
+PBU     "H3'2"  H       H       0       -5.971      -21.346     -15.701     
+PBU     "H2'"   H       H       0       -4.973      -20.142     -13.932     
+PBU     "H1'1"  H       H       0       -3.362      -21.664     -13.202     
+PBU     "H1'2"  H       H       0       -2.664      -20.263     -13.519     
+PBU     H1      H       H       0       -8.519      -20.826     -15.271     
+PBU     H2      H       H       0       -9.975      -21.503     -13.569     
+PBU     H02     H       H       0       -11.041     -23.262     -13.694     
+PBU     H3      H       H       0       -10.929     -19.900     -14.956     
+PBU     H03     H       H       0       -12.763     -21.730     -14.335     
+PBU     H4      H       H       0       -11.969     -22.026     -16.590     
+PBU     H5      H       H       0       -9.918      -20.121     -17.277     
+PBU     H6      H       H       0       -9.590      -22.950     -16.880     
+PBU     H06     H       H       0       -8.037      -22.531     -18.162     
+PBU     H81     H       H       0       -5.811      -17.736     -15.080     
+PBU     H82     H       H       0       -6.620      -19.075     -15.302     
+PBU     H91     H       H       0       -7.221      -18.220     -17.474     
+PBU     H92     H       H       0       -6.630      -16.829     -16.997     
+PBU     H11     H       H       0       -8.972      -16.913     -16.694     
+PBU     H12     H       H       0       -8.235      -16.700     -15.303     
+PBU     H13     H       H       0       -8.791      -18.135     -15.695     
+PBU     H121    H       H       0       -0.093      -23.924     -15.339     
+PBU     H122    H       H       0       -0.221      -22.569     -16.142     
+PBU     H131    H       H       0       -2.223      -23.263     -17.068     
+PBU     H132    H       H       0       -2.198      -24.584     -16.193     
+PBU     H141    H       H       0       -1.497      -24.987     -18.426     
+PBU     H142    H       H       0       -0.368      -25.387     -17.383     
+PBU     H143    H       H       0       -0.257      -24.024     -18.189     
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -97,74 +98,73 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-PBU P1    O1     SINGLE n 1.606 0.0100 1.606 0.0100
-PBU P1    OP1    SINGLE n 1.606 0.0100 1.606 0.0100
-PBU P1    OP2    DOUBLE n 1.504 0.0115 1.504 0.0115
-PBU P1    OP3    SINGLE n 1.504 0.0115 1.504 0.0115
-PBU P4    O4     SINGLE n 1.614 0.0178 1.614 0.0178
-PBU P4    O41    DOUBLE n 1.517 0.0192 1.517 0.0192
-PBU P4    O42    SINGLE n 1.517 0.0192 1.517 0.0192
-PBU P4    O43    SINGLE n 1.517 0.0192 1.517 0.0192
-PBU P5    O5     SINGLE n 1.614 0.0178 1.614 0.0178
-PBU P5    O51    DOUBLE n 1.517 0.0192 1.517 0.0192
-PBU P5    O52    SINGLE n 1.517 0.0192 1.517 0.0192
-PBU P5    O53    SINGLE n 1.517 0.0192 1.517 0.0192
-PBU "C3'" "C2'"  SINGLE n 1.512 0.0104 1.512 0.0104
-PBU "C3'" OP1    SINGLE n 1.454 0.0165 1.454 0.0165
-PBU "C2'" "O2'"  SINGLE n 1.454 0.0123 1.454 0.0123
-PBU "C2'" "C1'"  SINGLE n 1.512 0.0104 1.512 0.0104
-PBU "O2'" C7     SINGLE n 1.342 0.0131 1.342 0.0131
-PBU "C1'" "O1'"  SINGLE n 1.444 0.0100 1.444 0.0100
-PBU "O1'" C11    SINGLE n 1.329 0.0116 1.329 0.0116
-PBU C1    O1     SINGLE n 1.465 0.0114 1.465 0.0114
-PBU C1    C2     SINGLE n 1.522 0.0100 1.522 0.0100
-PBU C1    C6     SINGLE n 1.522 0.0100 1.522 0.0100
-PBU C2    O2     SINGLE n 1.427 0.0138 1.427 0.0138
-PBU C2    C3     SINGLE n 1.523 0.0100 1.523 0.0100
-PBU C3    O3     SINGLE n 1.427 0.0138 1.427 0.0138
-PBU C3    C4     SINGLE n 1.522 0.0100 1.522 0.0100
-PBU C4    O4     SINGLE n 1.465 0.0114 1.465 0.0114
-PBU C4    C5     SINGLE n 1.519 0.0100 1.519 0.0100
-PBU C5    O5     SINGLE n 1.465 0.0114 1.465 0.0114
-PBU C5    C6     SINGLE n 1.522 0.0100 1.522 0.0100
-PBU C6    O6     SINGLE n 1.427 0.0138 1.427 0.0138
-PBU C7    O7     DOUBLE n 1.203 0.0150 1.203 0.0150
-PBU C7    C8     SINGLE n 1.503 0.0174 1.503 0.0174
-PBU C8    C9     SINGLE n 1.497 0.0200 1.497 0.0200
-PBU C9    C10    SINGLE n 1.515 0.0200 1.515 0.0200
-PBU C11   O11    DOUBLE n 1.203 0.0150 1.203 0.0150
-PBU C11   C12    SINGLE n 1.503 0.0174 1.503 0.0174
-PBU C12   C13    SINGLE n 1.497 0.0200 1.497 0.0200
-PBU C13   C14    SINGLE n 1.515 0.0200 1.515 0.0200
-PBU "C3'" "H3'1" SINGLE n 1.089 0.0100 0.980 0.0146
-PBU "C3'" "H3'2" SINGLE n 1.089 0.0100 0.980 0.0146
-PBU "C2'" "H2'"  SINGLE n 1.089 0.0100 0.990 0.0148
-PBU "C1'" "H1'1" SINGLE n 1.089 0.0100 0.985 0.0188
-PBU "C1'" "H1'2" SINGLE n 1.089 0.0100 0.985 0.0188
-PBU C1    H1     SINGLE n 1.089 0.0100 1.000 0.0100
-PBU C2    H2     SINGLE n 1.089 0.0100 0.991 0.0121
-PBU O2    H02    SINGLE n 0.970 0.0120 0.841 0.0200
-PBU C3    H3     SINGLE n 1.089 0.0100 0.991 0.0121
-PBU O3    H03    SINGLE n 0.970 0.0120 0.841 0.0200
-PBU C4    H4     SINGLE n 1.089 0.0100 1.000 0.0100
-PBU C5    H5     SINGLE n 1.089 0.0100 1.000 0.0100
-PBU C6    H6     SINGLE n 1.089 0.0100 0.991 0.0121
-PBU O6    H06    SINGLE n 0.970 0.0120 0.841 0.0200
-PBU C8    H81    SINGLE n 1.089 0.0100 0.981 0.0185
-PBU C8    H82    SINGLE n 1.089 0.0100 0.981 0.0185
-PBU C9    H91    SINGLE n 1.089 0.0100 0.980 0.0160
-PBU C9    H92    SINGLE n 1.089 0.0100 0.980 0.0160
-PBU C10   H11    SINGLE n 1.089 0.0100 0.973 0.0157
-PBU C10   H12    SINGLE n 1.089 0.0100 0.973 0.0157
-PBU C10   H13    SINGLE n 1.089 0.0100 0.973 0.0157
-PBU C12   H121   SINGLE n 1.089 0.0100 0.981 0.0185
-PBU C12   H122   SINGLE n 1.089 0.0100 0.981 0.0185
-PBU C13   H131   SINGLE n 1.089 0.0100 0.980 0.0160
-PBU C13   H132   SINGLE n 1.089 0.0100 0.980 0.0160
-PBU C14   H141   SINGLE n 1.089 0.0100 0.973 0.0157
-PBU C14   H142   SINGLE n 1.089 0.0100 0.973 0.0157
-PBU C14   H143   SINGLE n 1.089 0.0100 0.973 0.0157
-
+PBU          P1          O1      SINGLE       n     1.606  0.0100     1.606  0.0100
+PBU          P1         OP1      SINGLE       n     1.606  0.0100     1.606  0.0100
+PBU          P1         OP2      DOUBLE       n     1.504  0.0115     1.504  0.0115
+PBU          P1         OP3      SINGLE       n     1.504  0.0115     1.504  0.0115
+PBU          P4          O4      SINGLE       n     1.614  0.0178     1.614  0.0178
+PBU          P4         O41      DOUBLE       n     1.517  0.0192     1.517  0.0192
+PBU          P4         O42      SINGLE       n     1.517  0.0192     1.517  0.0192
+PBU          P4         O43      SINGLE       n     1.517  0.0192     1.517  0.0192
+PBU          P5          O5      SINGLE       n     1.614  0.0178     1.614  0.0178
+PBU          P5         O51      DOUBLE       n     1.517  0.0192     1.517  0.0192
+PBU          P5         O52      SINGLE       n     1.517  0.0192     1.517  0.0192
+PBU          P5         O53      SINGLE       n     1.517  0.0192     1.517  0.0192
+PBU       "C3'"       "C2'"      SINGLE       n     1.512  0.0104     1.512  0.0104
+PBU       "C3'"         OP1      SINGLE       n     1.454  0.0165     1.454  0.0165
+PBU       "C2'"       "O2'"      SINGLE       n     1.454  0.0123     1.454  0.0123
+PBU       "C2'"       "C1'"      SINGLE       n     1.512  0.0104     1.512  0.0104
+PBU       "O2'"          C7      SINGLE       n     1.342  0.0131     1.342  0.0131
+PBU       "C1'"       "O1'"      SINGLE       n     1.444  0.0100     1.444  0.0100
+PBU       "O1'"         C11      SINGLE       n     1.329  0.0116     1.329  0.0116
+PBU          C1          O1      SINGLE       n     1.465  0.0114     1.465  0.0114
+PBU          C1          C2      SINGLE       n     1.522  0.0100     1.522  0.0100
+PBU          C1          C6      SINGLE       n     1.522  0.0100     1.522  0.0100
+PBU          C2          O2      SINGLE       n     1.427  0.0138     1.427  0.0138
+PBU          C2          C3      SINGLE       n     1.523  0.0100     1.523  0.0100
+PBU          C3          O3      SINGLE       n     1.427  0.0138     1.427  0.0138
+PBU          C3          C4      SINGLE       n     1.522  0.0100     1.522  0.0100
+PBU          C4          O4      SINGLE       n     1.465  0.0114     1.465  0.0114
+PBU          C4          C5      SINGLE       n     1.519  0.0100     1.519  0.0100
+PBU          C5          O5      SINGLE       n     1.465  0.0114     1.465  0.0114
+PBU          C5          C6      SINGLE       n     1.522  0.0100     1.522  0.0100
+PBU          C6          O6      SINGLE       n     1.427  0.0138     1.427  0.0138
+PBU          C7          O7      DOUBLE       n     1.203  0.0150     1.203  0.0150
+PBU          C7          C8      SINGLE       n     1.503  0.0174     1.503  0.0174
+PBU          C8          C9      SINGLE       n     1.497  0.0200     1.497  0.0200
+PBU          C9         C10      SINGLE       n     1.515  0.0200     1.515  0.0200
+PBU         C11         O11      DOUBLE       n     1.203  0.0150     1.203  0.0150
+PBU         C11         C12      SINGLE       n     1.503  0.0174     1.503  0.0174
+PBU         C12         C13      SINGLE       n     1.497  0.0200     1.497  0.0200
+PBU         C13         C14      SINGLE       n     1.515  0.0200     1.515  0.0200
+PBU       "C3'"      "H3'1"      SINGLE       n     1.089  0.0100     0.980  0.0146
+PBU       "C3'"      "H3'2"      SINGLE       n     1.089  0.0100     0.980  0.0146
+PBU       "C2'"       "H2'"      SINGLE       n     1.089  0.0100     0.990  0.0148
+PBU       "C1'"      "H1'1"      SINGLE       n     1.089  0.0100     0.985  0.0188
+PBU       "C1'"      "H1'2"      SINGLE       n     1.089  0.0100     0.985  0.0188
+PBU          C1          H1      SINGLE       n     1.089  0.0100     1.000  0.0100
+PBU          C2          H2      SINGLE       n     1.089  0.0100     0.991  0.0121
+PBU          O2         H02      SINGLE       n     0.970  0.0120     0.841  0.0200
+PBU          C3          H3      SINGLE       n     1.089  0.0100     0.991  0.0121
+PBU          O3         H03      SINGLE       n     0.970  0.0120     0.841  0.0200
+PBU          C4          H4      SINGLE       n     1.089  0.0100     1.000  0.0100
+PBU          C5          H5      SINGLE       n     1.089  0.0100     1.000  0.0100
+PBU          C6          H6      SINGLE       n     1.089  0.0100     0.991  0.0121
+PBU          O6         H06      SINGLE       n     0.970  0.0120     0.841  0.0200
+PBU          C8         H81      SINGLE       n     1.089  0.0100     0.981  0.0185
+PBU          C8         H82      SINGLE       n     1.089  0.0100     0.981  0.0185
+PBU          C9         H91      SINGLE       n     1.089  0.0100     0.980  0.0160
+PBU          C9         H92      SINGLE       n     1.089  0.0100     0.980  0.0160
+PBU         C10         H11      SINGLE       n     1.089  0.0100     0.973  0.0157
+PBU         C10         H12      SINGLE       n     1.089  0.0100     0.973  0.0157
+PBU         C10         H13      SINGLE       n     1.089  0.0100     0.973  0.0157
+PBU         C12        H121      SINGLE       n     1.089  0.0100     0.981  0.0185
+PBU         C12        H122      SINGLE       n     1.089  0.0100     0.981  0.0185
+PBU         C13        H131      SINGLE       n     1.089  0.0100     0.980  0.0160
+PBU         C13        H132      SINGLE       n     1.089  0.0100     0.980  0.0160
+PBU         C14        H141      SINGLE       n     1.089  0.0100     0.973  0.0157
+PBU         C14        H142      SINGLE       n     1.089  0.0100     0.973  0.0157
+PBU         C14        H143      SINGLE       n     1.089  0.0100     0.973  0.0157
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -172,130 +172,129 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-PBU O1     P1    OP1    101.077 2.30
-PBU O1     P1    OP2    108.530 2.45
-PBU O1     P1    OP3    108.530 2.45
-PBU OP1    P1    OP2    107.912 2.57
-PBU OP1    P1    OP3    107.912 2.57
-PBU OP2    P1    OP3    116.964 2.85
-PBU O4     P4    O41    106.518 3.00
-PBU O4     P4    O42    106.518 3.00
-PBU O4     P4    O43    106.518 3.00
-PBU O41    P4    O42    112.139 1.52
-PBU O41    P4    O43    112.139 1.52
-PBU O42    P4    O43    112.139 1.52
-PBU O5     P5    O51    106.518 3.00
-PBU O5     P5    O52    106.518 3.00
-PBU O5     P5    O53    106.518 3.00
-PBU O51    P5    O52    112.139 1.52
-PBU O51    P5    O53    112.139 1.52
-PBU O52    P5    O53    112.139 1.52
-PBU "C2'"  "C3'" OP1    109.438 2.56
-PBU "C2'"  "C3'" "H3'1" 109.582 1.50
-PBU "C2'"  "C3'" "H3'2" 109.582 1.50
-PBU OP1    "C3'" "H3'1" 109.393 1.91
-PBU OP1    "C3'" "H3'2" 109.393 1.91
-PBU "H3'1" "C3'" "H3'2" 108.319 1.50
-PBU "C3'"  "C2'" "O2'"  109.042 2.74
-PBU "C3'"  "C2'" "C1'"  113.504 1.50
-PBU "C3'"  "C2'" "H2'"  108.656 1.50
-PBU "O2'"  "C2'" "C1'"  109.042 2.74
-PBU "O2'"  "C2'" "H2'"  109.221 1.50
-PBU "C1'"  "C2'" "H2'"  108.656 1.50
-PBU "C2'"  "O2'" C7     117.944 1.50
-PBU "C2'"  "C1'" "O1'"  108.641 1.70
-PBU "C2'"  "C1'" "H1'1" 110.376 1.50
-PBU "C2'"  "C1'" "H1'2" 110.376 1.50
-PBU "O1'"  "C1'" "H1'1" 109.514 1.50
-PBU "O1'"  "C1'" "H1'2" 109.514 1.50
-PBU "H1'1" "C1'" "H1'2" 108.601 1.50
-PBU "C1'"  "O1'" C11    116.187 1.50
-PBU O1     C1    C2     108.118 1.66
-PBU O1     C1    C6     108.118 1.66
-PBU O1     C1    H1     109.322 1.50
-PBU C2     C1    C6     110.796 1.54
-PBU C2     C1    H1     109.166 1.50
-PBU C6     C1    H1     109.166 1.50
-PBU P1     O1    C1     122.306 2.63
-PBU C1     C2    O2     110.081 2.02
-PBU C1     C2    C3     110.796 1.54
-PBU C1     C2    H2     109.166 1.50
-PBU O2     C2    C3     109.587 1.51
-PBU O2     C2    H2     108.767 1.50
-PBU C3     C2    H2     108.868 1.50
-PBU C2     O2    H02    108.895 2.41
-PBU C2     C3    O3     109.587 1.51
-PBU C2     C3    C4     110.796 1.54
-PBU C2     C3    H3     108.868 1.50
-PBU O3     C3    C4     110.081 2.02
-PBU O3     C3    H3     108.767 1.50
-PBU C4     C3    H3     109.166 1.50
-PBU C3     O3    H03    108.895 2.41
-PBU C3     C4    O4     108.118 1.66
-PBU C3     C4    C5     110.796 1.54
-PBU C3     C4    H4     109.166 1.50
-PBU O4     C4    C5     108.118 1.66
-PBU O4     C4    H4     109.322 1.50
-PBU C5     C4    H4     109.166 1.50
-PBU P4     O4    C4     122.306 2.63
-PBU C4     C5    O5     108.118 1.66
-PBU C4     C5    C6     110.796 1.54
-PBU C4     C5    H5     109.166 1.50
-PBU O5     C5    C6     108.118 1.66
-PBU O5     C5    H5     109.322 1.50
-PBU C6     C5    H5     109.166 1.50
-PBU P5     O5    C5     122.306 2.63
-PBU C1     C6    C5     110.796 1.54
-PBU C1     C6    O6     110.081 2.02
-PBU C1     C6    H6     109.166 1.50
-PBU C5     C6    O6     110.081 2.02
-PBU C5     C6    H6     109.166 1.50
-PBU O6     C6    H6     108.767 1.50
-PBU C6     O6    H06    108.895 2.41
-PBU "O2'"  C7    O7     122.278 2.43
-PBU "O2'"  C7    C8     113.008 3.00
-PBU O7     C7    C8     124.714 2.71
-PBU C7     C8    C9     114.046 1.93
-PBU C7     C8    H81    108.883 1.50
-PBU C7     C8    H82    108.883 1.50
-PBU C9     C8    H81    108.478 1.50
-PBU C9     C8    H82    108.478 1.50
-PBU H81    C8    H82    107.521 1.50
-PBU C8     C9    C10    112.922 2.23
-PBU C8     C9    H91    108.858 1.50
-PBU C8     C9    H92    108.858 1.50
-PBU C10    C9    H91    108.918 1.50
-PBU C10    C9    H92    108.918 1.50
-PBU H91    C9    H92    107.763 1.50
-PBU C9     C10   H11    109.554 1.50
-PBU C9     C10   H12    109.554 1.50
-PBU C9     C10   H13    109.554 1.50
-PBU H11    C10   H12    109.380 1.50
-PBU H11    C10   H13    109.380 1.50
-PBU H12    C10   H13    109.380 1.50
-PBU "O1'"  C11   O11    123.233 1.50
-PBU "O1'"  C11   C12    111.516 1.50
-PBU O11    C11   C12    125.251 2.71
-PBU C11    C12   C13    114.046 1.93
-PBU C11    C12   H121   108.883 1.50
-PBU C11    C12   H122   108.883 1.50
-PBU C13    C12   H121   108.478 1.50
-PBU C13    C12   H122   108.478 1.50
-PBU H121   C12   H122   107.521 1.50
-PBU C12    C13   C14    112.922 2.23
-PBU C12    C13   H131   108.858 1.50
-PBU C12    C13   H132   108.858 1.50
-PBU C14    C13   H131   108.918 1.50
-PBU C14    C13   H132   108.918 1.50
-PBU H131   C13   H132   107.763 1.50
-PBU C13    C14   H141   109.554 1.50
-PBU C13    C14   H142   109.554 1.50
-PBU C13    C14   H143   109.554 1.50
-PBU H141   C14   H142   109.380 1.50
-PBU H141   C14   H143   109.380 1.50
-PBU H142   C14   H143   109.380 1.50
-PBU P1     OP1   "C3'"  119.251 1.51
-
+PBU          O1          P1         OP1     101.077    2.30
+PBU          O1          P1         OP2     108.530    2.45
+PBU          O1          P1         OP3     108.530    2.45
+PBU         OP1          P1         OP2     107.912    2.57
+PBU         OP1          P1         OP3     107.912    2.57
+PBU         OP2          P1         OP3     116.964    2.85
+PBU          O4          P4         O41     106.518    3.00
+PBU          O4          P4         O42     106.518    3.00
+PBU          O4          P4         O43     106.518    3.00
+PBU         O41          P4         O42     112.139    1.52
+PBU         O41          P4         O43     112.139    1.52
+PBU         O42          P4         O43     112.139    1.52
+PBU          O5          P5         O51     106.518    3.00
+PBU          O5          P5         O52     106.518    3.00
+PBU          O5          P5         O53     106.518    3.00
+PBU         O51          P5         O52     112.139    1.52
+PBU         O51          P5         O53     112.139    1.52
+PBU         O52          P5         O53     112.139    1.52
+PBU       "C2'"       "C3'"         OP1     109.438    2.56
+PBU       "C2'"       "C3'"      "H3'1"     109.582    1.50
+PBU       "C2'"       "C3'"      "H3'2"     109.582    1.50
+PBU         OP1       "C3'"      "H3'1"     109.393    1.91
+PBU         OP1       "C3'"      "H3'2"     109.393    1.91
+PBU      "H3'1"       "C3'"      "H3'2"     108.319    1.50
+PBU       "C3'"       "C2'"       "O2'"     109.042    2.74
+PBU       "C3'"       "C2'"       "C1'"     113.504    1.50
+PBU       "C3'"       "C2'"       "H2'"     108.656    1.50
+PBU       "O2'"       "C2'"       "C1'"     109.042    2.74
+PBU       "O2'"       "C2'"       "H2'"     109.221    1.50
+PBU       "C1'"       "C2'"       "H2'"     108.656    1.50
+PBU       "C2'"       "O2'"          C7     117.944    1.50
+PBU       "C2'"       "C1'"       "O1'"     108.641    1.70
+PBU       "C2'"       "C1'"      "H1'1"     110.376    1.50
+PBU       "C2'"       "C1'"      "H1'2"     110.376    1.50
+PBU       "O1'"       "C1'"      "H1'1"     109.514    1.50
+PBU       "O1'"       "C1'"      "H1'2"     109.514    1.50
+PBU      "H1'1"       "C1'"      "H1'2"     108.601    1.50
+PBU       "C1'"       "O1'"         C11     116.187    1.50
+PBU          O1          C1          C2     108.118    1.66
+PBU          O1          C1          C6     108.118    1.66
+PBU          O1          C1          H1     109.322    1.50
+PBU          C2          C1          C6     110.796    1.54
+PBU          C2          C1          H1     109.166    1.50
+PBU          C6          C1          H1     109.166    1.50
+PBU          P1          O1          C1     122.306    2.63
+PBU          C1          C2          O2     110.081    2.02
+PBU          C1          C2          C3     110.796    1.54
+PBU          C1          C2          H2     109.166    1.50
+PBU          O2          C2          C3     109.587    1.51
+PBU          O2          C2          H2     108.767    1.50
+PBU          C3          C2          H2     108.868    1.50
+PBU          C2          O2         H02     108.895    2.41
+PBU          C2          C3          O3     109.587    1.51
+PBU          C2          C3          C4     110.796    1.54
+PBU          C2          C3          H3     108.868    1.50
+PBU          O3          C3          C4     110.081    2.02
+PBU          O3          C3          H3     108.767    1.50
+PBU          C4          C3          H3     109.166    1.50
+PBU          C3          O3         H03     108.895    2.41
+PBU          C3          C4          O4     108.118    1.66
+PBU          C3          C4          C5     110.796    1.54
+PBU          C3          C4          H4     109.166    1.50
+PBU          O4          C4          C5     108.118    1.66
+PBU          O4          C4          H4     109.322    1.50
+PBU          C5          C4          H4     109.166    1.50
+PBU          P4          O4          C4     122.306    2.63
+PBU          C4          C5          O5     108.118    1.66
+PBU          C4          C5          C6     110.796    1.54
+PBU          C4          C5          H5     109.166    1.50
+PBU          O5          C5          C6     108.118    1.66
+PBU          O5          C5          H5     109.322    1.50
+PBU          C6          C5          H5     109.166    1.50
+PBU          P5          O5          C5     122.306    2.63
+PBU          C1          C6          C5     110.796    1.54
+PBU          C1          C6          O6     110.081    2.02
+PBU          C1          C6          H6     109.166    1.50
+PBU          C5          C6          O6     110.081    2.02
+PBU          C5          C6          H6     109.166    1.50
+PBU          O6          C6          H6     108.767    1.50
+PBU          C6          O6         H06     108.895    2.41
+PBU       "O2'"          C7          O7     122.278    2.43
+PBU       "O2'"          C7          C8     113.008    3.00
+PBU          O7          C7          C8     124.714    2.71
+PBU          C7          C8          C9     114.046    1.93
+PBU          C7          C8         H81     108.883    1.50
+PBU          C7          C8         H82     108.883    1.50
+PBU          C9          C8         H81     108.478    1.50
+PBU          C9          C8         H82     108.478    1.50
+PBU         H81          C8         H82     107.521    1.50
+PBU          C8          C9         C10     112.922    2.23
+PBU          C8          C9         H91     108.858    1.50
+PBU          C8          C9         H92     108.858    1.50
+PBU         C10          C9         H91     108.918    1.50
+PBU         C10          C9         H92     108.918    1.50
+PBU         H91          C9         H92     107.763    1.50
+PBU          C9         C10         H11     109.554    1.50
+PBU          C9         C10         H12     109.554    1.50
+PBU          C9         C10         H13     109.554    1.50
+PBU         H11         C10         H12     109.380    1.50
+PBU         H11         C10         H13     109.380    1.50
+PBU         H12         C10         H13     109.380    1.50
+PBU       "O1'"         C11         O11     123.233    1.50
+PBU       "O1'"         C11         C12     111.516    1.50
+PBU         O11         C11         C12     125.251    2.71
+PBU         C11         C12         C13     114.046    1.93
+PBU         C11         C12        H121     108.883    1.50
+PBU         C11         C12        H122     108.883    1.50
+PBU         C13         C12        H121     108.478    1.50
+PBU         C13         C12        H122     108.478    1.50
+PBU        H121         C12        H122     107.521    1.50
+PBU         C12         C13         C14     112.922    2.23
+PBU         C12         C13        H131     108.858    1.50
+PBU         C12         C13        H132     108.858    1.50
+PBU         C14         C13        H131     108.918    1.50
+PBU         C14         C13        H132     108.918    1.50
+PBU        H131         C13        H132     107.763    1.50
+PBU         C13         C14        H141     109.554    1.50
+PBU         C13         C14        H142     109.554    1.50
+PBU         C13         C14        H143     109.554    1.50
+PBU        H141         C14        H142     109.380    1.50
+PBU        H141         C14        H143     109.380    1.50
+PBU        H142         C14        H143     109.380    1.50
+PBU          P1         OP1       "C3'"     119.251    1.51
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -306,36 +305,35 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-PBU sp3_sp3_49  "C3'" OP1   P1    O1    180.000 10.0 3
-PBU sp3_sp3_47  C1    O1    P1    OP1   -60.000 10.0 3
-PBU sp3_sp3_97  C1    C2    O2    H02   180.000 10.0 3
-PBU sp3_sp3_14  O2    C2    C3    O3    -60.000 10.0 3
-PBU sp3_sp3_100 C2    C3    O3    H03   180.000 10.0 3
-PBU sp3_sp3_23  O3    C3    C4    O4    60.000  10.0 3
-PBU sp3_sp3_103 C3    C4    O4    P4    180.000 10.0 3
-PBU sp3_sp3_32  O4    C4    C5    O5    -60.000 10.0 3
-PBU sp3_sp3_106 C4    C5    O5    P5    180.000 10.0 3
-PBU sp3_sp3_41  O5    C5    C6    O6    60.000  10.0 3
-PBU sp3_sp3_109 C1    C6    O6    H06   180.000 10.0 3
-PBU sp3_sp3_54  C4    O4    P4    O41   60.000  10.0 3
-PBU sp2_sp3_2   "O2'" C7    C8    C9    120.000 10.0 6
-PBU sp3_sp3_112 C7    C8    C9    C10   180.000 10.0 3
-PBU sp3_sp3_121 H11   C10   C9    C8    180.000 10.0 3
-PBU sp2_sp3_8   "O1'" C11   C12   C13   120.000 10.0 6
-PBU sp3_sp3_130 C11   C12   C13   C14   180.000 10.0 3
-PBU sp3_sp3_139 C12   C13   C14   H141  180.000 10.0 3
-PBU sp3_sp3_57  C5    O5    P5    O51   60.000  10.0 3
-PBU sp3_sp3_67  "C2'" "C3'" OP1   P1    180.000 10.0 3
-PBU sp3_sp3_58  "O2'" "C2'" "C3'" OP1   180.000 10.0 3
-PBU sp3_sp3_70  "C3'" "C2'" "O2'" C7    180.000 10.0 3
-PBU sp3_sp3_73  "O1'" "C1'" "C2'" "C3'" 180.000 10.0 3
-PBU sp2_sp2_1   O7    C7    "O2'" "C2'" 180.000 5.0  2
-PBU sp3_sp3_82  "C2'" "C1'" "O1'" C11   180.000 10.0 3
-PBU sp2_sp2_3   O11   C11   "O1'" "C1'" 180.000 5.0  2
-PBU sp3_sp3_5   O1    C1    C2    O2    60.000  10.0 3
-PBU sp3_sp3_92  O1    C1    C6    O6    180.000 10.0 3
-PBU sp3_sp3_85  C2    C1    O1    P1    180.000 10.0 3
-
+PBU            sp3_sp3_49       "C3'"         OP1          P1          O1     180.000    10.0     3
+PBU            sp3_sp3_47          C1          O1          P1         OP1     -60.000    10.0     3
+PBU            sp3_sp3_97          C1          C2          O2         H02     180.000    10.0     3
+PBU            sp3_sp3_14          O2          C2          C3          O3     -60.000    10.0     3
+PBU           sp3_sp3_100          C2          C3          O3         H03     180.000    10.0     3
+PBU            sp3_sp3_23          O3          C3          C4          O4      60.000    10.0     3
+PBU           sp3_sp3_103          C3          C4          O4          P4     180.000    10.0     3
+PBU            sp3_sp3_32          O4          C4          C5          O5     -60.000    10.0     3
+PBU           sp3_sp3_106          C4          C5          O5          P5     180.000    10.0     3
+PBU            sp3_sp3_41          O5          C5          C6          O6      60.000    10.0     3
+PBU           sp3_sp3_109          C1          C6          O6         H06     180.000    10.0     3
+PBU            sp3_sp3_54          C4          O4          P4         O41      60.000    10.0     3
+PBU             sp2_sp3_2       "O2'"          C7          C8          C9     120.000    10.0     6
+PBU           sp3_sp3_112          C7          C8          C9         C10     180.000    10.0     3
+PBU           sp3_sp3_121         H11         C10          C9          C8     180.000    10.0     3
+PBU             sp2_sp3_8       "O1'"         C11         C12         C13     120.000    10.0     6
+PBU           sp3_sp3_130         C11         C12         C13         C14     180.000    10.0     3
+PBU           sp3_sp3_139         C12         C13         C14        H141     180.000    10.0     3
+PBU            sp3_sp3_57          C5          O5          P5         O51      60.000    10.0     3
+PBU            sp3_sp3_67       "C2'"       "C3'"         OP1          P1     180.000    10.0     3
+PBU            sp3_sp3_58       "O2'"       "C2'"       "C3'"         OP1     180.000    10.0     3
+PBU            sp3_sp3_70       "C3'"       "C2'"       "O2'"          C7     180.000    10.0     3
+PBU            sp3_sp3_73       "O1'"       "C1'"       "C2'"       "C3'"     180.000    10.0     3
+PBU             sp2_sp2_1          O7          C7       "O2'"       "C2'"     180.000     5.0     2
+PBU            sp3_sp3_82       "C2'"       "C1'"       "O1'"         C11     180.000    10.0     3
+PBU             sp2_sp2_3         O11         C11       "O1'"       "C1'"     180.000     5.0     2
+PBU             sp3_sp3_5          O1          C1          C2          O2      60.000    10.0     3
+PBU            sp3_sp3_92          O1          C1          C6          O6     180.000    10.0     3
+PBU            sp3_sp3_85          C2          C1          O1          P1     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -344,67 +342,48 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-PBU chir_1  P1    O1    OP1   OP3   both
-PBU chir_2  P4    O4    O42   O43   both
-PBU chir_3  P5    O5    O52   O53   both
-PBU chir_4  "C2'" "O2'" "C3'" "C1'" negative
-PBU chir_5  C1    O1    C6    C2    negative
-PBU chir_6  C2    O2    C1    C3    negative
-PBU chir_7  C3    O3    C4    C2    positive
-PBU chir_8  C4    O4    C5    C3    negative
-PBU chir_9  C5    O5    C4    C6    negative
-PBU chir_10 C6    O6    C5    C1    positive
-
+PBU    chir_1    P1    O1    OP1    OP3    both
+PBU    chir_2    P4    O4    O42    O43    both
+PBU    chir_3    P5    O5    O52    O53    both
+PBU    chir_4    "C2'"    "O2'"    "C3'"    "C1'"    negative
+PBU    chir_5    C1    O1    C6    C2    negative
+PBU    chir_6    C2    O2    C1    C3    negative
+PBU    chir_7    C3    O3    C4    C2    positive
+PBU    chir_8    C4    O4    C5    C3    negative
+PBU    chir_9    C5    O5    C4    C6    negative
+PBU    chir_10    C6    O6    C5    C1    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-PBU plan-1 C7    0.020
-PBU plan-1 C8    0.020
-PBU plan-1 "O2'" 0.020
-PBU plan-1 O7    0.020
-PBU plan-2 C11   0.020
-PBU plan-2 C12   0.020
-PBU plan-2 "O1'" 0.020
-PBU plan-2 O11   0.020
-
+PBU    plan-1          C7   0.020
+PBU    plan-1          C8   0.020
+PBU    plan-1       "O2'"   0.020
+PBU    plan-1          O7   0.020
+PBU    plan-2         C11   0.020
+PBU    plan-2         C12   0.020
+PBU    plan-2       "O1'"   0.020
+PBU    plan-2         O11   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-PBU SMILES           ACDLabs              12.01 O=C(OCC(OC(=O)CCC)COP(=O)(O)OC1C(O)C(O)C(OP(=O)(O)O)C(OP(=O)(O)O)C1O)CCC
-PBU InChI            InChI                1.03  InChI=1S/C17H33O19P3/c1-3-5-10(18)31-7-9(33-11(19)6-4-2)8-32-39(29,30)36-15-12(20)13(21)16(34-37(23,24)25)17(14(15)22)35-38(26,27)28/h9,12-17,20-22H,3-8H2,1-2H3,(H,29,30)(H2,23,24,25)(H2,26,27,28)/t9-,12-,13+,14+,15-,16-,17-/m1/s1
-PBU InChIKey         InChI                1.03  DHAFWWKSHUBGAH-BXJBXBQISA-N
-PBU SMILES_CANONICAL CACTVS               3.385 CCCC(=O)OC[C@H](CO[P](O)(=O)O[C@@H]1[C@H](O)[C@H](O)[C@@H](O[P](O)(O)=O)[C@H](O[P](O)(O)=O)[C@H]1O)OC(=O)CCC
-PBU SMILES           CACTVS               3.385 CCCC(=O)OC[CH](CO[P](O)(=O)O[CH]1[CH](O)[CH](O)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH]1O)OC(=O)CCC
-PBU SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CCCC(=O)OC[C@H](COP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H]([C@@H]([C@H]1O)OP(=O)(O)O)OP(=O)(O)O)O)O)OC(=O)CCC
-PBU SMILES           "OpenEye OEToolkits" 1.7.6 CCCC(=O)OCC(COP(=O)(O)OC1C(C(C(C(C1O)OP(=O)(O)O)OP(=O)(O)O)O)O)OC(=O)CCC
-
+PBU           SMILES              ACDLabs 12.01                                                                                                                                                               O=C(OCC(OC(=O)CCC)COP(=O)(O)OC1C(O)C(O)C(OP(=O)(O)O)C(OP(=O)(O)O)C1O)CCC
+PBU            InChI                InChI  1.03 InChI=1S/C17H33O19P3/c1-3-5-10(18)31-7-9(33-11(19)6-4-2)8-32-39(29,30)36-15-12(20)13(21)16(34-37(23,24)25)17(14(15)22)35-38(26,27)28/h9,12-17,20-22H,3-8H2,1-2H3,(H,29,30)(H2,23,24,25)(H2,26,27,28)/t9-,12-,13+,14+,15-,16-,17-/m1/s1
+PBU         InChIKey                InChI  1.03                                                                                                                                                                                                            DHAFWWKSHUBGAH-BXJBXBQISA-N
+PBU SMILES_CANONICAL               CACTVS 3.385                                                                                                                           CCCC(=O)OC[C@H](CO[P](O)(=O)O[C@@H]1[C@H](O)[C@H](O)[C@@H](O[P](O)(O)=O)[C@H](O[P](O)(O)=O)[C@H]1O)OC(=O)CCC
+PBU           SMILES               CACTVS 3.385                                                                                                                                    CCCC(=O)OC[CH](CO[P](O)(=O)O[CH]1[CH](O)[CH](O)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH]1O)OC(=O)CCC
+PBU SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                               CCCC(=O)OC[C@H](COP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H]([C@@H]([C@H]1O)OP(=O)(O)O)OP(=O)(O)O)O)O)OC(=O)CCC
+PBU           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                               CCCC(=O)OCC(COP(=O)(O)OC1C(C(C(C(C1O)OP(=O)(O)O)OP(=O)(O)O)O)O)OC(=O)CCC
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-PBU acedrg          243       "dictionary generator"
-PBU acedrg_database 11        "data source"
-PBU rdkit           2017.03.2 "Chemoinformatics tool"
-PBU refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-PBU DNA/RNA O42 OP3
-PBU DNA/RNA P4  P
-PBU DNA/RNA O41 OP1
-PBU DNA/RNA O43 OP2
-PBU DNA/RNA O4  O5'
-PBU DNA/RNA C4  C5'
-PBU DNA/RNA C3  C4'
-PBU DNA/RNA C2  C3'
-PBU DNA/RNA O2  O3'
-PBU DNA/RNA H02 HO3'
+PBU acedrg               243         "dictionary generator"                  
+PBU acedrg_database      11          "data source"                           
+PBU rdkit                2017.03.2   "Chemoinformatics tool"
+PBU refmac5              5.8.0238    "optimization tool"                     

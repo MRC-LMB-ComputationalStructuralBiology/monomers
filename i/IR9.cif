@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IR9 IR9 "[(2S,3R,4S,5S)-3,4-dihydroxypyrrolidine-2,5-diyl]bis(methylene) bis[dihydrogen (phosphate)]" NON-POLYMER 30 19 .
-
+IR9     IR9      "[(2S,3R,4S,5S)-3,4-dihydroxypyrrolidine-2,5-diyl]bis(methylene) bis[dihydrogen (phosphate)]"     NON-POLYMER     30     19     .     
+#
 data_comp_IR9
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,37 +21,36 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IR9 O3P O O   0  -23.363 -33.530 -2.980
-IR9 P1  P P   0  -23.048 -34.897 -2.404
-IR9 O1P O OP  -1 -21.558 -35.157 -2.281
-IR9 O2P O OP  -1 -23.785 -36.018 -3.113
-IR9 O1  O O2  0  -23.618 -34.883 -0.894
-IR9 C1  C CH2 0  -23.111 -33.892 0.036
-IR9 C2  C CH1 0  -23.863 -34.029 1.345
-IR9 C3  C CH1 0  -23.262 -33.232 2.512
-IR9 O3  O OH1 0  -22.730 -31.977 2.102
-IR9 N1  N NT1 0  -25.229 -33.480 1.262
-IR9 C5  C CH1 0  -25.678 -32.960 2.571
-IR9 C4  C CH1 0  -24.438 -33.076 3.478
-IR9 O4  O OH1 0  -24.307 -31.936 4.317
-IR9 C6  C CH2 0  -26.887 -33.704 3.105
-IR9 O6  O O2  0  -28.037 -33.373 2.282
-IR9 P2  P P   0  -29.128 -32.313 2.831
-IR9 O4P O OP  -1 -28.360 -31.035 3.113
-IR9 O5P O OP  -1 -29.716 -32.936 4.083
-IR9 O6P O O   0  -30.147 -32.155 1.718
-IR9 H3  H H   0  -23.241 -32.994 -0.330
-IR9 H4  H H   0  -22.154 -34.032 0.186
-IR9 H5  H H   0  -23.918 -34.986 1.593
-IR9 H6  H H   0  -22.554 -33.768 2.950
-IR9 H7  H H   0  -23.340 -31.536 1.709
-IR9 H8  H H   0  -25.788 -34.099 0.945
-IR9 H10 H H   0  -25.912 -32.004 2.462
-IR9 H11 H H   0  -24.508 -33.893 4.033
-IR9 H12 H H   0  -24.977 -31.904 4.838
-IR9 H13 H H   0  -27.048 -33.448 4.037
-IR9 H14 H H   0  -26.720 -34.668 3.074
-
+IR9     O3P     O       O       0       -23.363     -33.530     -2.980      
+IR9     P1      P       P       0       -23.048     -34.897     -2.404      
+IR9     O1P     O       OP      -1      -21.558     -35.157     -2.281      
+IR9     O2P     O       OP      -1      -23.785     -36.018     -3.113      
+IR9     O1      O       O2      0       -23.618     -34.883     -0.894      
+IR9     C1      C       CH2     0       -23.111     -33.892     0.036       
+IR9     C2      C       CH1     0       -23.863     -34.029     1.345       
+IR9     C3      C       CH1     0       -23.262     -33.232     2.512       
+IR9     O3      O       OH1     0       -22.730     -31.977     2.102       
+IR9     N1      N       NT1     0       -25.229     -33.480     1.262       
+IR9     C5      C       CH1     0       -25.678     -32.960     2.571       
+IR9     C4      C       CH1     0       -24.438     -33.076     3.478       
+IR9     O4      O       OH1     0       -24.307     -31.936     4.317       
+IR9     C6      C       CH2     0       -26.887     -33.704     3.105       
+IR9     O6      O       O2      0       -28.037     -33.373     2.282       
+IR9     P2      P       P       0       -29.128     -32.313     2.831       
+IR9     O4P     O       OP      -1      -28.360     -31.035     3.113       
+IR9     O5P     O       OP      -1      -29.716     -32.936     4.083       
+IR9     O6P     O       O       0       -30.147     -32.155     1.718       
+IR9     H3      H       H       0       -23.241     -32.994     -0.330      
+IR9     H4      H       H       0       -22.154     -34.032     0.186       
+IR9     H5      H       H       0       -23.918     -34.986     1.593       
+IR9     H6      H       H       0       -22.554     -33.768     2.950       
+IR9     H7      H       H       0       -23.340     -31.536     1.709       
+IR9     H8      H       H       0       -25.788     -34.099     0.945       
+IR9     H10     H       H       0       -25.912     -32.004     2.462       
+IR9     H11     H       H       0       -24.508     -33.893     4.033       
+IR9     H12     H       H       0       -24.977     -31.904     4.838       
+IR9     H13     H       H       0       -27.048     -33.448     4.037       
+IR9     H14     H       H       0       -26.720     -34.668     3.074       
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -60,37 +61,36 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IR9 O3P P1  DOUBLE n 1.517 0.0192 1.517 0.0192
-IR9 P1  O2P SINGLE n 1.517 0.0192 1.517 0.0192
-IR9 P1  O1P SINGLE n 1.517 0.0192 1.517 0.0192
-IR9 P1  O1  SINGLE n 1.614 0.0178 1.614 0.0178
-IR9 O1  C1  SINGLE n 1.450 0.0166 1.450 0.0166
-IR9 C1  C2  SINGLE n 1.515 0.0106 1.515 0.0106
-IR9 C2  N1  SINGLE n 1.475 0.0100 1.475 0.0100
-IR9 N1  C5  SINGLE n 1.475 0.0100 1.475 0.0100
-IR9 P2  O6P DOUBLE n 1.517 0.0192 1.517 0.0192
-IR9 C2  C3  SINGLE n 1.536 0.0148 1.536 0.0148
-IR9 O6  P2  SINGLE n 1.614 0.0178 1.614 0.0178
-IR9 C6  O6  SINGLE n 1.450 0.0166 1.450 0.0166
-IR9 P2  O4P SINGLE n 1.517 0.0192 1.517 0.0192
-IR9 C3  O3  SINGLE n 1.421 0.0100 1.421 0.0100
-IR9 P2  O5P SINGLE n 1.517 0.0192 1.517 0.0192
-IR9 C3  C4  SINGLE n 1.529 0.0127 1.529 0.0127
-IR9 C5  C6  SINGLE n 1.515 0.0106 1.515 0.0106
-IR9 C5  C4  SINGLE n 1.536 0.0148 1.536 0.0148
-IR9 C4  O4  SINGLE n 1.421 0.0100 1.421 0.0100
-IR9 C1  H3  SINGLE n 1.089 0.0100 0.979 0.0188
-IR9 C1  H4  SINGLE n 1.089 0.0100 0.979 0.0188
-IR9 C2  H5  SINGLE n 1.089 0.0100 0.990 0.0135
-IR9 C3  H6  SINGLE n 1.089 0.0100 0.990 0.0168
-IR9 O3  H7  SINGLE n 0.970 0.0120 0.849 0.0200
-IR9 N1  H8  SINGLE n 1.036 0.0160 0.891 0.0200
-IR9 C5  H10 SINGLE n 1.089 0.0100 0.990 0.0135
-IR9 C4  H11 SINGLE n 1.089 0.0100 0.990 0.0168
-IR9 O4  H12 SINGLE n 0.970 0.0120 0.849 0.0200
-IR9 C6  H13 SINGLE n 1.089 0.0100 0.979 0.0188
-IR9 C6  H14 SINGLE n 1.089 0.0100 0.979 0.0188
-
+IR9         O3P          P1      DOUBLE       n     1.517  0.0192     1.517  0.0192
+IR9          P1         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
+IR9          P1         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
+IR9          P1          O1      SINGLE       n     1.614  0.0178     1.614  0.0178
+IR9          O1          C1      SINGLE       n     1.450  0.0166     1.450  0.0166
+IR9          C1          C2      SINGLE       n     1.515  0.0106     1.515  0.0106
+IR9          C2          N1      SINGLE       n     1.475  0.0100     1.475  0.0100
+IR9          N1          C5      SINGLE       n     1.475  0.0100     1.475  0.0100
+IR9          P2         O6P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+IR9          C2          C3      SINGLE       n     1.536  0.0148     1.536  0.0148
+IR9          O6          P2      SINGLE       n     1.614  0.0178     1.614  0.0178
+IR9          C6          O6      SINGLE       n     1.450  0.0166     1.450  0.0166
+IR9          P2         O4P      SINGLE       n     1.517  0.0192     1.517  0.0192
+IR9          C3          O3      SINGLE       n     1.421  0.0100     1.421  0.0100
+IR9          P2         O5P      SINGLE       n     1.517  0.0192     1.517  0.0192
+IR9          C3          C4      SINGLE       n     1.529  0.0127     1.529  0.0127
+IR9          C5          C6      SINGLE       n     1.515  0.0106     1.515  0.0106
+IR9          C5          C4      SINGLE       n     1.536  0.0148     1.536  0.0148
+IR9          C4          O4      SINGLE       n     1.421  0.0100     1.421  0.0100
+IR9          C1          H3      SINGLE       n     1.089  0.0100     0.979  0.0188
+IR9          C1          H4      SINGLE       n     1.089  0.0100     0.979  0.0188
+IR9          C2          H5      SINGLE       n     1.089  0.0100     0.990  0.0135
+IR9          C3          H6      SINGLE       n     1.089  0.0100     0.990  0.0168
+IR9          O3          H7      SINGLE       n     0.970  0.0120     0.849  0.0200
+IR9          N1          H8      SINGLE       n     1.036  0.0160     0.891  0.0200
+IR9          C5         H10      SINGLE       n     1.089  0.0100     0.990  0.0135
+IR9          C4         H11      SINGLE       n     1.089  0.0100     0.990  0.0168
+IR9          O4         H12      SINGLE       n     0.970  0.0120     0.849  0.0200
+IR9          C6         H13      SINGLE       n     1.089  0.0100     0.979  0.0188
+IR9          C6         H14      SINGLE       n     1.089  0.0100     0.979  0.0188
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -98,62 +98,61 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IR9 O3P P1 O2P 112.864 1.69
-IR9 O3P P1 O1P 112.864 1.69
-IR9 O3P P1 O1  105.808 2.07
-IR9 O2P P1 O1P 112.864 1.69
-IR9 O2P P1 O1  105.808 2.07
-IR9 O1P P1 O1  105.808 2.07
-IR9 P1  O1 C1  118.783 1.50
-IR9 O1  C1 C2  108.378 1.55
-IR9 O1  C1 H3  109.821 1.50
-IR9 O1  C1 H4  109.821 1.50
-IR9 C2  C1 H3  109.608 1.50
-IR9 C2  C1 H4  109.608 1.50
-IR9 H3  C1 H4  108.335 1.56
-IR9 C1  C2 N1  111.633 2.37
-IR9 C1  C2 C3  113.697 1.51
-IR9 C1  C2 H5  109.324 1.50
-IR9 N1  C2 C3  103.104 2.01
-IR9 N1  C2 H5  108.836 1.79
-IR9 C3  C2 H5  109.485 1.57
-IR9 C2  C3 O3  111.549 2.36
-IR9 C2  C3 C4  104.666 1.50
-IR9 C2  C3 H6  109.851 1.50
-IR9 O3  C3 C4  111.828 2.48
-IR9 O3  C3 H6  110.147 1.64
-IR9 C4  C3 H6  109.344 1.50
-IR9 C3  O3 H7  108.584 1.68
-IR9 C2  N1 C5  109.056 3.00
-IR9 C2  N1 H8  110.078 2.70
-IR9 C5  N1 H8  110.078 2.70
-IR9 N1  C5 C6  111.633 2.37
-IR9 N1  C5 C4  103.104 2.01
-IR9 N1  C5 H10 108.836 1.79
-IR9 C6  C5 C4  113.697 1.51
-IR9 C6  C5 H10 109.324 1.50
-IR9 C4  C5 H10 109.485 1.57
-IR9 C3  C4 C5  104.666 1.50
-IR9 C3  C4 O4  111.828 2.48
-IR9 C3  C4 H11 109.344 1.50
-IR9 C5  C4 O4  111.549 2.36
-IR9 C5  C4 H11 109.851 1.50
-IR9 O4  C4 H11 110.147 1.64
-IR9 C4  O4 H12 108.584 1.68
-IR9 O6  C6 C5  108.378 1.55
-IR9 O6  C6 H13 109.821 1.50
-IR9 O6  C6 H14 109.821 1.50
-IR9 C5  C6 H13 109.608 1.50
-IR9 C5  C6 H14 109.608 1.50
-IR9 H13 C6 H14 108.335 1.56
-IR9 P2  O6 C6  118.783 1.50
-IR9 O6P P2 O6  105.808 2.07
-IR9 O6P P2 O4P 112.864 1.69
-IR9 O6P P2 O5P 112.864 1.69
-IR9 O6  P2 O4P 105.808 2.07
-IR9 O6  P2 O5P 105.808 2.07
-IR9 O4P P2 O5P 112.864 1.69
-
+IR9         O3P          P1         O2P     112.864    1.69
+IR9         O3P          P1         O1P     112.864    1.69
+IR9         O3P          P1          O1     105.808    2.07
+IR9         O2P          P1         O1P     112.864    1.69
+IR9         O2P          P1          O1     105.808    2.07
+IR9         O1P          P1          O1     105.808    2.07
+IR9          P1          O1          C1     118.783    1.50
+IR9          O1          C1          C2     108.378    1.55
+IR9          O1          C1          H3     109.821    1.50
+IR9          O1          C1          H4     109.821    1.50
+IR9          C2          C1          H3     109.608    1.50
+IR9          C2          C1          H4     109.608    1.50
+IR9          H3          C1          H4     108.335    1.56
+IR9          C1          C2          N1     111.633    2.37
+IR9          C1          C2          C3     113.697    1.51
+IR9          C1          C2          H5     109.324    1.50
+IR9          N1          C2          C3     103.104    2.01
+IR9          N1          C2          H5     108.836    1.79
+IR9          C3          C2          H5     109.485    1.57
+IR9          C2          C3          O3     111.549    2.36
+IR9          C2          C3          C4     104.666    1.50
+IR9          C2          C3          H6     109.851    1.50
+IR9          O3          C3          C4     111.828    2.48
+IR9          O3          C3          H6     110.147    1.64
+IR9          C4          C3          H6     109.344    1.50
+IR9          C3          O3          H7     108.584    1.68
+IR9          C2          N1          C5     109.056    3.00
+IR9          C2          N1          H8     110.078    2.70
+IR9          C5          N1          H8     110.078    2.70
+IR9          N1          C5          C6     111.633    2.37
+IR9          N1          C5          C4     103.104    2.01
+IR9          N1          C5         H10     108.836    1.79
+IR9          C6          C5          C4     113.697    1.51
+IR9          C6          C5         H10     109.324    1.50
+IR9          C4          C5         H10     109.485    1.57
+IR9          C3          C4          C5     104.666    1.50
+IR9          C3          C4          O4     111.828    2.48
+IR9          C3          C4         H11     109.344    1.50
+IR9          C5          C4          O4     111.549    2.36
+IR9          C5          C4         H11     109.851    1.50
+IR9          O4          C4         H11     110.147    1.64
+IR9          C4          O4         H12     108.584    1.68
+IR9          O6          C6          C5     108.378    1.55
+IR9          O6          C6         H13     109.821    1.50
+IR9          O6          C6         H14     109.821    1.50
+IR9          C5          C6         H13     109.608    1.50
+IR9          C5          C6         H14     109.608    1.50
+IR9         H13          C6         H14     108.335    1.56
+IR9          P2          O6          C6     118.783    1.50
+IR9         O6P          P2          O6     105.808    2.07
+IR9         O6P          P2         O4P     112.864    1.69
+IR9         O6P          P2         O5P     112.864    1.69
+IR9          O6          P2         O4P     105.808    2.07
+IR9          O6          P2         O5P     105.808    2.07
+IR9         O4P          P2         O5P     112.864    1.69
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -164,20 +163,19 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IR9 sp3_sp3_17 O4 C4 C5 C6  60.000  10.0 3
-IR9 sp3_sp3_64 N1 C5 C6 O6  180.000 10.0 3
-IR9 sp3_sp3_73 C3 C4 O4 H12 180.000 10.0 3
-IR9 sp3_sp3_58 C5 C6 O6 P2  180.000 10.0 3
-IR9 sp3_sp3_57 C6 O6 P2 O6P 60.000  10.0 3
-IR9 sp3_sp3_33 C1 O1 P1 O3P 60.000  10.0 3
-IR9 sp3_sp3_34 C2 C1 O1 P1  180.000 10.0 3
-IR9 sp3_sp3_37 O1 C1 C2 N1  180.000 10.0 3
-IR9 sp3_sp3_50 C1 C2 C3 O3  180.000 10.0 3
-IR9 sp3_sp3_3  C1 C2 N1 C5  -60.000 10.0 3
-IR9 sp3_sp3_26 O3 C3 C4 O4  -60.000 10.0 3
-IR9 sp3_sp3_61 C2 C3 O3 H7  180.000 10.0 3
-IR9 sp3_sp3_9  C6 C5 N1 C2  180.000 10.0 3
-
+IR9            sp3_sp3_17          O4          C4          C5          C6      60.000    10.0     3
+IR9            sp3_sp3_64          N1          C5          C6          O6     180.000    10.0     3
+IR9            sp3_sp3_73          C3          C4          O4         H12     180.000    10.0     3
+IR9            sp3_sp3_58          C5          C6          O6          P2     180.000    10.0     3
+IR9            sp3_sp3_57          C6          O6          P2         O6P      60.000    10.0     3
+IR9            sp3_sp3_33          C1          O1          P1         O3P      60.000    10.0     3
+IR9            sp3_sp3_34          C2          C1          O1          P1     180.000    10.0     3
+IR9            sp3_sp3_37          O1          C1          C2          N1     180.000    10.0     3
+IR9            sp3_sp3_50          C1          C2          C3          O3     180.000    10.0     3
+IR9             sp3_sp3_3          C1          C2          N1          C5     -60.000    10.0     3
+IR9            sp3_sp3_26          O3          C3          C4          O4     -60.000    10.0     3
+IR9            sp3_sp3_61          C2          C3          O3          H7     180.000    10.0     3
+IR9             sp3_sp3_9          C6          C5          N1          C2     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -186,50 +184,32 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-IR9 chir_1 P1 O1 O2P O1P both
-IR9 chir_2 C2 N1 C3  C1  positive
-IR9 chir_3 C3 O3 C4  C2  negative
-IR9 chir_4 C5 N1 C4  C6  positive
-IR9 chir_5 C4 O4 C3  C5  positive
-IR9 chir_6 P2 O6 O4P O5P both
-IR9 chir_7 N1 C2 C5  H8  both
-
+IR9    chir_1    P1    O1    O2P    O1P    both
+IR9    chir_2    C2    N1    C3    C1    positive
+IR9    chir_3    C3    O3    C4    C2    negative
+IR9    chir_4    C5    N1    C4    C6    positive
+IR9    chir_5    C4    O4    C3    C5    positive
+IR9    chir_6    P2    O6    O4P    O5P    both
+IR9    chir_7    N1    C2    C5    H8    both
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IR9 SMILES           ACDLabs              12.01 O=P(O)(OCC1C(C(C(N1)COP(O)(O)=O)O)O)O
-IR9 InChI            InChI                1.03  InChI=1S/C6H15NO10P2/c8-5-3(1-16-18(10,11)12)7-4(6(5)9)2-17-19(13,14)15/h3-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5-,6+/m0/s1
-IR9 InChIKey         InChI                1.03  JDMJAXIARMVOFV-OMMKOOBNSA-N
-IR9 SMILES_CANONICAL CACTVS               3.385 O[C@H]1[C@@H](O)[C@H](CO[P](O)(O)=O)N[C@H]1CO[P](O)(O)=O
-IR9 SMILES           CACTVS               3.385 O[CH]1[CH](O)[CH](CO[P](O)(O)=O)N[CH]1CO[P](O)(O)=O
-IR9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 C([C@H]1[C@H]([C@H]([C@@H](N1)COP(=O)(O)O)O)O)OP(=O)(O)O
-IR9 SMILES           "OpenEye OEToolkits" 2.0.6 C(C1C(C(C(N1)COP(=O)(O)O)O)O)OP(=O)(O)O
-
+IR9           SMILES              ACDLabs 12.01                                                                                             O=P(O)(OCC1C(C(C(N1)COP(O)(O)=O)O)O)O
+IR9            InChI                InChI  1.03 InChI=1S/C6H15NO10P2/c8-5-3(1-16-18(10,11)12)7-4(6(5)9)2-17-19(13,14)15/h3-9H,1-2H2,(H2,10,11,12)(H2,13,14,15)/t3-,4-,5-,6+/m0/s1
+IR9         InChIKey                InChI  1.03                                                                                                       JDMJAXIARMVOFV-OMMKOOBNSA-N
+IR9 SMILES_CANONICAL               CACTVS 3.385                                                                          O[C@H]1[C@@H](O)[C@H](CO[P](O)(O)=O)N[C@H]1CO[P](O)(O)=O
+IR9           SMILES               CACTVS 3.385                                                                               O[CH]1[CH](O)[CH](CO[P](O)(O)=O)N[CH]1CO[P](O)(O)=O
+IR9 SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                          C([C@H]1[C@H]([C@H]([C@@H](N1)COP(=O)(O)O)O)O)OP(=O)(O)O
+IR9           SMILES "OpenEye OEToolkits" 2.0.6                                                                                           C(C1C(C(C(N1)COP(=O)(O)O)O)O)OP(=O)(O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IR9 acedrg          243       "dictionary generator"
-IR9 acedrg_database 11        "data source"
-IR9 rdkit           2017.03.2 "Chemoinformatics tool"
-IR9 refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-IR9 DNA/RNA O1P OP3
-IR9 DNA/RNA P1  P
-IR9 DNA/RNA O3P OP1
-IR9 DNA/RNA O2P OP2
-IR9 DNA/RNA O1  O5'
-IR9 DNA/RNA C1  C5'
-IR9 DNA/RNA C2  C4'
-IR9 DNA/RNA C3  C3'
-IR9 DNA/RNA O3  O3'
-IR9 DNA/RNA H7  HO3'
+IR9 acedrg               243         "dictionary generator"                  
+IR9 acedrg_database      11          "data source"                           
+IR9 rdkit                2017.03.2   "Chemoinformatics tool"
+IR9 refmac5              5.8.0238    "optimization tool"                     

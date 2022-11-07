@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-2QN 2QN N~2~-{[(1S)-1-carboxy-2-(pyridin-4-yl)ethyl]carbamoyl}-N~6~-(4-iodobenzoyl)-L-lysine NON-POLYMER 56 33 .
-
+2QN     2QN      N~2~-{[(1S)-1-carboxy-2-(pyridin-4-yl)ethyl]carbamoyl}-N~6~-(4-iodobenzoyl)-L-lysine     NON-POLYMER     56     33     .     
+#
 data_comp_2QN
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,63 +21,62 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-2QN CAN C CR16 0  22.469 49.620 47.622
-2QN CAL C CR16 0  22.469 49.350 48.982
-2QN CBC C CR6  0  23.009 48.158 49.441
-2QN IAG I I    0  23.013 47.746 51.497
-2QN CAM C CR16 0  23.546 47.236 48.556
-2QN CAO C CR16 0  23.538 47.512 47.197
-2QN CBE C CR6  0  23.011 48.711 46.710
-2QN CBB C C    0  22.985 49.024 45.238
-2QN OAD O O    0  22.014 49.606 44.752
-2QN NAV N NH1  0  24.006 48.573 44.494
-2QN CAR C CH2  0  23.944 48.441 43.042
-2QN CAP C CH2  0  23.805 46.993 42.596
-2QN CAQ C CH2  0  22.730 46.182 43.306
-2QN CB  C CH2  0  21.306 46.651 43.030
-2QN CA  C CH1  0  20.230 45.848 43.766
-2QN C   C C    0  20.201 46.180 45.269
-2QN OXT O OC   -1 20.560 45.283 46.058
-2QN O   O O    0  19.820 47.322 45.595
-2QN N   N NH1  0  18.919 46.088 43.172
-2QN CBA C C    0  18.053 45.133 42.751
-2QN OAC O O    0  18.327 43.916 42.820
-2QN NAX N NH1  0  16.876 45.569 42.240
-2QN CBG C CH1  0  15.862 44.684 41.677
-2QN CAZ C C    0  16.303 44.132 40.307
-2QN OAF O O    0  15.958 42.967 40.025
-2QN OAB O OC   -1 16.974 44.885 39.572
-2QN CAT C CH2  0  14.487 45.376 41.569
-2QN CBD C CR6  0  14.427 46.578 40.654
-2QN CAJ C CR16 0  14.180 46.451 39.289
-2QN CAH C CR16 0  14.126 47.580 38.496
-2QN NAU N NRD6 0  14.284 48.821 38.965
-2QN CAI C CR16 0  14.509 48.945 40.275
-2QN CAK C CR16 0  14.580 47.873 41.143
-2QN H1  H H    0  22.103 50.429 47.312
-2QN H2  H H    0  22.106 49.975 49.591
-2QN H3  H H    0  23.911 46.425 48.875
-2QN H4  H H    0  23.905 46.886 46.598
-2QN H5  H H    0  24.758 48.369 44.889
-2QN H6  H H    0  24.767 48.814 42.658
-2QN H7  H H    0  23.191 48.960 42.689
-2QN H8  H H    0  24.668 46.546 42.728
-2QN H9  H H    0  23.615 46.984 41.634
-2QN H10 H H    0  22.892 46.212 44.272
-2QN H11 H H    0  22.808 45.245 43.024
-2QN H12 H H    0  21.138 46.589 42.066
-2QN H13 H H    0  21.226 47.591 43.287
-2QN H14 H H    0  20.453 44.889 43.670
-2QN H16 H H    0  18.678 46.922 43.080
-2QN H17 H H    0  16.715 46.424 42.260
-2QN H18 H H    0  15.757 43.918 42.292
-2QN H20 H H    0  14.212 45.657 42.467
-2QN H21 H H    0  13.834 44.716 41.256
-2QN H22 H H    0  14.065 45.594 38.906
-2QN H23 H H    0  13.967 47.473 37.572
-2QN H24 H H    0  14.623 49.813 40.624
-2QN H25 H H    0  14.743 48.015 42.063
-
+2QN     CAN     C       CR16    0       22.469      49.620      47.622      
+2QN     CAL     C       CR16    0       22.469      49.350      48.982      
+2QN     CBC     C       CR6     0       23.009      48.158      49.441      
+2QN     IAG     I       I       0       23.013      47.746      51.497      
+2QN     CAM     C       CR16    0       23.546      47.236      48.556      
+2QN     CAO     C       CR16    0       23.538      47.512      47.197      
+2QN     CBE     C       CR6     0       23.011      48.711      46.710      
+2QN     CBB     C       C       0       22.985      49.024      45.238      
+2QN     OAD     O       O       0       22.014      49.606      44.752      
+2QN     NAV     N       NH1     0       24.006      48.573      44.494      
+2QN     CAR     C       CH2     0       23.944      48.441      43.042      
+2QN     CAP     C       CH2     0       23.805      46.993      42.596      
+2QN     CAQ     C       CH2     0       22.730      46.182      43.306      
+2QN     CB      C       CH2     0       21.306      46.651      43.030      
+2QN     CA      C       CH1     0       20.230      45.848      43.766      
+2QN     C       C       C       0       20.201      46.180      45.269      
+2QN     OXT     O       OC      -1      20.560      45.283      46.058      
+2QN     O       O       O       0       19.820      47.322      45.595      
+2QN     N       N       NH1     0       18.919      46.088      43.172      
+2QN     CBA     C       C       0       18.053      45.133      42.751      
+2QN     OAC     O       O       0       18.327      43.916      42.820      
+2QN     NAX     N       NH1     0       16.876      45.569      42.240      
+2QN     CBG     C       CH1     0       15.862      44.684      41.677      
+2QN     CAZ     C       C       0       16.303      44.132      40.307      
+2QN     OAF     O       O       0       15.958      42.967      40.025      
+2QN     OAB     O       OC      -1      16.974      44.885      39.572      
+2QN     CAT     C       CH2     0       14.487      45.376      41.569      
+2QN     CBD     C       CR6     0       14.427      46.578      40.654      
+2QN     CAJ     C       CR16    0       14.180      46.451      39.289      
+2QN     CAH     C       CR16    0       14.126      47.580      38.496      
+2QN     NAU     N       NRD6    0       14.284      48.821      38.965      
+2QN     CAI     C       CR16    0       14.509      48.945      40.275      
+2QN     CAK     C       CR16    0       14.580      47.873      41.143      
+2QN     H1      H       H       0       22.103      50.429      47.312      
+2QN     H2      H       H       0       22.106      49.975      49.591      
+2QN     H3      H       H       0       23.911      46.425      48.875      
+2QN     H4      H       H       0       23.905      46.886      46.598      
+2QN     H5      H       H       0       24.758      48.369      44.889      
+2QN     H6      H       H       0       24.767      48.814      42.658      
+2QN     H7      H       H       0       23.191      48.960      42.689      
+2QN     H8      H       H       0       24.668      46.546      42.728      
+2QN     H9      H       H       0       23.615      46.984      41.634      
+2QN     H10     H       H       0       22.892      46.212      44.272      
+2QN     H11     H       H       0       22.808      45.245      43.024      
+2QN     H12     H       H       0       21.138      46.589      42.066      
+2QN     H13     H       H       0       21.226      47.591      43.287      
+2QN     H14     H       H       0       20.453      44.889      43.670      
+2QN     H16     H       H       0       18.678      46.922      43.080      
+2QN     H17     H       H       0       16.715      46.424      42.260      
+2QN     H18     H       H       0       15.757      43.918      42.292      
+2QN     H20     H       H       0       14.212      45.657      42.467      
+2QN     H21     H       H       0       13.834      44.716      41.256      
+2QN     H22     H       H       0       14.065      45.594      38.906      
+2QN     H23     H       H       0       13.967      47.473      37.572      
+2QN     H24     H       H       0       14.623      49.813      40.624      
+2QN     H25     H       H       0       14.743      48.015      42.063      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -86,64 +87,63 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-2QN CAZ OAF DOUBLE n 1.247 0.0187 1.247 0.0187
-2QN CAJ CAH DOUBLE y 1.378 0.0103 1.378 0.0103
-2QN CAH NAU SINGLE y 1.331 0.0107 1.331 0.0107
-2QN CBD CAJ SINGLE y 1.389 0.0100 1.389 0.0100
-2QN NAU CAI DOUBLE y 1.331 0.0107 1.331 0.0107
-2QN CAZ OAB SINGLE n 1.247 0.0187 1.247 0.0187
-2QN CBG CAZ SINGLE n 1.539 0.0100 1.539 0.0100
-2QN CAT CBD SINGLE n 1.508 0.0100 1.508 0.0100
-2QN CBD CAK DOUBLE y 1.389 0.0100 1.389 0.0100
-2QN CBG CAT SINGLE n 1.538 0.0100 1.538 0.0100
-2QN CAI CAK SINGLE y 1.378 0.0103 1.378 0.0103
-2QN NAX CBG SINGLE n 1.450 0.0141 1.450 0.0141
-2QN CAR CAP SINGLE n 1.517 0.0143 1.517 0.0143
-2QN CAP CAQ SINGLE n 1.514 0.0200 1.514 0.0200
-2QN CBA OAC DOUBLE n 1.243 0.0179 1.243 0.0179
-2QN CBA NAX SINGLE n 1.349 0.0100 1.349 0.0100
-2QN NAV CAR SINGLE n 1.455 0.0100 1.455 0.0100
-2QN N   CBA SINGLE n 1.349 0.0100 1.349 0.0100
-2QN CAQ CB  SINGLE n 1.523 0.0114 1.523 0.0114
-2QN CB  CA  SINGLE n 1.531 0.0123 1.531 0.0123
-2QN CA  N   SINGLE n 1.454 0.0128 1.454 0.0128
-2QN CBB OAD DOUBLE n 1.230 0.0114 1.230 0.0114
-2QN CBB NAV SINGLE n 1.333 0.0111 1.333 0.0111
-2QN CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
-2QN CBE CBB SINGLE n 1.502 0.0100 1.502 0.0100
-2QN C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
-2QN C   OXT SINGLE n 1.247 0.0187 1.247 0.0187
-2QN CAN CBE DOUBLE y 1.393 0.0100 1.393 0.0100
-2QN CAO CBE SINGLE y 1.393 0.0100 1.393 0.0100
-2QN CAN CAL SINGLE y 1.383 0.0104 1.383 0.0104
-2QN CAM CAO DOUBLE y 1.383 0.0104 1.383 0.0104
-2QN CAL CBC DOUBLE y 1.383 0.0112 1.383 0.0112
-2QN CBC CAM SINGLE y 1.383 0.0112 1.383 0.0112
-2QN CBC IAG SINGLE n 2.097 0.0157 2.097 0.0157
-2QN CAN H1  SINGLE n 1.082 0.0130 0.941 0.0168
-2QN CAL H2  SINGLE n 1.082 0.0130 0.945 0.0136
-2QN CAM H3  SINGLE n 1.082 0.0130 0.945 0.0136
-2QN CAO H4  SINGLE n 1.082 0.0130 0.941 0.0168
-2QN NAV H5  SINGLE n 1.016 0.0100 0.873 0.0200
-2QN CAR H6  SINGLE n 1.089 0.0100 0.981 0.0152
-2QN CAR H7  SINGLE n 1.089 0.0100 0.981 0.0152
-2QN CAP H8  SINGLE n 1.089 0.0100 0.981 0.0160
-2QN CAP H9  SINGLE n 1.089 0.0100 0.981 0.0160
-2QN CAQ H10 SINGLE n 1.089 0.0100 0.981 0.0163
-2QN CAQ H11 SINGLE n 1.089 0.0100 0.981 0.0163
-2QN CB  H12 SINGLE n 1.089 0.0100 0.980 0.0160
-2QN CB  H13 SINGLE n 1.089 0.0100 0.980 0.0160
-2QN CA  H14 SINGLE n 1.089 0.0100 0.991 0.0200
-2QN N   H16 SINGLE n 1.016 0.0100 0.873 0.0200
-2QN NAX H17 SINGLE n 1.016 0.0100 0.873 0.0200
-2QN CBG H18 SINGLE n 1.089 0.0100 0.988 0.0135
-2QN CAT H20 SINGLE n 1.089 0.0100 0.980 0.0164
-2QN CAT H21 SINGLE n 1.089 0.0100 0.980 0.0164
-2QN CAJ H22 SINGLE n 1.082 0.0130 0.945 0.0100
-2QN CAH H23 SINGLE n 1.082 0.0130 0.943 0.0162
-2QN CAI H24 SINGLE n 1.082 0.0130 0.943 0.0162
-2QN CAK H25 SINGLE n 1.082 0.0130 0.945 0.0100
-
+2QN         CAZ         OAF      DOUBLE       n     1.247  0.0187     1.247  0.0187
+2QN         CAJ         CAH      DOUBLE       y     1.378  0.0103     1.378  0.0103
+2QN         CAH         NAU      SINGLE       y     1.331  0.0107     1.331  0.0107
+2QN         CBD         CAJ      SINGLE       y     1.389  0.0100     1.389  0.0100
+2QN         NAU         CAI      DOUBLE       y     1.331  0.0107     1.331  0.0107
+2QN         CAZ         OAB      SINGLE       n     1.247  0.0187     1.247  0.0187
+2QN         CBG         CAZ      SINGLE       n     1.539  0.0100     1.539  0.0100
+2QN         CAT         CBD      SINGLE       n     1.508  0.0100     1.508  0.0100
+2QN         CBD         CAK      DOUBLE       y     1.389  0.0100     1.389  0.0100
+2QN         CBG         CAT      SINGLE       n     1.538  0.0100     1.538  0.0100
+2QN         CAI         CAK      SINGLE       y     1.378  0.0103     1.378  0.0103
+2QN         NAX         CBG      SINGLE       n     1.450  0.0141     1.450  0.0141
+2QN         CAR         CAP      SINGLE       n     1.517  0.0143     1.517  0.0143
+2QN         CAP         CAQ      SINGLE       n     1.514  0.0200     1.514  0.0200
+2QN         CBA         OAC      DOUBLE       n     1.243  0.0179     1.243  0.0179
+2QN         CBA         NAX      SINGLE       n     1.349  0.0100     1.349  0.0100
+2QN         NAV         CAR      SINGLE       n     1.455  0.0100     1.455  0.0100
+2QN           N         CBA      SINGLE       n     1.349  0.0100     1.349  0.0100
+2QN         CAQ          CB      SINGLE       n     1.523  0.0114     1.523  0.0114
+2QN          CB          CA      SINGLE       n     1.531  0.0123     1.531  0.0123
+2QN          CA           N      SINGLE       n     1.454  0.0128     1.454  0.0128
+2QN         CBB         OAD      DOUBLE       n     1.230  0.0114     1.230  0.0114
+2QN         CBB         NAV      SINGLE       n     1.333  0.0111     1.333  0.0111
+2QN          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+2QN         CBE         CBB      SINGLE       n     1.502  0.0100     1.502  0.0100
+2QN           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+2QN           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+2QN         CAN         CBE      DOUBLE       y     1.393  0.0100     1.393  0.0100
+2QN         CAO         CBE      SINGLE       y     1.393  0.0100     1.393  0.0100
+2QN         CAN         CAL      SINGLE       y     1.383  0.0104     1.383  0.0104
+2QN         CAM         CAO      DOUBLE       y     1.383  0.0104     1.383  0.0104
+2QN         CAL         CBC      DOUBLE       y     1.383  0.0112     1.383  0.0112
+2QN         CBC         CAM      SINGLE       y     1.383  0.0112     1.383  0.0112
+2QN         CBC         IAG      SINGLE       n     2.097  0.0157     2.097  0.0157
+2QN         CAN          H1      SINGLE       n     1.082  0.0130     0.941  0.0168
+2QN         CAL          H2      SINGLE       n     1.082  0.0130     0.945  0.0136
+2QN         CAM          H3      SINGLE       n     1.082  0.0130     0.945  0.0136
+2QN         CAO          H4      SINGLE       n     1.082  0.0130     0.941  0.0168
+2QN         NAV          H5      SINGLE       n     1.016  0.0100     0.873  0.0200
+2QN         CAR          H6      SINGLE       n     1.089  0.0100     0.981  0.0152
+2QN         CAR          H7      SINGLE       n     1.089  0.0100     0.981  0.0152
+2QN         CAP          H8      SINGLE       n     1.089  0.0100     0.981  0.0160
+2QN         CAP          H9      SINGLE       n     1.089  0.0100     0.981  0.0160
+2QN         CAQ         H10      SINGLE       n     1.089  0.0100     0.981  0.0163
+2QN         CAQ         H11      SINGLE       n     1.089  0.0100     0.981  0.0163
+2QN          CB         H12      SINGLE       n     1.089  0.0100     0.980  0.0160
+2QN          CB         H13      SINGLE       n     1.089  0.0100     0.980  0.0160
+2QN          CA         H14      SINGLE       n     1.089  0.0100     0.991  0.0200
+2QN           N         H16      SINGLE       n     1.016  0.0100     0.873  0.0200
+2QN         NAX         H17      SINGLE       n     1.016  0.0100     0.873  0.0200
+2QN         CBG         H18      SINGLE       n     1.089  0.0100     0.988  0.0135
+2QN         CAT         H20      SINGLE       n     1.089  0.0100     0.980  0.0164
+2QN         CAT         H21      SINGLE       n     1.089  0.0100     0.980  0.0164
+2QN         CAJ         H22      SINGLE       n     1.082  0.0130     0.945  0.0100
+2QN         CAH         H23      SINGLE       n     1.082  0.0130     0.943  0.0162
+2QN         CAI         H24      SINGLE       n     1.082  0.0130     0.943  0.0162
+2QN         CAK         H25      SINGLE       n     1.082  0.0130     0.945  0.0100
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -151,104 +151,103 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-2QN CBE CAN CAL 120.777 1.50
-2QN CBE CAN H1  119.731 1.50
-2QN CAL CAN H1  119.491 1.50
-2QN CAN CAL CBC 119.339 1.50
-2QN CAN CAL H2  120.324 1.50
-2QN CBC CAL H2  120.341 1.50
-2QN CAL CBC CAM 120.778 1.50
-2QN CAL CBC IAG 119.611 1.50
-2QN CAM CBC IAG 119.611 1.50
-2QN CAO CAM CBC 119.339 1.50
-2QN CAO CAM H3  120.324 1.50
-2QN CBC CAM H3  120.341 1.50
-2QN CBE CAO CAM 120.777 1.50
-2QN CBE CAO H4  119.731 1.50
-2QN CAM CAO H4  119.491 1.50
-2QN CBB CBE CAN 120.509 2.80
-2QN CBB CBE CAO 120.509 2.80
-2QN CAN CBE CAO 118.982 1.50
-2QN OAD CBB NAV 122.164 1.50
-2QN OAD CBB CBE 120.968 1.50
-2QN NAV CBB CBE 116.868 1.50
-2QN CAR NAV CBB 121.796 1.50
-2QN CAR NAV H5  118.813 1.50
-2QN CBB NAV H5  119.379 1.77
-2QN CAP CAR NAV 112.199 1.50
-2QN CAP CAR H6  109.197 1.51
-2QN CAP CAR H7  109.197 1.51
-2QN NAV CAR H6  109.020 1.50
-2QN NAV CAR H7  109.020 1.50
-2QN H6  CAR H7  107.877 1.50
-2QN CAR CAP CAQ 113.159 3.00
-2QN CAR CAP H8  108.956 1.50
-2QN CAR CAP H9  108.956 1.50
-2QN CAQ CAP H8  109.041 1.50
-2QN CAQ CAP H9  109.041 1.50
-2QN H8  CAP H9  107.927 1.57
-2QN CAP CAQ CB  113.328 2.00
-2QN CAP CAQ H10 108.806 1.50
-2QN CAP CAQ H11 108.806 1.50
-2QN CB  CAQ H10 108.601 1.50
-2QN CB  CAQ H11 108.601 1.50
-2QN H10 CAQ H11 107.646 1.50
-2QN CAQ CB  CA  113.671 1.50
-2QN CAQ CB  H12 108.650 1.50
-2QN CAQ CB  H13 108.650 1.50
-2QN CA  CB  H12 108.606 1.50
-2QN CA  CB  H13 108.606 1.50
-2QN H12 CB  H13 107.844 1.50
-2QN CB  CA  N   111.076 1.75
-2QN CB  CA  C   111.638 2.31
-2QN CB  CA  H14 108.155 1.50
-2QN N   CA  C   110.939 1.74
-2QN N   CA  H14 108.161 1.50
-2QN C   CA  H14 108.327 1.50
-2QN CA  C   O   117.249 1.61
-2QN CA  C   OXT 117.249 1.61
-2QN O   C   OXT 125.502 1.50
-2QN CBA N   CA  122.812 3.00
-2QN CBA N   H16 118.098 1.50
-2QN CA  N   H16 119.090 1.92
-2QN OAC CBA NAX 122.060 1.50
-2QN OAC CBA N   122.060 1.50
-2QN NAX CBA N   115.881 1.50
-2QN CBG NAX CBA 122.812 3.00
-2QN CBG NAX H17 119.090 1.92
-2QN CBA NAX H17 118.098 1.50
-2QN CAZ CBG CAT 108.347 3.00
-2QN CAZ CBG NAX 110.939 1.74
-2QN CAZ CBG H18 108.456 1.50
-2QN CAT CBG NAX 110.790 1.50
-2QN CAT CBG H18 108.204 1.50
-2QN NAX CBG H18 108.161 1.50
-2QN OAF CAZ OAB 125.509 1.50
-2QN OAF CAZ CBG 117.245 1.50
-2QN OAB CAZ CBG 117.245 1.50
-2QN CBD CAT CBG 113.563 1.55
-2QN CBD CAT H20 108.862 1.50
-2QN CBD CAT H21 108.862 1.50
-2QN CBG CAT H20 108.745 1.50
-2QN CBG CAT H21 108.745 1.50
-2QN H20 CAT H21 107.782 1.50
-2QN CAJ CBD CAT 121.631 1.50
-2QN CAJ CBD CAK 116.737 1.50
-2QN CAT CBD CAK 121.631 1.50
-2QN CAH CAJ CBD 119.743 1.50
-2QN CAH CAJ H22 120.212 1.50
-2QN CBD CAJ H22 120.045 1.50
-2QN CAJ CAH NAU 123.619 1.50
-2QN CAJ CAH H23 118.375 1.50
-2QN NAU CAH H23 118.006 1.50
-2QN CAH NAU CAI 116.539 1.50
-2QN NAU CAI CAK 123.619 1.50
-2QN NAU CAI H24 118.006 1.50
-2QN CAK CAI H24 118.375 1.50
-2QN CBD CAK CAI 119.743 1.50
-2QN CBD CAK H25 120.045 1.50
-2QN CAI CAK H25 120.212 1.50
-
+2QN         CBE         CAN         CAL     120.777    1.50
+2QN         CBE         CAN          H1     119.731    1.50
+2QN         CAL         CAN          H1     119.491    1.50
+2QN         CAN         CAL         CBC     119.339    1.50
+2QN         CAN         CAL          H2     120.324    1.50
+2QN         CBC         CAL          H2     120.341    1.50
+2QN         CAL         CBC         CAM     120.778    1.50
+2QN         CAL         CBC         IAG     119.611    1.50
+2QN         CAM         CBC         IAG     119.611    1.50
+2QN         CAO         CAM         CBC     119.339    1.50
+2QN         CAO         CAM          H3     120.324    1.50
+2QN         CBC         CAM          H3     120.341    1.50
+2QN         CBE         CAO         CAM     120.777    1.50
+2QN         CBE         CAO          H4     119.731    1.50
+2QN         CAM         CAO          H4     119.491    1.50
+2QN         CBB         CBE         CAN     120.509    2.80
+2QN         CBB         CBE         CAO     120.509    2.80
+2QN         CAN         CBE         CAO     118.982    1.50
+2QN         OAD         CBB         NAV     122.164    1.50
+2QN         OAD         CBB         CBE     120.968    1.50
+2QN         NAV         CBB         CBE     116.868    1.50
+2QN         CAR         NAV         CBB     121.796    1.50
+2QN         CAR         NAV          H5     118.813    1.50
+2QN         CBB         NAV          H5     119.379    1.77
+2QN         CAP         CAR         NAV     112.199    1.50
+2QN         CAP         CAR          H6     109.197    1.51
+2QN         CAP         CAR          H7     109.197    1.51
+2QN         NAV         CAR          H6     109.020    1.50
+2QN         NAV         CAR          H7     109.020    1.50
+2QN          H6         CAR          H7     107.877    1.50
+2QN         CAR         CAP         CAQ     113.159    3.00
+2QN         CAR         CAP          H8     108.956    1.50
+2QN         CAR         CAP          H9     108.956    1.50
+2QN         CAQ         CAP          H8     109.041    1.50
+2QN         CAQ         CAP          H9     109.041    1.50
+2QN          H8         CAP          H9     107.927    1.57
+2QN         CAP         CAQ          CB     113.328    2.00
+2QN         CAP         CAQ         H10     108.806    1.50
+2QN         CAP         CAQ         H11     108.806    1.50
+2QN          CB         CAQ         H10     108.601    1.50
+2QN          CB         CAQ         H11     108.601    1.50
+2QN         H10         CAQ         H11     107.646    1.50
+2QN         CAQ          CB          CA     113.671    1.50
+2QN         CAQ          CB         H12     108.650    1.50
+2QN         CAQ          CB         H13     108.650    1.50
+2QN          CA          CB         H12     108.606    1.50
+2QN          CA          CB         H13     108.606    1.50
+2QN         H12          CB         H13     107.844    1.50
+2QN          CB          CA           N     111.076    1.75
+2QN          CB          CA           C     111.638    2.31
+2QN          CB          CA         H14     108.155    1.50
+2QN           N          CA           C     110.939    1.74
+2QN           N          CA         H14     108.161    1.50
+2QN           C          CA         H14     108.327    1.50
+2QN          CA           C           O     117.249    1.61
+2QN          CA           C         OXT     117.249    1.61
+2QN           O           C         OXT     125.502    1.50
+2QN         CBA           N          CA     122.812    3.00
+2QN         CBA           N         H16     118.098    1.50
+2QN          CA           N         H16     119.090    1.92
+2QN         OAC         CBA         NAX     122.060    1.50
+2QN         OAC         CBA           N     122.060    1.50
+2QN         NAX         CBA           N     115.881    1.50
+2QN         CBG         NAX         CBA     122.812    3.00
+2QN         CBG         NAX         H17     119.090    1.92
+2QN         CBA         NAX         H17     118.098    1.50
+2QN         CAZ         CBG         CAT     108.347    3.00
+2QN         CAZ         CBG         NAX     110.939    1.74
+2QN         CAZ         CBG         H18     108.456    1.50
+2QN         CAT         CBG         NAX     110.790    1.50
+2QN         CAT         CBG         H18     108.204    1.50
+2QN         NAX         CBG         H18     108.161    1.50
+2QN         OAF         CAZ         OAB     125.509    1.50
+2QN         OAF         CAZ         CBG     117.245    1.50
+2QN         OAB         CAZ         CBG     117.245    1.50
+2QN         CBD         CAT         CBG     113.563    1.55
+2QN         CBD         CAT         H20     108.862    1.50
+2QN         CBD         CAT         H21     108.862    1.50
+2QN         CBG         CAT         H20     108.745    1.50
+2QN         CBG         CAT         H21     108.745    1.50
+2QN         H20         CAT         H21     107.782    1.50
+2QN         CAJ         CBD         CAT     121.631    1.50
+2QN         CAJ         CBD         CAK     116.737    1.50
+2QN         CAT         CBD         CAK     121.631    1.50
+2QN         CAH         CAJ         CBD     119.743    1.50
+2QN         CAH         CAJ         H22     120.212    1.50
+2QN         CBD         CAJ         H22     120.045    1.50
+2QN         CAJ         CAH         NAU     123.619    1.50
+2QN         CAJ         CAH         H23     118.375    1.50
+2QN         NAU         CAH         H23     118.006    1.50
+2QN         CAH         NAU         CAI     116.539    1.50
+2QN         NAU         CAI         CAK     123.619    1.50
+2QN         NAU         CAI         H24     118.006    1.50
+2QN         CAK         CAI         H24     118.375    1.50
+2QN         CBD         CAK         CAI     119.743    1.50
+2QN         CBD         CAK         H25     120.045    1.50
+2QN         CAI         CAK         H25     120.212    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -259,34 +258,33 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-2QN const_41        CBC CAL CAN CBE 0.000   10.0 2
-2QN const_18        CAL CAN CBE CBB 180.000 10.0 2
-2QN sp3_sp3_10      CAQ CAP CAR NAV 180.000 10.0 3
-2QN sp3_sp3_19      CAR CAP CAQ CB  180.000 10.0 3
-2QN sp3_sp3_28      CAP CAQ CB  CA  180.000 10.0 3
-2QN sp3_sp3_37      N   CA  CB  CAQ 180.000 10.0 3
-2QN sp2_sp3_31      O   C   CA  CB  0.000   10.0 6
-2QN sp2_sp3_25      CBA N   CA  CB  0.000   10.0 6
-2QN sp2_sp2_7       OAC CBA N   CA  0.000   5.0  2
-2QN sp2_sp2_3       OAC CBA NAX CBG 0.000   5.0  2
-2QN const_34        CAN CAL CBC IAG 180.000 10.0 2
-2QN sp2_sp3_13      CBA NAX CBG CAZ 0.000   10.0 6
-2QN sp2_sp3_1       OAF CAZ CBG CAT 0.000   10.0 6
-2QN sp3_sp3_1       CBD CAT CBG CAZ 180.000 10.0 3
-2QN sp2_sp3_8       CAJ CBD CAT CBG -90.000 10.0 6
-2QN const_sp2_sp2_2 CAH CAJ CBD CAT 180.000 5.0  2
-2QN const_38        CAI CAK CBD CAT 180.000 10.0 2
-2QN const_sp2_sp2_5 NAU CAH CAJ CBD 0.000   5.0  2
-2QN const_sp2_sp2_9 CAJ CAH NAU CAI 0.000   5.0  2
-2QN const_30        CAO CAM CBC IAG 180.000 10.0 2
-2QN const_11        CAK CAI NAU CAH 0.000   10.0 2
-2QN const_13        NAU CAI CAK CBD 0.000   10.0 2
-2QN const_25        CBC CAM CAO CBE 0.000   10.0 2
-2QN const_22        CAM CAO CBE CBB 180.000 10.0 2
-2QN sp2_sp2_15      OAD CBB CBE CAN 0.000   5.0  2
-2QN sp2_sp2_11      OAD CBB NAV CAR 0.000   5.0  2
-2QN sp2_sp3_20      CBB NAV CAR CAP 120.000 10.0 6
-
+2QN              const_41         CBC         CAL         CAN         CBE       0.000    10.0     2
+2QN              const_18         CAL         CAN         CBE         CBB     180.000    10.0     2
+2QN            sp3_sp3_10         CAQ         CAP         CAR         NAV     180.000    10.0     3
+2QN            sp3_sp3_19         CAR         CAP         CAQ          CB     180.000    10.0     3
+2QN            sp3_sp3_28         CAP         CAQ          CB          CA     180.000    10.0     3
+2QN            sp3_sp3_37           N          CA          CB         CAQ     180.000    10.0     3
+2QN            sp2_sp3_31           O           C          CA          CB       0.000    10.0     6
+2QN            sp2_sp3_25         CBA           N          CA          CB       0.000    10.0     6
+2QN             sp2_sp2_7         OAC         CBA           N          CA       0.000     5.0     2
+2QN             sp2_sp2_3         OAC         CBA         NAX         CBG       0.000     5.0     2
+2QN              const_34         CAN         CAL         CBC         IAG     180.000    10.0     2
+2QN            sp2_sp3_13         CBA         NAX         CBG         CAZ       0.000    10.0     6
+2QN             sp2_sp3_1         OAF         CAZ         CBG         CAT       0.000    10.0     6
+2QN             sp3_sp3_1         CBD         CAT         CBG         CAZ     180.000    10.0     3
+2QN             sp2_sp3_8         CAJ         CBD         CAT         CBG     -90.000    10.0     6
+2QN       const_sp2_sp2_2         CAH         CAJ         CBD         CAT     180.000     5.0     2
+2QN              const_38         CAI         CAK         CBD         CAT     180.000    10.0     2
+2QN       const_sp2_sp2_5         NAU         CAH         CAJ         CBD       0.000     5.0     2
+2QN       const_sp2_sp2_9         CAJ         CAH         NAU         CAI       0.000     5.0     2
+2QN              const_30         CAO         CAM         CBC         IAG     180.000    10.0     2
+2QN              const_11         CAK         CAI         NAU         CAH       0.000    10.0     2
+2QN              const_13         NAU         CAI         CAK         CBD       0.000    10.0     2
+2QN              const_25         CBC         CAM         CAO         CBE       0.000    10.0     2
+2QN              const_22         CAM         CAO         CBE         CBB     180.000    10.0     2
+2QN            sp2_sp2_15         OAD         CBB         CBE         CAN       0.000     5.0     2
+2QN            sp2_sp2_11         OAD         CBB         NAV         CAR       0.000     5.0     2
+2QN            sp2_sp3_20         CBB         NAV         CAR         CAP     120.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -295,94 +293,83 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-2QN chir_1 CA  N   C   CB  positive
-2QN chir_2 CBG NAX CAZ CAT positive
-
+2QN    chir_1    CA    N    C    CB    positive
+2QN    chir_2    CBG    NAX    CAZ    CAT    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-2QN plan-1 CAL 0.020
-2QN plan-1 CAM 0.020
-2QN plan-1 CAN 0.020
-2QN plan-1 CAO 0.020
-2QN plan-1 CBB 0.020
-2QN plan-1 CBC 0.020
-2QN plan-1 CBE 0.020
-2QN plan-1 H1  0.020
-2QN plan-1 H2  0.020
-2QN plan-1 H3  0.020
-2QN plan-1 H4  0.020
-2QN plan-1 IAG 0.020
-2QN plan-2 CAH 0.020
-2QN plan-2 CAI 0.020
-2QN plan-2 CAJ 0.020
-2QN plan-2 CAK 0.020
-2QN plan-2 CAT 0.020
-2QN plan-2 CBD 0.020
-2QN plan-2 H22 0.020
-2QN plan-2 H23 0.020
-2QN plan-2 H24 0.020
-2QN plan-2 H25 0.020
-2QN plan-2 NAU 0.020
-2QN plan-3 CBB 0.020
-2QN plan-3 CBE 0.020
-2QN plan-3 NAV 0.020
-2QN plan-3 OAD 0.020
-2QN plan-4 CAR 0.020
-2QN plan-4 CBB 0.020
-2QN plan-4 H5  0.020
-2QN plan-4 NAV 0.020
-2QN plan-5 C   0.020
-2QN plan-5 CA  0.020
-2QN plan-5 O   0.020
-2QN plan-5 OXT 0.020
-2QN plan-6 CA  0.020
-2QN plan-6 CBA 0.020
-2QN plan-6 H16 0.020
-2QN plan-6 N   0.020
-2QN plan-7 CBA 0.020
-2QN plan-7 N   0.020
-2QN plan-7 NAX 0.020
-2QN plan-7 OAC 0.020
-2QN plan-8 CBA 0.020
-2QN plan-8 CBG 0.020
-2QN plan-8 H17 0.020
-2QN plan-8 NAX 0.020
-2QN plan-9 CAZ 0.020
-2QN plan-9 CBG 0.020
-2QN plan-9 OAB 0.020
-2QN plan-9 OAF 0.020
-
+2QN    plan-1         CAL   0.020
+2QN    plan-1         CAM   0.020
+2QN    plan-1         CAN   0.020
+2QN    plan-1         CAO   0.020
+2QN    plan-1         CBB   0.020
+2QN    plan-1         CBC   0.020
+2QN    plan-1         CBE   0.020
+2QN    plan-1          H1   0.020
+2QN    plan-1          H2   0.020
+2QN    plan-1          H3   0.020
+2QN    plan-1          H4   0.020
+2QN    plan-1         IAG   0.020
+2QN    plan-2         CAH   0.020
+2QN    plan-2         CAI   0.020
+2QN    plan-2         CAJ   0.020
+2QN    plan-2         CAK   0.020
+2QN    plan-2         CAT   0.020
+2QN    plan-2         CBD   0.020
+2QN    plan-2         H22   0.020
+2QN    plan-2         H23   0.020
+2QN    plan-2         H24   0.020
+2QN    plan-2         H25   0.020
+2QN    plan-2         NAU   0.020
+2QN    plan-3         CBB   0.020
+2QN    plan-3         CBE   0.020
+2QN    plan-3         NAV   0.020
+2QN    plan-3         OAD   0.020
+2QN    plan-4         CAR   0.020
+2QN    plan-4         CBB   0.020
+2QN    plan-4          H5   0.020
+2QN    plan-4         NAV   0.020
+2QN    plan-5           C   0.020
+2QN    plan-5          CA   0.020
+2QN    plan-5           O   0.020
+2QN    plan-5         OXT   0.020
+2QN    plan-6          CA   0.020
+2QN    plan-6         CBA   0.020
+2QN    plan-6         H16   0.020
+2QN    plan-6           N   0.020
+2QN    plan-7         CBA   0.020
+2QN    plan-7           N   0.020
+2QN    plan-7         NAX   0.020
+2QN    plan-7         OAC   0.020
+2QN    plan-8         CBA   0.020
+2QN    plan-8         CBG   0.020
+2QN    plan-8         H17   0.020
+2QN    plan-8         NAX   0.020
+2QN    plan-9         CAZ   0.020
+2QN    plan-9         CBG   0.020
+2QN    plan-9         OAB   0.020
+2QN    plan-9         OAF   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-2QN SMILES           ACDLabs              12.01 Ic1ccc(cc1)C(=O)NCCCCC(C(=O)O)NC(=O)NC(C(=O)O)Cc2ccncc2
-2QN InChI            InChI                1.03  InChI=1S/C22H25IN4O6/c23-16-6-4-15(5-7-16)19(28)25-10-2-1-3-17(20(29)30)26-22(33)27-18(21(31)32)13-14-8-11-24-12-9-14/h4-9,11-12,17-18H,1-3,10,13H2,(H,25,28)(H,29,30)(H,31,32)(H2,26,27,33)/t17-,18-/m0/s1
-2QN InChIKey         InChI                1.03  AHYKHJQLXJPPOS-ROUUACIJSA-N
-2QN SMILES_CANONICAL CACTVS               3.385 OC(=O)[C@H](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[C@@H](Cc2ccncc2)C(O)=O
-2QN SMILES           CACTVS               3.385 OC(=O)[CH](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[CH](Cc2ccncc2)C(O)=O
-2QN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 c1cc(ccc1C(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](Cc2ccncc2)C(=O)O)I
-2QN SMILES           "OpenEye OEToolkits" 1.7.6 c1cc(ccc1C(=O)NCCCCC(C(=O)O)NC(=O)NC(Cc2ccncc2)C(=O)O)I
-
+2QN           SMILES              ACDLabs 12.01                                                                                                                                                     Ic1ccc(cc1)C(=O)NCCCCC(C(=O)O)NC(=O)NC(C(=O)O)Cc2ccncc2
+2QN            InChI                InChI  1.03 InChI=1S/C22H25IN4O6/c23-16-6-4-15(5-7-16)19(28)25-10-2-1-3-17(20(29)30)26-22(33)27-18(21(31)32)13-14-8-11-24-12-9-14/h4-9,11-12,17-18H,1-3,10,13H2,(H,25,28)(H,29,30)(H,31,32)(H2,26,27,33)/t17-,18-/m0/s1
+2QN         InChIKey                InChI  1.03                                                                                                                                                                                 AHYKHJQLXJPPOS-ROUUACIJSA-N
+2QN SMILES_CANONICAL               CACTVS 3.385                                                                                                                                            OC(=O)[C@H](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[C@@H](Cc2ccncc2)C(O)=O
+2QN           SMILES               CACTVS 3.385                                                                                                                                               OC(=O)[CH](CCCCNC(=O)c1ccc(I)cc1)NC(=O)N[CH](Cc2ccncc2)C(O)=O
+2QN SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                           c1cc(ccc1C(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](Cc2ccncc2)C(=O)O)I
+2QN           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                     c1cc(ccc1C(=O)NCCCCC(C(=O)O)NC(=O)NC(Cc2ccncc2)C(=O)O)I
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-2QN acedrg          243       "dictionary generator"
-2QN acedrg_database 11        "data source"
-2QN rdkit           2017.03.2 "Chemoinformatics tool"
-2QN refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-2QN M-peptide CBA CN
-2QN M-peptide H16 H
+2QN acedrg               243         "dictionary generator"                  
+2QN acedrg_database      11          "data source"                           
+2QN rdkit                2017.03.2   "Chemoinformatics tool"
+2QN refmac5              5.8.0238    "optimization tool"                     

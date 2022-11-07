@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-EPW EPW "Cystargolide B- bound form" NON-POLYMER 54 26 .
-
+EPW     EPW      "Cystargolide B- bound form"     NON-POLYMER     54     26     .     
+#
 data_comp_EPW
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,61 +21,60 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-EPW C4  C CH1 0  12.043 -140.126 12.688
-EPW C5  C CH1 0  10.799 -139.222 12.498
-EPW C6  C CH3 0  11.185 -137.809 12.055
-EPW C7  C CH3 0  9.921  -139.154 13.749
-EPW C15 C CH1 0  14.085 -141.532 17.459
-EPW C17 C CH3 0  14.823 -142.765 16.946
-EPW C21 C CH1 0  10.103 -139.332 18.842
-EPW C22 C CH1 0  8.609  -139.456 18.467
-EPW C24 C CH3 0  8.413  -139.329 16.963
-EPW C1  C C   0  12.896 -140.161 11.410
-EPW O3  O O   0  14.051 -139.691 11.459
-EPW C9  C CH1 0  11.717 -141.562 13.153
-EPW O10 O OH1 0  12.705 -142.476 12.693
-EPW C11 C C   0  11.590 -141.716 14.668
-EPW O12 O O   0  10.521 -142.098 15.141
-EPW N13 N NH1 0  12.665 -141.427 15.412
-EPW C14 C CH1 0  12.647 -141.436 16.868
-EPW C16 C CH3 0  14.068 -141.510 18.985
-EPW C18 C C   0  11.903 -140.201 17.385
-EPW O19 O O   0  12.243 -139.087 16.989
-EPW N20 N NH1 0  10.905 -140.406 18.261
-EPW C25 C C   0  10.302 -139.278 20.370
-EPW O26 O O   0  10.466 -140.360 20.972
-EPW O27 O OC  -1 10.284 -138.151 20.902
-EPW C23 C CH3 0  7.950  -140.730 18.998
-EPW OXT O OC  -1 12.392 -140.657 10.383
-EPW H1  H H   0  12.591 -139.701 13.386
-EPW H2  H H   0  10.257 -139.620 11.778
-EPW H3  H H   0  10.452 -137.193 12.226
-EPW H4  H H   0  11.384 -137.807 11.103
-EPW H5  H H   0  11.971 -137.518 12.549
-EPW H6  H H   0  10.481 -139.012 14.532
-EPW H7  H H   0  9.431  -139.988 13.848
-EPW H8  H H   0  9.286  -138.421 13.670
-EPW H9  H H   0  14.587 -140.736 17.154
-EPW H10 H H   0  15.694 -142.826 17.374
-EPW H11 H H   0  14.945 -142.698 15.983
-EPW H12 H H   0  14.305 -143.562 17.151
-EPW H13 H H   0  10.421 -138.474 18.478
-EPW H14 H H   0  8.141  -138.692 18.887
-EPW H15 H H   0  7.461  -139.302 16.760
-EPW H16 H H   0  8.817  -140.092 16.515
-EPW H17 H H   0  8.833  -138.509 16.648
-EPW H19 H H   0  10.849 -141.818 12.750
-EPW H20 H H   0  12.354 -143.248 12.661
-EPW H21 H H   0  13.406 -141.214 15.002
-EPW H22 H H   0  12.150 -142.249 17.163
-EPW H23 H H   0  13.274 -141.971 19.307
-EPW H24 H H   0  14.054 -140.588 19.296
-EPW H25 H H   0  14.861 -141.953 19.333
-EPW H26 H H   0  10.737 -141.223 18.511
-EPW H28 H H   0  8.624  -141.353 19.316
-EPW H29 H H   0  7.435  -141.154 18.289
-EPW H30 H H   0  7.354  -140.502 19.732
-
+EPW     C4      C       CH1     0       12.043      -140.126    12.688      
+EPW     C5      C       CH1     0       10.799      -139.222    12.498      
+EPW     C6      C       CH3     0       11.185      -137.809    12.055      
+EPW     C7      C       CH3     0       9.921       -139.154    13.749      
+EPW     C15     C       CH1     0       14.085      -141.532    17.459      
+EPW     C17     C       CH3     0       14.823      -142.765    16.946      
+EPW     C21     C       CH1     0       10.103      -139.332    18.842      
+EPW     C22     C       CH1     0       8.609       -139.456    18.467      
+EPW     C24     C       CH3     0       8.413       -139.329    16.963      
+EPW     C1      C       C       0       12.896      -140.161    11.410      
+EPW     O3      O       O       0       14.051      -139.691    11.459      
+EPW     C9      C       CH1     0       11.717      -141.562    13.153      
+EPW     O10     O       OH1     0       12.705      -142.476    12.693      
+EPW     C11     C       C       0       11.590      -141.716    14.668      
+EPW     O12     O       O       0       10.521      -142.098    15.141      
+EPW     N13     N       NH1     0       12.665      -141.427    15.412      
+EPW     C14     C       CH1     0       12.647      -141.436    16.868      
+EPW     C16     C       CH3     0       14.068      -141.510    18.985      
+EPW     C18     C       C       0       11.903      -140.201    17.385      
+EPW     O19     O       O       0       12.243      -139.087    16.989      
+EPW     N20     N       NH1     0       10.905      -140.406    18.261      
+EPW     C25     C       C       0       10.302      -139.278    20.370      
+EPW     O26     O       O       0       10.466      -140.360    20.972      
+EPW     O27     O       OC      -1      10.284      -138.151    20.902      
+EPW     C23     C       CH3     0       7.950       -140.730    18.998      
+EPW     OXT     O       OC      -1      12.392      -140.657    10.383      
+EPW     H1      H       H       0       12.591      -139.701    13.386      
+EPW     H2      H       H       0       10.257      -139.620    11.778      
+EPW     H3      H       H       0       10.452      -137.193    12.226      
+EPW     H4      H       H       0       11.384      -137.807    11.103      
+EPW     H5      H       H       0       11.971      -137.518    12.549      
+EPW     H6      H       H       0       10.481      -139.012    14.532      
+EPW     H7      H       H       0       9.431       -139.988    13.848      
+EPW     H8      H       H       0       9.286       -138.421    13.670      
+EPW     H9      H       H       0       14.587      -140.736    17.154      
+EPW     H10     H       H       0       15.694      -142.826    17.374      
+EPW     H11     H       H       0       14.945      -142.698    15.983      
+EPW     H12     H       H       0       14.305      -143.562    17.151      
+EPW     H13     H       H       0       10.421      -138.474    18.478      
+EPW     H14     H       H       0       8.141       -138.692    18.887      
+EPW     H15     H       H       0       7.461       -139.302    16.760      
+EPW     H16     H       H       0       8.817       -140.092    16.515      
+EPW     H17     H       H       0       8.833       -138.509    16.648      
+EPW     H19     H       H       0       10.849      -141.818    12.750      
+EPW     H20     H       H       0       12.354      -143.248    12.661      
+EPW     H21     H       H       0       13.406      -141.214    15.002      
+EPW     H22     H       H       0       12.150      -142.249    17.163      
+EPW     H23     H       H       0       13.274      -141.971    19.307      
+EPW     H24     H       H       0       14.054      -140.588    19.296      
+EPW     H25     H       H       0       14.861      -141.953    19.333      
+EPW     H26     H       H       0       10.737      -141.223    18.511      
+EPW     H28     H       H       0       8.624       -141.353    19.316      
+EPW     H29     H       H       0       7.435       -141.154    18.289      
+EPW     H30     H       H       0       7.354       -140.502    19.732      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -84,60 +85,59 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-EPW C1  O3  DOUBLE n 1.247 0.0187 1.247 0.0187
-EPW C4  C1  SINGLE n 1.533 0.0102 1.533 0.0102
-EPW C9  O10 SINGLE n 1.420 0.0100 1.420 0.0100
-EPW C5  C6  SINGLE n 1.524 0.0128 1.524 0.0128
-EPW C4  C9  SINGLE n 1.536 0.0100 1.536 0.0100
-EPW C4  C5  SINGLE n 1.543 0.0100 1.543 0.0100
-EPW C9  C11 SINGLE n 1.525 0.0100 1.525 0.0100
-EPW C5  C7  SINGLE n 1.524 0.0128 1.524 0.0128
-EPW C11 O12 DOUBLE n 1.229 0.0102 1.229 0.0102
-EPW C11 N13 SINGLE n 1.334 0.0100 1.334 0.0100
-EPW N13 C14 SINGLE n 1.453 0.0100 1.453 0.0100
-EPW C15 C17 SINGLE n 1.521 0.0135 1.521 0.0135
-EPW C15 C14 SINGLE n 1.544 0.0188 1.544 0.0188
-EPW C14 C18 SINGLE n 1.527 0.0100 1.527 0.0100
-EPW C15 C16 SINGLE n 1.521 0.0135 1.521 0.0135
-EPW C18 O19 DOUBLE n 1.229 0.0102 1.229 0.0102
-EPW C18 N20 SINGLE n 1.337 0.0100 1.337 0.0100
-EPW C22 C24 SINGLE n 1.521 0.0135 1.521 0.0135
-EPW C21 N20 SINGLE n 1.453 0.0100 1.453 0.0100
-EPW C21 C22 SINGLE n 1.541 0.0100 1.541 0.0100
-EPW C21 C25 SINGLE n 1.539 0.0100 1.539 0.0100
-EPW C22 C23 SINGLE n 1.521 0.0135 1.521 0.0135
-EPW C25 O26 DOUBLE n 1.247 0.0187 1.247 0.0187
-EPW C25 O27 SINGLE n 1.247 0.0187 1.247 0.0187
-EPW C1  OXT SINGLE n 1.247 0.0187 1.247 0.0187
-EPW C4  H1  SINGLE n 1.089 0.0100 0.985 0.0200
-EPW C5  H2  SINGLE n 1.089 0.0100 0.985 0.0200
-EPW C6  H3  SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C6  H4  SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C6  H5  SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C7  H6  SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C7  H7  SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C7  H8  SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C15 H9  SINGLE n 1.089 0.0100 0.989 0.0175
-EPW C17 H10 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C17 H11 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C17 H12 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C21 H13 SINGLE n 1.089 0.0100 0.986 0.0179
-EPW C22 H14 SINGLE n 1.089 0.0100 0.989 0.0175
-EPW C24 H15 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C24 H16 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C24 H17 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C9  H19 SINGLE n 1.089 0.0100 0.990 0.0154
-EPW O10 H20 SINGLE n 0.970 0.0120 0.848 0.0200
-EPW N13 H21 SINGLE n 1.016 0.0100 0.873 0.0200
-EPW C14 H22 SINGLE n 1.089 0.0100 0.998 0.0200
-EPW C16 H23 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C16 H24 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C16 H25 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW N20 H26 SINGLE n 1.016 0.0100 0.873 0.0200
-EPW C23 H28 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C23 H29 SINGLE n 1.089 0.0100 0.973 0.0146
-EPW C23 H30 SINGLE n 1.089 0.0100 0.973 0.0146
-
+EPW          C1          O3      DOUBLE       n     1.247  0.0187     1.247  0.0187
+EPW          C4          C1      SINGLE       n     1.533  0.0102     1.533  0.0102
+EPW          C9         O10      SINGLE       n     1.420  0.0100     1.420  0.0100
+EPW          C5          C6      SINGLE       n     1.524  0.0128     1.524  0.0128
+EPW          C4          C9      SINGLE       n     1.536  0.0100     1.536  0.0100
+EPW          C4          C5      SINGLE       n     1.543  0.0100     1.543  0.0100
+EPW          C9         C11      SINGLE       n     1.525  0.0100     1.525  0.0100
+EPW          C5          C7      SINGLE       n     1.524  0.0128     1.524  0.0128
+EPW         C11         O12      DOUBLE       n     1.229  0.0102     1.229  0.0102
+EPW         C11         N13      SINGLE       n     1.334  0.0100     1.334  0.0100
+EPW         N13         C14      SINGLE       n     1.453  0.0100     1.453  0.0100
+EPW         C15         C17      SINGLE       n     1.521  0.0135     1.521  0.0135
+EPW         C15         C14      SINGLE       n     1.544  0.0188     1.544  0.0188
+EPW         C14         C18      SINGLE       n     1.527  0.0100     1.527  0.0100
+EPW         C15         C16      SINGLE       n     1.521  0.0135     1.521  0.0135
+EPW         C18         O19      DOUBLE       n     1.229  0.0102     1.229  0.0102
+EPW         C18         N20      SINGLE       n     1.337  0.0100     1.337  0.0100
+EPW         C22         C24      SINGLE       n     1.521  0.0135     1.521  0.0135
+EPW         C21         N20      SINGLE       n     1.453  0.0100     1.453  0.0100
+EPW         C21         C22      SINGLE       n     1.541  0.0100     1.541  0.0100
+EPW         C21         C25      SINGLE       n     1.539  0.0100     1.539  0.0100
+EPW         C22         C23      SINGLE       n     1.521  0.0135     1.521  0.0135
+EPW         C25         O26      DOUBLE       n     1.247  0.0187     1.247  0.0187
+EPW         C25         O27      SINGLE       n     1.247  0.0187     1.247  0.0187
+EPW          C1         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+EPW          C4          H1      SINGLE       n     1.089  0.0100     0.985  0.0200
+EPW          C5          H2      SINGLE       n     1.089  0.0100     0.985  0.0200
+EPW          C6          H3      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW          C6          H4      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW          C6          H5      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW          C7          H6      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW          C7          H7      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW          C7          H8      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C15          H9      SINGLE       n     1.089  0.0100     0.989  0.0175
+EPW         C17         H10      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C17         H11      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C17         H12      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C21         H13      SINGLE       n     1.089  0.0100     0.986  0.0179
+EPW         C22         H14      SINGLE       n     1.089  0.0100     0.989  0.0175
+EPW         C24         H15      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C24         H16      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C24         H17      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW          C9         H19      SINGLE       n     1.089  0.0100     0.990  0.0154
+EPW         O10         H20      SINGLE       n     0.970  0.0120     0.848  0.0200
+EPW         N13         H21      SINGLE       n     1.016  0.0100     0.873  0.0200
+EPW         C14         H22      SINGLE       n     1.089  0.0100     0.998  0.0200
+EPW         C16         H23      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C16         H24      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C16         H25      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         N20         H26      SINGLE       n     1.016  0.0100     0.873  0.0200
+EPW         C23         H28      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C23         H29      SINGLE       n     1.089  0.0100     0.973  0.0146
+EPW         C23         H30      SINGLE       n     1.089  0.0100     0.973  0.0146
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -145,104 +145,103 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-EPW C1  C4  C9  111.511 2.91
-EPW C1  C4  C5  111.617 1.50
-EPW C1  C4  H1  107.706 1.93
-EPW C9  C4  C5  111.094 2.85
-EPW C9  C4  H1  107.735 1.50
-EPW C5  C4  H1  107.267 1.85
-EPW C6  C5  C4  111.641 1.68
-EPW C6  C5  C7  110.065 1.50
-EPW C6  C5  H2  107.693 1.50
-EPW C4  C5  C7  111.641 1.68
-EPW C4  C5  H2  107.354 1.50
-EPW C7  C5  H2  107.693 1.50
-EPW C5  C6  H3  109.561 1.50
-EPW C5  C6  H4  109.561 1.50
-EPW C5  C6  H5  109.561 1.50
-EPW H3  C6  H4  109.411 1.50
-EPW H3  C6  H5  109.411 1.50
-EPW H4  C6  H5  109.411 1.50
-EPW C5  C7  H6  109.561 1.50
-EPW C5  C7  H7  109.561 1.50
-EPW C5  C7  H8  109.561 1.50
-EPW H6  C7  H7  109.411 1.50
-EPW H6  C7  H8  109.411 1.50
-EPW H7  C7  H8  109.411 1.50
-EPW C17 C15 C14 111.317 1.50
-EPW C17 C15 C16 110.676 1.50
-EPW C17 C15 H9  107.603 1.50
-EPW C14 C15 C16 111.317 1.50
-EPW C14 C15 H9  107.640 1.50
-EPW C16 C15 H9  107.603 1.50
-EPW C15 C17 H10 109.507 1.50
-EPW C15 C17 H11 109.507 1.50
-EPW C15 C17 H12 109.507 1.50
-EPW H10 C17 H11 109.411 1.50
-EPW H10 C17 H12 109.411 1.50
-EPW H11 C17 H12 109.411 1.50
-EPW N20 C21 C22 111.099 1.50
-EPW N20 C21 C25 110.094 1.50
-EPW N20 C21 H13 108.062 1.50
-EPW C22 C21 C25 111.291 1.50
-EPW C22 C21 H13 108.105 1.50
-EPW C25 C21 H13 108.240 1.50
-EPW C24 C22 C21 111.285 1.50
-EPW C24 C22 C23 110.676 1.50
-EPW C24 C22 H14 107.603 1.50
-EPW C21 C22 C23 111.285 1.50
-EPW C21 C22 H14 107.617 1.50
-EPW C23 C22 H14 107.603 1.50
-EPW C22 C24 H15 109.507 1.50
-EPW C22 C24 H16 109.507 1.50
-EPW C22 C24 H17 109.507 1.50
-EPW H15 C24 H16 109.411 1.50
-EPW H15 C24 H17 109.411 1.50
-EPW H16 C24 H17 109.411 1.50
-EPW O3  C1  C4  118.051 1.50
-EPW O3  C1  OXT 123.899 1.50
-EPW C4  C1  OXT 118.051 1.50
-EPW O10 C9  C4  109.671 2.04
-EPW O10 C9  C11 109.850 1.55
-EPW O10 C9  H19 108.762 1.50
-EPW C4  C9  C11 111.511 2.91
-EPW C4  C9  H19 108.427 1.50
-EPW C11 C9  H19 108.529 1.70
-EPW C9  O10 H20 107.828 2.01
-EPW C9  C11 O12 119.859 1.78
-EPW C9  C11 N13 117.147 1.50
-EPW O12 C11 N13 122.977 1.50
-EPW C11 N13 C14 121.909 1.76
-EPW C11 N13 H21 118.792 1.94
-EPW C14 N13 H21 119.285 1.91
-EPW N13 C14 C15 110.867 1.63
-EPW N13 C14 C18 111.248 2.09
-EPW N13 C14 H22 107.651 1.50
-EPW C15 C14 C18 111.464 1.50
-EPW C15 C14 H22 107.774 1.50
-EPW C18 C14 H22 107.690 1.50
-EPW C15 C16 H23 109.507 1.50
-EPW C15 C16 H24 109.507 1.50
-EPW C15 C16 H25 109.507 1.50
-EPW H23 C16 H24 109.411 1.50
-EPW H23 C16 H25 109.411 1.50
-EPW H24 C16 H25 109.411 1.50
-EPW C14 C18 O19 120.387 1.50
-EPW C14 C18 N20 116.668 1.50
-EPW O19 C18 N20 122.945 1.50
-EPW C18 N20 C21 122.071 1.50
-EPW C18 N20 H26 118.951 1.83
-EPW C21 N20 H26 118.978 1.50
-EPW C21 C25 O26 117.195 1.50
-EPW C21 C25 O27 117.195 1.50
-EPW O26 C25 O27 125.611 1.50
-EPW C22 C23 H28 109.507 1.50
-EPW C22 C23 H29 109.507 1.50
-EPW C22 C23 H30 109.507 1.50
-EPW H28 C23 H29 109.411 1.50
-EPW H28 C23 H30 109.411 1.50
-EPW H29 C23 H30 109.411 1.50
-
+EPW          C1          C4          C9     111.511    2.91
+EPW          C1          C4          C5     111.617    1.50
+EPW          C1          C4          H1     107.706    1.93
+EPW          C9          C4          C5     111.094    2.85
+EPW          C9          C4          H1     107.735    1.50
+EPW          C5          C4          H1     107.267    1.85
+EPW          C6          C5          C4     111.641    1.68
+EPW          C6          C5          C7     110.065    1.50
+EPW          C6          C5          H2     107.693    1.50
+EPW          C4          C5          C7     111.641    1.68
+EPW          C4          C5          H2     107.354    1.50
+EPW          C7          C5          H2     107.693    1.50
+EPW          C5          C6          H3     109.561    1.50
+EPW          C5          C6          H4     109.561    1.50
+EPW          C5          C6          H5     109.561    1.50
+EPW          H3          C6          H4     109.411    1.50
+EPW          H3          C6          H5     109.411    1.50
+EPW          H4          C6          H5     109.411    1.50
+EPW          C5          C7          H6     109.561    1.50
+EPW          C5          C7          H7     109.561    1.50
+EPW          C5          C7          H8     109.561    1.50
+EPW          H6          C7          H7     109.411    1.50
+EPW          H6          C7          H8     109.411    1.50
+EPW          H7          C7          H8     109.411    1.50
+EPW         C17         C15         C14     111.317    1.50
+EPW         C17         C15         C16     110.676    1.50
+EPW         C17         C15          H9     107.603    1.50
+EPW         C14         C15         C16     111.317    1.50
+EPW         C14         C15          H9     107.640    1.50
+EPW         C16         C15          H9     107.603    1.50
+EPW         C15         C17         H10     109.507    1.50
+EPW         C15         C17         H11     109.507    1.50
+EPW         C15         C17         H12     109.507    1.50
+EPW         H10         C17         H11     109.411    1.50
+EPW         H10         C17         H12     109.411    1.50
+EPW         H11         C17         H12     109.411    1.50
+EPW         N20         C21         C22     111.099    1.50
+EPW         N20         C21         C25     110.094    1.50
+EPW         N20         C21         H13     108.062    1.50
+EPW         C22         C21         C25     111.291    1.50
+EPW         C22         C21         H13     108.105    1.50
+EPW         C25         C21         H13     108.240    1.50
+EPW         C24         C22         C21     111.285    1.50
+EPW         C24         C22         C23     110.676    1.50
+EPW         C24         C22         H14     107.603    1.50
+EPW         C21         C22         C23     111.285    1.50
+EPW         C21         C22         H14     107.617    1.50
+EPW         C23         C22         H14     107.603    1.50
+EPW         C22         C24         H15     109.507    1.50
+EPW         C22         C24         H16     109.507    1.50
+EPW         C22         C24         H17     109.507    1.50
+EPW         H15         C24         H16     109.411    1.50
+EPW         H15         C24         H17     109.411    1.50
+EPW         H16         C24         H17     109.411    1.50
+EPW          O3          C1          C4     118.051    1.50
+EPW          O3          C1         OXT     123.899    1.50
+EPW          C4          C1         OXT     118.051    1.50
+EPW         O10          C9          C4     109.671    2.04
+EPW         O10          C9         C11     109.850    1.55
+EPW         O10          C9         H19     108.762    1.50
+EPW          C4          C9         C11     111.511    2.91
+EPW          C4          C9         H19     108.427    1.50
+EPW         C11          C9         H19     108.529    1.70
+EPW          C9         O10         H20     107.828    2.01
+EPW          C9         C11         O12     119.859    1.78
+EPW          C9         C11         N13     117.147    1.50
+EPW         O12         C11         N13     122.977    1.50
+EPW         C11         N13         C14     121.909    1.76
+EPW         C11         N13         H21     118.792    1.94
+EPW         C14         N13         H21     119.285    1.91
+EPW         N13         C14         C15     110.867    1.63
+EPW         N13         C14         C18     111.248    2.09
+EPW         N13         C14         H22     107.651    1.50
+EPW         C15         C14         C18     111.464    1.50
+EPW         C15         C14         H22     107.774    1.50
+EPW         C18         C14         H22     107.690    1.50
+EPW         C15         C16         H23     109.507    1.50
+EPW         C15         C16         H24     109.507    1.50
+EPW         C15         C16         H25     109.507    1.50
+EPW         H23         C16         H24     109.411    1.50
+EPW         H23         C16         H25     109.411    1.50
+EPW         H24         C16         H25     109.411    1.50
+EPW         C14         C18         O19     120.387    1.50
+EPW         C14         C18         N20     116.668    1.50
+EPW         O19         C18         N20     122.945    1.50
+EPW         C18         N20         C21     122.071    1.50
+EPW         C18         N20         H26     118.951    1.83
+EPW         C21         N20         H26     118.978    1.50
+EPW         C21         C25         O26     117.195    1.50
+EPW         C21         C25         O27     117.195    1.50
+EPW         O26         C25         O27     125.611    1.50
+EPW         C22         C23         H28     109.507    1.50
+EPW         C22         C23         H29     109.507    1.50
+EPW         C22         C23         H30     109.507    1.50
+EPW         H28         C23         H29     109.411    1.50
+EPW         H28         C23         H30     109.411    1.50
+EPW         H29         C23         H30     109.411    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -253,26 +252,25 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-EPW sp3_sp3_23 C1  C4  C5  C6  -60.000 10.0 3
-EPW sp3_sp3_13 C1  C4  C9  O10 180.000 10.0 3
-EPW sp2_sp3_1  O3  C1  C4  C9  0.000   10.0 6
-EPW sp3_sp3_1  C4  C9  O10 H20 180.000 10.0 3
-EPW sp2_sp3_7  O12 C11 C9  O10 0.000   10.0 6
-EPW sp2_sp2_1  C9  C11 N13 C14 180.000 5.0  2
-EPW sp2_sp3_13 C11 N13 C14 C15 0.000   10.0 6
-EPW sp2_sp3_19 O19 C18 C14 N13 0.000   10.0 6
-EPW sp2_sp2_5  C14 C18 N20 C21 180.000 5.0  2
-EPW sp3_sp3_4  C4  C5  C6  H3  180.000 10.0 3
-EPW sp3_sp3_31 C6  C5  C7  H6  180.000 10.0 3
-EPW sp3_sp3_50 N13 C14 C15 C17 -60.000 10.0 3
-EPW sp3_sp3_58 C17 C15 C16 H23 180.000 10.0 3
-EPW sp3_sp3_40 C14 C15 C17 H10 180.000 10.0 3
-EPW sp2_sp3_25 C18 N20 C21 C22 0.000   10.0 6
-EPW sp2_sp3_31 O26 C25 C21 N20 0.000   10.0 6
-EPW sp3_sp3_77 N20 C21 C22 C24 -60.000 10.0 3
-EPW sp3_sp3_85 C24 C22 C23 H28 180.000 10.0 3
-EPW sp3_sp3_67 C21 C22 C24 H15 180.000 10.0 3
-
+EPW            sp3_sp3_23          C1          C4          C5          C6     -60.000    10.0     3
+EPW            sp3_sp3_13          C1          C4          C9         O10     180.000    10.0     3
+EPW             sp2_sp3_1          O3          C1          C4          C9       0.000    10.0     6
+EPW             sp3_sp3_1          C4          C9         O10         H20     180.000    10.0     3
+EPW             sp2_sp3_7         O12         C11          C9         O10       0.000    10.0     6
+EPW             sp2_sp2_1          C9         C11         N13         C14     180.000     5.0     2
+EPW            sp2_sp3_13         C11         N13         C14         C15       0.000    10.0     6
+EPW            sp2_sp3_19         O19         C18         C14         N13       0.000    10.0     6
+EPW             sp2_sp2_5         C14         C18         N20         C21     180.000     5.0     2
+EPW             sp3_sp3_4          C4          C5          C6          H3     180.000    10.0     3
+EPW            sp3_sp3_31          C6          C5          C7          H6     180.000    10.0     3
+EPW            sp3_sp3_50         N13         C14         C15         C17     -60.000    10.0     3
+EPW            sp3_sp3_58         C17         C15         C16         H23     180.000    10.0     3
+EPW            sp3_sp3_40         C14         C15         C17         H10     180.000    10.0     3
+EPW            sp2_sp3_25         C18         N20         C21         C22       0.000    10.0     6
+EPW            sp2_sp3_31         O26         C25         C21         N20       0.000    10.0     6
+EPW            sp3_sp3_77         N20         C21         C22         C24     -60.000    10.0     3
+EPW            sp3_sp3_85         C24         C22         C23         H28     180.000    10.0     3
+EPW            sp3_sp3_67         C21         C22         C24         H15     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -281,76 +279,60 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-EPW chir_1 C4  C1  C9  C5  positive
-EPW chir_2 C5  C4  C6  C7  both
-EPW chir_3 C15 C14 C17 C16 both
-EPW chir_4 C21 N20 C25 C22 positive
-EPW chir_5 C22 C21 C24 C23 both
-EPW chir_6 C9  O10 C11 C4  negative
-EPW chir_7 C14 N13 C18 C15 positive
-
+EPW    chir_1    C4    C1    C9    C5    positive
+EPW    chir_2    C5    C4    C6    C7    both
+EPW    chir_3    C15    C14    C17    C16    both
+EPW    chir_4    C21    N20    C25    C22    positive
+EPW    chir_5    C22    C21    C24    C23    both
+EPW    chir_6    C9    O10    C11    C4    negative
+EPW    chir_7    C14    N13    C18    C15    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-EPW plan-1 C1  0.020
-EPW plan-1 C4  0.020
-EPW plan-1 O3  0.020
-EPW plan-1 OXT 0.020
-EPW plan-2 C11 0.020
-EPW plan-2 C9  0.020
-EPW plan-2 N13 0.020
-EPW plan-2 O12 0.020
-EPW plan-3 C11 0.020
-EPW plan-3 C14 0.020
-EPW plan-3 H21 0.020
-EPW plan-3 N13 0.020
-EPW plan-4 C14 0.020
-EPW plan-4 C18 0.020
-EPW plan-4 N20 0.020
-EPW plan-4 O19 0.020
-EPW plan-5 C18 0.020
-EPW plan-5 C21 0.020
-EPW plan-5 H26 0.020
-EPW plan-5 N20 0.020
-EPW plan-6 C21 0.020
-EPW plan-6 C25 0.020
-EPW plan-6 O26 0.020
-EPW plan-6 O27 0.020
-
+EPW    plan-1          C1   0.020
+EPW    plan-1          C4   0.020
+EPW    plan-1          O3   0.020
+EPW    plan-1         OXT   0.020
+EPW    plan-2         C11   0.020
+EPW    plan-2          C9   0.020
+EPW    plan-2         N13   0.020
+EPW    plan-2         O12   0.020
+EPW    plan-3         C11   0.020
+EPW    plan-3         C14   0.020
+EPW    plan-3         H21   0.020
+EPW    plan-3         N13   0.020
+EPW    plan-4         C14   0.020
+EPW    plan-4         C18   0.020
+EPW    plan-4         N20   0.020
+EPW    plan-4         O19   0.020
+EPW    plan-5         C18   0.020
+EPW    plan-5         C21   0.020
+EPW    plan-5         H26   0.020
+EPW    plan-5         N20   0.020
+EPW    plan-6         C21   0.020
+EPW    plan-6         C25   0.020
+EPW    plan-6         O26   0.020
+EPW    plan-6         O27   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-EPW InChI            InChI                1.03  InChI=1S/C17H30N2O7/c1-7(2)10(16(23)24)13(20)15(22)18-11(8(3)4)14(21)19-12(9(5)6)17(25)26/h7-13,20H,1-6H3,(H,18,22)(H,19,21)(H,23,24)(H,25,26)/t10-,11-,12-,13+/m0/s1
-EPW InChIKey         InChI                1.03  AEDSWBBILSEDHQ-ZDEQEGDKSA-N
-EPW SMILES_CANONICAL CACTVS               3.385 CC(C)[C@H](NC(=O)[C@@H](NC(=O)[C@H](O)[C@H](C(C)C)C(O)=O)C(C)C)C(O)=O
-EPW SMILES           CACTVS               3.385 CC(C)[CH](NC(=O)[CH](NC(=O)[CH](O)[CH](C(C)C)C(O)=O)C(C)C)C(O)=O
-EPW SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 CC(C)[C@@H]([C@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)O)O)C(=O)O
-EPW SMILES           "OpenEye OEToolkits" 2.0.6 CC(C)C(C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)O)O)C(=O)O
-
+EPW            InChI                InChI  1.03 InChI=1S/C17H30N2O7/c1-7(2)10(16(23)24)13(20)15(22)18-11(8(3)4)14(21)19-12(9(5)6)17(25)26/h7-13,20H,1-6H3,(H,18,22)(H,19,21)(H,23,24)(H,25,26)/t10-,11-,12-,13+/m0/s1
+EPW         InChIKey                InChI  1.03                                                                                                                                           AEDSWBBILSEDHQ-ZDEQEGDKSA-N
+EPW SMILES_CANONICAL               CACTVS 3.385                                                                                                 CC(C)[C@H](NC(=O)[C@@H](NC(=O)[C@H](O)[C@H](C(C)C)C(O)=O)C(C)C)C(O)=O
+EPW           SMILES               CACTVS 3.385                                                                                                      CC(C)[CH](NC(=O)[CH](NC(=O)[CH](O)[CH](C(C)C)C(O)=O)C(C)C)C(O)=O
+EPW SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                               CC(C)[C@@H]([C@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)O)O)C(=O)O
+EPW           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                  CC(C)C(C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)O)O)C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-EPW acedrg          243       "dictionary generator"
-EPW acedrg_database 11        "data source"
-EPW rdkit           2017.03.2 "Chemoinformatics tool"
-EPW refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-EPW M-peptide O26 O
-EPW M-peptide C25 C
-EPW M-peptide C21 CA
-EPW M-peptide N20 N
-EPW M-peptide C18 CN
-EPW M-peptide O27 OXT
-EPW M-peptide H26 H
+EPW acedrg               243         "dictionary generator"                  
+EPW acedrg_database      11          "data source"                           
+EPW rdkit                2017.03.2   "Chemoinformatics tool"
+EPW refmac5              5.8.0238    "optimization tool"                     

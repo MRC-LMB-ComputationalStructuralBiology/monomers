@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-MCP MCP 2-CARBOXY-4-METHYLPIPERIDINE NON-POLYMER 22 10 .
-
+MCP     MCP      2-CARBOXY-4-METHYLPIPERIDINE     NON-POLYMER     22     10     .     
+#
 data_comp_MCP
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,29 +21,28 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-MCP N   N NT1 0  -34.978 -28.740 42.985
-MCP C1  C CH1 0  -33.696 -29.128 42.334
-MCP C2  C CH2 0  -32.502 -28.427 43.003
-MCP C3  C CH1 0  -32.728 -26.925 43.155
-MCP C4  C CH2 0  -34.019 -26.678 43.921
-MCP C5  C CH2 0  -35.201 -27.302 43.251
-MCP C6  C C   0  -33.717 -28.894 40.822
-MCP O1  O O   0  -32.768 -29.300 40.195
-MCP O2  O OC  -1 -34.674 -28.342 40.332
-MCP C7  C CH3 0  -31.536 -26.246 43.821
-MCP HN  H H   0  -35.662 -29.054 42.503
-MCP H1  H H   0  -33.582 -30.106 42.470
-MCP H21 H H   0  -31.700 -28.576 42.478
-MCP H22 H H   0  -32.356 -28.814 43.880
-MCP H3  H H   0  -32.833 -26.542 42.251
-MCP H41 H H   0  -34.167 -25.722 43.998
-MCP H42 H H   0  -33.934 -27.041 44.817
-MCP H51 H H   0  -35.991 -27.198 43.824
-MCP H52 H H   0  -35.379 -26.837 42.406
-MCP H71 H H   0  -31.700 -25.291 43.886
-MCP H72 H H   0  -30.737 -26.400 43.293
-MCP H73 H H   0  -31.409 -26.612 44.712
-
+MCP     N       N       NT1     0       -34.978     -28.740     42.985      
+MCP     C1      C       CH1     0       -33.696     -29.128     42.334      
+MCP     C2      C       CH2     0       -32.502     -28.427     43.003      
+MCP     C3      C       CH1     0       -32.728     -26.925     43.155      
+MCP     C4      C       CH2     0       -34.019     -26.678     43.921      
+MCP     C5      C       CH2     0       -35.201     -27.302     43.251      
+MCP     C6      C       C       0       -33.717     -28.894     40.822      
+MCP     O1      O       O       0       -32.768     -29.300     40.195      
+MCP     O2      O       OC      -1      -34.674     -28.342     40.332      
+MCP     C7      C       CH3     0       -31.536     -26.246     43.821      
+MCP     HN      H       H       0       -35.662     -29.054     42.503      
+MCP     H1      H       H       0       -33.582     -30.106     42.470      
+MCP     H21     H       H       0       -31.700     -28.576     42.478      
+MCP     H22     H       H       0       -32.356     -28.814     43.880      
+MCP     H3      H       H       0       -32.833     -26.542     42.251      
+MCP     H41     H       H       0       -34.167     -25.722     43.998      
+MCP     H42     H       H       0       -33.934     -27.041     44.817      
+MCP     H51     H       H       0       -35.991     -27.198     43.824      
+MCP     H52     H       H       0       -35.379     -26.837     42.406      
+MCP     H71     H       H       0       -31.700     -25.291     43.886      
+MCP     H72     H       H       0       -30.737     -26.400     43.293      
+MCP     H73     H       H       0       -31.409     -26.612     44.712      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -52,29 +53,28 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-MCP N  C1  SINGLE n 1.479 0.0140 1.479 0.0140
-MCP N  C5  SINGLE n 1.475 0.0112 1.475 0.0112
-MCP C1 C2  SINGLE n 1.534 0.0100 1.534 0.0100
-MCP C1 C6  SINGLE n 1.521 0.0144 1.521 0.0144
-MCP C2 C3  SINGLE n 1.525 0.0100 1.525 0.0100
-MCP C3 C4  SINGLE n 1.521 0.0113 1.521 0.0113
-MCP C3 C7  SINGLE n 1.525 0.0100 1.525 0.0100
-MCP C4 C5  SINGLE n 1.493 0.0174 1.493 0.0174
-MCP C6 O1  DOUBLE n 1.207 0.0200 1.207 0.0200
-MCP C6 O2  SINGLE n 1.207 0.0200 1.207 0.0200
-MCP N  HN  SINGLE n 1.036 0.0160 0.892 0.0200
-MCP C1 H1  SINGLE n 1.089 0.0100 0.994 0.0120
-MCP C2 H21 SINGLE n 1.089 0.0100 0.970 0.0100
-MCP C2 H22 SINGLE n 1.089 0.0100 0.970 0.0100
-MCP C3 H3  SINGLE n 1.089 0.0100 0.988 0.0154
-MCP C4 H41 SINGLE n 1.089 0.0100 0.970 0.0100
-MCP C4 H42 SINGLE n 1.089 0.0100 0.970 0.0100
-MCP C5 H51 SINGLE n 1.089 0.0100 0.981 0.0142
-MCP C5 H52 SINGLE n 1.089 0.0100 0.981 0.0142
-MCP C7 H71 SINGLE n 1.089 0.0100 0.971 0.0171
-MCP C7 H72 SINGLE n 1.089 0.0100 0.971 0.0171
-MCP C7 H73 SINGLE n 1.089 0.0100 0.971 0.0171
-
+MCP           N          C1      SINGLE       n     1.479  0.0140     1.479  0.0140
+MCP           N          C5      SINGLE       n     1.475  0.0112     1.475  0.0112
+MCP          C1          C2      SINGLE       n     1.534  0.0100     1.534  0.0100
+MCP          C1          C6      SINGLE       n     1.521  0.0144     1.521  0.0144
+MCP          C2          C3      SINGLE       n     1.525  0.0100     1.525  0.0100
+MCP          C3          C4      SINGLE       n     1.521  0.0113     1.521  0.0113
+MCP          C3          C7      SINGLE       n     1.525  0.0100     1.525  0.0100
+MCP          C4          C5      SINGLE       n     1.493  0.0174     1.493  0.0174
+MCP          C6          O1      DOUBLE       n     1.207  0.0200     1.207  0.0200
+MCP          C6          O2      SINGLE       n     1.207  0.0200     1.207  0.0200
+MCP           N          HN      SINGLE       n     1.036  0.0160     0.892  0.0200
+MCP          C1          H1      SINGLE       n     1.089  0.0100     0.994  0.0120
+MCP          C2         H21      SINGLE       n     1.089  0.0100     0.970  0.0100
+MCP          C2         H22      SINGLE       n     1.089  0.0100     0.970  0.0100
+MCP          C3          H3      SINGLE       n     1.089  0.0100     0.988  0.0154
+MCP          C4         H41      SINGLE       n     1.089  0.0100     0.970  0.0100
+MCP          C4         H42      SINGLE       n     1.089  0.0100     0.970  0.0100
+MCP          C5         H51      SINGLE       n     1.089  0.0100     0.981  0.0142
+MCP          C5         H52      SINGLE       n     1.089  0.0100     0.981  0.0142
+MCP          C7         H71      SINGLE       n     1.089  0.0100     0.971  0.0171
+MCP          C7         H72      SINGLE       n     1.089  0.0100     0.971  0.0171
+MCP          C7         H73      SINGLE       n     1.089  0.0100     0.971  0.0171
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -82,49 +82,48 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-MCP C1  N  C5  111.782 3.00
-MCP C1  N  HN  108.770 3.00
-MCP C5  N  HN  109.383 3.00
-MCP N   C1 C2  111.108 1.69
-MCP N   C1 C6  110.461 2.50
-MCP N   C1 H1  108.275 1.50
-MCP C2  C1 C6  111.056 2.52
-MCP C2  C1 H1  108.538 1.50
-MCP C6  C1 H1  107.848 1.50
-MCP C1  C2 C3  111.124 1.57
-MCP C1  C2 H21 109.356 1.50
-MCP C1  C2 H22 109.356 1.50
-MCP C3  C2 H21 109.162 1.50
-MCP C3  C2 H22 109.162 1.50
-MCP H21 C2 H22 107.803 1.50
-MCP C2  C3 C4  109.460 1.50
-MCP C2  C3 C7  111.507 1.50
-MCP C2  C3 H3  107.583 1.50
-MCP C4  C3 C7  111.853 1.50
-MCP C4  C3 H3  107.894 1.50
-MCP C7  C3 H3  108.049 1.50
-MCP C3  C4 C5  112.062 1.50
-MCP C3  C4 H41 109.139 1.50
-MCP C3  C4 H42 109.139 1.50
-MCP C5  C4 H41 108.959 1.50
-MCP C5  C4 H42 108.959 1.50
-MCP H41 C4 H42 107.890 1.50
-MCP N   C5 C4  111.116 1.92
-MCP N   C5 H51 109.570 1.50
-MCP N   C5 H52 109.570 1.50
-MCP C4  C5 H51 109.651 1.50
-MCP C4  C5 H52 109.651 1.50
-MCP H51 C5 H52 108.210 1.50
-MCP C1  C6 O1  117.484 2.59
-MCP C1  C6 O2  117.484 2.59
-MCP O1  C6 O2  125.033 1.50
-MCP C3  C7 H71 109.597 1.50
-MCP C3  C7 H72 109.597 1.50
-MCP C3  C7 H73 109.597 1.50
-MCP H71 C7 H72 109.342 1.50
-MCP H71 C7 H73 109.342 1.50
-MCP H72 C7 H73 109.342 1.50
-
+MCP          C1           N          C5     111.782    3.00
+MCP          C1           N          HN     108.770    3.00
+MCP          C5           N          HN     109.383    3.00
+MCP           N          C1          C2     111.108    1.69
+MCP           N          C1          C6     110.461    2.50
+MCP           N          C1          H1     108.275    1.50
+MCP          C2          C1          C6     111.056    2.52
+MCP          C2          C1          H1     108.538    1.50
+MCP          C6          C1          H1     107.848    1.50
+MCP          C1          C2          C3     111.124    1.57
+MCP          C1          C2         H21     109.356    1.50
+MCP          C1          C2         H22     109.356    1.50
+MCP          C3          C2         H21     109.162    1.50
+MCP          C3          C2         H22     109.162    1.50
+MCP         H21          C2         H22     107.803    1.50
+MCP          C2          C3          C4     109.460    1.50
+MCP          C2          C3          C7     111.507    1.50
+MCP          C2          C3          H3     107.583    1.50
+MCP          C4          C3          C7     111.853    1.50
+MCP          C4          C3          H3     107.894    1.50
+MCP          C7          C3          H3     108.049    1.50
+MCP          C3          C4          C5     112.062    1.50
+MCP          C3          C4         H41     109.139    1.50
+MCP          C3          C4         H42     109.139    1.50
+MCP          C5          C4         H41     108.959    1.50
+MCP          C5          C4         H42     108.959    1.50
+MCP         H41          C4         H42     107.890    1.50
+MCP           N          C5          C4     111.116    1.92
+MCP           N          C5         H51     109.570    1.50
+MCP           N          C5         H52     109.570    1.50
+MCP          C4          C5         H51     109.651    1.50
+MCP          C4          C5         H52     109.651    1.50
+MCP         H51          C5         H52     108.210    1.50
+MCP          C1          C6          O1     117.484    2.59
+MCP          C1          C6          O2     117.484    2.59
+MCP          O1          C6          O2     125.033    1.50
+MCP          C3          C7         H71     109.597    1.50
+MCP          C3          C7         H72     109.597    1.50
+MCP          C3          C7         H73     109.597    1.50
+MCP         H71          C7         H72     109.342    1.50
+MCP         H71          C7         H73     109.342    1.50
+MCP         H72          C7         H73     109.342    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -135,15 +134,14 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-MCP sp3_sp3_3  C6 C1 N  C5  -60.000 10.0 3
-MCP sp3_sp3_43 C4 C5 N  C1  180.000 10.0 3
-MCP sp3_sp3_10 C6 C1 C2 C3  180.000 10.0 3
-MCP sp2_sp3_1  O1 C6 C1 N   0.000   10.0 6
-MCP sp3_sp3_17 C1 C2 C3 C7  180.000 10.0 3
-MCP sp3_sp3_28 C7 C3 C4 C5  180.000 10.0 3
-MCP sp3_sp3_49 C2 C3 C7 H71 180.000 10.0 3
-MCP sp3_sp3_34 C3 C4 C5 N   60.000  10.0 3
-
+MCP             sp3_sp3_3          C6          C1           N          C5     -60.000    10.0     3
+MCP            sp3_sp3_43          C4          C5           N          C1     180.000    10.0     3
+MCP            sp3_sp3_10          C6          C1          C2          C3     180.000    10.0     3
+MCP             sp2_sp3_1          O1          C6          C1           N       0.000    10.0     6
+MCP            sp3_sp3_17          C1          C2          C3          C7     180.000    10.0     3
+MCP            sp3_sp3_28          C7          C3          C4          C5     180.000    10.0     3
+MCP            sp3_sp3_49          C2          C3          C7         H71     180.000    10.0     3
+MCP            sp3_sp3_34          C3          C4          C5           N      60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -152,52 +150,37 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-MCP chir_1 C1 N  C6 C2 negative
-MCP chir_2 C3 C2 C4 C7 negative
-MCP chir_3 N  C1 C5 HN both
-
+MCP    chir_1    C1    N    C6    C2    negative
+MCP    chir_2    C3    C2    C4    C7    negative
+MCP    chir_3    N    C1    C5    HN    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-MCP plan-1 C1 0.020
-MCP plan-1 C6 0.020
-MCP plan-1 O1 0.020
-MCP plan-1 O2 0.020
-
+MCP    plan-1          C1   0.020
+MCP    plan-1          C6   0.020
+MCP    plan-1          O1   0.020
+MCP    plan-1          O2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-MCP SMILES           ACDLabs              10.04 O=C(O)C1NCCC(C)C1
-MCP SMILES_CANONICAL CACTVS               3.341 C[C@@H]1CCN[C@H](C1)C(O)=O
-MCP SMILES           CACTVS               3.341 C[CH]1CCN[CH](C1)C(O)=O
-MCP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@@H]1CCN[C@H](C1)C(=O)O
-MCP SMILES           "OpenEye OEToolkits" 1.5.0 CC1CCNC(C1)C(=O)O
-MCP InChI            InChI                1.03  InChI=1S/C7H13NO2/c1-5-2-3-8-6(4-5)7(9)10/h5-6,8H,2-4H2,1H3,(H,9,10)/t5-,6-/m1/s1
-MCP InChIKey         InChI                1.03  UQHCHLWYGMSPJC-PHDIDXHHSA-N
-
+MCP           SMILES              ACDLabs 10.04                                                                 O=C(O)C1NCCC(C)C1
+MCP SMILES_CANONICAL               CACTVS 3.341                                                        C[C@@H]1CCN[C@H](C1)C(O)=O
+MCP           SMILES               CACTVS 3.341                                                           C[CH]1CCN[CH](C1)C(O)=O
+MCP SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                        C[C@@H]1CCN[C@H](C1)C(=O)O
+MCP           SMILES "OpenEye OEToolkits" 1.5.0                                                                 CC1CCNC(C1)C(=O)O
+MCP            InChI                InChI  1.03 InChI=1S/C7H13NO2/c1-5-2-3-8-6(4-5)7(9)10/h5-6,8H,2-4H2,1H3,(H,9,10)/t5-,6-/m1/s1
+MCP         InChIKey                InChI  1.03                                                       UQHCHLWYGMSPJC-PHDIDXHHSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-MCP acedrg          243       "dictionary generator"
-MCP acedrg_database 11        "data source"
-MCP rdkit           2017.03.2 "Chemoinformatics tool"
-MCP refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-MCP M-peptide O1 O
-MCP M-peptide C6 C
-MCP M-peptide C1 CA
-MCP M-peptide C5 CN
-MCP M-peptide O2 OXT
-MCP M-peptide HN H
+MCP acedrg               243         "dictionary generator"                  
+MCP acedrg_database      11          "data source"                           
+MCP rdkit                2017.03.2   "Chemoinformatics tool"
+MCP refmac5              5.8.0238    "optimization tool"                     

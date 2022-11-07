@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-KPS KPS "pseudouridine 5'-phosphate, linear" NON-POLYMER 34 21 .
-
+KPS     KPS      "pseudouridine 5'-phosphate, linear"     NON-POLYMER     34     21     .     
+#
 data_comp_KPS
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,41 +21,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-KPS O3T   O OP   -1 -4.010 -37.027 16.818
-KPS P     P P    0  -4.260 -36.843 15.333
-KPS O1P   O O    0  -3.237 -35.941 14.669
-KPS O2P   O OP   -1 -5.690 -36.442 15.021
-KPS "O5'" O O2   0  -4.059 -38.301 14.670
-KPS "C5'" C CH2  0  -4.261 -38.450 13.236
-KPS "C4'" C CH1  0  -3.951 -39.863 12.791
-KPS "O4'" O OH1  0  -2.534 -40.043 12.850
-KPS "C3'" C CH1  0  -4.652 -40.941 13.632
-KPS "O3'" O OH1  0  -6.016 -40.568 13.854
-KPS "C2'" C CH1  0  -4.652 -42.361 13.058
-KPS "O2'" O OH1  0  -5.056 -42.348 11.695
-KPS "C1'" C CH2  0  -3.301 -43.063 13.186
-KPS C5    C CR6  0  -3.359 -44.550 12.928
-KPS C6    C CR16 0  -3.686 -45.435 13.894
-KPS N1    N NR6  0  -3.736 -46.786 13.647
-KPS C2    C CR6  0  -3.465 -47.332 12.421
-KPS O2    O O    0  -3.512 -48.537 12.208
-KPS N3    N NR6  0  -3.135 -46.426 11.445
-KPS C4    C CR6  0  -3.059 -45.051 11.600
-KPS O4    O O    0  -2.749 -44.355 10.628
-KPS H3    H H    0  -3.674 -37.824 12.763
-KPS H4    H H    0  -5.188 -38.227 13.011
-KPS H5    H H    0  -4.240 -39.957 11.836
-KPS H6    H H    0  -2.240 -39.977 13.643
-KPS H7    H H    0  -4.204 -40.976 14.516
-KPS H8    H H    0  -6.411 -40.489 13.107
-KPS H9    H H    0  -5.330 -42.894 13.565
-KPS H10   H H    0  -5.902 -42.317 11.650
-KPS H11   H H    0  -2.953 -42.916 14.094
-KPS H12   H H    0  -2.667 -42.652 12.556
-KPS H14   H H    0  -3.885 -45.129 14.765
-KPS H13   H H    0  -3.955 -47.356 14.306
-KPS H15   H H    0  -2.955 -46.760 10.640
-
+KPS     O3T     O       OP      -1      -4.010      -37.027     16.818      
+KPS     P       P       P       0       -4.260      -36.843     15.333      
+KPS     O1P     O       O       0       -3.237      -35.941     14.669      
+KPS     O2P     O       OP      -1      -5.690      -36.442     15.021      
+KPS     "O5'"   O       O2      0       -4.059      -38.301     14.670      
+KPS     "C5'"   C       CH2     0       -4.261      -38.450     13.236      
+KPS     "C4'"   C       CH1     0       -3.951      -39.863     12.791      
+KPS     "O4'"   O       OH1     0       -2.534      -40.043     12.850      
+KPS     "C3'"   C       CH1     0       -4.652      -40.941     13.632      
+KPS     "O3'"   O       OH1     0       -6.016      -40.568     13.854      
+KPS     "C2'"   C       CH1     0       -4.652      -42.361     13.058      
+KPS     "O2'"   O       OH1     0       -5.056      -42.348     11.695      
+KPS     "C1'"   C       CH2     0       -3.301      -43.063     13.186      
+KPS     C5      C       CR6     0       -3.359      -44.550     12.928      
+KPS     C6      C       CR16    0       -3.686      -45.435     13.894      
+KPS     N1      N       NR6     0       -3.736      -46.786     13.647      
+KPS     C2      C       CR6     0       -3.465      -47.332     12.421      
+KPS     O2      O       O       0       -3.512      -48.537     12.208      
+KPS     N3      N       NR6     0       -3.135      -46.426     11.445      
+KPS     C4      C       CR6     0       -3.059      -45.051     11.600      
+KPS     O4      O       O       0       -2.749      -44.355     10.628      
+KPS     H3      H       H       0       -3.674      -37.824     12.763      
+KPS     H4      H       H       0       -5.188      -38.227     13.011      
+KPS     H5      H       H       0       -4.240      -39.957     11.836      
+KPS     H6      H       H       0       -2.240      -39.977     13.643      
+KPS     H7      H       H       0       -4.204      -40.976     14.516      
+KPS     H8      H       H       0       -6.411      -40.489     13.107      
+KPS     H9      H       H       0       -5.330      -42.894     13.565      
+KPS     H10     H       H       0       -5.902      -42.317     11.650      
+KPS     H11     H       H       0       -2.953      -42.916     14.094      
+KPS     H12     H       H       0       -2.667      -42.652     12.556      
+KPS     H14     H       H       0       -3.885      -45.129     14.765      
+KPS     H13     H       H       0       -3.955      -47.356     14.306      
+KPS     H15     H       H       0       -2.955      -46.760     10.640      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,41 +65,40 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-KPS C4    O4    DOUBLE n 1.234 0.0141 1.234 0.0141
-KPS N3    C4    SINGLE y 1.383 0.0100 1.383 0.0100
-KPS C2    N3    SINGLE y 1.370 0.0100 1.370 0.0100
-KPS C5    C4    SINGLE y 1.446 0.0100 1.446 0.0100
-KPS C2    O2    DOUBLE n 1.225 0.0100 1.225 0.0100
-KPS "C2'" "O2'" SINGLE n 1.421 0.0100 1.421 0.0100
-KPS N1    C2    SINGLE y 1.365 0.0100 1.365 0.0100
-KPS P     O1P   DOUBLE n 1.517 0.0192 1.517 0.0192
-KPS C5    C6    DOUBLE y 1.347 0.0100 1.347 0.0100
-KPS "C1'" C5    SINGLE n 1.509 0.0100 1.509 0.0100
-KPS C6    N1    SINGLE y 1.365 0.0134 1.365 0.0134
-KPS "C5'" "C4'" SINGLE n 1.511 0.0100 1.511 0.0100
-KPS "C4'" "O4'" SINGLE n 1.429 0.0100 1.429 0.0100
-KPS "C4'" "C3'" SINGLE n 1.530 0.0100 1.530 0.0100
-KPS "O5'" "C5'" SINGLE n 1.454 0.0165 1.454 0.0165
-KPS P     O2P   SINGLE n 1.517 0.0192 1.517 0.0192
-KPS "C2'" "C1'" SINGLE n 1.526 0.0100 1.526 0.0100
-KPS "C3'" "C2'" SINGLE n 1.526 0.0100 1.526 0.0100
-KPS P     "O5'" SINGLE n 1.614 0.0178 1.614 0.0178
-KPS O3T   P     SINGLE n 1.517 0.0192 1.517 0.0192
-KPS "C3'" "O3'" SINGLE n 1.424 0.0199 1.424 0.0199
-KPS "C5'" H3    SINGLE n 1.089 0.0100 0.980 0.0146
-KPS "C5'" H4    SINGLE n 1.089 0.0100 0.980 0.0146
-KPS "C4'" H5    SINGLE n 1.089 0.0100 1.004 0.0200
-KPS "O4'" H6    SINGLE n 0.970 0.0120 0.848 0.0200
-KPS "C3'" H7    SINGLE n 1.089 0.0100 0.992 0.0184
-KPS "O3'" H8    SINGLE n 0.970 0.0120 0.848 0.0200
-KPS "C2'" H9    SINGLE n 1.089 0.0100 1.000 0.0100
-KPS "O2'" H10   SINGLE n 0.970 0.0120 0.848 0.0200
-KPS "C1'" H11   SINGLE n 1.089 0.0100 0.984 0.0124
-KPS "C1'" H12   SINGLE n 1.089 0.0100 0.984 0.0124
-KPS C6    H14   SINGLE n 1.082 0.0130 0.945 0.0200
-KPS N1    H13   SINGLE n 1.016 0.0100 0.898 0.0200
-KPS N3    H15   SINGLE n 1.016 0.0100 0.889 0.0200
-
+KPS          C4          O4      DOUBLE       n     1.234  0.0141     1.234  0.0141
+KPS          N3          C4      SINGLE       y     1.383  0.0100     1.383  0.0100
+KPS          C2          N3      SINGLE       y     1.370  0.0100     1.370  0.0100
+KPS          C5          C4      SINGLE       y     1.446  0.0100     1.446  0.0100
+KPS          C2          O2      DOUBLE       n     1.225  0.0100     1.225  0.0100
+KPS       "C2'"       "O2'"      SINGLE       n     1.421  0.0100     1.421  0.0100
+KPS          N1          C2      SINGLE       y     1.365  0.0100     1.365  0.0100
+KPS           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+KPS          C5          C6      DOUBLE       y     1.347  0.0100     1.347  0.0100
+KPS       "C1'"          C5      SINGLE       n     1.509  0.0100     1.509  0.0100
+KPS          C6          N1      SINGLE       y     1.365  0.0134     1.365  0.0134
+KPS       "C5'"       "C4'"      SINGLE       n     1.511  0.0100     1.511  0.0100
+KPS       "C4'"       "O4'"      SINGLE       n     1.429  0.0100     1.429  0.0100
+KPS       "C4'"       "C3'"      SINGLE       n     1.530  0.0100     1.530  0.0100
+KPS       "O5'"       "C5'"      SINGLE       n     1.454  0.0165     1.454  0.0165
+KPS           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
+KPS       "C2'"       "C1'"      SINGLE       n     1.526  0.0100     1.526  0.0100
+KPS       "C3'"       "C2'"      SINGLE       n     1.526  0.0100     1.526  0.0100
+KPS           P       "O5'"      SINGLE       n     1.614  0.0178     1.614  0.0178
+KPS         O3T           P      SINGLE       n     1.517  0.0192     1.517  0.0192
+KPS       "C3'"       "O3'"      SINGLE       n     1.424  0.0199     1.424  0.0199
+KPS       "C5'"          H3      SINGLE       n     1.089  0.0100     0.980  0.0146
+KPS       "C5'"          H4      SINGLE       n     1.089  0.0100     0.980  0.0146
+KPS       "C4'"          H5      SINGLE       n     1.089  0.0100     1.004  0.0200
+KPS       "O4'"          H6      SINGLE       n     0.970  0.0120     0.848  0.0200
+KPS       "C3'"          H7      SINGLE       n     1.089  0.0100     0.992  0.0184
+KPS       "O3'"          H8      SINGLE       n     0.970  0.0120     0.848  0.0200
+KPS       "C2'"          H9      SINGLE       n     1.089  0.0100     1.000  0.0100
+KPS       "O2'"         H10      SINGLE       n     0.970  0.0120     0.848  0.0200
+KPS       "C1'"         H11      SINGLE       n     1.089  0.0100     0.984  0.0124
+KPS       "C1'"         H12      SINGLE       n     1.089  0.0100     0.984  0.0124
+KPS          C6         H14      SINGLE       n     1.082  0.0130     0.945  0.0200
+KPS          N1         H13      SINGLE       n     1.016  0.0100     0.898  0.0200
+KPS          N3         H15      SINGLE       n     1.016  0.0100     0.889  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -106,65 +106,64 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-KPS O1P   P     O2P   112.864 1.69
-KPS O1P   P     "O5'" 105.795 2.09
-KPS O1P   P     O3T   112.864 1.69
-KPS O2P   P     "O5'" 105.795 2.09
-KPS O2P   P     O3T   112.864 1.69
-KPS "O5'" P     O3T   105.795 2.09
-KPS "C5'" "O5'" P     118.671 1.50
-KPS "C4'" "C5'" "O5'" 109.438 2.56
-KPS "C4'" "C5'" H3    109.582 1.50
-KPS "C4'" "C5'" H4    109.582 1.50
-KPS "O5'" "C5'" H3    109.393 1.91
-KPS "O5'" "C5'" H4    109.393 1.91
-KPS H3    "C5'" H4    108.319 1.50
-KPS "C5'" "C4'" "O4'" 109.314 1.96
-KPS "C5'" "C4'" "C3'" 112.503 1.50
-KPS "C5'" "C4'" H5    108.656 1.50
-KPS "O4'" "C4'" "C3'" 109.549 1.85
-KPS "O4'" "C4'" H5    108.591 1.50
-KPS "C3'" "C4'" H5    108.777 1.50
-KPS "C4'" "O4'" H6    111.202 3.00
-KPS "C4'" "C3'" "C2'" 113.695 2.13
-KPS "C4'" "C3'" "O3'" 109.164 1.97
-KPS "C4'" "C3'" H7    108.336 1.50
-KPS "C2'" "C3'" "O3'" 109.320 2.01
-KPS "C2'" "C3'" H7    108.450 1.83
-KPS "O3'" "C3'" H7    108.243 1.50
-KPS "C3'" "O3'" H8    108.564 3.00
-KPS "O2'" "C2'" "C1'" 109.925 1.87
-KPS "O2'" "C2'" "C3'" 109.320 2.01
-KPS "O2'" "C2'" H9    108.183 1.96
-KPS "C1'" "C2'" "C3'" 110.999 2.33
-KPS "C1'" "C2'" H9    108.861 1.50
-KPS "C3'" "C2'" H9    108.450 1.83
-KPS "C2'" "O2'" H10   109.265 3.00
-KPS C5    "C1'" "C2'" 114.208 1.94
-KPS C5    "C1'" H11   108.906 1.50
-KPS C5    "C1'" H12   108.906 1.50
-KPS "C2'" "C1'" H11   108.878 1.50
-KPS "C2'" "C1'" H12   108.878 1.50
-KPS H11   "C1'" H12   107.755 1.50
-KPS C4    C5    C6    118.952 1.74
-KPS C4    C5    "C1'" 118.388 1.50
-KPS C6    C5    "C1'" 122.659 1.50
-KPS C5    C6    N1    120.981 1.50
-KPS C5    C6    H14   120.090 1.54
-KPS N1    C6    H14   118.929 2.09
-KPS C2    N1    C6    122.276 1.50
-KPS C2    N1    H13   117.114 2.18
-KPS C6    N1    H13   120.610 2.60
-KPS N3    C2    O2    122.308 1.50
-KPS N3    C2    N1    114.921 1.50
-KPS O2    C2    N1    122.771 1.50
-KPS C4    N3    C2    126.536 1.50
-KPS C4    N3    H15   117.343 1.81
-KPS C2    N3    H15   116.114 2.30
-KPS O4    C4    N3    119.015 1.50
-KPS O4    C4    C5    124.644 1.50
-KPS N3    C4    C5    116.340 1.50
-
+KPS         O1P           P         O2P     112.864    1.69
+KPS         O1P           P       "O5'"     105.795    2.09
+KPS         O1P           P         O3T     112.864    1.69
+KPS         O2P           P       "O5'"     105.795    2.09
+KPS         O2P           P         O3T     112.864    1.69
+KPS       "O5'"           P         O3T     105.795    2.09
+KPS       "C5'"       "O5'"           P     118.671    1.50
+KPS       "C4'"       "C5'"       "O5'"     109.438    2.56
+KPS       "C4'"       "C5'"          H3     109.582    1.50
+KPS       "C4'"       "C5'"          H4     109.582    1.50
+KPS       "O5'"       "C5'"          H3     109.393    1.91
+KPS       "O5'"       "C5'"          H4     109.393    1.91
+KPS          H3       "C5'"          H4     108.319    1.50
+KPS       "C5'"       "C4'"       "O4'"     109.314    1.96
+KPS       "C5'"       "C4'"       "C3'"     112.503    1.50
+KPS       "C5'"       "C4'"          H5     108.656    1.50
+KPS       "O4'"       "C4'"       "C3'"     109.549    1.85
+KPS       "O4'"       "C4'"          H5     108.591    1.50
+KPS       "C3'"       "C4'"          H5     108.777    1.50
+KPS       "C4'"       "O4'"          H6     111.202    3.00
+KPS       "C4'"       "C3'"       "C2'"     113.695    2.13
+KPS       "C4'"       "C3'"       "O3'"     109.164    1.97
+KPS       "C4'"       "C3'"          H7     108.336    1.50
+KPS       "C2'"       "C3'"       "O3'"     109.320    2.01
+KPS       "C2'"       "C3'"          H7     108.450    1.83
+KPS       "O3'"       "C3'"          H7     108.243    1.50
+KPS       "C3'"       "O3'"          H8     108.564    3.00
+KPS       "O2'"       "C2'"       "C1'"     109.925    1.87
+KPS       "O2'"       "C2'"       "C3'"     109.320    2.01
+KPS       "O2'"       "C2'"          H9     108.183    1.96
+KPS       "C1'"       "C2'"       "C3'"     110.999    2.33
+KPS       "C1'"       "C2'"          H9     108.861    1.50
+KPS       "C3'"       "C2'"          H9     108.450    1.83
+KPS       "C2'"       "O2'"         H10     109.265    3.00
+KPS          C5       "C1'"       "C2'"     114.208    1.94
+KPS          C5       "C1'"         H11     108.906    1.50
+KPS          C5       "C1'"         H12     108.906    1.50
+KPS       "C2'"       "C1'"         H11     108.878    1.50
+KPS       "C2'"       "C1'"         H12     108.878    1.50
+KPS         H11       "C1'"         H12     107.755    1.50
+KPS          C4          C5          C6     118.952    1.74
+KPS          C4          C5       "C1'"     118.388    1.50
+KPS          C6          C5       "C1'"     122.659    1.50
+KPS          C5          C6          N1     120.981    1.50
+KPS          C5          C6         H14     120.090    1.54
+KPS          N1          C6         H14     118.929    2.09
+KPS          C2          N1          C6     122.276    1.50
+KPS          C2          N1         H13     117.114    2.18
+KPS          C6          N1         H13     120.610    2.60
+KPS          N3          C2          O2     122.308    1.50
+KPS          N3          C2          N1     114.921    1.50
+KPS          O2          C2          N1     122.771    1.50
+KPS          C4          N3          C2     126.536    1.50
+KPS          C4          N3         H15     117.343    1.81
+KPS          C2          N3         H15     116.114    2.30
+KPS          O4          C4          N3     119.015    1.50
+KPS          O4          C4          C5     124.644    1.50
+KPS          N3          C4          C5     116.340    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -175,23 +174,22 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-KPS sp3_sp3_1       "C1'" "C2'" "O2'" H10   180.000 10.0 3
-KPS sp3_sp3_28      C5    "C1'" "C2'" "O2'" 180.000 10.0 3
-KPS sp2_sp3_2       C4    C5    "C1'" "C2'" -90.000 10.0 6
-KPS const_23        "C1'" C5    C6    N1    180.000 10.0 2
-KPS const_sp2_sp2_4 O4    C4    C5    "C1'" 0.000   5.0  2
-KPS const_17        C5    C6    N1    C2    0.000   10.0 2
-KPS const_15        O2    C2    N1    C6    180.000 10.0 2
-KPS const_11        O2    C2    N3    C4    180.000 10.0 2
-KPS const_sp2_sp2_7 O4    C4    N3    C2    180.000 5.0  2
-KPS sp3_sp3_48      "C5'" "O5'" P     O1P   60.000  10.0 3
-KPS sp3_sp3_25      "C4'" "C5'" "O5'" P     180.000 10.0 3
-KPS sp3_sp3_4       "O4'" "C4'" "C5'" "O5'" 180.000 10.0 3
-KPS sp3_sp3_13      "C5'" "C4'" "O4'" H6    180.000 10.0 3
-KPS sp3_sp3_16      "C2'" "C3'" "C4'" "C5'" 180.000 10.0 3
-KPS sp3_sp3_37      "O2'" "C2'" "C3'" "C4'" 180.000 10.0 3
-KPS sp3_sp3_49      "C4'" "C3'" "O3'" H8    180.000 10.0 3
-
+KPS             sp3_sp3_1       "C1'"       "C2'"       "O2'"         H10     180.000    10.0     3
+KPS            sp3_sp3_28          C5       "C1'"       "C2'"       "O2'"     180.000    10.0     3
+KPS             sp2_sp3_2          C4          C5       "C1'"       "C2'"     -90.000    10.0     6
+KPS              const_23       "C1'"          C5          C6          N1     180.000    10.0     2
+KPS       const_sp2_sp2_4          O4          C4          C5       "C1'"       0.000     5.0     2
+KPS              const_17          C5          C6          N1          C2       0.000    10.0     2
+KPS              const_15          O2          C2          N1          C6     180.000    10.0     2
+KPS              const_11          O2          C2          N3          C4     180.000    10.0     2
+KPS       const_sp2_sp2_7          O4          C4          N3          C2     180.000     5.0     2
+KPS            sp3_sp3_48       "C5'"       "O5'"           P         O1P      60.000    10.0     3
+KPS            sp3_sp3_25       "C4'"       "C5'"       "O5'"           P     180.000    10.0     3
+KPS             sp3_sp3_4       "O4'"       "C4'"       "C5'"       "O5'"     180.000    10.0     3
+KPS            sp3_sp3_13       "C5'"       "C4'"       "O4'"          H6     180.000    10.0     3
+KPS            sp3_sp3_16       "C2'"       "C3'"       "C4'"       "C5'"     180.000    10.0     3
+KPS            sp3_sp3_37       "O2'"       "C2'"       "C3'"       "C4'"     180.000    10.0     3
+KPS            sp3_sp3_49       "C4'"       "C3'"       "O3'"          H8     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -200,59 +198,46 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-KPS chir_1 P     "O5'" O2P   O3T   both
-KPS chir_2 "C4'" "O4'" "C3'" "C5'" negative
-KPS chir_3 "C3'" "O3'" "C4'" "C2'" positive
-KPS chir_4 "C2'" "O2'" "C3'" "C1'" positive
-
+KPS    chir_1    P    "O5'"    O2P    O3T    both
+KPS    chir_2    "C4'"    "O4'"    "C3'"    "C5'"    negative
+KPS    chir_3    "C3'"    "O3'"    "C4'"    "C2'"    positive
+KPS    chir_4    "C2'"    "O2'"    "C3'"    "C1'"    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-KPS plan-1 "C1'" 0.020
-KPS plan-1 C2    0.020
-KPS plan-1 C4    0.020
-KPS plan-1 C5    0.020
-KPS plan-1 C6    0.020
-KPS plan-1 H13   0.020
-KPS plan-1 H14   0.020
-KPS plan-1 H15   0.020
-KPS plan-1 N1    0.020
-KPS plan-1 N3    0.020
-KPS plan-1 O2    0.020
-KPS plan-1 O4    0.020
-
+KPS    plan-1       "C1'"   0.020
+KPS    plan-1          C2   0.020
+KPS    plan-1          C4   0.020
+KPS    plan-1          C5   0.020
+KPS    plan-1          C6   0.020
+KPS    plan-1         H13   0.020
+KPS    plan-1         H14   0.020
+KPS    plan-1         H15   0.020
+KPS    plan-1          N1   0.020
+KPS    plan-1          N3   0.020
+KPS    plan-1          O2   0.020
+KPS    plan-1          O4   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-KPS SMILES           ACDLabs              12.01 O=C1C(=CNC(=O)N1)CC(O)C(O)C(O)COP(=O)(O)O
-KPS InChI            InChI                1.03  InChI=1S/C9H15N2O9P/c12-5(1-4-2-10-9(16)11-8(4)15)7(14)6(13)3-20-21(17,18)19/h2,5-7,12-14H,1,3H2,(H2,17,18,19)(H2,10,11,15,16)/t5-,6+,7-/m0/s1
-KPS InChIKey         InChI                1.03  GIMVKTFECLUQAU-XVMARJQXSA-N
-KPS SMILES_CANONICAL CACTVS               3.370 O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@@H](O)CC1=CNC(=O)NC1=O
-KPS SMILES           CACTVS               3.370 O[CH](CO[P](O)(O)=O)[CH](O)[CH](O)CC1=CNC(=O)NC1=O
-KPS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C1=C(C(=O)NC(=O)N1)C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
-KPS SMILES           "OpenEye OEToolkits" 1.7.6 C1=C(C(=O)NC(=O)N1)CC(C(C(COP(=O)(O)O)O)O)O
-
+KPS           SMILES              ACDLabs 12.01                                                                                                      O=C1C(=CNC(=O)N1)CC(O)C(O)C(O)COP(=O)(O)O
+KPS            InChI                InChI  1.03 InChI=1S/C9H15N2O9P/c12-5(1-4-2-10-9(16)11-8(4)15)7(14)6(13)3-20-21(17,18)19/h2,5-7,12-14H,1,3H2,(H2,17,18,19)(H2,10,11,15,16)/t5-,6+,7-/m0/s1
+KPS         InChIKey                InChI  1.03                                                                                                                    GIMVKTFECLUQAU-XVMARJQXSA-N
+KPS SMILES_CANONICAL               CACTVS 3.370                                                                                        O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@@H](O)CC1=CNC(=O)NC1=O
+KPS           SMILES               CACTVS 3.370                                                                                             O[CH](CO[P](O)(O)=O)[CH](O)[CH](O)CC1=CNC(=O)NC1=O
+KPS SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                     C1=C(C(=O)NC(=O)N1)C[C@@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O
+KPS           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                    C1=C(C(=O)NC(=O)N1)CC(C(C(COP(=O)(O)O)O)O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-KPS acedrg          243       "dictionary generator"
-KPS acedrg_database 11        "data source"
-KPS rdkit           2017.03.2 "Chemoinformatics tool"
-KPS refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-KPS DNA/RNA O3T OP3
-KPS DNA/RNA O1P OP1
-KPS DNA/RNA O2P OP2
-KPS DNA/RNA H8  HO3'
+KPS acedrg               243         "dictionary generator"                  
+KPS acedrg_database      11          "data source"                           
+KPS rdkit                2017.03.2   "Chemoinformatics tool"
+KPS refmac5              5.8.0238    "optimization tool"                     

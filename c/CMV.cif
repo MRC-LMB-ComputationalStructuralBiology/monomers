@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-CMV CMV "(2R,4S)-2-[(1R)-1-({(2R)-2-[(4-ethyl-2,3-dioxopiperazin-1-yl)amino]-2-phenylacetyl}amino)-2-oxoethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid" NON-POLYMER 62 34 .
-
+CMV     CMV      "(2R,4S)-2-[(1R)-1-({(2R)-2-[(4-ethyl-2,3-dioxopiperazin-1-yl)amino]-2-phenylacetyl}amino)-2-oxoethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid"     NON-POLYMER     62     34     .     
+#
 data_comp_CMV
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,69 +21,68 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-CMV C1   C CH3  0  -29.632 -3.326 36.307
-CMV C2   C C    0  -31.417 -2.545 33.973
-CMV C6   C CT   0  -29.058 -2.747 35.024
-CMV C12  C CH1  0  -29.944 -2.937 33.762
-CMV C13  C CH1  0  -28.459 -4.929 33.608
-CMV C14  C CH1  0  -27.747 -5.186 32.262
-CMV C15  C C1   0  -28.466 -6.264 31.427
-CMV C16  C CH3  0  -28.676 -1.288 35.226
-CMV O1   O OC   -1 -32.174 -3.402 34.397
-CMV O2   O O    0  -31.722 -1.399 33.698
-CMV N3   N NT1  0  -29.820 -4.372 33.456
-CMV S1   S S2   0  -27.532 -3.703 34.600
-CMV O4   O O    0  -29.102 -5.967 30.462
-CMV N1   N NH1  0  -27.609 -3.942 31.512
-CMV CAL  C C    0  -26.439 -3.462 31.072
-CMV OAV  O O    0  -25.373 -4.056 31.196
-CMV CAM  C CH1  0  -26.504 -2.083 30.367
-CMV CAW  C CR6  0  -26.574 -0.927 31.363
-CMV CBD  C CR16 0  -25.698 -0.835 32.440
-CMV CBG  C CR16 0  -25.772 0.230  33.330
-CMV CBH  C CR16 0  -26.721 1.216  33.155
-CMV CBF  C CR16 0  -27.595 1.142  32.089
-CMV CBC  C CR16 0  -27.521 0.079  31.197
-CMV NAN  N NT1  0  -25.478 -1.936 29.316
-CMV NAG  N NR6  0  -24.196 -1.413 29.643
-CMV CAE  C CR6  0  -23.969 -0.060 29.506
-CMV OAS  O O    0  -24.861 0.722  29.181
-CMV CAQ  C CH2  0  -23.132 -2.328 30.120
-CMV CAU  C CH2  0  -21.748 -1.817 29.751
-CMV NAO  N NR6  0  -21.570 -0.376 29.996
-CMV CAI  C CR6  0  -22.562 0.512  29.779
-CMV OAT  O O    0  -22.407 1.730  29.783
-CMV CBB  C CH2  0  -20.232 0.083  30.419
-CMV CBE  C CH3  0  -19.397 0.596  29.273
-CMV H1   H H    0  -28.923 -3.418 36.964
-CMV H1A  H H    0  -30.020 -4.197 36.127
-CMV H1B  H H    0  -30.317 -2.732 36.653
-CMV H12  H H    0  -29.572 -2.416 33.008
-CMV H13  H H    0  -28.499 -5.786 34.097
-CMV H14  H H    0  -26.843 -5.532 32.460
-CMV H15  H H    0  -28.401 -7.171 31.691
-CMV H16  H H    0  -27.804 -1.120 34.836
-CMV H16A H H    0  -28.647 -1.084 36.175
-CMV H16B H H    0  -29.333 -0.716 34.795
-CMV HN3  H H    0  -30.220 -4.529 32.676
-CMV HN1  H H    0  -28.336 -3.493 31.335
-CMV HAM  H H    0  -27.363 -2.072 29.861
-CMV HBD  H H    0  -25.043 -1.502 32.570
-CMV HBG  H H    0  -25.174 0.276  34.058
-CMV HBH  H H    0  -26.772 1.938  33.760
-CMV HBF  H H    0  -28.246 1.815  31.966
-CMV HBC  H H    0  -28.124 0.039  30.472
-CMV HNAN H H    0  -25.771 -1.483 28.614
-CMV HAQ  H H    0  -23.272 -3.212 29.723
-CMV HAQA H H    0  -23.201 -2.416 31.093
-CMV HAU  H H    0  -21.588 -1.995 28.802
-CMV HAUA H H    0  -21.083 -2.318 30.263
-CMV HBB  H H    0  -19.756 -0.659 30.854
-CMV HBBA H H    0  -20.336 0.798  31.087
-CMV HBE  H H    0  -18.523 0.850  29.599
-CMV HBEA H H    0  -19.830 1.365  28.877
-CMV HBEB H H    0  -19.303 -0.099 28.607
-
+CMV     C1      C       CH3     0       -29.632     -3.326      36.307      
+CMV     C2      C       C       0       -31.417     -2.545      33.973      
+CMV     C6      C       CT      0       -29.058     -2.747      35.024      
+CMV     C12     C       CH1     0       -29.944     -2.937      33.762      
+CMV     C13     C       CH1     0       -28.459     -4.929      33.608      
+CMV     C14     C       CH1     0       -27.747     -5.186      32.262      
+CMV     C15     C       C1      0       -28.466     -6.264      31.427      
+CMV     C16     C       CH3     0       -28.676     -1.288      35.226      
+CMV     O1      O       OC      -1      -32.174     -3.402      34.397      
+CMV     O2      O       O       0       -31.722     -1.399      33.698      
+CMV     N3      N       NT1     0       -29.820     -4.372      33.456      
+CMV     S1      S       S2      0       -27.532     -3.703      34.600      
+CMV     O4      O       O       0       -29.102     -5.967      30.462      
+CMV     N1      N       NH1     0       -27.609     -3.942      31.512      
+CMV     CAL     C       C       0       -26.439     -3.462      31.072      
+CMV     OAV     O       O       0       -25.373     -4.056      31.196      
+CMV     CAM     C       CH1     0       -26.504     -2.083      30.367      
+CMV     CAW     C       CR6     0       -26.574     -0.927      31.363      
+CMV     CBD     C       CR16    0       -25.698     -0.835      32.440      
+CMV     CBG     C       CR16    0       -25.772     0.230       33.330      
+CMV     CBH     C       CR16    0       -26.721     1.216       33.155      
+CMV     CBF     C       CR16    0       -27.595     1.142       32.089      
+CMV     CBC     C       CR16    0       -27.521     0.079       31.197      
+CMV     NAN     N       NT1     0       -25.478     -1.936      29.316      
+CMV     NAG     N       NR6     0       -24.196     -1.413      29.643      
+CMV     CAE     C       CR6     0       -23.969     -0.060      29.506      
+CMV     OAS     O       O       0       -24.861     0.722       29.181      
+CMV     CAQ     C       CH2     0       -23.132     -2.328      30.120      
+CMV     CAU     C       CH2     0       -21.748     -1.817      29.751      
+CMV     NAO     N       NR6     0       -21.570     -0.376      29.996      
+CMV     CAI     C       CR6     0       -22.562     0.512       29.779      
+CMV     OAT     O       O       0       -22.407     1.730       29.783      
+CMV     CBB     C       CH2     0       -20.232     0.083       30.419      
+CMV     CBE     C       CH3     0       -19.397     0.596       29.273      
+CMV     H1      H       H       0       -28.923     -3.418      36.964      
+CMV     H1A     H       H       0       -30.020     -4.197      36.127      
+CMV     H1B     H       H       0       -30.317     -2.732      36.653      
+CMV     H12     H       H       0       -29.572     -2.416      33.008      
+CMV     H13     H       H       0       -28.499     -5.786      34.097      
+CMV     H14     H       H       0       -26.843     -5.532      32.460      
+CMV     H15     H       H       0       -28.401     -7.171      31.691      
+CMV     H16     H       H       0       -27.804     -1.120      34.836      
+CMV     H16A    H       H       0       -28.647     -1.084      36.175      
+CMV     H16B    H       H       0       -29.333     -0.716      34.795      
+CMV     HN3     H       H       0       -30.220     -4.529      32.676      
+CMV     HN1     H       H       0       -28.336     -3.493      31.335      
+CMV     HAM     H       H       0       -27.363     -2.072      29.861      
+CMV     HBD     H       H       0       -25.043     -1.502      32.570      
+CMV     HBG     H       H       0       -25.174     0.276       34.058      
+CMV     HBH     H       H       0       -26.772     1.938       33.760      
+CMV     HBF     H       H       0       -28.246     1.815       31.966      
+CMV     HBC     H       H       0       -28.124     0.039       30.472      
+CMV     HNAN    H       H       0       -25.771     -1.483      28.614      
+CMV     HAQ     H       H       0       -23.272     -3.212      29.723      
+CMV     HAQA    H       H       0       -23.201     -2.416      31.093      
+CMV     HAU     H       H       0       -21.588     -1.995      28.802      
+CMV     HAUA    H       H       0       -21.083     -2.318      30.263      
+CMV     HBB     H       H       0       -19.756     -0.659      30.854      
+CMV     HBBA    H       H       0       -20.336     0.798       31.087      
+CMV     HBE     H       H       0       -18.523     0.850       29.599      
+CMV     HBEA    H       H       0       -19.830     1.365       28.877      
+CMV     HBEB    H       H       0       -19.303     -0.099      28.607      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -92,71 +93,70 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-CMV C1  C6   SINGLE n 1.518 0.0100 1.518 0.0100
-CMV C2  O2   DOUBLE n 1.218 0.0200 1.218 0.0200
-CMV C2  C12  SINGLE n 1.536 0.0100 1.536 0.0100
-CMV C2  O1   SINGLE n 1.218 0.0200 1.218 0.0200
-CMV C6  C12  SINGLE n 1.549 0.0160 1.549 0.0160
-CMV C6  S1   SINGLE n 1.851 0.0113 1.851 0.0113
-CMV C6  C16  SINGLE n 1.518 0.0100 1.518 0.0100
-CMV C12 N3   SINGLE n 1.468 0.0148 1.468 0.0148
-CMV C13 C14  SINGLE n 1.536 0.0200 1.536 0.0200
-CMV C13 N3   SINGLE n 1.469 0.0170 1.469 0.0170
-CMV C13 S1   SINGLE n 1.828 0.0131 1.828 0.0131
-CMV C14 C15  SINGLE n 1.539 0.0100 1.539 0.0100
-CMV C14 N1   SINGLE n 1.454 0.0100 1.454 0.0100
-CMV C15 O4   DOUBLE n 1.191 0.0200 1.191 0.0200
-CMV N1  CAL  SINGLE n 1.332 0.0101 1.332 0.0101
-CMV CAL CAM  SINGLE n 1.533 0.0186 1.533 0.0186
-CMV CAL OAV  DOUBLE n 1.226 0.0100 1.226 0.0100
-CMV CAM NAN  SINGLE n 1.459 0.0168 1.459 0.0168
-CMV CAM CAW  SINGLE n 1.522 0.0100 1.522 0.0100
-CMV CAW CBC  SINGLE y 1.386 0.0100 1.386 0.0100
-CMV CAW CBD  DOUBLE y 1.386 0.0100 1.386 0.0100
-CMV CBD CBG  SINGLE y 1.386 0.0100 1.386 0.0100
-CMV CBG CBH  DOUBLE y 1.376 0.0124 1.376 0.0124
-CMV CBH CBF  SINGLE y 1.376 0.0124 1.376 0.0124
-CMV CBF CBC  DOUBLE y 1.386 0.0100 1.386 0.0100
-CMV NAN NAG  SINGLE n 1.397 0.0200 1.397 0.0200
-CMV NAG CAE  SINGLE n 1.361 0.0200 1.361 0.0200
-CMV NAG CAQ  SINGLE n 1.475 0.0145 1.475 0.0145
-CMV CAE OAS  DOUBLE n 1.229 0.0100 1.229 0.0100
-CMV CAE CAI  SINGLE n 1.542 0.0100 1.542 0.0100
-CMV CAQ CAU  SINGLE n 1.507 0.0200 1.507 0.0200
-CMV CAU NAO  SINGLE n 1.467 0.0100 1.467 0.0100
-CMV NAO CAI  SINGLE n 1.341 0.0133 1.341 0.0133
-CMV NAO CBB  SINGLE n 1.472 0.0100 1.472 0.0100
-CMV CAI OAT  DOUBLE n 1.226 0.0100 1.226 0.0100
-CMV CBB CBE  SINGLE n 1.508 0.0200 1.508 0.0200
-CMV C1  H1   SINGLE n 1.089 0.0100 0.971 0.0169
-CMV C1  H1A  SINGLE n 1.089 0.0100 0.971 0.0169
-CMV C1  H1B  SINGLE n 1.089 0.0100 0.971 0.0169
-CMV C12 H12  SINGLE n 1.089 0.0100 0.990 0.0121
-CMV C13 H13  SINGLE n 1.089 0.0100 0.987 0.0200
-CMV C14 H14  SINGLE n 1.089 0.0100 0.989 0.0198
-CMV C15 H15  SINGLE n 1.082 0.0130 0.947 0.0200
-CMV C16 H16  SINGLE n 1.089 0.0100 0.971 0.0169
-CMV C16 H16A SINGLE n 1.089 0.0100 0.971 0.0169
-CMV C16 H16B SINGLE n 1.089 0.0100 0.971 0.0169
-CMV N3  HN3  SINGLE n 1.036 0.0160 0.890 0.0200
-CMV N1  HN1  SINGLE n 1.016 0.0100 0.873 0.0200
-CMV CAM HAM  SINGLE n 1.089 0.0100 0.997 0.0200
-CMV CBD HBD  SINGLE n 1.082 0.0130 0.944 0.0174
-CMV CBG HBG  SINGLE n 1.082 0.0130 0.944 0.0175
-CMV CBH HBH  SINGLE n 1.082 0.0130 0.944 0.0161
-CMV CBF HBF  SINGLE n 1.082 0.0130 0.944 0.0175
-CMV CBC HBC  SINGLE n 1.082 0.0130 0.944 0.0174
-CMV NAN HNAN SINGLE n 1.036 0.0160 0.881 0.0200
-CMV CAQ HAQ  SINGLE n 1.089 0.0100 0.979 0.0100
-CMV CAQ HAQA SINGLE n 1.089 0.0100 0.979 0.0100
-CMV CAU HAU  SINGLE n 1.089 0.0100 0.978 0.0161
-CMV CAU HAUA SINGLE n 1.089 0.0100 0.978 0.0161
-CMV CBB HBB  SINGLE n 1.089 0.0100 0.984 0.0191
-CMV CBB HBBA SINGLE n 1.089 0.0100 0.984 0.0191
-CMV CBE HBE  SINGLE n 1.089 0.0100 0.967 0.0131
-CMV CBE HBEA SINGLE n 1.089 0.0100 0.967 0.0131
-CMV CBE HBEB SINGLE n 1.089 0.0100 0.967 0.0131
-
+CMV          C1          C6      SINGLE       n     1.518  0.0100     1.518  0.0100
+CMV          C2          O2      DOUBLE       n     1.218  0.0200     1.218  0.0200
+CMV          C2         C12      SINGLE       n     1.536  0.0100     1.536  0.0100
+CMV          C2          O1      SINGLE       n     1.218  0.0200     1.218  0.0200
+CMV          C6         C12      SINGLE       n     1.549  0.0160     1.549  0.0160
+CMV          C6          S1      SINGLE       n     1.851  0.0113     1.851  0.0113
+CMV          C6         C16      SINGLE       n     1.518  0.0100     1.518  0.0100
+CMV         C12          N3      SINGLE       n     1.468  0.0148     1.468  0.0148
+CMV         C13         C14      SINGLE       n     1.536  0.0200     1.536  0.0200
+CMV         C13          N3      SINGLE       n     1.469  0.0170     1.469  0.0170
+CMV         C13          S1      SINGLE       n     1.828  0.0131     1.828  0.0131
+CMV         C14         C15      SINGLE       n     1.539  0.0100     1.539  0.0100
+CMV         C14          N1      SINGLE       n     1.454  0.0100     1.454  0.0100
+CMV         C15          O4      DOUBLE       n     1.191  0.0200     1.191  0.0200
+CMV          N1         CAL      SINGLE       n     1.332  0.0101     1.332  0.0101
+CMV         CAL         CAM      SINGLE       n     1.533  0.0186     1.533  0.0186
+CMV         CAL         OAV      DOUBLE       n     1.226  0.0100     1.226  0.0100
+CMV         CAM         NAN      SINGLE       n     1.459  0.0168     1.459  0.0168
+CMV         CAM         CAW      SINGLE       n     1.522  0.0100     1.522  0.0100
+CMV         CAW         CBC      SINGLE       y     1.386  0.0100     1.386  0.0100
+CMV         CAW         CBD      DOUBLE       y     1.386  0.0100     1.386  0.0100
+CMV         CBD         CBG      SINGLE       y     1.386  0.0100     1.386  0.0100
+CMV         CBG         CBH      DOUBLE       y     1.376  0.0124     1.376  0.0124
+CMV         CBH         CBF      SINGLE       y     1.376  0.0124     1.376  0.0124
+CMV         CBF         CBC      DOUBLE       y     1.386  0.0100     1.386  0.0100
+CMV         NAN         NAG      SINGLE       n     1.397  0.0200     1.397  0.0200
+CMV         NAG         CAE      SINGLE       n     1.361  0.0200     1.361  0.0200
+CMV         NAG         CAQ      SINGLE       n     1.475  0.0145     1.475  0.0145
+CMV         CAE         OAS      DOUBLE       n     1.229  0.0100     1.229  0.0100
+CMV         CAE         CAI      SINGLE       n     1.542  0.0100     1.542  0.0100
+CMV         CAQ         CAU      SINGLE       n     1.507  0.0200     1.507  0.0200
+CMV         CAU         NAO      SINGLE       n     1.467  0.0100     1.467  0.0100
+CMV         NAO         CAI      SINGLE       n     1.341  0.0133     1.341  0.0133
+CMV         NAO         CBB      SINGLE       n     1.472  0.0100     1.472  0.0100
+CMV         CAI         OAT      DOUBLE       n     1.226  0.0100     1.226  0.0100
+CMV         CBB         CBE      SINGLE       n     1.508  0.0200     1.508  0.0200
+CMV          C1          H1      SINGLE       n     1.089  0.0100     0.971  0.0169
+CMV          C1         H1A      SINGLE       n     1.089  0.0100     0.971  0.0169
+CMV          C1         H1B      SINGLE       n     1.089  0.0100     0.971  0.0169
+CMV         C12         H12      SINGLE       n     1.089  0.0100     0.990  0.0121
+CMV         C13         H13      SINGLE       n     1.089  0.0100     0.987  0.0200
+CMV         C14         H14      SINGLE       n     1.089  0.0100     0.989  0.0198
+CMV         C15         H15      SINGLE       n     1.082  0.0130     0.947  0.0200
+CMV         C16         H16      SINGLE       n     1.089  0.0100     0.971  0.0169
+CMV         C16        H16A      SINGLE       n     1.089  0.0100     0.971  0.0169
+CMV         C16        H16B      SINGLE       n     1.089  0.0100     0.971  0.0169
+CMV          N3         HN3      SINGLE       n     1.036  0.0160     0.890  0.0200
+CMV          N1         HN1      SINGLE       n     1.016  0.0100     0.873  0.0200
+CMV         CAM         HAM      SINGLE       n     1.089  0.0100     0.997  0.0200
+CMV         CBD         HBD      SINGLE       n     1.082  0.0130     0.944  0.0174
+CMV         CBG         HBG      SINGLE       n     1.082  0.0130     0.944  0.0175
+CMV         CBH         HBH      SINGLE       n     1.082  0.0130     0.944  0.0161
+CMV         CBF         HBF      SINGLE       n     1.082  0.0130     0.944  0.0175
+CMV         CBC         HBC      SINGLE       n     1.082  0.0130     0.944  0.0174
+CMV         NAN        HNAN      SINGLE       n     1.036  0.0160     0.881  0.0200
+CMV         CAQ         HAQ      SINGLE       n     1.089  0.0100     0.979  0.0100
+CMV         CAQ        HAQA      SINGLE       n     1.089  0.0100     0.979  0.0100
+CMV         CAU         HAU      SINGLE       n     1.089  0.0100     0.978  0.0161
+CMV         CAU        HAUA      SINGLE       n     1.089  0.0100     0.978  0.0161
+CMV         CBB         HBB      SINGLE       n     1.089  0.0100     0.984  0.0191
+CMV         CBB        HBBA      SINGLE       n     1.089  0.0100     0.984  0.0191
+CMV         CBE         HBE      SINGLE       n     1.089  0.0100     0.967  0.0131
+CMV         CBE        HBEA      SINGLE       n     1.089  0.0100     0.967  0.0131
+CMV         CBE        HBEB      SINGLE       n     1.089  0.0100     0.967  0.0131
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -164,122 +164,121 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-CMV C6   C1  H1   109.457 1.50
-CMV C6   C1  H1A  109.457 1.50
-CMV C6   C1  H1B  109.457 1.50
-CMV H1   C1  H1A  109.486 1.50
-CMV H1   C1  H1B  109.486 1.50
-CMV H1A  C1  H1B  109.486 1.50
-CMV O2   C2  C12  117.013 1.95
-CMV O2   C2  O1   125.975 1.50
-CMV C12  C2  O1   117.013 1.95
-CMV C1   C6  C12  113.745 2.48
-CMV C1   C6  S1   108.982 1.53
-CMV C1   C6  C16  110.924 1.50
-CMV C12  C6  S1   107.036 2.68
-CMV C12  C6  C16  113.745 2.48
-CMV S1   C6  C16  108.982 1.53
-CMV C2   C12 C6   112.424 2.46
-CMV C2   C12 N3   111.420 2.45
-CMV C2   C12 H12  110.011 1.50
-CMV C6   C12 N3   103.104 2.01
-CMV C6   C12 H12  110.594 1.50
-CMV N3   C12 H12  109.296 1.50
-CMV C14  C13 N3   111.633 2.37
-CMV C14  C13 S1   111.156 2.31
-CMV C14  C13 H13  108.599 1.67
-CMV N3   C13 S1   104.726 1.50
-CMV N3   C13 H13  110.535 1.50
-CMV S1   C13 H13  111.432 2.82
-CMV C13  C14 C15  112.778 2.78
-CMV C13  C14 N1   111.113 2.62
-CMV C13  C14 H14  109.253 1.50
-CMV C15  C14 N1   110.921 1.74
-CMV C15  C14 H14  108.186 1.50
-CMV N1   C14 H14  108.169 1.50
-CMV C14  C15 O4   120.289 1.60
-CMV C14  C15 H15  119.547 2.53
-CMV O4   C15 H15  120.163 1.50
-CMV C6   C16 H16  109.457 1.50
-CMV C6   C16 H16A 109.457 1.50
-CMV C6   C16 H16B 109.457 1.50
-CMV H16  C16 H16A 109.486 1.50
-CMV H16  C16 H16B 109.486 1.50
-CMV H16A C16 H16B 109.486 1.50
-CMV C12  N3  C13  109.056 3.00
-CMV C12  N3  HN3  109.307 3.00
-CMV C13  N3  HN3  114.884 3.00
-CMV C6   S1  C13  92.264  3.00
-CMV C14  N1  CAL  122.005 1.75
-CMV C14  N1  HN1  119.110 1.91
-CMV CAL  N1  HN1  118.885 1.94
-CMV N1   CAL CAM  115.097 1.50
-CMV N1   CAL OAV  123.405 1.50
-CMV CAM  CAL OAV  121.498 1.50
-CMV CAL  CAM NAN  112.134 2.59
-CMV CAL  CAM CAW  111.340 2.24
-CMV CAL  CAM HAM  107.080 1.56
-CMV NAN  CAM CAW  113.090 1.96
-CMV NAN  CAM HAM  107.089 2.34
-CMV CAW  CAM HAM  107.138 1.51
-CMV CAM  CAW CBC  120.770 2.14
-CMV CAM  CAW CBD  120.770 2.14
-CMV CBC  CAW CBD  118.460 1.50
-CMV CAW  CBD CBG  120.588 1.50
-CMV CAW  CBD HBD  119.682 1.50
-CMV CBG  CBD HBD  119.730 1.50
-CMV CBD  CBG CBH  120.216 1.50
-CMV CBD  CBG HBG  119.847 1.50
-CMV CBH  CBG HBG  119.938 1.50
-CMV CBG  CBH CBF  119.933 1.50
-CMV CBG  CBH HBH  120.033 1.50
-CMV CBF  CBH HBH  120.033 1.50
-CMV CBH  CBF CBC  120.216 1.50
-CMV CBH  CBF HBF  119.938 1.50
-CMV CBC  CBF HBF  119.847 1.50
-CMV CAW  CBC CBF  120.588 1.50
-CMV CAW  CBC HBC  119.682 1.50
-CMV CBF  CBC HBC  119.730 1.50
-CMV CAM  NAN NAG  109.471 3.00
-CMV CAM  NAN HNAN 112.723 3.00
-CMV NAG  NAN HNAN 105.030 2.94
-CMV NAN  NAG CAE  117.439 1.50
-CMV NAN  NAG CAQ  119.720 3.00
-CMV CAE  NAG CAQ  122.841 2.69
-CMV NAG  CAE OAS  121.421 1.50
-CMV NAG  CAE CAI  120.898 1.50
-CMV OAS  CAE CAI  117.681 1.50
-CMV NAG  CAQ CAU  110.160 1.50
-CMV NAG  CAQ HAQ  109.017 1.50
-CMV NAG  CAQ HAQA 109.017 1.50
-CMV CAU  CAQ HAQ  109.715 1.50
-CMV CAU  CAQ HAQA 109.715 1.50
-CMV HAQ  CAQ HAQA 108.238 1.50
-CMV CAQ  CAU NAO  110.821 2.82
-CMV CAQ  CAU HAU  109.372 1.50
-CMV CAQ  CAU HAUA 109.372 1.50
-CMV NAO  CAU HAU  109.155 1.50
-CMV NAO  CAU HAUA 109.155 1.50
-CMV HAU  CAU HAUA 108.187 1.50
-CMV CAU  NAO CAI  122.782 1.61
-CMV CAU  NAO CBB  117.139 1.83
-CMV CAI  NAO CBB  120.078 1.62
-CMV CAE  CAI NAO  118.003 1.50
-CMV CAE  CAI OAT  118.831 1.50
-CMV NAO  CAI OAT  123.166 1.56
-CMV NAO  CBB CBE  113.158 1.50
-CMV NAO  CBB HBB  108.907 1.50
-CMV NAO  CBB HBBA 108.907 1.50
-CMV CBE  CBB HBB  109.296 1.50
-CMV CBE  CBB HBBA 109.296 1.50
-CMV HBB  CBB HBBA 107.955 1.50
-CMV CBB  CBE HBE  109.493 1.50
-CMV CBB  CBE HBEA 109.493 1.50
-CMV CBB  CBE HBEB 109.493 1.50
-CMV HBE  CBE HBEA 109.417 1.50
-CMV HBE  CBE HBEB 109.417 1.50
-CMV HBEA CBE HBEB 109.417 1.50
-
+CMV          C6          C1          H1     109.457    1.50
+CMV          C6          C1         H1A     109.457    1.50
+CMV          C6          C1         H1B     109.457    1.50
+CMV          H1          C1         H1A     109.486    1.50
+CMV          H1          C1         H1B     109.486    1.50
+CMV         H1A          C1         H1B     109.486    1.50
+CMV          O2          C2         C12     117.013    1.95
+CMV          O2          C2          O1     125.975    1.50
+CMV         C12          C2          O1     117.013    1.95
+CMV          C1          C6         C12     113.745    2.48
+CMV          C1          C6          S1     108.982    1.53
+CMV          C1          C6         C16     110.924    1.50
+CMV         C12          C6          S1     107.036    2.68
+CMV         C12          C6         C16     113.745    2.48
+CMV          S1          C6         C16     108.982    1.53
+CMV          C2         C12          C6     112.424    2.46
+CMV          C2         C12          N3     111.420    2.45
+CMV          C2         C12         H12     110.011    1.50
+CMV          C6         C12          N3     103.104    2.01
+CMV          C6         C12         H12     110.594    1.50
+CMV          N3         C12         H12     109.296    1.50
+CMV         C14         C13          N3     111.633    2.37
+CMV         C14         C13          S1     111.156    2.31
+CMV         C14         C13         H13     108.599    1.67
+CMV          N3         C13          S1     104.726    1.50
+CMV          N3         C13         H13     110.535    1.50
+CMV          S1         C13         H13     111.432    2.82
+CMV         C13         C14         C15     112.778    2.78
+CMV         C13         C14          N1     111.113    2.62
+CMV         C13         C14         H14     109.253    1.50
+CMV         C15         C14          N1     110.921    1.74
+CMV         C15         C14         H14     108.186    1.50
+CMV          N1         C14         H14     108.169    1.50
+CMV         C14         C15          O4     120.289    1.60
+CMV         C14         C15         H15     119.547    2.53
+CMV          O4         C15         H15     120.163    1.50
+CMV          C6         C16         H16     109.457    1.50
+CMV          C6         C16        H16A     109.457    1.50
+CMV          C6         C16        H16B     109.457    1.50
+CMV         H16         C16        H16A     109.486    1.50
+CMV         H16         C16        H16B     109.486    1.50
+CMV        H16A         C16        H16B     109.486    1.50
+CMV         C12          N3         C13     109.056    3.00
+CMV         C12          N3         HN3     109.307    3.00
+CMV         C13          N3         HN3     114.884    3.00
+CMV          C6          S1         C13      92.264    3.00
+CMV         C14          N1         CAL     122.005    1.75
+CMV         C14          N1         HN1     119.110    1.91
+CMV         CAL          N1         HN1     118.885    1.94
+CMV          N1         CAL         CAM     115.097    1.50
+CMV          N1         CAL         OAV     123.405    1.50
+CMV         CAM         CAL         OAV     121.498    1.50
+CMV         CAL         CAM         NAN     112.134    2.59
+CMV         CAL         CAM         CAW     111.340    2.24
+CMV         CAL         CAM         HAM     107.080    1.56
+CMV         NAN         CAM         CAW     113.090    1.96
+CMV         NAN         CAM         HAM     107.089    2.34
+CMV         CAW         CAM         HAM     107.138    1.51
+CMV         CAM         CAW         CBC     120.770    2.14
+CMV         CAM         CAW         CBD     120.770    2.14
+CMV         CBC         CAW         CBD     118.460    1.50
+CMV         CAW         CBD         CBG     120.588    1.50
+CMV         CAW         CBD         HBD     119.682    1.50
+CMV         CBG         CBD         HBD     119.730    1.50
+CMV         CBD         CBG         CBH     120.216    1.50
+CMV         CBD         CBG         HBG     119.847    1.50
+CMV         CBH         CBG         HBG     119.938    1.50
+CMV         CBG         CBH         CBF     119.933    1.50
+CMV         CBG         CBH         HBH     120.033    1.50
+CMV         CBF         CBH         HBH     120.033    1.50
+CMV         CBH         CBF         CBC     120.216    1.50
+CMV         CBH         CBF         HBF     119.938    1.50
+CMV         CBC         CBF         HBF     119.847    1.50
+CMV         CAW         CBC         CBF     120.588    1.50
+CMV         CAW         CBC         HBC     119.682    1.50
+CMV         CBF         CBC         HBC     119.730    1.50
+CMV         CAM         NAN         NAG     109.471    3.00
+CMV         CAM         NAN        HNAN     112.723    3.00
+CMV         NAG         NAN        HNAN     105.030    2.94
+CMV         NAN         NAG         CAE     117.439    1.50
+CMV         NAN         NAG         CAQ     119.720    3.00
+CMV         CAE         NAG         CAQ     122.841    2.69
+CMV         NAG         CAE         OAS     121.421    1.50
+CMV         NAG         CAE         CAI     120.898    1.50
+CMV         OAS         CAE         CAI     117.681    1.50
+CMV         NAG         CAQ         CAU     110.160    1.50
+CMV         NAG         CAQ         HAQ     109.017    1.50
+CMV         NAG         CAQ        HAQA     109.017    1.50
+CMV         CAU         CAQ         HAQ     109.715    1.50
+CMV         CAU         CAQ        HAQA     109.715    1.50
+CMV         HAQ         CAQ        HAQA     108.238    1.50
+CMV         CAQ         CAU         NAO     110.821    2.82
+CMV         CAQ         CAU         HAU     109.372    1.50
+CMV         CAQ         CAU        HAUA     109.372    1.50
+CMV         NAO         CAU         HAU     109.155    1.50
+CMV         NAO         CAU        HAUA     109.155    1.50
+CMV         HAU         CAU        HAUA     108.187    1.50
+CMV         CAU         NAO         CAI     122.782    1.61
+CMV         CAU         NAO         CBB     117.139    1.83
+CMV         CAI         NAO         CBB     120.078    1.62
+CMV         CAE         CAI         NAO     118.003    1.50
+CMV         CAE         CAI         OAT     118.831    1.50
+CMV         NAO         CAI         OAT     123.166    1.56
+CMV         NAO         CBB         CBE     113.158    1.50
+CMV         NAO         CBB         HBB     108.907    1.50
+CMV         NAO         CBB        HBBA     108.907    1.50
+CMV         CBE         CBB         HBB     109.296    1.50
+CMV         CBE         CBB        HBBA     109.296    1.50
+CMV         HBB         CBB        HBBA     107.955    1.50
+CMV         CBB         CBE         HBE     109.493    1.50
+CMV         CBB         CBE        HBEA     109.493    1.50
+CMV         CBB         CBE        HBEB     109.493    1.50
+CMV         HBE         CBE        HBEA     109.417    1.50
+CMV         HBE         CBE        HBEB     109.417    1.50
+CMV        HBEA         CBE        HBEB     109.417    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -290,37 +289,36 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-CMV sp3_sp3_36      H1  C1  C6  C16 60.000  10.0 3
-CMV sp2_sp2_13      CAM CAL N1  C14 180.000 5.0  2
-CMV sp2_sp3_25      N1  CAL CAM NAN 0.000   10.0 6
-CMV sp2_sp3_31      CBC CAW CAM CAL 150.000 10.0 6
-CMV sp3_sp3_64      CAL CAM NAN NAG 180.000 10.0 3
-CMV const_23        CAM CAW CBD CBG 180.000 10.0 2
-CMV const_sp2_sp2_3 CAM CAW CBC CBF 180.000 5.0  2
-CMV const_17        CAW CBD CBG CBH 0.000   10.0 2
-CMV const_13        CBD CBG CBH CBF 0.000   10.0 2
-CMV sp2_sp3_7       O2  C2  C12 C6  0.000   10.0 6
-CMV const_sp2_sp2_9 CBC CBF CBH CBG 0.000   5.0  2
-CMV const_sp2_sp2_5 CAW CBC CBF CBH 0.000   5.0  2
-CMV sp2_sp3_38      CAE NAG NAN CAM -90.000 10.0 6
-CMV sp2_sp2_4       OAS CAE NAG NAN 0.000   5.0  2
-CMV sp2_sp3_44      NAN NAG CAQ CAU 180.000 10.0 6
-CMV sp2_sp2_8       OAS CAE CAI OAT 0.000   5.0  2
-CMV sp3_sp3_25      NAG CAQ CAU NAO 60.000  10.0 3
-CMV sp2_sp3_4       CBB NAO CAU CAQ 180.000 10.0 6
-CMV sp2_sp2_12      OAT CAI NAO CBB 0.000   5.0  2
-CMV sp2_sp3_48      CAU NAO CBB CBE -90.000 10.0 6
-CMV sp3_sp3_45      C1  C6  S1  C13 -60.000 10.0 3
-CMV sp3_sp3_5       C2  C12 C6  C1  60.000  10.0 3
-CMV sp3_sp3_48      H16 C16 C6  C1  60.000  10.0 3
-CMV sp3_sp3_70      NAO CBB CBE HBE 180.000 10.0 3
-CMV sp3_sp3_12      C2  C12 N3  C13 180.000 10.0 3
-CMV sp3_sp3_18      C14 C13 N3  C12 -60.000 10.0 3
-CMV sp3_sp3_23      C14 C13 S1  C6  180.000 10.0 3
-CMV sp3_sp3_55      N3  C13 C14 C15 180.000 10.0 3
-CMV sp2_sp3_20      CAL N1  C14 C15 120.000 10.0 6
-CMV sp2_sp3_14      O4  C15 C14 N1  120.000 10.0 6
-
+CMV            sp3_sp3_36          H1          C1          C6         C16      60.000    10.0     3
+CMV            sp2_sp2_13         CAM         CAL          N1         C14     180.000     5.0     2
+CMV            sp2_sp3_25          N1         CAL         CAM         NAN       0.000    10.0     6
+CMV            sp2_sp3_31         CBC         CAW         CAM         CAL     150.000    10.0     6
+CMV            sp3_sp3_64         CAL         CAM         NAN         NAG     180.000    10.0     3
+CMV              const_23         CAM         CAW         CBD         CBG     180.000    10.0     2
+CMV       const_sp2_sp2_3         CAM         CAW         CBC         CBF     180.000     5.0     2
+CMV              const_17         CAW         CBD         CBG         CBH       0.000    10.0     2
+CMV              const_13         CBD         CBG         CBH         CBF       0.000    10.0     2
+CMV             sp2_sp3_7          O2          C2         C12          C6       0.000    10.0     6
+CMV       const_sp2_sp2_9         CBC         CBF         CBH         CBG       0.000     5.0     2
+CMV       const_sp2_sp2_5         CAW         CBC         CBF         CBH       0.000     5.0     2
+CMV            sp2_sp3_38         CAE         NAG         NAN         CAM     -90.000    10.0     6
+CMV             sp2_sp2_4         OAS         CAE         NAG         NAN       0.000     5.0     2
+CMV            sp2_sp3_44         NAN         NAG         CAQ         CAU     180.000    10.0     6
+CMV             sp2_sp2_8         OAS         CAE         CAI         OAT       0.000     5.0     2
+CMV            sp3_sp3_25         NAG         CAQ         CAU         NAO      60.000    10.0     3
+CMV             sp2_sp3_4         CBB         NAO         CAU         CAQ     180.000    10.0     6
+CMV            sp2_sp2_12         OAT         CAI         NAO         CBB       0.000     5.0     2
+CMV            sp2_sp3_48         CAU         NAO         CBB         CBE     -90.000    10.0     6
+CMV            sp3_sp3_45          C1          C6          S1         C13     -60.000    10.0     3
+CMV             sp3_sp3_5          C2         C12          C6          C1      60.000    10.0     3
+CMV            sp3_sp3_48         H16         C16          C6          C1      60.000    10.0     3
+CMV            sp3_sp3_70         NAO         CBB         CBE         HBE     180.000    10.0     3
+CMV            sp3_sp3_12          C2         C12          N3         C13     180.000    10.0     3
+CMV            sp3_sp3_18         C14         C13          N3         C12     -60.000    10.0     3
+CMV            sp3_sp3_23         C14         C13          S1          C6     180.000    10.0     3
+CMV            sp3_sp3_55          N3         C13         C14         C15     180.000    10.0     3
+CMV            sp2_sp3_20         CAL          N1         C14         C15     120.000    10.0     6
+CMV            sp2_sp3_14          O4         C15         C14          N1     120.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -329,97 +327,81 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-CMV chir_1 C6  S1  C12 C1   both
-CMV chir_2 C12 N3  C6  C2   positive
-CMV chir_3 C13 S1  N3  C14  negative
-CMV chir_4 C14 N1  C13 C15  negative
-CMV chir_5 CAM NAN CAL CAW  negative
-CMV chir_6 N3  C13 C12 HN3  both
-CMV chir_7 NAN NAG CAM HNAN both
-
+CMV    chir_1    C6    S1    C12    C1    both
+CMV    chir_2    C12    N3    C6    C2    positive
+CMV    chir_3    C13    S1    N3    C14    negative
+CMV    chir_4    C14    N1    C13    C15    negative
+CMV    chir_5    CAM    NAN    CAL    CAW    negative
+CMV    chir_6    N3    C13    C12    HN3    both
+CMV    chir_7    NAN    NAG    CAM    HNAN    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-CMV plan-1 CAM 0.020
-CMV plan-1 CAW 0.020
-CMV plan-1 CBC 0.020
-CMV plan-1 CBD 0.020
-CMV plan-1 CBF 0.020
-CMV plan-1 CBG 0.020
-CMV plan-1 CBH 0.020
-CMV plan-1 HBC 0.020
-CMV plan-1 HBD 0.020
-CMV plan-1 HBF 0.020
-CMV plan-1 HBG 0.020
-CMV plan-1 HBH 0.020
-CMV plan-2 C12 0.020
-CMV plan-2 C2  0.020
-CMV plan-2 O1  0.020
-CMV plan-2 O2  0.020
-CMV plan-3 C14 0.020
-CMV plan-3 C15 0.020
-CMV plan-3 H15 0.020
-CMV plan-3 O4  0.020
-CMV plan-4 C14 0.020
-CMV plan-4 CAL 0.020
-CMV plan-4 HN1 0.020
-CMV plan-4 N1  0.020
-CMV plan-5 CAL 0.020
-CMV plan-5 CAM 0.020
-CMV plan-5 N1  0.020
-CMV plan-5 OAV 0.020
-CMV plan-6 CAE 0.020
-CMV plan-6 CAQ 0.020
-CMV plan-6 NAG 0.020
-CMV plan-6 NAN 0.020
-CMV plan-7 CAE 0.020
-CMV plan-7 CAI 0.020
-CMV plan-7 NAG 0.020
-CMV plan-7 OAS 0.020
-CMV plan-8 CAI 0.020
-CMV plan-8 CAU 0.020
-CMV plan-8 CBB 0.020
-CMV plan-8 NAO 0.020
-CMV plan-9 CAE 0.020
-CMV plan-9 CAI 0.020
-CMV plan-9 NAO 0.020
-CMV plan-9 OAT 0.020
-
+CMV    plan-1         CAM   0.020
+CMV    plan-1         CAW   0.020
+CMV    plan-1         CBC   0.020
+CMV    plan-1         CBD   0.020
+CMV    plan-1         CBF   0.020
+CMV    plan-1         CBG   0.020
+CMV    plan-1         CBH   0.020
+CMV    plan-1         HBC   0.020
+CMV    plan-1         HBD   0.020
+CMV    plan-1         HBF   0.020
+CMV    plan-1         HBG   0.020
+CMV    plan-1         HBH   0.020
+CMV    plan-2         C12   0.020
+CMV    plan-2          C2   0.020
+CMV    plan-2          O1   0.020
+CMV    plan-2          O2   0.020
+CMV    plan-3         C14   0.020
+CMV    plan-3         C15   0.020
+CMV    plan-3         H15   0.020
+CMV    plan-3          O4   0.020
+CMV    plan-4         C14   0.020
+CMV    plan-4         CAL   0.020
+CMV    plan-4         HN1   0.020
+CMV    plan-4          N1   0.020
+CMV    plan-5         CAL   0.020
+CMV    plan-5         CAM   0.020
+CMV    plan-5          N1   0.020
+CMV    plan-5         OAV   0.020
+CMV    plan-6         CAE   0.020
+CMV    plan-6         CAQ   0.020
+CMV    plan-6         NAG   0.020
+CMV    plan-6         NAN   0.020
+CMV    plan-7         CAE   0.020
+CMV    plan-7         CAI   0.020
+CMV    plan-7         NAG   0.020
+CMV    plan-7         OAS   0.020
+CMV    plan-8         CAI   0.020
+CMV    plan-8         CAU   0.020
+CMV    plan-8         CBB   0.020
+CMV    plan-8         NAO   0.020
+CMV    plan-9         CAE   0.020
+CMV    plan-9         CAI   0.020
+CMV    plan-9         NAO   0.020
+CMV    plan-9         OAT   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-CMV SMILES           ACDLabs              10.04 O=C(NC(C=O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NN3C(=O)C(=O)N(CC)CC3
-CMV SMILES_CANONICAL CACTVS               3.341 CCN1CCN(N[C@@H](C(=O)N[C@H](C=O)[C@@H]2N[C@@H](C(O)=O)C(C)(C)S2)c3ccccc3)C(=O)C1=O
-CMV SMILES           CACTVS               3.341 CCN1CCN(N[CH](C(=O)N[CH](C=O)[CH]2N[CH](C(O)=O)C(C)(C)S2)c3ccccc3)C(=O)C1=O
-CMV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCN1CCN(C(=O)C1=O)N[C@H](c2ccccc2)C(=O)N[C@H](C=O)[C@@H]3N[C@H](C(S3)(C)C)C(=O)O
-CMV SMILES           "OpenEye OEToolkits" 1.5.0 CCN1CCN(C(=O)C1=O)NC(c2ccccc2)C(=O)NC(C=O)C3NC(C(S3)(C)C)C(=O)O
-CMV InChI            InChI                1.03  InChI=1S/C22H29N5O6S/c1-4-26-10-11-27(20(31)19(26)30)25-15(13-8-6-5-7-9-13)17(29)23-14(12-28)18-24-16(21(32)33)22(2,3)34-18/h5-9,12,14-16,18,24-25H,4,10-11H2,1-3H3,(H,23,29)(H,32,33)/t14-,15-,16+,18-/m1/s1
-CMV InChIKey         InChI                1.03  FLMJTSOTBGMFLJ-XLMAVXFVSA-N
-
+CMV           SMILES              ACDLabs 10.04                                                                                                                                             O=C(NC(C=O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NN3C(=O)C(=O)N(CC)CC3
+CMV SMILES_CANONICAL               CACTVS 3.341                                                                                                                            CCN1CCN(N[C@@H](C(=O)N[C@H](C=O)[C@@H]2N[C@@H](C(O)=O)C(C)(C)S2)c3ccccc3)C(=O)C1=O
+CMV           SMILES               CACTVS 3.341                                                                                                                                   CCN1CCN(N[CH](C(=O)N[CH](C=O)[CH]2N[CH](C(O)=O)C(C)(C)S2)c3ccccc3)C(=O)C1=O
+CMV SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                              CCN1CCN(C(=O)C1=O)N[C@H](c2ccccc2)C(=O)N[C@H](C=O)[C@@H]3N[C@H](C(S3)(C)C)C(=O)O
+CMV           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                               CCN1CCN(C(=O)C1=O)NC(c2ccccc2)C(=O)NC(C=O)C3NC(C(S3)(C)C)C(=O)O
+CMV            InChI                InChI  1.03 InChI=1S/C22H29N5O6S/c1-4-26-10-11-27(20(31)19(26)30)25-15(13-8-6-5-7-9-13)17(29)23-14(12-28)18-24-16(21(32)33)22(2,3)34-18/h5-9,12,14-16,18,24-25H,4,10-11H2,1-3H3,(H,23,29)(H,32,33)/t14-,15-,16+,18-/m1/s1
+CMV         InChIKey                InChI  1.03                                                                                                                                                                                   FLMJTSOTBGMFLJ-XLMAVXFVSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-CMV acedrg          243       "dictionary generator"
-CMV acedrg_database 11        "data source"
-CMV rdkit           2017.03.2 "Chemoinformatics tool"
-CMV refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-CMV M-peptide O2  O
-CMV M-peptide C2  C
-CMV M-peptide C12 CA
-CMV M-peptide N3  N
-CMV M-peptide C13 CN
-CMV M-peptide O1  OXT
-CMV M-peptide HN3 H
+CMV acedrg               243         "dictionary generator"                  
+CMV acedrg_database      11          "data source"                           
+CMV rdkit                2017.03.2   "Chemoinformatics tool"
+CMV refmac5              5.8.0238    "optimization tool"                     

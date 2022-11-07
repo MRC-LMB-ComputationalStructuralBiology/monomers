@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-WJZ WJZ TIOPRONIN NON-POLYMER 18 10 .
-
+WJZ     WJZ      TIOPRONIN     NON-POLYMER     18     10     .     
+#
 data_comp_WJZ
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,25 +21,24 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-WJZ C01  C CH3  0  12.142 56.977 -5.536
-WJZ N01  N NH1  0  13.586 54.581 -7.701
-WJZ O01  O OC   -1 12.195 51.507 -7.965
-WJZ S01  S SH1  0  14.800 56.736 -4.889
-WJZ C02  C CH1  0  13.328 56.051 -5.700
-WJZ O02  O O    0  14.363 51.801 -8.335
-WJZ C03  C C    0  13.643 55.812 -7.177
-WJZ O03  O O    0  13.951 56.789 -7.857
-WJZ C04  C CH2  0  13.248 53.381 -6.962
-WJZ C05  C C    0  13.271 52.122 -7.827
-WJZ H01  H H    0  11.671 57.068 -6.383
-WJZ H01A H H    0  12.449 57.853 -5.243
-WJZ H01B H H    0  11.536 56.609 -4.869
-WJZ HN01 H H    0  13.768 54.503 -8.554
-WJZ HS01 H HSH1 0  15.147 57.481 -5.776
-WJZ H02  H H    0  13.114 55.200 -5.264
-WJZ H04  H H    0  12.354 53.478 -6.580
-WJZ H04A H H    0  13.884 53.264 -6.229
-
+WJZ     C01     C       CH3     0       12.142      56.977      -5.536      
+WJZ     N01     N       NH1     0       13.586      54.581      -7.701      
+WJZ     O01     O       OC      -1      12.195      51.507      -7.965      
+WJZ     S01     S       SH1     0       14.800      56.736      -4.889      
+WJZ     C02     C       CH1     0       13.328      56.051      -5.700      
+WJZ     O02     O       O       0       14.363      51.801      -8.335      
+WJZ     C03     C       C       0       13.643      55.812      -7.177      
+WJZ     O03     O       O       0       13.951      56.789      -7.857      
+WJZ     C04     C       CH2     0       13.248      53.381      -6.962      
+WJZ     C05     C       C       0       13.271      52.122      -7.827      
+WJZ     H01     H       H       0       11.671      57.068      -6.383      
+WJZ     H01A    H       H       0       12.449      57.853      -5.243      
+WJZ     H01B    H       H       0       11.536      56.609      -4.869      
+WJZ     HN01    H       H       0       13.768      54.503      -8.554      
+WJZ     HS01    H       HSH1    0       15.147      57.481      -5.776      
+WJZ     H02     H       H       0       13.114      55.200      -5.264      
+WJZ     H04     H       H       0       12.354      53.478      -6.580      
+WJZ     H04A    H       H       0       13.884      53.264      -6.229      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -48,24 +49,23 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-WJZ C01 C02  SINGLE n 1.510 0.0153 1.510 0.0153
-WJZ N01 C03  SINGLE n 1.331 0.0100 1.331 0.0100
-WJZ N01 C04  SINGLE n 1.445 0.0100 1.445 0.0100
-WJZ O01 C05  SINGLE n 1.247 0.0187 1.247 0.0187
-WJZ S01 C02  SINGLE n 1.815 0.0109 1.815 0.0109
-WJZ C02 C03  SINGLE n 1.524 0.0100 1.524 0.0100
-WJZ O02 C05  DOUBLE n 1.247 0.0187 1.247 0.0187
-WJZ C03 O03  DOUBLE n 1.229 0.0102 1.229 0.0102
-WJZ C04 C05  SINGLE n 1.527 0.0103 1.527 0.0103
-WJZ C01 H01  SINGLE n 1.089 0.0100 0.973 0.0141
-WJZ C01 H01A SINGLE n 1.089 0.0100 0.973 0.0141
-WJZ C01 H01B SINGLE n 1.089 0.0100 0.973 0.0141
-WJZ N01 HN01 SINGLE n 1.016 0.0100 0.873 0.0200
-WJZ S01 HS01 SINGLE n 1.338 0.0100 1.209 0.0200
-WJZ C02 H02  SINGLE n 1.089 0.0100 0.987 0.0181
-WJZ C04 H04  SINGLE n 1.089 0.0100 0.977 0.0124
-WJZ C04 H04A SINGLE n 1.089 0.0100 0.977 0.0124
-
+WJZ         C01         C02      SINGLE       n     1.510  0.0153     1.510  0.0153
+WJZ         N01         C03      SINGLE       n     1.331  0.0100     1.331  0.0100
+WJZ         N01         C04      SINGLE       n     1.445  0.0100     1.445  0.0100
+WJZ         O01         C05      SINGLE       n     1.247  0.0187     1.247  0.0187
+WJZ         S01         C02      SINGLE       n     1.815  0.0109     1.815  0.0109
+WJZ         C02         C03      SINGLE       n     1.524  0.0100     1.524  0.0100
+WJZ         O02         C05      DOUBLE       n     1.247  0.0187     1.247  0.0187
+WJZ         C03         O03      DOUBLE       n     1.229  0.0102     1.229  0.0102
+WJZ         C04         C05      SINGLE       n     1.527  0.0103     1.527  0.0103
+WJZ         C01         H01      SINGLE       n     1.089  0.0100     0.973  0.0141
+WJZ         C01        H01A      SINGLE       n     1.089  0.0100     0.973  0.0141
+WJZ         C01        H01B      SINGLE       n     1.089  0.0100     0.973  0.0141
+WJZ         N01        HN01      SINGLE       n     1.016  0.0100     0.873  0.0200
+WJZ         S01        HS01      SINGLE       n     1.338  0.0100     1.209  0.0200
+WJZ         C02         H02      SINGLE       n     1.089  0.0100     0.987  0.0181
+WJZ         C04         H04      SINGLE       n     1.089  0.0100     0.977  0.0124
+WJZ         C04        H04A      SINGLE       n     1.089  0.0100     0.977  0.0124
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -73,35 +73,34 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-WJZ C02  C01 H01  109.493 1.50
-WJZ C02  C01 H01A 109.493 1.50
-WJZ C02  C01 H01B 109.493 1.50
-WJZ H01  C01 H01A 109.455 1.50
-WJZ H01  C01 H01B 109.455 1.50
-WJZ H01A C01 H01B 109.455 1.50
-WJZ C03  N01 C04  121.722 1.54
-WJZ C03  N01 HN01 118.975 1.94
-WJZ C04  N01 HN01 119.304 1.57
-WJZ C02  S01 HS01 97.885  3.00
-WJZ C01  C02 S01  112.239 3.00
-WJZ C01  C02 C03  110.867 1.77
-WJZ C01  C02 H02  109.365 1.50
-WJZ S01  C02 C03  111.968 3.00
-WJZ S01  C02 H02  109.066 1.50
-WJZ C03  C02 H02  108.874 1.53
-WJZ N01  C03 C02  117.196 1.50
-WJZ N01  C03 O03  122.994 1.50
-WJZ C02  C03 O03  119.810 1.84
-WJZ N01  C04 C05  112.537 1.50
-WJZ N01  C04 H04  109.066 1.50
-WJZ N01  C04 H04A 109.066 1.50
-WJZ C05  C04 H04  108.590 1.50
-WJZ C05  C04 H04A 108.590 1.50
-WJZ H04  C04 H04A 107.999 1.50
-WJZ O01  C05 O02  125.722 1.50
-WJZ O01  C05 C04  117.139 1.80
-WJZ O02  C05 C04  117.139 1.80
-
+WJZ         C02         C01         H01     109.493    1.50
+WJZ         C02         C01        H01A     109.493    1.50
+WJZ         C02         C01        H01B     109.493    1.50
+WJZ         H01         C01        H01A     109.455    1.50
+WJZ         H01         C01        H01B     109.455    1.50
+WJZ        H01A         C01        H01B     109.455    1.50
+WJZ         C03         N01         C04     121.722    1.54
+WJZ         C03         N01        HN01     118.975    1.94
+WJZ         C04         N01        HN01     119.304    1.57
+WJZ         C02         S01        HS01      97.885    3.00
+WJZ         C01         C02         S01     112.239    3.00
+WJZ         C01         C02         C03     110.867    1.77
+WJZ         C01         C02         H02     109.365    1.50
+WJZ         S01         C02         C03     111.968    3.00
+WJZ         S01         C02         H02     109.066    1.50
+WJZ         C03         C02         H02     108.874    1.53
+WJZ         N01         C03         C02     117.196    1.50
+WJZ         N01         C03         O03     122.994    1.50
+WJZ         C02         C03         O03     119.810    1.84
+WJZ         N01         C04         C05     112.537    1.50
+WJZ         N01         C04         H04     109.066    1.50
+WJZ         N01         C04        H04A     109.066    1.50
+WJZ         C05         C04         H04     108.590    1.50
+WJZ         C05         C04        H04A     108.590    1.50
+WJZ         H04         C04        H04A     107.999    1.50
+WJZ         O01         C05         O02     125.722    1.50
+WJZ         O01         C05         C04     117.139    1.80
+WJZ         O02         C05         C04     117.139    1.80
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -112,13 +111,12 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-WJZ sp3_sp3_1  H01 C01 C02 S01  180.000 10.0 3
-WJZ sp2_sp2_1  C02 C03 N01 C04  180.000 5.0  2
-WJZ sp2_sp3_2  C03 N01 C04 C05  120.000 10.0 6
-WJZ sp3_sp3_10 C01 C02 S01 HS01 180.000 10.0 3
-WJZ sp2_sp3_7  N01 C03 C02 C01  0.000   10.0 6
-WJZ sp2_sp3_14 O01 C05 C04 N01  120.000 10.0 6
-
+WJZ             sp3_sp3_1         H01         C01         C02         S01     180.000    10.0     3
+WJZ             sp2_sp2_1         C02         C03         N01         C04     180.000     5.0     2
+WJZ             sp2_sp3_2         C03         N01         C04         C05     120.000    10.0     6
+WJZ            sp3_sp3_10         C01         C02         S01        HS01     180.000    10.0     3
+WJZ             sp2_sp3_7         N01         C03         C02         C01       0.000    10.0     6
+WJZ            sp2_sp3_14         O01         C05         C04         N01     120.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -127,58 +125,42 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-WJZ chir_1 C02 S01 C03 C01 positive
-
+WJZ    chir_1    C02    S01    C03    C01    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-WJZ plan-1 C03  0.020
-WJZ plan-1 C04  0.020
-WJZ plan-1 HN01 0.020
-WJZ plan-1 N01  0.020
-WJZ plan-2 C02  0.020
-WJZ plan-2 C03  0.020
-WJZ plan-2 N01  0.020
-WJZ plan-2 O03  0.020
-WJZ plan-3 C04  0.020
-WJZ plan-3 C05  0.020
-WJZ plan-3 O01  0.020
-WJZ plan-3 O02  0.020
-
+WJZ    plan-1         C03   0.020
+WJZ    plan-1         C04   0.020
+WJZ    plan-1        HN01   0.020
+WJZ    plan-1         N01   0.020
+WJZ    plan-2         C02   0.020
+WJZ    plan-2         C03   0.020
+WJZ    plan-2         N01   0.020
+WJZ    plan-2         O03   0.020
+WJZ    plan-3         C04   0.020
+WJZ    plan-3         C05   0.020
+WJZ    plan-3         O01   0.020
+WJZ    plan-3         O02   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-WJZ InChI            InChI                1.03  InChI=1S/C5H9NO3S/c1-3(10)5(9)6-2-4(7)8/h3,10H,2H2,1H3,(H,6,9)(H,7,8)/t3-/m0/s1
-WJZ InChIKey         InChI                1.03  YTGJWQPHMWSCST-VKHMYHEASA-N
-WJZ SMILES_CANONICAL CACTVS               3.385 C[C@H](S)C(=O)NCC(O)=O
-WJZ SMILES           CACTVS               3.385 C[CH](S)C(=O)NCC(O)=O
-WJZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C[C@@H](C(=O)NCC(=O)O)S
-WJZ SMILES           "OpenEye OEToolkits" 1.7.6 CC(C(=O)NCC(=O)O)S
-
+WJZ            InChI                InChI  1.03 InChI=1S/C5H9NO3S/c1-3(10)5(9)6-2-4(7)8/h3,10H,2H2,1H3,(H,6,9)(H,7,8)/t3-/m0/s1
+WJZ         InChIKey                InChI  1.03                                                     YTGJWQPHMWSCST-VKHMYHEASA-N
+WJZ SMILES_CANONICAL               CACTVS 3.385                                                          C[C@H](S)C(=O)NCC(O)=O
+WJZ           SMILES               CACTVS 3.385                                                           C[CH](S)C(=O)NCC(O)=O
+WJZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                         C[C@@H](C(=O)NCC(=O)O)S
+WJZ           SMILES "OpenEye OEToolkits" 1.7.6                                                              CC(C(=O)NCC(=O)O)S
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-WJZ acedrg          243       "dictionary generator"
-WJZ acedrg_database 11        "data source"
-WJZ rdkit           2017.03.2 "Chemoinformatics tool"
-WJZ refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-WJZ M-peptide O02  O
-WJZ M-peptide C05  C
-WJZ M-peptide C04  CA
-WJZ M-peptide N01  N
-WJZ M-peptide C03  CN
-WJZ M-peptide O01  OXT
-WJZ M-peptide HN01 H
+WJZ acedrg               243         "dictionary generator"                  
+WJZ acedrg_database      11          "data source"                           
+WJZ rdkit                2017.03.2   "Chemoinformatics tool"
+WJZ refmac5              5.8.0238    "optimization tool"                     

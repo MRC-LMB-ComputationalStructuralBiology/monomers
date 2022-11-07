@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-5ZZ 5ZZ "(2~{R},4~{R})-2,5,5-trimethyl-1,3-thiazolidine-2,4-dicarboxylic acid" NON-POLYMER 25 14 .
-
+5ZZ     5ZZ      "(2~{R},4~{R})-2,5,5-trimethyl-1,3-thiazolidine-2,4-dicarboxylic acid"     NON-POLYMER     25     14     .     
+#
 data_comp_5ZZ
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,32 +21,31 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-5ZZ C2  C CT  0  44.931 5.650 11.631
-5ZZ C4  C CH1 0  46.701 6.893 12.749
-5ZZ C5  C CT  0  46.273 5.974 13.928
-5ZZ S1  S S2  0  44.639 5.287 13.390
-5ZZ O42 O O   0  48.959 6.512 12.143
-5ZZ C4A C C   0  48.199 7.248 12.753
-5ZZ O41 O OC  -1 48.521 8.247 13.371
-5ZZ N3  N NT1 0  46.328 6.109 11.568
-5ZZ C2B C CH3 0  43.980 6.727 11.147
-5ZZ C2A C C   0  44.707 4.372 10.812
-5ZZ O21 O OC  -1 43.653 3.773 10.944
-5ZZ O22 O O   0  45.575 3.985 10.046
-5ZZ C5A C CH3 0  46.061 6.774 15.205
-5ZZ C5B C CH3 0  47.209 4.805 14.187
-5ZZ H1  H H   0  46.170 7.729 12.761
-5ZZ H3  H H   0  46.538 6.566 10.833
-5ZZ H5  H H   0  44.065 7.511 11.711
-5ZZ H6  H H   0  43.069 6.398 11.188
-5ZZ H7  H H   0  44.198 6.962 10.232
-5ZZ H9  H H   0  46.605 7.579 15.179
-5ZZ H10 H H   0  46.318 6.240 15.975
-5ZZ H11 H H   0  45.126 7.023 15.286
-5ZZ H12 H H   0  47.500 4.428 13.341
-5ZZ H13 H H   0  46.744 4.125 14.701
-5ZZ H14 H H   0  47.983 5.113 14.687
-
+5ZZ     C2      C       CT      0       44.931      5.650       11.631      
+5ZZ     C4      C       CH1     0       46.701      6.893       12.749      
+5ZZ     C5      C       CT      0       46.273      5.974       13.928      
+5ZZ     S1      S       S2      0       44.639      5.287       13.390      
+5ZZ     O42     O       O       0       48.959      6.512       12.143      
+5ZZ     C4A     C       C       0       48.199      7.248       12.753      
+5ZZ     O41     O       OC      -1      48.521      8.247       13.371      
+5ZZ     N3      N       NT1     0       46.328      6.109       11.568      
+5ZZ     C2B     C       CH3     0       43.980      6.727       11.147      
+5ZZ     C2A     C       C       0       44.707      4.372       10.812      
+5ZZ     O21     O       OC      -1      43.653      3.773       10.944      
+5ZZ     O22     O       O       0       45.575      3.985       10.046      
+5ZZ     C5A     C       CH3     0       46.061      6.774       15.205      
+5ZZ     C5B     C       CH3     0       47.209      4.805       14.187      
+5ZZ     H1      H       H       0       46.170      7.729       12.761      
+5ZZ     H3      H       H       0       46.538      6.566       10.833      
+5ZZ     H5      H       H       0       44.065      7.511       11.711      
+5ZZ     H6      H       H       0       43.069      6.398       11.188      
+5ZZ     H7      H       H       0       44.198      6.962       10.232      
+5ZZ     H9      H       H       0       46.605      7.579       15.179      
+5ZZ     H10     H       H       0       46.318      6.240       15.975      
+5ZZ     H11     H       H       0       45.126      7.023       15.286      
+5ZZ     H12     H       H       0       47.500      4.428       13.341      
+5ZZ     H13     H       H       0       46.744      4.125       14.701      
+5ZZ     H14     H       H       0       47.983      5.113       14.687      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -55,32 +56,31 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-5ZZ C2A O22 DOUBLE n 1.218 0.0200 1.218 0.0200
-5ZZ C2A O21 SINGLE n 1.218 0.0200 1.218 0.0200
-5ZZ C2  C2A SINGLE n 1.525 0.0200 1.525 0.0200
-5ZZ C2  N3  SINGLE n 1.469 0.0140 1.469 0.0140
-5ZZ C4  N3  SINGLE n 1.463 0.0119 1.463 0.0119
-5ZZ C2  C2B SINGLE n 1.515 0.0100 1.515 0.0100
-5ZZ C2  S1  SINGLE n 1.818 0.0200 1.818 0.0200
-5ZZ O42 C4A DOUBLE n 1.218 0.0200 1.218 0.0200
-5ZZ C4  C4A SINGLE n 1.536 0.0100 1.536 0.0100
-5ZZ C4  C5  SINGLE n 1.549 0.0160 1.549 0.0160
-5ZZ C4A O41 SINGLE n 1.218 0.0200 1.218 0.0200
-5ZZ C5  S1  SINGLE n 1.851 0.0113 1.851 0.0113
-5ZZ C5  C5B SINGLE n 1.518 0.0100 1.518 0.0100
-5ZZ C5  C5A SINGLE n 1.518 0.0100 1.518 0.0100
-5ZZ C4  H1  SINGLE n 1.089 0.0100 0.990 0.0121
-5ZZ N3  H3  SINGLE n 1.036 0.0160 0.889 0.0200
-5ZZ C2B H5  SINGLE n 1.089 0.0100 0.970 0.0163
-5ZZ C2B H6  SINGLE n 1.089 0.0100 0.970 0.0163
-5ZZ C2B H7  SINGLE n 1.089 0.0100 0.970 0.0163
-5ZZ C5A H9  SINGLE n 1.089 0.0100 0.971 0.0169
-5ZZ C5A H10 SINGLE n 1.089 0.0100 0.971 0.0169
-5ZZ C5A H11 SINGLE n 1.089 0.0100 0.971 0.0169
-5ZZ C5B H12 SINGLE n 1.089 0.0100 0.971 0.0169
-5ZZ C5B H13 SINGLE n 1.089 0.0100 0.971 0.0169
-5ZZ C5B H14 SINGLE n 1.089 0.0100 0.971 0.0169
-
+5ZZ         C2A         O22      DOUBLE       n     1.218  0.0200     1.218  0.0200
+5ZZ         C2A         O21      SINGLE       n     1.218  0.0200     1.218  0.0200
+5ZZ          C2         C2A      SINGLE       n     1.525  0.0200     1.525  0.0200
+5ZZ          C2          N3      SINGLE       n     1.469  0.0140     1.469  0.0140
+5ZZ          C4          N3      SINGLE       n     1.463  0.0119     1.463  0.0119
+5ZZ          C2         C2B      SINGLE       n     1.515  0.0100     1.515  0.0100
+5ZZ          C2          S1      SINGLE       n     1.818  0.0200     1.818  0.0200
+5ZZ         O42         C4A      DOUBLE       n     1.218  0.0200     1.218  0.0200
+5ZZ          C4         C4A      SINGLE       n     1.536  0.0100     1.536  0.0100
+5ZZ          C4          C5      SINGLE       n     1.549  0.0160     1.549  0.0160
+5ZZ         C4A         O41      SINGLE       n     1.218  0.0200     1.218  0.0200
+5ZZ          C5          S1      SINGLE       n     1.851  0.0113     1.851  0.0113
+5ZZ          C5         C5B      SINGLE       n     1.518  0.0100     1.518  0.0100
+5ZZ          C5         C5A      SINGLE       n     1.518  0.0100     1.518  0.0100
+5ZZ          C4          H1      SINGLE       n     1.089  0.0100     0.990  0.0121
+5ZZ          N3          H3      SINGLE       n     1.036  0.0160     0.889  0.0200
+5ZZ         C2B          H5      SINGLE       n     1.089  0.0100     0.970  0.0163
+5ZZ         C2B          H6      SINGLE       n     1.089  0.0100     0.970  0.0163
+5ZZ         C2B          H7      SINGLE       n     1.089  0.0100     0.970  0.0163
+5ZZ         C5A          H9      SINGLE       n     1.089  0.0100     0.971  0.0169
+5ZZ         C5A         H10      SINGLE       n     1.089  0.0100     0.971  0.0169
+5ZZ         C5A         H11      SINGLE       n     1.089  0.0100     0.971  0.0169
+5ZZ         C5B         H12      SINGLE       n     1.089  0.0100     0.971  0.0169
+5ZZ         C5B         H13      SINGLE       n     1.089  0.0100     0.971  0.0169
+5ZZ         C5B         H14      SINGLE       n     1.089  0.0100     0.971  0.0169
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -88,53 +88,52 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-5ZZ C2A C2  N3  111.420 2.45
-5ZZ C2A C2  C2B 109.981 2.26
-5ZZ C2A C2  S1  109.553 3.00
-5ZZ N3  C2  C2B 111.633 2.37
-5ZZ N3  C2  S1  104.726 1.50
-5ZZ C2B C2  S1  111.156 2.31
-5ZZ N3  C4  C4A 111.420 2.45
-5ZZ N3  C4  C5  103.104 2.01
-5ZZ N3  C4  H1  109.296 1.50
-5ZZ C4A C4  C5  112.424 2.46
-5ZZ C4A C4  H1  110.011 1.50
-5ZZ C5  C4  H1  110.594 1.50
-5ZZ C4  C5  S1  107.036 2.68
-5ZZ C4  C5  C5B 113.745 2.48
-5ZZ C4  C5  C5A 113.745 2.48
-5ZZ S1  C5  C5B 108.982 1.53
-5ZZ S1  C5  C5A 108.982 1.53
-5ZZ C5B C5  C5A 110.924 1.50
-5ZZ C2  S1  C5  92.264  3.00
-5ZZ O42 C4A C4  117.013 1.95
-5ZZ O42 C4A O41 125.975 1.50
-5ZZ C4  C4A O41 117.013 1.95
-5ZZ C2  N3  C4  109.056 3.00
-5ZZ C2  N3  H3  114.884 3.00
-5ZZ C4  N3  H3  109.307 3.00
-5ZZ C2  C2B H5  109.455 1.50
-5ZZ C2  C2B H6  109.455 1.50
-5ZZ C2  C2B H7  109.455 1.50
-5ZZ H5  C2B H6  109.471 1.50
-5ZZ H5  C2B H7  109.471 1.50
-5ZZ H6  C2B H7  109.471 1.50
-5ZZ O22 C2A O21 122.267 1.50
-5ZZ O22 C2A C2  118.867 2.73
-5ZZ O21 C2A C2  118.867 2.73
-5ZZ C5  C5A H9  109.457 1.50
-5ZZ C5  C5A H10 109.457 1.50
-5ZZ C5  C5A H11 109.457 1.50
-5ZZ H9  C5A H10 109.486 1.50
-5ZZ H9  C5A H11 109.486 1.50
-5ZZ H10 C5A H11 109.486 1.50
-5ZZ C5  C5B H12 109.457 1.50
-5ZZ C5  C5B H13 109.457 1.50
-5ZZ C5  C5B H14 109.457 1.50
-5ZZ H12 C5B H13 109.486 1.50
-5ZZ H12 C5B H14 109.486 1.50
-5ZZ H13 C5B H14 109.486 1.50
-
+5ZZ         C2A          C2          N3     111.420    2.45
+5ZZ         C2A          C2         C2B     109.981    2.26
+5ZZ         C2A          C2          S1     109.553    3.00
+5ZZ          N3          C2         C2B     111.633    2.37
+5ZZ          N3          C2          S1     104.726    1.50
+5ZZ         C2B          C2          S1     111.156    2.31
+5ZZ          N3          C4         C4A     111.420    2.45
+5ZZ          N3          C4          C5     103.104    2.01
+5ZZ          N3          C4          H1     109.296    1.50
+5ZZ         C4A          C4          C5     112.424    2.46
+5ZZ         C4A          C4          H1     110.011    1.50
+5ZZ          C5          C4          H1     110.594    1.50
+5ZZ          C4          C5          S1     107.036    2.68
+5ZZ          C4          C5         C5B     113.745    2.48
+5ZZ          C4          C5         C5A     113.745    2.48
+5ZZ          S1          C5         C5B     108.982    1.53
+5ZZ          S1          C5         C5A     108.982    1.53
+5ZZ         C5B          C5         C5A     110.924    1.50
+5ZZ          C2          S1          C5      92.264    3.00
+5ZZ         O42         C4A          C4     117.013    1.95
+5ZZ         O42         C4A         O41     125.975    1.50
+5ZZ          C4         C4A         O41     117.013    1.95
+5ZZ          C2          N3          C4     109.056    3.00
+5ZZ          C2          N3          H3     114.884    3.00
+5ZZ          C4          N3          H3     109.307    3.00
+5ZZ          C2         C2B          H5     109.455    1.50
+5ZZ          C2         C2B          H6     109.455    1.50
+5ZZ          C2         C2B          H7     109.455    1.50
+5ZZ          H5         C2B          H6     109.471    1.50
+5ZZ          H5         C2B          H7     109.471    1.50
+5ZZ          H6         C2B          H7     109.471    1.50
+5ZZ         O22         C2A         O21     122.267    1.50
+5ZZ         O22         C2A          C2     118.867    2.73
+5ZZ         O21         C2A          C2     118.867    2.73
+5ZZ          C5         C5A          H9     109.457    1.50
+5ZZ          C5         C5A         H10     109.457    1.50
+5ZZ          C5         C5A         H11     109.457    1.50
+5ZZ          H9         C5A         H10     109.486    1.50
+5ZZ          H9         C5A         H11     109.486    1.50
+5ZZ         H10         C5A         H11     109.486    1.50
+5ZZ          C5         C5B         H12     109.457    1.50
+5ZZ          C5         C5B         H13     109.457    1.50
+5ZZ          C5         C5B         H14     109.457    1.50
+5ZZ         H12         C5B         H13     109.486    1.50
+5ZZ         H12         C5B         H14     109.486    1.50
+5ZZ         H13         C5B         H14     109.486    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -145,17 +144,16 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-5ZZ sp3_sp3_35 C2A C2  S1  C5  60.000  10.0 3
-5ZZ sp3_sp3_3  C2A C2  N3  C4  -60.000 10.0 3
-5ZZ sp3_sp3_25 C2A C2  C2B H5  180.000 10.0 3
-5ZZ sp2_sp3_2  O22 C2A C2  C2B 120.000 10.0 6
-5ZZ sp3_sp3_17 C4A C4  C5  C5B 60.000  10.0 3
-5ZZ sp2_sp3_7  O42 C4A C4  N3  0.000   10.0 6
-5ZZ sp3_sp3_9  C4A C4  N3  C2  180.000 10.0 3
-5ZZ sp3_sp3_52 C5B C5  C5A H9  -60.000 10.0 3
-5ZZ sp3_sp3_43 C5A C5  C5B H12 -60.000 10.0 3
-5ZZ sp3_sp3_24 C5B C5  S1  C2  60.000  10.0 3
-
+5ZZ            sp3_sp3_35         C2A          C2          S1          C5      60.000    10.0     3
+5ZZ             sp3_sp3_3         C2A          C2          N3          C4     -60.000    10.0     3
+5ZZ            sp3_sp3_25         C2A          C2         C2B          H5     180.000    10.0     3
+5ZZ             sp2_sp3_2         O22         C2A          C2         C2B     120.000    10.0     6
+5ZZ            sp3_sp3_17         C4A          C4          C5         C5B      60.000    10.0     3
+5ZZ             sp2_sp3_7         O42         C4A          C4          N3       0.000    10.0     6
+5ZZ             sp3_sp3_9         C4A          C4          N3          C2     180.000    10.0     3
+5ZZ            sp3_sp3_52         C5B          C5         C5A          H9     -60.000    10.0     3
+5ZZ            sp3_sp3_43         C5A          C5         C5B         H12     -60.000    10.0     3
+5ZZ            sp3_sp3_24         C5B          C5          S1          C2      60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -164,57 +162,41 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-5ZZ chir_1 C2 S1 N3 C2A negative
-5ZZ chir_2 C4 N3 C5 C4A negative
-5ZZ chir_3 C5 S1 C4 C5B both
-5ZZ chir_4 N3 C2 C4 H3  both
-
+5ZZ    chir_1    C2    S1    N3    C2A    negative
+5ZZ    chir_2    C4    N3    C5    C4A    negative
+5ZZ    chir_3    C5    S1    C4    C5B    both
+5ZZ    chir_4    N3    C2    C4    H3    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-5ZZ plan-1 C4  0.020
-5ZZ plan-1 C4A 0.020
-5ZZ plan-1 O41 0.020
-5ZZ plan-1 O42 0.020
-5ZZ plan-2 C2  0.020
-5ZZ plan-2 C2A 0.020
-5ZZ plan-2 O21 0.020
-5ZZ plan-2 O22 0.020
-
+5ZZ    plan-1          C4   0.020
+5ZZ    plan-1         C4A   0.020
+5ZZ    plan-1         O41   0.020
+5ZZ    plan-1         O42   0.020
+5ZZ    plan-2          C2   0.020
+5ZZ    plan-2         C2A   0.020
+5ZZ    plan-2         O21   0.020
+5ZZ    plan-2         O22   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-5ZZ InChI            InChI                1.03  InChI=1S/C8H13NO4S/c1-7(2)4(5(10)11)9-8(3,14-7)6(12)13/h4,9H,1-3H3,(H,10,11)(H,12,13)/t4-,8-/m1/s1
-5ZZ InChIKey         InChI                1.03  VYZKCSMVPAWSBH-SPGJFGJESA-N
-5ZZ SMILES_CANONICAL CACTVS               3.385 CC1(C)S[C@@](C)(N[C@@H]1C(O)=O)C(O)=O
-5ZZ SMILES           CACTVS               3.385 CC1(C)S[C](C)(N[CH]1C(O)=O)C(O)=O
-5ZZ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4 C[C@]1(N[C@@H](C(S1)(C)C)C(=O)O)C(=O)O
-5ZZ SMILES           "OpenEye OEToolkits" 2.0.4 CC1(C(NC(S1)(C)C(=O)O)C(=O)O)C
-
+5ZZ            InChI                InChI  1.03 InChI=1S/C8H13NO4S/c1-7(2)4(5(10)11)9-8(3,14-7)6(12)13/h4,9H,1-3H3,(H,10,11)(H,12,13)/t4-,8-/m1/s1
+5ZZ         InChIKey                InChI  1.03                                                                        VYZKCSMVPAWSBH-SPGJFGJESA-N
+5ZZ SMILES_CANONICAL               CACTVS 3.385                                                              CC1(C)S[C@@](C)(N[C@@H]1C(O)=O)C(O)=O
+5ZZ           SMILES               CACTVS 3.385                                                                  CC1(C)S[C](C)(N[CH]1C(O)=O)C(O)=O
+5ZZ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4                                                             C[C@]1(N[C@@H](C(S1)(C)C)C(=O)O)C(=O)O
+5ZZ           SMILES "OpenEye OEToolkits" 2.0.4                                                                     CC1(C(NC(S1)(C)C(=O)O)C(=O)O)C
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-5ZZ acedrg          243       "dictionary generator"
-5ZZ acedrg_database 11        "data source"
-5ZZ rdkit           2017.03.2 "Chemoinformatics tool"
-5ZZ refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-5ZZ M-peptide O42 O
-5ZZ M-peptide C4A C
-5ZZ M-peptide C4  CA
-5ZZ M-peptide N3  N
-5ZZ M-peptide C2  CN
-5ZZ M-peptide O41 OXT
-5ZZ M-peptide H3  H
+5ZZ acedrg               243         "dictionary generator"                  
+5ZZ acedrg_database      11          "data source"                           
+5ZZ rdkit                2017.03.2   "Chemoinformatics tool"
+5ZZ refmac5              5.8.0238    "optimization tool"                     

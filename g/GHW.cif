@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-GHW GHW "N-({4-[(2-amino-6-methyl-4-oxo-3,4-dihydrothieno[2,3-d]pyrimidin-5-yl)sulfanyl]phenyl}carbonyl)-L-glutamic acid" NON-POLYMER 47 31 .
-
+GHW     GHW      "N-({4-[(2-amino-6-methyl-4-oxo-3,4-dihydrothieno[2,3-d]pyrimidin-5-yl)sulfanyl]phenyl}carbonyl)-L-glutamic acid"     NON-POLYMER     47     31     .     
+#
 data_comp_GHW
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,54 +21,53 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-GHW C4   C CR56 0  -3.100 19.505 -0.920
-GHW C5   C CR56 0  -3.527 18.157 -1.141
-GHW C6   C CR6  0  -3.566 17.694 -2.498
-GHW C13  C CH3  0  -3.867 18.073 2.639
-GHW N1   N NR6  0  -3.175 18.635 -3.457
-GHW N2   N NH2  0  -2.428 20.715 -4.166
-GHW C3   C CR5  0  -3.672 18.309 1.189
-GHW N3   N NRD6 0  -2.736 20.361 -1.901
-GHW S4   S S2   0  -3.134 19.817 0.716
-GHW C2   C CR6  0  -2.778 19.916 -3.149
-GHW O6   O O    0  -3.910 16.562 -2.875
-GHW C1   C CR5  0  -3.866 17.492 0.100
-GHW SAT  S S2   0  -4.396 15.835 0.219
-GHW CAZ  C CR6  0  -2.982 14.788 0.395
-GHW CAJ  C CR16 0  -2.536 14.406 1.650
-GHW CAL  C CR16 0  -1.414 13.605 1.775
-GHW CAI  C CR16 0  -2.282 14.390 -0.732
-GHW CAK  C CR16 0  -1.163 13.586 -0.607
-GHW CBA  C CR6  0  -0.710 13.189 0.648
-GHW CAX  C C    0  0.508  12.318 0.783
-GHW OAE  O O    0  0.497  11.354 1.549
-GHW NAS  N NH1  0  1.562  12.624 0.010
-GHW CAP  C CH1  0  2.735  11.766 -0.121
-GHW CAW  C C    0  3.884  12.502 -0.837
-GHW OAG  O O    0  3.588  13.220 -1.815
-GHW OAD  O OC   -1 5.035  12.329 -0.391
-GHW CBG  C CH2  0  2.397  10.446 -0.831
-GHW CAN  C CH2  0  1.687  10.616 -2.169
-GHW CAV  C C    0  1.225  9.323  -2.823
-GHW OXT  O OC   -1 1.665  8.239  -2.385
-GHW OAC  O O    0  0.424  9.403  -3.776
-GHW H13  H H    0  -4.388 17.268 2.777
-GHW H13A H H    0  -4.334 18.826 3.029
-GHW H13B H H    0  -3.004 17.974 3.069
-GHW HN1  H H    0  -3.186 18.385 -4.318
-GHW HN2  H H    0  -1.756 21.271 -4.074
-GHW HN2A H H    0  -2.870 20.678 -4.923
-GHW HAJ  H H    0  -3.003 14.684 2.413
-GHW HAL  H H    0  -1.126 13.343 2.632
-GHW HAI  H H    0  -2.576 14.655 -1.581
-GHW HAK  H H    0  -0.700 13.315 -1.380
-GHW HNAS H H    0  1.566  13.380 -0.428
-GHW HAP  H H    0  3.045  11.544 0.794
-GHW HBG  H H    0  1.832  9.908  -0.240
-GHW HBGA H H    0  3.230  9.952  -0.978
-GHW HAN  H H    0  2.289  11.074 -2.793
-GHW HANA H H    0  0.902  11.188 -2.045
-
+GHW     C4      C       CR56    0       -3.100      19.505      -0.920      
+GHW     C5      C       CR56    0       -3.527      18.157      -1.141      
+GHW     C6      C       CR6     0       -3.566      17.694      -2.498      
+GHW     C13     C       CH3     0       -3.867      18.073      2.639       
+GHW     N1      N       NR6     0       -3.175      18.635      -3.457      
+GHW     N2      N       NH2     0       -2.428      20.715      -4.166      
+GHW     C3      C       CR5     0       -3.672      18.309      1.189       
+GHW     N3      N       NRD6    0       -2.736      20.361      -1.901      
+GHW     S4      S       S2      0       -3.134      19.817      0.716       
+GHW     C2      C       CR6     0       -2.778      19.916      -3.149      
+GHW     O6      O       O       0       -3.910      16.562      -2.875      
+GHW     C1      C       CR5     0       -3.866      17.492      0.100       
+GHW     SAT     S       S2      0       -4.396      15.835      0.219       
+GHW     CAZ     C       CR6     0       -2.982      14.788      0.395       
+GHW     CAJ     C       CR16    0       -2.536      14.406      1.650       
+GHW     CAL     C       CR16    0       -1.414      13.605      1.775       
+GHW     CAI     C       CR16    0       -2.282      14.390      -0.732      
+GHW     CAK     C       CR16    0       -1.163      13.586      -0.607      
+GHW     CBA     C       CR6     0       -0.710      13.189      0.648       
+GHW     CAX     C       C       0       0.508       12.318      0.783       
+GHW     OAE     O       O       0       0.497       11.354      1.549       
+GHW     NAS     N       NH1     0       1.562       12.624      0.010       
+GHW     CAP     C       CH1     0       2.735       11.766      -0.121      
+GHW     CAW     C       C       0       3.884       12.502      -0.837      
+GHW     OAG     O       O       0       3.588       13.220      -1.815      
+GHW     OAD     O       OC      -1      5.035       12.329      -0.391      
+GHW     CBG     C       CH2     0       2.397       10.446      -0.831      
+GHW     CAN     C       CH2     0       1.687       10.616      -2.169      
+GHW     CAV     C       C       0       1.225       9.323       -2.823      
+GHW     OXT     O       OC      -1      1.665       8.239       -2.385      
+GHW     OAC     O       O       0       0.424       9.403       -3.776      
+GHW     H13     H       H       0       -4.388      17.268      2.777       
+GHW     H13A    H       H       0       -4.334      18.826      3.029       
+GHW     H13B    H       H       0       -3.004      17.974      3.069       
+GHW     HN1     H       H       0       -3.186      18.385      -4.318      
+GHW     HN2     H       H       0       -1.756      21.271      -4.074      
+GHW     HN2A    H       H       0       -2.870      20.678      -4.923      
+GHW     HAJ     H       H       0       -3.003      14.684      2.413       
+GHW     HAL     H       H       0       -1.126      13.343      2.632       
+GHW     HAI     H       H       0       -2.576      14.655      -1.581      
+GHW     HAK     H       H       0       -0.700      13.315      -1.380      
+GHW     HNAS    H       H       0       1.566       13.380      -0.428      
+GHW     HAP     H       H       0       3.045       11.544      0.794       
+GHW     HBG     H       H       0       1.832       9.908       -0.240      
+GHW     HBGA    H       H       0       3.230       9.952       -0.978      
+GHW     HAN     H       H       0       2.289       11.074      -2.793      
+GHW     HANA    H       H       0       0.902       11.188      -2.045      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -77,56 +78,55 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-GHW C4  N3   SINGLE y 1.338 0.0200 1.338 0.0200
-GHW C4  C5   DOUBLE y 1.401 0.0200 1.401 0.0200
-GHW C4  S4   SINGLE y 1.695 0.0200 1.695 0.0200
-GHW C5  C6   SINGLE y 1.427 0.0100 1.427 0.0100
-GHW C5  C1   SINGLE y 1.438 0.0100 1.438 0.0100
-GHW C6  N1   SINGLE y 1.395 0.0119 1.395 0.0119
-GHW C6  O6   DOUBLE n 1.242 0.0112 1.242 0.0112
-GHW C13 C3   SINGLE n 1.481 0.0100 1.481 0.0100
-GHW N1  C2   SINGLE y 1.374 0.0100 1.374 0.0100
-GHW N2  C2   SINGLE n 1.340 0.0101 1.340 0.0101
-GHW C3  S4   SINGLE y 1.695 0.0200 1.695 0.0200
-GHW C3  C1   DOUBLE y 1.358 0.0182 1.358 0.0182
-GHW N3  C2   DOUBLE y 1.324 0.0127 1.324 0.0127
-GHW C1  SAT  SINGLE n 1.744 0.0119 1.744 0.0119
-GHW SAT CAZ  SINGLE n 1.772 0.0127 1.772 0.0127
-GHW CAZ CAI  SINGLE y 1.382 0.0100 1.382 0.0100
-GHW CAZ CAJ  DOUBLE y 1.382 0.0100 1.382 0.0100
-GHW CAJ CAL  SINGLE y 1.381 0.0100 1.381 0.0100
-GHW CAL CBA  DOUBLE y 1.389 0.0100 1.389 0.0100
-GHW CAI CAK  DOUBLE y 1.381 0.0100 1.381 0.0100
-GHW CAK CBA  SINGLE y 1.389 0.0100 1.389 0.0100
-GHW CBA CAX  SINGLE n 1.502 0.0100 1.502 0.0100
-GHW CAX NAS  SINGLE n 1.337 0.0101 1.337 0.0101
-GHW CAX OAE  DOUBLE n 1.230 0.0114 1.230 0.0114
-GHW NAS CAP  SINGLE n 1.456 0.0100 1.456 0.0100
-GHW CAP CBG  SINGLE n 1.533 0.0100 1.533 0.0100
-GHW CAP CAW  SINGLE n 1.539 0.0100 1.539 0.0100
-GHW CAW OAG  DOUBLE n 1.247 0.0187 1.247 0.0187
-GHW CAW OAD  SINGLE n 1.247 0.0187 1.247 0.0187
-GHW CBG CAN  SINGLE n 1.518 0.0153 1.518 0.0153
-GHW CAN CAV  SINGLE n 1.519 0.0109 1.519 0.0109
-GHW CAV OAC  DOUBLE n 1.247 0.0187 1.247 0.0187
-GHW CAV OXT  SINGLE n 1.247 0.0187 1.247 0.0187
-GHW C13 H13  SINGLE n 1.089 0.0100 0.969 0.0144
-GHW C13 H13A SINGLE n 1.089 0.0100 0.969 0.0144
-GHW C13 H13B SINGLE n 1.089 0.0100 0.969 0.0144
-GHW N1  HN1  SINGLE n 1.016 0.0100 0.895 0.0200
-GHW N2  HN2  SINGLE n 1.016 0.0100 0.877 0.0200
-GHW N2  HN2A SINGLE n 1.016 0.0100 0.877 0.0200
-GHW CAJ HAJ  SINGLE n 1.082 0.0130 0.937 0.0111
-GHW CAL HAL  SINGLE n 1.082 0.0130 0.941 0.0168
-GHW CAI HAI  SINGLE n 1.082 0.0130 0.937 0.0111
-GHW CAK HAK  SINGLE n 1.082 0.0130 0.941 0.0168
-GHW NAS HNAS SINGLE n 1.016 0.0100 0.872 0.0200
-GHW CAP HAP  SINGLE n 1.089 0.0100 0.991 0.0200
-GHW CBG HBG  SINGLE n 1.089 0.0100 0.980 0.0178
-GHW CBG HBGA SINGLE n 1.089 0.0100 0.980 0.0178
-GHW CAN HAN  SINGLE n 1.089 0.0100 0.981 0.0185
-GHW CAN HANA SINGLE n 1.089 0.0100 0.981 0.0185
-
+GHW          C4          N3      SINGLE       y     1.338  0.0200     1.338  0.0200
+GHW          C4          C5      DOUBLE       y     1.401  0.0200     1.401  0.0200
+GHW          C4          S4      SINGLE       y     1.695  0.0200     1.695  0.0200
+GHW          C5          C6      SINGLE       y     1.427  0.0100     1.427  0.0100
+GHW          C5          C1      SINGLE       y     1.438  0.0100     1.438  0.0100
+GHW          C6          N1      SINGLE       y     1.395  0.0119     1.395  0.0119
+GHW          C6          O6      DOUBLE       n     1.242  0.0112     1.242  0.0112
+GHW         C13          C3      SINGLE       n     1.481  0.0100     1.481  0.0100
+GHW          N1          C2      SINGLE       y     1.374  0.0100     1.374  0.0100
+GHW          N2          C2      SINGLE       n     1.340  0.0101     1.340  0.0101
+GHW          C3          S4      SINGLE       y     1.695  0.0200     1.695  0.0200
+GHW          C3          C1      DOUBLE       y     1.358  0.0182     1.358  0.0182
+GHW          N3          C2      DOUBLE       y     1.324  0.0127     1.324  0.0127
+GHW          C1         SAT      SINGLE       n     1.744  0.0119     1.744  0.0119
+GHW         SAT         CAZ      SINGLE       n     1.772  0.0127     1.772  0.0127
+GHW         CAZ         CAI      SINGLE       y     1.382  0.0100     1.382  0.0100
+GHW         CAZ         CAJ      DOUBLE       y     1.382  0.0100     1.382  0.0100
+GHW         CAJ         CAL      SINGLE       y     1.381  0.0100     1.381  0.0100
+GHW         CAL         CBA      DOUBLE       y     1.389  0.0100     1.389  0.0100
+GHW         CAI         CAK      DOUBLE       y     1.381  0.0100     1.381  0.0100
+GHW         CAK         CBA      SINGLE       y     1.389  0.0100     1.389  0.0100
+GHW         CBA         CAX      SINGLE       n     1.502  0.0100     1.502  0.0100
+GHW         CAX         NAS      SINGLE       n     1.337  0.0101     1.337  0.0101
+GHW         CAX         OAE      DOUBLE       n     1.230  0.0114     1.230  0.0114
+GHW         NAS         CAP      SINGLE       n     1.456  0.0100     1.456  0.0100
+GHW         CAP         CBG      SINGLE       n     1.533  0.0100     1.533  0.0100
+GHW         CAP         CAW      SINGLE       n     1.539  0.0100     1.539  0.0100
+GHW         CAW         OAG      DOUBLE       n     1.247  0.0187     1.247  0.0187
+GHW         CAW         OAD      SINGLE       n     1.247  0.0187     1.247  0.0187
+GHW         CBG         CAN      SINGLE       n     1.518  0.0153     1.518  0.0153
+GHW         CAN         CAV      SINGLE       n     1.519  0.0109     1.519  0.0109
+GHW         CAV         OAC      DOUBLE       n     1.247  0.0187     1.247  0.0187
+GHW         CAV         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+GHW         C13         H13      SINGLE       n     1.089  0.0100     0.969  0.0144
+GHW         C13        H13A      SINGLE       n     1.089  0.0100     0.969  0.0144
+GHW         C13        H13B      SINGLE       n     1.089  0.0100     0.969  0.0144
+GHW          N1         HN1      SINGLE       n     1.016  0.0100     0.895  0.0200
+GHW          N2         HN2      SINGLE       n     1.016  0.0100     0.877  0.0200
+GHW          N2        HN2A      SINGLE       n     1.016  0.0100     0.877  0.0200
+GHW         CAJ         HAJ      SINGLE       n     1.082  0.0130     0.937  0.0111
+GHW         CAL         HAL      SINGLE       n     1.082  0.0130     0.941  0.0168
+GHW         CAI         HAI      SINGLE       n     1.082  0.0130     0.937  0.0111
+GHW         CAK         HAK      SINGLE       n     1.082  0.0130     0.941  0.0168
+GHW         NAS        HNAS      SINGLE       n     1.016  0.0100     0.872  0.0200
+GHW         CAP         HAP      SINGLE       n     1.089  0.0100     0.991  0.0200
+GHW         CBG         HBG      SINGLE       n     1.089  0.0100     0.980  0.0178
+GHW         CBG        HBGA      SINGLE       n     1.089  0.0100     0.980  0.0178
+GHW         CAN         HAN      SINGLE       n     1.089  0.0100     0.981  0.0185
+GHW         CAN        HANA      SINGLE       n     1.089  0.0100     0.981  0.0185
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -134,88 +134,87 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-GHW N3   C4  C5   122.769 2.68
-GHW N3   C4  S4   129.020 3.00
-GHW C5   C4  S4   108.212 3.00
-GHW C4   C5  C6   119.092 2.44
-GHW C4   C5  C1   107.797 1.70
-GHW C6   C5  C1   133.112 2.09
-GHW C5   C6  N1   114.333 1.50
-GHW C5   C6  O6   125.977 1.50
-GHW N1   C6  O6   119.690 1.50
-GHW C3   C13 H13  109.576 1.50
-GHW C3   C13 H13A 109.576 1.50
-GHW C3   C13 H13B 109.576 1.50
-GHW H13  C13 H13A 109.334 1.50
-GHW H13  C13 H13B 109.334 1.50
-GHW H13A C13 H13B 109.334 1.50
-GHW C6   N1  C2   123.779 1.50
-GHW C6   N1  HN1  117.826 1.86
-GHW C2   N1  HN1  118.396 2.71
-GHW C2   N2  HN2  119.868 1.50
-GHW C2   N2  HN2A 119.868 1.50
-GHW HN2  N2  HN2A 120.263 1.96
-GHW C13  C3  S4   120.615 3.00
-GHW C13  C3  C1   131.173 2.84
-GHW S4   C3  C1   108.212 3.00
-GHW C4   N3  C2   117.263 1.79
-GHW C4   S4  C3   108.212 3.00
-GHW N1   C2  N2   116.995 1.50
-GHW N1   C2  N3   122.765 1.50
-GHW N2   C2  N3   120.240 1.50
-GHW C5   C1  C3   107.569 1.50
-GHW C5   C1  SAT  126.216 2.21
-GHW C3   C1  SAT  126.216 2.21
-GHW C1   SAT CAZ  120.000 3.00
-GHW SAT  CAZ CAI  120.260 2.83
-GHW SAT  CAZ CAJ  120.260 2.83
-GHW CAI  CAZ CAJ  119.481 1.50
-GHW CAZ  CAJ CAL  120.141 1.50
-GHW CAZ  CAJ HAJ  119.784 1.50
-GHW CAL  CAJ HAJ  120.075 1.50
-GHW CAJ  CAL CBA  120.667 1.50
-GHW CAJ  CAL HAL  119.428 1.50
-GHW CBA  CAL HAL  119.905 1.50
-GHW CAZ  CAI CAK  120.141 1.50
-GHW CAZ  CAI HAI  119.784 1.50
-GHW CAK  CAI HAI  120.075 1.50
-GHW CAI  CAK CBA  120.667 1.50
-GHW CAI  CAK HAK  119.428 1.50
-GHW CBA  CAK HAK  119.905 1.50
-GHW CAL  CBA CAK  118.903 1.50
-GHW CAL  CBA CAX  120.549 2.80
-GHW CAK  CBA CAX  120.549 2.80
-GHW CBA  CAX NAS  116.740 1.50
-GHW CBA  CAX OAE  120.865 1.50
-GHW NAS  CAX OAE  122.394 1.50
-GHW CAX  NAS CAP  122.253 1.50
-GHW CAX  NAS HNAS 119.427 1.94
-GHW CAP  NAS HNAS 118.320 2.24
-GHW NAS  CAP CBG  110.984 1.61
-GHW NAS  CAP CAW  110.522 1.86
-GHW NAS  CAP HAP  107.930 1.50
-GHW CBG  CAP CAW  111.638 2.31
-GHW CBG  CAP HAP  108.155 1.50
-GHW CAW  CAP HAP  108.327 1.50
-GHW CAP  CAW OAG  117.249 1.61
-GHW CAP  CAW OAD  117.249 1.61
-GHW OAG  CAW OAD  125.502 1.50
-GHW CAP  CBG CAN  112.938 1.50
-GHW CAP  CBG HBG  108.606 1.50
-GHW CAP  CBG HBGA 108.606 1.50
-GHW CAN  CBG HBG  108.890 1.50
-GHW CAN  CBG HBGA 108.890 1.50
-GHW HBG  CBG HBGA 107.844 1.50
-GHW CBG  CAN CAV  114.629 2.24
-GHW CBG  CAN HAN  108.906 1.50
-GHW CBG  CAN HANA 108.906 1.50
-GHW CAV  CAN HAN  108.404 1.50
-GHW CAV  CAN HANA 108.404 1.50
-GHW HAN  CAN HANA 107.521 1.50
-GHW CAN  CAV OAC  118.214 1.64
-GHW CAN  CAV OXT  118.214 1.64
-GHW OAC  CAV OXT  123.571 1.50
-
+GHW          N3          C4          C5     122.769    2.68
+GHW          N3          C4          S4     129.020    3.00
+GHW          C5          C4          S4     108.212    3.00
+GHW          C4          C5          C6     119.092    2.44
+GHW          C4          C5          C1     107.797    1.70
+GHW          C6          C5          C1     133.112    2.09
+GHW          C5          C6          N1     114.333    1.50
+GHW          C5          C6          O6     125.977    1.50
+GHW          N1          C6          O6     119.690    1.50
+GHW          C3         C13         H13     109.576    1.50
+GHW          C3         C13        H13A     109.576    1.50
+GHW          C3         C13        H13B     109.576    1.50
+GHW         H13         C13        H13A     109.334    1.50
+GHW         H13         C13        H13B     109.334    1.50
+GHW        H13A         C13        H13B     109.334    1.50
+GHW          C6          N1          C2     123.779    1.50
+GHW          C6          N1         HN1     117.826    1.86
+GHW          C2          N1         HN1     118.396    2.71
+GHW          C2          N2         HN2     119.868    1.50
+GHW          C2          N2        HN2A     119.868    1.50
+GHW         HN2          N2        HN2A     120.263    1.96
+GHW         C13          C3          S4     120.615    3.00
+GHW         C13          C3          C1     131.173    2.84
+GHW          S4          C3          C1     108.212    3.00
+GHW          C4          N3          C2     117.263    1.79
+GHW          C4          S4          C3     108.212    3.00
+GHW          N1          C2          N2     116.995    1.50
+GHW          N1          C2          N3     122.765    1.50
+GHW          N2          C2          N3     120.240    1.50
+GHW          C5          C1          C3     107.569    1.50
+GHW          C5          C1         SAT     126.216    2.21
+GHW          C3          C1         SAT     126.216    2.21
+GHW          C1         SAT         CAZ     120.000    3.00
+GHW         SAT         CAZ         CAI     120.260    2.83
+GHW         SAT         CAZ         CAJ     120.260    2.83
+GHW         CAI         CAZ         CAJ     119.481    1.50
+GHW         CAZ         CAJ         CAL     120.141    1.50
+GHW         CAZ         CAJ         HAJ     119.784    1.50
+GHW         CAL         CAJ         HAJ     120.075    1.50
+GHW         CAJ         CAL         CBA     120.667    1.50
+GHW         CAJ         CAL         HAL     119.428    1.50
+GHW         CBA         CAL         HAL     119.905    1.50
+GHW         CAZ         CAI         CAK     120.141    1.50
+GHW         CAZ         CAI         HAI     119.784    1.50
+GHW         CAK         CAI         HAI     120.075    1.50
+GHW         CAI         CAK         CBA     120.667    1.50
+GHW         CAI         CAK         HAK     119.428    1.50
+GHW         CBA         CAK         HAK     119.905    1.50
+GHW         CAL         CBA         CAK     118.903    1.50
+GHW         CAL         CBA         CAX     120.549    2.80
+GHW         CAK         CBA         CAX     120.549    2.80
+GHW         CBA         CAX         NAS     116.740    1.50
+GHW         CBA         CAX         OAE     120.865    1.50
+GHW         NAS         CAX         OAE     122.394    1.50
+GHW         CAX         NAS         CAP     122.253    1.50
+GHW         CAX         NAS        HNAS     119.427    1.94
+GHW         CAP         NAS        HNAS     118.320    2.24
+GHW         NAS         CAP         CBG     110.984    1.61
+GHW         NAS         CAP         CAW     110.522    1.86
+GHW         NAS         CAP         HAP     107.930    1.50
+GHW         CBG         CAP         CAW     111.638    2.31
+GHW         CBG         CAP         HAP     108.155    1.50
+GHW         CAW         CAP         HAP     108.327    1.50
+GHW         CAP         CAW         OAG     117.249    1.61
+GHW         CAP         CAW         OAD     117.249    1.61
+GHW         OAG         CAW         OAD     125.502    1.50
+GHW         CAP         CBG         CAN     112.938    1.50
+GHW         CAP         CBG         HBG     108.606    1.50
+GHW         CAP         CBG        HBGA     108.606    1.50
+GHW         CAN         CBG         HBG     108.890    1.50
+GHW         CAN         CBG        HBGA     108.890    1.50
+GHW         HBG         CBG        HBGA     107.844    1.50
+GHW         CBG         CAN         CAV     114.629    2.24
+GHW         CBG         CAN         HAN     108.906    1.50
+GHW         CBG         CAN        HANA     108.906    1.50
+GHW         CAV         CAN         HAN     108.404    1.50
+GHW         CAV         CAN        HANA     108.404    1.50
+GHW         HAN         CAN        HANA     107.521    1.50
+GHW         CAN         CAV         OAC     118.214    1.64
+GHW         CAN         CAV         OXT     118.214    1.64
+GHW         OAC         CAV         OXT     123.571    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -226,34 +225,33 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-GHW const_sp2_sp2_1 N3  C4  C5  C6  0.000   5.0  2
-GHW const_15        C5  C4  N3  C2  0.000   10.0 2
-GHW const_52        N3  C4  S4  C3  180.000 10.0 2
-GHW sp2_sp2_5       C5  C1  SAT CAZ 180.000 5.0  2
-GHW sp2_sp2_7       CAI CAZ SAT C1  180.000 5.0  2
-GHW const_54        CAL CAJ CAZ SAT 180.000 10.0 2
-GHW const_32        CAK CAI CAZ SAT 180.000 10.0 2
-GHW const_47        CAZ CAJ CAL CBA 0.000   10.0 2
-GHW const_44        CAJ CAL CBA CAX 180.000 10.0 2
-GHW const_35        CAZ CAI CAK CBA 0.000   10.0 2
-GHW const_40        CAI CAK CBA CAX 180.000 10.0 2
-GHW sp2_sp2_9       NAS CAX CBA CAL 180.000 5.0  2
-GHW sp2_sp2_15      OAE CAX NAS CAP 0.000   5.0  2
-GHW const_sp2_sp2_7 SAT C1  C5  C4  180.000 5.0  2
-GHW const_28        C4  C5  C6  O6  180.000 10.0 2
-GHW sp2_sp3_7       CAX NAS CAP CBG 0.000   10.0 6
-GHW sp2_sp3_13      OAG CAW CAP NAS 0.000   10.0 6
-GHW sp3_sp3_1       NAS CAP CBG CAN 180.000 10.0 3
-GHW sp3_sp3_10      CAV CAN CBG CAP 180.000 10.0 3
-GHW sp2_sp3_20      OAC CAV CAN CBG 120.000 10.0 6
-GHW const_25        O6  C6  N1  C2  180.000 10.0 2
-GHW sp2_sp3_1       S4  C3  C13 H13 150.000 10.0 6
-GHW const_21        N2  C2  N1  C6  180.000 10.0 2
-GHW sp2_sp2_1       N1  C2  N2  HN2 180.000 5.0  2
-GHW const_12        SAT C1  C3  C13 0.000   10.0 2
-GHW const_14        C13 C3  S4  C4  180.000 10.0 2
-GHW const_18        N2  C2  N3  C4  180.000 10.0 2
-
+GHW       const_sp2_sp2_1          N3          C4          C5          C6       0.000     5.0     2
+GHW              const_15          C5          C4          N3          C2       0.000    10.0     2
+GHW              const_52          N3          C4          S4          C3     180.000    10.0     2
+GHW             sp2_sp2_5          C5          C1         SAT         CAZ     180.000     5.0     2
+GHW             sp2_sp2_7         CAI         CAZ         SAT          C1     180.000     5.0     2
+GHW              const_54         CAL         CAJ         CAZ         SAT     180.000    10.0     2
+GHW              const_32         CAK         CAI         CAZ         SAT     180.000    10.0     2
+GHW              const_47         CAZ         CAJ         CAL         CBA       0.000    10.0     2
+GHW              const_44         CAJ         CAL         CBA         CAX     180.000    10.0     2
+GHW              const_35         CAZ         CAI         CAK         CBA       0.000    10.0     2
+GHW              const_40         CAI         CAK         CBA         CAX     180.000    10.0     2
+GHW             sp2_sp2_9         NAS         CAX         CBA         CAL     180.000     5.0     2
+GHW            sp2_sp2_15         OAE         CAX         NAS         CAP       0.000     5.0     2
+GHW       const_sp2_sp2_7         SAT          C1          C5          C4     180.000     5.0     2
+GHW              const_28          C4          C5          C6          O6     180.000    10.0     2
+GHW             sp2_sp3_7         CAX         NAS         CAP         CBG       0.000    10.0     6
+GHW            sp2_sp3_13         OAG         CAW         CAP         NAS       0.000    10.0     6
+GHW             sp3_sp3_1         NAS         CAP         CBG         CAN     180.000    10.0     3
+GHW            sp3_sp3_10         CAV         CAN         CBG         CAP     180.000    10.0     3
+GHW            sp2_sp3_20         OAC         CAV         CAN         CBG     120.000    10.0     6
+GHW              const_25          O6          C6          N1          C2     180.000    10.0     2
+GHW             sp2_sp3_1          S4          C3         C13         H13     150.000    10.0     6
+GHW              const_21          N2          C2          N1          C6     180.000    10.0     2
+GHW             sp2_sp2_1          N1          C2          N2         HN2     180.000     5.0     2
+GHW              const_12         SAT          C1          C3         C13       0.000    10.0     2
+GHW              const_14         C13          C3          S4          C4     180.000    10.0     2
+GHW              const_18          N2          C2          N3          C4     180.000    10.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -262,93 +260,77 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-GHW chir_1 CAP NAS CAW CBG positive
-
+GHW    chir_1    CAP    NAS    CAW    CBG    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-GHW plan-1 C1   0.020
-GHW plan-1 C13  0.020
-GHW plan-1 C2   0.020
-GHW plan-1 C3   0.020
-GHW plan-1 C4   0.020
-GHW plan-1 C5   0.020
-GHW plan-1 C6   0.020
-GHW plan-1 HN1  0.020
-GHW plan-1 N1   0.020
-GHW plan-1 N2   0.020
-GHW plan-1 N3   0.020
-GHW plan-1 O6   0.020
-GHW plan-1 S4   0.020
-GHW plan-1 SAT  0.020
-GHW plan-2 CAI  0.020
-GHW plan-2 CAJ  0.020
-GHW plan-2 CAK  0.020
-GHW plan-2 CAL  0.020
-GHW plan-2 CAX  0.020
-GHW plan-2 CAZ  0.020
-GHW plan-2 CBA  0.020
-GHW plan-2 HAI  0.020
-GHW plan-2 HAJ  0.020
-GHW plan-2 HAK  0.020
-GHW plan-2 HAL  0.020
-GHW plan-2 SAT  0.020
-GHW plan-3 C2   0.020
-GHW plan-3 HN2  0.020
-GHW plan-3 HN2A 0.020
-GHW plan-3 N2   0.020
-GHW plan-4 CAX  0.020
-GHW plan-4 CBA  0.020
-GHW plan-4 NAS  0.020
-GHW plan-4 OAE  0.020
-GHW plan-5 CAP  0.020
-GHW plan-5 CAX  0.020
-GHW plan-5 HNAS 0.020
-GHW plan-5 NAS  0.020
-GHW plan-6 CAP  0.020
-GHW plan-6 CAW  0.020
-GHW plan-6 OAD  0.020
-GHW plan-6 OAG  0.020
-GHW plan-7 CAN  0.020
-GHW plan-7 CAV  0.020
-GHW plan-7 OAC  0.020
-GHW plan-7 OXT  0.020
-
+GHW    plan-1          C1   0.020
+GHW    plan-1         C13   0.020
+GHW    plan-1          C2   0.020
+GHW    plan-1          C3   0.020
+GHW    plan-1          C4   0.020
+GHW    plan-1          C5   0.020
+GHW    plan-1          C6   0.020
+GHW    plan-1         HN1   0.020
+GHW    plan-1          N1   0.020
+GHW    plan-1          N2   0.020
+GHW    plan-1          N3   0.020
+GHW    plan-1          O6   0.020
+GHW    plan-1          S4   0.020
+GHW    plan-1         SAT   0.020
+GHW    plan-2         CAI   0.020
+GHW    plan-2         CAJ   0.020
+GHW    plan-2         CAK   0.020
+GHW    plan-2         CAL   0.020
+GHW    plan-2         CAX   0.020
+GHW    plan-2         CAZ   0.020
+GHW    plan-2         CBA   0.020
+GHW    plan-2         HAI   0.020
+GHW    plan-2         HAJ   0.020
+GHW    plan-2         HAK   0.020
+GHW    plan-2         HAL   0.020
+GHW    plan-2         SAT   0.020
+GHW    plan-3          C2   0.020
+GHW    plan-3         HN2   0.020
+GHW    plan-3        HN2A   0.020
+GHW    plan-3          N2   0.020
+GHW    plan-4         CAX   0.020
+GHW    plan-4         CBA   0.020
+GHW    plan-4         NAS   0.020
+GHW    plan-4         OAE   0.020
+GHW    plan-5         CAP   0.020
+GHW    plan-5         CAX   0.020
+GHW    plan-5        HNAS   0.020
+GHW    plan-5         NAS   0.020
+GHW    plan-6         CAP   0.020
+GHW    plan-6         CAW   0.020
+GHW    plan-6         OAD   0.020
+GHW    plan-6         OAG   0.020
+GHW    plan-7         CAN   0.020
+GHW    plan-7         CAV   0.020
+GHW    plan-7         OAC   0.020
+GHW    plan-7         OXT   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-GHW SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)c3ccc(Sc1c(sc2N=C(NC(=O)c12)N)C)cc3)CCC(=O)O
-GHW SMILES_CANONICAL CACTVS               3.341 Cc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
-GHW SMILES           CACTVS               3.341 Cc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O
-GHW SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
-GHW SMILES           "OpenEye OEToolkits" 1.5.0 Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O
-GHW InChI            InChI                1.03  InChI=1S/C19H18N4O6S2/c1-8-14(13-16(27)22-19(20)23-17(13)30-8)31-10-4-2-9(3-5-10)15(26)21-11(18(28)29)6-7-12(24)25/h2-5,11H,6-7H2,1H3,(H,21,26)(H,24,25)(H,28,29)(H3,20,22,23,27)/t11-/m0/s1
-GHW InChIKey         InChI                1.03  XZCPGLYOPFIZBL-NSHDSACASA-N
-
+GHW           SMILES              ACDLabs 10.04                                                                                                                                   O=C(O)C(NC(=O)c3ccc(Sc1c(sc2N=C(NC(=O)c12)N)C)cc3)CCC(=O)O
+GHW SMILES_CANONICAL               CACTVS 3.341                                                                                                                                Cc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O
+GHW           SMILES               CACTVS 3.341                                                                                                                                  Cc1sc2N=C(N)NC(=O)c2c1Sc3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O
+GHW SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                              Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+GHW           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                   Cc1c(c2c(s1)N=C(NC2=O)N)Sc3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O
+GHW            InChI                InChI  1.03 InChI=1S/C19H18N4O6S2/c1-8-14(13-16(27)22-19(20)23-17(13)30-8)31-10-4-2-9(3-5-10)15(26)21-11(18(28)29)6-7-12(24)25/h2-5,11H,6-7H2,1H3,(H,21,26)(H,24,25)(H,28,29)(H3,20,22,23,27)/t11-/m0/s1
+GHW         InChIKey                InChI  1.03                                                                                                                                                                  XZCPGLYOPFIZBL-NSHDSACASA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-GHW acedrg          243       "dictionary generator"
-GHW acedrg_database 11        "data source"
-GHW rdkit           2017.03.2 "Chemoinformatics tool"
-GHW refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-GHW M-peptide OAG  O
-GHW M-peptide CAW  C
-GHW M-peptide CAP  CA
-GHW M-peptide NAS  N
-GHW M-peptide CAX  CN
-GHW M-peptide OAD  OXT
-GHW M-peptide HNAS H
+GHW acedrg               243         "dictionary generator"                  
+GHW acedrg_database      11          "data source"                           
+GHW rdkit                2017.03.2   "Chemoinformatics tool"
+GHW refmac5              5.8.0238    "optimization tool"                     

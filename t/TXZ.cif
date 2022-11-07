@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TXZ TXZ O-phosphono-N-(6-sulfanylhexanoyl)-L-threonine NON-POLYMER 37 20 .
-
+TXZ     TXZ      O-phosphono-N-(6-sulfanylhexanoyl)-L-threonine     NON-POLYMER     37     20     .     
+#
 data_comp_TXZ
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,44 +21,43 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TXZ C   C C    0  23.843 38.486 -45.400
-TXZ N   N NH1  0  24.671 38.778 -47.708
-TXZ O   O O    0  24.304 37.327 -45.343
-TXZ P   P P    0  21.105 36.140 -47.025
-TXZ C1  C C    0  25.238 39.683 -48.518
-TXZ O1  O O    0  24.867 40.854 -48.575
-TXZ C2  C CH2  0  26.375 39.185 -49.387
-TXZ C3  C CH2  0  27.686 39.124 -48.660
-TXZ C4  C CH2  0  28.817 38.494 -49.465
-TXZ C5  C CH2  0  29.260 39.294 -50.677
-TXZ C6  C CH2  0  29.881 40.639 -50.323
-TXZ S6  S SH1  0  30.726 41.453 -51.702
-TXZ CA  C CH1  0  23.578 39.081 -46.796
-TXZ CB  C CH1  0  22.233 38.572 -47.346
-TXZ CG  C CH3  0  21.876 39.205 -48.671
-TXZ O1P O OP   -1 21.505 34.743 -47.460
-TXZ O2P O OP   -1 21.076 36.302 -45.517
-TXZ O3P O O    0  19.832 36.623 -47.694
-TXZ O4P O O2   0  22.278 37.118 -47.551
-TXZ OXT O OC   -1 23.578 39.202 -44.415
-TXZ HN  H H    0  24.980 37.961 -47.731
-TXZ H2  H H    0  26.466 39.784 -50.158
-TXZ H2A H H    0  26.156 38.291 -49.726
-TXZ H3  H H    0  27.563 38.606 -47.838
-TXZ H3A H H    0  27.946 40.032 -48.399
-TXZ H4  H H    0  28.529 37.605 -49.764
-TXZ H4A H H    0  29.589 38.369 -48.873
-TXZ H5  H H    0  28.491 39.448 -51.265
-TXZ H5A H H    0  29.920 38.770 -51.180
-TXZ H6  H H    0  30.550 40.500 -49.625
-TXZ H6A H H    0  29.172 41.245 -50.035
-TXZ HS6 H HSH1 0  30.900 42.526 -51.185
-TXZ HA  H H    0  23.512 40.069 -46.685
-TXZ HB  H H    0  21.532 38.790 -46.683
-TXZ HG  H H    0  20.962 38.970 -48.908
-TXZ HGA H H    0  22.483 38.881 -49.361
-TXZ HGB H H    0  21.953 40.174 -48.601
-
+TXZ     C       C       C       0       23.843      38.486      -45.400     
+TXZ     N       N       NH1     0       24.671      38.778      -47.708     
+TXZ     O       O       O       0       24.304      37.327      -45.343     
+TXZ     P       P       P       0       21.105      36.140      -47.025     
+TXZ     C1      C       C       0       25.238      39.683      -48.518     
+TXZ     O1      O       O       0       24.867      40.854      -48.575     
+TXZ     C2      C       CH2     0       26.375      39.185      -49.387     
+TXZ     C3      C       CH2     0       27.686      39.124      -48.660     
+TXZ     C4      C       CH2     0       28.817      38.494      -49.465     
+TXZ     C5      C       CH2     0       29.260      39.294      -50.677     
+TXZ     C6      C       CH2     0       29.881      40.639      -50.323     
+TXZ     S6      S       SH1     0       30.726      41.453      -51.702     
+TXZ     CA      C       CH1     0       23.578      39.081      -46.796     
+TXZ     CB      C       CH1     0       22.233      38.572      -47.346     
+TXZ     CG      C       CH3     0       21.876      39.205      -48.671     
+TXZ     O1P     O       OP      -1      21.505      34.743      -47.460     
+TXZ     O2P     O       OP      -1      21.076      36.302      -45.517     
+TXZ     O3P     O       O       0       19.832      36.623      -47.694     
+TXZ     O4P     O       O2      0       22.278      37.118      -47.551     
+TXZ     OXT     O       OC      -1      23.578      39.202      -44.415     
+TXZ     HN      H       H       0       24.980      37.961      -47.731     
+TXZ     H2      H       H       0       26.466      39.784      -50.158     
+TXZ     H2A     H       H       0       26.156      38.291      -49.726     
+TXZ     H3      H       H       0       27.563      38.606      -47.838     
+TXZ     H3A     H       H       0       27.946      40.032      -48.399     
+TXZ     H4      H       H       0       28.529      37.605      -49.764     
+TXZ     H4A     H       H       0       29.589      38.369      -48.873     
+TXZ     H5      H       H       0       28.491      39.448      -51.265     
+TXZ     H5A     H       H       0       29.920      38.770      -51.180     
+TXZ     H6      H       H       0       30.550      40.500      -49.625     
+TXZ     H6A     H       H       0       29.172      41.245      -50.035     
+TXZ     HS6     H       HSH1    0       30.900      42.526      -51.185     
+TXZ     HA      H       H       0       23.512      40.069      -46.685     
+TXZ     HB      H       H       0       21.532      38.790      -46.683     
+TXZ     HG      H       H       0       20.962      38.970      -48.908     
+TXZ     HGA     H       H       0       22.483      38.881      -49.361     
+TXZ     HGB     H       H       0       21.953      40.174      -48.601     
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -67,43 +68,42 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TXZ C  CA  SINGLE n 1.539 0.0100 1.539 0.0100
-TXZ C  O   DOUBLE n 1.247 0.0187 1.247 0.0187
-TXZ C  OXT SINGLE n 1.247 0.0187 1.247 0.0187
-TXZ N  C1  SINGLE n 1.334 0.0100 1.334 0.0100
-TXZ N  CA  SINGLE n 1.450 0.0100 1.450 0.0100
-TXZ P  O3P DOUBLE n 1.517 0.0192 1.517 0.0192
-TXZ P  O1P SINGLE n 1.517 0.0192 1.517 0.0192
-TXZ P  O4P SINGLE n 1.614 0.0178 1.614 0.0178
-TXZ P  O2P SINGLE n 1.517 0.0192 1.517 0.0192
-TXZ C1 C2  SINGLE n 1.514 0.0100 1.514 0.0100
-TXZ C1 O1  DOUBLE n 1.229 0.0102 1.229 0.0102
-TXZ C2 C3  SINGLE n 1.497 0.0200 1.497 0.0200
-TXZ C3 C4  SINGLE n 1.519 0.0164 1.519 0.0164
-TXZ C4 C5  SINGLE n 1.510 0.0200 1.510 0.0200
-TXZ C5 C6  SINGLE n 1.522 0.0100 1.522 0.0100
-TXZ C6 S6  SINGLE n 1.810 0.0100 1.810 0.0100
-TXZ CA CB  SINGLE n 1.538 0.0100 1.538 0.0100
-TXZ CB CG  SINGLE n 1.511 0.0109 1.511 0.0109
-TXZ CB O4P SINGLE n 1.467 0.0151 1.467 0.0151
-TXZ N  HN  SINGLE n 1.016 0.0100 0.873 0.0200
-TXZ C2 H2  SINGLE n 1.089 0.0100 0.981 0.0185
-TXZ C2 H2A SINGLE n 1.089 0.0100 0.981 0.0185
-TXZ C3 H3  SINGLE n 1.089 0.0100 0.980 0.0160
-TXZ C3 H3A SINGLE n 1.089 0.0100 0.980 0.0160
-TXZ C4 H4  SINGLE n 1.089 0.0100 0.981 0.0163
-TXZ C4 H4A SINGLE n 1.089 0.0100 0.981 0.0163
-TXZ C5 H5  SINGLE n 1.089 0.0100 0.981 0.0160
-TXZ C5 H5A SINGLE n 1.089 0.0100 0.981 0.0160
-TXZ C6 H6  SINGLE n 1.089 0.0100 0.977 0.0169
-TXZ C6 H6A SINGLE n 1.089 0.0100 0.977 0.0169
-TXZ S6 HS6 SINGLE n 1.338 0.0100 1.203 0.0200
-TXZ CA HA  SINGLE n 1.089 0.0100 0.997 0.0200
-TXZ CB HB  SINGLE n 1.089 0.0100 0.989 0.0161
-TXZ CG HG  SINGLE n 1.089 0.0100 0.974 0.0145
-TXZ CG HGA SINGLE n 1.089 0.0100 0.974 0.0145
-TXZ CG HGB SINGLE n 1.089 0.0100 0.974 0.0145
-
+TXZ           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
+TXZ           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+TXZ           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+TXZ           N          C1      SINGLE       n     1.334  0.0100     1.334  0.0100
+TXZ           N          CA      SINGLE       n     1.450  0.0100     1.450  0.0100
+TXZ           P         O3P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+TXZ           P         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
+TXZ           P         O4P      SINGLE       n     1.614  0.0178     1.614  0.0178
+TXZ           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
+TXZ          C1          C2      SINGLE       n     1.514  0.0100     1.514  0.0100
+TXZ          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
+TXZ          C2          C3      SINGLE       n     1.497  0.0200     1.497  0.0200
+TXZ          C3          C4      SINGLE       n     1.519  0.0164     1.519  0.0164
+TXZ          C4          C5      SINGLE       n     1.510  0.0200     1.510  0.0200
+TXZ          C5          C6      SINGLE       n     1.522  0.0100     1.522  0.0100
+TXZ          C6          S6      SINGLE       n     1.810  0.0100     1.810  0.0100
+TXZ          CA          CB      SINGLE       n     1.538  0.0100     1.538  0.0100
+TXZ          CB          CG      SINGLE       n     1.511  0.0109     1.511  0.0109
+TXZ          CB         O4P      SINGLE       n     1.467  0.0151     1.467  0.0151
+TXZ           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
+TXZ          C2          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
+TXZ          C2         H2A      SINGLE       n     1.089  0.0100     0.981  0.0185
+TXZ          C3          H3      SINGLE       n     1.089  0.0100     0.980  0.0160
+TXZ          C3         H3A      SINGLE       n     1.089  0.0100     0.980  0.0160
+TXZ          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0163
+TXZ          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0163
+TXZ          C5          H5      SINGLE       n     1.089  0.0100     0.981  0.0160
+TXZ          C5         H5A      SINGLE       n     1.089  0.0100     0.981  0.0160
+TXZ          C6          H6      SINGLE       n     1.089  0.0100     0.977  0.0169
+TXZ          C6         H6A      SINGLE       n     1.089  0.0100     0.977  0.0169
+TXZ          S6         HS6      SINGLE       n     1.338  0.0100     1.203  0.0200
+TXZ          CA          HA      SINGLE       n     1.089  0.0100     0.997  0.0200
+TXZ          CB          HB      SINGLE       n     1.089  0.0100     0.989  0.0161
+TXZ          CG          HG      SINGLE       n     1.089  0.0100     0.974  0.0145
+TXZ          CG         HGA      SINGLE       n     1.089  0.0100     0.974  0.0145
+TXZ          CG         HGB      SINGLE       n     1.089  0.0100     0.974  0.0145
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -111,72 +111,71 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TXZ CA  C   O   117.371 1.50
-TXZ CA  C   OXT 117.371 1.50
-TXZ O   C   OXT 125.259 1.50
-TXZ C1  N   CA  121.656 1.76
-TXZ C1  N   HN  118.410 1.50
-TXZ CA  N   HN  119.934 1.61
-TXZ O3P P   O1P 112.864 1.69
-TXZ O3P P   O4P 105.808 2.07
-TXZ O3P P   O2P 112.864 1.69
-TXZ O1P P   O4P 105.808 2.07
-TXZ O1P P   O2P 112.864 1.69
-TXZ O4P P   O2P 105.808 2.07
-TXZ N   C1  C2  116.136 1.50
-TXZ N   C1  O1  122.033 1.50
-TXZ C2  C1  O1  121.831 1.50
-TXZ C1  C2  C3  112.836 1.50
-TXZ C1  C2  H2  108.930 1.50
-TXZ C1  C2  H2A 108.930 1.50
-TXZ C3  C2  H2  108.897 1.50
-TXZ C3  C2  H2A 108.897 1.50
-TXZ H2  C2  H2A 107.846 1.50
-TXZ C2  C3  C4  113.472 1.51
-TXZ C2  C3  H3  108.795 1.50
-TXZ C2  C3  H3A 108.795 1.50
-TXZ C4  C3  H3  108.698 1.50
-TXZ C4  C3  H3A 108.698 1.50
-TXZ H3  C3  H3A 107.646 1.50
-TXZ C3  C4  C5  113.198 1.72
-TXZ C3  C4  H4  108.698 1.50
-TXZ C3  C4  H4A 108.698 1.50
-TXZ C5  C4  H4  108.891 1.50
-TXZ C5  C4  H4A 108.891 1.50
-TXZ H4  C4  H4A 107.646 1.50
-TXZ C4  C5  C6  112.785 1.50
-TXZ C4  C5  H5  108.963 1.50
-TXZ C4  C5  H5A 108.963 1.50
-TXZ C6  C5  H5  108.591 1.50
-TXZ C6  C5  H5A 108.591 1.50
-TXZ H5  C5  H5A 107.852 1.50
-TXZ C5  C6  S6  113.854 1.50
-TXZ C5  C6  H6  108.231 1.50
-TXZ C5  C6  H6A 108.231 1.50
-TXZ S6  C6  H6  105.353 2.82
-TXZ S6  C6  H6A 105.353 2.82
-TXZ H6  C6  H6A 111.425 1.71
-TXZ C6  S6  HS6 98.146  3.00
-TXZ C   CA  N   110.939 1.74
-TXZ C   CA  CB  110.275 1.50
-TXZ C   CA  HA  107.601 1.50
-TXZ N   CA  CB  110.507 1.90
-TXZ N   CA  HA  107.971 1.50
-TXZ CB  CA  HA  108.179 1.50
-TXZ CA  CB  CG  112.076 1.65
-TXZ CA  CB  O4P 109.482 3.00
-TXZ CA  CB  HB  108.267 2.06
-TXZ CG  CB  O4P 107.625 1.78
-TXZ CG  CB  HB  109.344 1.50
-TXZ O4P CB  HB  109.315 1.50
-TXZ CB  CG  HG  109.508 1.50
-TXZ CB  CG  HGA 109.508 1.50
-TXZ CB  CG  HGB 109.508 1.50
-TXZ HG  CG  HGA 109.425 1.50
-TXZ HG  CG  HGB 109.425 1.50
-TXZ HGA CG  HGB 109.425 1.50
-TXZ P   O4P CB  121.496 2.55
-
+TXZ          CA           C           O     117.371    1.50
+TXZ          CA           C         OXT     117.371    1.50
+TXZ           O           C         OXT     125.259    1.50
+TXZ          C1           N          CA     121.656    1.76
+TXZ          C1           N          HN     118.410    1.50
+TXZ          CA           N          HN     119.934    1.61
+TXZ         O3P           P         O1P     112.864    1.69
+TXZ         O3P           P         O4P     105.808    2.07
+TXZ         O3P           P         O2P     112.864    1.69
+TXZ         O1P           P         O4P     105.808    2.07
+TXZ         O1P           P         O2P     112.864    1.69
+TXZ         O4P           P         O2P     105.808    2.07
+TXZ           N          C1          C2     116.136    1.50
+TXZ           N          C1          O1     122.033    1.50
+TXZ          C2          C1          O1     121.831    1.50
+TXZ          C1          C2          C3     112.836    1.50
+TXZ          C1          C2          H2     108.930    1.50
+TXZ          C1          C2         H2A     108.930    1.50
+TXZ          C3          C2          H2     108.897    1.50
+TXZ          C3          C2         H2A     108.897    1.50
+TXZ          H2          C2         H2A     107.846    1.50
+TXZ          C2          C3          C4     113.472    1.51
+TXZ          C2          C3          H3     108.795    1.50
+TXZ          C2          C3         H3A     108.795    1.50
+TXZ          C4          C3          H3     108.698    1.50
+TXZ          C4          C3         H3A     108.698    1.50
+TXZ          H3          C3         H3A     107.646    1.50
+TXZ          C3          C4          C5     113.198    1.72
+TXZ          C3          C4          H4     108.698    1.50
+TXZ          C3          C4         H4A     108.698    1.50
+TXZ          C5          C4          H4     108.891    1.50
+TXZ          C5          C4         H4A     108.891    1.50
+TXZ          H4          C4         H4A     107.646    1.50
+TXZ          C4          C5          C6     112.785    1.50
+TXZ          C4          C5          H5     108.963    1.50
+TXZ          C4          C5         H5A     108.963    1.50
+TXZ          C6          C5          H5     108.591    1.50
+TXZ          C6          C5         H5A     108.591    1.50
+TXZ          H5          C5         H5A     107.852    1.50
+TXZ          C5          C6          S6     113.854    1.50
+TXZ          C5          C6          H6     108.231    1.50
+TXZ          C5          C6         H6A     108.231    1.50
+TXZ          S6          C6          H6     105.353    2.82
+TXZ          S6          C6         H6A     105.353    2.82
+TXZ          H6          C6         H6A     111.425    1.71
+TXZ          C6          S6         HS6      98.146    3.00
+TXZ           C          CA           N     110.939    1.74
+TXZ           C          CA          CB     110.275    1.50
+TXZ           C          CA          HA     107.601    1.50
+TXZ           N          CA          CB     110.507    1.90
+TXZ           N          CA          HA     107.971    1.50
+TXZ          CB          CA          HA     108.179    1.50
+TXZ          CA          CB          CG     112.076    1.65
+TXZ          CA          CB         O4P     109.482    3.00
+TXZ          CA          CB          HB     108.267    2.06
+TXZ          CG          CB         O4P     107.625    1.78
+TXZ          CG          CB          HB     109.344    1.50
+TXZ         O4P          CB          HB     109.315    1.50
+TXZ          CB          CG          HG     109.508    1.50
+TXZ          CB          CG         HGA     109.508    1.50
+TXZ          CB          CG         HGB     109.508    1.50
+TXZ          HG          CG         HGA     109.425    1.50
+TXZ          HG          CG         HGB     109.425    1.50
+TXZ         HGA          CG         HGB     109.425    1.50
+TXZ           P         O4P          CB     121.496    2.55
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -187,20 +186,19 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TXZ sp2_sp3_1  O  C   CA  N   0.000   10.0 6
-TXZ sp3_sp3_40 C5 C6  S6  HS6 180.000 10.0 3
-TXZ sp3_sp3_43 C  CA  CB  CG  180.000 10.0 3
-TXZ sp3_sp3_52 CA CB  CG  HG  180.000 10.0 3
-TXZ sp3_sp3_61 CA CB  O4P P   180.000 10.0 3
-TXZ sp2_sp3_7  C1 N   CA  C   0.000   10.0 6
-TXZ sp2_sp2_1  C2 C1  N   CA  180.000 5.0  2
-TXZ sp3_sp3_3  CB O4P P   O3P 60.000  10.0 3
-TXZ sp2_sp3_14 N  C1  C2  C3  120.000 10.0 6
-TXZ sp3_sp3_4  C1 C2  C3  C4  180.000 10.0 3
-TXZ sp3_sp3_13 C2 C3  C4  C5  180.000 10.0 3
-TXZ sp3_sp3_22 C3 C4  C5  C6  180.000 10.0 3
-TXZ sp3_sp3_31 C4 C5  C6  S6  180.000 10.0 3
-
+TXZ             sp2_sp3_1           O           C          CA           N       0.000    10.0     6
+TXZ            sp3_sp3_40          C5          C6          S6         HS6     180.000    10.0     3
+TXZ            sp3_sp3_43           C          CA          CB          CG     180.000    10.0     3
+TXZ            sp3_sp3_52          CA          CB          CG          HG     180.000    10.0     3
+TXZ            sp3_sp3_61          CA          CB         O4P           P     180.000    10.0     3
+TXZ             sp2_sp3_7          C1           N          CA           C       0.000    10.0     6
+TXZ             sp2_sp2_1          C2          C1           N          CA     180.000     5.0     2
+TXZ             sp3_sp3_3          CB         O4P           P         O3P      60.000    10.0     3
+TXZ            sp2_sp3_14           N          C1          C2          C3     120.000    10.0     6
+TXZ             sp3_sp3_4          C1          C2          C3          C4     180.000    10.0     3
+TXZ            sp3_sp3_13          C2          C3          C4          C5     180.000    10.0     3
+TXZ            sp3_sp3_22          C3          C4          C5          C6     180.000    10.0     3
+TXZ            sp3_sp3_31          C4          C5          C6          S6     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -209,56 +207,45 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TXZ chir_1 P  O4P O1P O2P both
-TXZ chir_2 CA N   C   CB  positive
-TXZ chir_3 CB O4P CA  CG  negative
-
+TXZ    chir_1    P    O4P    O1P    O2P    both
+TXZ    chir_2    CA    N    C    CB    positive
+TXZ    chir_3    CB    O4P    CA    CG    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TXZ plan-1 C   0.020
-TXZ plan-1 CA  0.020
-TXZ plan-1 O   0.020
-TXZ plan-1 OXT 0.020
-TXZ plan-2 C1  0.020
-TXZ plan-2 CA  0.020
-TXZ plan-2 HN  0.020
-TXZ plan-2 N   0.020
-TXZ plan-3 C1  0.020
-TXZ plan-3 C2  0.020
-TXZ plan-3 N   0.020
-TXZ plan-3 O1  0.020
-
+TXZ    plan-1           C   0.020
+TXZ    plan-1          CA   0.020
+TXZ    plan-1           O   0.020
+TXZ    plan-1         OXT   0.020
+TXZ    plan-2          C1   0.020
+TXZ    plan-2          CA   0.020
+TXZ    plan-2          HN   0.020
+TXZ    plan-2           N   0.020
+TXZ    plan-3          C1   0.020
+TXZ    plan-3          C2   0.020
+TXZ    plan-3           N   0.020
+TXZ    plan-3          O1   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TXZ SMILES           ACDLabs              12.01 O=C(NC(C(=O)O)C(OP(=O)(O)O)C)CCCCCS
-TXZ SMILES_CANONICAL CACTVS               3.370 C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCCS)C(O)=O
-TXZ SMILES           CACTVS               3.370 C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCCS)C(O)=O
-TXZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 C[C@H]([C@@H](C(=O)O)NC(=O)CCCCCS)OP(=O)(O)O
-TXZ SMILES           "OpenEye OEToolkits" 1.7.0 CC(C(C(=O)O)NC(=O)CCCCCS)OP(=O)(O)O
-TXZ InChI            InChI                1.03  InChI=1S/C10H20NO7PS/c1-7(18-19(15,16)17)9(10(13)14)11-8(12)5-3-2-4-6-20/h7,9,20H,2-6H2,1H3,(H,11,12)(H,13,14)(H2,15,16,17)/t7-,9+/m1/s1
-TXZ InChIKey         InChI                1.03  PRNNQVAYHYUTOD-APPZFPTMSA-N
-
+TXZ           SMILES              ACDLabs 12.01                                                                                                      O=C(NC(C(=O)O)C(OP(=O)(O)O)C)CCCCCS
+TXZ SMILES_CANONICAL               CACTVS 3.370                                                                                           C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCCS)C(O)=O
+TXZ           SMILES               CACTVS 3.370                                                                                              C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCCS)C(O)=O
+TXZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                             C[C@H]([C@@H](C(=O)O)NC(=O)CCCCCS)OP(=O)(O)O
+TXZ           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                      CC(C(C(=O)O)NC(=O)CCCCCS)OP(=O)(O)O
+TXZ            InChI                InChI  1.03 InChI=1S/C10H20NO7PS/c1-7(18-19(15,16)17)9(10(13)14)11-8(12)5-3-2-4-6-20/h7,9,20H,2-6H2,1H3,(H,11,12)(H,13,14)(H2,15,16,17)/t7-,9+/m1/s1
+TXZ         InChIKey                InChI  1.03                                                                                                              PRNNQVAYHYUTOD-APPZFPTMSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TXZ acedrg          243       "dictionary generator"
-TXZ acedrg_database 11        "data source"
-TXZ rdkit           2017.03.2 "Chemoinformatics tool"
-TXZ refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-TXZ M-peptide C1 CN
-TXZ M-peptide HN H
+TXZ acedrg               243         "dictionary generator"                  
+TXZ acedrg_database      11          "data source"                           
+TXZ rdkit                2017.03.2   "Chemoinformatics tool"
+TXZ refmac5              5.8.0238    "optimization tool"                     

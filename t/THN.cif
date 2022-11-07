@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-THN THN "2-[CARBOXY-(2-THIOPHEN-2-YL-ACETYLAMINO)-METHYL]-5-METHYLENE-5,6-DIHYDRO-2H-[1,3]THIAZINE-4-CARBOXYLIC ACID" NON-POLYMER 35 23 .
-
+THN     THN      "2-[CARBOXY-(2-THIOPHEN-2-YL-ACETYLAMINO)-METHYL]-5-METHYLENE-5,6-DIHYDRO-2H-[1,3]THIAZINE-4-CARBOXYLIC ACID"     NON-POLYMER     35     23     .     
+#
 data_comp_THN
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,42 +21,41 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-THN S1     S S2   0  79.464 7.319 28.160
-THN C2     C CH2  0  80.669 8.550 27.622
-THN C3     C CR6  0  82.094 8.225 27.978
-THN "C3'"  C C2   0  83.073 8.835 27.331
-THN C4     C CH1  0  82.423 7.244 29.107
-THN "C4'"  C C    0  82.559 8.041 30.403
-THN O4A    O OC   -1 83.636 8.124 30.915
-THN O4B    O O    0  81.591 8.562 30.878
-THN N5     N NRD6 0  81.510 6.114 29.389
-THN C6     C CR6  0  80.270 6.111 29.112
-THN C7     C CH1  0  79.397 4.970 29.608
-THN C8     C C    0  79.376 3.804 28.601
-THN O9A    O O    0  80.388 3.084 28.543
-THN O9B    O OC   -1 78.348 3.661 27.913
-THN N10    N NH1  0  79.770 4.510 30.946
-THN C11    C C    0  79.477 5.187 32.064
-THN O12    O O    0  78.778 6.202 32.076
-THN C13    C CH2  0  80.115 4.665 33.339
-THN C14    C CR5  0  81.539 5.087 33.442
-THN C15    C CR15 0  82.640 4.727 32.679
-THN C16    C CR15 0  83.840 5.387 33.125
-THN C17    C CR15 0  83.597 6.203 34.184
-THN S19    S S2   0  81.989 6.176 34.621
-THN H21    H H    0  80.596 8.640 26.651
-THN H22    H H    0  80.427 9.408 28.023
-THN "H3'1" H H    0  83.965 8.646 27.538
-THN "H3'2" H H    0  82.879 9.465 26.668
-THN H4     H H    0  83.310 6.850 28.918
-THN H7     H H    0  78.459 5.279 29.656
-THN H10    H H    0  80.210 3.760 31.018
-THN H131   H H    0  80.067 3.687 33.353
-THN H132   H H    0  79.618 5.002 34.112
-THN H15    H H    0  82.612 4.123 31.956
-THN H16    H H    0  84.686 5.263 32.728
-THN H17    H H    0  84.220 6.737 34.647
-
+THN     S1      S       S2      0       79.464      7.319       28.160      
+THN     C2      C       CH2     0       80.669      8.550       27.622      
+THN     C3      C       CR6     0       82.094      8.225       27.978      
+THN     "C3'"   C       C2      0       83.073      8.835       27.331      
+THN     C4      C       CH1     0       82.423      7.244       29.107      
+THN     "C4'"   C       C       0       82.559      8.041       30.403      
+THN     O4A     O       OC      -1      83.636      8.124       30.915      
+THN     O4B     O       O       0       81.591      8.562       30.878      
+THN     N5      N       NRD6    0       81.510      6.114       29.389      
+THN     C6      C       CR6     0       80.270      6.111       29.112      
+THN     C7      C       CH1     0       79.397      4.970       29.608      
+THN     C8      C       C       0       79.376      3.804       28.601      
+THN     O9A     O       O       0       80.388      3.084       28.543      
+THN     O9B     O       OC      -1      78.348      3.661       27.913      
+THN     N10     N       NH1     0       79.770      4.510       30.946      
+THN     C11     C       C       0       79.477      5.187       32.064      
+THN     O12     O       O       0       78.778      6.202       32.076      
+THN     C13     C       CH2     0       80.115      4.665       33.339      
+THN     C14     C       CR5     0       81.539      5.087       33.442      
+THN     C15     C       CR15    0       82.640      4.727       32.679      
+THN     C16     C       CR15    0       83.840      5.387       33.125      
+THN     C17     C       CR15    0       83.597      6.203       34.184      
+THN     S19     S       S2      0       81.989      6.176       34.621      
+THN     H21     H       H       0       80.596      8.640       26.651      
+THN     H22     H       H       0       80.427      9.408       28.023      
+THN     "H3'1"  H       H       0       83.965      8.646       27.538      
+THN     "H3'2"  H       H       0       82.879      9.465       26.668      
+THN     H4      H       H       0       83.310      6.850       28.918      
+THN     H7      H       H       0       78.459      5.279       29.656      
+THN     H10     H       H       0       80.210      3.760       31.018      
+THN     H131    H       H       0       80.067      3.687       33.353      
+THN     H132    H       H       0       79.618      5.002       34.112      
+THN     H15     H       H       0       82.612      4.123       31.956      
+THN     H16     H       H       0       84.686      5.263       32.728      
+THN     H17     H       H       0       84.220      6.737       34.647      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -65,43 +66,42 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-THN S1    C2     SINGLE n 1.812 0.0175 1.812 0.0175
-THN S1    C6     SINGLE n 1.753 0.0200 1.753 0.0200
-THN C2    C3     SINGLE n 1.500 0.0100 1.500 0.0100
-THN C3    "C3'"  DOUBLE n 1.322 0.0100 1.322 0.0100
-THN C3    C4     SINGLE n 1.514 0.0146 1.514 0.0146
-THN C4    "C4'"  SINGLE n 1.525 0.0157 1.525 0.0157
-THN C4    N5     SINGLE n 1.466 0.0158 1.466 0.0158
-THN "C4'" O4A    SINGLE n 1.195 0.0200 1.195 0.0200
-THN "C4'" O4B    DOUBLE n 1.195 0.0200 1.195 0.0200
-THN N5    C6     DOUBLE n 1.269 0.0200 1.269 0.0200
-THN C6    C7     SINGLE n 1.516 0.0156 1.516 0.0156
-THN C7    C8     SINGLE n 1.539 0.0155 1.539 0.0155
-THN C7    N10    SINGLE n 1.459 0.0125 1.459 0.0125
-THN C8    O9A    DOUBLE n 1.244 0.0200 1.244 0.0200
-THN C8    O9B    SINGLE n 1.244 0.0200 1.244 0.0200
-THN N10   C11    SINGLE n 1.334 0.0106 1.334 0.0106
-THN C11   O12    DOUBLE n 1.232 0.0104 1.232 0.0104
-THN C11   C13    SINGLE n 1.517 0.0109 1.517 0.0109
-THN C13   C14    SINGLE n 1.488 0.0103 1.488 0.0103
-THN C14   C15    DOUBLE y 1.373 0.0200 1.373 0.0200
-THN C14   S19    SINGLE y 1.695 0.0200 1.695 0.0200
-THN C15   C16    SINGLE y 1.417 0.0151 1.417 0.0151
-THN C16   C17    DOUBLE y 1.343 0.0200 1.343 0.0200
-THN C17   S19    SINGLE y 1.695 0.0200 1.695 0.0200
-THN C2    H21    SINGLE n 1.089 0.0100 0.977 0.0141
-THN C2    H22    SINGLE n 1.089 0.0100 0.977 0.0141
-THN "C3'" "H3'1" SINGLE n 1.082 0.0130 0.935 0.0139
-THN "C3'" "H3'2" SINGLE n 1.082 0.0130 0.935 0.0139
-THN C4    H4     SINGLE n 1.089 0.0100 0.988 0.0160
-THN C7    H7     SINGLE n 1.089 0.0100 0.988 0.0188
-THN N10   H10    SINGLE n 1.016 0.0100 0.871 0.0200
-THN C13   H131   SINGLE n 1.089 0.0100 0.979 0.0162
-THN C13   H132   SINGLE n 1.089 0.0100 0.979 0.0162
-THN C15   H15    SINGLE n 1.082 0.0130 0.942 0.0153
-THN C16   H16    SINGLE n 1.082 0.0130 0.942 0.0153
-THN C17   H17    SINGLE n 1.082 0.0130 0.942 0.0200
-
+THN          S1          C2      SINGLE       n     1.812  0.0175     1.812  0.0175
+THN          S1          C6      SINGLE       n     1.753  0.0200     1.753  0.0200
+THN          C2          C3      SINGLE       n     1.500  0.0100     1.500  0.0100
+THN          C3       "C3'"      DOUBLE       n     1.322  0.0100     1.322  0.0100
+THN          C3          C4      SINGLE       n     1.514  0.0146     1.514  0.0146
+THN          C4       "C4'"      SINGLE       n     1.525  0.0157     1.525  0.0157
+THN          C4          N5      SINGLE       n     1.466  0.0158     1.466  0.0158
+THN       "C4'"         O4A      SINGLE       n     1.195  0.0200     1.195  0.0200
+THN       "C4'"         O4B      DOUBLE       n     1.195  0.0200     1.195  0.0200
+THN          N5          C6      DOUBLE       n     1.269  0.0200     1.269  0.0200
+THN          C6          C7      SINGLE       n     1.516  0.0156     1.516  0.0156
+THN          C7          C8      SINGLE       n     1.539  0.0155     1.539  0.0155
+THN          C7         N10      SINGLE       n     1.459  0.0125     1.459  0.0125
+THN          C8         O9A      DOUBLE       n     1.244  0.0200     1.244  0.0200
+THN          C8         O9B      SINGLE       n     1.244  0.0200     1.244  0.0200
+THN         N10         C11      SINGLE       n     1.334  0.0106     1.334  0.0106
+THN         C11         O12      DOUBLE       n     1.232  0.0104     1.232  0.0104
+THN         C11         C13      SINGLE       n     1.517  0.0109     1.517  0.0109
+THN         C13         C14      SINGLE       n     1.488  0.0103     1.488  0.0103
+THN         C14         C15      DOUBLE       y     1.373  0.0200     1.373  0.0200
+THN         C14         S19      SINGLE       y     1.695  0.0200     1.695  0.0200
+THN         C15         C16      SINGLE       y     1.417  0.0151     1.417  0.0151
+THN         C16         C17      DOUBLE       y     1.343  0.0200     1.343  0.0200
+THN         C17         S19      SINGLE       y     1.695  0.0200     1.695  0.0200
+THN          C2         H21      SINGLE       n     1.089  0.0100     0.977  0.0141
+THN          C2         H22      SINGLE       n     1.089  0.0100     0.977  0.0141
+THN       "C3'"      "H3'1"      SINGLE       n     1.082  0.0130     0.935  0.0139
+THN       "C3'"      "H3'2"      SINGLE       n     1.082  0.0130     0.935  0.0139
+THN          C4          H4      SINGLE       n     1.089  0.0100     0.988  0.0160
+THN          C7          H7      SINGLE       n     1.089  0.0100     0.988  0.0188
+THN         N10         H10      SINGLE       n     1.016  0.0100     0.871  0.0200
+THN         C13        H131      SINGLE       n     1.089  0.0100     0.979  0.0162
+THN         C13        H132      SINGLE       n     1.089  0.0100     0.979  0.0162
+THN         C15         H15      SINGLE       n     1.082  0.0130     0.942  0.0153
+THN         C16         H16      SINGLE       n     1.082  0.0130     0.942  0.0153
+THN         C17         H17      SINGLE       n     1.082  0.0130     0.942  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -109,67 +109,66 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-THN C2     S1    C6     120.000 3.00
-THN S1     C2    C3     111.432 2.83
-THN S1     C2    H21    108.338 1.74
-THN S1     C2    H22    108.338 1.74
-THN C3     C2    H21    109.207 1.50
-THN C3     C2    H22    109.207 1.50
-THN H21    C2    H22    108.104 1.50
-THN C2     C3    "C3'"  121.760 3.00
-THN C2     C3    C4     116.480 1.99
-THN "C3'"  C3    C4     121.760 3.00
-THN C3     "C3'" "H3'1" 120.214 1.50
-THN C3     "C3'" "H3'2" 120.214 1.50
-THN "H3'1" "C3'" "H3'2" 119.572 2.66
-THN C3     C4    "C4'"  109.919 2.81
-THN C3     C4    N5     113.884 2.10
-THN C3     C4    H4     108.678 1.50
-THN "C4'"  C4    N5     108.919 3.00
-THN "C4'"  C4    H4     107.668 1.59
-THN N5     C4    H4     108.158 1.74
-THN C4     "C4'" O4A    118.950 2.54
-THN C4     "C4'" O4B    118.950 2.54
-THN O4A    "C4'" O4B    122.100 1.50
-THN C4     N5    C6     118.328 2.71
-THN S1     C6    N5     127.873 2.33
-THN S1     C6    C7     114.013 2.52
-THN N5     C6    C7     118.114 2.43
-THN C6     C7    C8     112.506 2.63
-THN C6     C7    N10    113.550 1.91
-THN C6     C7    H7     109.369 1.50
-THN C8     C7    N10    111.249 2.34
-THN C8     C7    H7     107.385 3.00
-THN N10    C7    H7     107.390 1.50
-THN C7     C8    O9A    117.267 1.50
-THN C7     C8    O9B    117.267 1.50
-THN O9A    C8    O9B    125.465 1.75
-THN C7     N10   C11    122.197 1.96
-THN C7     N10   H10    118.970 1.83
-THN C11    N10   H10    118.832 1.94
-THN N10    C11   O12    122.779 1.50
-THN N10    C11   C13    115.668 1.65
-THN O12    C11   C13    121.553 1.50
-THN C11    C13   C14    112.079 2.81
-THN C11    C13   H131   109.162 1.50
-THN C11    C13   H132   109.162 1.50
-THN C14    C13   H131   108.978 1.50
-THN C14    C13   H132   108.978 1.50
-THN H131   C13   H132   107.730 1.50
-THN C13    C14   C15    131.838 2.45
-THN C13    C14   S19    119.849 3.00
-THN C15    C14   S19    108.313 3.00
-THN C14    C15   C16    107.709 1.50
-THN C14    C15   H15    126.392 1.50
-THN C16    C15   H15    125.900 1.50
-THN C15    C16   C17    107.351 1.50
-THN C15    C16   H16    125.960 1.50
-THN C17    C16   H16    126.690 1.50
-THN C16    C17   S19    108.313 3.00
-THN C16    C17   H17    128.471 2.40
-THN S19    C17   H17    123.215 3.00
-THN C14    S19   C17    108.313 3.00
-
+THN          C2          S1          C6     120.000    3.00
+THN          S1          C2          C3     111.432    2.83
+THN          S1          C2         H21     108.338    1.74
+THN          S1          C2         H22     108.338    1.74
+THN          C3          C2         H21     109.207    1.50
+THN          C3          C2         H22     109.207    1.50
+THN         H21          C2         H22     108.104    1.50
+THN          C2          C3       "C3'"     121.760    3.00
+THN          C2          C3          C4     116.480    1.99
+THN       "C3'"          C3          C4     121.760    3.00
+THN          C3       "C3'"      "H3'1"     120.214    1.50
+THN          C3       "C3'"      "H3'2"     120.214    1.50
+THN      "H3'1"       "C3'"      "H3'2"     119.572    2.66
+THN          C3          C4       "C4'"     109.919    2.81
+THN          C3          C4          N5     113.884    2.10
+THN          C3          C4          H4     108.678    1.50
+THN       "C4'"          C4          N5     108.919    3.00
+THN       "C4'"          C4          H4     107.668    1.59
+THN          N5          C4          H4     108.158    1.74
+THN          C4       "C4'"         O4A     118.950    2.54
+THN          C4       "C4'"         O4B     118.950    2.54
+THN         O4A       "C4'"         O4B     122.100    1.50
+THN          C4          N5          C6     118.328    2.71
+THN          S1          C6          N5     127.873    2.33
+THN          S1          C6          C7     114.013    2.52
+THN          N5          C6          C7     118.114    2.43
+THN          C6          C7          C8     112.506    2.63
+THN          C6          C7         N10     113.550    1.91
+THN          C6          C7          H7     109.369    1.50
+THN          C8          C7         N10     111.249    2.34
+THN          C8          C7          H7     107.385    3.00
+THN         N10          C7          H7     107.390    1.50
+THN          C7          C8         O9A     117.267    1.50
+THN          C7          C8         O9B     117.267    1.50
+THN         O9A          C8         O9B     125.465    1.75
+THN          C7         N10         C11     122.197    1.96
+THN          C7         N10         H10     118.970    1.83
+THN         C11         N10         H10     118.832    1.94
+THN         N10         C11         O12     122.779    1.50
+THN         N10         C11         C13     115.668    1.65
+THN         O12         C11         C13     121.553    1.50
+THN         C11         C13         C14     112.079    2.81
+THN         C11         C13        H131     109.162    1.50
+THN         C11         C13        H132     109.162    1.50
+THN         C14         C13        H131     108.978    1.50
+THN         C14         C13        H132     108.978    1.50
+THN        H131         C13        H132     107.730    1.50
+THN         C13         C14         C15     131.838    2.45
+THN         C13         C14         S19     119.849    3.00
+THN         C15         C14         S19     108.313    3.00
+THN         C14         C15         C16     107.709    1.50
+THN         C14         C15         H15     126.392    1.50
+THN         C16         C15         H15     125.900    1.50
+THN         C15         C16         C17     107.351    1.50
+THN         C15         C16         H16     125.960    1.50
+THN         C17         C16         H16     126.690    1.50
+THN         C16         C17         S19     108.313    3.00
+THN         C16         C17         H17     128.471    2.40
+THN         S19         C17         H17     123.215    3.00
+THN         C14         S19         C17     108.313    3.00
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -180,26 +179,25 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-THN sp3_sp3_1       C3    C2    S1    C6     60.000  10.0 3
-THN sp2_sp2_4       C7    C6    S1    C2     180.000 5.0  2
-THN sp2_sp3_29      O9A   C8    C7    N10    120.000 10.0 6
-THN sp2_sp3_35      C11   N10   C7    C8     120.000 10.0 6
-THN sp2_sp2_11      O12   C11   N10   C7     0.000   5.0  2
-THN sp2_sp3_41      N10   C11   C13   C14    120.000 10.0 6
-THN sp2_sp3_47      C15   C14   C13   C11    -90.000 10.0 6
-THN const_sp2_sp2_3 C13   C14   C15   C16    180.000 5.0  2
-THN const_16        C13   C14   S19   C17    180.000 10.0 2
-THN const_sp2_sp2_5 C14   C15   C16   C17    0.000   5.0  2
-THN sp2_sp3_4       "C3'" C3    C2    S1     180.000 10.0 6
-THN const_sp2_sp2_9 C15   C16   C17   S19    0.000   5.0  2
-THN const_13        C16   C17   S19   C14    0.000   10.0 2
-THN sp2_sp2_5       C2    C3    "C3'" "H3'1" 180.000 5.0  2
-THN sp2_sp3_11      "C3'" C3    C4    "C4'"  -60.000 10.0 6
-THN sp2_sp3_16      O4A   "C4'" C4    C3     0.000   10.0 6
-THN sp2_sp3_14      C6    N5    C4    "C4'"  120.000 10.0 6
-THN sp2_sp2_2       C7    C6    N5    C4     180.000 5.0  2
-THN sp2_sp3_22      S1    C6    C7    C8     150.000 10.0 6
-
+THN             sp3_sp3_1          C3          C2          S1          C6      60.000    10.0     3
+THN             sp2_sp2_4          C7          C6          S1          C2     180.000     5.0     2
+THN            sp2_sp3_29         O9A          C8          C7         N10     120.000    10.0     6
+THN            sp2_sp3_35         C11         N10          C7          C8     120.000    10.0     6
+THN            sp2_sp2_11         O12         C11         N10          C7       0.000     5.0     2
+THN            sp2_sp3_41         N10         C11         C13         C14     120.000    10.0     6
+THN            sp2_sp3_47         C15         C14         C13         C11     -90.000    10.0     6
+THN       const_sp2_sp2_3         C13         C14         C15         C16     180.000     5.0     2
+THN              const_16         C13         C14         S19         C17     180.000    10.0     2
+THN       const_sp2_sp2_5         C14         C15         C16         C17       0.000     5.0     2
+THN             sp2_sp3_4       "C3'"          C3          C2          S1     180.000    10.0     6
+THN       const_sp2_sp2_9         C15         C16         C17         S19       0.000     5.0     2
+THN              const_13         C16         C17         S19         C14       0.000    10.0     2
+THN             sp2_sp2_5          C2          C3       "C3'"      "H3'1"     180.000     5.0     2
+THN            sp2_sp3_11       "C3'"          C3          C4       "C4'"     -60.000    10.0     6
+THN            sp2_sp3_16         O4A       "C4'"          C4          C3       0.000    10.0     6
+THN            sp2_sp3_14          C6          N5          C4       "C4'"     120.000    10.0     6
+THN             sp2_sp2_2          C7          C6          N5          C4     180.000     5.0     2
+THN            sp2_sp3_22          S1          C6          C7          C8     150.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -208,85 +206,69 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-THN chir_1 C4 N5  "C4'" C3 positive
-THN chir_2 C7 N10 C6    C8 negative
-
+THN    chir_1    C4    N5    "C4'"    C3    positive
+THN    chir_2    C7    N10    C6    C8    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-THN plan-1 C13    0.020
-THN plan-1 C14    0.020
-THN plan-1 C15    0.020
-THN plan-1 C16    0.020
-THN plan-1 C17    0.020
-THN plan-1 H15    0.020
-THN plan-1 H16    0.020
-THN plan-1 H17    0.020
-THN plan-1 S19    0.020
-THN plan-2 C2     0.020
-THN plan-2 C3     0.020
-THN plan-2 "C3'"  0.020
-THN plan-2 C4     0.020
-THN plan-3 C3     0.020
-THN plan-3 "C3'"  0.020
-THN plan-3 "H3'1" 0.020
-THN plan-3 "H3'2" 0.020
-THN plan-4 C4     0.020
-THN plan-4 "C4'"  0.020
-THN plan-4 O4A    0.020
-THN plan-4 O4B    0.020
-THN plan-5 C6     0.020
-THN plan-5 C7     0.020
-THN plan-5 N5     0.020
-THN plan-5 S1     0.020
-THN plan-6 C7     0.020
-THN plan-6 C8     0.020
-THN plan-6 O9A    0.020
-THN plan-6 O9B    0.020
-THN plan-7 C11    0.020
-THN plan-7 C7     0.020
-THN plan-7 H10    0.020
-THN plan-7 N10    0.020
-THN plan-8 C11    0.020
-THN plan-8 C13    0.020
-THN plan-8 N10    0.020
-THN plan-8 O12    0.020
-
+THN    plan-1         C13   0.020
+THN    plan-1         C14   0.020
+THN    plan-1         C15   0.020
+THN    plan-1         C16   0.020
+THN    plan-1         C17   0.020
+THN    plan-1         H15   0.020
+THN    plan-1         H16   0.020
+THN    plan-1         H17   0.020
+THN    plan-1         S19   0.020
+THN    plan-2          C2   0.020
+THN    plan-2          C3   0.020
+THN    plan-2       "C3'"   0.020
+THN    plan-2          C4   0.020
+THN    plan-3          C3   0.020
+THN    plan-3       "C3'"   0.020
+THN    plan-3      "H3'1"   0.020
+THN    plan-3      "H3'2"   0.020
+THN    plan-4          C4   0.020
+THN    plan-4       "C4'"   0.020
+THN    plan-4         O4A   0.020
+THN    plan-4         O4B   0.020
+THN    plan-5          C6   0.020
+THN    plan-5          C7   0.020
+THN    plan-5          N5   0.020
+THN    plan-5          S1   0.020
+THN    plan-6          C7   0.020
+THN    plan-6          C8   0.020
+THN    plan-6         O9A   0.020
+THN    plan-6         O9B   0.020
+THN    plan-7         C11   0.020
+THN    plan-7          C7   0.020
+THN    plan-7         H10   0.020
+THN    plan-7         N10   0.020
+THN    plan-8         C11   0.020
+THN    plan-8         C13   0.020
+THN    plan-8         N10   0.020
+THN    plan-8         O12   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-THN SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)Cc1sccc1)C2=NC(C(=C)\CS2)C(=O)O
-THN SMILES_CANONICAL CACTVS               3.341 OC(=O)[C@@H](NC(=O)Cc1sccc1)C2=N[C@H](C(O)=O)C(=C)CS2
-THN SMILES           CACTVS               3.341 OC(=O)[CH](NC(=O)Cc1sccc1)C2=N[CH](C(O)=O)C(=C)CS2
-THN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C=C1CSC(=NC1C(=O)O)[C@@H](C(=O)O)NC(=O)Cc2cccs2
-THN SMILES           "OpenEye OEToolkits" 1.5.0 C=C1CSC(=NC1C(=O)O)C(C(=O)O)NC(=O)Cc2cccs2
-THN InChI            InChI                1.03  InChI=1S/C14H14N2O5S2/c1-7-6-23-12(16-10(7)13(18)19)11(14(20)21)15-9(17)5-8-3-2-4-22-8/h2-4,10-11H,1,5-6H2,(H,15,17)(H,18,19)(H,20,21)/t10-,11-/m0/s1
-THN InChIKey         InChI                1.03  VBBNCGUNWSPHOY-QWRGUYRKSA-N
-
+THN           SMILES              ACDLabs 10.04                                                                                                         O=C(O)C(NC(=O)Cc1sccc1)C2=NC(C(=C)\CS2)C(=O)O
+THN SMILES_CANONICAL               CACTVS 3.341                                                                                                 OC(=O)[C@@H](NC(=O)Cc1sccc1)C2=N[C@H](C(O)=O)C(=C)CS2
+THN           SMILES               CACTVS 3.341                                                                                                    OC(=O)[CH](NC(=O)Cc1sccc1)C2=N[CH](C(O)=O)C(=C)CS2
+THN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                       C=C1CSC(=NC1C(=O)O)[C@@H](C(=O)O)NC(=O)Cc2cccs2
+THN           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                            C=C1CSC(=NC1C(=O)O)C(C(=O)O)NC(=O)Cc2cccs2
+THN            InChI                InChI  1.03 InChI=1S/C14H14N2O5S2/c1-7-6-23-12(16-10(7)13(18)19)11(14(20)21)15-9(17)5-8-3-2-4-22-8/h2-4,10-11H,1,5-6H2,(H,15,17)(H,18,19)(H,20,21)/t10-,11-/m0/s1
+THN         InChIKey                InChI  1.03                                                                                                                           VBBNCGUNWSPHOY-QWRGUYRKSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-THN acedrg          243       "dictionary generator"
-THN acedrg_database 11        "data source"
-THN rdkit           2017.03.2 "Chemoinformatics tool"
-THN refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-THN M-peptide O9A O
-THN M-peptide C8  C
-THN M-peptide C7  CA
-THN M-peptide N10 N
-THN M-peptide C11 CN
-THN M-peptide O9B OXT
-THN M-peptide H10 H
+THN acedrg               243         "dictionary generator"                  
+THN acedrg_database      11          "data source"                           
+THN rdkit                2017.03.2   "Chemoinformatics tool"
+THN refmac5              5.8.0238    "optimization tool"                     

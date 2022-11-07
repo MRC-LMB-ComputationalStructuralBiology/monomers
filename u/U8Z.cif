@@ -19,21 +19,21 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-U8Z C1 C C   0  -16.848 3.922 -35.802
-U8Z C2 C CH2 0  -18.297 3.534 -35.628
-U8Z C3 C C1  0  -15.706 3.429 -35.014
-U8Z O4 O OP  -1 -15.462 0.695 -32.417
-U8Z O6 O O   0  -13.816 1.317 -34.164
-U8Z P1 P P   0  -14.843 1.831 -33.184
-U8Z O5 O OP  -1 -14.237 2.854 -32.264
-U8Z O3 O O2  0  -15.975 2.537 -34.050
-U8Z O2 O OH1 0  -19.170 4.391 -36.328
-U8Z O1 O OH1 0  -16.582 4.820 -36.806
-U8Z H1 H H   0  -18.523 3.555 -34.676
-U8Z H2 H H   0  -18.424 2.618 -35.944
-U8Z H3 H H   0  -14.826 3.738 -35.193
-U8Z H6 H H   0  -19.964 4.098 -36.279
-U8Z H7 H H   0  -15.811 5.201 -36.859
+U8Z C1 C C 0 -16.848 3.922 -35.802
+U8Z C2 C CH2 0 -18.297 3.534 -35.628
+U8Z C3 C C1 0 -15.706 3.429 -35.014
+U8Z O4 O OP -1 -15.462 0.695 -32.417
+U8Z O6 O O 0 -13.816 1.317 -34.164
+U8Z P1 P P 0 -14.843 1.831 -33.184
+U8Z O5 O OP -1 -14.237 2.854 -32.264
+U8Z O3 O O2 0 -15.975 2.537 -34.050
+U8Z O2 O OH1 0 -19.170 4.391 -36.328
+U8Z O1 O OH1 0 -16.582 4.820 -36.806
+U8Z H1 H H 0 -18.523 3.555 -34.676
+U8Z H2 H H 0 -18.424 2.618 -35.944
+U8Z H3 H H 0 -14.826 3.738 -35.193
+U8Z H6 H H 0 -19.964 4.098 -36.279
+U8Z H7 H H 0 -15.811 5.201 -36.859
 
 loop_
 _chem_comp_bond.comp_id
@@ -100,10 +100,10 @@ _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
 U8Z sp2_sp3_2 C3 C1 C2 O2 120.000 10.0 6
-U8Z sp2_sp2_1 C2 C1 C3 O3 180.000 5.0  2
-U8Z sp2_sp2_7 C2 C1 O1 H7 180.000 5.0  2
+U8Z sp2_sp2_1 C2 C1 C3 O3 180.000 5.0 2
+U8Z sp2_sp2_7 C2 C1 O1 H7 180.000 5.0 2
 U8Z sp3_sp3_1 C1 C2 O2 H6 180.000 10.0 3
-U8Z sp2_sp2_5 C1 C3 O3 P1 180.000 5.0  2
+U8Z sp2_sp2_5 C1 C3 O3 P1 180.000 5.0 2
 U8Z sp3_sp3_4 O6 P1 O3 C3 180.000 10.0 3
 
 loop_
@@ -136,35 +136,19 @@ _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-U8Z InChI            InChI                1.03  InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h2,4-5H,1H2,(H2,6,7,8)/b3-2+
-U8Z InChIKey         InChI                1.03  MCQBMKDEIFHCJL-NSCUHMNNSA-N
-U8Z SMILES_CANONICAL CACTVS               3.385 OC\C(O)=C/O[P](O)(O)=O
-U8Z SMILES           CACTVS               3.385 OCC(O)=CO[P](O)(O)=O
+U8Z InChI InChI 1.03 InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h2,4-5H,1H2,(H2,6,7,8)/b3-2+
+U8Z InChIKey InChI 1.03 MCQBMKDEIFHCJL-NSCUHMNNSA-N
+U8Z SMILES_CANONICAL CACTVS 3.385 OC\C(O)=C/O[P](O)(O)=O
+U8Z SMILES CACTVS 3.385 OCC(O)=CO[P](O)(O)=O
 U8Z SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 C(/C(=C\OP(=O)(O)O)/O)O
-U8Z SMILES           "OpenEye OEToolkits" 2.0.7 C(C(=COP(=O)(O)O)O)O
+U8Z SMILES "OpenEye OEToolkits" 2.0.7 C(C(=COP(=O)(O)O)O)O
 
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-U8Z acedrg          243       "dictionary generator"
-U8Z acedrg_database 11        "data source"
-U8Z rdkit           2017.03.2 "Chemoinformatics tool"
-U8Z refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-U8Z DNA/RNA O4 OP3
-U8Z DNA/RNA P1 P
-U8Z DNA/RNA O6 OP1
-U8Z DNA/RNA O5 OP2
-U8Z DNA/RNA O3 O5'
-U8Z DNA/RNA C3 C5'
-U8Z DNA/RNA C1 C4'
-U8Z DNA/RNA C2 C3'
-U8Z DNA/RNA O2 O3'
-U8Z DNA/RNA H6 HO3'
+U8Z acedrg 243 "dictionary generator"
+U8Z acedrg_database 11 "data source"
+U8Z rdkit 2017.03.2 "Chemoinformatics tool"
+U8Z refmac5 5.8.0238 "optimization tool"

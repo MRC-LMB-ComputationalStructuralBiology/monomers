@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-40E 40E "oxo(propan-2-ylamino)acetic acid" NON-POLYMER 17 9 .
-
+40E     40E      "oxo(propan-2-ylamino)acetic acid"     NON-POLYMER     17     9     .     
+#
 data_comp_40E
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,24 +21,23 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-40E C1  C C   0  -48.237 -3.983 25.605
-40E O11 O OC  -1 -47.917 -4.578 26.630
-40E O12 O O   0  -47.465 -3.451 24.802
-40E C2  C C   0  -49.700 -3.972 25.222
-40E O2  O O   0  -49.958 -3.639 24.065
-40E N3  N NH1 0  -50.732 -4.300 26.027
-40E C4  C CH1 0  -50.710 -4.484 27.485
-40E C41 C CH3 0  -51.985 -3.927 28.082
-40E C42 C CH3 0  -50.538 -5.951 27.818
-40E H2  H H   0  -51.506 -4.430 25.646
-40E H3  H H   0  -49.952 -3.979 27.867
-40E H4  H H   0  -52.748 -4.423 27.739
-40E H5  H H   0  -52.073 -2.988 27.842
-40E H6  H H   0  -51.954 -4.011 29.051
-40E H7  H H   0  -50.381 -6.051 28.774
-40E H8  H H   0  -49.782 -6.313 27.326
-40E H9  H H   0  -51.345 -6.436 27.572
-
+40E     C1      C       C       0       -48.237     -3.983      25.605      
+40E     O11     O       OC      -1      -47.917     -4.578      26.630      
+40E     O12     O       O       0       -47.465     -3.451      24.802      
+40E     C2      C       C       0       -49.700     -3.972      25.222      
+40E     O2      O       O       0       -49.958     -3.639      24.065      
+40E     N3      N       NH1     0       -50.732     -4.300      26.027      
+40E     C4      C       CH1     0       -50.710     -4.484      27.485      
+40E     C41     C       CH3     0       -51.985     -3.927      28.082      
+40E     C42     C       CH3     0       -50.538     -5.951      27.818      
+40E     H2      H       H       0       -51.506     -4.430      25.646      
+40E     H3      H       H       0       -49.952     -3.979      27.867      
+40E     H4      H       H       0       -52.748     -4.423      27.739      
+40E     H5      H       H       0       -52.073     -2.988      27.842      
+40E     H6      H       H       0       -51.954     -4.011      29.051      
+40E     H7      H       H       0       -50.381     -6.051      28.774      
+40E     H8      H       H       0       -49.782     -6.313      27.326      
+40E     H9      H       H       0       -51.345     -6.436      27.572      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -47,23 +48,22 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-40E C2  O2  DOUBLE n 1.229 0.0129 1.229 0.0129
-40E C1  O12 DOUBLE n 1.230 0.0200 1.230 0.0200
-40E C1  C2  SINGLE n 1.498 0.0138 1.498 0.0138
-40E C2  N3  SINGLE n 1.336 0.0127 1.336 0.0127
-40E C1  O11 SINGLE n 1.230 0.0200 1.230 0.0200
-40E N3  C4  SINGLE n 1.466 0.0100 1.466 0.0100
-40E C4  C42 SINGLE n 1.514 0.0108 1.514 0.0108
-40E C4  C41 SINGLE n 1.514 0.0108 1.514 0.0108
-40E N3  H2  SINGLE n 1.016 0.0100 0.870 0.0200
-40E C4  H3  SINGLE n 1.089 0.0100 0.989 0.0106
-40E C41 H4  SINGLE n 1.089 0.0100 0.973 0.0146
-40E C41 H5  SINGLE n 1.089 0.0100 0.973 0.0146
-40E C41 H6  SINGLE n 1.089 0.0100 0.973 0.0146
-40E C42 H7  SINGLE n 1.089 0.0100 0.973 0.0146
-40E C42 H8  SINGLE n 1.089 0.0100 0.973 0.0146
-40E C42 H9  SINGLE n 1.089 0.0100 0.973 0.0146
-
+40E          C2          O2      DOUBLE       n     1.229  0.0129     1.229  0.0129
+40E          C1         O12      DOUBLE       n     1.230  0.0200     1.230  0.0200
+40E          C1          C2      SINGLE       n     1.498  0.0138     1.498  0.0138
+40E          C2          N3      SINGLE       n     1.336  0.0127     1.336  0.0127
+40E          C1         O11      SINGLE       n     1.230  0.0200     1.230  0.0200
+40E          N3          C4      SINGLE       n     1.466  0.0100     1.466  0.0100
+40E          C4         C42      SINGLE       n     1.514  0.0108     1.514  0.0108
+40E          C4         C41      SINGLE       n     1.514  0.0108     1.514  0.0108
+40E          N3          H2      SINGLE       n     1.016  0.0100     0.870  0.0200
+40E          C4          H3      SINGLE       n     1.089  0.0100     0.989  0.0106
+40E         C41          H4      SINGLE       n     1.089  0.0100     0.973  0.0146
+40E         C41          H5      SINGLE       n     1.089  0.0100     0.973  0.0146
+40E         C41          H6      SINGLE       n     1.089  0.0100     0.973  0.0146
+40E         C42          H7      SINGLE       n     1.089  0.0100     0.973  0.0146
+40E         C42          H8      SINGLE       n     1.089  0.0100     0.973  0.0146
+40E         C42          H9      SINGLE       n     1.089  0.0100     0.973  0.0146
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -71,34 +71,33 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-40E O12 C1  C2  116.260 1.50
-40E O12 C1  O11 127.480 1.50
-40E C2  C1  O11 116.260 1.50
-40E O2  C2  C1  119.080 1.50
-40E O2  C2  N3  122.725 1.83
-40E C1  C2  N3  118.195 3.00
-40E C2  N3  C4  123.792 1.50
-40E C2  N3  H2  118.379 2.08
-40E C4  N3  H2  117.829 2.55
-40E N3  C4  C42 109.617 1.50
-40E N3  C4  C41 109.617 1.50
-40E N3  C4  H3  108.397 1.50
-40E C42 C4  C41 111.835 1.50
-40E C42 C4  H3  108.408 1.50
-40E C41 C4  H3  108.408 1.50
-40E C4  C41 H4  109.432 1.50
-40E C4  C41 H5  109.432 1.50
-40E C4  C41 H6  109.432 1.50
-40E H4  C41 H5  109.386 1.50
-40E H4  C41 H6  109.386 1.50
-40E H5  C41 H6  109.386 1.50
-40E C4  C42 H7  109.432 1.50
-40E C4  C42 H8  109.432 1.50
-40E C4  C42 H9  109.432 1.50
-40E H7  C42 H8  109.386 1.50
-40E H7  C42 H9  109.386 1.50
-40E H8  C42 H9  109.386 1.50
-
+40E         O12          C1          C2     116.260    1.50
+40E         O12          C1         O11     127.480    1.50
+40E          C2          C1         O11     116.260    1.50
+40E          O2          C2          C1     119.080    1.50
+40E          O2          C2          N3     122.725    1.83
+40E          C1          C2          N3     118.195    3.00
+40E          C2          N3          C4     123.792    1.50
+40E          C2          N3          H2     118.379    2.08
+40E          C4          N3          H2     117.829    2.55
+40E          N3          C4         C42     109.617    1.50
+40E          N3          C4         C41     109.617    1.50
+40E          N3          C4          H3     108.397    1.50
+40E         C42          C4         C41     111.835    1.50
+40E         C42          C4          H3     108.408    1.50
+40E         C41          C4          H3     108.408    1.50
+40E          C4         C41          H4     109.432    1.50
+40E          C4         C41          H5     109.432    1.50
+40E          C4         C41          H6     109.432    1.50
+40E          H4         C41          H5     109.386    1.50
+40E          H4         C41          H6     109.386    1.50
+40E          H5         C41          H6     109.386    1.50
+40E          C4         C42          H7     109.432    1.50
+40E          C4         C42          H8     109.432    1.50
+40E          C4         C42          H9     109.432    1.50
+40E          H7         C42          H8     109.386    1.50
+40E          H7         C42          H9     109.386    1.50
+40E          H8         C42          H9     109.386    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -109,12 +108,11 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-40E sp2_sp2_2  O12 C1 C2  O2  0.000   5.0  2
-40E sp2_sp2_7  O2  C2 N3  C4  0.000   5.0  2
-40E sp2_sp3_2  C2  N3 C4  C42 120.000 10.0 6
-40E sp3_sp3_13 N3  C4 C41 H4  60.000  10.0 3
-40E sp3_sp3_1  N3  C4 C42 H7  180.000 10.0 3
-
+40E             sp2_sp2_2         O12          C1          C2          O2       0.000     5.0     2
+40E             sp2_sp2_7          O2          C2          N3          C4       0.000     5.0     2
+40E             sp2_sp3_2          C2          N3          C4         C42     120.000    10.0     6
+40E            sp3_sp3_13          N3          C4         C41          H4      60.000    10.0     3
+40E             sp3_sp3_1          N3          C4         C42          H7     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -123,59 +121,43 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-40E chir_1 C4 N3 C42 C41 both
-
+40E    chir_1    C4    N3    C42    C41    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-40E plan-1 C1  0.020
-40E plan-1 C2  0.020
-40E plan-1 O11 0.020
-40E plan-1 O12 0.020
-40E plan-2 C1  0.020
-40E plan-2 C2  0.020
-40E plan-2 N3  0.020
-40E plan-2 O2  0.020
-40E plan-3 C2  0.020
-40E plan-3 C4  0.020
-40E plan-3 H2  0.020
-40E plan-3 N3  0.020
-
+40E    plan-1          C1   0.020
+40E    plan-1          C2   0.020
+40E    plan-1         O11   0.020
+40E    plan-1         O12   0.020
+40E    plan-2          C1   0.020
+40E    plan-2          C2   0.020
+40E    plan-2          N3   0.020
+40E    plan-2          O2   0.020
+40E    plan-3          C2   0.020
+40E    plan-3          C4   0.020
+40E    plan-3          H2   0.020
+40E    plan-3          N3   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-40E SMILES           ACDLabs              12.01 O=C(NC(C)C)C(=O)O
-40E InChI            InChI                1.03  InChI=1S/C5H9NO3/c1-3(2)6-4(7)5(8)9/h3H,1-2H3,(H,6,7)(H,8,9)
-40E InChIKey         InChI                1.03  KBMFHCMLHQGQEB-UHFFFAOYSA-N
-40E SMILES_CANONICAL CACTVS               3.385 CC(C)NC(=O)C(O)=O
-40E SMILES           CACTVS               3.385 CC(C)NC(=O)C(O)=O
-40E SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 CC(C)NC(=O)C(=O)O
-40E SMILES           "OpenEye OEToolkits" 1.9.2 CC(C)NC(=O)C(=O)O
-
+40E           SMILES              ACDLabs 12.01                                            O=C(NC(C)C)C(=O)O
+40E            InChI                InChI  1.03 InChI=1S/C5H9NO3/c1-3(2)6-4(7)5(8)9/h3H,1-2H3,(H,6,7)(H,8,9)
+40E         InChIKey                InChI  1.03                                  KBMFHCMLHQGQEB-UHFFFAOYSA-N
+40E SMILES_CANONICAL               CACTVS 3.385                                            CC(C)NC(=O)C(O)=O
+40E           SMILES               CACTVS 3.385                                            CC(C)NC(=O)C(O)=O
+40E SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                            CC(C)NC(=O)C(=O)O
+40E           SMILES "OpenEye OEToolkits" 1.9.2                                            CC(C)NC(=O)C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-40E acedrg          243       "dictionary generator"
-40E acedrg_database 11        "data source"
-40E rdkit           2017.03.2 "Chemoinformatics tool"
-40E refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-40E M-peptide O12 O
-40E M-peptide C1  C
-40E M-peptide C2  CA
-40E M-peptide N3  N
-40E M-peptide C4  CN
-40E M-peptide O11 OXT
-40E M-peptide H2  H
+40E acedrg               243         "dictionary generator"                  
+40E acedrg_database      11          "data source"                           
+40E rdkit                2017.03.2   "Chemoinformatics tool"
+40E refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IYT IYT N-ALPHA-ACETYL-3,5-DIIODOTYROSYL-D-THREONINE NON-POLYMER 42 25 .
-
+IYT     IYT      N-ALPHA-ACETYL-3,5-DIIODOTYROSYL-D-THREONINE     NON-POLYMER     42     25     .     
+#
 data_comp_IYT
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,49 +21,48 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IYT CAN  C CH3  0  48.673 23.157 41.707
-IYT CN   C C    0  47.185 23.241 41.571
-IYT ON   O O    0  46.544 22.338 41.035
-IYT N    N NH1  0  46.595 24.343 42.057
-IYT CA   C CH1  0  45.152 24.562 42.020
-IYT CB   C CH2  0  44.431 23.680 43.050
-IYT CG   C CR6  0  44.808 23.954 44.486
-IYT CD1  C CR16 0  44.001 24.758 45.284
-IYT CE1  C CR6  0  44.338 25.016 46.607
-IYT CD2  C CR16 0  45.960 23.399 45.032
-IYT CE2  C CR6  0  46.312 23.647 46.354
-IYT CZ   C CR6  0  45.502 24.460 47.161
-IYT OH   O OH1  0  45.842 24.709 48.469
-IYT I1   I I    0  43.114 26.234 47.795
-IYT I2   I I    0  48.055 22.808 47.162
-IYT C    C C    0  44.789 26.034 42.236
-IYT O    O O    0  45.614 26.818 42.706
-IYT NT   N NH1  0  43.537 26.383 41.903
-IYT CAT  C CH1  0  43.023 27.732 42.069
-IYT CBT  C CH1  0  42.583 27.969 43.529
-IYT OGT  O OH1  0  41.450 27.151 43.824
-IYT CGT  C CH3  0  42.258 29.420 43.816
-IYT CT   C C    0  41.863 28.007 41.092
-IYT OX1  O OC   -1 41.988 28.970 40.310
-IYT OX2  O O    0  40.876 27.248 41.147
-IYT HAN1 H H    0  48.963 23.656 42.488
-IYT HAN2 H H    0  49.093 23.528 40.914
-IYT HAN3 H H    0  48.937 22.228 41.805
-IYT H    H H    0  47.096 24.966 42.413
-IYT HA   H H    0  44.830 24.305 41.121
-IYT HB2  H H    0  44.622 22.740 42.850
-IYT HB3  H H    0  43.465 23.811 42.949
-IYT HD1  H H    0  43.216 25.136 44.914
-IYT HD2  H H    0  46.509 22.851 44.491
-IYT HH   H H    0  46.524 25.202 48.650
-IYT HNT  H H    0  43.012 25.763 41.579
-IYT HAT  H H    0  43.751 28.377 41.852
-IYT HBT  H H    0  43.331 27.695 44.110
-IYT HGT  H H    0  41.306 27.154 44.660
-IYT HGT1 H H    0  42.262 29.570 44.778
-IYT HGT2 H H    0  41.378 29.635 43.459
-IYT HGT3 H H    0  42.926 29.993 43.397
-
+IYT     CAN     C       CH3     0       48.673      23.157      41.707      
+IYT     CN      C       C       0       47.185      23.241      41.571      
+IYT     ON      O       O       0       46.544      22.338      41.035      
+IYT     N       N       NH1     0       46.595      24.343      42.057      
+IYT     CA      C       CH1     0       45.152      24.562      42.020      
+IYT     CB      C       CH2     0       44.431      23.680      43.050      
+IYT     CG      C       CR6     0       44.808      23.954      44.486      
+IYT     CD1     C       CR16    0       44.001      24.758      45.284      
+IYT     CE1     C       CR6     0       44.338      25.016      46.607      
+IYT     CD2     C       CR16    0       45.960      23.399      45.032      
+IYT     CE2     C       CR6     0       46.312      23.647      46.354      
+IYT     CZ      C       CR6     0       45.502      24.460      47.161      
+IYT     OH      O       OH1     0       45.842      24.709      48.469      
+IYT     I1      I       I       0       43.114      26.234      47.795      
+IYT     I2      I       I       0       48.055      22.808      47.162      
+IYT     C       C       C       0       44.789      26.034      42.236      
+IYT     O       O       O       0       45.614      26.818      42.706      
+IYT     NT      N       NH1     0       43.537      26.383      41.903      
+IYT     CAT     C       CH1     0       43.023      27.732      42.069      
+IYT     CBT     C       CH1     0       42.583      27.969      43.529      
+IYT     OGT     O       OH1     0       41.450      27.151      43.824      
+IYT     CGT     C       CH3     0       42.258      29.420      43.816      
+IYT     CT      C       C       0       41.863      28.007      41.092      
+IYT     OX1     O       OC      -1      41.988      28.970      40.310      
+IYT     OX2     O       O       0       40.876      27.248      41.147      
+IYT     HAN1    H       H       0       48.963      23.656      42.488      
+IYT     HAN2    H       H       0       49.093      23.528      40.914      
+IYT     HAN3    H       H       0       48.937      22.228      41.805      
+IYT     H       H       H       0       47.096      24.966      42.413      
+IYT     HA      H       H       0       44.830      24.305      41.121      
+IYT     HB2     H       H       0       44.622      22.740      42.850      
+IYT     HB3     H       H       0       43.465      23.811      42.949      
+IYT     HD1     H       H       0       43.216      25.136      44.914      
+IYT     HD2     H       H       0       46.509      22.851      44.491      
+IYT     HH      H       H       0       46.524      25.202      48.650      
+IYT     HNT     H       H       0       43.012      25.763      41.579      
+IYT     HAT     H       H       0       43.751      28.377      41.852      
+IYT     HBT     H       H       0       43.331      27.695      44.110      
+IYT     HGT     H       H       0       41.306      27.154      44.660      
+IYT     HGT1    H       H       0       42.262      29.570      44.778      
+IYT     HGT2    H       H       0       41.378      29.635      43.459      
+IYT     HGT3    H       H       0       42.926      29.993      43.397      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -72,49 +73,48 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IYT CAN CN   SINGLE n 1.495 0.0100 1.495 0.0100
-IYT CN  ON   DOUBLE n 1.229 0.0102 1.229 0.0102
-IYT CN  N    SINGLE n 1.335 0.0100 1.335 0.0100
-IYT N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
-IYT CA  CB   SINGLE n 1.532 0.0110 1.532 0.0110
-IYT CA  C    SINGLE n 1.527 0.0118 1.527 0.0118
-IYT CB  CG   SINGLE n 1.508 0.0100 1.508 0.0100
-IYT CG  CD1  DOUBLE y 1.385 0.0106 1.385 0.0106
-IYT CG  CD2  SINGLE y 1.385 0.0106 1.385 0.0106
-IYT CD1 CE1  SINGLE y 1.385 0.0117 1.385 0.0117
-IYT CE1 CZ   DOUBLE y 1.400 0.0100 1.400 0.0100
-IYT CE1 I1   SINGLE n 2.096 0.0100 2.096 0.0100
-IYT CD2 CE2  DOUBLE y 1.385 0.0117 1.385 0.0117
-IYT CE2 CZ   SINGLE y 1.400 0.0100 1.400 0.0100
-IYT CE2 I2   SINGLE n 2.096 0.0100 2.096 0.0100
-IYT CZ  OH   SINGLE n 1.374 0.0155 1.374 0.0155
-IYT C   O    DOUBLE n 1.229 0.0102 1.229 0.0102
-IYT C   NT   SINGLE n 1.337 0.0100 1.337 0.0100
-IYT NT  CAT  SINGLE n 1.450 0.0100 1.450 0.0100
-IYT CAT CBT  SINGLE n 1.540 0.0100 1.540 0.0100
-IYT CAT CT   SINGLE n 1.539 0.0100 1.539 0.0100
-IYT CBT OGT  SINGLE n 1.428 0.0100 1.428 0.0100
-IYT CBT CGT  SINGLE n 1.513 0.0100 1.513 0.0100
-IYT CT  OX1  SINGLE n 1.247 0.0187 1.247 0.0187
-IYT CT  OX2  DOUBLE n 1.247 0.0187 1.247 0.0187
-IYT CAN HAN1 SINGLE n 1.089 0.0100 0.971 0.0140
-IYT CAN HAN2 SINGLE n 1.089 0.0100 0.971 0.0140
-IYT CAN HAN3 SINGLE n 1.089 0.0100 0.971 0.0140
-IYT N   H    SINGLE n 1.016 0.0100 0.873 0.0200
-IYT CA  HA   SINGLE n 1.089 0.0100 0.988 0.0200
-IYT CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0164
-IYT CB  HB3  SINGLE n 1.089 0.0100 0.980 0.0164
-IYT CD1 HD1  SINGLE n 1.082 0.0130 0.946 0.0100
-IYT CD2 HD2  SINGLE n 1.082 0.0130 0.946 0.0100
-IYT OH  HH   SINGLE n 0.966 0.0059 0.861 0.0200
-IYT NT  HNT  SINGLE n 1.016 0.0100 0.873 0.0200
-IYT CAT HAT  SINGLE n 1.089 0.0100 0.997 0.0200
-IYT CBT HBT  SINGLE n 1.089 0.0100 0.987 0.0200
-IYT OGT HGT  SINGLE n 0.970 0.0120 0.848 0.0200
-IYT CGT HGT1 SINGLE n 1.089 0.0100 0.974 0.0145
-IYT CGT HGT2 SINGLE n 1.089 0.0100 0.974 0.0145
-IYT CGT HGT3 SINGLE n 1.089 0.0100 0.974 0.0145
-
+IYT         CAN          CN      SINGLE       n     1.495  0.0100     1.495  0.0100
+IYT          CN          ON      DOUBLE       n     1.229  0.0102     1.229  0.0102
+IYT          CN           N      SINGLE       n     1.335  0.0100     1.335  0.0100
+IYT           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
+IYT          CA          CB      SINGLE       n     1.532  0.0110     1.532  0.0110
+IYT          CA           C      SINGLE       n     1.527  0.0118     1.527  0.0118
+IYT          CB          CG      SINGLE       n     1.508  0.0100     1.508  0.0100
+IYT          CG         CD1      DOUBLE       y     1.385  0.0106     1.385  0.0106
+IYT          CG         CD2      SINGLE       y     1.385  0.0106     1.385  0.0106
+IYT         CD1         CE1      SINGLE       y     1.385  0.0117     1.385  0.0117
+IYT         CE1          CZ      DOUBLE       y     1.400  0.0100     1.400  0.0100
+IYT         CE1          I1      SINGLE       n     2.096  0.0100     2.096  0.0100
+IYT         CD2         CE2      DOUBLE       y     1.385  0.0117     1.385  0.0117
+IYT         CE2          CZ      SINGLE       y     1.400  0.0100     1.400  0.0100
+IYT         CE2          I2      SINGLE       n     2.096  0.0100     2.096  0.0100
+IYT          CZ          OH      SINGLE       n     1.374  0.0155     1.374  0.0155
+IYT           C           O      DOUBLE       n     1.229  0.0102     1.229  0.0102
+IYT           C          NT      SINGLE       n     1.337  0.0100     1.337  0.0100
+IYT          NT         CAT      SINGLE       n     1.450  0.0100     1.450  0.0100
+IYT         CAT         CBT      SINGLE       n     1.540  0.0100     1.540  0.0100
+IYT         CAT          CT      SINGLE       n     1.539  0.0100     1.539  0.0100
+IYT         CBT         OGT      SINGLE       n     1.428  0.0100     1.428  0.0100
+IYT         CBT         CGT      SINGLE       n     1.513  0.0100     1.513  0.0100
+IYT          CT         OX1      SINGLE       n     1.247  0.0187     1.247  0.0187
+IYT          CT         OX2      DOUBLE       n     1.247  0.0187     1.247  0.0187
+IYT         CAN        HAN1      SINGLE       n     1.089  0.0100     0.971  0.0140
+IYT         CAN        HAN2      SINGLE       n     1.089  0.0100     0.971  0.0140
+IYT         CAN        HAN3      SINGLE       n     1.089  0.0100     0.971  0.0140
+IYT           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
+IYT          CA          HA      SINGLE       n     1.089  0.0100     0.988  0.0200
+IYT          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0164
+IYT          CB         HB3      SINGLE       n     1.089  0.0100     0.980  0.0164
+IYT         CD1         HD1      SINGLE       n     1.082  0.0130     0.946  0.0100
+IYT         CD2         HD2      SINGLE       n     1.082  0.0130     0.946  0.0100
+IYT          OH          HH      SINGLE       n     0.966  0.0059     0.861  0.0200
+IYT          NT         HNT      SINGLE       n     1.016  0.0100     0.873  0.0200
+IYT         CAT         HAT      SINGLE       n     1.089  0.0100     0.997  0.0200
+IYT         CBT         HBT      SINGLE       n     1.089  0.0100     0.987  0.0200
+IYT         OGT         HGT      SINGLE       n     0.970  0.0120     0.848  0.0200
+IYT         CGT        HGT1      SINGLE       n     1.089  0.0100     0.974  0.0145
+IYT         CGT        HGT2      SINGLE       n     1.089  0.0100     0.974  0.0145
+IYT         CGT        HGT3      SINGLE       n     1.089  0.0100     0.974  0.0145
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -122,78 +122,77 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IYT CN   CAN HAN1 109.678 1.50
-IYT CN   CAN HAN2 109.678 1.50
-IYT CN   CAN HAN3 109.678 1.50
-IYT HAN1 CAN HAN2 109.365 1.50
-IYT HAN1 CAN HAN3 109.365 1.50
-IYT HAN2 CAN HAN3 109.365 1.50
-IYT CAN  CN  ON   121.913 1.50
-IYT CAN  CN  N    116.420 1.50
-IYT ON   CN  N    121.667 1.50
-IYT CN   N   CA   121.978 1.76
-IYT CN   N   H    119.408 2.25
-IYT CA   N   H    118.614 1.50
-IYT N    CA  CB   111.012 1.50
-IYT N    CA  C    110.600 2.58
-IYT N    CA  HA   108.047 1.50
-IYT CB   CA  C    110.507 1.62
-IYT CB   CA  HA   108.341 1.50
-IYT C    CA  HA   108.179 1.50
-IYT CA   CB  CG   113.550 1.83
-IYT CA   CB  HB2  108.810 1.50
-IYT CA   CB  HB3  108.810 1.50
-IYT CG   CB  HB2  108.862 1.50
-IYT CG   CB  HB3  108.862 1.50
-IYT HB2  CB  HB3  107.782 1.50
-IYT CB   CG  CD1  120.646 1.50
-IYT CB   CG  CD2  120.646 1.50
-IYT CD1  CG  CD2  118.707 1.50
-IYT CG   CD1 CE1  120.476 1.50
-IYT CG   CD1 HD1  119.356 1.50
-IYT CE1  CD1 HD1  120.168 1.50
-IYT CD1  CE1 CZ   120.445 1.50
-IYT CD1  CE1 I1   120.442 1.50
-IYT CZ   CE1 I1   119.114 1.50
-IYT CG   CD2 CE2  120.476 1.50
-IYT CG   CD2 HD2  119.356 1.50
-IYT CE2  CD2 HD2  120.168 1.50
-IYT CD2  CE2 CZ   120.445 1.50
-IYT CD2  CE2 I2   120.442 1.50
-IYT CZ   CE2 I2   119.114 1.50
-IYT CE1  CZ  CE2  119.451 1.50
-IYT CE1  CZ  OH   120.275 3.00
-IYT CE2  CZ  OH   120.275 3.00
-IYT CZ   OH  HH   120.000 3.00
-IYT CA   C   O    120.806 1.50
-IYT CA   C   NT   115.931 1.80
-IYT O    C   NT   123.263 1.50
-IYT C    NT  CAT  121.547 1.76
-IYT C    NT  HNT  118.628 1.83
-IYT CAT  NT  HNT  119.825 1.61
-IYT NT   CAT CBT  110.507 1.90
-IYT NT   CAT CT   110.939 1.74
-IYT NT   CAT HAT  107.971 1.50
-IYT CBT  CAT CT   110.275 1.50
-IYT CBT  CAT HAT  108.271 1.50
-IYT CT   CAT HAT  107.601 1.50
-IYT CAT  CBT OGT  109.026 1.50
-IYT CAT  CBT CGT  112.331 1.50
-IYT CAT  CBT HBT  107.444 2.35
-IYT OGT  CBT CGT  109.779 2.11
-IYT OGT  CBT HBT  108.878 1.50
-IYT CGT  CBT HBT  108.799 1.50
-IYT CBT  OGT HGT  109.608 2.55
-IYT CBT  CGT HGT1 109.564 1.50
-IYT CBT  CGT HGT2 109.564 1.50
-IYT CBT  CGT HGT3 109.564 1.50
-IYT HGT1 CGT HGT2 109.425 1.50
-IYT HGT1 CGT HGT3 109.425 1.50
-IYT HGT2 CGT HGT3 109.425 1.50
-IYT CAT  CT  OX1  117.371 1.50
-IYT CAT  CT  OX2  117.371 1.50
-IYT OX1  CT  OX2  125.259 1.50
-
+IYT          CN         CAN        HAN1     109.678    1.50
+IYT          CN         CAN        HAN2     109.678    1.50
+IYT          CN         CAN        HAN3     109.678    1.50
+IYT        HAN1         CAN        HAN2     109.365    1.50
+IYT        HAN1         CAN        HAN3     109.365    1.50
+IYT        HAN2         CAN        HAN3     109.365    1.50
+IYT         CAN          CN          ON     121.913    1.50
+IYT         CAN          CN           N     116.420    1.50
+IYT          ON          CN           N     121.667    1.50
+IYT          CN           N          CA     121.978    1.76
+IYT          CN           N           H     119.408    2.25
+IYT          CA           N           H     118.614    1.50
+IYT           N          CA          CB     111.012    1.50
+IYT           N          CA           C     110.600    2.58
+IYT           N          CA          HA     108.047    1.50
+IYT          CB          CA           C     110.507    1.62
+IYT          CB          CA          HA     108.341    1.50
+IYT           C          CA          HA     108.179    1.50
+IYT          CA          CB          CG     113.550    1.83
+IYT          CA          CB         HB2     108.810    1.50
+IYT          CA          CB         HB3     108.810    1.50
+IYT          CG          CB         HB2     108.862    1.50
+IYT          CG          CB         HB3     108.862    1.50
+IYT         HB2          CB         HB3     107.782    1.50
+IYT          CB          CG         CD1     120.646    1.50
+IYT          CB          CG         CD2     120.646    1.50
+IYT         CD1          CG         CD2     118.707    1.50
+IYT          CG         CD1         CE1     120.476    1.50
+IYT          CG         CD1         HD1     119.356    1.50
+IYT         CE1         CD1         HD1     120.168    1.50
+IYT         CD1         CE1          CZ     120.445    1.50
+IYT         CD1         CE1          I1     120.442    1.50
+IYT          CZ         CE1          I1     119.114    1.50
+IYT          CG         CD2         CE2     120.476    1.50
+IYT          CG         CD2         HD2     119.356    1.50
+IYT         CE2         CD2         HD2     120.168    1.50
+IYT         CD2         CE2          CZ     120.445    1.50
+IYT         CD2         CE2          I2     120.442    1.50
+IYT          CZ         CE2          I2     119.114    1.50
+IYT         CE1          CZ         CE2     119.451    1.50
+IYT         CE1          CZ          OH     120.275    3.00
+IYT         CE2          CZ          OH     120.275    3.00
+IYT          CZ          OH          HH     120.000    3.00
+IYT          CA           C           O     120.806    1.50
+IYT          CA           C          NT     115.931    1.80
+IYT           O           C          NT     123.263    1.50
+IYT           C          NT         CAT     121.547    1.76
+IYT           C          NT         HNT     118.628    1.83
+IYT         CAT          NT         HNT     119.825    1.61
+IYT          NT         CAT         CBT     110.507    1.90
+IYT          NT         CAT          CT     110.939    1.74
+IYT          NT         CAT         HAT     107.971    1.50
+IYT         CBT         CAT          CT     110.275    1.50
+IYT         CBT         CAT         HAT     108.271    1.50
+IYT          CT         CAT         HAT     107.601    1.50
+IYT         CAT         CBT         OGT     109.026    1.50
+IYT         CAT         CBT         CGT     112.331    1.50
+IYT         CAT         CBT         HBT     107.444    2.35
+IYT         OGT         CBT         CGT     109.779    2.11
+IYT         OGT         CBT         HBT     108.878    1.50
+IYT         CGT         CBT         HBT     108.799    1.50
+IYT         CBT         OGT         HGT     109.608    2.55
+IYT         CBT         CGT        HGT1     109.564    1.50
+IYT         CBT         CGT        HGT2     109.564    1.50
+IYT         CBT         CGT        HGT3     109.564    1.50
+IYT        HGT1         CGT        HGT2     109.425    1.50
+IYT        HGT1         CGT        HGT3     109.425    1.50
+IYT        HGT2         CGT        HGT3     109.425    1.50
+IYT         CAT          CT         OX1     117.371    1.50
+IYT         CAT          CT         OX2     117.371    1.50
+IYT         OX1          CT         OX2     125.259    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -204,26 +203,25 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IYT sp2_sp3_1       ON  CN  CAN HAN1 0.000   10.0 6
-IYT const_16        I2  CE2 CZ  OH   0.000   10.0 2
-IYT sp2_sp2_5       CE1 CZ  OH  HH   180.000 5.0  2
-IYT sp2_sp2_7       CA  C   NT  CAT  180.000 5.0  2
-IYT sp2_sp3_25      C   NT  CAT CBT  0.000   10.0 6
-IYT sp3_sp3_10      NT  CAT CBT OGT  180.000 10.0 3
-IYT sp2_sp3_31      OX1 CT  CAT NT   0.000   10.0 6
-IYT sp3_sp3_19      CAT CBT OGT HGT  180.000 10.0 3
-IYT sp3_sp3_22      CAT CBT CGT HGT1 180.000 10.0 3
-IYT sp2_sp2_1       CAN CN  N   CA   180.000 5.0  2
-IYT sp2_sp3_7       CN  N   CA  CB   0.000   10.0 6
-IYT sp2_sp3_13      O   C   CA  N    0.000   10.0 6
-IYT sp3_sp3_1       N   CA  CB  CG   180.000 10.0 3
-IYT sp2_sp3_20      CD1 CG  CB  CA   -90.000 10.0 6
-IYT const_sp2_sp2_2 CE1 CD1 CG  CB   180.000 5.0  2
-IYT const_22        CE2 CD2 CG  CB   180.000 10.0 2
-IYT const_sp2_sp2_6 CG  CD1 CE1 I1   180.000 5.0  2
-IYT const_12        I1  CE1 CZ  OH   0.000   10.0 2
-IYT const_18        CG  CD2 CE2 I2   180.000 10.0 2
-
+IYT             sp2_sp3_1          ON          CN         CAN        HAN1       0.000    10.0     6
+IYT              const_16          I2         CE2          CZ          OH       0.000    10.0     2
+IYT             sp2_sp2_5         CE1          CZ          OH          HH     180.000     5.0     2
+IYT             sp2_sp2_7          CA           C          NT         CAT     180.000     5.0     2
+IYT            sp2_sp3_25           C          NT         CAT         CBT       0.000    10.0     6
+IYT            sp3_sp3_10          NT         CAT         CBT         OGT     180.000    10.0     3
+IYT            sp2_sp3_31         OX1          CT         CAT          NT       0.000    10.0     6
+IYT            sp3_sp3_19         CAT         CBT         OGT         HGT     180.000    10.0     3
+IYT            sp3_sp3_22         CAT         CBT         CGT        HGT1     180.000    10.0     3
+IYT             sp2_sp2_1         CAN          CN           N          CA     180.000     5.0     2
+IYT             sp2_sp3_7          CN           N          CA          CB       0.000    10.0     6
+IYT            sp2_sp3_13           O           C          CA           N       0.000    10.0     6
+IYT             sp3_sp3_1           N          CA          CB          CG     180.000    10.0     3
+IYT            sp2_sp3_20         CD1          CG          CB          CA     -90.000    10.0     6
+IYT       const_sp2_sp2_2         CE1         CD1          CG          CB     180.000     5.0     2
+IYT              const_22         CE2         CD2          CG          CB     180.000    10.0     2
+IYT       const_sp2_sp2_6          CG         CD1         CE1          I1     180.000     5.0     2
+IYT              const_12          I1         CE1          CZ          OH       0.000    10.0     2
+IYT              const_18          CG         CD2         CE2          I2     180.000    10.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -232,81 +230,65 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-IYT chir_1 CA  N   C   CB  positive
-IYT chir_2 CAT NT  CT  CBT negative
-IYT chir_3 CBT OGT CAT CGT negative
-
+IYT    chir_1    CA    N    C    CB    positive
+IYT    chir_2    CAT    NT    CT    CBT    negative
+IYT    chir_3    CBT    OGT    CAT    CGT    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-IYT plan-1 CB  0.020
-IYT plan-1 CD1 0.020
-IYT plan-1 CD2 0.020
-IYT plan-1 CE1 0.020
-IYT plan-1 CE2 0.020
-IYT plan-1 CG  0.020
-IYT plan-1 CZ  0.020
-IYT plan-1 HD1 0.020
-IYT plan-1 HD2 0.020
-IYT plan-1 I1  0.020
-IYT plan-1 I2  0.020
-IYT plan-1 OH  0.020
-IYT plan-2 CAN 0.020
-IYT plan-2 CN  0.020
-IYT plan-2 N   0.020
-IYT plan-2 ON  0.020
-IYT plan-3 CA  0.020
-IYT plan-3 CN  0.020
-IYT plan-3 H   0.020
-IYT plan-3 N   0.020
-IYT plan-4 C   0.020
-IYT plan-4 CA  0.020
-IYT plan-4 NT  0.020
-IYT plan-4 O   0.020
-IYT plan-5 C   0.020
-IYT plan-5 CAT 0.020
-IYT plan-5 HNT 0.020
-IYT plan-5 NT  0.020
-IYT plan-6 CAT 0.020
-IYT plan-6 CT  0.020
-IYT plan-6 OX1 0.020
-IYT plan-6 OX2 0.020
-
+IYT    plan-1          CB   0.020
+IYT    plan-1         CD1   0.020
+IYT    plan-1         CD2   0.020
+IYT    plan-1         CE1   0.020
+IYT    plan-1         CE2   0.020
+IYT    plan-1          CG   0.020
+IYT    plan-1          CZ   0.020
+IYT    plan-1         HD1   0.020
+IYT    plan-1         HD2   0.020
+IYT    plan-1          I1   0.020
+IYT    plan-1          I2   0.020
+IYT    plan-1          OH   0.020
+IYT    plan-2         CAN   0.020
+IYT    plan-2          CN   0.020
+IYT    plan-2           N   0.020
+IYT    plan-2          ON   0.020
+IYT    plan-3          CA   0.020
+IYT    plan-3          CN   0.020
+IYT    plan-3           H   0.020
+IYT    plan-3           N   0.020
+IYT    plan-4           C   0.020
+IYT    plan-4          CA   0.020
+IYT    plan-4          NT   0.020
+IYT    plan-4           O   0.020
+IYT    plan-5           C   0.020
+IYT    plan-5         CAT   0.020
+IYT    plan-5         HNT   0.020
+IYT    plan-5          NT   0.020
+IYT    plan-6         CAT   0.020
+IYT    plan-6          CT   0.020
+IYT    plan-6         OX1   0.020
+IYT    plan-6         OX2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IYT SMILES           ACDLabs              10.04 Ic1cc(cc(I)c1O)CC(C(=O)NC(C(=O)O)C(O)C)NC(=O)C
-IYT SMILES_CANONICAL CACTVS               3.341 C[C@@H](O)[C@@H](NC(=O)[C@H](Cc1cc(I)c(O)c(I)c1)NC(C)=O)C(O)=O
-IYT SMILES           CACTVS               3.341 C[CH](O)[CH](NC(=O)[CH](Cc1cc(I)c(O)c(I)c1)NC(C)=O)C(O)=O
-IYT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@H]([C@H](C(=O)O)NC(=O)[C@H](Cc1cc(c(c(c1)I)O)I)NC(=O)C)O
-IYT SMILES           "OpenEye OEToolkits" 1.5.0 CC(C(C(=O)O)NC(=O)C(Cc1cc(c(c(c1)I)O)I)NC(=O)C)O
-IYT InChI            InChI                1.03  InChI=1S/C15H18I2N2O6/c1-6(20)12(15(24)25)19-14(23)11(18-7(2)21)5-8-3-9(16)13(22)10(17)4-8/h3-4,6,11-12,20,22H,5H2,1-2H3,(H,18,21)(H,19,23)(H,24,25)/t6-,11+,12-/m1/s1
-IYT InChIKey         InChI                1.03  TWMKRGDZEJLDDH-LKXWSVAYSA-N
-
+IYT           SMILES              ACDLabs 10.04                                                                                                                         Ic1cc(cc(I)c1O)CC(C(=O)NC(C(=O)O)C(O)C)NC(=O)C
+IYT SMILES_CANONICAL               CACTVS 3.341                                                                                                         C[C@@H](O)[C@@H](NC(=O)[C@H](Cc1cc(I)c(O)c(I)c1)NC(C)=O)C(O)=O
+IYT           SMILES               CACTVS 3.341                                                                                                              C[CH](O)[CH](NC(=O)[CH](Cc1cc(I)c(O)c(I)c1)NC(C)=O)C(O)=O
+IYT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                           C[C@H]([C@H](C(=O)O)NC(=O)[C@H](Cc1cc(c(c(c1)I)O)I)NC(=O)C)O
+IYT           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                       CC(C(C(=O)O)NC(=O)C(Cc1cc(c(c(c1)I)O)I)NC(=O)C)O
+IYT            InChI                InChI  1.03 InChI=1S/C15H18I2N2O6/c1-6(20)12(15(24)25)19-14(23)11(18-7(2)21)5-8-3-9(16)13(22)10(17)4-8/h3-4,6,11-12,20,22H,5H2,1-2H3,(H,18,21)(H,19,23)(H,24,25)/t6-,11+,12-/m1/s1
+IYT         InChIKey                InChI  1.03                                                                                                                                            TWMKRGDZEJLDDH-LKXWSVAYSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IYT acedrg          243       "dictionary generator"
-IYT acedrg_database 11        "data source"
-IYT rdkit           2017.03.2 "Chemoinformatics tool"
-IYT refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-IYT M-peptide OX2 O
-IYT M-peptide CT  C
-IYT M-peptide CAT CA
-IYT M-peptide NT  N
-IYT M-peptide C   CN
-IYT M-peptide OX1 OXT
-IYT M-peptide HNT H
+IYT acedrg               243         "dictionary generator"                  
+IYT acedrg_database      11          "data source"                           
+IYT rdkit                2017.03.2   "Chemoinformatics tool"
+IYT refmac5              5.8.0238    "optimization tool"                     

@@ -368,16 +368,3 @@ AET acedrg          243       "dictionary generator"
 AET acedrg_database 11        "data source"
 AET rdkit           2017.03.2 "Chemoinformatics tool"
 AET refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-AET M-peptide ODA O
-AET M-peptide C13 C
-AET M-peptide C12 CA
-AET M-peptide N11 N
-AET M-peptide C10 CN
-AET M-peptide ODB OXT
-AET M-peptide HN1 H

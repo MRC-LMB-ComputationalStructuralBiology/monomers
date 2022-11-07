@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IAD IAD "N-[1H-INDOL-3-YL-ACETYL]ASPARTIC ACID" NON-POLYMER 33 21 .
-
+IAD     IAD      "N-[1H-INDOL-3-YL-ACETYL]ASPARTIC ACID"     NON-POLYMER     33     21     .     
+#
 data_comp_IAD
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,40 +21,39 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IAD OD2 O OC   -1 44.713 29.095 10.202
-IAD CG  C C    0  45.869 29.562 10.208
-IAD OD1 O O    0  46.435 30.036 9.203
-IAD CB  C CH2  0  46.635 29.552 11.521
-IAD CA  C CH1  0  47.269 28.203 11.851
-IAD C   C C    0  48.445 27.908 10.903
-IAD O   O O    0  49.466 28.613 11.023
-IAD O1  O OC   -1 48.296 26.983 10.080
-IAD N   N NH1  0  47.709 28.130 13.241
-IAD C11 C C    0  47.448 27.109 14.072
-IAD O11 O O    0  46.746 26.141 13.768
-IAD C10 C CH2  0  48.111 27.193 15.433
-IAD C3  C CR5  0  49.590 26.969 15.346
-IAD C2  C CR15 0  50.574 27.858 15.669
-IAD N1  N NR5  0  51.808 27.304 15.454
-IAD C9  C CR56 0  50.258 25.780 14.895
-IAD C4  C CR16 0  49.823 24.530 14.431
-IAD C8  C CR56 0  51.647 26.029 14.979
-IAD C7  C CR16 0  52.597 25.071 14.616
-IAD C6  C CR16 0  52.131 23.854 14.164
-IAD C5  C CR16 0  50.763 23.585 14.072
-IAD HB1 H H    0  46.017 29.797 12.239
-IAD HB2 H H    0  47.337 30.233 11.477
-IAD HA  H H    0  46.576 27.518 11.698
-IAD H   H H    0  48.174 28.806 13.542
-IAD H1  H H    0  47.712 26.516 16.032
-IAD H2A H H    0  47.936 28.081 15.826
-IAD H2  H H    0  50.431 28.733 15.996
-IAD HN1 H H    0  52.575 27.703 15.599
-IAD H4  H H    0  48.901 24.339 14.365
-IAD H7  H H    0  53.519 25.253 14.678
-IAD H6  H H    0  52.749 23.191 13.913
-IAD H5  H H    0  50.478 22.741 13.759
-
+IAD     OD2     O       OC      -1      44.713      29.095      10.202      
+IAD     CG      C       C       0       45.869      29.562      10.208      
+IAD     OD1     O       O       0       46.435      30.036      9.203       
+IAD     CB      C       CH2     0       46.635      29.552      11.521      
+IAD     CA      C       CH1     0       47.269      28.203      11.851      
+IAD     C       C       C       0       48.445      27.908      10.903      
+IAD     O       O       O       0       49.466      28.613      11.023      
+IAD     O1      O       OC      -1      48.296      26.983      10.080      
+IAD     N       N       NH1     0       47.709      28.130      13.241      
+IAD     C11     C       C       0       47.448      27.109      14.072      
+IAD     O11     O       O       0       46.746      26.141      13.768      
+IAD     C10     C       CH2     0       48.111      27.193      15.433      
+IAD     C3      C       CR5     0       49.590      26.969      15.346      
+IAD     C2      C       CR15    0       50.574      27.858      15.669      
+IAD     N1      N       NR5     0       51.808      27.304      15.454      
+IAD     C9      C       CR56    0       50.258      25.780      14.895      
+IAD     C4      C       CR16    0       49.823      24.530      14.431      
+IAD     C8      C       CR56    0       51.647      26.029      14.979      
+IAD     C7      C       CR16    0       52.597      25.071      14.616      
+IAD     C6      C       CR16    0       52.131      23.854      14.164      
+IAD     C5      C       CR16    0       50.763      23.585      14.072      
+IAD     HB1     H       H       0       46.017      29.797      12.239      
+IAD     HB2     H       H       0       47.337      30.233      11.477      
+IAD     HA      H       H       0       46.576      27.518      11.698      
+IAD     H       H       H       0       48.174      28.806      13.542      
+IAD     H1      H       H       0       47.712      26.516      16.032      
+IAD     H2A     H       H       0       47.936      28.081      15.826      
+IAD     H2      H       H       0       50.431      28.733      15.996      
+IAD     HN1     H       H       0       52.575      27.703      15.599      
+IAD     H4      H       H       0       48.901      24.339      14.365      
+IAD     H7      H       H       0       53.519      25.253      14.678      
+IAD     H6      H       H       0       52.749      23.191      13.913      
+IAD     H5      H       H       0       50.478      22.741      13.759      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -63,41 +64,40 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IAD OD2 CG  SINGLE n 1.247 0.0187 1.247 0.0187
-IAD CG  OD1 DOUBLE n 1.247 0.0187 1.247 0.0187
-IAD CG  CB  SINGLE n 1.519 0.0109 1.519 0.0109
-IAD CB  CA  SINGLE n 1.526 0.0101 1.526 0.0101
-IAD CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
-IAD CA  N   SINGLE n 1.456 0.0100 1.456 0.0100
-IAD C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
-IAD C   O1  SINGLE n 1.247 0.0187 1.247 0.0187
-IAD N   C11 SINGLE n 1.337 0.0109 1.337 0.0109
-IAD C11 O11 DOUBLE n 1.232 0.0104 1.232 0.0104
-IAD C11 C10 SINGLE n 1.516 0.0106 1.516 0.0106
-IAD C10 C3  SINGLE n 1.499 0.0100 1.499 0.0100
-IAD C3  C2  DOUBLE y 1.365 0.0100 1.365 0.0100
-IAD C3  C9  SINGLE y 1.436 0.0100 1.436 0.0100
-IAD C2  N1  SINGLE y 1.369 0.0100 1.369 0.0100
-IAD N1  C8  SINGLE y 1.370 0.0100 1.370 0.0100
-IAD C9  C4  DOUBLE y 1.399 0.0100 1.399 0.0100
-IAD C9  C8  SINGLE y 1.411 0.0100 1.411 0.0100
-IAD C4  C5  SINGLE y 1.377 0.0100 1.377 0.0100
-IAD C8  C7  DOUBLE y 1.394 0.0100 1.394 0.0100
-IAD C7  C6  SINGLE y 1.376 0.0100 1.376 0.0100
-IAD C6  C5  DOUBLE y 1.394 0.0106 1.394 0.0106
-IAD CB  HB1 SINGLE n 1.089 0.0100 0.979 0.0159
-IAD CB  HB2 SINGLE n 1.089 0.0100 0.979 0.0159
-IAD CA  HA  SINGLE n 1.089 0.0100 0.987 0.0159
-IAD N   H   SINGLE n 1.016 0.0100 0.873 0.0200
-IAD C10 H1  SINGLE n 1.089 0.0100 0.987 0.0100
-IAD C10 H2A SINGLE n 1.089 0.0100 0.987 0.0100
-IAD C2  H2  SINGLE n 1.082 0.0130 0.945 0.0191
-IAD N1  HN1 SINGLE n 1.016 0.0100 0.877 0.0200
-IAD C4  H4  SINGLE n 1.082 0.0130 0.944 0.0200
-IAD C7  H7  SINGLE n 1.082 0.0130 0.942 0.0188
-IAD C6  H6  SINGLE n 1.082 0.0130 0.941 0.0181
-IAD C5  H5  SINGLE n 1.082 0.0130 0.944 0.0181
-
+IAD         OD2          CG      SINGLE       n     1.247  0.0187     1.247  0.0187
+IAD          CG         OD1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+IAD          CG          CB      SINGLE       n     1.519  0.0109     1.519  0.0109
+IAD          CB          CA      SINGLE       n     1.526  0.0101     1.526  0.0101
+IAD          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+IAD          CA           N      SINGLE       n     1.456  0.0100     1.456  0.0100
+IAD           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+IAD           C          O1      SINGLE       n     1.247  0.0187     1.247  0.0187
+IAD           N         C11      SINGLE       n     1.337  0.0109     1.337  0.0109
+IAD         C11         O11      DOUBLE       n     1.232  0.0104     1.232  0.0104
+IAD         C11         C10      SINGLE       n     1.516  0.0106     1.516  0.0106
+IAD         C10          C3      SINGLE       n     1.499  0.0100     1.499  0.0100
+IAD          C3          C2      DOUBLE       y     1.365  0.0100     1.365  0.0100
+IAD          C3          C9      SINGLE       y     1.436  0.0100     1.436  0.0100
+IAD          C2          N1      SINGLE       y     1.369  0.0100     1.369  0.0100
+IAD          N1          C8      SINGLE       y     1.370  0.0100     1.370  0.0100
+IAD          C9          C4      DOUBLE       y     1.399  0.0100     1.399  0.0100
+IAD          C9          C8      SINGLE       y     1.411  0.0100     1.411  0.0100
+IAD          C4          C5      SINGLE       y     1.377  0.0100     1.377  0.0100
+IAD          C8          C7      DOUBLE       y     1.394  0.0100     1.394  0.0100
+IAD          C7          C6      SINGLE       y     1.376  0.0100     1.376  0.0100
+IAD          C6          C5      DOUBLE       y     1.394  0.0106     1.394  0.0106
+IAD          CB         HB1      SINGLE       n     1.089  0.0100     0.979  0.0159
+IAD          CB         HB2      SINGLE       n     1.089  0.0100     0.979  0.0159
+IAD          CA          HA      SINGLE       n     1.089  0.0100     0.987  0.0159
+IAD           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
+IAD         C10          H1      SINGLE       n     1.089  0.0100     0.987  0.0100
+IAD         C10         H2A      SINGLE       n     1.089  0.0100     0.987  0.0100
+IAD          C2          H2      SINGLE       n     1.082  0.0130     0.945  0.0191
+IAD          N1         HN1      SINGLE       n     1.016  0.0100     0.877  0.0200
+IAD          C4          H4      SINGLE       n     1.082  0.0130     0.944  0.0200
+IAD          C7          H7      SINGLE       n     1.082  0.0130     0.942  0.0188
+IAD          C6          H6      SINGLE       n     1.082  0.0130     0.941  0.0181
+IAD          C5          H5      SINGLE       n     1.082  0.0130     0.944  0.0181
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -105,64 +105,63 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IAD OD2 CG  OD1 124.027 1.50
-IAD OD2 CG  CB  117.986 1.50
-IAD OD1 CG  CB  117.986 1.50
-IAD CG  CB  CA  111.511 2.91
-IAD CG  CB  HB1 107.840 2.14
-IAD CG  CB  HB2 107.840 2.14
-IAD CA  CB  HB1 108.675 1.50
-IAD CA  CB  HB2 108.675 1.50
-IAD HB1 CB  HB2 107.891 1.66
-IAD CB  CA  C   111.511 2.91
-IAD CB  CA  N   112.687 1.50
-IAD CB  CA  HA  107.393 1.50
-IAD C   CA  N   110.976 1.55
-IAD C   CA  HA  108.327 1.50
-IAD N   CA  HA  108.343 1.63
-IAD CA  C   O   117.249 1.61
-IAD CA  C   O1  117.249 1.61
-IAD O   C   O1  125.502 1.50
-IAD CA  N   C11 122.394 1.76
-IAD CA  N   H   118.321 2.15
-IAD C11 N   H   119.284 1.94
-IAD N   C11 O11 122.779 1.50
-IAD N   C11 C10 115.668 1.65
-IAD O11 C11 C10 121.553 1.50
-IAD C11 C10 C3  112.110 1.50
-IAD C11 C10 H1  109.162 1.50
-IAD C11 C10 H2A 109.162 1.50
-IAD C3  C10 H1  109.342 1.50
-IAD C3  C10 H2A 109.342 1.50
-IAD H1  C10 H2A 107.644 1.50
-IAD C10 C3  C2  126.852 1.50
-IAD C10 C3  C9  127.035 1.50
-IAD C2  C3  C9  106.112 1.50
-IAD C3  C2  N1  110.404 1.50
-IAD C3  C2  H2  125.159 1.59
-IAD N1  C2  H2  124.437 1.50
-IAD C2  N1  C8  109.042 1.50
-IAD C2  N1  HN1 125.328 1.77
-IAD C8  N1  HN1 125.630 1.60
-IAD C3  C9  C4  134.307 1.50
-IAD C3  C9  C8  106.987 1.50
-IAD C4  C9  C8  118.706 1.50
-IAD C9  C4  C5  118.817 1.50
-IAD C9  C4  H4  120.505 1.50
-IAD C5  C4  H4  120.678 1.50
-IAD N1  C8  C9  107.455 1.50
-IAD N1  C8  C7  130.294 1.50
-IAD C9  C8  C7  122.250 1.50
-IAD C8  C7  C6  117.385 1.50
-IAD C8  C7  H7  121.137 1.50
-IAD C6  C7  H7  121.477 1.50
-IAD C7  C6  C5  121.628 1.50
-IAD C7  C6  H6  119.132 1.50
-IAD C5  C6  H6  119.240 1.50
-IAD C4  C5  C6  121.212 1.50
-IAD C4  C5  H5  119.471 1.50
-IAD C6  C5  H5  119.316 1.50
-
+IAD         OD2          CG         OD1     124.027    1.50
+IAD         OD2          CG          CB     117.986    1.50
+IAD         OD1          CG          CB     117.986    1.50
+IAD          CG          CB          CA     111.511    2.91
+IAD          CG          CB         HB1     107.840    2.14
+IAD          CG          CB         HB2     107.840    2.14
+IAD          CA          CB         HB1     108.675    1.50
+IAD          CA          CB         HB2     108.675    1.50
+IAD         HB1          CB         HB2     107.891    1.66
+IAD          CB          CA           C     111.511    2.91
+IAD          CB          CA           N     112.687    1.50
+IAD          CB          CA          HA     107.393    1.50
+IAD           C          CA           N     110.976    1.55
+IAD           C          CA          HA     108.327    1.50
+IAD           N          CA          HA     108.343    1.63
+IAD          CA           C           O     117.249    1.61
+IAD          CA           C          O1     117.249    1.61
+IAD           O           C          O1     125.502    1.50
+IAD          CA           N         C11     122.394    1.76
+IAD          CA           N           H     118.321    2.15
+IAD         C11           N           H     119.284    1.94
+IAD           N         C11         O11     122.779    1.50
+IAD           N         C11         C10     115.668    1.65
+IAD         O11         C11         C10     121.553    1.50
+IAD         C11         C10          C3     112.110    1.50
+IAD         C11         C10          H1     109.162    1.50
+IAD         C11         C10         H2A     109.162    1.50
+IAD          C3         C10          H1     109.342    1.50
+IAD          C3         C10         H2A     109.342    1.50
+IAD          H1         C10         H2A     107.644    1.50
+IAD         C10          C3          C2     126.852    1.50
+IAD         C10          C3          C9     127.035    1.50
+IAD          C2          C3          C9     106.112    1.50
+IAD          C3          C2          N1     110.404    1.50
+IAD          C3          C2          H2     125.159    1.59
+IAD          N1          C2          H2     124.437    1.50
+IAD          C2          N1          C8     109.042    1.50
+IAD          C2          N1         HN1     125.328    1.77
+IAD          C8          N1         HN1     125.630    1.60
+IAD          C3          C9          C4     134.307    1.50
+IAD          C3          C9          C8     106.987    1.50
+IAD          C4          C9          C8     118.706    1.50
+IAD          C9          C4          C5     118.817    1.50
+IAD          C9          C4          H4     120.505    1.50
+IAD          C5          C4          H4     120.678    1.50
+IAD          N1          C8          C9     107.455    1.50
+IAD          N1          C8          C7     130.294    1.50
+IAD          C9          C8          C7     122.250    1.50
+IAD          C8          C7          C6     117.385    1.50
+IAD          C8          C7          H7     121.137    1.50
+IAD          C6          C7          H7     121.477    1.50
+IAD          C7          C6          C5     121.628    1.50
+IAD          C7          C6          H6     119.132    1.50
+IAD          C5          C6          H6     119.240    1.50
+IAD          C4          C5          C6     121.212    1.50
+IAD          C4          C5          H5     119.471    1.50
+IAD          C6          C5          H5     119.316    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -173,24 +172,23 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IAD sp2_sp3_26      C2  C3  C10 C11 -90.000 10.0 6
-IAD const_sp2_sp2_2 N1  C2  C3  C10 180.000 5.0  2
-IAD const_40        C10 C3  C9  C4  0.000   10.0 2
-IAD const_sp2_sp2_5 C3  C2  N1  C8  0.000   5.0  2
-IAD const_sp2_sp2_9 C9  C8  N1  C2  0.000   5.0  2
-IAD const_18        C5  C4  C9  C3  180.000 10.0 2
-IAD const_13        N1  C8  C9  C3  0.000   10.0 2
-IAD const_21        C9  C4  C5  C6  0.000   10.0 2
-IAD const_34        C6  C7  C8  N1  180.000 10.0 2
-IAD const_29        C5  C6  C7  C8  0.000   10.0 2
-IAD const_25        C4  C5  C6  C7  0.000   10.0 2
-IAD sp2_sp3_2       OD2 CG  CB  CA  120.000 10.0 6
-IAD sp3_sp3_1       C   CA  CB  CG  180.000 10.0 3
-IAD sp2_sp3_7       O   C   CA  CB  0.000   10.0 6
-IAD sp2_sp3_13      C11 N   CA  CB  0.000   10.0 6
-IAD sp2_sp2_3       O11 C11 N   CA  0.000   5.0  2
-IAD sp2_sp3_20      N   C11 C10 C3  120.000 10.0 6
-
+IAD            sp2_sp3_26          C2          C3         C10         C11     -90.000    10.0     6
+IAD       const_sp2_sp2_2          N1          C2          C3         C10     180.000     5.0     2
+IAD              const_40         C10          C3          C9          C4       0.000    10.0     2
+IAD       const_sp2_sp2_5          C3          C2          N1          C8       0.000     5.0     2
+IAD       const_sp2_sp2_9          C9          C8          N1          C2       0.000     5.0     2
+IAD              const_18          C5          C4          C9          C3     180.000    10.0     2
+IAD              const_13          N1          C8          C9          C3       0.000    10.0     2
+IAD              const_21          C9          C4          C5          C6       0.000    10.0     2
+IAD              const_34          C6          C7          C8          N1     180.000    10.0     2
+IAD              const_29          C5          C6          C7          C8       0.000    10.0     2
+IAD              const_25          C4          C5          C6          C7       0.000    10.0     2
+IAD             sp2_sp3_2         OD2          CG          CB          CA     120.000    10.0     6
+IAD             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
+IAD             sp2_sp3_7           O           C          CA          CB       0.000    10.0     6
+IAD            sp2_sp3_13         C11           N          CA          CB       0.000    10.0     6
+IAD             sp2_sp2_3         O11         C11           N          CA       0.000     5.0     2
+IAD            sp2_sp3_20           N         C11         C10          C3     120.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -199,74 +197,63 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-IAD chir_1 CA N C CB positive
-
+IAD    chir_1    CA    N    C    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-IAD plan-1 C10 0.020
-IAD plan-1 C2  0.020
-IAD plan-1 C3  0.020
-IAD plan-1 C4  0.020
-IAD plan-1 C5  0.020
-IAD plan-1 C6  0.020
-IAD plan-1 C7  0.020
-IAD plan-1 C8  0.020
-IAD plan-1 C9  0.020
-IAD plan-1 H2  0.020
-IAD plan-1 H4  0.020
-IAD plan-1 H5  0.020
-IAD plan-1 H6  0.020
-IAD plan-1 H7  0.020
-IAD plan-1 HN1 0.020
-IAD plan-1 N1  0.020
-IAD plan-2 CB  0.020
-IAD plan-2 CG  0.020
-IAD plan-2 OD1 0.020
-IAD plan-2 OD2 0.020
-IAD plan-3 C   0.020
-IAD plan-3 CA  0.020
-IAD plan-3 O   0.020
-IAD plan-3 O1  0.020
-IAD plan-4 C11 0.020
-IAD plan-4 CA  0.020
-IAD plan-4 H   0.020
-IAD plan-4 N   0.020
-IAD plan-5 C10 0.020
-IAD plan-5 C11 0.020
-IAD plan-5 N   0.020
-IAD plan-5 O11 0.020
-
+IAD    plan-1         C10   0.020
+IAD    plan-1          C2   0.020
+IAD    plan-1          C3   0.020
+IAD    plan-1          C4   0.020
+IAD    plan-1          C5   0.020
+IAD    plan-1          C6   0.020
+IAD    plan-1          C7   0.020
+IAD    plan-1          C8   0.020
+IAD    plan-1          C9   0.020
+IAD    plan-1          H2   0.020
+IAD    plan-1          H4   0.020
+IAD    plan-1          H5   0.020
+IAD    plan-1          H6   0.020
+IAD    plan-1          H7   0.020
+IAD    plan-1         HN1   0.020
+IAD    plan-1          N1   0.020
+IAD    plan-2          CB   0.020
+IAD    plan-2          CG   0.020
+IAD    plan-2         OD1   0.020
+IAD    plan-2         OD2   0.020
+IAD    plan-3           C   0.020
+IAD    plan-3          CA   0.020
+IAD    plan-3           O   0.020
+IAD    plan-3          O1   0.020
+IAD    plan-4         C11   0.020
+IAD    plan-4          CA   0.020
+IAD    plan-4           H   0.020
+IAD    plan-4           N   0.020
+IAD    plan-5         C10   0.020
+IAD    plan-5         C11   0.020
+IAD    plan-5           N   0.020
+IAD    plan-5         O11   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IAD SMILES           ACDLabs              10.04 O=C(O)CC(C(=O)O)NC(=O)Cc2c1ccccc1nc2
-IAD SMILES_CANONICAL CACTVS               3.341 OC(=O)C[C@H](NC(=O)Cc1c[nH]c2ccccc12)C(O)=O
-IAD SMILES           CACTVS               3.341 OC(=O)C[CH](NC(=O)Cc1c[nH]c2ccccc12)C(O)=O
-IAD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1ccc2c(c1)c(c[nH]2)CC(=O)N[C@@H](CC(=O)O)C(=O)O
-IAD SMILES           "OpenEye OEToolkits" 1.5.0 c1ccc2c(c1)c(c[nH]2)CC(=O)NC(CC(=O)O)C(=O)O
-IAD InChI            InChI                1.03  InChI=1S/C14H14N2O5/c17-12(16-11(14(20)21)6-13(18)19)5-8-7-15-10-4-2-1-3-9(8)10/h1-4,7,11,15H,5-6H2,(H,16,17)(H,18,19)(H,20,21)/t11-/m0/s1
-IAD InChIKey         InChI                1.03  VAFNMNRKDDAKRM-NSHDSACASA-N
-
+IAD           SMILES              ACDLabs 10.04                                                                                                       O=C(O)CC(C(=O)O)NC(=O)Cc2c1ccccc1nc2
+IAD SMILES_CANONICAL               CACTVS 3.341                                                                                                OC(=O)C[C@H](NC(=O)Cc1c[nH]c2ccccc12)C(O)=O
+IAD           SMILES               CACTVS 3.341                                                                                                 OC(=O)C[CH](NC(=O)Cc1c[nH]c2ccccc12)C(O)=O
+IAD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                           c1ccc2c(c1)c(c[nH]2)CC(=O)N[C@@H](CC(=O)O)C(=O)O
+IAD           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                c1ccc2c(c1)c(c[nH]2)CC(=O)NC(CC(=O)O)C(=O)O
+IAD            InChI                InChI  1.03 InChI=1S/C14H14N2O5/c17-12(16-11(14(20)21)6-13(18)19)5-8-7-15-10-4-2-1-3-9(8)10/h1-4,7,11,15H,5-6H2,(H,16,17)(H,18,19)(H,20,21)/t11-/m0/s1
+IAD         InChIKey                InChI  1.03                                                                                                                VAFNMNRKDDAKRM-NSHDSACASA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IAD acedrg          243       "dictionary generator"
-IAD acedrg_database 11        "data source"
-IAD rdkit           2017.03.2 "Chemoinformatics tool"
-IAD refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-IAD M-peptide C11 CN
-IAD M-peptide O1  OXT
+IAD acedrg               243         "dictionary generator"                  
+IAD acedrg_database      11          "data source"                           
+IAD rdkit                2017.03.2   "Chemoinformatics tool"
+IAD refmac5              5.8.0238    "optimization tool"                     

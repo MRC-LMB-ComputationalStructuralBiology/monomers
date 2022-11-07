@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-HPD HPD 1-HYDROXY-PENTANE-3,4-DIOL-5-PHOSPHATE NON-POLYMER 24 13 .
-
+HPD     HPD      1-HYDROXY-PENTANE-3,4-DIOL-5-PHOSPHATE     NON-POLYMER     24     13     .     
+#
 data_comp_HPD
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,31 +21,30 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-HPD P      P P   0  29.463 -3.478 19.262
-HPD "O5'"  O O2  0  28.413 -2.256 19.365
-HPD O1P    O O   0  30.295 -3.204 18.023
-HPD O2P    O OP  -1 28.623 -4.735 19.142
-HPD O3P    O OP  -1 30.277 -3.432 20.541
-HPD "C5'"  C CH2 0  28.929 -0.905 19.524
-HPD "O4'"  O OH1 0  26.893 -0.295 20.620
-HPD "O3'"  O OH1 0  29.112 1.925  18.731
-HPD "C1'"  C CH2 0  27.546 3.984  20.165
-HPD "O1'"  O OH1 0  28.214 4.084  21.411
-HPD "C3'"  C CH1 0  28.240 1.544  19.795
-HPD "C4'"  C CH1 0  27.788 0.087  19.573
-HPD "C2'"  C CH2 0  27.113 2.567  19.884
-HPD "H5'1" H H   0  29.520 -0.694 18.772
-HPD "H5'2" H H   0  29.450 -0.848 20.352
-HPD "HO'4" H H   0  26.091 -0.098 20.424
-HPD "HO'3" H H   0  29.710 2.443  19.037
-HPD "H1'1" H H   0  28.144 4.293  19.452
-HPD "H1'2" H H   0  26.758 4.569  20.175
-HPD "HO'1" H H   0  28.533 4.864  21.484
-HPD "H3'"  H H   0  28.761 1.576  20.639
-HPD "H4'"  H H   0  27.293 0.044  18.701
-HPD "H2'1" H H   0  26.619 2.556  19.039
-HPD "H2'2" H H   0  26.495 2.290  20.591
-
+HPD     P       P       P       0       29.463      -3.478      19.262      
+HPD     "O5'"   O       O2      0       28.413      -2.256      19.365      
+HPD     O1P     O       O       0       30.295      -3.204      18.023      
+HPD     O2P     O       OP      -1      28.623      -4.735      19.142      
+HPD     O3P     O       OP      -1      30.277      -3.432      20.541      
+HPD     "C5'"   C       CH2     0       28.929      -0.905      19.524      
+HPD     "O4'"   O       OH1     0       26.893      -0.295      20.620      
+HPD     "O3'"   O       OH1     0       29.112      1.925       18.731      
+HPD     "C1'"   C       CH2     0       27.546      3.984       20.165      
+HPD     "O1'"   O       OH1     0       28.214      4.084       21.411      
+HPD     "C3'"   C       CH1     0       28.240      1.544       19.795      
+HPD     "C4'"   C       CH1     0       27.788      0.087       19.573      
+HPD     "C2'"   C       CH2     0       27.113      2.567       19.884      
+HPD     "H5'1"  H       H       0       29.520      -0.694      18.772      
+HPD     "H5'2"  H       H       0       29.450      -0.848      20.352      
+HPD     "HO'4"  H       H       0       26.091      -0.098      20.424      
+HPD     "HO'3"  H       H       0       29.710      2.443       19.037      
+HPD     "H1'1"  H       H       0       28.144      4.293       19.452      
+HPD     "H1'2"  H       H       0       26.758      4.569       20.175      
+HPD     "HO'1"  H       H       0       28.533      4.864       21.484      
+HPD     "H3'"   H       H       0       28.761      1.576       20.639      
+HPD     "H4'"   H       H       0       27.293      0.044       18.701      
+HPD     "H2'1"  H       H       0       26.619      2.556       19.039      
+HPD     "H2'2"  H       H       0       26.495      2.290       20.591      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -54,30 +55,29 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-HPD P     "O5'"  SINGLE n 1.614 0.0178 1.614 0.0178
-HPD P     O1P    DOUBLE n 1.517 0.0192 1.517 0.0192
-HPD P     O2P    SINGLE n 1.517 0.0192 1.517 0.0192
-HPD P     O3P    SINGLE n 1.517 0.0192 1.517 0.0192
-HPD "O5'" "C5'"  SINGLE n 1.454 0.0165 1.454 0.0165
-HPD "C5'" "C4'"  SINGLE n 1.511 0.0100 1.511 0.0100
-HPD "O4'" "C4'"  SINGLE n 1.429 0.0100 1.429 0.0100
-HPD "O3'" "C3'"  SINGLE n 1.424 0.0199 1.424 0.0199
-HPD "C1'" "O1'"  SINGLE n 1.417 0.0200 1.417 0.0200
-HPD "C1'" "C2'"  SINGLE n 1.507 0.0100 1.507 0.0100
-HPD "C3'" "C4'"  SINGLE n 1.535 0.0200 1.535 0.0200
-HPD "C3'" "C2'"  SINGLE n 1.524 0.0104 1.524 0.0104
-HPD "C5'" "H5'1" SINGLE n 1.089 0.0100 0.980 0.0146
-HPD "C5'" "H5'2" SINGLE n 1.089 0.0100 0.980 0.0146
-HPD "O4'" "HO'4" SINGLE n 0.970 0.0120 0.848 0.0200
-HPD "O3'" "HO'3" SINGLE n 0.970 0.0120 0.848 0.0200
-HPD "C1'" "H1'1" SINGLE n 1.089 0.0100 0.981 0.0174
-HPD "C1'" "H1'2" SINGLE n 1.089 0.0100 0.981 0.0174
-HPD "O1'" "HO'1" SINGLE n 0.970 0.0120 0.846 0.0200
-HPD "C3'" "H3'"  SINGLE n 1.089 0.0100 0.992 0.0184
-HPD "C4'" "H4'"  SINGLE n 1.089 0.0100 1.004 0.0200
-HPD "C2'" "H2'1" SINGLE n 1.089 0.0100 0.979 0.0130
-HPD "C2'" "H2'2" SINGLE n 1.089 0.0100 0.979 0.0130
-
+HPD           P       "O5'"      SINGLE       n     1.614  0.0178     1.614  0.0178
+HPD           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+HPD           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
+HPD           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
+HPD       "O5'"       "C5'"      SINGLE       n     1.454  0.0165     1.454  0.0165
+HPD       "C5'"       "C4'"      SINGLE       n     1.511  0.0100     1.511  0.0100
+HPD       "O4'"       "C4'"      SINGLE       n     1.429  0.0100     1.429  0.0100
+HPD       "O3'"       "C3'"      SINGLE       n     1.424  0.0199     1.424  0.0199
+HPD       "C1'"       "O1'"      SINGLE       n     1.417  0.0200     1.417  0.0200
+HPD       "C1'"       "C2'"      SINGLE       n     1.507  0.0100     1.507  0.0100
+HPD       "C3'"       "C4'"      SINGLE       n     1.535  0.0200     1.535  0.0200
+HPD       "C3'"       "C2'"      SINGLE       n     1.524  0.0104     1.524  0.0104
+HPD       "C5'"      "H5'1"      SINGLE       n     1.089  0.0100     0.980  0.0146
+HPD       "C5'"      "H5'2"      SINGLE       n     1.089  0.0100     0.980  0.0146
+HPD       "O4'"      "HO'4"      SINGLE       n     0.970  0.0120     0.848  0.0200
+HPD       "O3'"      "HO'3"      SINGLE       n     0.970  0.0120     0.848  0.0200
+HPD       "C1'"      "H1'1"      SINGLE       n     1.089  0.0100     0.981  0.0174
+HPD       "C1'"      "H1'2"      SINGLE       n     1.089  0.0100     0.981  0.0174
+HPD       "O1'"      "HO'1"      SINGLE       n     0.970  0.0120     0.846  0.0200
+HPD       "C3'"       "H3'"      SINGLE       n     1.089  0.0100     0.992  0.0184
+HPD       "C4'"       "H4'"      SINGLE       n     1.089  0.0100     1.004  0.0200
+HPD       "C2'"      "H2'1"      SINGLE       n     1.089  0.0100     0.979  0.0130
+HPD       "C2'"      "H2'2"      SINGLE       n     1.089  0.0100     0.979  0.0130
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -85,47 +85,46 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-HPD "O5'"  P     O1P    105.795 2.09
-HPD "O5'"  P     O2P    105.795 2.09
-HPD "O5'"  P     O3P    105.795 2.09
-HPD O1P    P     O2P    112.864 1.69
-HPD O1P    P     O3P    112.864 1.69
-HPD O2P    P     O3P    112.864 1.69
-HPD P      "O5'" "C5'"  118.671 1.50
-HPD "O5'"  "C5'" "C4'"  109.438 2.56
-HPD "O5'"  "C5'" "H5'1" 109.393 1.91
-HPD "O5'"  "C5'" "H5'2" 109.393 1.91
-HPD "C4'"  "C5'" "H5'1" 109.582 1.50
-HPD "C4'"  "C5'" "H5'2" 109.582 1.50
-HPD "H5'1" "C5'" "H5'2" 108.319 1.50
-HPD "C4'"  "O4'" "HO'4" 111.202 3.00
-HPD "C3'"  "O3'" "HO'3" 108.815 1.50
-HPD "O1'"  "C1'" "C2'"  111.158 2.26
-HPD "O1'"  "C1'" "H1'1" 109.258 1.50
-HPD "O1'"  "C1'" "H1'2" 109.258 1.50
-HPD "C2'"  "C1'" "H1'1" 109.460 1.50
-HPD "C2'"  "C1'" "H1'2" 109.460 1.50
-HPD "H1'1" "C1'" "H1'2" 108.120 1.50
-HPD "C1'"  "O1'" "HO'1" 108.576 2.78
-HPD "O3'"  "C3'" "C4'"  109.320 2.01
-HPD "O3'"  "C3'" "C2'"  109.024 2.32
-HPD "O3'"  "C3'" "H3'"  107.870 1.50
-HPD "C4'"  "C3'" "C2'"  115.002 1.95
-HPD "C4'"  "C3'" "H3'"  108.450 1.83
-HPD "C2'"  "C3'" "H3'"  108.603 1.50
-HPD "C5'"  "C4'" "O4'"  109.314 1.96
-HPD "C5'"  "C4'" "C3'"  113.761 1.50
-HPD "C5'"  "C4'" "H4'"  108.656 1.50
-HPD "O4'"  "C4'" "C3'"  109.320 2.01
-HPD "O4'"  "C4'" "H4'"  108.591 1.50
-HPD "C3'"  "C4'" "H4'"  108.450 1.83
-HPD "C1'"  "C2'" "C3'"  114.466 2.24
-HPD "C1'"  "C2'" "H2'1" 108.573 1.50
-HPD "C1'"  "C2'" "H2'2" 108.573 1.50
-HPD "C3'"  "C2'" "H2'1" 108.468 1.50
-HPD "C3'"  "C2'" "H2'2" 108.468 1.50
-HPD "H2'1" "C2'" "H2'2" 107.696 1.50
-
+HPD       "O5'"           P         O1P     105.795    2.09
+HPD       "O5'"           P         O2P     105.795    2.09
+HPD       "O5'"           P         O3P     105.795    2.09
+HPD         O1P           P         O2P     112.864    1.69
+HPD         O1P           P         O3P     112.864    1.69
+HPD         O2P           P         O3P     112.864    1.69
+HPD           P       "O5'"       "C5'"     118.671    1.50
+HPD       "O5'"       "C5'"       "C4'"     109.438    2.56
+HPD       "O5'"       "C5'"      "H5'1"     109.393    1.91
+HPD       "O5'"       "C5'"      "H5'2"     109.393    1.91
+HPD       "C4'"       "C5'"      "H5'1"     109.582    1.50
+HPD       "C4'"       "C5'"      "H5'2"     109.582    1.50
+HPD      "H5'1"       "C5'"      "H5'2"     108.319    1.50
+HPD       "C4'"       "O4'"      "HO'4"     111.202    3.00
+HPD       "C3'"       "O3'"      "HO'3"     108.815    1.50
+HPD       "O1'"       "C1'"       "C2'"     111.158    2.26
+HPD       "O1'"       "C1'"      "H1'1"     109.258    1.50
+HPD       "O1'"       "C1'"      "H1'2"     109.258    1.50
+HPD       "C2'"       "C1'"      "H1'1"     109.460    1.50
+HPD       "C2'"       "C1'"      "H1'2"     109.460    1.50
+HPD      "H1'1"       "C1'"      "H1'2"     108.120    1.50
+HPD       "C1'"       "O1'"      "HO'1"     108.576    2.78
+HPD       "O3'"       "C3'"       "C4'"     109.320    2.01
+HPD       "O3'"       "C3'"       "C2'"     109.024    2.32
+HPD       "O3'"       "C3'"       "H3'"     107.870    1.50
+HPD       "C4'"       "C3'"       "C2'"     115.002    1.95
+HPD       "C4'"       "C3'"       "H3'"     108.450    1.83
+HPD       "C2'"       "C3'"       "H3'"     108.603    1.50
+HPD       "C5'"       "C4'"       "O4'"     109.314    1.96
+HPD       "C5'"       "C4'"       "C3'"     113.761    1.50
+HPD       "C5'"       "C4'"       "H4'"     108.656    1.50
+HPD       "O4'"       "C4'"       "C3'"     109.320    2.01
+HPD       "O4'"       "C4'"       "H4'"     108.591    1.50
+HPD       "C3'"       "C4'"       "H4'"     108.450    1.83
+HPD       "C1'"       "C2'"       "C3'"     114.466    2.24
+HPD       "C1'"       "C2'"      "H2'1"     108.573    1.50
+HPD       "C1'"       "C2'"      "H2'2"     108.573    1.50
+HPD       "C3'"       "C2'"      "H2'1"     108.468    1.50
+HPD       "C3'"       "C2'"      "H2'2"     108.468    1.50
+HPD      "H2'1"       "C2'"      "H2'2"     107.696    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -136,16 +135,15 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-HPD sp3_sp3_3  "C5'" "O5'" P     O1P    60.000  10.0 3
-HPD sp3_sp3_34 "O3'" "C3'" "C4'" "C5'"  180.000 10.0 3
-HPD sp3_sp3_43 "C1'" "C2'" "C3'" "O3'"  180.000 10.0 3
-HPD sp3_sp3_4  "C4'" "C5'" "O5'" P      180.000 10.0 3
-HPD sp3_sp3_7  "O4'" "C4'" "C5'" "O5'"  180.000 10.0 3
-HPD sp3_sp3_16 "C5'" "C4'" "O4'" "HO'4" 180.000 10.0 3
-HPD sp3_sp3_19 "C4'" "C3'" "O3'" "HO'3" 180.000 10.0 3
-HPD sp3_sp3_25 "O1'" "C1'" "C2'" "C3'"  180.000 10.0 3
-HPD sp3_sp3_22 "C2'" "C1'" "O1'" "HO'1" 180.000 10.0 3
-
+HPD             sp3_sp3_3       "C5'"       "O5'"           P         O1P      60.000    10.0     3
+HPD            sp3_sp3_34       "O3'"       "C3'"       "C4'"       "C5'"     180.000    10.0     3
+HPD            sp3_sp3_43       "C1'"       "C2'"       "C3'"       "O3'"     180.000    10.0     3
+HPD             sp3_sp3_4       "C4'"       "C5'"       "O5'"           P     180.000    10.0     3
+HPD             sp3_sp3_7       "O4'"       "C4'"       "C5'"       "O5'"     180.000    10.0     3
+HPD            sp3_sp3_16       "C5'"       "C4'"       "O4'"      "HO'4"     180.000    10.0     3
+HPD            sp3_sp3_19       "C4'"       "C3'"       "O3'"      "HO'3"     180.000    10.0     3
+HPD            sp3_sp3_25       "O1'"       "C1'"       "C2'"       "C3'"     180.000    10.0     3
+HPD            sp3_sp3_22       "C2'"       "C1'"       "O1'"      "HO'1"     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -154,40 +152,28 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-HPD chir_1 P     "O5'" O2P   O3P   both
-HPD chir_2 "C3'" "O3'" "C4'" "C2'" positive
-HPD chir_3 "C4'" "O4'" "C3'" "C5'" negative
-
+HPD    chir_1    P    "O5'"    O2P    O3P    both
+HPD    chir_2    "C3'"    "O3'"    "C4'"    "C2'"    positive
+HPD    chir_3    "C4'"    "O4'"    "C3'"    "C5'"    negative
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-HPD SMILES           ACDLabs              10.04 O=P(O)(O)OCC(O)C(O)CCO
-HPD SMILES_CANONICAL CACTVS               3.341 OCC[C@H](O)[C@H](O)CO[P](O)(O)=O
-HPD SMILES           CACTVS               3.341 OCC[CH](O)[CH](O)CO[P](O)(O)=O
-HPD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C(CO)[C@@H]([C@@H](COP(=O)(O)O)O)O
-HPD SMILES           "OpenEye OEToolkits" 1.5.0 C(CO)C(C(COP(=O)(O)O)O)O
-HPD InChI            InChI                1.03  InChI=1S/C5H13O7P/c6-2-1-4(7)5(8)3-12-13(9,10)11/h4-8H,1-3H2,(H2,9,10,11)/t4-,5+/m0/s1
-HPD InChIKey         InChI                1.03  YCHBTVQJICBXEI-CRCLSJGQSA-N
-
+HPD           SMILES              ACDLabs 10.04                                                                 O=P(O)(O)OCC(O)C(O)CCO
+HPD SMILES_CANONICAL               CACTVS 3.341                                                       OCC[C@H](O)[C@H](O)CO[P](O)(O)=O
+HPD           SMILES               CACTVS 3.341                                                         OCC[CH](O)[CH](O)CO[P](O)(O)=O
+HPD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                     C(CO)[C@@H]([C@@H](COP(=O)(O)O)O)O
+HPD           SMILES "OpenEye OEToolkits" 1.5.0                                                               C(CO)C(C(COP(=O)(O)O)O)O
+HPD            InChI                InChI  1.03 InChI=1S/C5H13O7P/c6-2-1-4(7)5(8)3-12-13(9,10)11/h4-8H,1-3H2,(H2,9,10,11)/t4-,5+/m0/s1
+HPD         InChIKey                InChI  1.03                                                            YCHBTVQJICBXEI-CRCLSJGQSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-HPD acedrg          243       "dictionary generator"
-HPD acedrg_database 11        "data source"
-HPD rdkit           2017.03.2 "Chemoinformatics tool"
-HPD refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-HPD DNA/RNA O2P  OP3
-HPD DNA/RNA O1P  OP1
-HPD DNA/RNA O3P  OP2
-HPD DNA/RNA HO'3 HO3'
+HPD acedrg               243         "dictionary generator"                  
+HPD acedrg_database      11          "data source"                           
+HPD rdkit                2017.03.2   "Chemoinformatics tool"
+HPD refmac5              5.8.0238    "optimization tool"                     

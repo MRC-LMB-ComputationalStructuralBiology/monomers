@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-NLT NLT N-DODECANOYL-L-TYROSINE NON-POLYMER 58 26 .
-
+NLT     NLT      N-DODECANOYL-L-TYROSINE     NON-POLYMER     58     26     .     
+#
 data_comp_NLT
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,65 +21,64 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-NLT N    N NH1  0  19.979 123.722 23.176
-NLT C1   C C    0  20.349 122.450 22.986
-NLT OL   O O    0  20.012 121.801 21.997
-NLT C2   C CH2  0  21.232 121.842 24.057
-NLT C3   C CH2  0  22.672 122.224 23.908
-NLT C4   C CH2  0  23.588 121.557 24.920
-NLT C5   C CH2  0  25.039 121.949 24.791
-NLT C6   C CH2  0  25.949 121.312 25.812
-NLT C7   C CH2  0  27.398 121.715 25.686
-NLT C8   C CH2  0  28.312 121.080 26.705
-NLT C9   C CH2  0  29.762 121.472 26.565
-NLT C10  C CH2  0  30.657 120.939 27.657
-NLT C11  C CH2  0  30.911 119.455 27.582
-NLT C12  C CH3  0  31.912 118.960 28.599
-NLT CA   C CH1  0  19.160 124.460 22.221
-NLT CB   C CH2  0  18.555 125.725 22.855
-NLT CG   C CR6  0  17.610 125.436 23.995
-NLT CD2  C CR16 0  16.379 124.834 23.768
-NLT CE2  C CR16 0  15.500 124.564 24.809
-NLT CZ   C CR6  0  15.846 124.899 26.109
-NLT CE1  C CR16 0  17.070 125.502 26.357
-NLT CD1  C CR16 0  17.937 125.764 25.305
-NLT OH   O OH1  0  14.982 124.636 27.144
-NLT C    C C    0  19.969 124.880 20.980
-NLT O    O OC   -1 20.994 125.564 21.172
-NLT O2   O O    0  19.545 124.508 19.867
-NLT HN   H H    0  20.240 124.135 23.900
-NLT H21  H H    0  21.156 120.865 24.017
-NLT H22  H H    0  20.914 122.132 24.939
-NLT H31  H H    0  22.753 123.196 24.002
-NLT H32  H H    0  22.971 121.985 23.006
-NLT H41  H H    0  23.514 120.584 24.818
-NLT H42  H H    0  23.279 121.785 25.823
-NLT H51  H H    0  25.109 122.924 24.873
-NLT H52  H H    0  25.353 121.703 23.895
-NLT H61  H H    0  25.886 120.337 25.725
-NLT H62  H H    0  25.633 121.552 26.709
-NLT H71  H H    0  27.461 122.691 25.772
-NLT H72  H H    0  27.714 121.476 24.788
-NLT H81  H H    0  28.241 120.105 26.626
-NLT H82  H H    0  28.003 121.329 27.602
-NLT H91  H H    0  29.824 122.451 26.559
-NLT H92  H H    0  30.094 121.148 25.701
-NLT H101 H H    0  30.249 121.144 28.526
-NLT H102 H H    0  31.518 121.407 27.615
-NLT H111 H H    0  31.236 119.236 26.682
-NLT H112 H H    0  30.061 118.982 27.717
-NLT H121 H H    0  32.028 117.999 28.501
-NLT H122 H H    0  31.590 119.157 29.496
-NLT H123 H H    0  32.766 119.404 28.458
-NLT HA   H H    0  18.417 123.877 21.932
-NLT HB1  H H    0  18.071 126.224 22.164
-NLT HB2  H H    0  19.284 126.294 23.180
-NLT HD2  H H    0  16.133 124.602 22.888
-NLT HE2  H H    0  14.669 124.155 24.633
-NLT HE1  H H    0  17.312 125.732 27.239
-NLT HD1  H H    0  18.767 126.174 25.486
-NLT HOH  H H    0  15.289 124.453 27.928
-
+NLT     N       N       NH1     0       19.979      123.722     23.176      
+NLT     C1      C       C       0       20.349      122.450     22.986      
+NLT     OL      O       O       0       20.012      121.801     21.997      
+NLT     C2      C       CH2     0       21.232      121.842     24.057      
+NLT     C3      C       CH2     0       22.672      122.224     23.908      
+NLT     C4      C       CH2     0       23.588      121.557     24.920      
+NLT     C5      C       CH2     0       25.039      121.949     24.791      
+NLT     C6      C       CH2     0       25.949      121.312     25.812      
+NLT     C7      C       CH2     0       27.398      121.715     25.686      
+NLT     C8      C       CH2     0       28.312      121.080     26.705      
+NLT     C9      C       CH2     0       29.762      121.472     26.565      
+NLT     C10     C       CH2     0       30.657      120.939     27.657      
+NLT     C11     C       CH2     0       30.911      119.455     27.582      
+NLT     C12     C       CH3     0       31.912      118.960     28.599      
+NLT     CA      C       CH1     0       19.160      124.460     22.221      
+NLT     CB      C       CH2     0       18.555      125.725     22.855      
+NLT     CG      C       CR6     0       17.610      125.436     23.995      
+NLT     CD2     C       CR16    0       16.379      124.834     23.768      
+NLT     CE2     C       CR16    0       15.500      124.564     24.809      
+NLT     CZ      C       CR6     0       15.846      124.899     26.109      
+NLT     CE1     C       CR16    0       17.070      125.502     26.357      
+NLT     CD1     C       CR16    0       17.937      125.764     25.305      
+NLT     OH      O       OH1     0       14.982      124.636     27.144      
+NLT     C       C       C       0       19.969      124.880     20.980      
+NLT     O       O       OC      -1      20.994      125.564     21.172      
+NLT     O2      O       O       0       19.545      124.508     19.867      
+NLT     HN      H       H       0       20.240      124.135     23.900      
+NLT     H21     H       H       0       21.156      120.865     24.017      
+NLT     H22     H       H       0       20.914      122.132     24.939      
+NLT     H31     H       H       0       22.753      123.196     24.002      
+NLT     H32     H       H       0       22.971      121.985     23.006      
+NLT     H41     H       H       0       23.514      120.584     24.818      
+NLT     H42     H       H       0       23.279      121.785     25.823      
+NLT     H51     H       H       0       25.109      122.924     24.873      
+NLT     H52     H       H       0       25.353      121.703     23.895      
+NLT     H61     H       H       0       25.886      120.337     25.725      
+NLT     H62     H       H       0       25.633      121.552     26.709      
+NLT     H71     H       H       0       27.461      122.691     25.772      
+NLT     H72     H       H       0       27.714      121.476     24.788      
+NLT     H81     H       H       0       28.241      120.105     26.626      
+NLT     H82     H       H       0       28.003      121.329     27.602      
+NLT     H91     H       H       0       29.824      122.451     26.559      
+NLT     H92     H       H       0       30.094      121.148     25.701      
+NLT     H101    H       H       0       30.249      121.144     28.526      
+NLT     H102    H       H       0       31.518      121.407     27.615      
+NLT     H111    H       H       0       31.236      119.236     26.682      
+NLT     H112    H       H       0       30.061      118.982     27.717      
+NLT     H121    H       H       0       32.028      117.999     28.501      
+NLT     H122    H       H       0       31.590      119.157     29.496      
+NLT     H123    H       H       0       32.766      119.404     28.458      
+NLT     HA      H       H       0       18.417      123.877     21.932      
+NLT     HB1     H       H       0       18.071      126.224     22.164      
+NLT     HB2     H       H       0       19.284      126.294     23.180      
+NLT     HD2     H       H       0       16.133      124.602     22.888      
+NLT     HE2     H       H       0       14.669      124.155     24.633      
+NLT     HE1     H       H       0       17.312      125.732     27.239      
+NLT     HD1     H       H       0       18.767      126.174     25.486      
+NLT     HOH     H       H       0       15.289      124.453     27.928      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -88,65 +89,64 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-NLT N   C1   SINGLE n 1.334 0.0100 1.334 0.0100
-NLT N   CA   SINGLE n 1.455 0.0100 1.455 0.0100
-NLT C1  OL   DOUBLE n 1.229 0.0102 1.229 0.0102
-NLT C1  C2   SINGLE n 1.514 0.0100 1.514 0.0100
-NLT C2  C3   SINGLE n 1.497 0.0200 1.497 0.0200
-NLT C3  C4   SINGLE n 1.519 0.0164 1.519 0.0164
-NLT C4  C5   SINGLE n 1.509 0.0200 1.509 0.0200
-NLT C5  C6   SINGLE n 1.509 0.0200 1.509 0.0200
-NLT C6  C7   SINGLE n 1.509 0.0200 1.509 0.0200
-NLT C7  C8   SINGLE n 1.509 0.0200 1.509 0.0200
-NLT C8  C9   SINGLE n 1.509 0.0200 1.509 0.0200
-NLT C9  C10  SINGLE n 1.509 0.0200 1.509 0.0200
-NLT C10 C11  SINGLE n 1.507 0.0200 1.507 0.0200
-NLT C11 C12  SINGLE n 1.510 0.0200 1.510 0.0200
-NLT CA  CB   SINGLE n 1.538 0.0100 1.538 0.0100
-NLT CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
-NLT CB  CG   SINGLE n 1.508 0.0100 1.508 0.0100
-NLT CG  CD2  DOUBLE y 1.385 0.0110 1.385 0.0110
-NLT CG  CD1  SINGLE y 1.385 0.0110 1.385 0.0110
-NLT CD2 CE2  SINGLE y 1.385 0.0100 1.385 0.0100
-NLT CE2 CZ   DOUBLE y 1.383 0.0100 1.383 0.0100
-NLT CZ  CE1  SINGLE y 1.383 0.0100 1.383 0.0100
-NLT CZ  OH   SINGLE n 1.374 0.0155 1.374 0.0155
-NLT CE1 CD1  DOUBLE y 1.385 0.0100 1.385 0.0100
-NLT C   O    SINGLE n 1.247 0.0187 1.247 0.0187
-NLT C   O2   DOUBLE n 1.247 0.0187 1.247 0.0187
-NLT N   HN   SINGLE n 1.016 0.0100 0.873 0.0200
-NLT C2  H21  SINGLE n 1.089 0.0100 0.981 0.0185
-NLT C2  H22  SINGLE n 1.089 0.0100 0.981 0.0185
-NLT C3  H31  SINGLE n 1.089 0.0100 0.980 0.0160
-NLT C3  H32  SINGLE n 1.089 0.0100 0.980 0.0160
-NLT C4  H41  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C4  H42  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C5  H51  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C5  H52  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C6  H61  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C6  H62  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C7  H71  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C7  H72  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C8  H81  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C8  H82  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C9  H91  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C9  H92  SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C10 H101 SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C10 H102 SINGLE n 1.089 0.0100 0.981 0.0163
-NLT C11 H111 SINGLE n 1.089 0.0100 0.982 0.0155
-NLT C11 H112 SINGLE n 1.089 0.0100 0.982 0.0155
-NLT C12 H121 SINGLE n 1.089 0.0100 0.973 0.0157
-NLT C12 H122 SINGLE n 1.089 0.0100 0.973 0.0157
-NLT C12 H123 SINGLE n 1.089 0.0100 0.973 0.0157
-NLT CA  HA   SINGLE n 1.089 0.0100 0.988 0.0135
-NLT CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0164
-NLT CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0164
-NLT CD2 HD2  SINGLE n 1.082 0.0130 0.943 0.0173
-NLT CE2 HE2  SINGLE n 1.082 0.0130 0.943 0.0169
-NLT CE1 HE1  SINGLE n 1.082 0.0130 0.943 0.0169
-NLT CD1 HD1  SINGLE n 1.082 0.0130 0.943 0.0173
-NLT OH  HOH  SINGLE n 0.966 0.0059 0.861 0.0200
-
+NLT           N          C1      SINGLE       n     1.334  0.0100     1.334  0.0100
+NLT           N          CA      SINGLE       n     1.455  0.0100     1.455  0.0100
+NLT          C1          OL      DOUBLE       n     1.229  0.0102     1.229  0.0102
+NLT          C1          C2      SINGLE       n     1.514  0.0100     1.514  0.0100
+NLT          C2          C3      SINGLE       n     1.497  0.0200     1.497  0.0200
+NLT          C3          C4      SINGLE       n     1.519  0.0164     1.519  0.0164
+NLT          C4          C5      SINGLE       n     1.509  0.0200     1.509  0.0200
+NLT          C5          C6      SINGLE       n     1.509  0.0200     1.509  0.0200
+NLT          C6          C7      SINGLE       n     1.509  0.0200     1.509  0.0200
+NLT          C7          C8      SINGLE       n     1.509  0.0200     1.509  0.0200
+NLT          C8          C9      SINGLE       n     1.509  0.0200     1.509  0.0200
+NLT          C9         C10      SINGLE       n     1.509  0.0200     1.509  0.0200
+NLT         C10         C11      SINGLE       n     1.507  0.0200     1.507  0.0200
+NLT         C11         C12      SINGLE       n     1.510  0.0200     1.510  0.0200
+NLT          CA          CB      SINGLE       n     1.538  0.0100     1.538  0.0100
+NLT          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+NLT          CB          CG      SINGLE       n     1.508  0.0100     1.508  0.0100
+NLT          CG         CD2      DOUBLE       y     1.385  0.0110     1.385  0.0110
+NLT          CG         CD1      SINGLE       y     1.385  0.0110     1.385  0.0110
+NLT         CD2         CE2      SINGLE       y     1.385  0.0100     1.385  0.0100
+NLT         CE2          CZ      DOUBLE       y     1.383  0.0100     1.383  0.0100
+NLT          CZ         CE1      SINGLE       y     1.383  0.0100     1.383  0.0100
+NLT          CZ          OH      SINGLE       n     1.374  0.0155     1.374  0.0155
+NLT         CE1         CD1      DOUBLE       y     1.385  0.0100     1.385  0.0100
+NLT           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
+NLT           C          O2      DOUBLE       n     1.247  0.0187     1.247  0.0187
+NLT           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
+NLT          C2         H21      SINGLE       n     1.089  0.0100     0.981  0.0185
+NLT          C2         H22      SINGLE       n     1.089  0.0100     0.981  0.0185
+NLT          C3         H31      SINGLE       n     1.089  0.0100     0.980  0.0160
+NLT          C3         H32      SINGLE       n     1.089  0.0100     0.980  0.0160
+NLT          C4         H41      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C4         H42      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C5         H51      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C5         H52      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C6         H61      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C6         H62      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C7         H71      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C7         H72      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C8         H81      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C8         H82      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT         C10        H101      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT         C10        H102      SINGLE       n     1.089  0.0100     0.981  0.0163
+NLT         C11        H111      SINGLE       n     1.089  0.0100     0.982  0.0155
+NLT         C11        H112      SINGLE       n     1.089  0.0100     0.982  0.0155
+NLT         C12        H121      SINGLE       n     1.089  0.0100     0.973  0.0157
+NLT         C12        H122      SINGLE       n     1.089  0.0100     0.973  0.0157
+NLT         C12        H123      SINGLE       n     1.089  0.0100     0.973  0.0157
+NLT          CA          HA      SINGLE       n     1.089  0.0100     0.988  0.0135
+NLT          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0164
+NLT          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0164
+NLT         CD2         HD2      SINGLE       n     1.082  0.0130     0.943  0.0173
+NLT         CE2         HE2      SINGLE       n     1.082  0.0130     0.943  0.0169
+NLT         CE1         HE1      SINGLE       n     1.082  0.0130     0.943  0.0169
+NLT         CD1         HD1      SINGLE       n     1.082  0.0130     0.943  0.0173
+NLT          OH         HOH      SINGLE       n     0.966  0.0059     0.861  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -154,113 +154,112 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-NLT C1   N   CA   121.936 1.50
-NLT C1   N   HN   119.052 1.50
-NLT CA   N   HN   119.012 2.22
-NLT N    C1  OL   122.033 1.50
-NLT N    C1  C2   116.136 1.50
-NLT OL   C1  C2   121.831 1.50
-NLT C1   C2  C3   112.836 1.50
-NLT C1   C2  H21  108.930 1.50
-NLT C1   C2  H22  108.930 1.50
-NLT C3   C2  H21  108.897 1.50
-NLT C3   C2  H22  108.897 1.50
-NLT H21  C2  H22  107.846 1.50
-NLT C2   C3  C4   113.472 1.51
-NLT C2   C3  H31  108.795 1.50
-NLT C2   C3  H32  108.795 1.50
-NLT C4   C3  H31  108.698 1.50
-NLT C4   C3  H32  108.698 1.50
-NLT H31  C3  H32  107.646 1.50
-NLT C3   C4  C5   114.243 1.69
-NLT C3   C4  H41  108.698 1.50
-NLT C3   C4  H42  108.698 1.50
-NLT C5   C4  H41  108.698 1.50
-NLT C5   C4  H42  108.698 1.50
-NLT H41  C4  H42  107.646 1.50
-NLT C4   C5  C6   114.243 1.69
-NLT C4   C5  H51  108.698 1.50
-NLT C4   C5  H52  108.698 1.50
-NLT C6   C5  H51  108.698 1.50
-NLT C6   C5  H52  108.698 1.50
-NLT H51  C5  H52  107.646 1.50
-NLT C5   C6  C7   114.243 1.69
-NLT C5   C6  H61  108.698 1.50
-NLT C5   C6  H62  108.698 1.50
-NLT C7   C6  H61  108.698 1.50
-NLT C7   C6  H62  108.698 1.50
-NLT H61  C6  H62  107.646 1.50
-NLT C6   C7  C8   114.243 1.69
-NLT C6   C7  H71  108.698 1.50
-NLT C6   C7  H72  108.698 1.50
-NLT C8   C7  H71  108.698 1.50
-NLT C8   C7  H72  108.698 1.50
-NLT H71  C7  H72  107.646 1.50
-NLT C7   C8  C9   114.243 1.69
-NLT C7   C8  H81  108.698 1.50
-NLT C7   C8  H82  108.698 1.50
-NLT C9   C8  H81  108.698 1.50
-NLT C9   C8  H82  108.698 1.50
-NLT H81  C8  H82  107.646 1.50
-NLT C8   C9  C10  114.243 1.69
-NLT C8   C9  H91  108.698 1.50
-NLT C8   C9  H92  108.698 1.50
-NLT C10  C9  H91  108.698 1.50
-NLT C10  C9  H92  108.698 1.50
-NLT H91  C9  H92  107.646 1.50
-NLT C9   C10 C11  114.362 3.00
-NLT C9   C10 H101 108.698 1.50
-NLT C9   C10 H102 108.698 1.50
-NLT C11  C10 H101 108.653 1.50
-NLT C11  C10 H102 108.653 1.50
-NLT H101 C10 H102 107.646 1.50
-NLT C10  C11 C12  113.719 3.00
-NLT C10  C11 H111 108.758 1.50
-NLT C10  C11 H112 108.758 1.50
-NLT C12  C11 H111 108.918 1.50
-NLT C12  C11 H112 108.918 1.50
-NLT H111 C11 H112 107.763 1.50
-NLT C11  C12 H121 109.554 1.50
-NLT C11  C12 H122 109.554 1.50
-NLT C11  C12 H123 109.554 1.50
-NLT H121 C12 H122 109.380 1.50
-NLT H121 C12 H123 109.380 1.50
-NLT H122 C12 H123 109.380 1.50
-NLT N    CA  CB   111.246 1.50
-NLT N    CA  C    111.747 1.50
-NLT N    CA  HA   107.939 1.50
-NLT CB   CA  C    108.347 3.00
-NLT CB   CA  HA   108.204 1.50
-NLT C    CA  HA   108.456 1.50
-NLT CA   CB  CG   113.563 1.55
-NLT CA   CB  HB1  108.745 1.50
-NLT CA   CB  HB2  108.745 1.50
-NLT CG   CB  HB1  108.862 1.50
-NLT CG   CB  HB2  108.862 1.50
-NLT HB1  CB  HB2  107.782 1.50
-NLT CB   CG  CD2  121.083 1.50
-NLT CB   CG  CD1  121.083 1.50
-NLT CD2  CG  CD1  117.834 1.50
-NLT CG   CD2 CE2  121.472 1.50
-NLT CG   CD2 HD2  119.317 1.50
-NLT CE2  CD2 HD2  119.210 1.50
-NLT CD2  CE2 CZ   119.825 1.50
-NLT CD2  CE2 HE2  120.168 1.50
-NLT CZ   CE2 HE2  120.006 1.50
-NLT CE2  CZ  CE1  119.571 1.50
-NLT CE2  CZ  OH   120.215 3.00
-NLT CE1  CZ  OH   120.215 3.00
-NLT CZ   CE1 CD1  119.825 1.50
-NLT CZ   CE1 HE1  120.006 1.50
-NLT CD1  CE1 HE1  120.168 1.50
-NLT CG   CD1 CE1  121.472 1.50
-NLT CG   CD1 HD1  119.317 1.50
-NLT CE1  CD1 HD1  119.210 1.50
-NLT CZ   OH  HOH  120.000 3.00
-NLT CA   C   O    117.245 1.50
-NLT CA   C   O2   117.245 1.50
-NLT O    C   O2   125.509 1.50
-
+NLT          C1           N          CA     121.936    1.50
+NLT          C1           N          HN     119.052    1.50
+NLT          CA           N          HN     119.012    2.22
+NLT           N          C1          OL     122.033    1.50
+NLT           N          C1          C2     116.136    1.50
+NLT          OL          C1          C2     121.831    1.50
+NLT          C1          C2          C3     112.836    1.50
+NLT          C1          C2         H21     108.930    1.50
+NLT          C1          C2         H22     108.930    1.50
+NLT          C3          C2         H21     108.897    1.50
+NLT          C3          C2         H22     108.897    1.50
+NLT         H21          C2         H22     107.846    1.50
+NLT          C2          C3          C4     113.472    1.51
+NLT          C2          C3         H31     108.795    1.50
+NLT          C2          C3         H32     108.795    1.50
+NLT          C4          C3         H31     108.698    1.50
+NLT          C4          C3         H32     108.698    1.50
+NLT         H31          C3         H32     107.646    1.50
+NLT          C3          C4          C5     114.243    1.69
+NLT          C3          C4         H41     108.698    1.50
+NLT          C3          C4         H42     108.698    1.50
+NLT          C5          C4         H41     108.698    1.50
+NLT          C5          C4         H42     108.698    1.50
+NLT         H41          C4         H42     107.646    1.50
+NLT          C4          C5          C6     114.243    1.69
+NLT          C4          C5         H51     108.698    1.50
+NLT          C4          C5         H52     108.698    1.50
+NLT          C6          C5         H51     108.698    1.50
+NLT          C6          C5         H52     108.698    1.50
+NLT         H51          C5         H52     107.646    1.50
+NLT          C5          C6          C7     114.243    1.69
+NLT          C5          C6         H61     108.698    1.50
+NLT          C5          C6         H62     108.698    1.50
+NLT          C7          C6         H61     108.698    1.50
+NLT          C7          C6         H62     108.698    1.50
+NLT         H61          C6         H62     107.646    1.50
+NLT          C6          C7          C8     114.243    1.69
+NLT          C6          C7         H71     108.698    1.50
+NLT          C6          C7         H72     108.698    1.50
+NLT          C8          C7         H71     108.698    1.50
+NLT          C8          C7         H72     108.698    1.50
+NLT         H71          C7         H72     107.646    1.50
+NLT          C7          C8          C9     114.243    1.69
+NLT          C7          C8         H81     108.698    1.50
+NLT          C7          C8         H82     108.698    1.50
+NLT          C9          C8         H81     108.698    1.50
+NLT          C9          C8         H82     108.698    1.50
+NLT         H81          C8         H82     107.646    1.50
+NLT          C8          C9         C10     114.243    1.69
+NLT          C8          C9         H91     108.698    1.50
+NLT          C8          C9         H92     108.698    1.50
+NLT         C10          C9         H91     108.698    1.50
+NLT         C10          C9         H92     108.698    1.50
+NLT         H91          C9         H92     107.646    1.50
+NLT          C9         C10         C11     114.362    3.00
+NLT          C9         C10        H101     108.698    1.50
+NLT          C9         C10        H102     108.698    1.50
+NLT         C11         C10        H101     108.653    1.50
+NLT         C11         C10        H102     108.653    1.50
+NLT        H101         C10        H102     107.646    1.50
+NLT         C10         C11         C12     113.719    3.00
+NLT         C10         C11        H111     108.758    1.50
+NLT         C10         C11        H112     108.758    1.50
+NLT         C12         C11        H111     108.918    1.50
+NLT         C12         C11        H112     108.918    1.50
+NLT        H111         C11        H112     107.763    1.50
+NLT         C11         C12        H121     109.554    1.50
+NLT         C11         C12        H122     109.554    1.50
+NLT         C11         C12        H123     109.554    1.50
+NLT        H121         C12        H122     109.380    1.50
+NLT        H121         C12        H123     109.380    1.50
+NLT        H122         C12        H123     109.380    1.50
+NLT           N          CA          CB     111.246    1.50
+NLT           N          CA           C     111.747    1.50
+NLT           N          CA          HA     107.939    1.50
+NLT          CB          CA           C     108.347    3.00
+NLT          CB          CA          HA     108.204    1.50
+NLT           C          CA          HA     108.456    1.50
+NLT          CA          CB          CG     113.563    1.55
+NLT          CA          CB         HB1     108.745    1.50
+NLT          CA          CB         HB2     108.745    1.50
+NLT          CG          CB         HB1     108.862    1.50
+NLT          CG          CB         HB2     108.862    1.50
+NLT         HB1          CB         HB2     107.782    1.50
+NLT          CB          CG         CD2     121.083    1.50
+NLT          CB          CG         CD1     121.083    1.50
+NLT         CD2          CG         CD1     117.834    1.50
+NLT          CG         CD2         CE2     121.472    1.50
+NLT          CG         CD2         HD2     119.317    1.50
+NLT         CE2         CD2         HD2     119.210    1.50
+NLT         CD2         CE2          CZ     119.825    1.50
+NLT         CD2         CE2         HE2     120.168    1.50
+NLT          CZ         CE2         HE2     120.006    1.50
+NLT         CE2          CZ         CE1     119.571    1.50
+NLT         CE2          CZ          OH     120.215    3.00
+NLT         CE1          CZ          OH     120.215    3.00
+NLT          CZ         CE1         CD1     119.825    1.50
+NLT          CZ         CE1         HE1     120.006    1.50
+NLT         CD1         CE1         HE1     120.168    1.50
+NLT          CG         CD1         CE1     121.472    1.50
+NLT          CG         CD1         HD1     119.317    1.50
+NLT         CE1         CD1         HD1     119.210    1.50
+NLT          CZ          OH         HOH     120.000    3.00
+NLT          CA           C           O     117.245    1.50
+NLT          CA           C          O2     117.245    1.50
+NLT           O           C          O2     125.509    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -271,30 +270,29 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-NLT sp2_sp2_3       OL  C1  N   CA   0.000   5.0  2
-NLT sp2_sp3_1       C1  N   CA  CB   0.000   10.0 6
-NLT sp3_sp3_64      C11 C10 C9  C8   180.000 10.0 3
-NLT sp3_sp3_73      C9  C10 C11 C12  180.000 10.0 3
-NLT sp3_sp3_82      C10 C11 C12 H121 180.000 10.0 3
-NLT sp3_sp3_91      N   CA  CB  CG   180.000 10.0 3
-NLT sp2_sp3_13      O   C   CA  N    0.000   10.0 6
-NLT sp2_sp3_20      CD2 CG  CB  CA   -90.000 10.0 6
-NLT const_sp2_sp2_2 CE2 CD2 CG  CB   180.000 5.0  2
-NLT const_22        CE1 CD1 CG  CB   180.000 10.0 2
-NLT const_sp2_sp2_5 CG  CD2 CE2 CZ   0.000   5.0  2
-NLT const_10        CD2 CE2 CZ  OH   180.000 10.0 2
-NLT const_14        CD1 CE1 CZ  OH   180.000 10.0 2
-NLT sp2_sp2_5       CE2 CZ  OH  HOH  180.000 5.0  2
-NLT sp2_sp3_8       N   C1  C2  C3   120.000 10.0 6
-NLT const_17        CG  CD1 CE1 CZ   0.000   10.0 2
-NLT sp3_sp3_1       C1  C2  C3  C4   180.000 10.0 3
-NLT sp3_sp3_10      C2  C3  C4  C5   180.000 10.0 3
-NLT sp3_sp3_19      C3  C4  C5  C6   180.000 10.0 3
-NLT sp3_sp3_28      C4  C5  C6  C7   180.000 10.0 3
-NLT sp3_sp3_37      C5  C6  C7  C8   180.000 10.0 3
-NLT sp3_sp3_46      C6  C7  C8  C9   180.000 10.0 3
-NLT sp3_sp3_55      C7  C8  C9  C10  180.000 10.0 3
-
+NLT             sp2_sp2_3          OL          C1           N          CA       0.000     5.0     2
+NLT             sp2_sp3_1          C1           N          CA          CB       0.000    10.0     6
+NLT            sp3_sp3_64         C11         C10          C9          C8     180.000    10.0     3
+NLT            sp3_sp3_73          C9         C10         C11         C12     180.000    10.0     3
+NLT            sp3_sp3_82         C10         C11         C12        H121     180.000    10.0     3
+NLT            sp3_sp3_91           N          CA          CB          CG     180.000    10.0     3
+NLT            sp2_sp3_13           O           C          CA           N       0.000    10.0     6
+NLT            sp2_sp3_20         CD2          CG          CB          CA     -90.000    10.0     6
+NLT       const_sp2_sp2_2         CE2         CD2          CG          CB     180.000     5.0     2
+NLT              const_22         CE1         CD1          CG          CB     180.000    10.0     2
+NLT       const_sp2_sp2_5          CG         CD2         CE2          CZ       0.000     5.0     2
+NLT              const_10         CD2         CE2          CZ          OH     180.000    10.0     2
+NLT              const_14         CD1         CE1          CZ          OH     180.000    10.0     2
+NLT             sp2_sp2_5         CE2          CZ          OH         HOH     180.000     5.0     2
+NLT             sp2_sp3_8           N          C1          C2          C3     120.000    10.0     6
+NLT              const_17          CG         CD1         CE1          CZ       0.000    10.0     2
+NLT             sp3_sp3_1          C1          C2          C3          C4     180.000    10.0     3
+NLT            sp3_sp3_10          C2          C3          C4          C5     180.000    10.0     3
+NLT            sp3_sp3_19          C3          C4          C5          C6     180.000    10.0     3
+NLT            sp3_sp3_28          C4          C5          C6          C7     180.000    10.0     3
+NLT            sp3_sp3_37          C5          C6          C7          C8     180.000    10.0     3
+NLT            sp3_sp3_46          C6          C7          C8          C9     180.000    10.0     3
+NLT            sp3_sp3_55          C7          C8          C9         C10     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -303,68 +301,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-NLT chir_1 CA N C CB positive
-
+NLT    chir_1    CA    N    C    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-NLT plan-1 CB  0.020
-NLT plan-1 CD1 0.020
-NLT plan-1 CD2 0.020
-NLT plan-1 CE1 0.020
-NLT plan-1 CE2 0.020
-NLT plan-1 CG  0.020
-NLT plan-1 CZ  0.020
-NLT plan-1 HD1 0.020
-NLT plan-1 HD2 0.020
-NLT plan-1 HE1 0.020
-NLT plan-1 HE2 0.020
-NLT plan-1 OH  0.020
-NLT plan-2 C1  0.020
-NLT plan-2 CA  0.020
-NLT plan-2 HN  0.020
-NLT plan-2 N   0.020
-NLT plan-3 C1  0.020
-NLT plan-3 C2  0.020
-NLT plan-3 N   0.020
-NLT plan-3 OL  0.020
-NLT plan-4 C   0.020
-NLT plan-4 CA  0.020
-NLT plan-4 O   0.020
-NLT plan-4 O2  0.020
-
+NLT    plan-1          CB   0.020
+NLT    plan-1         CD1   0.020
+NLT    plan-1         CD2   0.020
+NLT    plan-1         CE1   0.020
+NLT    plan-1         CE2   0.020
+NLT    plan-1          CG   0.020
+NLT    plan-1          CZ   0.020
+NLT    plan-1         HD1   0.020
+NLT    plan-1         HD2   0.020
+NLT    plan-1         HE1   0.020
+NLT    plan-1         HE2   0.020
+NLT    plan-1          OH   0.020
+NLT    plan-2          C1   0.020
+NLT    plan-2          CA   0.020
+NLT    plan-2          HN   0.020
+NLT    plan-2           N   0.020
+NLT    plan-3          C1   0.020
+NLT    plan-3          C2   0.020
+NLT    plan-3           N   0.020
+NLT    plan-3          OL   0.020
+NLT    plan-4           C   0.020
+NLT    plan-4          CA   0.020
+NLT    plan-4           O   0.020
+NLT    plan-4          O2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-NLT SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)CCCCCCCCCCC)Cc1ccc(O)cc1
-NLT SMILES_CANONICAL CACTVS               3.341 CCCCCCCCCCCC(=O)N[C@@H](Cc1ccc(O)cc1)C(O)=O
-NLT SMILES           CACTVS               3.341 CCCCCCCCCCCC(=O)N[CH](Cc1ccc(O)cc1)C(O)=O
-NLT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCCCCCCCCC(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O
-NLT SMILES           "OpenEye OEToolkits" 1.5.0 CCCCCCCCCCCC(=O)NC(Cc1ccc(cc1)O)C(=O)O
-NLT InChI            InChI                1.03  InChI=1S/C21H33NO4/c1-2-3-4-5-6-7-8-9-10-11-20(24)22-19(21(25)26)16-17-12-14-18(23)15-13-17/h12-15,19,23H,2-11,16H2,1H3,(H,22,24)(H,25,26)/t19-/m0/s1
-NLT InChIKey         InChI                1.03  SVQAZCRYIXURJT-IBGZPJMESA-N
-
+NLT           SMILES              ACDLabs 10.04                                                                                                                O=C(O)C(NC(=O)CCCCCCCCCCC)Cc1ccc(O)cc1
+NLT SMILES_CANONICAL               CACTVS 3.341                                                                                                           CCCCCCCCCCCC(=O)N[C@@H](Cc1ccc(O)cc1)C(O)=O
+NLT           SMILES               CACTVS 3.341                                                                                                             CCCCCCCCCCCC(=O)N[CH](Cc1ccc(O)cc1)C(O)=O
+NLT SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                           CCCCCCCCCCCC(=O)N[C@@H](Cc1ccc(cc1)O)C(=O)O
+NLT           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                CCCCCCCCCCCC(=O)NC(Cc1ccc(cc1)O)C(=O)O
+NLT            InChI                InChI  1.03 InChI=1S/C21H33NO4/c1-2-3-4-5-6-7-8-9-10-11-20(24)22-19(21(25)26)16-17-12-14-18(23)15-13-17/h12-15,19,23H,2-11,16H2,1H3,(H,22,24)(H,25,26)/t19-/m0/s1
+NLT         InChIKey                InChI  1.03                                                                                                                           SVQAZCRYIXURJT-IBGZPJMESA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-NLT acedrg          243       "dictionary generator"
-NLT acedrg_database 11        "data source"
-NLT rdkit           2017.03.2 "Chemoinformatics tool"
-NLT refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-NLT M-peptide O2 O
-NLT M-peptide C1 CN
-NLT M-peptide O  OXT
-NLT M-peptide HN H
+NLT acedrg               243         "dictionary generator"                  
+NLT acedrg_database      11          "data source"                           
+NLT rdkit                2017.03.2   "Chemoinformatics tool"
+NLT refmac5              5.8.0238    "optimization tool"                     

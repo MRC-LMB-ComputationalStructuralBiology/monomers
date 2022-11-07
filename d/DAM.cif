@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DAM DAM N-METHYL-ALPHA-BETA-DEHYDROALANINE NON-POLYMER 13 7 .
-
+DAM     DAM      N-METHYL-ALPHA-BETA-DEHYDROALANINE     NON-POLYMER     13     7     .     
+#
 data_comp_DAM
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,20 +21,19 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DAM N   N NH1 0  5.556 5.893 5.667
-DAM CM  C CH3 0  4.487 6.765 6.125
-DAM CA  C C   0  6.884 5.885 6.072
-DAM CB  C C2  0  7.401 6.716 6.979
-DAM C   C C   0  7.708 4.927 5.476
-DAM O   O O   0  8.911 4.806 5.737
-DAM OXT O OC  -1 7.204 4.164 4.647
-DAM H   H H   0  5.352 5.295 5.065
-DAM HM1 H H   0  4.846 7.532 6.588
-DAM HM2 H H   0  3.902 6.272 6.724
-DAM HM3 H H   0  3.973 7.071 5.360
-DAM HB1 H H   0  8.323 6.670 7.205
-DAM HB2 H H   0  6.851 7.357 7.411
-
+DAM     N       N       NH1     0       5.556       5.893       5.667       
+DAM     CM      C       CH3     0       4.487       6.765       6.125       
+DAM     CA      C       C       0       6.884       5.885       6.072       
+DAM     CB      C       C2      0       7.401       6.716       6.979       
+DAM     C       C       C       0       7.708       4.927       5.476       
+DAM     O       O       O       0       8.911       4.806       5.737       
+DAM     OXT     O       OC      -1      7.204       4.164       4.647       
+DAM     H       H       H       0       5.352       5.295       5.065       
+DAM     HM1     H       H       0       4.846       7.532       6.588       
+DAM     HM2     H       H       0       3.902       6.272       6.724       
+DAM     HM3     H       H       0       3.973       7.071       5.360       
+DAM     HB1     H       H       0       8.323       6.670       7.205       
+DAM     HB2     H       H       0       6.851       7.357       7.411       
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -43,19 +44,18 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DAM N  CM  SINGLE n 1.450 0.0100 1.450 0.0100
-DAM N  CA  SINGLE n 1.350 0.0200 1.350 0.0200
-DAM CA CB  DOUBLE n 1.326 0.0100 1.326 0.0100
-DAM CA C   SINGLE n 1.361 0.0200 1.361 0.0200
-DAM C  O   DOUBLE n 1.230 0.0200 1.230 0.0200
-DAM C  OXT SINGLE n 1.230 0.0200 1.230 0.0200
-DAM N  H   SINGLE n 1.016 0.0100 0.870 0.0200
-DAM CM HM1 SINGLE n 1.089 0.0100 0.971 0.0198
-DAM CM HM2 SINGLE n 1.089 0.0100 0.971 0.0198
-DAM CM HM3 SINGLE n 1.089 0.0100 0.971 0.0198
-DAM CB HB1 SINGLE n 1.082 0.0130 0.950 0.0100
-DAM CB HB2 SINGLE n 1.082 0.0130 0.950 0.0100
-
+DAM           N          CM      SINGLE       n     1.450  0.0100     1.450  0.0100
+DAM           N          CA      SINGLE       n     1.350  0.0200     1.350  0.0200
+DAM          CA          CB      DOUBLE       n     1.326  0.0100     1.326  0.0100
+DAM          CA           C      SINGLE       n     1.361  0.0200     1.361  0.0200
+DAM           C           O      DOUBLE       n     1.230  0.0200     1.230  0.0200
+DAM           C         OXT      SINGLE       n     1.230  0.0200     1.230  0.0200
+DAM           N           H      SINGLE       n     1.016  0.0100     0.870  0.0200
+DAM          CM         HM1      SINGLE       n     1.089  0.0100     0.971  0.0198
+DAM          CM         HM2      SINGLE       n     1.089  0.0100     0.971  0.0198
+DAM          CM         HM3      SINGLE       n     1.089  0.0100     0.971  0.0198
+DAM          CB         HB1      SINGLE       n     1.082  0.0130     0.950  0.0100
+DAM          CB         HB2      SINGLE       n     1.082  0.0130     0.950  0.0100
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -63,25 +63,24 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DAM CM  N  CA  125.094 1.50
-DAM CM  N  H   119.143 1.83
-DAM CA  N  H   115.762 1.82
-DAM N   CM HM1 109.472 1.50
-DAM N   CM HM2 109.472 1.50
-DAM N   CM HM3 109.472 1.50
-DAM HM1 CM HM2 109.279 1.79
-DAM HM1 CM HM3 109.279 1.79
-DAM HM2 CM HM3 109.279 1.79
-DAM N   CA CB  120.877 3.00
-DAM N   CA C   120.877 3.00
-DAM CB  CA C   118.246 2.86
-DAM CA  CB HB1 119.953 1.58
-DAM CA  CB HB2 119.953 1.58
-DAM HB1 CB HB2 120.094 1.50
-DAM CA  C  O   119.840 3.00
-DAM CA  C  OXT 119.840 3.00
-DAM O   C  OXT 120.320 1.63
-
+DAM          CM           N          CA     125.094    1.50
+DAM          CM           N           H     119.143    1.83
+DAM          CA           N           H     115.762    1.82
+DAM           N          CM         HM1     109.472    1.50
+DAM           N          CM         HM2     109.472    1.50
+DAM           N          CM         HM3     109.472    1.50
+DAM         HM1          CM         HM2     109.279    1.79
+DAM         HM1          CM         HM3     109.279    1.79
+DAM         HM2          CM         HM3     109.279    1.79
+DAM           N          CA          CB     120.877    3.00
+DAM           N          CA           C     120.877    3.00
+DAM          CB          CA           C     118.246    2.86
+DAM          CA          CB         HB1     119.953    1.58
+DAM          CA          CB         HB2     119.953    1.58
+DAM         HB1          CB         HB2     120.094    1.50
+DAM          CA           C           O     119.840    3.00
+DAM          CA           C         OXT     119.840    3.00
+DAM           O           C         OXT     120.320    1.63
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -92,60 +91,50 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DAM sp2_sp3_1 CA N  CM HM1 0.000   10.0 6
-DAM sp2_sp2_3 CB CA N  CM  0.000   5.0  2
-DAM sp2_sp2_5 N  CA CB HB1 180.000 5.0  2
-DAM sp2_sp2_9 O  C  CA N   180.000 5.0  2
-
+DAM             sp2_sp3_1          CA           N          CM         HM1       0.000    10.0     6
+DAM             sp2_sp2_3          CB          CA           N          CM       0.000     5.0     2
+DAM             sp2_sp2_5           N          CA          CB         HB1     180.000     5.0     2
+DAM             sp2_sp2_9           O           C          CA           N     180.000     5.0     2
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DAM plan-1 CA  0.020
-DAM plan-1 CM  0.020
-DAM plan-1 H   0.020
-DAM plan-1 N   0.020
-DAM plan-2 C   0.020
-DAM plan-2 CA  0.020
-DAM plan-2 CB  0.020
-DAM plan-2 N   0.020
-DAM plan-3 CA  0.020
-DAM plan-3 CB  0.020
-DAM plan-3 HB1 0.020
-DAM plan-3 HB2 0.020
-DAM plan-4 C   0.020
-DAM plan-4 CA  0.020
-DAM plan-4 O   0.020
-DAM plan-4 OXT 0.020
-
+DAM    plan-1          CA   0.020
+DAM    plan-1          CM   0.020
+DAM    plan-1           H   0.020
+DAM    plan-1           N   0.020
+DAM    plan-2           C   0.020
+DAM    plan-2          CA   0.020
+DAM    plan-2          CB   0.020
+DAM    plan-2           N   0.020
+DAM    plan-3          CA   0.020
+DAM    plan-3          CB   0.020
+DAM    plan-3         HB1   0.020
+DAM    plan-3         HB2   0.020
+DAM    plan-4           C   0.020
+DAM    plan-4          CA   0.020
+DAM    plan-4           O   0.020
+DAM    plan-4         OXT   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DAM SMILES           ACDLabs              12.01 O=C(O)C(=C)/NC
-DAM SMILES_CANONICAL CACTVS               3.370 CNC(=C)C(O)=O
-DAM SMILES           CACTVS               3.370 CNC(=C)C(O)=O
-DAM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CNC(=C)C(=O)O
-DAM SMILES           "OpenEye OEToolkits" 1.7.0 CNC(=C)C(=O)O
-DAM InChI            InChI                1.03  InChI=1S/C4H7NO2/c1-3(5-2)4(6)7/h5H,1H2,2H3,(H,6,7)
-DAM InChIKey         InChI                1.03  FLEYLGCAQDCGHN-UHFFFAOYSA-N
-
+DAM           SMILES              ACDLabs 12.01                                      O=C(O)C(=C)/NC
+DAM SMILES_CANONICAL               CACTVS 3.370                                       CNC(=C)C(O)=O
+DAM           SMILES               CACTVS 3.370                                       CNC(=C)C(O)=O
+DAM SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                       CNC(=C)C(=O)O
+DAM           SMILES "OpenEye OEToolkits" 1.7.0                                       CNC(=C)C(=O)O
+DAM            InChI                InChI  1.03 InChI=1S/C4H7NO2/c1-3(5-2)4(6)7/h5H,1H2,2H3,(H,6,7)
+DAM         InChIKey                InChI  1.03                         FLEYLGCAQDCGHN-UHFFFAOYSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DAM acedrg          243       "dictionary generator"
-DAM acedrg_database 11        "data source"
-DAM rdkit           2017.03.2 "Chemoinformatics tool"
-DAM refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-DAM M-peptide CM CN
+DAM acedrg               243         "dictionary generator"                  
+DAM acedrg_database      11          "data source"                           
+DAM rdkit                2017.03.2   "Chemoinformatics tool"
+DAM refmac5              5.8.0238    "optimization tool"                     

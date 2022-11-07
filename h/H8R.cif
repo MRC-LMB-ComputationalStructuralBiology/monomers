@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-H8R H8R "(2~{S})-3-methyl-2-[(4-octoxyphenyl)carbonylamino]butanoic acid" NON-POLYMER 55 25 .
-
+H8R     H8R      "(2~{S})-3-methyl-2-[(4-octoxyphenyl)carbonylamino]butanoic acid"     NON-POLYMER     55     25     .     
+#
 data_comp_H8R
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,62 +21,61 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-H8R CG2 C CH3  0  18.509 21.897 18.439
-H8R CB  C CH1  0  19.558 20.840 18.778
-H8R CG1 C CH3  0  20.314 21.216 20.049
-H8R CA  C CH1  0  18.960 19.418 18.864
-H8R C   C C    0  17.900 19.308 19.979
-H8R O   O O    0  16.720 19.593 19.686
-H8R OXT O OC   -1 18.297 18.940 21.102
-H8R N   N NH1  0  18.406 18.984 17.584
-H8R CAQ C C    0  19.108 18.287 16.674
-H8R OAR O O    0  20.293 17.990 16.827
-H8R CAP C CR6  0  18.384 17.861 15.426
-H8R CAA C CR16 0  19.003 17.995 14.185
-H8R CAB C CR16 0  18.364 17.606 13.020
-H8R CAO C CR16 0  17.103 17.312 15.469
-H8R CAN C CR16 0  16.453 16.923 14.311
-H8R CAC C CR6  0  17.080 17.064 13.076
-H8R OAD O O2   0  16.312 16.636 12.018
-H8R CAE C CH2  0  16.819 16.608 10.675
-H8R CAF C CH2  0  16.745 17.995 10.082
-H8R CAG C CH2  0  15.345 18.561 10.010
-H8R CAH C CH2  0  15.300 19.964 9.455
-H8R CAI C CH2  0  13.914 20.557 9.376
-H8R CAJ C CH2  0  13.316 20.919 10.714
-H8R CAK C CH2  0  12.042 21.720 10.628
-H8R CAL C CH3  0  10.863 20.931 10.110
-H8R H1  H H    0  18.955 22.730 18.207
-H8R H2  H H    0  17.931 22.046 19.207
-H8R H3  H H    0  17.974 21.598 17.685
-H8R H4  H H    0  20.215 20.835 18.039
-H8R H5  H H    0  20.703 20.419 20.448
-H8R H6  H H    0  19.704 21.630 20.684
-H8R H7  H H    0  21.025 21.844 19.828
-H8R H8  H H    0  19.693 18.805 19.104
-H8R H10 H H    0  17.582 19.210 17.404
-H8R H11 H H    0  19.870 18.359 14.134
-H8R H12 H H    0  18.801 17.710 12.195
-H8R H13 H H    0  16.667 17.212 16.297
-H8R H14 H H    0  15.587 16.559 14.358
-H8R H15 H H    0  16.281 15.992 10.137
-H8R H16 H H    0  17.743 16.286 10.668
-H8R H17 H H    0  17.119 17.968 9.177
-H8R H18 H H    0  17.302 18.600 10.612
-H8R H19 H H    0  14.952 18.566 10.908
-H8R H20 H H    0  14.794 17.979 9.445
-H8R H21 H H    0  15.691 19.958 8.555
-H8R H22 H H    0  15.858 20.542 10.018
-H8R H23 H H    0  13.322 19.914 8.931
-H8R H24 H H    0  13.949 21.364 8.819
-H8R H25 H H    0  13.976 21.434 11.225
-H8R H26 H H    0  13.134 20.093 11.211
-H8R H27 H H    0  12.193 22.490 10.038
-H8R H28 H H    0  11.826 22.065 11.522
-H8R H29 H H    0  10.062 21.481 10.147
-H8R H30 H H    0  10.736 20.137 10.659
-H8R H31 H H    0  11.029 20.663 9.189
-
+H8R     CG2     C       CH3     0       18.509      21.897      18.439      
+H8R     CB      C       CH1     0       19.558      20.840      18.778      
+H8R     CG1     C       CH3     0       20.314      21.216      20.049      
+H8R     CA      C       CH1     0       18.960      19.418      18.864      
+H8R     C       C       C       0       17.900      19.308      19.979      
+H8R     O       O       O       0       16.720      19.593      19.686      
+H8R     OXT     O       OC      -1      18.297      18.940      21.102      
+H8R     N       N       NH1     0       18.406      18.984      17.584      
+H8R     CAQ     C       C       0       19.108      18.287      16.674      
+H8R     OAR     O       O       0       20.293      17.990      16.827      
+H8R     CAP     C       CR6     0       18.384      17.861      15.426      
+H8R     CAA     C       CR16    0       19.003      17.995      14.185      
+H8R     CAB     C       CR16    0       18.364      17.606      13.020      
+H8R     CAO     C       CR16    0       17.103      17.312      15.469      
+H8R     CAN     C       CR16    0       16.453      16.923      14.311      
+H8R     CAC     C       CR6     0       17.080      17.064      13.076      
+H8R     OAD     O       O2      0       16.312      16.636      12.018      
+H8R     CAE     C       CH2     0       16.819      16.608      10.675      
+H8R     CAF     C       CH2     0       16.745      17.995      10.082      
+H8R     CAG     C       CH2     0       15.345      18.561      10.010      
+H8R     CAH     C       CH2     0       15.300      19.964      9.455       
+H8R     CAI     C       CH2     0       13.914      20.557      9.376       
+H8R     CAJ     C       CH2     0       13.316      20.919      10.714      
+H8R     CAK     C       CH2     0       12.042      21.720      10.628      
+H8R     CAL     C       CH3     0       10.863      20.931      10.110      
+H8R     H1      H       H       0       18.955      22.730      18.207      
+H8R     H2      H       H       0       17.931      22.046      19.207      
+H8R     H3      H       H       0       17.974      21.598      17.685      
+H8R     H4      H       H       0       20.215      20.835      18.039      
+H8R     H5      H       H       0       20.703      20.419      20.448      
+H8R     H6      H       H       0       19.704      21.630      20.684      
+H8R     H7      H       H       0       21.025      21.844      19.828      
+H8R     H8      H       H       0       19.693      18.805      19.104      
+H8R     H10     H       H       0       17.582      19.210      17.404      
+H8R     H11     H       H       0       19.870      18.359      14.134      
+H8R     H12     H       H       0       18.801      17.710      12.195      
+H8R     H13     H       H       0       16.667      17.212      16.297      
+H8R     H14     H       H       0       15.587      16.559      14.358      
+H8R     H15     H       H       0       16.281      15.992      10.137      
+H8R     H16     H       H       0       17.743      16.286      10.668      
+H8R     H17     H       H       0       17.119      17.968      9.177       
+H8R     H18     H       H       0       17.302      18.600      10.612      
+H8R     H19     H       H       0       14.952      18.566      10.908      
+H8R     H20     H       H       0       14.794      17.979      9.445       
+H8R     H21     H       H       0       15.691      19.958      8.555       
+H8R     H22     H       H       0       15.858      20.542      10.018      
+H8R     H23     H       H       0       13.322      19.914      8.931       
+H8R     H24     H       H       0       13.949      21.364      8.819       
+H8R     H25     H       H       0       13.976      21.434      11.225      
+H8R     H26     H       H       0       13.134      20.093      11.211      
+H8R     H27     H       H       0       12.193      22.490      10.038      
+H8R     H28     H       H       0       11.826      22.065      11.522      
+H8R     H29     H       H       0       10.062      21.481      10.147      
+H8R     H30     H       H       0       10.736      20.137      10.659      
+H8R     H31     H       H       0       11.029      20.663      9.189       
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -85,62 +86,61 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-H8R CAI CAJ SINGLE n 1.509 0.0200 1.509 0.0200
-H8R CAH CAI SINGLE n 1.509 0.0200 1.509 0.0200
-H8R CAK CAL SINGLE n 1.510 0.0200 1.510 0.0200
-H8R CAJ CAK SINGLE n 1.507 0.0200 1.507 0.0200
-H8R CAG CAH SINGLE n 1.509 0.0200 1.509 0.0200
-H8R CAF CAG SINGLE n 1.509 0.0200 1.509 0.0200
-H8R CAE CAF SINGLE n 1.506 0.0128 1.506 0.0128
-H8R OAD CAE SINGLE n 1.432 0.0101 1.432 0.0101
-H8R CAC OAD SINGLE n 1.369 0.0106 1.369 0.0106
-H8R CAB CAC DOUBLE y 1.386 0.0109 1.386 0.0109
-H8R CAN CAC SINGLE y 1.386 0.0109 1.386 0.0109
-H8R CAA CAB SINGLE y 1.381 0.0100 1.381 0.0100
-H8R CAO CAN DOUBLE y 1.381 0.0100 1.381 0.0100
-H8R CAP CAA DOUBLE y 1.391 0.0100 1.391 0.0100
-H8R CAP CAO SINGLE y 1.391 0.0100 1.391 0.0100
-H8R CAQ CAP SINGLE n 1.502 0.0100 1.502 0.0100
-H8R CAQ OAR DOUBLE n 1.230 0.0114 1.230 0.0114
-H8R N   CAQ SINGLE n 1.337 0.0101 1.337 0.0101
-H8R CA  N   SINGLE n 1.456 0.0100 1.456 0.0100
-H8R CG2 CB  SINGLE n 1.521 0.0135 1.521 0.0135
-H8R CB  CA  SINGLE n 1.541 0.0100 1.541 0.0100
-H8R CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
-H8R CB  CG1 SINGLE n 1.521 0.0135 1.521 0.0135
-H8R C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
-H8R C   OXT SINGLE n 1.247 0.0187 1.247 0.0187
-H8R CG2 H1  SINGLE n 1.089 0.0100 0.973 0.0146
-H8R CG2 H2  SINGLE n 1.089 0.0100 0.973 0.0146
-H8R CG2 H3  SINGLE n 1.089 0.0100 0.973 0.0146
-H8R CB  H4  SINGLE n 1.089 0.0100 0.989 0.0175
-H8R CG1 H5  SINGLE n 1.089 0.0100 0.973 0.0146
-H8R CG1 H6  SINGLE n 1.089 0.0100 0.973 0.0146
-H8R CG1 H7  SINGLE n 1.089 0.0100 0.973 0.0146
-H8R CA  H8  SINGLE n 1.089 0.0100 0.986 0.0179
-H8R N   H10 SINGLE n 1.016 0.0100 0.872 0.0200
-H8R CAA H11 SINGLE n 1.082 0.0130 0.941 0.0168
-H8R CAB H12 SINGLE n 1.082 0.0130 0.941 0.0179
-H8R CAO H13 SINGLE n 1.082 0.0130 0.941 0.0168
-H8R CAN H14 SINGLE n 1.082 0.0130 0.941 0.0179
-H8R CAE H15 SINGLE n 1.089 0.0100 0.979 0.0131
-H8R CAE H16 SINGLE n 1.089 0.0100 0.979 0.0131
-H8R CAF H17 SINGLE n 1.089 0.0100 0.980 0.0166
-H8R CAF H18 SINGLE n 1.089 0.0100 0.980 0.0166
-H8R CAG H19 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAG H20 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAH H21 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAH H22 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAI H23 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAI H24 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAJ H25 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAJ H26 SINGLE n 1.089 0.0100 0.981 0.0163
-H8R CAK H27 SINGLE n 1.089 0.0100 0.982 0.0155
-H8R CAK H28 SINGLE n 1.089 0.0100 0.982 0.0155
-H8R CAL H29 SINGLE n 1.089 0.0100 0.973 0.0157
-H8R CAL H30 SINGLE n 1.089 0.0100 0.973 0.0157
-H8R CAL H31 SINGLE n 1.089 0.0100 0.973 0.0157
-
+H8R         CAI         CAJ      SINGLE       n     1.509  0.0200     1.509  0.0200
+H8R         CAH         CAI      SINGLE       n     1.509  0.0200     1.509  0.0200
+H8R         CAK         CAL      SINGLE       n     1.510  0.0200     1.510  0.0200
+H8R         CAJ         CAK      SINGLE       n     1.507  0.0200     1.507  0.0200
+H8R         CAG         CAH      SINGLE       n     1.509  0.0200     1.509  0.0200
+H8R         CAF         CAG      SINGLE       n     1.509  0.0200     1.509  0.0200
+H8R         CAE         CAF      SINGLE       n     1.506  0.0128     1.506  0.0128
+H8R         OAD         CAE      SINGLE       n     1.432  0.0101     1.432  0.0101
+H8R         CAC         OAD      SINGLE       n     1.369  0.0106     1.369  0.0106
+H8R         CAB         CAC      DOUBLE       y     1.386  0.0109     1.386  0.0109
+H8R         CAN         CAC      SINGLE       y     1.386  0.0109     1.386  0.0109
+H8R         CAA         CAB      SINGLE       y     1.381  0.0100     1.381  0.0100
+H8R         CAO         CAN      DOUBLE       y     1.381  0.0100     1.381  0.0100
+H8R         CAP         CAA      DOUBLE       y     1.391  0.0100     1.391  0.0100
+H8R         CAP         CAO      SINGLE       y     1.391  0.0100     1.391  0.0100
+H8R         CAQ         CAP      SINGLE       n     1.502  0.0100     1.502  0.0100
+H8R         CAQ         OAR      DOUBLE       n     1.230  0.0114     1.230  0.0114
+H8R           N         CAQ      SINGLE       n     1.337  0.0101     1.337  0.0101
+H8R          CA           N      SINGLE       n     1.456  0.0100     1.456  0.0100
+H8R         CG2          CB      SINGLE       n     1.521  0.0135     1.521  0.0135
+H8R          CB          CA      SINGLE       n     1.541  0.0100     1.541  0.0100
+H8R          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+H8R          CB         CG1      SINGLE       n     1.521  0.0135     1.521  0.0135
+H8R           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+H8R           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+H8R         CG2          H1      SINGLE       n     1.089  0.0100     0.973  0.0146
+H8R         CG2          H2      SINGLE       n     1.089  0.0100     0.973  0.0146
+H8R         CG2          H3      SINGLE       n     1.089  0.0100     0.973  0.0146
+H8R          CB          H4      SINGLE       n     1.089  0.0100     0.989  0.0175
+H8R         CG1          H5      SINGLE       n     1.089  0.0100     0.973  0.0146
+H8R         CG1          H6      SINGLE       n     1.089  0.0100     0.973  0.0146
+H8R         CG1          H7      SINGLE       n     1.089  0.0100     0.973  0.0146
+H8R          CA          H8      SINGLE       n     1.089  0.0100     0.986  0.0179
+H8R           N         H10      SINGLE       n     1.016  0.0100     0.872  0.0200
+H8R         CAA         H11      SINGLE       n     1.082  0.0130     0.941  0.0168
+H8R         CAB         H12      SINGLE       n     1.082  0.0130     0.941  0.0179
+H8R         CAO         H13      SINGLE       n     1.082  0.0130     0.941  0.0168
+H8R         CAN         H14      SINGLE       n     1.082  0.0130     0.941  0.0179
+H8R         CAE         H15      SINGLE       n     1.089  0.0100     0.979  0.0131
+H8R         CAE         H16      SINGLE       n     1.089  0.0100     0.979  0.0131
+H8R         CAF         H17      SINGLE       n     1.089  0.0100     0.980  0.0166
+H8R         CAF         H18      SINGLE       n     1.089  0.0100     0.980  0.0166
+H8R         CAG         H19      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAG         H20      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAH         H21      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAH         H22      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAI         H23      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAI         H24      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAJ         H25      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAJ         H26      SINGLE       n     1.089  0.0100     0.981  0.0163
+H8R         CAK         H27      SINGLE       n     1.089  0.0100     0.982  0.0155
+H8R         CAK         H28      SINGLE       n     1.089  0.0100     0.982  0.0155
+H8R         CAL         H29      SINGLE       n     1.089  0.0100     0.973  0.0157
+H8R         CAL         H30      SINGLE       n     1.089  0.0100     0.973  0.0157
+H8R         CAL         H31      SINGLE       n     1.089  0.0100     0.973  0.0157
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -148,107 +148,106 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-H8R CB  CG2 H1  109.507 1.50
-H8R CB  CG2 H2  109.507 1.50
-H8R CB  CG2 H3  109.507 1.50
-H8R H1  CG2 H2  109.411 1.50
-H8R H1  CG2 H3  109.411 1.50
-H8R H2  CG2 H3  109.411 1.50
-H8R CG2 CB  CA  111.285 1.50
-H8R CG2 CB  CG1 110.676 1.50
-H8R CG2 CB  H4  107.603 1.50
-H8R CA  CB  CG1 111.285 1.50
-H8R CA  CB  H4  107.617 1.50
-H8R CG1 CB  H4  107.603 1.50
-H8R CB  CG1 H5  109.507 1.50
-H8R CB  CG1 H6  109.507 1.50
-H8R CB  CG1 H7  109.507 1.50
-H8R H5  CG1 H6  109.411 1.50
-H8R H5  CG1 H7  109.411 1.50
-H8R H6  CG1 H7  109.411 1.50
-H8R N   CA  CB  112.135 1.61
-H8R N   CA  C   110.522 1.86
-H8R N   CA  H8  108.209 1.50
-H8R CB  CA  C   111.291 1.50
-H8R CB  CA  H8  108.105 1.50
-H8R C   CA  H8  108.240 1.50
-H8R CA  C   O   117.195 1.50
-H8R CA  C   OXT 117.195 1.50
-H8R O   C   OXT 125.611 1.50
-H8R CAQ N   CA  121.852 1.50
-H8R CAQ N   H10 119.360 1.94
-H8R CA  N   H10 118.788 1.91
-H8R CAP CAQ OAR 120.865 1.50
-H8R CAP CAQ N   116.740 1.50
-H8R OAR CAQ N   122.394 1.50
-H8R CAA CAP CAO 118.869 1.50
-H8R CAA CAP CAQ 120.566 2.80
-H8R CAO CAP CAQ 120.566 2.80
-H8R CAB CAA CAP 120.993 1.50
-H8R CAB CAA H11 119.278 1.50
-H8R CAP CAA H11 119.729 1.50
-H8R CAC CAB CAA 119.671 1.50
-H8R CAC CAB H12 120.146 1.50
-H8R CAA CAB H12 120.183 1.50
-H8R CAN CAO CAP 120.993 1.50
-H8R CAN CAO H13 119.278 1.50
-H8R CAP CAO H13 119.729 1.50
-H8R CAC CAN CAO 119.671 1.50
-H8R CAC CAN H14 120.146 1.50
-H8R CAO CAN H14 120.183 1.50
-H8R OAD CAC CAB 120.098 3.00
-H8R OAD CAC CAN 120.098 3.00
-H8R CAB CAC CAN 119.804 1.50
-H8R CAE OAD CAC 118.103 1.50
-H8R CAF CAE OAD 107.985 2.03
-H8R CAF CAE H15 110.162 1.50
-H8R CAF CAE H16 110.162 1.50
-H8R OAD CAE H15 109.943 1.50
-H8R OAD CAE H16 109.943 1.50
-H8R H15 CAE H16 108.474 1.50
-H8R CAG CAF CAE 113.147 2.01
-H8R CAG CAF H17 108.944 1.50
-H8R CAG CAF H18 108.944 1.50
-H8R CAE CAF H17 108.916 1.50
-H8R CAE CAF H18 108.916 1.50
-H8R H17 CAF H18 107.788 1.50
-H8R CAH CAG CAF 113.259 1.53
-H8R CAH CAG H19 108.698 1.50
-H8R CAH CAG H20 108.698 1.50
-H8R CAF CAG H19 108.902 1.50
-H8R CAF CAG H20 108.902 1.50
-H8R H19 CAG H20 107.646 1.50
-H8R CAI CAH CAG 114.243 1.69
-H8R CAI CAH H21 108.698 1.50
-H8R CAI CAH H22 108.698 1.50
-H8R CAG CAH H21 108.698 1.50
-H8R CAG CAH H22 108.698 1.50
-H8R H21 CAH H22 107.646 1.50
-H8R CAJ CAI CAH 114.243 1.69
-H8R CAJ CAI H23 108.698 1.50
-H8R CAJ CAI H24 108.698 1.50
-H8R CAH CAI H23 108.698 1.50
-H8R CAH CAI H24 108.698 1.50
-H8R H23 CAI H24 107.646 1.50
-H8R CAI CAJ CAK 114.362 3.00
-H8R CAI CAJ H25 108.698 1.50
-H8R CAI CAJ H26 108.698 1.50
-H8R CAK CAJ H25 108.653 1.50
-H8R CAK CAJ H26 108.653 1.50
-H8R H25 CAJ H26 107.646 1.50
-H8R CAL CAK CAJ 113.719 3.00
-H8R CAL CAK H27 108.918 1.50
-H8R CAL CAK H28 108.918 1.50
-H8R CAJ CAK H27 108.758 1.50
-H8R CAJ CAK H28 108.758 1.50
-H8R H27 CAK H28 107.763 1.50
-H8R CAK CAL H29 109.554 1.50
-H8R CAK CAL H30 109.554 1.50
-H8R CAK CAL H31 109.554 1.50
-H8R H29 CAL H30 109.380 1.50
-H8R H29 CAL H31 109.380 1.50
-H8R H30 CAL H31 109.380 1.50
-
+H8R          CB         CG2          H1     109.507    1.50
+H8R          CB         CG2          H2     109.507    1.50
+H8R          CB         CG2          H3     109.507    1.50
+H8R          H1         CG2          H2     109.411    1.50
+H8R          H1         CG2          H3     109.411    1.50
+H8R          H2         CG2          H3     109.411    1.50
+H8R         CG2          CB          CA     111.285    1.50
+H8R         CG2          CB         CG1     110.676    1.50
+H8R         CG2          CB          H4     107.603    1.50
+H8R          CA          CB         CG1     111.285    1.50
+H8R          CA          CB          H4     107.617    1.50
+H8R         CG1          CB          H4     107.603    1.50
+H8R          CB         CG1          H5     109.507    1.50
+H8R          CB         CG1          H6     109.507    1.50
+H8R          CB         CG1          H7     109.507    1.50
+H8R          H5         CG1          H6     109.411    1.50
+H8R          H5         CG1          H7     109.411    1.50
+H8R          H6         CG1          H7     109.411    1.50
+H8R           N          CA          CB     112.135    1.61
+H8R           N          CA           C     110.522    1.86
+H8R           N          CA          H8     108.209    1.50
+H8R          CB          CA           C     111.291    1.50
+H8R          CB          CA          H8     108.105    1.50
+H8R           C          CA          H8     108.240    1.50
+H8R          CA           C           O     117.195    1.50
+H8R          CA           C         OXT     117.195    1.50
+H8R           O           C         OXT     125.611    1.50
+H8R         CAQ           N          CA     121.852    1.50
+H8R         CAQ           N         H10     119.360    1.94
+H8R          CA           N         H10     118.788    1.91
+H8R         CAP         CAQ         OAR     120.865    1.50
+H8R         CAP         CAQ           N     116.740    1.50
+H8R         OAR         CAQ           N     122.394    1.50
+H8R         CAA         CAP         CAO     118.869    1.50
+H8R         CAA         CAP         CAQ     120.566    2.80
+H8R         CAO         CAP         CAQ     120.566    2.80
+H8R         CAB         CAA         CAP     120.993    1.50
+H8R         CAB         CAA         H11     119.278    1.50
+H8R         CAP         CAA         H11     119.729    1.50
+H8R         CAC         CAB         CAA     119.671    1.50
+H8R         CAC         CAB         H12     120.146    1.50
+H8R         CAA         CAB         H12     120.183    1.50
+H8R         CAN         CAO         CAP     120.993    1.50
+H8R         CAN         CAO         H13     119.278    1.50
+H8R         CAP         CAO         H13     119.729    1.50
+H8R         CAC         CAN         CAO     119.671    1.50
+H8R         CAC         CAN         H14     120.146    1.50
+H8R         CAO         CAN         H14     120.183    1.50
+H8R         OAD         CAC         CAB     120.098    3.00
+H8R         OAD         CAC         CAN     120.098    3.00
+H8R         CAB         CAC         CAN     119.804    1.50
+H8R         CAE         OAD         CAC     118.103    1.50
+H8R         CAF         CAE         OAD     107.985    2.03
+H8R         CAF         CAE         H15     110.162    1.50
+H8R         CAF         CAE         H16     110.162    1.50
+H8R         OAD         CAE         H15     109.943    1.50
+H8R         OAD         CAE         H16     109.943    1.50
+H8R         H15         CAE         H16     108.474    1.50
+H8R         CAG         CAF         CAE     113.147    2.01
+H8R         CAG         CAF         H17     108.944    1.50
+H8R         CAG         CAF         H18     108.944    1.50
+H8R         CAE         CAF         H17     108.916    1.50
+H8R         CAE         CAF         H18     108.916    1.50
+H8R         H17         CAF         H18     107.788    1.50
+H8R         CAH         CAG         CAF     113.259    1.53
+H8R         CAH         CAG         H19     108.698    1.50
+H8R         CAH         CAG         H20     108.698    1.50
+H8R         CAF         CAG         H19     108.902    1.50
+H8R         CAF         CAG         H20     108.902    1.50
+H8R         H19         CAG         H20     107.646    1.50
+H8R         CAI         CAH         CAG     114.243    1.69
+H8R         CAI         CAH         H21     108.698    1.50
+H8R         CAI         CAH         H22     108.698    1.50
+H8R         CAG         CAH         H21     108.698    1.50
+H8R         CAG         CAH         H22     108.698    1.50
+H8R         H21         CAH         H22     107.646    1.50
+H8R         CAJ         CAI         CAH     114.243    1.69
+H8R         CAJ         CAI         H23     108.698    1.50
+H8R         CAJ         CAI         H24     108.698    1.50
+H8R         CAH         CAI         H23     108.698    1.50
+H8R         CAH         CAI         H24     108.698    1.50
+H8R         H23         CAI         H24     107.646    1.50
+H8R         CAI         CAJ         CAK     114.362    3.00
+H8R         CAI         CAJ         H25     108.698    1.50
+H8R         CAI         CAJ         H26     108.698    1.50
+H8R         CAK         CAJ         H25     108.653    1.50
+H8R         CAK         CAJ         H26     108.653    1.50
+H8R         H25         CAJ         H26     107.646    1.50
+H8R         CAL         CAK         CAJ     113.719    3.00
+H8R         CAL         CAK         H27     108.918    1.50
+H8R         CAL         CAK         H28     108.918    1.50
+H8R         CAJ         CAK         H27     108.758    1.50
+H8R         CAJ         CAK         H28     108.758    1.50
+H8R         H27         CAK         H28     107.763    1.50
+H8R         CAK         CAL         H29     109.554    1.50
+H8R         CAK         CAL         H30     109.554    1.50
+H8R         CAK         CAL         H31     109.554    1.50
+H8R         H29         CAL         H30     109.380    1.50
+H8R         H29         CAL         H31     109.380    1.50
+H8R         H30         CAL         H31     109.380    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -259,29 +258,28 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-H8R sp3_sp3_67      CA  CB  CG2 H1  180.000 10.0 3
-H8R const_sp2_sp2_2 CAB CAA CAP CAQ 180.000 5.0  2
-H8R const_22        CAN CAO CAP CAQ 180.000 10.0 2
-H8R const_sp2_sp2_5 CAP CAA CAB CAC 0.000   5.0  2
-H8R const_10        CAA CAB CAC OAD 180.000 10.0 2
-H8R const_17        CAC CAN CAO CAP 0.000   10.0 2
-H8R const_15        OAD CAC CAN CAO 180.000 10.0 2
-H8R sp2_sp2_1       CAB CAC OAD CAE 180.000 5.0  2
-H8R sp3_sp3_64      CAF CAE OAD CAC 180.000 10.0 3
-H8R sp3_sp3_55      OAD CAE CAF CAG 180.000 10.0 3
-H8R sp3_sp3_46      CAE CAF CAG CAH 180.000 10.0 3
-H8R sp3_sp3_37      CAF CAG CAH CAI 180.000 10.0 3
-H8R sp3_sp3_85      CG2 CB  CG1 H5  180.000 10.0 3
-H8R sp3_sp3_77      N   CA  CB  CG2 -60.000 10.0 3
-H8R sp3_sp3_10      CAG CAH CAI CAJ 180.000 10.0 3
-H8R sp3_sp3_1       CAH CAI CAJ CAK 180.000 10.0 3
-H8R sp3_sp3_28      CAI CAJ CAK CAL 180.000 10.0 3
-H8R sp3_sp3_19      CAJ CAK CAL H29 180.000 10.0 3
-H8R sp2_sp3_7       O   C   CA  N   0.000   10.0 6
-H8R sp2_sp3_1       CAQ N   CA  CB  0.000   10.0 6
-H8R sp2_sp2_9       OAR CAQ N   CA  0.000   5.0  2
-H8R sp2_sp2_4       CAA CAP CAQ OAR 0.000   5.0  2
-
+H8R            sp3_sp3_67          CA          CB         CG2          H1     180.000    10.0     3
+H8R       const_sp2_sp2_2         CAB         CAA         CAP         CAQ     180.000     5.0     2
+H8R              const_22         CAN         CAO         CAP         CAQ     180.000    10.0     2
+H8R       const_sp2_sp2_5         CAP         CAA         CAB         CAC       0.000     5.0     2
+H8R              const_10         CAA         CAB         CAC         OAD     180.000    10.0     2
+H8R              const_17         CAC         CAN         CAO         CAP       0.000    10.0     2
+H8R              const_15         OAD         CAC         CAN         CAO     180.000    10.0     2
+H8R             sp2_sp2_1         CAB         CAC         OAD         CAE     180.000     5.0     2
+H8R            sp3_sp3_64         CAF         CAE         OAD         CAC     180.000    10.0     3
+H8R            sp3_sp3_55         OAD         CAE         CAF         CAG     180.000    10.0     3
+H8R            sp3_sp3_46         CAE         CAF         CAG         CAH     180.000    10.0     3
+H8R            sp3_sp3_37         CAF         CAG         CAH         CAI     180.000    10.0     3
+H8R            sp3_sp3_85         CG2          CB         CG1          H5     180.000    10.0     3
+H8R            sp3_sp3_77           N          CA          CB         CG2     -60.000    10.0     3
+H8R            sp3_sp3_10         CAG         CAH         CAI         CAJ     180.000    10.0     3
+H8R             sp3_sp3_1         CAH         CAI         CAJ         CAK     180.000    10.0     3
+H8R            sp3_sp3_28         CAI         CAJ         CAK         CAL     180.000    10.0     3
+H8R            sp3_sp3_19         CAJ         CAK         CAL         H29     180.000    10.0     3
+H8R             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
+H8R             sp2_sp3_1         CAQ           N          CA          CB       0.000    10.0     6
+H8R             sp2_sp2_9         OAR         CAQ           N          CA       0.000     5.0     2
+H8R             sp2_sp2_4         CAA         CAP         CAQ         OAR       0.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -290,66 +288,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-H8R chir_1 CB CA CG2 CG1 both
-H8R chir_2 CA N  C   CB  positive
-
+H8R    chir_1    CB    CA    CG2    CG1    both
+H8R    chir_2    CA    N    C    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-H8R plan-1 CAA 0.020
-H8R plan-1 CAB 0.020
-H8R plan-1 CAC 0.020
-H8R plan-1 CAN 0.020
-H8R plan-1 CAO 0.020
-H8R plan-1 CAP 0.020
-H8R plan-1 CAQ 0.020
-H8R plan-1 H11 0.020
-H8R plan-1 H12 0.020
-H8R plan-1 H13 0.020
-H8R plan-1 H14 0.020
-H8R plan-1 OAD 0.020
-H8R plan-2 C   0.020
-H8R plan-2 CA  0.020
-H8R plan-2 O   0.020
-H8R plan-2 OXT 0.020
-H8R plan-3 CA  0.020
-H8R plan-3 CAQ 0.020
-H8R plan-3 H10 0.020
-H8R plan-3 N   0.020
-H8R plan-4 CAP 0.020
-H8R plan-4 CAQ 0.020
-H8R plan-4 N   0.020
-H8R plan-4 OAR 0.020
-
+H8R    plan-1         CAA   0.020
+H8R    plan-1         CAB   0.020
+H8R    plan-1         CAC   0.020
+H8R    plan-1         CAN   0.020
+H8R    plan-1         CAO   0.020
+H8R    plan-1         CAP   0.020
+H8R    plan-1         CAQ   0.020
+H8R    plan-1         H11   0.020
+H8R    plan-1         H12   0.020
+H8R    plan-1         H13   0.020
+H8R    plan-1         H14   0.020
+H8R    plan-1         OAD   0.020
+H8R    plan-2           C   0.020
+H8R    plan-2          CA   0.020
+H8R    plan-2           O   0.020
+H8R    plan-2         OXT   0.020
+H8R    plan-3          CA   0.020
+H8R    plan-3         CAQ   0.020
+H8R    plan-3         H10   0.020
+H8R    plan-3           N   0.020
+H8R    plan-4         CAP   0.020
+H8R    plan-4         CAQ   0.020
+H8R    plan-4           N   0.020
+H8R    plan-4         OAR   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-H8R InChI            InChI                1.03  InChI=1S/C20H31NO4/c1-4-5-6-7-8-9-14-25-17-12-10-16(11-13-17)19(22)21-18(15(2)3)20(23)24/h10-13,15,18H,4-9,14H2,1-3H3,(H,21,22)(H,23,24)/t18-/m0/s1
-H8R InChIKey         InChI                1.03  JIIPBCFIUGBDHZ-SFHVURJKSA-N
-H8R SMILES_CANONICAL CACTVS               3.385 CCCCCCCCOc1ccc(cc1)C(=O)N[C@@H](C(C)C)C(O)=O
-H8R SMILES           CACTVS               3.385 CCCCCCCCOc1ccc(cc1)C(=O)N[CH](C(C)C)C(O)=O
-H8R SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 CCCCCCCCOc1ccc(cc1)C(=O)N[C@@H](C(C)C)C(=O)O
-H8R SMILES           "OpenEye OEToolkits" 2.0.6 CCCCCCCCOc1ccc(cc1)C(=O)NC(C(C)C)C(=O)O
-
+H8R            InChI                InChI  1.03 InChI=1S/C20H31NO4/c1-4-5-6-7-8-9-14-25-17-12-10-16(11-13-17)19(22)21-18(15(2)3)20(23)24/h10-13,15,18H,4-9,14H2,1-3H3,(H,21,22)(H,23,24)/t18-/m0/s1
+H8R         InChIKey                InChI  1.03                                                                                                                         JIIPBCFIUGBDHZ-SFHVURJKSA-N
+H8R SMILES_CANONICAL               CACTVS 3.385                                                                                                        CCCCCCCCOc1ccc(cc1)C(=O)N[C@@H](C(C)C)C(O)=O
+H8R           SMILES               CACTVS 3.385                                                                                                          CCCCCCCCOc1ccc(cc1)C(=O)N[CH](C(C)C)C(O)=O
+H8R SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                        CCCCCCCCOc1ccc(cc1)C(=O)N[C@@H](C(C)C)C(=O)O
+H8R           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                             CCCCCCCCOc1ccc(cc1)C(=O)NC(C(C)C)C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-H8R acedrg          243       "dictionary generator"
-H8R acedrg_database 11        "data source"
-H8R rdkit           2017.03.2 "Chemoinformatics tool"
-H8R refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-H8R M-peptide CAQ CN
-H8R M-peptide H10 H
+H8R acedrg               243         "dictionary generator"                  
+H8R acedrg_database      11          "data source"                           
+H8R rdkit                2017.03.2   "Chemoinformatics tool"
+H8R refmac5              5.8.0238    "optimization tool"                     

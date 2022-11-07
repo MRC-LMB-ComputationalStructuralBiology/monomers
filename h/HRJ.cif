@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-HRJ HRJ "3-hydroxy-6-[2-methyl-4-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)phenyl]-4-oxo-1,4-dihydropyridine-2-carboxylic acid" NON-POLYMER 34 24 .
-
+HRJ     HRJ      "3-hydroxy-6-[2-methyl-4-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)phenyl]-4-oxo-1,4-dihydropyridine-2-carboxylic acid"     NON-POLYMER     34     24     .     
+#
 data_comp_HRJ
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,41 +21,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-HRJ OAB O O    0  -18.140 15.123 14.953
-HRJ CAO C C    0  -18.534 16.120 15.531
-HRJ OAE O OC   -1 -18.103 16.561 16.583
-HRJ CAV C CR6  0  -19.656 16.880 14.887
-HRJ NAL N NR6  0  -20.790 17.129 15.644
-HRJ CAT C CR6  0  -19.611 17.348 13.560
-HRJ OAF O OH1  0  -18.498 17.116 12.783
-HRJ CAW C CR6  0  -20.704 18.048 13.044
-HRJ OAC O O    0  -20.662 18.467 11.855
-HRJ CAJ C CR16 0  -21.819 18.279 13.837
-HRJ CAR C CR6  0  -21.870 17.818 15.123
-HRJ CAU C CR6  0  -23.047 18.050 16.012
-HRJ CAP C CR6  0  -24.284 17.407 15.789
-HRJ CAA C CH3  0  -24.475 16.456 14.627
-HRJ CAI C CR16 0  -25.350 17.656 16.653
-HRJ CAH C CR16 0  -22.921 18.914 17.098
-HRJ CAG C CR16 0  -23.985 19.148 17.941
-HRJ CAQ C CR6  0  -25.217 18.526 17.735
-HRJ CAS C CR5  0  -26.353 18.777 18.639
-HRJ NAK N NRD5 0  -26.269 19.440 19.750
-HRJ OAN O O2   0  -27.564 19.456 20.321
-HRJ CAX C CR5  0  -28.382 18.785 19.509
-HRJ OAD O O    0  -29.555 18.649 19.766
-HRJ NAM N NR5  0  -27.648 18.360 18.468
-HRJ H12 H H    0  -20.822 16.838 16.476
-HRJ H2  H H    0  -17.742 17.466 12.999
-HRJ H3  H H    0  -22.567 18.760 13.468
-HRJ H5  H H    0  -25.371 16.084 14.648
-HRJ H6  H H    0  -23.828 15.735 14.688
-HRJ H7  H H    0  -24.346 16.934 13.792
-HRJ H8  H H    0  -26.176 17.226 16.500
-HRJ H9  H H    0  -22.098 19.346 17.254
-HRJ H10 H H    0  -23.875 19.738 18.664
-HRJ H11 H H    0  -27.957 17.892 17.791
-
+HRJ     OAB     O       O       0       -18.140     15.123      14.953      
+HRJ     CAO     C       C       0       -18.534     16.120      15.531      
+HRJ     OAE     O       OC      -1      -18.103     16.561      16.583      
+HRJ     CAV     C       CR6     0       -19.656     16.880      14.887      
+HRJ     NAL     N       NR6     0       -20.790     17.129      15.644      
+HRJ     CAT     C       CR6     0       -19.611     17.348      13.560      
+HRJ     OAF     O       OH1     0       -18.498     17.116      12.783      
+HRJ     CAW     C       CR6     0       -20.704     18.048      13.044      
+HRJ     OAC     O       O       0       -20.662     18.467      11.855      
+HRJ     CAJ     C       CR16    0       -21.819     18.279      13.837      
+HRJ     CAR     C       CR6     0       -21.870     17.818      15.123      
+HRJ     CAU     C       CR6     0       -23.047     18.050      16.012      
+HRJ     CAP     C       CR6     0       -24.284     17.407      15.789      
+HRJ     CAA     C       CH3     0       -24.475     16.456      14.627      
+HRJ     CAI     C       CR16    0       -25.350     17.656      16.653      
+HRJ     CAH     C       CR16    0       -22.921     18.914      17.098      
+HRJ     CAG     C       CR16    0       -23.985     19.148      17.941      
+HRJ     CAQ     C       CR6     0       -25.217     18.526      17.735      
+HRJ     CAS     C       CR5     0       -26.353     18.777      18.639      
+HRJ     NAK     N       NRD5    0       -26.269     19.440      19.750      
+HRJ     OAN     O       O2      0       -27.564     19.456      20.321      
+HRJ     CAX     C       CR5     0       -28.382     18.785      19.509      
+HRJ     OAD     O       O       0       -29.555     18.649      19.766      
+HRJ     NAM     N       NR5     0       -27.648     18.360      18.468      
+HRJ     H12     H       H       0       -20.822     16.838      16.476      
+HRJ     H2      H       H       0       -17.742     17.466      12.999      
+HRJ     H3      H       H       0       -22.567     18.760      13.468      
+HRJ     H5      H       H       0       -25.371     16.084      14.648      
+HRJ     H6      H       H       0       -23.828     15.735      14.688      
+HRJ     H7      H       H       0       -24.346     16.934      13.792      
+HRJ     H8      H       H       0       -26.176     17.226      16.500      
+HRJ     H9      H       H       0       -22.098     19.346      17.254      
+HRJ     H10     H       H       0       -23.875     19.738      18.664      
+HRJ     H11     H       H       0       -27.957     17.892      17.791      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,43 +65,42 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-HRJ CAW OAC DOUBLE n 1.260 0.0151 1.260 0.0151
-HRJ CAT OAF SINGLE n 1.374 0.0155 1.374 0.0155
-HRJ CAT CAW SINGLE y 1.391 0.0121 1.391 0.0121
-HRJ CAW CAJ SINGLE y 1.384 0.0100 1.384 0.0100
-HRJ CAV CAT DOUBLE y 1.403 0.0126 1.403 0.0126
-HRJ CAJ CAR DOUBLE y 1.362 0.0100 1.362 0.0100
-HRJ OAB CAO DOUBLE n 1.219 0.0200 1.219 0.0200
-HRJ CAO CAV SINGLE n 1.496 0.0200 1.496 0.0200
-HRJ CAV NAL SINGLE y 1.376 0.0165 1.376 0.0165
-HRJ CAP CAA SINGLE n 1.511 0.0100 1.511 0.0100
-HRJ CAO OAE SINGLE n 1.219 0.0200 1.219 0.0200
-HRJ NAL CAR SINGLE y 1.375 0.0129 1.375 0.0129
-HRJ CAR CAU SINGLE n 1.491 0.0100 1.491 0.0100
-HRJ CAU CAP DOUBLE y 1.404 0.0100 1.404 0.0100
-HRJ CAP CAI SINGLE y 1.388 0.0100 1.388 0.0100
-HRJ CAU CAH SINGLE y 1.391 0.0100 1.391 0.0100
-HRJ CAI CAQ DOUBLE y 1.390 0.0100 1.390 0.0100
-HRJ CAH CAG DOUBLE y 1.376 0.0100 1.376 0.0100
-HRJ CAG CAQ SINGLE y 1.391 0.0100 1.391 0.0100
-HRJ CAQ CAS SINGLE n 1.468 0.0100 1.468 0.0100
-HRJ CAS NAM SINGLE y 1.364 0.0150 1.364 0.0150
-HRJ CAX NAM SINGLE y 1.343 0.0189 1.343 0.0189
-HRJ CAS NAK DOUBLE y 1.293 0.0100 1.293 0.0100
-HRJ CAX OAD DOUBLE n 1.209 0.0100 1.209 0.0100
-HRJ OAN CAX SINGLE y 1.338 0.0126 1.338 0.0126
-HRJ NAK OAN SINGLE y 1.418 0.0122 1.418 0.0122
-HRJ NAL H12 SINGLE n 1.016 0.0100 0.880 0.0200
-HRJ OAF H2  SINGLE n 0.966 0.0059 0.861 0.0200
-HRJ CAJ H3  SINGLE n 1.082 0.0130 0.963 0.0200
-HRJ CAA H5  SINGLE n 1.089 0.0100 0.971 0.0135
-HRJ CAA H6  SINGLE n 1.089 0.0100 0.971 0.0135
-HRJ CAA H7  SINGLE n 1.089 0.0100 0.971 0.0135
-HRJ CAI H8  SINGLE n 1.082 0.0130 0.946 0.0200
-HRJ CAH H9  SINGLE n 1.082 0.0130 0.943 0.0124
-HRJ CAG H10 SINGLE n 1.082 0.0130 0.940 0.0175
-HRJ NAM H11 SINGLE n 1.016 0.0100 0.880 0.0200
-
+HRJ         CAW         OAC      DOUBLE       n     1.260  0.0151     1.260  0.0151
+HRJ         CAT         OAF      SINGLE       n     1.374  0.0155     1.374  0.0155
+HRJ         CAT         CAW      SINGLE       y     1.391  0.0121     1.391  0.0121
+HRJ         CAW         CAJ      SINGLE       y     1.384  0.0100     1.384  0.0100
+HRJ         CAV         CAT      DOUBLE       y     1.403  0.0126     1.403  0.0126
+HRJ         CAJ         CAR      DOUBLE       y     1.362  0.0100     1.362  0.0100
+HRJ         OAB         CAO      DOUBLE       n     1.219  0.0200     1.219  0.0200
+HRJ         CAO         CAV      SINGLE       n     1.496  0.0200     1.496  0.0200
+HRJ         CAV         NAL      SINGLE       y     1.376  0.0165     1.376  0.0165
+HRJ         CAP         CAA      SINGLE       n     1.511  0.0100     1.511  0.0100
+HRJ         CAO         OAE      SINGLE       n     1.219  0.0200     1.219  0.0200
+HRJ         NAL         CAR      SINGLE       y     1.375  0.0129     1.375  0.0129
+HRJ         CAR         CAU      SINGLE       n     1.491  0.0100     1.491  0.0100
+HRJ         CAU         CAP      DOUBLE       y     1.404  0.0100     1.404  0.0100
+HRJ         CAP         CAI      SINGLE       y     1.388  0.0100     1.388  0.0100
+HRJ         CAU         CAH      SINGLE       y     1.391  0.0100     1.391  0.0100
+HRJ         CAI         CAQ      DOUBLE       y     1.390  0.0100     1.390  0.0100
+HRJ         CAH         CAG      DOUBLE       y     1.376  0.0100     1.376  0.0100
+HRJ         CAG         CAQ      SINGLE       y     1.391  0.0100     1.391  0.0100
+HRJ         CAQ         CAS      SINGLE       n     1.468  0.0100     1.468  0.0100
+HRJ         CAS         NAM      SINGLE       y     1.364  0.0150     1.364  0.0150
+HRJ         CAX         NAM      SINGLE       y     1.343  0.0189     1.343  0.0189
+HRJ         CAS         NAK      DOUBLE       y     1.293  0.0100     1.293  0.0100
+HRJ         CAX         OAD      DOUBLE       n     1.209  0.0100     1.209  0.0100
+HRJ         OAN         CAX      SINGLE       y     1.338  0.0126     1.338  0.0126
+HRJ         NAK         OAN      SINGLE       y     1.418  0.0122     1.418  0.0122
+HRJ         NAL         H12      SINGLE       n     1.016  0.0100     0.880  0.0200
+HRJ         OAF          H2      SINGLE       n     0.966  0.0059     0.861  0.0200
+HRJ         CAJ          H3      SINGLE       n     1.082  0.0130     0.963  0.0200
+HRJ         CAA          H5      SINGLE       n     1.089  0.0100     0.971  0.0135
+HRJ         CAA          H6      SINGLE       n     1.089  0.0100     0.971  0.0135
+HRJ         CAA          H7      SINGLE       n     1.089  0.0100     0.971  0.0135
+HRJ         CAI          H8      SINGLE       n     1.082  0.0130     0.946  0.0200
+HRJ         CAH          H9      SINGLE       n     1.082  0.0130     0.943  0.0124
+HRJ         CAG         H10      SINGLE       n     1.082  0.0130     0.940  0.0175
+HRJ         NAM         H11      SINGLE       n     1.016  0.0100     0.880  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -108,64 +108,63 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-HRJ OAB CAO CAV 116.880 1.50
-HRJ OAB CAO OAE 126.239 1.50
-HRJ CAV CAO OAE 116.880 1.50
-HRJ CAT CAV CAO 122.848 1.50
-HRJ CAT CAV NAL 119.550 3.00
-HRJ CAO CAV NAL 117.602 1.50
-HRJ CAV NAL CAR 120.914 2.37
-HRJ CAV NAL H12 119.434 2.44
-HRJ CAR NAL H12 119.651 1.64
-HRJ OAF CAT CAW 119.963 3.00
-HRJ OAF CAT CAV 119.963 3.00
-HRJ CAW CAT CAV 120.075 1.50
-HRJ CAT OAF H2  120.000 3.00
-HRJ OAC CAW CAT 118.988 1.50
-HRJ OAC CAW CAJ 121.033 1.50
-HRJ CAT CAW CAJ 119.979 1.50
-HRJ CAW CAJ CAR 120.242 1.50
-HRJ CAW CAJ H3  119.444 1.50
-HRJ CAR CAJ H3  120.314 1.50
-HRJ CAJ CAR NAL 119.240 1.50
-HRJ CAJ CAR CAU 122.387 1.56
-HRJ NAL CAR CAU 118.374 1.90
-HRJ CAR CAU CAP 120.356 1.77
-HRJ CAR CAU CAH 120.435 1.50
-HRJ CAP CAU CAH 119.208 1.50
-HRJ CAA CAP CAU 120.647 1.50
-HRJ CAA CAP CAI 120.064 1.50
-HRJ CAU CAP CAI 119.289 1.50
-HRJ CAP CAA H5  109.524 1.50
-HRJ CAP CAA H6  109.524 1.50
-HRJ CAP CAA H7  109.524 1.50
-HRJ H5  CAA H6  109.348 1.50
-HRJ H5  CAA H7  109.348 1.50
-HRJ H6  CAA H7  109.348 1.50
-HRJ CAP CAI CAQ 120.464 1.50
-HRJ CAP CAI H8  119.663 1.50
-HRJ CAQ CAI H8  119.873 1.50
-HRJ CAU CAH CAG 120.777 1.50
-HRJ CAU CAH H9  119.513 1.50
-HRJ CAG CAH H9  119.710 1.50
-HRJ CAH CAG CAQ 121.233 1.50
-HRJ CAH CAG H10 119.356 1.50
-HRJ CAQ CAG H10 119.411 1.50
-HRJ CAI CAQ CAG 119.029 1.50
-HRJ CAI CAQ CAS 120.486 2.31
-HRJ CAG CAQ CAS 120.486 2.31
-HRJ CAQ CAS NAM 126.780 1.57
-HRJ CAQ CAS NAK 124.481 2.69
-HRJ NAM CAS NAK 108.740 1.88
-HRJ CAS NAK OAN 106.650 1.50
-HRJ CAX OAN NAK 108.973 1.50
-HRJ NAM CAX OAD 131.047 1.50
-HRJ NAM CAX OAN 107.691 1.50
-HRJ OAD CAX OAN 121.263 1.50
-HRJ CAS NAM CAX 107.947 2.04
-HRJ CAS NAM H11 125.759 2.16
-HRJ CAX NAM H11 126.294 3.00
-
+HRJ         OAB         CAO         CAV     116.880    1.50
+HRJ         OAB         CAO         OAE     126.239    1.50
+HRJ         CAV         CAO         OAE     116.880    1.50
+HRJ         CAT         CAV         CAO     122.848    1.50
+HRJ         CAT         CAV         NAL     119.550    3.00
+HRJ         CAO         CAV         NAL     117.602    1.50
+HRJ         CAV         NAL         CAR     120.914    2.37
+HRJ         CAV         NAL         H12     119.434    2.44
+HRJ         CAR         NAL         H12     119.651    1.64
+HRJ         OAF         CAT         CAW     119.963    3.00
+HRJ         OAF         CAT         CAV     119.963    3.00
+HRJ         CAW         CAT         CAV     120.075    1.50
+HRJ         CAT         OAF          H2     120.000    3.00
+HRJ         OAC         CAW         CAT     118.988    1.50
+HRJ         OAC         CAW         CAJ     121.033    1.50
+HRJ         CAT         CAW         CAJ     119.979    1.50
+HRJ         CAW         CAJ         CAR     120.242    1.50
+HRJ         CAW         CAJ          H3     119.444    1.50
+HRJ         CAR         CAJ          H3     120.314    1.50
+HRJ         CAJ         CAR         NAL     119.240    1.50
+HRJ         CAJ         CAR         CAU     122.387    1.56
+HRJ         NAL         CAR         CAU     118.374    1.90
+HRJ         CAR         CAU         CAP     120.356    1.77
+HRJ         CAR         CAU         CAH     120.435    1.50
+HRJ         CAP         CAU         CAH     119.208    1.50
+HRJ         CAA         CAP         CAU     120.647    1.50
+HRJ         CAA         CAP         CAI     120.064    1.50
+HRJ         CAU         CAP         CAI     119.289    1.50
+HRJ         CAP         CAA          H5     109.524    1.50
+HRJ         CAP         CAA          H6     109.524    1.50
+HRJ         CAP         CAA          H7     109.524    1.50
+HRJ          H5         CAA          H6     109.348    1.50
+HRJ          H5         CAA          H7     109.348    1.50
+HRJ          H6         CAA          H7     109.348    1.50
+HRJ         CAP         CAI         CAQ     120.464    1.50
+HRJ         CAP         CAI          H8     119.663    1.50
+HRJ         CAQ         CAI          H8     119.873    1.50
+HRJ         CAU         CAH         CAG     120.777    1.50
+HRJ         CAU         CAH          H9     119.513    1.50
+HRJ         CAG         CAH          H9     119.710    1.50
+HRJ         CAH         CAG         CAQ     121.233    1.50
+HRJ         CAH         CAG         H10     119.356    1.50
+HRJ         CAQ         CAG         H10     119.411    1.50
+HRJ         CAI         CAQ         CAG     119.029    1.50
+HRJ         CAI         CAQ         CAS     120.486    2.31
+HRJ         CAG         CAQ         CAS     120.486    2.31
+HRJ         CAQ         CAS         NAM     126.780    1.57
+HRJ         CAQ         CAS         NAK     124.481    2.69
+HRJ         NAM         CAS         NAK     108.740    1.88
+HRJ         CAS         NAK         OAN     106.650    1.50
+HRJ         CAX         OAN         NAK     108.973    1.50
+HRJ         NAM         CAX         OAD     131.047    1.50
+HRJ         NAM         CAX         OAN     107.691    1.50
+HRJ         OAD         CAX         OAN     121.263    1.50
+HRJ         CAS         NAM         CAX     107.947    2.04
+HRJ         CAS         NAM         H11     125.759    2.16
+HRJ         CAX         NAM         H11     126.294    3.00
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -176,104 +175,88 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-HRJ sp2_sp2_7       CAJ CAR CAU CAP 180.000 5.0  2
-HRJ const_sp2_sp2_4 CAA CAP CAU CAR 0.000   5.0  2
-HRJ const_57        CAG CAH CAU CAR 180.000 10.0 2
-HRJ sp2_sp3_1       CAU CAP CAA H5  150.000 10.0 6
-HRJ const_sp2_sp2_6 CAQ CAI CAP CAA 180.000 5.0  2
-HRJ const_sp2_sp2_9 CAP CAI CAQ CAG 0.000   5.0  2
-HRJ const_17        CAQ CAG CAH CAU 0.000   10.0 2
-HRJ const_13        CAH CAG CAQ CAI 0.000   10.0 2
-HRJ sp2_sp2_11      CAI CAQ CAS NAM 180.000 5.0  2
-HRJ const_61        CAQ CAS NAK OAN 180.000 10.0 2
-HRJ const_43        CAQ CAS NAM CAX 180.000 10.0 2
-HRJ const_51        CAS NAK OAN CAX 0.000   10.0 2
-HRJ sp2_sp2_3       OAB CAO CAV CAT 180.000 5.0  2
-HRJ const_50        OAD CAX OAN NAK 180.000 10.0 2
-HRJ const_47        OAD CAX NAM CAS 180.000 10.0 2
-HRJ const_54        CAO CAV NAL CAR 180.000 10.0 2
-HRJ const_24        OAF CAT CAV CAO 0.000   10.0 2
-HRJ const_37        CAJ CAR NAL CAV 0.000   10.0 2
-HRJ sp2_sp2_1       CAW CAT OAF H2  180.000 5.0  2
-HRJ const_28        OAF CAT CAW OAC 0.000   10.0 2
-HRJ const_30        CAR CAJ CAW OAC 180.000 10.0 2
-HRJ const_33        CAW CAJ CAR NAL 0.000   10.0 2
-
+HRJ             sp2_sp2_7         CAJ         CAR         CAU         CAP     180.000     5.0     2
+HRJ       const_sp2_sp2_4         CAA         CAP         CAU         CAR       0.000     5.0     2
+HRJ              const_57         CAG         CAH         CAU         CAR     180.000    10.0     2
+HRJ             sp2_sp3_1         CAU         CAP         CAA          H5     150.000    10.0     6
+HRJ       const_sp2_sp2_6         CAQ         CAI         CAP         CAA     180.000     5.0     2
+HRJ       const_sp2_sp2_9         CAP         CAI         CAQ         CAG       0.000     5.0     2
+HRJ              const_17         CAQ         CAG         CAH         CAU       0.000    10.0     2
+HRJ              const_13         CAH         CAG         CAQ         CAI       0.000    10.0     2
+HRJ            sp2_sp2_11         CAI         CAQ         CAS         NAM     180.000     5.0     2
+HRJ              const_61         CAQ         CAS         NAK         OAN     180.000    10.0     2
+HRJ              const_43         CAQ         CAS         NAM         CAX     180.000    10.0     2
+HRJ              const_51         CAS         NAK         OAN         CAX       0.000    10.0     2
+HRJ             sp2_sp2_3         OAB         CAO         CAV         CAT     180.000     5.0     2
+HRJ              const_50         OAD         CAX         OAN         NAK     180.000    10.0     2
+HRJ              const_47         OAD         CAX         NAM         CAS     180.000    10.0     2
+HRJ              const_54         CAO         CAV         NAL         CAR     180.000    10.0     2
+HRJ              const_24         OAF         CAT         CAV         CAO       0.000    10.0     2
+HRJ              const_37         CAJ         CAR         NAL         CAV       0.000    10.0     2
+HRJ             sp2_sp2_1         CAW         CAT         OAF          H2     180.000     5.0     2
+HRJ              const_28         OAF         CAT         CAW         OAC       0.000    10.0     2
+HRJ              const_30         CAR         CAJ         CAW         OAC     180.000    10.0     2
+HRJ              const_33         CAW         CAJ         CAR         NAL       0.000    10.0     2
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-HRJ plan-1 CAJ 0.020
-HRJ plan-1 CAO 0.020
-HRJ plan-1 CAR 0.020
-HRJ plan-1 CAT 0.020
-HRJ plan-1 CAU 0.020
-HRJ plan-1 CAV 0.020
-HRJ plan-1 CAW 0.020
-HRJ plan-1 H12 0.020
-HRJ plan-1 H3  0.020
-HRJ plan-1 NAL 0.020
-HRJ plan-1 OAC 0.020
-HRJ plan-1 OAF 0.020
-HRJ plan-2 CAA 0.020
-HRJ plan-2 CAG 0.020
-HRJ plan-2 CAH 0.020
-HRJ plan-2 CAI 0.020
-HRJ plan-2 CAP 0.020
-HRJ plan-2 CAQ 0.020
-HRJ plan-2 CAR 0.020
-HRJ plan-2 CAS 0.020
-HRJ plan-2 CAU 0.020
-HRJ plan-2 H10 0.020
-HRJ plan-2 H8  0.020
-HRJ plan-2 H9  0.020
-HRJ plan-3 CAQ 0.020
-HRJ plan-3 CAS 0.020
-HRJ plan-3 CAX 0.020
-HRJ plan-3 H11 0.020
-HRJ plan-3 NAK 0.020
-HRJ plan-3 NAM 0.020
-HRJ plan-3 OAD 0.020
-HRJ plan-3 OAN 0.020
-HRJ plan-4 CAO 0.020
-HRJ plan-4 CAV 0.020
-HRJ plan-4 OAB 0.020
-HRJ plan-4 OAE 0.020
-
+HRJ    plan-1         CAJ   0.020
+HRJ    plan-1         CAO   0.020
+HRJ    plan-1         CAR   0.020
+HRJ    plan-1         CAT   0.020
+HRJ    plan-1         CAU   0.020
+HRJ    plan-1         CAV   0.020
+HRJ    plan-1         CAW   0.020
+HRJ    plan-1         H12   0.020
+HRJ    plan-1          H3   0.020
+HRJ    plan-1         NAL   0.020
+HRJ    plan-1         OAC   0.020
+HRJ    plan-1         OAF   0.020
+HRJ    plan-2         CAA   0.020
+HRJ    plan-2         CAG   0.020
+HRJ    plan-2         CAH   0.020
+HRJ    plan-2         CAI   0.020
+HRJ    plan-2         CAP   0.020
+HRJ    plan-2         CAQ   0.020
+HRJ    plan-2         CAR   0.020
+HRJ    plan-2         CAS   0.020
+HRJ    plan-2         CAU   0.020
+HRJ    plan-2         H10   0.020
+HRJ    plan-2          H8   0.020
+HRJ    plan-2          H9   0.020
+HRJ    plan-3         CAQ   0.020
+HRJ    plan-3         CAS   0.020
+HRJ    plan-3         CAX   0.020
+HRJ    plan-3         H11   0.020
+HRJ    plan-3         NAK   0.020
+HRJ    plan-3         NAM   0.020
+HRJ    plan-3         OAD   0.020
+HRJ    plan-3         OAN   0.020
+HRJ    plan-4         CAO   0.020
+HRJ    plan-4         CAV   0.020
+HRJ    plan-4         OAB   0.020
+HRJ    plan-4         OAE   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-HRJ SMILES           ACDLabs              12.01 O=C(O)C=1NC(=CC(C=1O)=O)c2ccc(cc2C)C3=NOC(=O)N3
-HRJ InChI            InChI                1.03  InChI=1S/C15H11N3O6/c1-6-4-7(13-17-15(23)24-18-13)2-3-8(6)9-5-10(19)12(20)11(16-9)14(21)22/h2-5,20H,1H3,(H,16,19)(H,21,22)(H,17,18,23)
-HRJ InChIKey         InChI                1.03  LUIZNWALJWPSKU-UHFFFAOYSA-N
-HRJ SMILES_CANONICAL CACTVS               3.385 Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(O)=O)O)C3=NOC(=O)N3
-HRJ SMILES           CACTVS               3.385 Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(O)=O)O)C3=NOC(=O)N3
-HRJ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(=O)O)O)C3=NOC(=O)N3
-HRJ SMILES           "OpenEye OEToolkits" 2.0.6 Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(=O)O)O)C3=NOC(=O)N3
-
+HRJ           SMILES              ACDLabs 12.01                                                                                        O=C(O)C=1NC(=CC(C=1O)=O)c2ccc(cc2C)C3=NOC(=O)N3
+HRJ            InChI                InChI  1.03 InChI=1S/C15H11N3O6/c1-6-4-7(13-17-15(23)24-18-13)2-3-8(6)9-5-10(19)12(20)11(16-9)14(21)22/h2-5,20H,1H3,(H,16,19)(H,21,22)(H,17,18,23)
+HRJ         InChIKey                InChI  1.03                                                                                                            LUIZNWALJWPSKU-UHFFFAOYSA-N
+HRJ SMILES_CANONICAL               CACTVS 3.385                                                                                       Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(O)=O)O)C3=NOC(=O)N3
+HRJ           SMILES               CACTVS 3.385                                                                                       Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(O)=O)O)C3=NOC(=O)N3
+HRJ SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                       Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(=O)O)O)C3=NOC(=O)N3
+HRJ           SMILES "OpenEye OEToolkits" 2.0.6                                                                                       Cc1cc(ccc1C2=CC(=O)C(=C(N2)C(=O)O)O)C3=NOC(=O)N3
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-HRJ acedrg          243       "dictionary generator"
-HRJ acedrg_database 11        "data source"
-HRJ rdkit           2017.03.2 "Chemoinformatics tool"
-HRJ refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-HRJ M-peptide OAB O
-HRJ M-peptide CAO C
-HRJ M-peptide CAV CA
-HRJ M-peptide NAL N
-HRJ M-peptide CAR CN
-HRJ M-peptide OAE OXT
-HRJ M-peptide H12 H
+HRJ acedrg               243         "dictionary generator"                  
+HRJ acedrg_database      11          "data source"                           
+HRJ rdkit                2017.03.2   "Chemoinformatics tool"
+HRJ refmac5              5.8.0238    "optimization tool"                     

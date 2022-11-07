@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-1JY 1JY "N-(4-{[(6S)-2-(hydroxymethyl)-4-oxo-4,6,7,8-tetrahydro-1H-cyclopenta[g]quinazolin-6-yl](prop-2-yn-1-yl)amino}benzoyl)-L-gamma-glutamyl-D-glutamic acid" NON-POLYMER 77 47 .
-
+1JY     1JY      "N-(4-{[(6S)-2-(hydroxymethyl)-4-oxo-4,6,7,8-tetrahydro-1H-cyclopenta[g]quinazolin-6-yl](prop-2-yn-1-yl)amino}benzoyl)-L-gamma-glutamyl-D-glutamic acid"     NON-POLYMER     77     47     .     
+#
 data_comp_1JY
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,84 +21,83 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-1JY OAF O O    0  16.188 25.144 -56.964
-1JY CBI C CR6  0  16.963 26.106 -56.863
-1JY NBA N NRD6 0  16.421 27.318 -56.475
-1JY CBL C CR6  0  17.193 28.360 -56.353
-1JY CAT C CH2  0  16.564 29.659 -55.929
-1JY OAH O OH1  0  16.085 30.400 -57.038
-1JY NBB N NR6  0  18.534 28.317 -56.595
-1JY CBM C CR66 0  19.159 27.144 -56.989
-1JY CBR C CR66 0  18.374 25.982 -57.137
-1JY CAO C CR16 0  19.007 24.747 -57.547
-1JY CAN C CR16 0  20.539 27.081 -57.242
-1JY CBK C CR56 0  21.121 25.881 -57.635
-1JY CBN C CR56 0  20.353 24.726 -57.784
-1JY CAV C CH2  0  22.565 25.591 -57.954
-1JY CAM C CH2  0  22.648 24.059 -57.934
-1JY CBO C CH1  0  21.218 23.559 -58.217
-1JY NBU N N    0  21.029 23.110 -59.600
-1JY CAU C CH2  0  21.608 21.798 -59.940
-1JY CAL C CSP  0  20.710 20.697 -59.575
-1JY CAA C CSP  0  19.933 19.852 -59.308
-1JY CBQ C CR6  0  20.308 23.830 -60.621
-1JY CAS C CR16 0  19.142 23.279 -61.165
-1JY CAQ C CR16 0  18.449 23.957 -62.151
-1JY CAR C CR16 0  20.764 25.066 -61.095
-1JY CAP C CR16 0  20.057 25.735 -62.077
-1JY CBP C CR6  0  18.890 25.196 -62.615
-1JY CBJ C C    0  18.151 25.946 -63.690
-1JY OAG O O    0  18.778 26.524 -64.579
-1JY NBD N NH1  0  16.809 25.940 -63.637
-1JY CBT C CH1  0  15.963 26.561 -64.653
-1JY CBG C C    0  14.511 26.695 -64.158
-1JY OAD O OC   -1 14.047 25.757 -63.478
-1JY OAK O O    0  13.895 27.734 -64.470
-1JY CAZ C CH2  0  16.016 25.800 -65.986
-1JY CAX C CH2  0  15.604 24.335 -65.888
-1JY CBH C C    0  16.079 23.531 -67.081
-1JY OAE O O    0  17.035 22.762 -66.994
-1JY N   N NH1  0  15.420 23.728 -68.228
-1JY CA  C CH1  0  15.760 23.114 -69.504
-1JY C   C C    0  14.563 23.149 -70.473
-1JY O   O O    0  14.395 22.154 -71.207
-1JY OXT O OC   -1 13.843 24.168 -70.461
-1JY CB  C CH2  0  17.009 23.736 -70.144
-1JY CG  C CH2  0  16.869 25.217 -70.469
-1JY CD  C C    0  18.186 25.935 -70.709
-1JY OE1 O O    0  18.871 25.596 -71.695
-1JY OE2 O OC   -1 18.524 26.830 -69.910
-1JY H1  H H    0  17.226 30.198 -55.446
-1JY H2  H H    0  15.817 29.476 -55.321
-1JY H3  H H    0  15.923 31.194 -56.784
-1JY H4  H H    0  19.025 29.051 -56.501
-1JY H5  H H    0  18.485 23.949 -57.651
-1JY H6  H H    0  21.064 27.858 -57.143
-1JY H7  H H    0  23.162 25.988 -57.277
-1JY H8  H H    0  22.813 25.951 -58.837
-1JY H9  H H    0  22.953 23.747 -57.068
-1JY H10 H H    0  23.264 23.744 -58.613
-1JY H11 H H    0  21.027 22.789 -57.619
-1JY H12 H H    0  22.466 21.684 -59.468
-1JY H13 H H    0  21.789 21.760 -60.909
-1JY H14 H H    0  19.354 19.120 -59.113
-1JY H15 H H    0  18.828 22.446 -60.858
-1JY H16 H H    0  17.663 23.579 -62.504
-1JY H17 H H    0  21.546 25.446 -60.738
-1JY H18 H H    0  20.371 26.568 -62.384
-1JY H19 H H    0  16.408 25.563 -62.959
-1JY H20 H H    0  16.312 27.475 -64.815
-1JY H22 H H    0  16.928 25.854 -66.341
-1JY H23 H H    0  15.424 26.253 -66.623
-1JY H24 H H    0  14.626 24.276 -65.832
-1JY H25 H H    0  15.976 23.940 -65.072
-1JY H26 H H    0  14.733 24.272 -68.220
-1JY H27 H H    0  15.966 22.161 -69.327
-1JY H29 H H    0  17.211 23.249 -70.970
-1JY H30 H H    0  17.765 23.616 -69.532
-1JY H31 H H    0  16.404 25.666 -69.732
-1JY H32 H H    0  16.314 25.316 -71.272
-
+1JY     OAF     O       O       0       16.188      25.144      -56.964     
+1JY     CBI     C       CR6     0       16.963      26.106      -56.863     
+1JY     NBA     N       NRD6    0       16.421      27.318      -56.475     
+1JY     CBL     C       CR6     0       17.193      28.360      -56.353     
+1JY     CAT     C       CH2     0       16.564      29.659      -55.929     
+1JY     OAH     O       OH1     0       16.085      30.400      -57.038     
+1JY     NBB     N       NR6     0       18.534      28.317      -56.595     
+1JY     CBM     C       CR66    0       19.159      27.144      -56.989     
+1JY     CBR     C       CR66    0       18.374      25.982      -57.137     
+1JY     CAO     C       CR16    0       19.007      24.747      -57.547     
+1JY     CAN     C       CR16    0       20.539      27.081      -57.242     
+1JY     CBK     C       CR56    0       21.121      25.881      -57.635     
+1JY     CBN     C       CR56    0       20.353      24.726      -57.784     
+1JY     CAV     C       CH2     0       22.565      25.591      -57.954     
+1JY     CAM     C       CH2     0       22.648      24.059      -57.934     
+1JY     CBO     C       CH1     0       21.218      23.559      -58.217     
+1JY     NBU     N       N       0       21.029      23.110      -59.600     
+1JY     CAU     C       CH2     0       21.608      21.798      -59.940     
+1JY     CAL     C       CSP     0       20.710      20.697      -59.575     
+1JY     CAA     C       CSP     0       19.933      19.852      -59.308     
+1JY     CBQ     C       CR6     0       20.308      23.830      -60.621     
+1JY     CAS     C       CR16    0       19.142      23.279      -61.165     
+1JY     CAQ     C       CR16    0       18.449      23.957      -62.151     
+1JY     CAR     C       CR16    0       20.764      25.066      -61.095     
+1JY     CAP     C       CR16    0       20.057      25.735      -62.077     
+1JY     CBP     C       CR6     0       18.890      25.196      -62.615     
+1JY     CBJ     C       C       0       18.151      25.946      -63.690     
+1JY     OAG     O       O       0       18.778      26.524      -64.579     
+1JY     NBD     N       NH1     0       16.809      25.940      -63.637     
+1JY     CBT     C       CH1     0       15.963      26.561      -64.653     
+1JY     CBG     C       C       0       14.511      26.695      -64.158     
+1JY     OAD     O       OC      -1      14.047      25.757      -63.478     
+1JY     OAK     O       O       0       13.895      27.734      -64.470     
+1JY     CAZ     C       CH2     0       16.016      25.800      -65.986     
+1JY     CAX     C       CH2     0       15.604      24.335      -65.888     
+1JY     CBH     C       C       0       16.079      23.531      -67.081     
+1JY     OAE     O       O       0       17.035      22.762      -66.994     
+1JY     N       N       NH1     0       15.420      23.728      -68.228     
+1JY     CA      C       CH1     0       15.760      23.114      -69.504     
+1JY     C       C       C       0       14.563      23.149      -70.473     
+1JY     O       O       O       0       14.395      22.154      -71.207     
+1JY     OXT     O       OC      -1      13.843      24.168      -70.461     
+1JY     CB      C       CH2     0       17.009      23.736      -70.144     
+1JY     CG      C       CH2     0       16.869      25.217      -70.469     
+1JY     CD      C       C       0       18.186      25.935      -70.709     
+1JY     OE1     O       O       0       18.871      25.596      -71.695     
+1JY     OE2     O       OC      -1      18.524      26.830      -69.910     
+1JY     H1      H       H       0       17.226      30.198      -55.446     
+1JY     H2      H       H       0       15.817      29.476      -55.321     
+1JY     H3      H       H       0       15.923      31.194      -56.784     
+1JY     H4      H       H       0       19.025      29.051      -56.501     
+1JY     H5      H       H       0       18.485      23.949      -57.651     
+1JY     H6      H       H       0       21.064      27.858      -57.143     
+1JY     H7      H       H       0       23.162      25.988      -57.277     
+1JY     H8      H       H       0       22.813      25.951      -58.837     
+1JY     H9      H       H       0       22.953      23.747      -57.068     
+1JY     H10     H       H       0       23.264      23.744      -58.613     
+1JY     H11     H       H       0       21.027      22.789      -57.619     
+1JY     H12     H       H       0       22.466      21.684      -59.468     
+1JY     H13     H       H       0       21.789      21.760      -60.909     
+1JY     H14     H       H       0       19.354      19.120      -59.113     
+1JY     H15     H       H       0       18.828      22.446      -60.858     
+1JY     H16     H       H       0       17.663      23.579      -62.504     
+1JY     H17     H       H       0       21.546      25.446      -60.738     
+1JY     H18     H       H       0       20.371      26.568      -62.384     
+1JY     H19     H       H       0       16.408      25.563      -62.959     
+1JY     H20     H       H       0       16.312      27.475      -64.815     
+1JY     H22     H       H       0       16.928      25.854      -66.341     
+1JY     H23     H       H       0       15.424      26.253      -66.623     
+1JY     H24     H       H       0       14.626      24.276      -65.832     
+1JY     H25     H       H       0       15.976      23.940      -65.072     
+1JY     H26     H       H       0       14.733      24.272      -68.220     
+1JY     H27     H       H       0       15.966      22.161      -69.327     
+1JY     H29     H       H       0       17.211      23.249      -70.970     
+1JY     H30     H       H       0       17.765      23.616      -69.532     
+1JY     H31     H       H       0       16.404      25.666      -69.732     
+1JY     H32     H       H       0       16.314      25.316      -71.272     
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -107,87 +108,86 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-1JY C   O   DOUBLE n 1.247 0.0187 1.247 0.0187
-1JY C   OXT SINGLE n 1.247 0.0187 1.247 0.0187
-1JY CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
-1JY CD  OE1 DOUBLE n 1.247 0.0187 1.247 0.0187
-1JY CB  CG  SINGLE n 1.518 0.0153 1.518 0.0153
-1JY CG  CD  SINGLE n 1.519 0.0109 1.519 0.0109
-1JY CA  CB  SINGLE n 1.533 0.0100 1.533 0.0100
-1JY CD  OE2 SINGLE n 1.247 0.0187 1.247 0.0187
-1JY N   CA  SINGLE n 1.453 0.0100 1.453 0.0100
-1JY CBH N   SINGLE n 1.334 0.0100 1.334 0.0100
-1JY CBH OAE DOUBLE n 1.229 0.0102 1.229 0.0102
-1JY CAX CBH SINGLE n 1.514 0.0100 1.514 0.0100
-1JY CAZ CAX SINGLE n 1.522 0.0131 1.522 0.0131
-1JY CBT CAZ SINGLE n 1.533 0.0100 1.533 0.0100
-1JY CBG OAK DOUBLE n 1.247 0.0187 1.247 0.0187
-1JY CBT CBG SINGLE n 1.539 0.0100 1.539 0.0100
-1JY CBG OAD SINGLE n 1.247 0.0187 1.247 0.0187
-1JY NBD CBT SINGLE n 1.456 0.0100 1.456 0.0100
-1JY CBJ NBD SINGLE n 1.337 0.0101 1.337 0.0101
-1JY CBJ OAG DOUBLE n 1.230 0.0114 1.230 0.0114
-1JY CBP CBJ SINGLE n 1.502 0.0100 1.502 0.0100
-1JY CAQ CBP SINGLE y 1.390 0.0100 1.390 0.0100
-1JY CAP CBP DOUBLE y 1.390 0.0100 1.390 0.0100
-1JY CAS CAQ DOUBLE y 1.379 0.0100 1.379 0.0100
-1JY CAR CAP SINGLE y 1.379 0.0100 1.379 0.0100
-1JY CBQ CAS SINGLE y 1.395 0.0124 1.395 0.0124
-1JY CBQ CAR DOUBLE y 1.395 0.0124 1.395 0.0124
-1JY NBU CBQ SINGLE n 1.431 0.0200 1.431 0.0200
-1JY NBU CAU SINGLE n 1.465 0.0200 1.465 0.0200
-1JY CBO NBU SINGLE n 1.455 0.0148 1.455 0.0148
-1JY CAM CBO SINGLE n 1.538 0.0148 1.538 0.0148
-1JY CAV CAM SINGLE n 1.536 0.0118 1.536 0.0118
-1JY CAU CAL SINGLE n 1.467 0.0100 1.467 0.0100
-1JY CBN CBO SINGLE n 1.513 0.0100 1.513 0.0100
-1JY CBK CAV SINGLE n 1.508 0.0100 1.508 0.0100
-1JY CAL CAA TRIPLE n 1.178 0.0107 1.178 0.0107
-1JY CBK CBN DOUBLE y 1.389 0.0100 1.389 0.0100
-1JY CAO CBN SINGLE y 1.363 0.0100 1.363 0.0100
-1JY CAN CBK SINGLE y 1.385 0.0103 1.385 0.0103
-1JY CBR CAO DOUBLE y 1.434 0.0200 1.434 0.0200
-1JY CBM CAN DOUBLE y 1.402 0.0100 1.402 0.0100
-1JY CBM CBR SINGLE y 1.409 0.0100 1.409 0.0100
-1JY CBI CBR SINGLE y 1.439 0.0200 1.439 0.0200
-1JY OAF CBI DOUBLE n 1.239 0.0136 1.239 0.0136
-1JY NBB CBM SINGLE y 1.383 0.0100 1.383 0.0100
-1JY CBI NBA SINGLE y 1.368 0.0200 1.368 0.0200
-1JY CAT OAH SINGLE n 1.417 0.0163 1.417 0.0163
-1JY CBL NBB SINGLE y 1.356 0.0100 1.356 0.0100
-1JY NBA CBL DOUBLE y 1.295 0.0100 1.295 0.0100
-1JY CBL CAT SINGLE n 1.504 0.0100 1.504 0.0100
-1JY CAT H1  SINGLE n 1.089 0.0100 0.980 0.0156
-1JY CAT H2  SINGLE n 1.089 0.0100 0.980 0.0156
-1JY OAH H3  SINGLE n 0.970 0.0120 0.849 0.0200
-1JY NBB H4  SINGLE n 1.016 0.0100 0.888 0.0200
-1JY CAO H5  SINGLE n 1.082 0.0130 0.959 0.0200
-1JY CAN H6  SINGLE n 1.082 0.0130 0.943 0.0169
-1JY CAV H7  SINGLE n 1.089 0.0100 0.986 0.0200
-1JY CAV H8  SINGLE n 1.089 0.0100 0.986 0.0200
-1JY CAM H9  SINGLE n 1.089 0.0100 0.970 0.0100
-1JY CAM H10 SINGLE n 1.089 0.0100 0.970 0.0100
-1JY CBO H11 SINGLE n 1.089 0.0100 0.994 0.0200
-1JY CAU H12 SINGLE n 1.089 0.0100 0.986 0.0100
-1JY CAU H13 SINGLE n 1.089 0.0100 0.986 0.0100
-1JY CAA H14 SINGLE n 1.048 0.0100 0.950 0.0200
-1JY CAS H15 SINGLE n 1.082 0.0130 0.942 0.0198
-1JY CAQ H16 SINGLE n 1.082 0.0130 0.941 0.0168
-1JY CAR H17 SINGLE n 1.082 0.0130 0.942 0.0198
-1JY CAP H18 SINGLE n 1.082 0.0130 0.941 0.0168
-1JY NBD H19 SINGLE n 1.016 0.0100 0.872 0.0200
-1JY CBT H20 SINGLE n 1.089 0.0100 0.991 0.0200
-1JY CAZ H22 SINGLE n 1.089 0.0100 0.980 0.0178
-1JY CAZ H23 SINGLE n 1.089 0.0100 0.980 0.0178
-1JY CAX H24 SINGLE n 1.089 0.0100 0.981 0.0185
-1JY CAX H25 SINGLE n 1.089 0.0100 0.981 0.0185
-1JY N   H26 SINGLE n 1.016 0.0100 0.873 0.0200
-1JY CA  H27 SINGLE n 1.089 0.0100 0.991 0.0200
-1JY CB  H29 SINGLE n 1.089 0.0100 0.980 0.0178
-1JY CB  H30 SINGLE n 1.089 0.0100 0.980 0.0178
-1JY CG  H31 SINGLE n 1.089 0.0100 0.981 0.0185
-1JY CG  H32 SINGLE n 1.089 0.0100 0.981 0.0185
-
+1JY           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+1JY           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+1JY          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+1JY          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+1JY          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
+1JY          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
+1JY          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
+1JY          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
+1JY           N          CA      SINGLE       n     1.453  0.0100     1.453  0.0100
+1JY         CBH           N      SINGLE       n     1.334  0.0100     1.334  0.0100
+1JY         CBH         OAE      DOUBLE       n     1.229  0.0102     1.229  0.0102
+1JY         CAX         CBH      SINGLE       n     1.514  0.0100     1.514  0.0100
+1JY         CAZ         CAX      SINGLE       n     1.522  0.0131     1.522  0.0131
+1JY         CBT         CAZ      SINGLE       n     1.533  0.0100     1.533  0.0100
+1JY         CBG         OAK      DOUBLE       n     1.247  0.0187     1.247  0.0187
+1JY         CBT         CBG      SINGLE       n     1.539  0.0100     1.539  0.0100
+1JY         CBG         OAD      SINGLE       n     1.247  0.0187     1.247  0.0187
+1JY         NBD         CBT      SINGLE       n     1.456  0.0100     1.456  0.0100
+1JY         CBJ         NBD      SINGLE       n     1.337  0.0101     1.337  0.0101
+1JY         CBJ         OAG      DOUBLE       n     1.230  0.0114     1.230  0.0114
+1JY         CBP         CBJ      SINGLE       n     1.502  0.0100     1.502  0.0100
+1JY         CAQ         CBP      SINGLE       y     1.390  0.0100     1.390  0.0100
+1JY         CAP         CBP      DOUBLE       y     1.390  0.0100     1.390  0.0100
+1JY         CAS         CAQ      DOUBLE       y     1.379  0.0100     1.379  0.0100
+1JY         CAR         CAP      SINGLE       y     1.379  0.0100     1.379  0.0100
+1JY         CBQ         CAS      SINGLE       y     1.395  0.0124     1.395  0.0124
+1JY         CBQ         CAR      DOUBLE       y     1.395  0.0124     1.395  0.0124
+1JY         NBU         CBQ      SINGLE       n     1.431  0.0200     1.431  0.0200
+1JY         NBU         CAU      SINGLE       n     1.465  0.0200     1.465  0.0200
+1JY         CBO         NBU      SINGLE       n     1.455  0.0148     1.455  0.0148
+1JY         CAM         CBO      SINGLE       n     1.538  0.0148     1.538  0.0148
+1JY         CAV         CAM      SINGLE       n     1.536  0.0118     1.536  0.0118
+1JY         CAU         CAL      SINGLE       n     1.467  0.0100     1.467  0.0100
+1JY         CBN         CBO      SINGLE       n     1.513  0.0100     1.513  0.0100
+1JY         CBK         CAV      SINGLE       n     1.508  0.0100     1.508  0.0100
+1JY         CAL         CAA      TRIPLE       n     1.178  0.0107     1.178  0.0107
+1JY         CBK         CBN      DOUBLE       y     1.389  0.0100     1.389  0.0100
+1JY         CAO         CBN      SINGLE       y     1.363  0.0100     1.363  0.0100
+1JY         CAN         CBK      SINGLE       y     1.385  0.0103     1.385  0.0103
+1JY         CBR         CAO      DOUBLE       y     1.434  0.0200     1.434  0.0200
+1JY         CBM         CAN      DOUBLE       y     1.402  0.0100     1.402  0.0100
+1JY         CBM         CBR      SINGLE       y     1.409  0.0100     1.409  0.0100
+1JY         CBI         CBR      SINGLE       y     1.439  0.0200     1.439  0.0200
+1JY         OAF         CBI      DOUBLE       n     1.239  0.0136     1.239  0.0136
+1JY         NBB         CBM      SINGLE       y     1.383  0.0100     1.383  0.0100
+1JY         CBI         NBA      SINGLE       y     1.368  0.0200     1.368  0.0200
+1JY         CAT         OAH      SINGLE       n     1.417  0.0163     1.417  0.0163
+1JY         CBL         NBB      SINGLE       y     1.356  0.0100     1.356  0.0100
+1JY         NBA         CBL      DOUBLE       y     1.295  0.0100     1.295  0.0100
+1JY         CBL         CAT      SINGLE       n     1.504  0.0100     1.504  0.0100
+1JY         CAT          H1      SINGLE       n     1.089  0.0100     0.980  0.0156
+1JY         CAT          H2      SINGLE       n     1.089  0.0100     0.980  0.0156
+1JY         OAH          H3      SINGLE       n     0.970  0.0120     0.849  0.0200
+1JY         NBB          H4      SINGLE       n     1.016  0.0100     0.888  0.0200
+1JY         CAO          H5      SINGLE       n     1.082  0.0130     0.959  0.0200
+1JY         CAN          H6      SINGLE       n     1.082  0.0130     0.943  0.0169
+1JY         CAV          H7      SINGLE       n     1.089  0.0100     0.986  0.0200
+1JY         CAV          H8      SINGLE       n     1.089  0.0100     0.986  0.0200
+1JY         CAM          H9      SINGLE       n     1.089  0.0100     0.970  0.0100
+1JY         CAM         H10      SINGLE       n     1.089  0.0100     0.970  0.0100
+1JY         CBO         H11      SINGLE       n     1.089  0.0100     0.994  0.0200
+1JY         CAU         H12      SINGLE       n     1.089  0.0100     0.986  0.0100
+1JY         CAU         H13      SINGLE       n     1.089  0.0100     0.986  0.0100
+1JY         CAA         H14      SINGLE       n     1.048  0.0100     0.950  0.0200
+1JY         CAS         H15      SINGLE       n     1.082  0.0130     0.942  0.0198
+1JY         CAQ         H16      SINGLE       n     1.082  0.0130     0.941  0.0168
+1JY         CAR         H17      SINGLE       n     1.082  0.0130     0.942  0.0198
+1JY         CAP         H18      SINGLE       n     1.082  0.0130     0.941  0.0168
+1JY         NBD         H19      SINGLE       n     1.016  0.0100     0.872  0.0200
+1JY         CBT         H20      SINGLE       n     1.089  0.0100     0.991  0.0200
+1JY         CAZ         H22      SINGLE       n     1.089  0.0100     0.980  0.0178
+1JY         CAZ         H23      SINGLE       n     1.089  0.0100     0.980  0.0178
+1JY         CAX         H24      SINGLE       n     1.089  0.0100     0.981  0.0185
+1JY         CAX         H25      SINGLE       n     1.089  0.0100     0.981  0.0185
+1JY           N         H26      SINGLE       n     1.016  0.0100     0.873  0.0200
+1JY          CA         H27      SINGLE       n     1.089  0.0100     0.991  0.0200
+1JY          CB         H29      SINGLE       n     1.089  0.0100     0.980  0.0178
+1JY          CB         H30      SINGLE       n     1.089  0.0100     0.980  0.0178
+1JY          CG         H31      SINGLE       n     1.089  0.0100     0.981  0.0185
+1JY          CG         H32      SINGLE       n     1.089  0.0100     0.981  0.0185
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -195,146 +195,145 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-1JY CBR CBI OAF 121.216 1.50
-1JY CBR CBI NBA 121.865 1.76
-1JY OAF CBI NBA 116.919 1.50
-1JY CBI NBA CBL 118.372 1.50
-1JY NBB CBL NBA 121.313 1.50
-1JY NBB CBL CAT 120.278 2.34
-1JY NBA CBL CAT 118.409 1.50
-1JY OAH CAT CBL 112.127 2.83
-1JY OAH CAT H1  109.104 1.50
-1JY OAH CAT H2  109.104 1.50
-1JY CBL CAT H1  109.365 1.50
-1JY CBL CAT H2  109.365 1.50
-1JY H1  CAT H2  108.289 1.50
-1JY CAT OAH H3  108.632 3.00
-1JY CBM NBB CBL 120.244 2.19
-1JY CBM NBB H4  119.326 1.72
-1JY CBL NBB H4  120.430 1.50
-1JY CAN CBM CBR 119.607 1.50
-1JY CAN CBM NBB 121.412 1.50
-1JY CBR CBM NBB 118.981 1.50
-1JY CAO CBR CBM 119.607 1.50
-1JY CAO CBR CBI 121.169 2.05
-1JY CBM CBR CBI 119.224 1.62
-1JY CBN CAO CBR 119.577 1.50
-1JY CBN CAO H5  120.288 1.50
-1JY CBR CAO H5  120.135 1.50
-1JY CBK CAN CBM 119.797 1.55
-1JY CBK CAN H6  120.645 1.50
-1JY CBM CAN H6  119.559 1.50
-1JY CAV CBK CBN 109.538 1.50
-1JY CAV CBK CAN 129.756 1.71
-1JY CBN CBK CAN 120.706 1.50
-1JY CBO CBN CBK 109.930 1.50
-1JY CBO CBN CAO 129.364 1.50
-1JY CBK CBN CAO 120.706 1.50
-1JY CAM CAV CBK 103.522 1.50
-1JY CAM CAV H7  111.351 1.50
-1JY CAM CAV H8  111.351 1.50
-1JY CBK CAV H7  111.158 1.50
-1JY CBK CAV H8  111.158 1.50
-1JY H7  CAV H8  108.635 1.50
-1JY CBO CAM CAV 104.443 2.26
-1JY CBO CAM H9  110.802 1.50
-1JY CBO CAM H10 110.802 1.50
-1JY CAV CAM H9  110.662 1.50
-1JY CAV CAM H10 110.662 1.50
-1JY H9  CAM H10 108.877 1.50
-1JY NBU CBO CAM 112.360 2.19
-1JY NBU CBO CBN 114.441 1.50
-1JY NBU CBO H11 108.828 1.83
-1JY CAM CBO CBN 102.338 1.56
-1JY CAM CBO H11 109.315 1.50
-1JY CBN CBO H11 109.261 1.73
-1JY CBQ NBU CAU 120.365 2.30
-1JY CBQ NBU CBO 122.672 2.76
-1JY CAU NBU CBO 116.963 2.13
-1JY NBU CAU CAL 111.532 1.60
-1JY NBU CAU H12 109.172 1.50
-1JY NBU CAU H13 109.172 1.50
-1JY CAL CAU H12 109.127 1.50
-1JY CAL CAU H13 109.127 1.50
-1JY H12 CAU H13 107.890 1.50
-1JY CAU CAL CAA 178.300 1.50
-1JY CAL CAA H14 179.517 1.50
-1JY CAS CBQ CAR 119.525 1.50
-1JY CAS CBQ NBU 120.238 2.27
-1JY CAR CBQ NBU 120.238 2.27
-1JY CAQ CAS CBQ 120.003 1.50
-1JY CAQ CAS H15 120.069 1.50
-1JY CBQ CAS H15 119.928 1.50
-1JY CBP CAQ CAS 120.764 1.50
-1JY CBP CAQ H16 119.834 1.50
-1JY CAS CAQ H16 119.403 1.50
-1JY CAP CAR CBQ 120.003 1.50
-1JY CAP CAR H17 120.069 1.50
-1JY CBQ CAR H17 119.928 1.50
-1JY CBP CAP CAR 120.764 1.50
-1JY CBP CAP H18 119.834 1.50
-1JY CAR CAP H18 119.403 1.50
-1JY CBJ CBP CAQ 120.529 2.80
-1JY CBJ CBP CAP 120.529 2.80
-1JY CAQ CBP CAP 118.943 1.50
-1JY NBD CBJ OAG 122.394 1.50
-1JY NBD CBJ CBP 116.740 1.50
-1JY OAG CBJ CBP 120.865 1.50
-1JY CBT NBD CBJ 122.253 1.50
-1JY CBT NBD H19 118.320 2.24
-1JY CBJ NBD H19 119.427 1.94
-1JY CAZ CBT CBG 111.638 2.31
-1JY CAZ CBT NBD 110.984 1.61
-1JY CAZ CBT H20 108.155 1.50
-1JY CBG CBT NBD 110.522 1.86
-1JY CBG CBT H20 108.327 1.50
-1JY NBD CBT H20 107.930 1.50
-1JY OAK CBG CBT 117.249 1.61
-1JY OAK CBG OAD 125.502 1.50
-1JY CBT CBG OAD 117.249 1.61
-1JY CAX CAZ CBT 113.079 1.50
-1JY CAX CAZ H22 109.107 1.50
-1JY CAX CAZ H23 109.107 1.50
-1JY CBT CAZ H22 108.606 1.50
-1JY CBT CAZ H23 108.606 1.50
-1JY H22 CAZ H23 107.844 1.50
-1JY CBH CAX CAZ 111.900 2.98
-1JY CBH CAX H24 108.930 1.50
-1JY CBH CAX H25 108.930 1.50
-1JY CAZ CAX H24 109.204 1.50
-1JY CAZ CAX H25 109.204 1.50
-1JY H24 CAX H25 107.846 1.50
-1JY N   CBH OAE 122.033 1.50
-1JY N   CBH CAX 116.136 1.50
-1JY OAE CBH CAX 121.831 1.50
-1JY CA  N   CBH 123.902 2.62
-1JY CA  N   H26 117.635 2.15
-1JY CBH N   H26 118.462 1.50
-1JY C   CA  CB  111.638 2.31
-1JY C   CA  N   110.976 1.55
-1JY C   CA  H27 108.327 1.50
-1JY CB  CA  N   113.029 1.50
-1JY CB  CA  H27 108.155 1.50
-1JY N   CA  H27 108.343 1.63
-1JY O   C   OXT 125.502 1.50
-1JY O   C   CA  117.249 1.61
-1JY OXT C   CA  117.249 1.61
-1JY CG  CB  CA  112.938 1.50
-1JY CG  CB  H29 108.890 1.50
-1JY CG  CB  H30 108.890 1.50
-1JY CA  CB  H29 108.606 1.50
-1JY CA  CB  H30 108.606 1.50
-1JY H29 CB  H30 107.844 1.50
-1JY CB  CG  CD  114.629 2.24
-1JY CB  CG  H31 108.906 1.50
-1JY CB  CG  H32 108.906 1.50
-1JY CD  CG  H31 108.404 1.50
-1JY CD  CG  H32 108.404 1.50
-1JY H31 CG  H32 107.521 1.50
-1JY OE1 CD  CG  118.214 1.64
-1JY OE1 CD  OE2 123.571 1.50
-1JY CG  CD  OE2 118.214 1.64
-
+1JY         CBR         CBI         OAF     121.216    1.50
+1JY         CBR         CBI         NBA     121.865    1.76
+1JY         OAF         CBI         NBA     116.919    1.50
+1JY         CBI         NBA         CBL     118.372    1.50
+1JY         NBB         CBL         NBA     121.313    1.50
+1JY         NBB         CBL         CAT     120.278    2.34
+1JY         NBA         CBL         CAT     118.409    1.50
+1JY         OAH         CAT         CBL     112.127    2.83
+1JY         OAH         CAT          H1     109.104    1.50
+1JY         OAH         CAT          H2     109.104    1.50
+1JY         CBL         CAT          H1     109.365    1.50
+1JY         CBL         CAT          H2     109.365    1.50
+1JY          H1         CAT          H2     108.289    1.50
+1JY         CAT         OAH          H3     108.632    3.00
+1JY         CBM         NBB         CBL     120.244    2.19
+1JY         CBM         NBB          H4     119.326    1.72
+1JY         CBL         NBB          H4     120.430    1.50
+1JY         CAN         CBM         CBR     119.607    1.50
+1JY         CAN         CBM         NBB     121.412    1.50
+1JY         CBR         CBM         NBB     118.981    1.50
+1JY         CAO         CBR         CBM     119.607    1.50
+1JY         CAO         CBR         CBI     121.169    2.05
+1JY         CBM         CBR         CBI     119.224    1.62
+1JY         CBN         CAO         CBR     119.577    1.50
+1JY         CBN         CAO          H5     120.288    1.50
+1JY         CBR         CAO          H5     120.135    1.50
+1JY         CBK         CAN         CBM     119.797    1.55
+1JY         CBK         CAN          H6     120.645    1.50
+1JY         CBM         CAN          H6     119.559    1.50
+1JY         CAV         CBK         CBN     109.538    1.50
+1JY         CAV         CBK         CAN     129.756    1.71
+1JY         CBN         CBK         CAN     120.706    1.50
+1JY         CBO         CBN         CBK     109.930    1.50
+1JY         CBO         CBN         CAO     129.364    1.50
+1JY         CBK         CBN         CAO     120.706    1.50
+1JY         CAM         CAV         CBK     103.522    1.50
+1JY         CAM         CAV          H7     111.351    1.50
+1JY         CAM         CAV          H8     111.351    1.50
+1JY         CBK         CAV          H7     111.158    1.50
+1JY         CBK         CAV          H8     111.158    1.50
+1JY          H7         CAV          H8     108.635    1.50
+1JY         CBO         CAM         CAV     104.443    2.26
+1JY         CBO         CAM          H9     110.802    1.50
+1JY         CBO         CAM         H10     110.802    1.50
+1JY         CAV         CAM          H9     110.662    1.50
+1JY         CAV         CAM         H10     110.662    1.50
+1JY          H9         CAM         H10     108.877    1.50
+1JY         NBU         CBO         CAM     112.360    2.19
+1JY         NBU         CBO         CBN     114.441    1.50
+1JY         NBU         CBO         H11     108.828    1.83
+1JY         CAM         CBO         CBN     102.338    1.56
+1JY         CAM         CBO         H11     109.315    1.50
+1JY         CBN         CBO         H11     109.261    1.73
+1JY         CBQ         NBU         CAU     120.365    2.30
+1JY         CBQ         NBU         CBO     122.672    2.76
+1JY         CAU         NBU         CBO     116.963    2.13
+1JY         NBU         CAU         CAL     111.532    1.60
+1JY         NBU         CAU         H12     109.172    1.50
+1JY         NBU         CAU         H13     109.172    1.50
+1JY         CAL         CAU         H12     109.127    1.50
+1JY         CAL         CAU         H13     109.127    1.50
+1JY         H12         CAU         H13     107.890    1.50
+1JY         CAU         CAL         CAA     178.300    1.50
+1JY         CAL         CAA         H14     179.517    1.50
+1JY         CAS         CBQ         CAR     119.525    1.50
+1JY         CAS         CBQ         NBU     120.238    2.27
+1JY         CAR         CBQ         NBU     120.238    2.27
+1JY         CAQ         CAS         CBQ     120.003    1.50
+1JY         CAQ         CAS         H15     120.069    1.50
+1JY         CBQ         CAS         H15     119.928    1.50
+1JY         CBP         CAQ         CAS     120.764    1.50
+1JY         CBP         CAQ         H16     119.834    1.50
+1JY         CAS         CAQ         H16     119.403    1.50
+1JY         CAP         CAR         CBQ     120.003    1.50
+1JY         CAP         CAR         H17     120.069    1.50
+1JY         CBQ         CAR         H17     119.928    1.50
+1JY         CBP         CAP         CAR     120.764    1.50
+1JY         CBP         CAP         H18     119.834    1.50
+1JY         CAR         CAP         H18     119.403    1.50
+1JY         CBJ         CBP         CAQ     120.529    2.80
+1JY         CBJ         CBP         CAP     120.529    2.80
+1JY         CAQ         CBP         CAP     118.943    1.50
+1JY         NBD         CBJ         OAG     122.394    1.50
+1JY         NBD         CBJ         CBP     116.740    1.50
+1JY         OAG         CBJ         CBP     120.865    1.50
+1JY         CBT         NBD         CBJ     122.253    1.50
+1JY         CBT         NBD         H19     118.320    2.24
+1JY         CBJ         NBD         H19     119.427    1.94
+1JY         CAZ         CBT         CBG     111.638    2.31
+1JY         CAZ         CBT         NBD     110.984    1.61
+1JY         CAZ         CBT         H20     108.155    1.50
+1JY         CBG         CBT         NBD     110.522    1.86
+1JY         CBG         CBT         H20     108.327    1.50
+1JY         NBD         CBT         H20     107.930    1.50
+1JY         OAK         CBG         CBT     117.249    1.61
+1JY         OAK         CBG         OAD     125.502    1.50
+1JY         CBT         CBG         OAD     117.249    1.61
+1JY         CAX         CAZ         CBT     113.079    1.50
+1JY         CAX         CAZ         H22     109.107    1.50
+1JY         CAX         CAZ         H23     109.107    1.50
+1JY         CBT         CAZ         H22     108.606    1.50
+1JY         CBT         CAZ         H23     108.606    1.50
+1JY         H22         CAZ         H23     107.844    1.50
+1JY         CBH         CAX         CAZ     111.900    2.98
+1JY         CBH         CAX         H24     108.930    1.50
+1JY         CBH         CAX         H25     108.930    1.50
+1JY         CAZ         CAX         H24     109.204    1.50
+1JY         CAZ         CAX         H25     109.204    1.50
+1JY         H24         CAX         H25     107.846    1.50
+1JY           N         CBH         OAE     122.033    1.50
+1JY           N         CBH         CAX     116.136    1.50
+1JY         OAE         CBH         CAX     121.831    1.50
+1JY          CA           N         CBH     123.902    2.62
+1JY          CA           N         H26     117.635    2.15
+1JY         CBH           N         H26     118.462    1.50
+1JY           C          CA          CB     111.638    2.31
+1JY           C          CA           N     110.976    1.55
+1JY           C          CA         H27     108.327    1.50
+1JY          CB          CA           N     113.029    1.50
+1JY          CB          CA         H27     108.155    1.50
+1JY           N          CA         H27     108.343    1.63
+1JY           O           C         OXT     125.502    1.50
+1JY           O           C          CA     117.249    1.61
+1JY         OXT           C          CA     117.249    1.61
+1JY          CG          CB          CA     112.938    1.50
+1JY          CG          CB         H29     108.890    1.50
+1JY          CG          CB         H30     108.890    1.50
+1JY          CA          CB         H29     108.606    1.50
+1JY          CA          CB         H30     108.606    1.50
+1JY         H29          CB         H30     107.844    1.50
+1JY          CB          CG          CD     114.629    2.24
+1JY          CB          CG         H31     108.906    1.50
+1JY          CB          CG         H32     108.906    1.50
+1JY          CD          CG         H31     108.404    1.50
+1JY          CD          CG         H32     108.404    1.50
+1JY         H31          CG         H32     107.521    1.50
+1JY         OE1          CD          CG     118.214    1.64
+1JY         OE1          CD         OE2     123.571    1.50
+1JY          CG          CD         OE2     118.214    1.64
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -345,48 +344,47 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-1JY const_sp2_sp2_6 CBM CAN CBK CAV 180.000 5.0  2
-1JY const_sp2_sp2_9 CAV CBK CBN CBO 0.000   5.0  2
-1JY sp2_sp3_1       CBN CBK CAV CAM 0.000   10.0 6
-1JY sp2_sp3_8       CBK CBN CBO NBU 120.000 10.0 6
-1JY sp3_sp3_1       CBO CAM CAV CBK -60.000 10.0 3
-1JY sp3_sp3_11      CAV CAM CBO NBU 180.000 10.0 3
-1JY sp2_sp3_58      CAU NBU CBO CAM 180.000 10.0 6
-1JY sp2_sp3_50      CBQ NBU CAU CAL 120.000 10.0 6
-1JY sp2_sp2_13      CAS CBQ NBU CAU 180.000 5.0  2
-1JY sp3_sp3_55      CAA CAL CAU NBU 180.000 10.0 3
-1JY other_tor_1     H14 CAA CAL CAU 180.000 10.0 1
-1JY const_64        OAF CBI NBA CBL 180.000 10.0 2
-1JY const_44        OAF CBI CBR CAO 0.000   10.0 2
-1JY const_22        CAQ CAS CBQ NBU 180.000 10.0 2
-1JY const_60        CAP CAR CBQ NBU 180.000 10.0 2
-1JY const_25        CBP CAQ CAS CBQ 0.000   10.0 2
-1JY const_30        CAS CAQ CBP CBJ 180.000 10.0 2
-1JY const_37        CBP CAP CAR CBQ 0.000   10.0 2
-1JY const_34        CAR CAP CBP CBJ 180.000 10.0 2
-1JY sp2_sp2_9       NBD CBJ CBP CAQ 180.000 5.0  2
-1JY sp2_sp2_7       OAG CBJ NBD CBT 0.000   5.0  2
-1JY sp2_sp3_43      CBJ NBD CBT CAZ 0.000   10.0 6
-1JY sp2_sp3_37      OAK CBG CBT CAZ 0.000   10.0 6
-1JY sp3_sp3_46      CAX CAZ CBT CBG 180.000 10.0 3
-1JY const_58        CAT CBL NBA CBI 180.000 10.0 2
-1JY sp3_sp3_37      CBH CAX CAZ CBT 180.000 10.0 3
-1JY sp2_sp3_32      N   CBH CAX CAZ 120.000 10.0 6
-1JY sp2_sp2_3       OAE CBH N   CA  0.000   5.0  2
-1JY sp2_sp3_25      CBH N   CA  C   0.000   10.0 6
-1JY sp2_sp3_13      O   C   CA  CB  0.000   10.0 6
-1JY sp3_sp3_28      C   CA  CB  CG  180.000 10.0 3
-1JY sp2_sp3_62      NBB CBL CAT OAH -90.000 10.0 6
-1JY const_55        CAT CBL NBB CBM 180.000 10.0 2
-1JY sp3_sp3_19      CA  CB  CG  CD  180.000 10.0 3
-1JY sp2_sp3_20      OE1 CD  CG  CB  120.000 10.0 6
-1JY sp3_sp3_58      CBL CAT OAH H3  180.000 10.0 3
-1JY const_51        CAN CBM NBB CBL 180.000 10.0 2
-1JY const_sp2_sp2_1 CBK CAN CBM CBR 0.000   5.0  2
-1JY const_45        CAN CBM CBR CAO 0.000   10.0 2
-1JY const_17        CBN CAO CBR CBM 0.000   10.0 2
-1JY const_14        CBR CAO CBN CBO 180.000 10.0 2
-
+1JY       const_sp2_sp2_6         CBM         CAN         CBK         CAV     180.000     5.0     2
+1JY       const_sp2_sp2_9         CAV         CBK         CBN         CBO       0.000     5.0     2
+1JY             sp2_sp3_1         CBN         CBK         CAV         CAM       0.000    10.0     6
+1JY             sp2_sp3_8         CBK         CBN         CBO         NBU     120.000    10.0     6
+1JY             sp3_sp3_1         CBO         CAM         CAV         CBK     -60.000    10.0     3
+1JY            sp3_sp3_11         CAV         CAM         CBO         NBU     180.000    10.0     3
+1JY            sp2_sp3_58         CAU         NBU         CBO         CAM     180.000    10.0     6
+1JY            sp2_sp3_50         CBQ         NBU         CAU         CAL     120.000    10.0     6
+1JY            sp2_sp2_13         CAS         CBQ         NBU         CAU     180.000     5.0     2
+1JY            sp3_sp3_55         CAA         CAL         CAU         NBU     180.000    10.0     3
+1JY           other_tor_1         H14         CAA         CAL         CAU     180.000    10.0     1
+1JY              const_64         OAF         CBI         NBA         CBL     180.000    10.0     2
+1JY              const_44         OAF         CBI         CBR         CAO       0.000    10.0     2
+1JY              const_22         CAQ         CAS         CBQ         NBU     180.000    10.0     2
+1JY              const_60         CAP         CAR         CBQ         NBU     180.000    10.0     2
+1JY              const_25         CBP         CAQ         CAS         CBQ       0.000    10.0     2
+1JY              const_30         CAS         CAQ         CBP         CBJ     180.000    10.0     2
+1JY              const_37         CBP         CAP         CAR         CBQ       0.000    10.0     2
+1JY              const_34         CAR         CAP         CBP         CBJ     180.000    10.0     2
+1JY             sp2_sp2_9         NBD         CBJ         CBP         CAQ     180.000     5.0     2
+1JY             sp2_sp2_7         OAG         CBJ         NBD         CBT       0.000     5.0     2
+1JY            sp2_sp3_43         CBJ         NBD         CBT         CAZ       0.000    10.0     6
+1JY            sp2_sp3_37         OAK         CBG         CBT         CAZ       0.000    10.0     6
+1JY            sp3_sp3_46         CAX         CAZ         CBT         CBG     180.000    10.0     3
+1JY              const_58         CAT         CBL         NBA         CBI     180.000    10.0     2
+1JY            sp3_sp3_37         CBH         CAX         CAZ         CBT     180.000    10.0     3
+1JY            sp2_sp3_32           N         CBH         CAX         CAZ     120.000    10.0     6
+1JY             sp2_sp2_3         OAE         CBH           N          CA       0.000     5.0     2
+1JY            sp2_sp3_25         CBH           N          CA           C       0.000    10.0     6
+1JY            sp2_sp3_13           O           C          CA          CB       0.000    10.0     6
+1JY            sp3_sp3_28           C          CA          CB          CG     180.000    10.0     3
+1JY            sp2_sp3_62         NBB         CBL         CAT         OAH     -90.000    10.0     6
+1JY              const_55         CAT         CBL         NBB         CBM     180.000    10.0     2
+1JY            sp3_sp3_19          CA          CB          CG          CD     180.000    10.0     3
+1JY            sp2_sp3_20         OE1          CD          CG          CB     120.000    10.0     6
+1JY            sp3_sp3_58         CBL         CAT         OAH          H3     180.000    10.0     3
+1JY              const_51         CAN         CBM         NBB         CBL     180.000    10.0     2
+1JY       const_sp2_sp2_1         CBK         CAN         CBM         CBR       0.000     5.0     2
+1JY              const_45         CAN         CBM         CBR         CAO       0.000    10.0     2
+1JY              const_17         CBN         CAO         CBR         CBM       0.000    10.0     2
+1JY              const_14         CBR         CAO         CBN         CBO     180.000    10.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -395,105 +393,94 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-1JY chir_1 CBO NBU CBN CAM positive
-1JY chir_2 CBT NBD CBG CAZ positive
-1JY chir_3 CA  N   C   CB  negative
-
+1JY    chir_1    CBO    NBU    CBN    CAM    positive
+1JY    chir_2    CBT    NBD    CBG    CAZ    positive
+1JY    chir_3    CA    N    C    CB    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-1JY plan-1  CAN 0.020
-1JY plan-1  CAO 0.020
-1JY plan-1  CAT 0.020
-1JY plan-1  CAV 0.020
-1JY plan-1  CBI 0.020
-1JY plan-1  CBK 0.020
-1JY plan-1  CBL 0.020
-1JY plan-1  CBM 0.020
-1JY plan-1  CBN 0.020
-1JY plan-1  CBO 0.020
-1JY plan-1  CBR 0.020
-1JY plan-1  H4  0.020
-1JY plan-1  H5  0.020
-1JY plan-1  H6  0.020
-1JY plan-1  NBA 0.020
-1JY plan-1  NBB 0.020
-1JY plan-1  OAF 0.020
-1JY plan-2  CAP 0.020
-1JY plan-2  CAQ 0.020
-1JY plan-2  CAR 0.020
-1JY plan-2  CAS 0.020
-1JY plan-2  CBJ 0.020
-1JY plan-2  CBP 0.020
-1JY plan-2  CBQ 0.020
-1JY plan-2  H15 0.020
-1JY plan-2  H16 0.020
-1JY plan-2  H17 0.020
-1JY plan-2  H18 0.020
-1JY plan-2  NBU 0.020
-1JY plan-3  CAU 0.020
-1JY plan-3  CBO 0.020
-1JY plan-3  CBQ 0.020
-1JY plan-3  NBU 0.020
-1JY plan-4  CBJ 0.020
-1JY plan-4  CBP 0.020
-1JY plan-4  NBD 0.020
-1JY plan-4  OAG 0.020
-1JY plan-5  CBJ 0.020
-1JY plan-5  CBT 0.020
-1JY plan-5  H19 0.020
-1JY plan-5  NBD 0.020
-1JY plan-6  CBG 0.020
-1JY plan-6  CBT 0.020
-1JY plan-6  OAD 0.020
-1JY plan-6  OAK 0.020
-1JY plan-7  CAX 0.020
-1JY plan-7  CBH 0.020
-1JY plan-7  N   0.020
-1JY plan-7  OAE 0.020
-1JY plan-8  CA  0.020
-1JY plan-8  CBH 0.020
-1JY plan-8  H26 0.020
-1JY plan-8  N   0.020
-1JY plan-9  C   0.020
-1JY plan-9  CA  0.020
-1JY plan-9  O   0.020
-1JY plan-9  OXT 0.020
-1JY plan-10 CD  0.020
-1JY plan-10 CG  0.020
-1JY plan-10 OE1 0.020
-1JY plan-10 OE2 0.020
-
+1JY    plan-1         CAN   0.020
+1JY    plan-1         CAO   0.020
+1JY    plan-1         CAT   0.020
+1JY    plan-1         CAV   0.020
+1JY    plan-1         CBI   0.020
+1JY    plan-1         CBK   0.020
+1JY    plan-1         CBL   0.020
+1JY    plan-1         CBM   0.020
+1JY    plan-1         CBN   0.020
+1JY    plan-1         CBO   0.020
+1JY    plan-1         CBR   0.020
+1JY    plan-1          H4   0.020
+1JY    plan-1          H5   0.020
+1JY    plan-1          H6   0.020
+1JY    plan-1         NBA   0.020
+1JY    plan-1         NBB   0.020
+1JY    plan-1         OAF   0.020
+1JY    plan-2         CAP   0.020
+1JY    plan-2         CAQ   0.020
+1JY    plan-2         CAR   0.020
+1JY    plan-2         CAS   0.020
+1JY    plan-2         CBJ   0.020
+1JY    plan-2         CBP   0.020
+1JY    plan-2         CBQ   0.020
+1JY    plan-2         H15   0.020
+1JY    plan-2         H16   0.020
+1JY    plan-2         H17   0.020
+1JY    plan-2         H18   0.020
+1JY    plan-2         NBU   0.020
+1JY    plan-3         CAU   0.020
+1JY    plan-3         CBO   0.020
+1JY    plan-3         CBQ   0.020
+1JY    plan-3         NBU   0.020
+1JY    plan-4         CBJ   0.020
+1JY    plan-4         CBP   0.020
+1JY    plan-4         NBD   0.020
+1JY    plan-4         OAG   0.020
+1JY    plan-5         CBJ   0.020
+1JY    plan-5         CBT   0.020
+1JY    plan-5         H19   0.020
+1JY    plan-5         NBD   0.020
+1JY    plan-6         CBG   0.020
+1JY    plan-6         CBT   0.020
+1JY    plan-6         OAD   0.020
+1JY    plan-6         OAK   0.020
+1JY    plan-7         CAX   0.020
+1JY    plan-7         CBH   0.020
+1JY    plan-7           N   0.020
+1JY    plan-7         OAE   0.020
+1JY    plan-8          CA   0.020
+1JY    plan-8         CBH   0.020
+1JY    plan-8         H26   0.020
+1JY    plan-8           N   0.020
+1JY    plan-9           C   0.020
+1JY    plan-9          CA   0.020
+1JY    plan-9           O   0.020
+1JY    plan-9         OXT   0.020
+1JY   plan-10          CD   0.020
+1JY   plan-10          CG   0.020
+1JY   plan-10         OE1   0.020
+1JY   plan-10         OE2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-1JY SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)CCC(C(=O)O)NC(=O)c1ccc(cc1)N(CC#C)C4c3c(cc2c(C(=O)N=C(N2)CO)c3)CC4)CCC(=O)O
-1JY InChI            InChI                1.03  InChI=1S/C32H33N5O10/c1-2-13-37(25-10-5-18-14-24-21(15-20(18)25)30(43)36-26(16-38)33-24)19-6-3-17(4-7-19)29(42)35-23(32(46)47)8-11-27(39)34-22(31(44)45)9-12-28(40)41/h1,3-4,6-7,14-15,22-23,25,38H,5,8-13,16H2,(H,34,39)(H,35,42)(H,40,41)(H,44,45)(H,46,47)(H,33,36,43)/t22-,23+,25+/m1/s1
-1JY InChIKey         InChI                1.03  NVHRBQOZEMFKLD-CUYJMHBOSA-N
-1JY SMILES_CANONICAL CACTVS               3.370 OCC1=NC(=O)c2cc3[C@H](CCc3cc2N1)N(CC#C)c4ccc(cc4)C(=O)N[C@@H](CCC(=O)N[C@H](CCC(O)=O)C(O)=O)C(O)=O
-1JY SMILES           CACTVS               3.370 OCC1=NC(=O)c2cc3[CH](CCc3cc2N1)N(CC#C)c4ccc(cc4)C(=O)N[CH](CCC(=O)N[CH](CCC(O)=O)C(O)=O)C(O)=O
-1JY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C#CCN(c1ccc(cc1)C(=O)N[C@@H](CCC(=O)N[C@H](CCC(=O)O)C(=O)O)C(=O)O)[C@H]2CCc3c2cc4c(c3)NC(=NC4=O)CO
-1JY SMILES           "OpenEye OEToolkits" 1.7.6 C#CCN(c1ccc(cc1)C(=O)NC(CCC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O)C2CCc3c2cc4c(c3)NC(=NC4=O)CO
-
+1JY           SMILES              ACDLabs 12.01                                                                                                                                                                                                    O=C(O)C(NC(=O)CCC(C(=O)O)NC(=O)c1ccc(cc1)N(CC#C)C4c3c(cc2c(C(=O)N=C(N2)CO)c3)CC4)CCC(=O)O
+1JY            InChI                InChI  1.03 InChI=1S/C32H33N5O10/c1-2-13-37(25-10-5-18-14-24-21(15-20(18)25)30(43)36-26(16-38)33-24)19-6-3-17(4-7-19)29(42)35-23(32(46)47)8-11-27(39)34-22(31(44)45)9-12-28(40)41/h1,3-4,6-7,14-15,22-23,25,38H,5,8-13,16H2,(H,34,39)(H,35,42)(H,40,41)(H,44,45)(H,46,47)(H,33,36,43)/t22-,23+,25+/m1/s1
+1JY         InChIKey                InChI  1.03                                                                                                                                                                                                                                                                  NVHRBQOZEMFKLD-CUYJMHBOSA-N
+1JY SMILES_CANONICAL               CACTVS 3.370                                                                                                                                                                                           OCC1=NC(=O)c2cc3[C@H](CCc3cc2N1)N(CC#C)c4ccc(cc4)C(=O)N[C@@H](CCC(=O)N[C@H](CCC(O)=O)C(O)=O)C(O)=O
+1JY           SMILES               CACTVS 3.370                                                                                                                                                                                               OCC1=NC(=O)c2cc3[CH](CCc3cc2N1)N(CC#C)c4ccc(cc4)C(=O)N[CH](CCC(=O)N[CH](CCC(O)=O)C(O)=O)C(O)=O
+1JY SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                                                                           C#CCN(c1ccc(cc1)C(=O)N[C@@H](CCC(=O)N[C@H](CCC(=O)O)C(=O)O)C(=O)O)[C@H]2CCc3c2cc4c(c3)NC(=NC4=O)CO
+1JY           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                                                                        C#CCN(c1ccc(cc1)C(=O)NC(CCC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O)C2CCc3c2cc4c(c3)NC(=NC4=O)CO
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-1JY acedrg          243       "dictionary generator"
-1JY acedrg_database 11        "data source"
-1JY rdkit           2017.03.2 "Chemoinformatics tool"
-1JY refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-1JY M-peptide CBH CN
-1JY M-peptide H26 H
+1JY acedrg               243         "dictionary generator"                  
+1JY acedrg_database      11          "data source"                           
+1JY rdkit                2017.03.2   "Chemoinformatics tool"
+1JY refmac5              5.8.0238    "optimization tool"                     

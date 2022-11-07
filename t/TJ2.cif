@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TJ2 TJ2 "3-{(1S)-2-(tert-butylamino)-1-[(4-chlorobenzyl)(formyl)amino]-2-oxoethyl}-6-chloro-1H-indole-2-carboxylic acid" NON-POLYMER 54 32 .
-
+TJ2     TJ2      "3-{(1S)-2-(tert-butylamino)-1-[(4-chlorobenzyl)(formyl)amino]-2-oxoethyl}-6-chloro-1H-indole-2-carboxylic acid"     NON-POLYMER     54     32     .     
+#
 data_comp_TJ2
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,61 +21,60 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TJ2 C    C  C    0  13.557 2.925  3.693
-TJ2 N    N  N    0  14.643 4.070  5.640
-TJ2 O    O  O    0  14.687 2.747  3.231
-TJ2 CA   C  CH1  0  13.345 3.802  4.954
-TJ2 CAA  C  CH3  0  10.836 1.290  1.692
-TJ2 CAB  C  CH3  0  12.861 2.375  0.738
-TJ2 CAC  C  CH3  0  13.074 0.289  2.106
-TJ2 OAD  O  O    0  14.576 2.272  7.087
-TJ2 OAE  O  O    0  10.150 5.043  7.292
-TJ2 OAG  O  OC   -1 12.259 4.961  7.754
-TJ2 CLAH CL CL   0  14.262 10.390 8.061
-TJ2 CLAI CL CL   0  11.579 9.058  0.477
-TJ2 CAJ  C  C1   0  15.108 3.283  6.623
-TJ2 CAK  C  CR16 0  14.584 8.868  5.856
-TJ2 CAL  C  CR16 0  14.897 7.769  7.965
-TJ2 CAM  C  CR16 0  12.816 6.823  1.375
-TJ2 CAN  C  CR16 0  14.861 7.670  5.199
-TJ2 CAO  C  CR16 0  15.172 6.577  7.296
-TJ2 CAP  C  CR16 0  13.097 5.845  2.307
-TJ2 CAQ  C  CR16 0  11.258 7.917  2.902
-TJ2 CAR  C  CH2  0  15.454 5.215  5.180
-TJ2 NAS  N  NH1  0  12.438 2.410  3.167
-TJ2 NAT  N  NR5  0  11.067 6.748  5.105
-TJ2 CAU  C  C    0  11.325 5.175  7.004
-TJ2 CAW  C  CR6  0  14.606 8.898  7.232
-TJ2 CAX  C  CR6  0  11.908 7.839  1.680
-TJ2 CAY  C  CR6  0  15.159 6.511  5.907
-TJ2 CAZ  C  CR5  0  11.637 5.624  5.662
-TJ2 CBA  C  CR5  0  12.507 5.045  4.736
-TJ2 CBB  C  CR56 0  11.548 6.924  3.838
-TJ2 CBC  C  CR56 0  12.463 5.876  3.564
-TJ2 CBF  C  CT   0  12.311 1.597  1.928
-TJ2 HA   H  H    0  12.823 3.242  5.577
-TJ2 HAA  H  H    0  10.315 2.110  1.768
-TJ2 HAAA H  H    0  10.526 0.648  2.355
-TJ2 HAAB H  H    0  10.718 0.915  0.801
-TJ2 HAB  H  H    0  12.487 3.274  0.737
-TJ2 HABA H  H    0  12.618 1.923  -0.089
-TJ2 HABB H  H    0  13.831 2.430  0.798
-TJ2 HAC  H  H    0  12.869 -0.090 2.980
-TJ2 HACA H  H    0  14.031 0.455  2.044
-TJ2 HACB H  H    0  12.810 -0.339 1.411
-TJ2 HAJ  H  H    0  15.950 3.539  7.019
-TJ2 HAK  H  H    0  14.384 9.644  5.367
-TJ2 HAL  H  H    0  14.909 7.802  8.904
-TJ2 HAM  H  H    0  13.238 6.802  0.536
-TJ2 HAN  H  H    0  14.845 7.648  4.257
-TJ2 HAO  H  H    0  15.372 5.805  7.797
-TJ2 HAP  H  H    0  13.708 5.162  2.104
-TJ2 HAQ  H  H    0  10.654 8.601  3.094
-TJ2 HAR  H  H    0  15.298 5.345  4.221
-TJ2 HARA H  H    0  16.405 5.000  5.297
-TJ2 HNAS H  H    0  11.693 2.547  3.602
-TJ2 HNAT H  H    0  10.485 7.270  5.499
-
+TJ2     C       C       C       0       13.557      2.925       3.693       
+TJ2     N       N       N       0       14.643      4.070       5.640       
+TJ2     O       O       O       0       14.687      2.747       3.231       
+TJ2     CA      C       CH1     0       13.345      3.802       4.954       
+TJ2     CAA     C       CH3     0       10.836      1.290       1.692       
+TJ2     CAB     C       CH3     0       12.861      2.375       0.738       
+TJ2     CAC     C       CH3     0       13.074      0.289       2.106       
+TJ2     OAD     O       O       0       14.576      2.272       7.087       
+TJ2     OAE     O       O       0       10.150      5.043       7.292       
+TJ2     OAG     O       OC      -1      12.259      4.961       7.754       
+TJ2     CLAH    CL      CL      0       14.262      10.390      8.061       
+TJ2     CLAI    CL      CL      0       11.579      9.058       0.477       
+TJ2     CAJ     C       C1      0       15.108      3.283       6.623       
+TJ2     CAK     C       CR16    0       14.584      8.868       5.856       
+TJ2     CAL     C       CR16    0       14.897      7.769       7.965       
+TJ2     CAM     C       CR16    0       12.816      6.823       1.375       
+TJ2     CAN     C       CR16    0       14.861      7.670       5.199       
+TJ2     CAO     C       CR16    0       15.172      6.577       7.296       
+TJ2     CAP     C       CR16    0       13.097      5.845       2.307       
+TJ2     CAQ     C       CR16    0       11.258      7.917       2.902       
+TJ2     CAR     C       CH2     0       15.454      5.215       5.180       
+TJ2     NAS     N       NH1     0       12.438      2.410       3.167       
+TJ2     NAT     N       NR5     0       11.067      6.748       5.105       
+TJ2     CAU     C       C       0       11.325      5.175       7.004       
+TJ2     CAW     C       CR6     0       14.606      8.898       7.232       
+TJ2     CAX     C       CR6     0       11.908      7.839       1.680       
+TJ2     CAY     C       CR6     0       15.159      6.511       5.907       
+TJ2     CAZ     C       CR5     0       11.637      5.624       5.662       
+TJ2     CBA     C       CR5     0       12.507      5.045       4.736       
+TJ2     CBB     C       CR56    0       11.548      6.924       3.838       
+TJ2     CBC     C       CR56    0       12.463      5.876       3.564       
+TJ2     CBF     C       CT      0       12.311      1.597       1.928       
+TJ2     HA      H       H       0       12.823      3.242       5.577       
+TJ2     HAA     H       H       0       10.315      2.110       1.768       
+TJ2     HAAA    H       H       0       10.526      0.648       2.355       
+TJ2     HAAB    H       H       0       10.718      0.915       0.801       
+TJ2     HAB     H       H       0       12.487      3.274       0.737       
+TJ2     HABA    H       H       0       12.618      1.923       -0.089      
+TJ2     HABB    H       H       0       13.831      2.430       0.798       
+TJ2     HAC     H       H       0       12.869      -0.090      2.980       
+TJ2     HACA    H       H       0       14.031      0.455       2.044       
+TJ2     HACB    H       H       0       12.810      -0.339      1.411       
+TJ2     HAJ     H       H       0       15.950      3.539       7.019       
+TJ2     HAK     H       H       0       14.384      9.644       5.367       
+TJ2     HAL     H       H       0       14.909      7.802       8.904       
+TJ2     HAM     H       H       0       13.238      6.802       0.536       
+TJ2     HAN     H       H       0       14.845      7.648       4.257       
+TJ2     HAO     H       H       0       15.372      5.805       7.797       
+TJ2     HAP     H       H       0       13.708      5.162       2.104       
+TJ2     HAQ     H       H       0       10.654      8.601       3.094       
+TJ2     HAR     H       H       0       15.298      5.345       4.221       
+TJ2     HARA    H       H       0       16.405      5.000       5.297       
+TJ2     HNAS    H       H       0       11.693      2.547       3.602       
+TJ2     HNAT    H       H       0       10.485      7.270       5.499       
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -84,63 +85,62 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TJ2 C    O    DOUBLE n 1.232 0.0104 1.232 0.0104
-TJ2 C    NAS  SINGLE n 1.332 0.0100 1.332 0.0100
-TJ2 C    CA   SINGLE n 1.537 0.0172 1.537 0.0172
-TJ2 N    CAR  SINGLE n 1.471 0.0100 1.471 0.0100
-TJ2 N    CA   SINGLE n 1.482 0.0110 1.482 0.0110
-TJ2 N    CAJ  SINGLE n 1.321 0.0200 1.321 0.0200
-TJ2 CA   CBA  SINGLE n 1.508 0.0100 1.508 0.0100
-TJ2 CAA  CBF  SINGLE n 1.522 0.0113 1.522 0.0113
-TJ2 CAB  CBF  SINGLE n 1.522 0.0113 1.522 0.0113
-TJ2 CAC  CBF  SINGLE n 1.522 0.0113 1.522 0.0113
-TJ2 OAD  CAJ  DOUBLE n 1.232 0.0100 1.232 0.0100
-TJ2 OAE  CAU  DOUBLE n 1.217 0.0200 1.217 0.0200
-TJ2 OAG  CAU  SINGLE n 1.217 0.0200 1.217 0.0200
-TJ2 CLAH CAW  SINGLE n 1.741 0.0100 1.741 0.0100
-TJ2 CLAI CAX  SINGLE n 1.744 0.0100 1.744 0.0100
-TJ2 CAK  CAN  DOUBLE y 1.380 0.0199 1.380 0.0199
-TJ2 CAK  CAW  SINGLE y 1.373 0.0107 1.373 0.0107
-TJ2 CAL  CAW  DOUBLE y 1.373 0.0107 1.373 0.0107
-TJ2 CAL  CAO  SINGLE y 1.380 0.0199 1.380 0.0199
-TJ2 CAM  CAX  DOUBLE y 1.395 0.0100 1.395 0.0100
-TJ2 CAM  CAP  SINGLE y 1.376 0.0100 1.376 0.0100
-TJ2 CAN  CAY  SINGLE y 1.386 0.0100 1.386 0.0100
-TJ2 CAO  CAY  DOUBLE y 1.386 0.0100 1.386 0.0100
-TJ2 CAP  CBC  DOUBLE y 1.401 0.0100 1.401 0.0100
-TJ2 CAQ  CAX  SINGLE y 1.385 0.0100 1.385 0.0100
-TJ2 CAQ  CBB  DOUBLE y 1.392 0.0100 1.392 0.0100
-TJ2 CAR  CAY  SINGLE n 1.512 0.0100 1.512 0.0100
-TJ2 NAS  CBF  SINGLE n 1.480 0.0102 1.480 0.0102
-TJ2 NAT  CBB  SINGLE y 1.366 0.0100 1.366 0.0100
-TJ2 NAT  CAZ  SINGLE y 1.379 0.0100 1.379 0.0100
-TJ2 CAU  CAZ  SINGLE n 1.447 0.0200 1.447 0.0200
-TJ2 CAZ  CBA  DOUBLE y 1.395 0.0200 1.395 0.0200
-TJ2 CBA  CBC  SINGLE y 1.433 0.0100 1.433 0.0100
-TJ2 CBB  CBC  SINGLE y 1.411 0.0100 1.411 0.0100
-TJ2 CA   HA   SINGLE n 1.089 0.0100 0.988 0.0188
-TJ2 CAA  HAA  SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAA  HAAA SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAA  HAAB SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAB  HAB  SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAB  HABA SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAB  HABB SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAC  HAC  SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAC  HACA SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAC  HACB SINGLE n 1.089 0.0100 0.974 0.0147
-TJ2 CAJ  HAJ  SINGLE n 1.082 0.0130 0.964 0.0200
-TJ2 CAK  HAK  SINGLE n 1.082 0.0130 0.939 0.0176
-TJ2 CAL  HAL  SINGLE n 1.082 0.0130 0.939 0.0176
-TJ2 CAM  HAM  SINGLE n 1.082 0.0130 0.939 0.0105
-TJ2 CAN  HAN  SINGLE n 1.082 0.0130 0.943 0.0173
-TJ2 CAO  HAO  SINGLE n 1.082 0.0130 0.943 0.0173
-TJ2 CAP  HAP  SINGLE n 1.082 0.0130 0.942 0.0182
-TJ2 CAQ  HAQ  SINGLE n 1.082 0.0130 0.932 0.0200
-TJ2 CAR  HAR  SINGLE n 1.089 0.0100 0.981 0.0161
-TJ2 CAR  HARA SINGLE n 1.089 0.0100 0.981 0.0161
-TJ2 NAS  HNAS SINGLE n 1.016 0.0100 0.872 0.0200
-TJ2 NAT  HNAT SINGLE n 1.016 0.0100 0.876 0.0200
-
+TJ2           C           O      DOUBLE       n     1.232  0.0104     1.232  0.0104
+TJ2           C         NAS      SINGLE       n     1.332  0.0100     1.332  0.0100
+TJ2           C          CA      SINGLE       n     1.537  0.0172     1.537  0.0172
+TJ2           N         CAR      SINGLE       n     1.471  0.0100     1.471  0.0100
+TJ2           N          CA      SINGLE       n     1.482  0.0110     1.482  0.0110
+TJ2           N         CAJ      SINGLE       n     1.321  0.0200     1.321  0.0200
+TJ2          CA         CBA      SINGLE       n     1.508  0.0100     1.508  0.0100
+TJ2         CAA         CBF      SINGLE       n     1.522  0.0113     1.522  0.0113
+TJ2         CAB         CBF      SINGLE       n     1.522  0.0113     1.522  0.0113
+TJ2         CAC         CBF      SINGLE       n     1.522  0.0113     1.522  0.0113
+TJ2         OAD         CAJ      DOUBLE       n     1.232  0.0100     1.232  0.0100
+TJ2         OAE         CAU      DOUBLE       n     1.217  0.0200     1.217  0.0200
+TJ2         OAG         CAU      SINGLE       n     1.217  0.0200     1.217  0.0200
+TJ2        CLAH         CAW      SINGLE       n     1.741  0.0100     1.741  0.0100
+TJ2        CLAI         CAX      SINGLE       n     1.744  0.0100     1.744  0.0100
+TJ2         CAK         CAN      DOUBLE       y     1.380  0.0199     1.380  0.0199
+TJ2         CAK         CAW      SINGLE       y     1.373  0.0107     1.373  0.0107
+TJ2         CAL         CAW      DOUBLE       y     1.373  0.0107     1.373  0.0107
+TJ2         CAL         CAO      SINGLE       y     1.380  0.0199     1.380  0.0199
+TJ2         CAM         CAX      DOUBLE       y     1.395  0.0100     1.395  0.0100
+TJ2         CAM         CAP      SINGLE       y     1.376  0.0100     1.376  0.0100
+TJ2         CAN         CAY      SINGLE       y     1.386  0.0100     1.386  0.0100
+TJ2         CAO         CAY      DOUBLE       y     1.386  0.0100     1.386  0.0100
+TJ2         CAP         CBC      DOUBLE       y     1.401  0.0100     1.401  0.0100
+TJ2         CAQ         CAX      SINGLE       y     1.385  0.0100     1.385  0.0100
+TJ2         CAQ         CBB      DOUBLE       y     1.392  0.0100     1.392  0.0100
+TJ2         CAR         CAY      SINGLE       n     1.512  0.0100     1.512  0.0100
+TJ2         NAS         CBF      SINGLE       n     1.480  0.0102     1.480  0.0102
+TJ2         NAT         CBB      SINGLE       y     1.366  0.0100     1.366  0.0100
+TJ2         NAT         CAZ      SINGLE       y     1.379  0.0100     1.379  0.0100
+TJ2         CAU         CAZ      SINGLE       n     1.447  0.0200     1.447  0.0200
+TJ2         CAZ         CBA      DOUBLE       y     1.395  0.0200     1.395  0.0200
+TJ2         CBA         CBC      SINGLE       y     1.433  0.0100     1.433  0.0100
+TJ2         CBB         CBC      SINGLE       y     1.411  0.0100     1.411  0.0100
+TJ2          CA          HA      SINGLE       n     1.089  0.0100     0.988  0.0188
+TJ2         CAA         HAA      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAA        HAAA      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAA        HAAB      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAB         HAB      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAB        HABA      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAB        HABB      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAC         HAC      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAC        HACA      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAC        HACB      SINGLE       n     1.089  0.0100     0.974  0.0147
+TJ2         CAJ         HAJ      SINGLE       n     1.082  0.0130     0.964  0.0200
+TJ2         CAK         HAK      SINGLE       n     1.082  0.0130     0.939  0.0176
+TJ2         CAL         HAL      SINGLE       n     1.082  0.0130     0.939  0.0176
+TJ2         CAM         HAM      SINGLE       n     1.082  0.0130     0.939  0.0105
+TJ2         CAN         HAN      SINGLE       n     1.082  0.0130     0.943  0.0173
+TJ2         CAO         HAO      SINGLE       n     1.082  0.0130     0.943  0.0173
+TJ2         CAP         HAP      SINGLE       n     1.082  0.0130     0.942  0.0182
+TJ2         CAQ         HAQ      SINGLE       n     1.082  0.0130     0.932  0.0200
+TJ2         CAR         HAR      SINGLE       n     1.089  0.0100     0.981  0.0161
+TJ2         CAR        HARA      SINGLE       n     1.089  0.0100     0.981  0.0161
+TJ2         NAS        HNAS      SINGLE       n     1.016  0.0100     0.872  0.0200
+TJ2         NAT        HNAT      SINGLE       n     1.016  0.0100     0.876  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -148,103 +148,102 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TJ2 O    C   NAS  123.405 1.50
-TJ2 O    C   CA   121.498 1.50
-TJ2 NAS  C   CA   115.097 1.50
-TJ2 CAR  N   CA   117.068 2.02
-TJ2 CAR  N   CAJ  120.961 3.00
-TJ2 CA   N   CAJ  121.970 2.35
-TJ2 C    CA  N    111.249 2.34
-TJ2 C    CA  CBA  110.750 3.00
-TJ2 C    CA  HA   107.080 1.56
-TJ2 N    CA  CBA  112.515 2.05
-TJ2 N    CA  HA   106.339 1.50
-TJ2 CBA  CA  HA   106.873 1.50
-TJ2 CBF  CAA HAA  109.538 1.50
-TJ2 CBF  CAA HAAA 109.538 1.50
-TJ2 CBF  CAA HAAB 109.538 1.50
-TJ2 HAA  CAA HAAA 109.412 1.50
-TJ2 HAA  CAA HAAB 109.412 1.50
-TJ2 HAAA CAA HAAB 109.412 1.50
-TJ2 CBF  CAB HAB  109.538 1.50
-TJ2 CBF  CAB HABA 109.538 1.50
-TJ2 CBF  CAB HABB 109.538 1.50
-TJ2 HAB  CAB HABA 109.412 1.50
-TJ2 HAB  CAB HABB 109.412 1.50
-TJ2 HABA CAB HABB 109.412 1.50
-TJ2 CBF  CAC HAC  109.538 1.50
-TJ2 CBF  CAC HACA 109.538 1.50
-TJ2 CBF  CAC HACB 109.538 1.50
-TJ2 HAC  CAC HACA 109.412 1.50
-TJ2 HAC  CAC HACB 109.412 1.50
-TJ2 HACA CAC HACB 109.412 1.50
-TJ2 N    CAJ OAD  125.247 3.00
-TJ2 N    CAJ HAJ  116.966 2.36
-TJ2 OAD  CAJ HAJ  117.787 2.29
-TJ2 CAN  CAK CAW  119.052 1.50
-TJ2 CAN  CAK HAK  120.502 1.50
-TJ2 CAW  CAK HAK  120.446 1.50
-TJ2 CAW  CAL CAO  119.052 1.50
-TJ2 CAW  CAL HAL  120.446 1.50
-TJ2 CAO  CAL HAL  120.502 1.50
-TJ2 CAX  CAM CAP  120.246 1.50
-TJ2 CAX  CAM HAM  120.135 1.50
-TJ2 CAP  CAM HAM  119.619 1.50
-TJ2 CAK  CAN CAY  121.093 1.50
-TJ2 CAK  CAN HAN  119.404 1.50
-TJ2 CAY  CAN HAN  119.503 1.50
-TJ2 CAL  CAO CAY  121.093 1.50
-TJ2 CAL  CAO HAO  119.404 1.50
-TJ2 CAY  CAO HAO  119.503 1.50
-TJ2 CAM  CAP CBC  119.032 1.50
-TJ2 CAM  CAP HAP  120.806 1.50
-TJ2 CBC  CAP HAP  120.163 1.50
-TJ2 CAX  CAQ CBB  116.952 1.50
-TJ2 CAX  CAQ HAQ  121.814 1.50
-TJ2 CBB  CAQ HAQ  121.235 1.50
-TJ2 N    CAR CAY  113.064 1.52
-TJ2 N    CAR HAR  108.852 1.50
-TJ2 N    CAR HARA 108.852 1.50
-TJ2 CAY  CAR HAR  108.961 1.50
-TJ2 CAY  CAR HARA 108.961 1.50
-TJ2 HAR  CAR HARA 107.928 1.50
-TJ2 C    NAS CBF  125.450 1.50
-TJ2 C    NAS HNAS 118.061 1.94
-TJ2 CBF  NAS HNAS 116.490 2.34
-TJ2 CBB  NAT CAZ  108.973 1.50
-TJ2 CBB  NAT HNAT 125.402 1.50
-TJ2 CAZ  NAT HNAT 125.625 1.50
-TJ2 OAE  CAU OAG  125.182 1.50
-TJ2 OAE  CAU CAZ  117.409 1.50
-TJ2 OAG  CAU CAZ  117.409 1.50
-TJ2 CLAH CAW CAK  119.363 1.50
-TJ2 CLAH CAW CAL  119.363 1.50
-TJ2 CAK  CAW CAL  121.273 1.50
-TJ2 CLAI CAX CAM  118.364 1.50
-TJ2 CLAI CAX CAQ  118.307 1.50
-TJ2 CAM  CAX CAQ  123.329 1.50
-TJ2 CAN  CAY CAO  118.446 1.50
-TJ2 CAN  CAY CAR  120.772 1.50
-TJ2 CAO  CAY CAR  120.772 1.50
-TJ2 NAT  CAZ CAU  123.100 1.64
-TJ2 NAT  CAZ CBA  108.897 1.50
-TJ2 CAU  CAZ CBA  128.003 2.82
-TJ2 CA   CBA CAZ  128.279 2.25
-TJ2 CA   CBA CBC  124.650 1.91
-TJ2 CAZ  CBA CBC  107.071 1.50
-TJ2 CAQ  CBB NAT  130.628 1.50
-TJ2 CAQ  CBB CBC  121.689 1.50
-TJ2 NAT  CBB CBC  107.684 1.50
-TJ2 CAP  CBC CBA  133.872 1.50
-TJ2 CAP  CBC CBB  118.752 1.50
-TJ2 CBA  CBC CBB  107.376 1.50
-TJ2 CAA  CBF CAB  110.075 1.50
-TJ2 CAA  CBF CAC  110.075 1.50
-TJ2 CAA  CBF NAS  108.669 1.83
-TJ2 CAB  CBF CAC  110.075 1.50
-TJ2 CAB  CBF NAS  108.669 1.83
-TJ2 CAC  CBF NAS  108.669 1.83
-
+TJ2           O           C         NAS     123.405    1.50
+TJ2           O           C          CA     121.498    1.50
+TJ2         NAS           C          CA     115.097    1.50
+TJ2         CAR           N          CA     117.068    2.02
+TJ2         CAR           N         CAJ     120.961    3.00
+TJ2          CA           N         CAJ     121.970    2.35
+TJ2           C          CA           N     111.249    2.34
+TJ2           C          CA         CBA     110.750    3.00
+TJ2           C          CA          HA     107.080    1.56
+TJ2           N          CA         CBA     112.515    2.05
+TJ2           N          CA          HA     106.339    1.50
+TJ2         CBA          CA          HA     106.873    1.50
+TJ2         CBF         CAA         HAA     109.538    1.50
+TJ2         CBF         CAA        HAAA     109.538    1.50
+TJ2         CBF         CAA        HAAB     109.538    1.50
+TJ2         HAA         CAA        HAAA     109.412    1.50
+TJ2         HAA         CAA        HAAB     109.412    1.50
+TJ2        HAAA         CAA        HAAB     109.412    1.50
+TJ2         CBF         CAB         HAB     109.538    1.50
+TJ2         CBF         CAB        HABA     109.538    1.50
+TJ2         CBF         CAB        HABB     109.538    1.50
+TJ2         HAB         CAB        HABA     109.412    1.50
+TJ2         HAB         CAB        HABB     109.412    1.50
+TJ2        HABA         CAB        HABB     109.412    1.50
+TJ2         CBF         CAC         HAC     109.538    1.50
+TJ2         CBF         CAC        HACA     109.538    1.50
+TJ2         CBF         CAC        HACB     109.538    1.50
+TJ2         HAC         CAC        HACA     109.412    1.50
+TJ2         HAC         CAC        HACB     109.412    1.50
+TJ2        HACA         CAC        HACB     109.412    1.50
+TJ2           N         CAJ         OAD     125.247    3.00
+TJ2           N         CAJ         HAJ     116.966    2.36
+TJ2         OAD         CAJ         HAJ     117.787    2.29
+TJ2         CAN         CAK         CAW     119.052    1.50
+TJ2         CAN         CAK         HAK     120.502    1.50
+TJ2         CAW         CAK         HAK     120.446    1.50
+TJ2         CAW         CAL         CAO     119.052    1.50
+TJ2         CAW         CAL         HAL     120.446    1.50
+TJ2         CAO         CAL         HAL     120.502    1.50
+TJ2         CAX         CAM         CAP     120.246    1.50
+TJ2         CAX         CAM         HAM     120.135    1.50
+TJ2         CAP         CAM         HAM     119.619    1.50
+TJ2         CAK         CAN         CAY     121.093    1.50
+TJ2         CAK         CAN         HAN     119.404    1.50
+TJ2         CAY         CAN         HAN     119.503    1.50
+TJ2         CAL         CAO         CAY     121.093    1.50
+TJ2         CAL         CAO         HAO     119.404    1.50
+TJ2         CAY         CAO         HAO     119.503    1.50
+TJ2         CAM         CAP         CBC     119.032    1.50
+TJ2         CAM         CAP         HAP     120.806    1.50
+TJ2         CBC         CAP         HAP     120.163    1.50
+TJ2         CAX         CAQ         CBB     116.952    1.50
+TJ2         CAX         CAQ         HAQ     121.814    1.50
+TJ2         CBB         CAQ         HAQ     121.235    1.50
+TJ2           N         CAR         CAY     113.064    1.52
+TJ2           N         CAR         HAR     108.852    1.50
+TJ2           N         CAR        HARA     108.852    1.50
+TJ2         CAY         CAR         HAR     108.961    1.50
+TJ2         CAY         CAR        HARA     108.961    1.50
+TJ2         HAR         CAR        HARA     107.928    1.50
+TJ2           C         NAS         CBF     125.450    1.50
+TJ2           C         NAS        HNAS     118.061    1.94
+TJ2         CBF         NAS        HNAS     116.490    2.34
+TJ2         CBB         NAT         CAZ     108.973    1.50
+TJ2         CBB         NAT        HNAT     125.402    1.50
+TJ2         CAZ         NAT        HNAT     125.625    1.50
+TJ2         OAE         CAU         OAG     125.182    1.50
+TJ2         OAE         CAU         CAZ     117.409    1.50
+TJ2         OAG         CAU         CAZ     117.409    1.50
+TJ2        CLAH         CAW         CAK     119.363    1.50
+TJ2        CLAH         CAW         CAL     119.363    1.50
+TJ2         CAK         CAW         CAL     121.273    1.50
+TJ2        CLAI         CAX         CAM     118.364    1.50
+TJ2        CLAI         CAX         CAQ     118.307    1.50
+TJ2         CAM         CAX         CAQ     123.329    1.50
+TJ2         CAN         CAY         CAO     118.446    1.50
+TJ2         CAN         CAY         CAR     120.772    1.50
+TJ2         CAO         CAY         CAR     120.772    1.50
+TJ2         NAT         CAZ         CAU     123.100    1.64
+TJ2         NAT         CAZ         CBA     108.897    1.50
+TJ2         CAU         CAZ         CBA     128.003    2.82
+TJ2          CA         CBA         CAZ     128.279    2.25
+TJ2          CA         CBA         CBC     124.650    1.91
+TJ2         CAZ         CBA         CBC     107.071    1.50
+TJ2         CAQ         CBB         NAT     130.628    1.50
+TJ2         CAQ         CBB         CBC     121.689    1.50
+TJ2         NAT         CBB         CBC     107.684    1.50
+TJ2         CAP         CBC         CBA     133.872    1.50
+TJ2         CAP         CBC         CBB     118.752    1.50
+TJ2         CBA         CBC         CBB     107.376    1.50
+TJ2         CAA         CBF         CAB     110.075    1.50
+TJ2         CAA         CBF         CAC     110.075    1.50
+TJ2         CAA         CBF         NAS     108.669    1.83
+TJ2         CAB         CBF         CAC     110.075    1.50
+TJ2         CAB         CBF         NAS     108.669    1.83
+TJ2         CAC         CBF         NAS     108.669    1.83
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -255,35 +254,34 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TJ2 sp2_sp2_3       O   C   NAS CBF  0.000   5.0  2
-TJ2 sp2_sp3_1       O   C   CA  N    0.000   10.0 6
-TJ2 const_sp2_sp2_1 CAW CAK CAN CAY  0.000   5.0  2
-TJ2 const_54        CAN CAK CAW CLAH 180.000 10.0 2
-TJ2 const_13        CAW CAL CAO CAY  0.000   10.0 2
-TJ2 const_18        CAO CAL CAW CLAH 180.000 10.0 2
-TJ2 const_57        CAX CAM CAP CBC  0.000   10.0 2
-TJ2 const_22        CAP CAM CAX CLAI 180.000 10.0 2
-TJ2 const_sp2_sp2_6 CAK CAN CAY CAR  180.000 5.0  2
-TJ2 const_10        CAL CAO CAY CAR  180.000 10.0 2
-TJ2 const_38        CAM CAP CBC CBA  180.000 10.0 2
-TJ2 const_26        CBB CAQ CAX CLAI 180.000 10.0 2
-TJ2 const_30        CAX CAQ CBB NAT  180.000 10.0 2
-TJ2 sp2_sp2_5       OAD CAJ N   CAR  180.000 5.0  2
-TJ2 sp2_sp3_8       CA  N   CAR CAY  120.000 10.0 6
-TJ2 sp2_sp3_13      CAR N   CA  C    0.000   10.0 6
-TJ2 sp2_sp3_26      CAN CAY CAR N    -90.000 10.0 6
-TJ2 sp2_sp3_32      C   NAS CBF CAA  120.000 10.0 6
-TJ2 const_63        CAU CAZ NAT CBB  180.000 10.0 2
-TJ2 const_43        CAQ CBB NAT CAZ  180.000 10.0 2
-TJ2 sp2_sp2_9       OAE CAU CAZ NAT  180.000 5.0  2
-TJ2 const_52        CAU CAZ CBA CA   0.000   10.0 2
-TJ2 const_48        CA  CBA CBC CAP  0.000   10.0 2
-TJ2 const_33        CAQ CBB CBC CAP  0.000   10.0 2
-TJ2 sp2_sp3_19      CAZ CBA CA  C    150.000 10.0 6
-TJ2 sp3_sp3_2       HAA CAA CBF CAB  -60.000 10.0 3
-TJ2 sp3_sp3_10      HAB CAB CBF CAA  180.000 10.0 3
-TJ2 sp3_sp3_20      HAC CAC CBF CAA  -60.000 10.0 3
-
+TJ2             sp2_sp2_3           O           C         NAS         CBF       0.000     5.0     2
+TJ2             sp2_sp3_1           O           C          CA           N       0.000    10.0     6
+TJ2       const_sp2_sp2_1         CAW         CAK         CAN         CAY       0.000     5.0     2
+TJ2              const_54         CAN         CAK         CAW        CLAH     180.000    10.0     2
+TJ2              const_13         CAW         CAL         CAO         CAY       0.000    10.0     2
+TJ2              const_18         CAO         CAL         CAW        CLAH     180.000    10.0     2
+TJ2              const_57         CAX         CAM         CAP         CBC       0.000    10.0     2
+TJ2              const_22         CAP         CAM         CAX        CLAI     180.000    10.0     2
+TJ2       const_sp2_sp2_6         CAK         CAN         CAY         CAR     180.000     5.0     2
+TJ2              const_10         CAL         CAO         CAY         CAR     180.000    10.0     2
+TJ2              const_38         CAM         CAP         CBC         CBA     180.000    10.0     2
+TJ2              const_26         CBB         CAQ         CAX        CLAI     180.000    10.0     2
+TJ2              const_30         CAX         CAQ         CBB         NAT     180.000    10.0     2
+TJ2             sp2_sp2_5         OAD         CAJ           N         CAR     180.000     5.0     2
+TJ2             sp2_sp3_8          CA           N         CAR         CAY     120.000    10.0     6
+TJ2            sp2_sp3_13         CAR           N          CA           C       0.000    10.0     6
+TJ2            sp2_sp3_26         CAN         CAY         CAR           N     -90.000    10.0     6
+TJ2            sp2_sp3_32           C         NAS         CBF         CAA     120.000    10.0     6
+TJ2              const_63         CAU         CAZ         NAT         CBB     180.000    10.0     2
+TJ2              const_43         CAQ         CBB         NAT         CAZ     180.000    10.0     2
+TJ2             sp2_sp2_9         OAE         CAU         CAZ         NAT     180.000     5.0     2
+TJ2              const_52         CAU         CAZ         CBA          CA       0.000    10.0     2
+TJ2              const_48          CA         CBA         CBC         CAP       0.000    10.0     2
+TJ2              const_33         CAQ         CBB         CBC         CAP       0.000    10.0     2
+TJ2            sp2_sp3_19         CAZ         CBA          CA           C     150.000    10.0     6
+TJ2             sp3_sp3_2         HAA         CAA         CBF         CAB     -60.000    10.0     3
+TJ2            sp3_sp3_10         HAB         CAB         CBF         CAA     180.000    10.0     3
+TJ2            sp3_sp3_20         HAC         CAC         CBF         CAA     -60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -292,96 +290,80 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TJ2 chir_1 CA  N   C   CBA positive
-TJ2 chir_2 CBF NAS CAA CAB both
-
+TJ2    chir_1    CA    N    C    CBA    positive
+TJ2    chir_2    CBF    NAS    CAA    CAB    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TJ2 plan-1 CA   0.020
-TJ2 plan-1 CAM  0.020
-TJ2 plan-1 CAP  0.020
-TJ2 plan-1 CAQ  0.020
-TJ2 plan-1 CAU  0.020
-TJ2 plan-1 CAX  0.020
-TJ2 plan-1 CAZ  0.020
-TJ2 plan-1 CBA  0.020
-TJ2 plan-1 CBB  0.020
-TJ2 plan-1 CBC  0.020
-TJ2 plan-1 CLAI 0.020
-TJ2 plan-1 HAM  0.020
-TJ2 plan-1 HAP  0.020
-TJ2 plan-1 HAQ  0.020
-TJ2 plan-1 HNAT 0.020
-TJ2 plan-1 NAT  0.020
-TJ2 plan-2 CAK  0.020
-TJ2 plan-2 CAL  0.020
-TJ2 plan-2 CAN  0.020
-TJ2 plan-2 CAO  0.020
-TJ2 plan-2 CAR  0.020
-TJ2 plan-2 CAW  0.020
-TJ2 plan-2 CAY  0.020
-TJ2 plan-2 CLAH 0.020
-TJ2 plan-2 HAK  0.020
-TJ2 plan-2 HAL  0.020
-TJ2 plan-2 HAN  0.020
-TJ2 plan-2 HAO  0.020
-TJ2 plan-3 C    0.020
-TJ2 plan-3 CA   0.020
-TJ2 plan-3 NAS  0.020
-TJ2 plan-3 O    0.020
-TJ2 plan-4 CA   0.020
-TJ2 plan-4 CAJ  0.020
-TJ2 plan-4 CAR  0.020
-TJ2 plan-4 N    0.020
-TJ2 plan-5 CAJ  0.020
-TJ2 plan-5 HAJ  0.020
-TJ2 plan-5 N    0.020
-TJ2 plan-5 OAD  0.020
-TJ2 plan-6 C    0.020
-TJ2 plan-6 CBF  0.020
-TJ2 plan-6 HNAS 0.020
-TJ2 plan-6 NAS  0.020
-TJ2 plan-7 CAU  0.020
-TJ2 plan-7 CAZ  0.020
-TJ2 plan-7 OAE  0.020
-TJ2 plan-7 OAG  0.020
-
+TJ2    plan-1          CA   0.020
+TJ2    plan-1         CAM   0.020
+TJ2    plan-1         CAP   0.020
+TJ2    plan-1         CAQ   0.020
+TJ2    plan-1         CAU   0.020
+TJ2    plan-1         CAX   0.020
+TJ2    plan-1         CAZ   0.020
+TJ2    plan-1         CBA   0.020
+TJ2    plan-1         CBB   0.020
+TJ2    plan-1         CBC   0.020
+TJ2    plan-1        CLAI   0.020
+TJ2    plan-1         HAM   0.020
+TJ2    plan-1         HAP   0.020
+TJ2    plan-1         HAQ   0.020
+TJ2    plan-1        HNAT   0.020
+TJ2    plan-1         NAT   0.020
+TJ2    plan-2         CAK   0.020
+TJ2    plan-2         CAL   0.020
+TJ2    plan-2         CAN   0.020
+TJ2    plan-2         CAO   0.020
+TJ2    plan-2         CAR   0.020
+TJ2    plan-2         CAW   0.020
+TJ2    plan-2         CAY   0.020
+TJ2    plan-2        CLAH   0.020
+TJ2    plan-2         HAK   0.020
+TJ2    plan-2         HAL   0.020
+TJ2    plan-2         HAN   0.020
+TJ2    plan-2         HAO   0.020
+TJ2    plan-3           C   0.020
+TJ2    plan-3          CA   0.020
+TJ2    plan-3         NAS   0.020
+TJ2    plan-3           O   0.020
+TJ2    plan-4          CA   0.020
+TJ2    plan-4         CAJ   0.020
+TJ2    plan-4         CAR   0.020
+TJ2    plan-4           N   0.020
+TJ2    plan-5         CAJ   0.020
+TJ2    plan-5         HAJ   0.020
+TJ2    plan-5           N   0.020
+TJ2    plan-5         OAD   0.020
+TJ2    plan-6           C   0.020
+TJ2    plan-6         CBF   0.020
+TJ2    plan-6        HNAS   0.020
+TJ2    plan-6         NAS   0.020
+TJ2    plan-7         CAU   0.020
+TJ2    plan-7         CAZ   0.020
+TJ2    plan-7         OAE   0.020
+TJ2    plan-7         OAG   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TJ2 SMILES           ACDLabs              12.01 Clc1ccc(cc1)CN(C=O)C(c3c2ccc(Cl)cc2nc3C(=O)O)C(=O)NC(C)(C)C
-TJ2 InChI            InChI                1.03  InChI=1S/C23H23Cl2N3O4/c1-23(2,3)27-21(30)20(28(12-29)11-13-4-6-14(24)7-5-13)18-16-9-8-15(25)10-17(16)26-19(18)22(31)32/h4-10,12,20,26H,11H2,1-3H3,(H,27,30)(H,31,32)/t20-/m0/s1
-TJ2 InChIKey         InChI                1.03  ZAOJHZGIRKVCBH-FQEVSTJZSA-N
-TJ2 SMILES_CANONICAL CACTVS               3.370 CC(C)(C)NC(=O)[C@@H](N(Cc1ccc(Cl)cc1)C=O)c2c([nH]c3cc(Cl)ccc23)C(O)=O
-TJ2 SMILES           CACTVS               3.370 CC(C)(C)NC(=O)[CH](N(Cc1ccc(Cl)cc1)C=O)c2c([nH]c3cc(Cl)ccc23)C(O)=O
-TJ2 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2 CC(C)(C)NC(=O)[C@H](c1c2ccc(cc2[nH]c1C(=O)O)Cl)N(Cc3ccc(cc3)Cl)C=O
-TJ2 SMILES           "OpenEye OEToolkits" 1.7.2 CC(C)(C)NC(=O)C(c1c2ccc(cc2[nH]c1C(=O)O)Cl)N(Cc3ccc(cc3)Cl)C=O
-
+TJ2           SMILES              ACDLabs 12.01                                                                                                                      Clc1ccc(cc1)CN(C=O)C(c3c2ccc(Cl)cc2nc3C(=O)O)C(=O)NC(C)(C)C
+TJ2            InChI                InChI  1.03 InChI=1S/C23H23Cl2N3O4/c1-23(2,3)27-21(30)20(28(12-29)11-13-4-6-14(24)7-5-13)18-16-9-8-15(25)10-17(16)26-19(18)22(31)32/h4-10,12,20,26H,11H2,1-3H3,(H,27,30)(H,31,32)/t20-/m0/s1
+TJ2         InChIKey                InChI  1.03                                                                                                                                                      ZAOJHZGIRKVCBH-FQEVSTJZSA-N
+TJ2 SMILES_CANONICAL               CACTVS 3.370                                                                                                            CC(C)(C)NC(=O)[C@@H](N(Cc1ccc(Cl)cc1)C=O)c2c([nH]c3cc(Cl)ccc23)C(O)=O
+TJ2           SMILES               CACTVS 3.370                                                                                                              CC(C)(C)NC(=O)[CH](N(Cc1ccc(Cl)cc1)C=O)c2c([nH]c3cc(Cl)ccc23)C(O)=O
+TJ2 SMILES_CANONICAL "OpenEye OEToolkits" 1.7.2                                                                                                               CC(C)(C)NC(=O)[C@H](c1c2ccc(cc2[nH]c1C(=O)O)Cl)N(Cc3ccc(cc3)Cl)C=O
+TJ2           SMILES "OpenEye OEToolkits" 1.7.2                                                                                                                   CC(C)(C)NC(=O)C(c1c2ccc(cc2[nH]c1C(=O)O)Cl)N(Cc3ccc(cc3)Cl)C=O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TJ2 acedrg          243       "dictionary generator"
-TJ2 acedrg_database 11        "data source"
-TJ2 rdkit           2017.03.2 "Chemoinformatics tool"
-TJ2 refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-TJ2 P-peptide NAT  N
-TJ2 P-peptide CAZ  CA
-TJ2 P-peptide CAU  C
-TJ2 P-peptide OAE  O
-TJ2 P-peptide CBB  CD
-TJ2 P-peptide OAG  OXT
-TJ2 P-peptide HNAT H
+TJ2 acedrg               243         "dictionary generator"                  
+TJ2 acedrg_database      11          "data source"                           
+TJ2 rdkit                2017.03.2   "Chemoinformatics tool"
+TJ2 refmac5              5.8.0238    "optimization tool"                     

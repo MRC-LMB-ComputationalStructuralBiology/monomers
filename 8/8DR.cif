@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-8DR 8DR "(S)-2-(3-(benzo[c][1,2,5]thiadiazole-4-sulfonamido)thiophene-2-carboxamido)-5-guanidinopentanoic acid" NON-POLYMER 51 32 .
-
+8DR     8DR      "(S)-2-(3-(benzo[c][1,2,5]thiadiazole-4-sulfonamido)thiophene-2-carboxamido)-5-guanidinopentanoic acid"     NON-POLYMER     51     32     .     
+#
 data_comp_8DR
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,58 +21,57 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-8DR C    C C    0  -5.510 -10.361 -12.402
-8DR N    N NH1  0  -4.838 -9.582  -14.635
-8DR O    O O    0  -6.497 -11.015 -12.006
-8DR CA   C CH1  0  -4.902 -10.751 -13.762
-8DR CB   C CH2  0  -3.519 -11.386 -13.575
-8DR CD   C CH2  0  -2.232 -13.490 -13.021
-8DR NE   N NH1  0  -2.204 -14.707 -12.215
-8DR CG   C CH2  0  -3.562 -12.765 -12.931
-8DR CZ   C C    0  -2.799 -15.868 -12.513
-8DR OAD  O O    0  -4.605 -10.777 -16.531
-8DR OAE  O O    0  -5.999 -5.487  -13.180
-8DR OAF  O O    0  -6.682 -4.420  -15.293
-8DR CAH  C CR16 0  -2.513 -3.540  -16.044
-8DR CAI  C CR15 0  -5.173 -6.979  -18.738
-8DR CAJ  C CR16 0  -3.830 -3.883  -15.782
-8DR CAK  C CR15 0  -5.687 -6.376  -17.637
-8DR CAL  C CR16 0  -1.460 -4.204  -15.461
-8DR NAP  N NRD5 0  -0.900 -6.037  -13.902
-8DR NAQ  N NRD5 0  -3.178 -6.629  -13.451
-8DR NAT  N NH1  0  -6.114 -6.812  -15.240
-8DR SAU  S S2   0  -1.698 -7.126  -12.999
-8DR SAV  S S2   0  -4.650 -8.521  -18.399
-8DR CAY  C C    0  -4.784 -9.693  -15.972
-8DR CAZ  C CR5  0  -5.627 -7.221  -16.495
-8DR CBA  C CR6  0  -4.151 -4.928  -14.911
-8DR CBB  C CR5  0  -5.042 -8.482  -16.776
-8DR CBC  C CR56 0  -1.742 -5.270  -14.567
-8DR CBD  C CR56 0  -3.100 -5.621  -14.299
-8DR SBF  S S3   0  -5.841 -5.340  -14.592
-8DR NH1  N NH2  0  -2.706 -16.883 -11.667
-8DR NH2  N NH2  1  -3.486 -16.028 -13.637
-8DR OXT  O OC   -1 -4.974 -9.418  -11.787
-8DR HN   H H    0  -4.781 -8.791  -14.272
-8DR HA   H H    0  -5.496 -11.427 -14.180
-8DR HB   H H    0  -2.975 -10.793 -13.017
-8DR HBA  H H    0  -3.083 -11.461 -14.449
-8DR HD   H H    0  -2.045 -13.713 -13.957
-8DR HDA  H H    0  -1.521 -12.888 -12.712
-8DR HNE  H H    0  -1.753 -14.672 -11.469
-8DR HG   H H    0  -4.252 -13.306 -13.371
-8DR HGA  H H    0  -3.809 -12.674 -11.986
-8DR HAH  H H    0  -2.329 -2.832  -16.638
-8DR HAI  H H    0  -5.103 -6.617  -19.605
-8DR HAJ  H H    0  -4.517 -3.407  -16.199
-8DR HAK  H H    0  -6.038 -5.503  -17.628
-8DR HAL  H H    0  -0.572 -3.960  -15.649
-8DR HNAT H H    0  -6.592 -7.366  -14.787
-8DR HNH1 H H    0  -3.094 -17.651 -11.855
-8DR HNHA H H    0  -2.258 -16.794 -10.912
-8DR HNH2 H H    0  -3.872 -16.800 -13.807
-8DR HH3  H H    0  -3.562 -15.380 -14.218
-
+8DR     C       C       C       0       -5.510      -10.361     -12.402     
+8DR     N       N       NH1     0       -4.838      -9.582      -14.635     
+8DR     O       O       O       0       -6.497      -11.015     -12.006     
+8DR     CA      C       CH1     0       -4.902      -10.751     -13.762     
+8DR     CB      C       CH2     0       -3.519      -11.386     -13.575     
+8DR     CD      C       CH2     0       -2.232      -13.490     -13.021     
+8DR     NE      N       NH1     0       -2.204      -14.707     -12.215     
+8DR     CG      C       CH2     0       -3.562      -12.765     -12.931     
+8DR     CZ      C       C       0       -2.799      -15.868     -12.513     
+8DR     OAD     O       O       0       -4.605      -10.777     -16.531     
+8DR     OAE     O       O       0       -5.999      -5.487      -13.180     
+8DR     OAF     O       O       0       -6.682      -4.420      -15.293     
+8DR     CAH     C       CR16    0       -2.513      -3.540      -16.044     
+8DR     CAI     C       CR15    0       -5.173      -6.979      -18.738     
+8DR     CAJ     C       CR16    0       -3.830      -3.883      -15.782     
+8DR     CAK     C       CR15    0       -5.687      -6.376      -17.637     
+8DR     CAL     C       CR16    0       -1.460      -4.204      -15.461     
+8DR     NAP     N       NRD5    0       -0.900      -6.037      -13.902     
+8DR     NAQ     N       NRD5    0       -3.178      -6.629      -13.451     
+8DR     NAT     N       NH1     0       -6.114      -6.812      -15.240     
+8DR     SAU     S       S2      0       -1.698      -7.126      -12.999     
+8DR     SAV     S       S2      0       -4.650      -8.521      -18.399     
+8DR     CAY     C       C       0       -4.784      -9.693      -15.972     
+8DR     CAZ     C       CR5     0       -5.627      -7.221      -16.495     
+8DR     CBA     C       CR6     0       -4.151      -4.928      -14.911     
+8DR     CBB     C       CR5     0       -5.042      -8.482      -16.776     
+8DR     CBC     C       CR56    0       -1.742      -5.270      -14.567     
+8DR     CBD     C       CR56    0       -3.100      -5.621      -14.299     
+8DR     SBF     S       S3      0       -5.841      -5.340      -14.592     
+8DR     NH1     N       NH2     0       -2.706      -16.883     -11.667     
+8DR     NH2     N       NH2     1       -3.486      -16.028     -13.637     
+8DR     OXT     O       OC      -1      -4.974      -9.418      -11.787     
+8DR     HN      H       H       0       -4.781      -8.791      -14.272     
+8DR     HA      H       H       0       -5.496      -11.427     -14.180     
+8DR     HB      H       H       0       -2.975      -10.793     -13.017     
+8DR     HBA     H       H       0       -3.083      -11.461     -14.449     
+8DR     HD      H       H       0       -2.045      -13.713     -13.957     
+8DR     HDA     H       H       0       -1.521      -12.888     -12.712     
+8DR     HNE     H       H       0       -1.753      -14.672     -11.469     
+8DR     HG      H       H       0       -4.252      -13.306     -13.371     
+8DR     HGA     H       H       0       -3.809      -12.674     -11.986     
+8DR     HAH     H       H       0       -2.329      -2.832      -16.638     
+8DR     HAI     H       H       0       -5.103      -6.617      -19.605     
+8DR     HAJ     H       H       0       -4.517      -3.407      -16.199     
+8DR     HAK     H       H       0       -6.038      -5.503      -17.628     
+8DR     HAL     H       H       0       -0.572      -3.960      -15.649     
+8DR     HNAT    H       H       0       -6.592      -7.366      -14.787     
+8DR     HNH1    H       H       0       -3.094      -17.651     -11.855     
+8DR     HNHA    H       H       0       -2.258      -16.794     -10.912     
+8DR     HNH2    H       H       0       -3.872      -16.800     -13.807     
+8DR     HH3     H       H       0       -3.562      -15.380     -14.218     
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -81,60 +82,59 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-8DR C   CA   SINGLE n 1.539 0.0100 1.539 0.0100
-8DR C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
-8DR C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
-8DR N   CAY  SINGLE n 1.336 0.0103 1.336 0.0103
-8DR N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
-8DR CA  CB   SINGLE n 1.531 0.0123 1.531 0.0123
-8DR CB  CG   SINGLE n 1.522 0.0100 1.522 0.0100
-8DR CD  CG   SINGLE n 1.517 0.0143 1.517 0.0143
-8DR CD  NE   SINGLE n 1.456 0.0136 1.456 0.0136
-8DR NE  CZ   SINGLE n 1.328 0.0112 1.328 0.0112
-8DR CZ  NH2  DOUBLE n 1.322 0.0100 1.322 0.0100
-8DR CZ  NH1  SINGLE n 1.321 0.0100 1.321 0.0100
-8DR OAD CAY  DOUBLE n 1.231 0.0100 1.231 0.0100
-8DR OAE SBF  DOUBLE n 1.429 0.0100 1.429 0.0100
-8DR OAF SBF  DOUBLE n 1.429 0.0100 1.429 0.0100
-8DR CAH CAJ  SINGLE y 1.380 0.0129 1.380 0.0129
-8DR CAH CAL  DOUBLE y 1.371 0.0115 1.371 0.0115
-8DR CAI SAV  SINGLE y 1.695 0.0200 1.695 0.0200
-8DR CAI CAK  DOUBLE y 1.343 0.0200 1.343 0.0200
-8DR CAJ CBA  DOUBLE y 1.391 0.0103 1.391 0.0103
-8DR CAK CAZ  SINGLE y 1.377 0.0200 1.377 0.0200
-8DR CAL CBC  SINGLE y 1.417 0.0100 1.417 0.0100
-8DR NAP CBC  DOUBLE y 1.316 0.0100 1.316 0.0100
-8DR NAP SAU  SINGLE y 1.652 0.0200 1.652 0.0200
-8DR NAQ CBD  DOUBLE y 1.316 0.0100 1.316 0.0100
-8DR NAQ SAU  SINGLE y 1.652 0.0200 1.652 0.0200
-8DR NAT CAZ  SINGLE n 1.398 0.0200 1.398 0.0200
-8DR NAT SBF  SINGLE n 1.629 0.0116 1.629 0.0116
-8DR SAV CBB  SINGLE y 1.695 0.0200 1.695 0.0200
-8DR CAY CBB  SINGLE n 1.467 0.0127 1.467 0.0127
-8DR CAZ CBB  DOUBLE y 1.389 0.0200 1.389 0.0200
-8DR CBA SBF  SINGLE n 1.763 0.0132 1.763 0.0132
-8DR CBA CBD  SINGLE y 1.390 0.0138 1.390 0.0138
-8DR CBC CBD  SINGLE y 1.409 0.0128 1.409 0.0128
-8DR N   HN   SINGLE n 1.016 0.0100 0.873 0.0101
-8DR CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
-8DR CB  HB   SINGLE n 1.089 0.0100 0.980 0.0160
-8DR CB  HBA  SINGLE n 1.089 0.0100 0.980 0.0160
-8DR CD  HD   SINGLE n 1.089 0.0100 0.981 0.0152
-8DR CD  HDA  SINGLE n 1.089 0.0100 0.981 0.0152
-8DR NE  HNE  SINGLE n 1.016 0.0100 0.872 0.0200
-8DR CG  HG   SINGLE n 1.089 0.0100 0.981 0.0160
-8DR CG  HGA  SINGLE n 1.089 0.0100 0.981 0.0160
-8DR CAH HAH  SINGLE n 1.082 0.0130 0.942 0.0176
-8DR CAI HAI  SINGLE n 1.082 0.0130 0.942 0.0200
-8DR CAJ HAJ  SINGLE n 1.082 0.0130 0.934 0.0100
-8DR CAK HAK  SINGLE n 1.082 0.0130 0.942 0.0153
-8DR CAL HAL  SINGLE n 1.082 0.0130 0.940 0.0191
-8DR NAT HNAT SINGLE n 1.016 0.0100 0.860 0.0100
-8DR NH1 HNH1 SINGLE n 1.016 0.0100 0.881 0.0200
-8DR NH1 HNHA SINGLE n 1.016 0.0100 0.881 0.0200
-8DR NH2 HNH2 SINGLE n 1.016 0.0100 0.879 0.0200
-8DR NH2 HH3  SINGLE n 1.016 0.0100 0.879 0.0200
-
+8DR           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
+8DR           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+8DR           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+8DR           N         CAY      SINGLE       n     1.336  0.0103     1.336  0.0103
+8DR           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
+8DR          CA          CB      SINGLE       n     1.531  0.0123     1.531  0.0123
+8DR          CB          CG      SINGLE       n     1.522  0.0100     1.522  0.0100
+8DR          CD          CG      SINGLE       n     1.517  0.0143     1.517  0.0143
+8DR          CD          NE      SINGLE       n     1.456  0.0136     1.456  0.0136
+8DR          NE          CZ      SINGLE       n     1.328  0.0112     1.328  0.0112
+8DR          CZ         NH2      DOUBLE       n     1.322  0.0100     1.322  0.0100
+8DR          CZ         NH1      SINGLE       n     1.321  0.0100     1.321  0.0100
+8DR         OAD         CAY      DOUBLE       n     1.231  0.0100     1.231  0.0100
+8DR         OAE         SBF      DOUBLE       n     1.429  0.0100     1.429  0.0100
+8DR         OAF         SBF      DOUBLE       n     1.429  0.0100     1.429  0.0100
+8DR         CAH         CAJ      SINGLE       y     1.380  0.0129     1.380  0.0129
+8DR         CAH         CAL      DOUBLE       y     1.371  0.0115     1.371  0.0115
+8DR         CAI         SAV      SINGLE       y     1.695  0.0200     1.695  0.0200
+8DR         CAI         CAK      DOUBLE       y     1.343  0.0200     1.343  0.0200
+8DR         CAJ         CBA      DOUBLE       y     1.391  0.0103     1.391  0.0103
+8DR         CAK         CAZ      SINGLE       y     1.377  0.0200     1.377  0.0200
+8DR         CAL         CBC      SINGLE       y     1.417  0.0100     1.417  0.0100
+8DR         NAP         CBC      DOUBLE       y     1.316  0.0100     1.316  0.0100
+8DR         NAP         SAU      SINGLE       y     1.652  0.0200     1.652  0.0200
+8DR         NAQ         CBD      DOUBLE       y     1.316  0.0100     1.316  0.0100
+8DR         NAQ         SAU      SINGLE       y     1.652  0.0200     1.652  0.0200
+8DR         NAT         CAZ      SINGLE       n     1.398  0.0200     1.398  0.0200
+8DR         NAT         SBF      SINGLE       n     1.629  0.0116     1.629  0.0116
+8DR         SAV         CBB      SINGLE       y     1.695  0.0200     1.695  0.0200
+8DR         CAY         CBB      SINGLE       n     1.467  0.0127     1.467  0.0127
+8DR         CAZ         CBB      DOUBLE       y     1.389  0.0200     1.389  0.0200
+8DR         CBA         SBF      SINGLE       n     1.763  0.0132     1.763  0.0132
+8DR         CBA         CBD      SINGLE       y     1.390  0.0138     1.390  0.0138
+8DR         CBC         CBD      SINGLE       y     1.409  0.0128     1.409  0.0128
+8DR           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0101
+8DR          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
+8DR          CB          HB      SINGLE       n     1.089  0.0100     0.980  0.0160
+8DR          CB         HBA      SINGLE       n     1.089  0.0100     0.980  0.0160
+8DR          CD          HD      SINGLE       n     1.089  0.0100     0.981  0.0152
+8DR          CD         HDA      SINGLE       n     1.089  0.0100     0.981  0.0152
+8DR          NE         HNE      SINGLE       n     1.016  0.0100     0.872  0.0200
+8DR          CG          HG      SINGLE       n     1.089  0.0100     0.981  0.0160
+8DR          CG         HGA      SINGLE       n     1.089  0.0100     0.981  0.0160
+8DR         CAH         HAH      SINGLE       n     1.082  0.0130     0.942  0.0176
+8DR         CAI         HAI      SINGLE       n     1.082  0.0130     0.942  0.0200
+8DR         CAJ         HAJ      SINGLE       n     1.082  0.0130     0.934  0.0100
+8DR         CAK         HAK      SINGLE       n     1.082  0.0130     0.942  0.0153
+8DR         CAL         HAL      SINGLE       n     1.082  0.0130     0.940  0.0191
+8DR         NAT        HNAT      SINGLE       n     1.016  0.0100     0.860  0.0100
+8DR         NH1        HNH1      SINGLE       n     1.016  0.0100     0.881  0.0200
+8DR         NH1        HNHA      SINGLE       n     1.016  0.0100     0.881  0.0200
+8DR         NH2        HNH2      SINGLE       n     1.016  0.0100     0.879  0.0200
+8DR         NH2         HH3      SINGLE       n     1.016  0.0100     0.879  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -142,95 +142,94 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-8DR CA   C   O    117.249 1.61
-8DR CA   C   OXT  117.249 1.61
-8DR O    C   OXT  125.502 1.50
-8DR CAY  N   CA   120.774 1.61
-8DR CAY  N   HN   119.474 1.50
-8DR CA   N   HN   119.753 1.50
-8DR C    CA  N    110.522 1.86
-8DR C    CA  CB   111.638 2.31
-8DR C    CA  HA   108.327 1.50
-8DR N    CA  CB   110.984 1.61
-8DR N    CA  HA   108.494 1.50
-8DR CB   CA  HA   108.155 1.50
-8DR CA   CB  CG   113.381 1.99
-8DR CA   CB  HB   108.606 1.50
-8DR CA   CB  HBA  108.606 1.50
-8DR CG   CB  HB   108.775 1.50
-8DR CG   CB  HBA  108.775 1.50
-8DR HB   CB  HBA  107.844 1.50
-8DR CG   CD  NE   112.382 2.90
-8DR CG   CD  HD   109.197 1.51
-8DR CG   CD  HDA  109.197 1.51
-8DR NE   CD  HD   109.183 1.50
-8DR NE   CD  HDA  109.183 1.50
-8DR HD   CD  HDA  107.877 1.50
-8DR CD   NE  CZ   124.510 1.50
-8DR CD   NE  HNE  117.883 1.50
-8DR CZ   NE  HNE  117.606 1.50
-8DR CB   CG  CD   112.387 3.00
-8DR CB   CG  HG   109.262 1.50
-8DR CB   CG  HGA  109.262 1.50
-8DR CD   CG  HG   108.956 1.50
-8DR CD   CG  HGA  108.956 1.50
-8DR HG   CG  HGA  107.927 1.57
-8DR NE   CZ  NH2  120.052 1.50
-8DR NE   CZ  NH1  120.052 1.50
-8DR NH2  CZ  NH1  119.896 1.50
-8DR CAJ  CAH CAL  121.146 1.50
-8DR CAJ  CAH HAH  119.786 1.50
-8DR CAL  CAH HAH  119.068 1.50
-8DR SAV  CAI CAK  108.427 3.00
-8DR SAV  CAI HAI  123.159 3.00
-8DR CAK  CAI HAI  128.415 2.40
-8DR CAH  CAJ CBA  120.527 1.50
-8DR CAH  CAJ HAJ  119.947 1.50
-8DR CBA  CAJ HAJ  119.526 1.50
-8DR CAI  CAK CAZ  107.633 1.50
-8DR CAI  CAK HAK  126.387 1.50
-8DR CAZ  CAK HAK  125.979 1.50
-8DR CAH  CAL CBC  118.152 1.50
-8DR CAH  CAL HAL  121.058 1.50
-8DR CBC  CAL HAL  120.790 1.50
-8DR CBC  NAP SAU  107.762 3.00
-8DR CBD  NAQ SAU  107.762 3.00
-8DR CAZ  NAT SBF  122.174 2.29
-8DR CAZ  NAT HNAT 119.369 1.95
-8DR SBF  NAT HNAT 118.458 1.50
-8DR NAP  SAU NAQ  107.762 3.00
-8DR CAI  SAV CBB  108.427 3.00
-8DR N    CAY OAD  122.159 1.50
-8DR N    CAY CBB  116.796 1.69
-8DR OAD  CAY CBB  121.045 1.72
-8DR CAK  CAZ NAT  125.663 3.00
-8DR CAK  CAZ CBB  107.087 1.62
-8DR NAT  CAZ CBB  127.250 2.73
-8DR CAJ  CBA SBF  120.188 1.50
-8DR CAJ  CBA CBD  117.423 1.50
-8DR SBF  CBA CBD  122.389 2.23
-8DR SAV  CBB CAY  120.273 3.00
-8DR SAV  CBB CAZ  108.427 3.00
-8DR CAY  CBB CAZ  131.300 3.00
-8DR CAL  CBC NAP  130.785 1.50
-8DR CAL  CBC CBD  120.858 1.50
-8DR NAP  CBC CBD  108.357 1.50
-8DR NAQ  CBD CBA  129.748 1.54
-8DR NAQ  CBD CBC  108.357 1.50
-8DR CBA  CBD CBC  121.895 1.51
-8DR OAE  SBF OAF  119.569 1.50
-8DR OAE  SBF NAT  106.736 1.93
-8DR OAE  SBF CBA  108.111 1.50
-8DR OAF  SBF NAT  106.736 1.93
-8DR OAF  SBF CBA  108.111 1.50
-8DR NAT  SBF CBA  106.811 1.50
-8DR CZ   NH1 HNH1 119.855 2.01
-8DR CZ   NH1 HNHA 119.855 2.01
-8DR HNH1 NH1 HNHA 120.290 2.09
-8DR CZ   NH2 HNH2 119.855 2.01
-8DR CZ   NH2 HH3  119.855 2.01
-8DR HNH2 NH2 HH3  120.290 2.09
-
+8DR          CA           C           O     117.249    1.61
+8DR          CA           C         OXT     117.249    1.61
+8DR           O           C         OXT     125.502    1.50
+8DR         CAY           N          CA     120.774    1.61
+8DR         CAY           N          HN     119.474    1.50
+8DR          CA           N          HN     119.753    1.50
+8DR           C          CA           N     110.522    1.86
+8DR           C          CA          CB     111.638    2.31
+8DR           C          CA          HA     108.327    1.50
+8DR           N          CA          CB     110.984    1.61
+8DR           N          CA          HA     108.494    1.50
+8DR          CB          CA          HA     108.155    1.50
+8DR          CA          CB          CG     113.381    1.99
+8DR          CA          CB          HB     108.606    1.50
+8DR          CA          CB         HBA     108.606    1.50
+8DR          CG          CB          HB     108.775    1.50
+8DR          CG          CB         HBA     108.775    1.50
+8DR          HB          CB         HBA     107.844    1.50
+8DR          CG          CD          NE     112.382    2.90
+8DR          CG          CD          HD     109.197    1.51
+8DR          CG          CD         HDA     109.197    1.51
+8DR          NE          CD          HD     109.183    1.50
+8DR          NE          CD         HDA     109.183    1.50
+8DR          HD          CD         HDA     107.877    1.50
+8DR          CD          NE          CZ     124.510    1.50
+8DR          CD          NE         HNE     117.883    1.50
+8DR          CZ          NE         HNE     117.606    1.50
+8DR          CB          CG          CD     112.387    3.00
+8DR          CB          CG          HG     109.262    1.50
+8DR          CB          CG         HGA     109.262    1.50
+8DR          CD          CG          HG     108.956    1.50
+8DR          CD          CG         HGA     108.956    1.50
+8DR          HG          CG         HGA     107.927    1.57
+8DR          NE          CZ         NH2     120.052    1.50
+8DR          NE          CZ         NH1     120.052    1.50
+8DR         NH2          CZ         NH1     119.896    1.50
+8DR         CAJ         CAH         CAL     121.146    1.50
+8DR         CAJ         CAH         HAH     119.786    1.50
+8DR         CAL         CAH         HAH     119.068    1.50
+8DR         SAV         CAI         CAK     108.427    3.00
+8DR         SAV         CAI         HAI     123.159    3.00
+8DR         CAK         CAI         HAI     128.415    2.40
+8DR         CAH         CAJ         CBA     120.527    1.50
+8DR         CAH         CAJ         HAJ     119.947    1.50
+8DR         CBA         CAJ         HAJ     119.526    1.50
+8DR         CAI         CAK         CAZ     107.633    1.50
+8DR         CAI         CAK         HAK     126.387    1.50
+8DR         CAZ         CAK         HAK     125.979    1.50
+8DR         CAH         CAL         CBC     118.152    1.50
+8DR         CAH         CAL         HAL     121.058    1.50
+8DR         CBC         CAL         HAL     120.790    1.50
+8DR         CBC         NAP         SAU     107.762    3.00
+8DR         CBD         NAQ         SAU     107.762    3.00
+8DR         CAZ         NAT         SBF     122.174    2.29
+8DR         CAZ         NAT        HNAT     119.369    1.95
+8DR         SBF         NAT        HNAT     118.458    1.50
+8DR         NAP         SAU         NAQ     107.762    3.00
+8DR         CAI         SAV         CBB     108.427    3.00
+8DR           N         CAY         OAD     122.159    1.50
+8DR           N         CAY         CBB     116.796    1.69
+8DR         OAD         CAY         CBB     121.045    1.72
+8DR         CAK         CAZ         NAT     125.663    3.00
+8DR         CAK         CAZ         CBB     107.087    1.62
+8DR         NAT         CAZ         CBB     127.250    2.73
+8DR         CAJ         CBA         SBF     120.188    1.50
+8DR         CAJ         CBA         CBD     117.423    1.50
+8DR         SBF         CBA         CBD     122.389    2.23
+8DR         SAV         CBB         CAY     120.273    3.00
+8DR         SAV         CBB         CAZ     108.427    3.00
+8DR         CAY         CBB         CAZ     131.300    3.00
+8DR         CAL         CBC         NAP     130.785    1.50
+8DR         CAL         CBC         CBD     120.858    1.50
+8DR         NAP         CBC         CBD     108.357    1.50
+8DR         NAQ         CBD         CBA     129.748    1.54
+8DR         NAQ         CBD         CBC     108.357    1.50
+8DR         CBA         CBD         CBC     121.895    1.51
+8DR         OAE         SBF         OAF     119.569    1.50
+8DR         OAE         SBF         NAT     106.736    1.93
+8DR         OAE         SBF         CBA     108.111    1.50
+8DR         OAF         SBF         NAT     106.736    1.93
+8DR         OAF         SBF         CBA     108.111    1.50
+8DR         NAT         SBF         CBA     106.811    1.50
+8DR          CZ         NH1        HNH1     119.855    2.01
+8DR          CZ         NH1        HNHA     119.855    2.01
+8DR        HNH1         NH1        HNHA     120.290    2.09
+8DR          CZ         NH2        HNH2     119.855    2.01
+8DR          CZ         NH2         HH3     119.855    2.01
+8DR        HNH2         NH2         HH3     120.290    2.09
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -241,36 +240,35 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-8DR sp2_sp3_1       O   C   CA  N    0.000   10.0 6
-8DR const_sp2_sp2_1 CAL CAH CAJ CBA  0.000   5.0  2
-8DR const_38        CAJ CAH CAL CBC  0.000   10.0 2
-8DR const_42        SAV CAI CAK CAZ  0.000   10.0 2
-8DR const_21        CAK CAI SAV CBB  0.000   10.0 2
-8DR const_sp2_sp2_6 CAH CAJ CBA SBF  180.000 5.0  2
-8DR const_30        CAI CAK CAZ NAT  180.000 10.0 2
-8DR const_18        CAH CAL CBC NAP  180.000 10.0 2
-8DR const_46        CBC NAP SAU NAQ  0.000   10.0 2
-8DR const_34        CAL CBC NAP SAU  180.000 10.0 2
-8DR const_37        CBD NAQ SAU NAP  0.000   10.0 2
-8DR const_36        CBA CBD NAQ SAU  180.000 10.0 2
-8DR sp2_sp2_17      CAK CAZ NAT SBF  180.000 5.0  2
-8DR sp2_sp3_20      CAZ NAT SBF OAE  120.000 10.0 6
-8DR sp2_sp2_3       OAD CAY N   CA   0.000   5.0  2
-8DR sp2_sp3_7       CAY N   CA  C    0.000   10.0 6
-8DR const_24        CAY CBB SAV CAI  180.000 10.0 2
-8DR sp2_sp2_22      N   CAY CBB SAV  0.000   5.0  2
-8DR const_28        NAT CAZ CBB CAY  0.000   10.0 2
-8DR const_12        SBF CBA CBD NAQ  0.000   10.0 2
-8DR sp2_sp3_25      CAJ CBA SBF OAE  150.000 10.0 6
-8DR const_14        CAL CBC CBD NAQ  180.000 10.0 2
-8DR sp3_sp3_1       C   CA  CB  CG   180.000 10.0 3
-8DR sp3_sp3_10      CA  CB  CG  CD   180.000 10.0 3
-8DR sp2_sp3_14      CZ  NE  CD  CG   120.000 10.0 6
-8DR sp3_sp3_19      NE  CD  CG  CB   180.000 10.0 3
-8DR sp2_sp2_5       NH2 CZ  NE  CD   180.000 5.0  2
-8DR sp2_sp2_13      NE  CZ  NH1 HNH1 180.000 5.0  2
-8DR sp2_sp2_9       NE  CZ  NH2 HNH2 180.000 5.0  2
-
+8DR             sp2_sp3_1           O           C          CA           N       0.000    10.0     6
+8DR       const_sp2_sp2_1         CAL         CAH         CAJ         CBA       0.000     5.0     2
+8DR              const_38         CAJ         CAH         CAL         CBC       0.000    10.0     2
+8DR              const_42         SAV         CAI         CAK         CAZ       0.000    10.0     2
+8DR              const_21         CAK         CAI         SAV         CBB       0.000    10.0     2
+8DR       const_sp2_sp2_6         CAH         CAJ         CBA         SBF     180.000     5.0     2
+8DR              const_30         CAI         CAK         CAZ         NAT     180.000    10.0     2
+8DR              const_18         CAH         CAL         CBC         NAP     180.000    10.0     2
+8DR              const_46         CBC         NAP         SAU         NAQ       0.000    10.0     2
+8DR              const_34         CAL         CBC         NAP         SAU     180.000    10.0     2
+8DR              const_37         CBD         NAQ         SAU         NAP       0.000    10.0     2
+8DR              const_36         CBA         CBD         NAQ         SAU     180.000    10.0     2
+8DR            sp2_sp2_17         CAK         CAZ         NAT         SBF     180.000     5.0     2
+8DR            sp2_sp3_20         CAZ         NAT         SBF         OAE     120.000    10.0     6
+8DR             sp2_sp2_3         OAD         CAY           N          CA       0.000     5.0     2
+8DR             sp2_sp3_7         CAY           N          CA           C       0.000    10.0     6
+8DR              const_24         CAY         CBB         SAV         CAI     180.000    10.0     2
+8DR            sp2_sp2_22           N         CAY         CBB         SAV       0.000     5.0     2
+8DR              const_28         NAT         CAZ         CBB         CAY       0.000    10.0     2
+8DR              const_12         SBF         CBA         CBD         NAQ       0.000    10.0     2
+8DR            sp2_sp3_25         CAJ         CBA         SBF         OAE     150.000    10.0     6
+8DR              const_14         CAL         CBC         CBD         NAQ     180.000    10.0     2
+8DR             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
+8DR            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
+8DR            sp2_sp3_14          CZ          NE          CD          CG     120.000    10.0     6
+8DR            sp3_sp3_19          NE          CD          CG          CB     180.000    10.0     3
+8DR             sp2_sp2_5         NH2          CZ          NE          CD     180.000     5.0     2
+8DR            sp2_sp2_13          NE          CZ         NH1        HNH1     180.000     5.0     2
+8DR             sp2_sp2_9          NE          CZ         NH2        HNH2     180.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -279,97 +277,86 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-8DR chir_1 CA  N   C   CB  positive
-8DR chir_2 SBF OAE OAF NAT both
-
+8DR    chir_1    CA    N    C    CB    positive
+8DR    chir_2    SBF    OAE    OAF    NAT    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-8DR plan-1  CAH  0.020
-8DR plan-1  CAJ  0.020
-8DR plan-1  CAL  0.020
-8DR plan-1  CBA  0.020
-8DR plan-1  CBC  0.020
-8DR plan-1  CBD  0.020
-8DR plan-1  HAH  0.020
-8DR plan-1  HAJ  0.020
-8DR plan-1  HAL  0.020
-8DR plan-1  NAP  0.020
-8DR plan-1  NAQ  0.020
-8DR plan-1  SAU  0.020
-8DR plan-1  SBF  0.020
-8DR plan-2  CAI  0.020
-8DR plan-2  CAK  0.020
-8DR plan-2  CAY  0.020
-8DR plan-2  CAZ  0.020
-8DR plan-2  CBB  0.020
-8DR plan-2  HAI  0.020
-8DR plan-2  HAK  0.020
-8DR plan-2  NAT  0.020
-8DR plan-2  SAV  0.020
-8DR plan-3  C    0.020
-8DR plan-3  CA   0.020
-8DR plan-3  O    0.020
-8DR plan-3  OXT  0.020
-8DR plan-4  CA   0.020
-8DR plan-4  CAY  0.020
-8DR plan-4  HN   0.020
-8DR plan-4  N    0.020
-8DR plan-5  CD   0.020
-8DR plan-5  CZ   0.020
-8DR plan-5  HNE  0.020
-8DR plan-5  NE   0.020
-8DR plan-6  CZ   0.020
-8DR plan-6  NE   0.020
-8DR plan-6  NH1  0.020
-8DR plan-6  NH2  0.020
-8DR plan-7  CAZ  0.020
-8DR plan-7  HNAT 0.020
-8DR plan-7  NAT  0.020
-8DR plan-7  SBF  0.020
-8DR plan-8  CAY  0.020
-8DR plan-8  CBB  0.020
-8DR plan-8  N    0.020
-8DR plan-8  OAD  0.020
-8DR plan-9  CZ   0.020
-8DR plan-9  HNH1 0.020
-8DR plan-9  HNHA 0.020
-8DR plan-9  NH1  0.020
-8DR plan-10 CZ   0.020
-8DR plan-10 HH3  0.020
-8DR plan-10 HNH2 0.020
-8DR plan-10 NH2  0.020
-
+8DR    plan-1         CAH   0.020
+8DR    plan-1         CAJ   0.020
+8DR    plan-1         CAL   0.020
+8DR    plan-1         CBA   0.020
+8DR    plan-1         CBC   0.020
+8DR    plan-1         CBD   0.020
+8DR    plan-1         HAH   0.020
+8DR    plan-1         HAJ   0.020
+8DR    plan-1         HAL   0.020
+8DR    plan-1         NAP   0.020
+8DR    plan-1         NAQ   0.020
+8DR    plan-1         SAU   0.020
+8DR    plan-1         SBF   0.020
+8DR    plan-2         CAI   0.020
+8DR    plan-2         CAK   0.020
+8DR    plan-2         CAY   0.020
+8DR    plan-2         CAZ   0.020
+8DR    plan-2         CBB   0.020
+8DR    plan-2         HAI   0.020
+8DR    plan-2         HAK   0.020
+8DR    plan-2         NAT   0.020
+8DR    plan-2         SAV   0.020
+8DR    plan-3           C   0.020
+8DR    plan-3          CA   0.020
+8DR    plan-3           O   0.020
+8DR    plan-3         OXT   0.020
+8DR    plan-4          CA   0.020
+8DR    plan-4         CAY   0.020
+8DR    plan-4          HN   0.020
+8DR    plan-4           N   0.020
+8DR    plan-5          CD   0.020
+8DR    plan-5          CZ   0.020
+8DR    plan-5         HNE   0.020
+8DR    plan-5          NE   0.020
+8DR    plan-6          CZ   0.020
+8DR    plan-6          NE   0.020
+8DR    plan-6         NH1   0.020
+8DR    plan-6         NH2   0.020
+8DR    plan-7         CAZ   0.020
+8DR    plan-7        HNAT   0.020
+8DR    plan-7         NAT   0.020
+8DR    plan-7         SBF   0.020
+8DR    plan-8         CAY   0.020
+8DR    plan-8         CBB   0.020
+8DR    plan-8           N   0.020
+8DR    plan-8         OAD   0.020
+8DR    plan-9          CZ   0.020
+8DR    plan-9        HNH1   0.020
+8DR    plan-9        HNHA   0.020
+8DR    plan-9         NH1   0.020
+8DR   plan-10          CZ   0.020
+8DR   plan-10         HH3   0.020
+8DR   plan-10        HNH2   0.020
+8DR   plan-10         NH2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-8DR SMILES           ACDLabs              11.02 O=C(O)C(NC(=O)c1sccc1NS(=O)(=O)c2cccc3nsnc23)CCCNC(=[N@H])N
-8DR SMILES_CANONICAL CACTVS               3.352 NC(=N)NCCC[C@H](NC(=O)c1sccc1N[S](=O)(=O)c2cccc3nsnc23)C(O)=O
-8DR SMILES           CACTVS               3.352 NC(=N)NCCC[CH](NC(=O)c1sccc1N[S](=O)(=O)c2cccc3nsnc23)C(O)=O
-8DR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 "[H]/N=C(/N)\NCCC[C@@H](C(=O)O)NC(=O)c1c(ccs1)NS(=O)(=O)c2cccc3c2nsn3"
-8DR SMILES           "OpenEye OEToolkits" 1.7.0 c1cc2c(c(c1)S(=O)(=O)Nc3ccsc3C(=O)NC(CCCNC(=N)N)C(=O)O)nsn2
-8DR InChI            InChI                1.03  InChI=1S/C17H19N7O5S3/c18-17(19)20-7-2-4-11(16(26)27)21-15(25)14-10(6-8-30-14)24-32(28,29)12-5-1-3-9-13(12)23-31-22-9/h1,3,5-6,8,11,24H,2,4,7H2,(H,21,25)(H,26,27)(H4,18,19,20)/t11-/m0/s1
-8DR InChIKey         InChI                1.03  ZWWMEDURALZMEV-NSHDSACASA-N
-
+8DR           SMILES              ACDLabs 11.02                                                                                                                                O=C(O)C(NC(=O)c1sccc1NS(=O)(=O)c2cccc3nsnc23)CCCNC(=[N@H])N
+8DR SMILES_CANONICAL               CACTVS 3.352                                                                                                                              NC(=N)NCCC[C@H](NC(=O)c1sccc1N[S](=O)(=O)c2cccc3nsnc23)C(O)=O
+8DR           SMILES               CACTVS 3.352                                                                                                                               NC(=N)NCCC[CH](NC(=O)c1sccc1N[S](=O)(=O)c2cccc3nsnc23)C(O)=O
+8DR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                     "[H]/N=C(/N)\NCCC[C@@H](C(=O)O)NC(=O)c1c(ccs1)NS(=O)(=O)c2cccc3c2nsn3"
+8DR           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                c1cc2c(c(c1)S(=O)(=O)Nc3ccsc3C(=O)NC(CCCNC(=N)N)C(=O)O)nsn2
+8DR            InChI                InChI  1.03 InChI=1S/C17H19N7O5S3/c18-17(19)20-7-2-4-11(16(26)27)21-15(25)14-10(6-8-30-14)24-32(28,29)12-5-1-3-9-13(12)23-31-22-9/h1,3,5-6,8,11,24H,2,4,7H2,(H,21,25)(H,26,27)(H4,18,19,20)/t11-/m0/s1
+8DR         InChIKey                InChI  1.03                                                                                                                                                                ZWWMEDURALZMEV-NSHDSACASA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-8DR acedrg          243       "dictionary generator"
-8DR acedrg_database 11        "data source"
-8DR rdkit           2017.03.2 "Chemoinformatics tool"
-8DR refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-8DR M-peptide CAY CN
-8DR M-peptide HN  H
+8DR acedrg               243         "dictionary generator"                  
+8DR acedrg_database      11          "data source"                           
+8DR rdkit                2017.03.2   "Chemoinformatics tool"
+8DR refmac5              5.8.0238    "optimization tool"                     

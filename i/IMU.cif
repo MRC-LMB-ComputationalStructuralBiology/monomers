@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IMU IMU "PHOSPHORIC ACID MONO-[5-(2-AMINO-4-OXO-4,5-DIHYDRO-3H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)-3,4-DIHYDROXY-PYRROLIDIN-2-YLMETHYL] ESTER" NON-POLYMER 38 24 .
-
+IMU     IMU      "PHOSPHORIC ACID MONO-[5-(2-AMINO-4-OXO-4,5-DIHYDRO-3H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)-3,4-DIHYDROXY-PYRROLIDIN-2-YLMETHYL] ESTER"     NON-POLYMER     38     24     .     
+#
 data_comp_IMU
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,45 +21,44 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IMU P      P P    0  12.325 82.771 41.511
-IMU C2     C CR6  0  5.906  84.557 47.265
-IMU O1P    O OP   -1 12.283 82.339 42.965
-IMU O2P    O O    0  13.487 83.697 41.204
-IMU O3P    O OP   -1 12.231 81.604 40.547
-IMU "O5'"  O O2   0  10.990 83.647 41.272
-IMU "C5'"  C CH2  0  10.762 84.812 42.105
-IMU "C4'"  C CH1  0  9.463  85.466 41.676
-IMU "N4'"  N NT1  0  8.282  84.619 41.928
-IMU "C3'"  C CH1  0  9.117  86.736 42.462
-IMU "O3'"  O OH1  0  8.241  87.575 41.721
-IMU "C2'"  C CH1  0  8.478  86.161 43.733
-IMU "O2'"  O OH1  0  7.579  87.069 44.350
-IMU "C1'"  C CH1  0  7.705  84.905 43.256
-IMU C9     C CR5  0  7.770  83.765 44.235
-IMU C8     C CR15 0  8.407  82.557 44.132
-IMU N7     N NR5  0  8.195  81.835 45.270
-IMU C5     C CR56 0  7.418  82.579 46.123
-IMU C6     C CR6  0  6.900  82.322 47.432
-IMU O6     O O    0  7.064  81.296 48.105
-IMU N1     N NR6  0  6.143  83.379 47.938
-IMU N2     N NH2  0  5.159  85.485 47.879
-IMU N3     N NRD6 0  6.394  84.781 46.050
-IMU C4     C CR56 0  7.152  83.792 45.475
-IMU "H5'1" H H    0  11.501 85.446 42.003
-IMU "H5'2" H H    0  10.707 84.546 43.045
-IMU "H4'"  H H    0  9.505  85.677 40.709
-IMU "HN4'" H H    0  8.451  83.764 41.755
-IMU "H3'"  H H    0  9.946  87.227 42.690
-IMU "HO3'" H H    0  7.995  88.217 42.219
-IMU "H2'"  H H    0  9.191  85.910 44.372
-IMU "HO2'" H H    0  7.281  86.722 45.066
-IMU "H1'"  H H    0  6.756  85.145 43.131
-IMU H8     H H    0  8.910  82.264 43.393
-IMU HN7    H H    0  8.507  81.029 45.425
-IMU HN1    H H    0  5.791  83.275 48.756
-IMU HN21   H H    0  4.686  86.051 47.404
-IMU HN22   H H    0  5.146  85.528 48.756
-
+IMU     P       P       P       0       12.325      82.771      41.511      
+IMU     C2      C       CR6     0       5.906       84.557      47.265      
+IMU     O1P     O       OP      -1      12.283      82.339      42.965      
+IMU     O2P     O       O       0       13.487      83.697      41.204      
+IMU     O3P     O       OP      -1      12.231      81.604      40.547      
+IMU     "O5'"   O       O2      0       10.990      83.647      41.272      
+IMU     "C5'"   C       CH2     0       10.762      84.812      42.105      
+IMU     "C4'"   C       CH1     0       9.463       85.466      41.676      
+IMU     "N4'"   N       NT1     0       8.282       84.619      41.928      
+IMU     "C3'"   C       CH1     0       9.117       86.736      42.462      
+IMU     "O3'"   O       OH1     0       8.241       87.575      41.721      
+IMU     "C2'"   C       CH1     0       8.478       86.161      43.733      
+IMU     "O2'"   O       OH1     0       7.579       87.069      44.350      
+IMU     "C1'"   C       CH1     0       7.705       84.905      43.256      
+IMU     C9      C       CR5     0       7.770       83.765      44.235      
+IMU     C8      C       CR15    0       8.407       82.557      44.132      
+IMU     N7      N       NR5     0       8.195       81.835      45.270      
+IMU     C5      C       CR56    0       7.418       82.579      46.123      
+IMU     C6      C       CR6     0       6.900       82.322      47.432      
+IMU     O6      O       O       0       7.064       81.296      48.105      
+IMU     N1      N       NR6     0       6.143       83.379      47.938      
+IMU     N2      N       NH2     0       5.159       85.485      47.879      
+IMU     N3      N       NRD6    0       6.394       84.781      46.050      
+IMU     C4      C       CR56    0       7.152       83.792      45.475      
+IMU     "H5'1"  H       H       0       11.501      85.446      42.003      
+IMU     "H5'2"  H       H       0       10.707      84.546      43.045      
+IMU     "H4'"   H       H       0       9.505       85.677      40.709      
+IMU     "HN4'"  H       H       0       8.451       83.764      41.755      
+IMU     "H3'"   H       H       0       9.946       87.227      42.690      
+IMU     "HO3'"  H       H       0       7.995       88.217      42.219      
+IMU     "H2'"   H       H       0       9.191       85.910      44.372      
+IMU     "HO2'"  H       H       0       7.281       86.722      45.066      
+IMU     "H1'"   H       H       0       6.756       85.145      43.131      
+IMU     H8      H       H       0       8.910       82.264      43.393      
+IMU     HN7     H       H       0       8.507       81.029      45.425      
+IMU     HN1     H       H       0       5.791       83.275      48.756      
+IMU     HN21    H       H       0       4.686       86.051      47.404      
+IMU     HN22    H       H       0       5.146       85.528      48.756      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -68,47 +69,46 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IMU P     O1P    SINGLE n 1.517 0.0192 1.517 0.0192
-IMU P     O2P    DOUBLE n 1.517 0.0192 1.517 0.0192
-IMU P     O3P    SINGLE n 1.517 0.0192 1.517 0.0192
-IMU P     "O5'"  SINGLE n 1.614 0.0178 1.614 0.0178
-IMU C2    N1     SINGLE y 1.374 0.0100 1.374 0.0100
-IMU C2    N2     SINGLE n 1.340 0.0101 1.340 0.0101
-IMU C2    N3     DOUBLE y 1.323 0.0142 1.323 0.0142
-IMU "O5'" "C5'"  SINGLE n 1.450 0.0166 1.450 0.0166
-IMU "C5'" "C4'"  SINGLE n 1.515 0.0106 1.515 0.0106
-IMU "C4'" "N4'"  SINGLE n 1.475 0.0100 1.475 0.0100
-IMU "C4'" "C3'"  SINGLE n 1.536 0.0148 1.536 0.0148
-IMU "N4'" "C1'"  SINGLE n 1.467 0.0134 1.467 0.0134
-IMU "C3'" "O3'"  SINGLE n 1.421 0.0100 1.421 0.0100
-IMU "C3'" "C2'"  SINGLE n 1.533 0.0100 1.533 0.0100
-IMU "C2'" "O2'"  SINGLE n 1.419 0.0101 1.419 0.0101
-IMU "C2'" "C1'"  SINGLE n 1.547 0.0100 1.547 0.0100
-IMU "C1'" C9     SINGLE n 1.498 0.0113 1.498 0.0113
-IMU C9    C8     DOUBLE y 1.369 0.0110 1.369 0.0110
-IMU C9    C4     SINGLE y 1.380 0.0200 1.380 0.0200
-IMU C8    N7     SINGLE y 1.366 0.0100 1.366 0.0100
-IMU N7    C5     SINGLE y 1.373 0.0100 1.373 0.0100
-IMU C5    C6     SINGLE y 1.425 0.0129 1.425 0.0129
-IMU C5    C4     DOUBLE y 1.395 0.0100 1.395 0.0100
-IMU C6    O6     DOUBLE n 1.237 0.0126 1.237 0.0126
-IMU C6    N1     SINGLE y 1.392 0.0104 1.392 0.0104
-IMU N3    C4     SINGLE y 1.363 0.0148 1.363 0.0148
-IMU "C5'" "H5'1" SINGLE n 1.089 0.0100 0.979 0.0188
-IMU "C5'" "H5'2" SINGLE n 1.089 0.0100 0.979 0.0188
-IMU "C4'" "H4'"  SINGLE n 1.089 0.0100 0.990 0.0135
-IMU "N4'" "HN4'" SINGLE n 1.036 0.0160 0.890 0.0200
-IMU "C3'" "H3'"  SINGLE n 1.089 0.0100 0.990 0.0168
-IMU "O3'" "HO3'" SINGLE n 0.970 0.0120 0.849 0.0200
-IMU "C2'" "H2'"  SINGLE n 1.089 0.0100 0.989 0.0200
-IMU "O2'" "HO2'" SINGLE n 0.970 0.0120 0.849 0.0200
-IMU "C1'" "H1'"  SINGLE n 1.089 0.0100 0.987 0.0160
-IMU C8    H8     SINGLE n 1.082 0.0130 0.941 0.0174
-IMU N7    HN7    SINGLE n 1.016 0.0100 0.878 0.0200
-IMU N1    HN1    SINGLE n 1.016 0.0100 0.895 0.0200
-IMU N2    HN21   SINGLE n 1.016 0.0100 0.877 0.0200
-IMU N2    HN22   SINGLE n 1.016 0.0100 0.877 0.0200
-
+IMU           P         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
+IMU           P         O2P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+IMU           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
+IMU           P       "O5'"      SINGLE       n     1.614  0.0178     1.614  0.0178
+IMU          C2          N1      SINGLE       y     1.374  0.0100     1.374  0.0100
+IMU          C2          N2      SINGLE       n     1.340  0.0101     1.340  0.0101
+IMU          C2          N3      DOUBLE       y     1.323  0.0142     1.323  0.0142
+IMU       "O5'"       "C5'"      SINGLE       n     1.450  0.0166     1.450  0.0166
+IMU       "C5'"       "C4'"      SINGLE       n     1.515  0.0106     1.515  0.0106
+IMU       "C4'"       "N4'"      SINGLE       n     1.475  0.0100     1.475  0.0100
+IMU       "C4'"       "C3'"      SINGLE       n     1.536  0.0148     1.536  0.0148
+IMU       "N4'"       "C1'"      SINGLE       n     1.467  0.0134     1.467  0.0134
+IMU       "C3'"       "O3'"      SINGLE       n     1.421  0.0100     1.421  0.0100
+IMU       "C3'"       "C2'"      SINGLE       n     1.533  0.0100     1.533  0.0100
+IMU       "C2'"       "O2'"      SINGLE       n     1.419  0.0101     1.419  0.0101
+IMU       "C2'"       "C1'"      SINGLE       n     1.547  0.0100     1.547  0.0100
+IMU       "C1'"          C9      SINGLE       n     1.498  0.0113     1.498  0.0113
+IMU          C9          C8      DOUBLE       y     1.369  0.0110     1.369  0.0110
+IMU          C9          C4      SINGLE       y     1.380  0.0200     1.380  0.0200
+IMU          C8          N7      SINGLE       y     1.366  0.0100     1.366  0.0100
+IMU          N7          C5      SINGLE       y     1.373  0.0100     1.373  0.0100
+IMU          C5          C6      SINGLE       y     1.425  0.0129     1.425  0.0129
+IMU          C5          C4      DOUBLE       y     1.395  0.0100     1.395  0.0100
+IMU          C6          O6      DOUBLE       n     1.237  0.0126     1.237  0.0126
+IMU          C6          N1      SINGLE       y     1.392  0.0104     1.392  0.0104
+IMU          N3          C4      SINGLE       y     1.363  0.0148     1.363  0.0148
+IMU       "C5'"      "H5'1"      SINGLE       n     1.089  0.0100     0.979  0.0188
+IMU       "C5'"      "H5'2"      SINGLE       n     1.089  0.0100     0.979  0.0188
+IMU       "C4'"       "H4'"      SINGLE       n     1.089  0.0100     0.990  0.0135
+IMU       "N4'"      "HN4'"      SINGLE       n     1.036  0.0160     0.890  0.0200
+IMU       "C3'"       "H3'"      SINGLE       n     1.089  0.0100     0.990  0.0168
+IMU       "O3'"      "HO3'"      SINGLE       n     0.970  0.0120     0.849  0.0200
+IMU       "C2'"       "H2'"      SINGLE       n     1.089  0.0100     0.989  0.0200
+IMU       "O2'"      "HO2'"      SINGLE       n     0.970  0.0120     0.849  0.0200
+IMU       "C1'"       "H1'"      SINGLE       n     1.089  0.0100     0.987  0.0160
+IMU          C8          H8      SINGLE       n     1.082  0.0130     0.941  0.0174
+IMU          N7         HN7      SINGLE       n     1.016  0.0100     0.878  0.0200
+IMU          N1         HN1      SINGLE       n     1.016  0.0100     0.895  0.0200
+IMU          N2        HN21      SINGLE       n     1.016  0.0100     0.877  0.0200
+IMU          N2        HN22      SINGLE       n     1.016  0.0100     0.877  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -116,77 +116,76 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IMU O1P    P     O2P    112.864 1.69
-IMU O1P    P     O3P    112.864 1.69
-IMU O1P    P     "O5'"  105.808 2.07
-IMU O2P    P     O3P    112.864 1.69
-IMU O2P    P     "O5'"  105.808 2.07
-IMU O3P    P     "O5'"  105.808 2.07
-IMU N1     C2    N2     117.012 1.50
-IMU N1     C2    N3     122.730 1.50
-IMU N2     C2    N3     120.258 1.50
-IMU P      "O5'" "C5'"  118.783 1.50
-IMU "O5'"  "C5'" "C4'"  108.378 1.55
-IMU "O5'"  "C5'" "H5'1" 109.821 1.50
-IMU "O5'"  "C5'" "H5'2" 109.821 1.50
-IMU "C4'"  "C5'" "H5'1" 109.608 1.50
-IMU "C4'"  "C5'" "H5'2" 109.608 1.50
-IMU "H5'1" "C5'" "H5'2" 108.335 1.56
-IMU "C5'"  "C4'" "N4'"  111.633 2.37
-IMU "C5'"  "C4'" "C3'"  113.697 1.51
-IMU "C5'"  "C4'" "H4'"  109.324 1.50
-IMU "N4'"  "C4'" "C3'"  103.104 2.01
-IMU "N4'"  "C4'" "H4'"  108.836 1.79
-IMU "C3'"  "C4'" "H4'"  109.485 1.57
-IMU "C4'"  "N4'" "C1'"  109.056 3.00
-IMU "C4'"  "N4'" "HN4'" 110.078 2.70
-IMU "C1'"  "N4'" "HN4'" 110.404 2.92
-IMU "C4'"  "C3'" "O3'"  111.549 2.36
-IMU "C4'"  "C3'" "C2'"  103.086 2.24
-IMU "C4'"  "C3'" "H3'"  109.851 1.50
-IMU "O3'"  "C3'" "C2'"  112.463 2.73
-IMU "O3'"  "C3'" "H3'"  110.147 1.64
-IMU "C2'"  "C3'" "H3'"  110.255 2.04
-IMU "C3'"  "O3'" "HO3'" 108.584 1.68
-IMU "C3'"  "C2'" "O2'"  112.463 2.73
-IMU "C3'"  "C2'" "C1'"  104.443 2.26
-IMU "C3'"  "C2'" "H2'"  110.255 2.04
-IMU "O2'"  "C2'" "C1'"  109.854 2.33
-IMU "O2'"  "C2'" "H2'"  110.259 1.63
-IMU "C1'"  "C2'" "H2'"  110.927 1.64
-IMU "C2'"  "O2'" "HO2'" 109.104 3.00
-IMU "N4'"  "C1'" "C2'"  103.104 2.01
-IMU "N4'"  "C1'" C9     111.978 1.67
-IMU "N4'"  "C1'" "H1'"  108.599 1.50
-IMU "C2'"  "C1'" C9     114.431 2.43
-IMU "C2'"  "C1'" "H1'"  109.187 1.50
-IMU C9     "C1'" "H1'"  108.602 1.50
-IMU "C1'"  C9    C8     127.071 2.98
-IMU "C1'"  C9    C4     125.323 1.65
-IMU C8     C9    C4     107.606 1.50
-IMU C9     C8    N7     109.494 1.50
-IMU C9     C8    H8     125.262 1.89
-IMU N7     C8    H8     125.244 1.50
-IMU C8     N7    C5     108.703 1.50
-IMU C8     N7    HN7    125.242 1.50
-IMU C5     N7    HN7    126.056 1.93
-IMU N7     C5    C6     132.960 1.50
-IMU N7     C5    C4     106.649 1.50
-IMU C6     C5    C4     120.391 1.84
-IMU C5     C6    O6     126.898 1.50
-IMU C5     C6    N1     112.781 1.50
-IMU O6     C6    N1     120.321 1.50
-IMU C2     N1    C6     125.110 1.50
-IMU C2     N1    HN1    117.795 2.71
-IMU C6     N1    HN1    117.096 2.44
-IMU C2     N2    HN21   119.868 1.50
-IMU C2     N2    HN22   119.868 1.50
-IMU HN21   N2    HN22   120.263 1.96
-IMU C2     N3    C4     116.811 2.40
-IMU C9     C4    C5     107.548 1.50
-IMU C9     C4    N3     130.275 1.77
-IMU C5     C4    N3     122.177 1.50
-
+IMU         O1P           P         O2P     112.864    1.69
+IMU         O1P           P         O3P     112.864    1.69
+IMU         O1P           P       "O5'"     105.808    2.07
+IMU         O2P           P         O3P     112.864    1.69
+IMU         O2P           P       "O5'"     105.808    2.07
+IMU         O3P           P       "O5'"     105.808    2.07
+IMU          N1          C2          N2     117.012    1.50
+IMU          N1          C2          N3     122.730    1.50
+IMU          N2          C2          N3     120.258    1.50
+IMU           P       "O5'"       "C5'"     118.783    1.50
+IMU       "O5'"       "C5'"       "C4'"     108.378    1.55
+IMU       "O5'"       "C5'"      "H5'1"     109.821    1.50
+IMU       "O5'"       "C5'"      "H5'2"     109.821    1.50
+IMU       "C4'"       "C5'"      "H5'1"     109.608    1.50
+IMU       "C4'"       "C5'"      "H5'2"     109.608    1.50
+IMU      "H5'1"       "C5'"      "H5'2"     108.335    1.56
+IMU       "C5'"       "C4'"       "N4'"     111.633    2.37
+IMU       "C5'"       "C4'"       "C3'"     113.697    1.51
+IMU       "C5'"       "C4'"       "H4'"     109.324    1.50
+IMU       "N4'"       "C4'"       "C3'"     103.104    2.01
+IMU       "N4'"       "C4'"       "H4'"     108.836    1.79
+IMU       "C3'"       "C4'"       "H4'"     109.485    1.57
+IMU       "C4'"       "N4'"       "C1'"     109.056    3.00
+IMU       "C4'"       "N4'"      "HN4'"     110.078    2.70
+IMU       "C1'"       "N4'"      "HN4'"     110.404    2.92
+IMU       "C4'"       "C3'"       "O3'"     111.549    2.36
+IMU       "C4'"       "C3'"       "C2'"     103.086    2.24
+IMU       "C4'"       "C3'"       "H3'"     109.851    1.50
+IMU       "O3'"       "C3'"       "C2'"     112.463    2.73
+IMU       "O3'"       "C3'"       "H3'"     110.147    1.64
+IMU       "C2'"       "C3'"       "H3'"     110.255    2.04
+IMU       "C3'"       "O3'"      "HO3'"     108.584    1.68
+IMU       "C3'"       "C2'"       "O2'"     112.463    2.73
+IMU       "C3'"       "C2'"       "C1'"     104.443    2.26
+IMU       "C3'"       "C2'"       "H2'"     110.255    2.04
+IMU       "O2'"       "C2'"       "C1'"     109.854    2.33
+IMU       "O2'"       "C2'"       "H2'"     110.259    1.63
+IMU       "C1'"       "C2'"       "H2'"     110.927    1.64
+IMU       "C2'"       "O2'"      "HO2'"     109.104    3.00
+IMU       "N4'"       "C1'"       "C2'"     103.104    2.01
+IMU       "N4'"       "C1'"          C9     111.978    1.67
+IMU       "N4'"       "C1'"       "H1'"     108.599    1.50
+IMU       "C2'"       "C1'"          C9     114.431    2.43
+IMU       "C2'"       "C1'"       "H1'"     109.187    1.50
+IMU          C9       "C1'"       "H1'"     108.602    1.50
+IMU       "C1'"          C9          C8     127.071    2.98
+IMU       "C1'"          C9          C4     125.323    1.65
+IMU          C8          C9          C4     107.606    1.50
+IMU          C9          C8          N7     109.494    1.50
+IMU          C9          C8          H8     125.262    1.89
+IMU          N7          C8          H8     125.244    1.50
+IMU          C8          N7          C5     108.703    1.50
+IMU          C8          N7         HN7     125.242    1.50
+IMU          C5          N7         HN7     126.056    1.93
+IMU          N7          C5          C6     132.960    1.50
+IMU          N7          C5          C4     106.649    1.50
+IMU          C6          C5          C4     120.391    1.84
+IMU          C5          C6          O6     126.898    1.50
+IMU          C5          C6          N1     112.781    1.50
+IMU          O6          C6          N1     120.321    1.50
+IMU          C2          N1          C6     125.110    1.50
+IMU          C2          N1         HN1     117.795    2.71
+IMU          C6          N1         HN1     117.096    2.44
+IMU          C2          N2        HN21     119.868    1.50
+IMU          C2          N2        HN22     119.868    1.50
+IMU        HN21          N2        HN22     120.263    1.96
+IMU          C2          N3          C4     116.811    2.40
+IMU          C9          C4          C5     107.548    1.50
+IMU          C9          C4          N3     130.275    1.77
+IMU          C5          C4          N3     122.177    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -197,29 +196,28 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IMU sp3_sp3_32      "C5'" "O5'" P     O1P    -60.000 10.0 3
-IMU sp3_sp3_58      "C3'" "C2'" "O2'" "HO2'" 180.000 10.0 3
-IMU sp3_sp3_14      "N4'" "C1'" "C2'" "O2'"  180.000 10.0 3
-IMU sp2_sp3_1       C8    C9    "C1'" "N4'"  150.000 10.0 6
-IMU const_20        N7    C8    C9    "C1'"  180.000 10.0 2
-IMU const_34        C5    C4    C9    "C1'"  180.000 10.0 2
-IMU const_23        C9    C8    N7    C5     0.000   10.0 2
-IMU const_29        C6    C5    N7    C8     180.000 10.0 2
-IMU const_12        N7    C5    C6    O6     0.000   10.0 2
-IMU const_13        C9    C4    C5    N7     0.000   10.0 2
-IMU const_sp2_sp2_7 O6    C6    N1    C2     180.000 5.0  2
-IMU const_sp2_sp2_3 N2    C2    N1    C6     180.000 5.0  2
-IMU sp2_sp2_1       N1    C2    N2    HN21   180.000 5.0  2
-IMU const_32        N2    C2    N3    C4     180.000 10.0 2
-IMU const_18        C9    C4    N3    C2     180.000 10.0 2
-IMU sp3_sp3_34      "C4'" "C5'" "O5'" P      180.000 10.0 3
-IMU sp3_sp3_37      "N4'" "C4'" "C5'" "O5'"  180.000 10.0 3
-IMU sp3_sp3_3       "C5'" "C4'" "N4'" "C1'"  -60.000 10.0 3
-IMU sp3_sp3_50      "O3'" "C3'" "C4'" "C5'"  180.000 10.0 3
-IMU sp3_sp3_7       "C2'" "C1'" "N4'" "C4'"  -60.000 10.0 3
-IMU sp3_sp3_55      "C4'" "C3'" "O3'" "HO3'" 180.000 10.0 3
-IMU sp3_sp3_26      "O2'" "C2'" "C3'" "O3'"  -60.000 10.0 3
-
+IMU            sp3_sp3_32       "C5'"       "O5'"           P         O1P     -60.000    10.0     3
+IMU            sp3_sp3_58       "C3'"       "C2'"       "O2'"      "HO2'"     180.000    10.0     3
+IMU            sp3_sp3_14       "N4'"       "C1'"       "C2'"       "O2'"     180.000    10.0     3
+IMU             sp2_sp3_1          C8          C9       "C1'"       "N4'"     150.000    10.0     6
+IMU              const_20          N7          C8          C9       "C1'"     180.000    10.0     2
+IMU              const_34          C5          C4          C9       "C1'"     180.000    10.0     2
+IMU              const_23          C9          C8          N7          C5       0.000    10.0     2
+IMU              const_29          C6          C5          N7          C8     180.000    10.0     2
+IMU              const_12          N7          C5          C6          O6       0.000    10.0     2
+IMU              const_13          C9          C4          C5          N7       0.000    10.0     2
+IMU       const_sp2_sp2_7          O6          C6          N1          C2     180.000     5.0     2
+IMU       const_sp2_sp2_3          N2          C2          N1          C6     180.000     5.0     2
+IMU             sp2_sp2_1          N1          C2          N2        HN21     180.000     5.0     2
+IMU              const_32          N2          C2          N3          C4     180.000    10.0     2
+IMU              const_18          C9          C4          N3          C2     180.000    10.0     2
+IMU            sp3_sp3_34       "C4'"       "C5'"       "O5'"           P     180.000    10.0     3
+IMU            sp3_sp3_37       "N4'"       "C4'"       "C5'"       "O5'"     180.000    10.0     3
+IMU             sp3_sp3_3       "C5'"       "C4'"       "N4'"       "C1'"     -60.000    10.0     3
+IMU            sp3_sp3_50       "O3'"       "C3'"       "C4'"       "C5'"     180.000    10.0     3
+IMU             sp3_sp3_7       "C2'"       "C1'"       "N4'"       "C4'"     -60.000    10.0     3
+IMU            sp3_sp3_55       "C4'"       "C3'"       "O3'"      "HO3'"     180.000    10.0     3
+IMU            sp3_sp3_26       "O2'"       "C2'"       "C3'"       "O3'"     -60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -228,67 +226,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-IMU chir_1 P     "O5'" O1P   O3P    both
-IMU chir_2 "C4'" "N4'" "C3'" "C5'"  negative
-IMU chir_3 "C3'" "O3'" "C2'" "C4'"  negative
-IMU chir_4 "C2'" "O2'" "C3'" "C1'"  positive
-IMU chir_5 "C1'" "N4'" "C2'" C9     positive
-IMU chir_6 "N4'" "C4'" "C1'" "HN4'" both
-
+IMU    chir_1    P    "O5'"    O1P    O3P    both
+IMU    chir_2    "C4'"    "N4'"    "C3'"    "C5'"    negative
+IMU    chir_3    "C3'"    "O3'"    "C2'"    "C4'"    negative
+IMU    chir_4    "C2'"    "O2'"    "C3'"    "C1'"    positive
+IMU    chir_5    "C1'"    "N4'"    "C2'"    C9    positive
+IMU    chir_6    "N4'"    "C4'"    "C1'"    "HN4'"    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-IMU plan-1 "C1'" 0.020
-IMU plan-1 C2    0.020
-IMU plan-1 C4    0.020
-IMU plan-1 C5    0.020
-IMU plan-1 C6    0.020
-IMU plan-1 C8    0.020
-IMU plan-1 C9    0.020
-IMU plan-1 H8    0.020
-IMU plan-1 HN1   0.020
-IMU plan-1 HN7   0.020
-IMU plan-1 N1    0.020
-IMU plan-1 N2    0.020
-IMU plan-1 N3    0.020
-IMU plan-1 N7    0.020
-IMU plan-1 O6    0.020
-IMU plan-2 C2    0.020
-IMU plan-2 HN21  0.020
-IMU plan-2 HN22  0.020
-IMU plan-2 N2    0.020
-
+IMU    plan-1       "C1'"   0.020
+IMU    plan-1          C2   0.020
+IMU    plan-1          C4   0.020
+IMU    plan-1          C5   0.020
+IMU    plan-1          C6   0.020
+IMU    plan-1          C8   0.020
+IMU    plan-1          C9   0.020
+IMU    plan-1          H8   0.020
+IMU    plan-1         HN1   0.020
+IMU    plan-1         HN7   0.020
+IMU    plan-1          N1   0.020
+IMU    plan-1          N2   0.020
+IMU    plan-1          N3   0.020
+IMU    plan-1          N7   0.020
+IMU    plan-1          O6   0.020
+IMU    plan-2          C2   0.020
+IMU    plan-2        HN21   0.020
+IMU    plan-2        HN22   0.020
+IMU    plan-2          N2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IMU SMILES           ACDLabs              10.04 O=P(OCC3NC(c2c1N=C(N)NC(=O)c1nc2)C(O)C3O)(O)O
-IMU SMILES_CANONICAL CACTVS               3.341 NC1=Nc2c([nH]cc2[C@@H]3N[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]3O)C(=O)N1
-IMU SMILES           CACTVS               3.341 NC1=Nc2c([nH]cc2[CH]3N[CH](CO[P](O)(O)=O)[CH](O)[CH]3O)C(=O)N1
-IMU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1c(c2c([nH]1)C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](N3)COP(=O)(O)O)O)O
-IMU SMILES           "OpenEye OEToolkits" 1.5.0 c1c(c2c([nH]1)C(=O)NC(=N2)N)C3C(C(C(N3)COP(=O)(O)O)O)O
-IMU InChI            InChI                1.03  InChI=1S/C11H16N5O7P/c12-11-15-5-3(1-13-7(5)10(19)16-11)6-9(18)8(17)4(14-6)2-23-24(20,21)22/h1,4,6,8-9,13-14,17-18H,2H2,(H2,20,21,22)(H3,12,15,16,19)/t4-,6+,8-,9+/m1/s1
-IMU InChIKey         InChI                1.03  IQLBECLICFDTTF-PVEDRDFWSA-N
-
+IMU           SMILES              ACDLabs 10.04                                                                                                                            O=P(OCC3NC(c2c1N=C(N)NC(=O)c1nc2)C(O)C3O)(O)O
+IMU SMILES_CANONICAL               CACTVS 3.341                                                                                                     NC1=Nc2c([nH]cc2[C@@H]3N[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]3O)C(=O)N1
+IMU           SMILES               CACTVS 3.341                                                                                                           NC1=Nc2c([nH]cc2[CH]3N[CH](CO[P](O)(O)=O)[CH](O)[CH]3O)C(=O)N1
+IMU SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                 c1c(c2c([nH]1)C(=O)NC(=N2)N)[C@H]3[C@@H]([C@@H]([C@H](N3)COP(=O)(O)O)O)O
+IMU           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                   c1c(c2c([nH]1)C(=O)NC(=N2)N)C3C(C(C(N3)COP(=O)(O)O)O)O
+IMU            InChI                InChI  1.03 InChI=1S/C11H16N5O7P/c12-11-15-5-3(1-13-7(5)10(19)16-11)6-9(18)8(17)4(14-6)2-23-24(20,21)22/h1,4,6,8-9,13-14,17-18H,2H2,(H2,20,21,22)(H3,12,15,16,19)/t4-,6+,8-,9+/m1/s1
+IMU         InChIKey                InChI  1.03                                                                                                                                              IQLBECLICFDTTF-PVEDRDFWSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IMU acedrg          243       "dictionary generator"
-IMU acedrg_database 11        "data source"
-IMU rdkit           2017.03.2 "Chemoinformatics tool"
-IMU refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-IMU DNA/RNA O1P OP3
-IMU DNA/RNA O2P OP1
-IMU DNA/RNA O3P OP2
+IMU acedrg               243         "dictionary generator"                  
+IMU acedrg_database      11          "data source"                           
+IMU rdkit                2017.03.2   "Chemoinformatics tool"
+IMU refmac5              5.8.0238    "optimization tool"                     

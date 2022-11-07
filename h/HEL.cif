@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-HEL HEL (2S,5R,6R)-6-{[(6R)-6-(GLYCYLAMINO)-7-OXIDO-7-OXOHEPTANOYL]AMINO}-3,3-DIMETHYL-7-OXO-4-THIA-1-AZABICYCLO[3.2.0]HEPTANE-2-CARBOXYLATE NON-POLYMER 54 29 .
-
+HEL     HEL      (2S,5R,6R)-6-{[(6R)-6-(GLYCYLAMINO)-7-OXIDO-7-OXOHEPTANOYL]AMINO}-3,3-DIMETHYL-7-OXO-4-THIA-1-AZABICYCLO[3.2.0]HEPTANE-2-CARBOXYLATE     NON-POLYMER     54     29     .     
+#
 data_comp_HEL
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,61 +21,60 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-HEL S1   S S2  0  18.661 -12.429 40.945
-HEL C2   C CT  0  19.010 -10.726 41.583
-HEL C3   C CH1 0  18.604 -9.742  40.419
-HEL N4   N NT  0  17.612 -10.477 39.640
-HEL C5   C CH1 0  17.230 -11.844 40.008
-HEL C6   C CH1 0  17.104 -12.157 38.476
-HEL C7   C C   0  17.683 -10.748 38.271
-HEL N8   N NH1 0  17.898 -13.235 37.952
-HEL C9   C C   0  17.636 -14.525 38.210
-HEL O10  O O   0  16.599 -14.878 38.765
-HEL C11  C CH2 0  18.727 -15.506 37.861
-HEL C12  C CH2 0  19.870 -15.475 38.831
-HEL C13  C CH2 0  20.945 -16.511 38.547
-HEL C14  C CH2 0  21.956 -16.110 37.481
-HEL C15  C CH1 0  23.082 -17.129 37.285
-HEL C16  C C   0  23.892 -16.793 36.020
-HEL O17  O O   0  23.951 -17.663 35.128
-HEL O18  O OC  -1 24.435 -15.671 35.973
-HEL N19  N NH1 0  23.965 -17.209 38.440
-HEL C20  C C   0  24.138 -18.305 39.189
-HEL O21  O O   0  23.575 -19.381 38.996
-HEL C22  C CH2 0  25.111 -18.145 40.340
-HEL N23  N NT3 1  26.500 -18.181 39.841
-HEL C24  C CH3 0  20.502 -10.627 41.890
-HEL C25  C CH3 0  18.199 -10.547 42.867
-HEL C26  C C   0  18.075 -8.373  40.850
-HEL O27  O OC  -1 16.890 -8.235  41.104
-HEL O28  O O   0  18.865 -7.450  40.928
-HEL O29  O O   0  18.219 -10.156 37.377
-HEL H3   H H   0  19.399 -9.592  39.838
-HEL H5   H H   0  16.382 -11.907 40.513
-HEL H6   H H   0  16.177 -12.220 38.153
-HEL HN8  H H   0  18.620 -13.031 37.411
-HEL H111 H H   0  19.065 -15.304 36.963
-HEL H112 H H   0  18.348 -16.410 37.844
-HEL H121 H H   0  19.521 -15.623 39.735
-HEL H122 H H   0  20.278 -14.584 38.811
-HEL H131 H H   0  20.511 -17.344 38.267
-HEL H132 H H   0  21.428 -16.695 39.380
-HEL H141 H H   0  22.351 -15.248 37.729
-HEL H142 H H   0  21.484 -15.992 36.629
-HEL H15  H H   0  22.658 -18.013 37.144
-HEL H19  H H   0  24.406 -16.482 38.643
-HEL H221 H H   0  24.970 -18.881 40.993
-HEL H222 H H   0  24.941 -17.279 40.799
-HEL H231 H H   0  27.078 -18.079 40.538
-HEL H232 H H   0  26.634 -17.507 39.243
-HEL H233 H H   0  26.663 -18.981 39.435
-HEL H241 H H   0  20.763 -9.692  41.930
-HEL H242 H H   0  21.009 -11.072 41.190
-HEL H243 H H   0  20.689 -11.051 42.743
-HEL H251 H H   0  17.256 -10.466 42.649
-HEL H252 H H   0  18.495 -9.747  43.331
-HEL H253 H H   0  18.331 -11.319 43.442
-
+HEL     S1      S       S2      0       18.661      -12.429     40.945      
+HEL     C2      C       CT      0       19.010      -10.726     41.583      
+HEL     C3      C       CH1     0       18.604      -9.742      40.419      
+HEL     N4      N       NT      0       17.612      -10.477     39.640      
+HEL     C5      C       CH1     0       17.230      -11.844     40.008      
+HEL     C6      C       CH1     0       17.104      -12.157     38.476      
+HEL     C7      C       C       0       17.683      -10.748     38.271      
+HEL     N8      N       NH1     0       17.898      -13.235     37.952      
+HEL     C9      C       C       0       17.636      -14.525     38.210      
+HEL     O10     O       O       0       16.599      -14.878     38.765      
+HEL     C11     C       CH2     0       18.727      -15.506     37.861      
+HEL     C12     C       CH2     0       19.870      -15.475     38.831      
+HEL     C13     C       CH2     0       20.945      -16.511     38.547      
+HEL     C14     C       CH2     0       21.956      -16.110     37.481      
+HEL     C15     C       CH1     0       23.082      -17.129     37.285      
+HEL     C16     C       C       0       23.892      -16.793     36.020      
+HEL     O17     O       O       0       23.951      -17.663     35.128      
+HEL     O18     O       OC      -1      24.435      -15.671     35.973      
+HEL     N19     N       NH1     0       23.965      -17.209     38.440      
+HEL     C20     C       C       0       24.138      -18.305     39.189      
+HEL     O21     O       O       0       23.575      -19.381     38.996      
+HEL     C22     C       CH2     0       25.111      -18.145     40.340      
+HEL     N23     N       NT3     1       26.500      -18.181     39.841      
+HEL     C24     C       CH3     0       20.502      -10.627     41.890      
+HEL     C25     C       CH3     0       18.199      -10.547     42.867      
+HEL     C26     C       C       0       18.075      -8.373      40.850      
+HEL     O27     O       OC      -1      16.890      -8.235      41.104      
+HEL     O28     O       O       0       18.865      -7.450      40.928      
+HEL     O29     O       O       0       18.219      -10.156     37.377      
+HEL     H3      H       H       0       19.399      -9.592      39.838      
+HEL     H5      H       H       0       16.382      -11.907     40.513      
+HEL     H6      H       H       0       16.177      -12.220     38.153      
+HEL     HN8     H       H       0       18.620      -13.031     37.411      
+HEL     H111    H       H       0       19.065      -15.304     36.963      
+HEL     H112    H       H       0       18.348      -16.410     37.844      
+HEL     H121    H       H       0       19.521      -15.623     39.735      
+HEL     H122    H       H       0       20.278      -14.584     38.811      
+HEL     H131    H       H       0       20.511      -17.344     38.267      
+HEL     H132    H       H       0       21.428      -16.695     39.380      
+HEL     H141    H       H       0       22.351      -15.248     37.729      
+HEL     H142    H       H       0       21.484      -15.992     36.629      
+HEL     H15     H       H       0       22.658      -18.013     37.144      
+HEL     H19     H       H       0       24.406      -16.482     38.643      
+HEL     H221    H       H       0       24.970      -18.881     40.993      
+HEL     H222    H       H       0       24.941      -17.279     40.799      
+HEL     H231    H       H       0       27.078      -18.079     40.538      
+HEL     H232    H       H       0       26.634      -17.507     39.243      
+HEL     H233    H       H       0       26.663      -18.981     39.435      
+HEL     H241    H       H       0       20.763      -9.692      41.930      
+HEL     H242    H       H       0       21.009      -11.072     41.190      
+HEL     H243    H       H       0       20.689      -11.051     42.743      
+HEL     H251    H       H       0       17.256      -10.466     42.649      
+HEL     H252    H       H       0       18.495      -9.747      43.331      
+HEL     H253    H       H       0       18.331      -11.319     43.442      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -84,62 +85,61 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-HEL S1  C2   SINGLE n 1.851 0.0113 1.851 0.0113
-HEL S1  C5   SINGLE n 1.810 0.0119 1.810 0.0119
-HEL C2  C3   SINGLE n 1.561 0.0167 1.561 0.0167
-HEL C2  C24  SINGLE n 1.527 0.0100 1.527 0.0100
-HEL C2  C25  SINGLE n 1.527 0.0100 1.527 0.0100
-HEL C3  N4   SINGLE n 1.458 0.0100 1.458 0.0100
-HEL C3  C26  SINGLE n 1.520 0.0177 1.520 0.0177
-HEL N4  C5   SINGLE n 1.471 0.0139 1.471 0.0139
-HEL N4  C7   SINGLE n 1.397 0.0132 1.397 0.0132
-HEL C5  C6   SINGLE n 1.569 0.0197 1.569 0.0197
-HEL C6  C7   SINGLE n 1.538 0.0100 1.538 0.0100
-HEL C6  N8   SINGLE n 1.436 0.0100 1.436 0.0100
-HEL C7  O29  DOUBLE n 1.199 0.0100 1.199 0.0100
-HEL N8  C9   SINGLE n 1.339 0.0100 1.339 0.0100
-HEL C9  O10  DOUBLE n 1.227 0.0100 1.227 0.0100
-HEL C9  C11  SINGLE n 1.506 0.0190 1.506 0.0190
-HEL C11 C12  SINGLE n 1.497 0.0200 1.497 0.0200
-HEL C12 C13  SINGLE n 1.519 0.0164 1.519 0.0164
-HEL C13 C14  SINGLE n 1.523 0.0114 1.523 0.0114
-HEL C14 C15  SINGLE n 1.531 0.0123 1.531 0.0123
-HEL C15 C16  SINGLE n 1.539 0.0100 1.539 0.0100
-HEL C15 N19  SINGLE n 1.453 0.0100 1.453 0.0100
-HEL C16 O17  DOUBLE n 1.247 0.0187 1.247 0.0187
-HEL C16 O18  SINGLE n 1.247 0.0187 1.247 0.0187
-HEL N19 C20  SINGLE n 1.333 0.0100 1.333 0.0100
-HEL C20 O21  DOUBLE n 1.229 0.0102 1.229 0.0102
-HEL C20 C22  SINGLE n 1.513 0.0132 1.513 0.0132
-HEL C22 N23  SINGLE n 1.476 0.0100 1.476 0.0100
-HEL C26 O27  SINGLE n 1.218 0.0200 1.218 0.0200
-HEL C26 O28  DOUBLE n 1.218 0.0200 1.218 0.0200
-HEL C3  H3   SINGLE n 1.089 0.0100 0.995 0.0104
-HEL C5  H5   SINGLE n 1.089 0.0100 0.988 0.0132
-HEL C6  H6   SINGLE n 1.089 0.0100 0.984 0.0200
-HEL N8  HN8  SINGLE n 1.016 0.0100 0.924 0.0200
-HEL C11 H111 SINGLE n 1.089 0.0100 0.981 0.0185
-HEL C11 H112 SINGLE n 1.089 0.0100 0.981 0.0185
-HEL C12 H121 SINGLE n 1.089 0.0100 0.980 0.0160
-HEL C12 H122 SINGLE n 1.089 0.0100 0.980 0.0160
-HEL C13 H131 SINGLE n 1.089 0.0100 0.981 0.0163
-HEL C13 H132 SINGLE n 1.089 0.0100 0.981 0.0163
-HEL C14 H141 SINGLE n 1.089 0.0100 0.980 0.0160
-HEL C14 H142 SINGLE n 1.089 0.0100 0.980 0.0160
-HEL C15 H15  SINGLE n 1.089 0.0100 0.991 0.0200
-HEL N19 H19  SINGLE n 1.016 0.0100 0.873 0.0200
-HEL C22 H221 SINGLE n 1.089 0.0100 0.994 0.0200
-HEL C22 H222 SINGLE n 1.089 0.0100 0.994 0.0200
-HEL N23 H231 SINGLE n 1.036 0.0160 0.911 0.0200
-HEL N23 H232 SINGLE n 1.036 0.0160 0.911 0.0200
-HEL N23 H233 SINGLE n 1.036 0.0160 0.911 0.0200
-HEL C24 H241 SINGLE n 1.089 0.0100 0.971 0.0169
-HEL C24 H242 SINGLE n 1.089 0.0100 0.971 0.0169
-HEL C24 H243 SINGLE n 1.089 0.0100 0.971 0.0169
-HEL C25 H251 SINGLE n 1.089 0.0100 0.971 0.0169
-HEL C25 H252 SINGLE n 1.089 0.0100 0.971 0.0169
-HEL C25 H253 SINGLE n 1.089 0.0100 0.971 0.0169
-
+HEL          S1          C2      SINGLE       n     1.851  0.0113     1.851  0.0113
+HEL          S1          C5      SINGLE       n     1.810  0.0119     1.810  0.0119
+HEL          C2          C3      SINGLE       n     1.561  0.0167     1.561  0.0167
+HEL          C2         C24      SINGLE       n     1.527  0.0100     1.527  0.0100
+HEL          C2         C25      SINGLE       n     1.527  0.0100     1.527  0.0100
+HEL          C3          N4      SINGLE       n     1.458  0.0100     1.458  0.0100
+HEL          C3         C26      SINGLE       n     1.520  0.0177     1.520  0.0177
+HEL          N4          C5      SINGLE       n     1.471  0.0139     1.471  0.0139
+HEL          N4          C7      SINGLE       n     1.397  0.0132     1.397  0.0132
+HEL          C5          C6      SINGLE       n     1.569  0.0197     1.569  0.0197
+HEL          C6          C7      SINGLE       n     1.538  0.0100     1.538  0.0100
+HEL          C6          N8      SINGLE       n     1.436  0.0100     1.436  0.0100
+HEL          C7         O29      DOUBLE       n     1.199  0.0100     1.199  0.0100
+HEL          N8          C9      SINGLE       n     1.339  0.0100     1.339  0.0100
+HEL          C9         O10      DOUBLE       n     1.227  0.0100     1.227  0.0100
+HEL          C9         C11      SINGLE       n     1.506  0.0190     1.506  0.0190
+HEL         C11         C12      SINGLE       n     1.497  0.0200     1.497  0.0200
+HEL         C12         C13      SINGLE       n     1.519  0.0164     1.519  0.0164
+HEL         C13         C14      SINGLE       n     1.523  0.0114     1.523  0.0114
+HEL         C14         C15      SINGLE       n     1.531  0.0123     1.531  0.0123
+HEL         C15         C16      SINGLE       n     1.539  0.0100     1.539  0.0100
+HEL         C15         N19      SINGLE       n     1.453  0.0100     1.453  0.0100
+HEL         C16         O17      DOUBLE       n     1.247  0.0187     1.247  0.0187
+HEL         C16         O18      SINGLE       n     1.247  0.0187     1.247  0.0187
+HEL         N19         C20      SINGLE       n     1.333  0.0100     1.333  0.0100
+HEL         C20         O21      DOUBLE       n     1.229  0.0102     1.229  0.0102
+HEL         C20         C22      SINGLE       n     1.513  0.0132     1.513  0.0132
+HEL         C22         N23      SINGLE       n     1.476  0.0100     1.476  0.0100
+HEL         C26         O27      SINGLE       n     1.218  0.0200     1.218  0.0200
+HEL         C26         O28      DOUBLE       n     1.218  0.0200     1.218  0.0200
+HEL          C3          H3      SINGLE       n     1.089  0.0100     0.995  0.0104
+HEL          C5          H5      SINGLE       n     1.089  0.0100     0.988  0.0132
+HEL          C6          H6      SINGLE       n     1.089  0.0100     0.984  0.0200
+HEL          N8         HN8      SINGLE       n     1.016  0.0100     0.924  0.0200
+HEL         C11        H111      SINGLE       n     1.089  0.0100     0.981  0.0185
+HEL         C11        H112      SINGLE       n     1.089  0.0100     0.981  0.0185
+HEL         C12        H121      SINGLE       n     1.089  0.0100     0.980  0.0160
+HEL         C12        H122      SINGLE       n     1.089  0.0100     0.980  0.0160
+HEL         C13        H131      SINGLE       n     1.089  0.0100     0.981  0.0163
+HEL         C13        H132      SINGLE       n     1.089  0.0100     0.981  0.0163
+HEL         C14        H141      SINGLE       n     1.089  0.0100     0.980  0.0160
+HEL         C14        H142      SINGLE       n     1.089  0.0100     0.980  0.0160
+HEL         C15         H15      SINGLE       n     1.089  0.0100     0.991  0.0200
+HEL         N19         H19      SINGLE       n     1.016  0.0100     0.873  0.0200
+HEL         C22        H221      SINGLE       n     1.089  0.0100     0.994  0.0200
+HEL         C22        H222      SINGLE       n     1.089  0.0100     0.994  0.0200
+HEL         N23        H231      SINGLE       n     1.036  0.0160     0.911  0.0200
+HEL         N23        H232      SINGLE       n     1.036  0.0160     0.911  0.0200
+HEL         N23        H233      SINGLE       n     1.036  0.0160     0.911  0.0200
+HEL         C24        H241      SINGLE       n     1.089  0.0100     0.971  0.0169
+HEL         C24        H242      SINGLE       n     1.089  0.0100     0.971  0.0169
+HEL         C24        H243      SINGLE       n     1.089  0.0100     0.971  0.0169
+HEL         C25        H251      SINGLE       n     1.089  0.0100     0.971  0.0169
+HEL         C25        H252      SINGLE       n     1.089  0.0100     0.971  0.0169
+HEL         C25        H253      SINGLE       n     1.089  0.0100     0.971  0.0169
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -147,110 +147,109 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-HEL C2   S1  C5   92.966  1.65
-HEL S1   C2  C3   107.036 2.68
-HEL S1   C2  C24  108.686 1.50
-HEL S1   C2  C25  108.686 1.50
-HEL C3   C2  C24  112.667 2.44
-HEL C3   C2  C25  112.667 2.44
-HEL C24  C2  C25  110.924 1.50
-HEL C2   C3  N4   105.237 2.32
-HEL C2   C3  C26  112.424 2.46
-HEL C2   C3  H3   109.303 1.50
-HEL N4   C3  C26  111.071 1.62
-HEL N4   C3  H3   108.587 1.50
-HEL C26  C3  H3   108.963 1.74
-HEL C3   N4  C5   115.054 3.00
-HEL C3   N4  C7   125.105 2.14
-HEL C5   N4  C7   93.371  1.96
-HEL S1   C5  N4   109.471 3.00
-HEL S1   C5  C6   116.971 3.00
-HEL S1   C5  H5   113.121 1.50
-HEL N4   C5  C6   88.590  1.50
-HEL N4   C5  H5   114.251 1.50
-HEL C6   C5  H5   114.585 1.80
-HEL C5   C6  C7   85.978  1.75
-HEL C5   C6  N8   118.905 3.00
-HEL C5   C6  H6   113.345 1.95
-HEL C7   C6  N8   116.563 3.00
-HEL C7   C6  H6   111.185 1.68
-HEL N8   C6  H6   109.992 1.69
-HEL N4   C7  C6   92.485  1.50
-HEL N4   C7  O29  131.043 1.50
-HEL C6   C7  O29  136.472 1.50
-HEL C6   N8  C9   120.921 2.50
-HEL C6   N8  HN8  120.323 3.00
-HEL C9   N8  HN8  118.756 2.51
-HEL N8   C9  O10  121.423 1.50
-HEL N8   C9  C11  116.320 2.12
-HEL O10  C9  C11  122.257 1.50
-HEL C9   C11 C12  113.485 1.67
-HEL C9   C11 H111 108.894 1.50
-HEL C9   C11 H112 108.894 1.50
-HEL C12  C11 H111 108.897 1.50
-HEL C12  C11 H112 108.897 1.50
-HEL H111 C11 H112 107.846 1.50
-HEL C11  C12 C13  113.472 1.51
-HEL C11  C12 H121 108.795 1.50
-HEL C11  C12 H122 108.795 1.50
-HEL C13  C12 H121 108.698 1.50
-HEL C13  C12 H122 108.698 1.50
-HEL H121 C12 H122 107.646 1.50
-HEL C12  C13 C14  115.138 2.03
-HEL C12  C13 H131 108.698 1.50
-HEL C12  C13 H132 108.698 1.50
-HEL C14  C13 H131 108.601 1.50
-HEL C14  C13 H132 108.601 1.50
-HEL H131 C13 H132 107.646 1.50
-HEL C13  C14 C15  113.671 1.50
-HEL C13  C14 H141 108.650 1.50
-HEL C13  C14 H142 108.650 1.50
-HEL C15  C14 H141 108.606 1.50
-HEL C15  C14 H142 108.606 1.50
-HEL H141 C14 H142 107.844 1.50
-HEL C14  C15 C16  111.638 2.31
-HEL C14  C15 N19  113.029 1.50
-HEL C14  C15 H15  108.155 1.50
-HEL C16  C15 N19  110.976 1.55
-HEL C16  C15 H15  108.327 1.50
-HEL N19  C15 H15  108.343 1.63
-HEL C15  C16 O17  117.249 1.61
-HEL C15  C16 O18  117.249 1.61
-HEL O17  C16 O18  125.502 1.50
-HEL C15  N19 C20  122.338 1.76
-HEL C15  N19 H19  118.265 2.15
-HEL C20  N19 H19  119.398 1.50
-HEL N19  C20 O21  123.934 1.50
-HEL N19  C20 C22  114.913 1.50
-HEL O21  C20 C22  121.152 1.50
-HEL C20  C22 N23  109.897 1.50
-HEL C20  C22 H221 109.334 1.66
-HEL C20  C22 H222 109.334 1.66
-HEL N23  C22 H221 109.735 1.50
-HEL N23  C22 H222 109.735 1.50
-HEL H221 C22 H222 108.732 2.06
-HEL C22  N23 H231 109.626 2.48
-HEL C22  N23 H232 109.626 2.48
-HEL C22  N23 H233 109.626 2.48
-HEL H231 N23 H232 109.021 2.83
-HEL H231 N23 H233 109.021 2.83
-HEL H232 N23 H233 109.021 2.83
-HEL C2   C24 H241 109.494 1.50
-HEL C2   C24 H242 109.494 1.50
-HEL C2   C24 H243 109.494 1.50
-HEL H241 C24 H242 109.486 1.50
-HEL H241 C24 H243 109.486 1.50
-HEL H242 C24 H243 109.486 1.50
-HEL C2   C25 H251 109.494 1.50
-HEL C2   C25 H252 109.494 1.50
-HEL C2   C25 H253 109.494 1.50
-HEL H251 C25 H252 109.486 1.50
-HEL H251 C25 H253 109.486 1.50
-HEL H252 C25 H253 109.486 1.50
-HEL C3   C26 O27  118.867 2.73
-HEL C3   C26 O28  118.867 2.73
-HEL O27  C26 O28  122.267 1.50
-
+HEL          C2          S1          C5      92.966    1.65
+HEL          S1          C2          C3     107.036    2.68
+HEL          S1          C2         C24     108.686    1.50
+HEL          S1          C2         C25     108.686    1.50
+HEL          C3          C2         C24     112.667    2.44
+HEL          C3          C2         C25     112.667    2.44
+HEL         C24          C2         C25     110.924    1.50
+HEL          C2          C3          N4     105.237    2.32
+HEL          C2          C3         C26     112.424    2.46
+HEL          C2          C3          H3     109.303    1.50
+HEL          N4          C3         C26     111.071    1.62
+HEL          N4          C3          H3     108.587    1.50
+HEL         C26          C3          H3     108.963    1.74
+HEL          C3          N4          C5     115.054    3.00
+HEL          C3          N4          C7     125.105    2.14
+HEL          C5          N4          C7      93.371    1.96
+HEL          S1          C5          N4     109.471    3.00
+HEL          S1          C5          C6     116.971    3.00
+HEL          S1          C5          H5     113.121    1.50
+HEL          N4          C5          C6      88.590    1.50
+HEL          N4          C5          H5     114.251    1.50
+HEL          C6          C5          H5     114.585    1.80
+HEL          C5          C6          C7      85.978    1.75
+HEL          C5          C6          N8     118.905    3.00
+HEL          C5          C6          H6     113.345    1.95
+HEL          C7          C6          N8     116.563    3.00
+HEL          C7          C6          H6     111.185    1.68
+HEL          N8          C6          H6     109.992    1.69
+HEL          N4          C7          C6      92.485    1.50
+HEL          N4          C7         O29     131.043    1.50
+HEL          C6          C7         O29     136.472    1.50
+HEL          C6          N8          C9     120.921    2.50
+HEL          C6          N8         HN8     120.323    3.00
+HEL          C9          N8         HN8     118.756    2.51
+HEL          N8          C9         O10     121.423    1.50
+HEL          N8          C9         C11     116.320    2.12
+HEL         O10          C9         C11     122.257    1.50
+HEL          C9         C11         C12     113.485    1.67
+HEL          C9         C11        H111     108.894    1.50
+HEL          C9         C11        H112     108.894    1.50
+HEL         C12         C11        H111     108.897    1.50
+HEL         C12         C11        H112     108.897    1.50
+HEL        H111         C11        H112     107.846    1.50
+HEL         C11         C12         C13     113.472    1.51
+HEL         C11         C12        H121     108.795    1.50
+HEL         C11         C12        H122     108.795    1.50
+HEL         C13         C12        H121     108.698    1.50
+HEL         C13         C12        H122     108.698    1.50
+HEL        H121         C12        H122     107.646    1.50
+HEL         C12         C13         C14     115.138    2.03
+HEL         C12         C13        H131     108.698    1.50
+HEL         C12         C13        H132     108.698    1.50
+HEL         C14         C13        H131     108.601    1.50
+HEL         C14         C13        H132     108.601    1.50
+HEL        H131         C13        H132     107.646    1.50
+HEL         C13         C14         C15     113.671    1.50
+HEL         C13         C14        H141     108.650    1.50
+HEL         C13         C14        H142     108.650    1.50
+HEL         C15         C14        H141     108.606    1.50
+HEL         C15         C14        H142     108.606    1.50
+HEL        H141         C14        H142     107.844    1.50
+HEL         C14         C15         C16     111.638    2.31
+HEL         C14         C15         N19     113.029    1.50
+HEL         C14         C15         H15     108.155    1.50
+HEL         C16         C15         N19     110.976    1.55
+HEL         C16         C15         H15     108.327    1.50
+HEL         N19         C15         H15     108.343    1.63
+HEL         C15         C16         O17     117.249    1.61
+HEL         C15         C16         O18     117.249    1.61
+HEL         O17         C16         O18     125.502    1.50
+HEL         C15         N19         C20     122.338    1.76
+HEL         C15         N19         H19     118.265    2.15
+HEL         C20         N19         H19     119.398    1.50
+HEL         N19         C20         O21     123.934    1.50
+HEL         N19         C20         C22     114.913    1.50
+HEL         O21         C20         C22     121.152    1.50
+HEL         C20         C22         N23     109.897    1.50
+HEL         C20         C22        H221     109.334    1.66
+HEL         C20         C22        H222     109.334    1.66
+HEL         N23         C22        H221     109.735    1.50
+HEL         N23         C22        H222     109.735    1.50
+HEL        H221         C22        H222     108.732    2.06
+HEL         C22         N23        H231     109.626    2.48
+HEL         C22         N23        H232     109.626    2.48
+HEL         C22         N23        H233     109.626    2.48
+HEL        H231         N23        H232     109.021    2.83
+HEL        H231         N23        H233     109.021    2.83
+HEL        H232         N23        H233     109.021    2.83
+HEL          C2         C24        H241     109.494    1.50
+HEL          C2         C24        H242     109.494    1.50
+HEL          C2         C24        H243     109.494    1.50
+HEL        H241         C24        H242     109.486    1.50
+HEL        H241         C24        H243     109.486    1.50
+HEL        H242         C24        H243     109.486    1.50
+HEL          C2         C25        H251     109.494    1.50
+HEL          C2         C25        H252     109.494    1.50
+HEL          C2         C25        H253     109.494    1.50
+HEL        H251         C25        H252     109.486    1.50
+HEL        H251         C25        H253     109.486    1.50
+HEL        H252         C25        H253     109.486    1.50
+HEL          C3         C26         O27     118.867    2.73
+HEL          C3         C26         O28     118.867    2.73
+HEL         O27         C26         O28     122.267    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -261,30 +260,29 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-HEL sp3_sp3_3  C24 C2  S1  C5   180.000 10.0 3
-HEL sp3_sp3_22 N4  C5  S1  C2   180.000 10.0 3
-HEL sp3_sp3_43 C9  C11 C12 C13  180.000 10.0 3
-HEL sp3_sp3_52 C11 C12 C13 C14  180.000 10.0 3
-HEL sp3_sp3_61 C12 C13 C14 C15  180.000 10.0 3
-HEL sp3_sp3_70 C13 C14 C15 C16  180.000 10.0 3
-HEL sp2_sp3_37 O17 C16 C15 C14  0.000   10.0 6
-HEL sp2_sp3_43 C20 N19 C15 C14  0.000   10.0 6
-HEL sp2_sp2_11 O21 C20 N19 C15  0.000   5.0  2
-HEL sp2_sp3_50 N19 C20 C22 N23  120.000 10.0 6
-HEL sp3_sp3_8  C24 C2  C3  C26  -60.000 10.0 3
-HEL sp3_sp3_31 C25 C2  C24 H241 -60.000 10.0 3
-HEL sp3_sp3_40 C24 C2  C25 H251 -60.000 10.0 3
-HEL sp3_sp3_79 C20 C22 N23 H231 180.000 10.0 3
-HEL sp2_sp3_19 O27 C26 C3  C2   0.000   10.0 6
-HEL sp2_sp3_2  C5  N4  C3  C26  120.000 10.0 6
-HEL sp2_sp3_7  C3  N4  C5  S1   0.000   10.0 6
-HEL sp2_sp2_4  O29 C7  N4  C3   0.000   5.0  2
-HEL sp3_sp3_17 S1  C5  C6  N8   -60.000 10.0 3
-HEL sp2_sp3_17 O29 C7  C6  N8   -60.000 10.0 6
-HEL sp2_sp3_25 C9  N8  C6  C5   0.000   10.0 6
-HEL sp2_sp2_7  O10 C9  N8  C6   0.000   5.0  2
-HEL sp2_sp3_32 N8  C9  C11 C12  120.000 10.0 6
-
+HEL             sp3_sp3_3         C24          C2          S1          C5     180.000    10.0     3
+HEL            sp3_sp3_22          N4          C5          S1          C2     180.000    10.0     3
+HEL            sp3_sp3_43          C9         C11         C12         C13     180.000    10.0     3
+HEL            sp3_sp3_52         C11         C12         C13         C14     180.000    10.0     3
+HEL            sp3_sp3_61         C12         C13         C14         C15     180.000    10.0     3
+HEL            sp3_sp3_70         C13         C14         C15         C16     180.000    10.0     3
+HEL            sp2_sp3_37         O17         C16         C15         C14       0.000    10.0     6
+HEL            sp2_sp3_43         C20         N19         C15         C14       0.000    10.0     6
+HEL            sp2_sp2_11         O21         C20         N19         C15       0.000     5.0     2
+HEL            sp2_sp3_50         N19         C20         C22         N23     120.000    10.0     6
+HEL             sp3_sp3_8         C24          C2          C3         C26     -60.000    10.0     3
+HEL            sp3_sp3_31         C25          C2         C24        H241     -60.000    10.0     3
+HEL            sp3_sp3_40         C24          C2         C25        H251     -60.000    10.0     3
+HEL            sp3_sp3_79         C20         C22         N23        H231     180.000    10.0     3
+HEL            sp2_sp3_19         O27         C26          C3          C2       0.000    10.0     6
+HEL             sp2_sp3_2          C5          N4          C3         C26     120.000    10.0     6
+HEL             sp2_sp3_7          C3          N4          C5          S1       0.000    10.0     6
+HEL             sp2_sp2_4         O29          C7          N4          C3       0.000     5.0     2
+HEL            sp3_sp3_17          S1          C5          C6          N8     -60.000    10.0     3
+HEL            sp2_sp3_17         O29          C7          C6          N8     -60.000    10.0     6
+HEL            sp2_sp3_25          C9          N8          C6          C5       0.000    10.0     6
+HEL             sp2_sp2_7         O10          C9          N8          C6       0.000     5.0     2
+HEL            sp2_sp3_32          N8          C9         C11         C12     120.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -293,79 +291,63 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-HEL chir_1 C2  S1  C3  C24 both
-HEL chir_2 C3  N4  C2  C26 positive
-HEL chir_3 C5  S1  N4  C6  negative
-HEL chir_4 C6  N8  C5  C7  negative
-HEL chir_5 C15 N19 C16 C14 positive
-
+HEL    chir_1    C2    S1    C3    C24    both
+HEL    chir_2    C3    N4    C2    C26    positive
+HEL    chir_3    C5    S1    N4    C6    negative
+HEL    chir_4    C6    N8    C5    C7    negative
+HEL    chir_5    C15    N19    C16    C14    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-HEL plan-1 C6  0.020
-HEL plan-1 C7  0.020
-HEL plan-1 N4  0.020
-HEL plan-1 O29 0.020
-HEL plan-2 C6  0.020
-HEL plan-2 C9  0.020
-HEL plan-2 HN8 0.020
-HEL plan-2 N8  0.020
-HEL plan-3 C11 0.020
-HEL plan-3 C9  0.020
-HEL plan-3 N8  0.020
-HEL plan-3 O10 0.020
-HEL plan-4 C15 0.020
-HEL plan-4 C16 0.020
-HEL plan-4 O17 0.020
-HEL plan-4 O18 0.020
-HEL plan-5 C15 0.020
-HEL plan-5 C20 0.020
-HEL plan-5 H19 0.020
-HEL plan-5 N19 0.020
-HEL plan-6 C20 0.020
-HEL plan-6 C22 0.020
-HEL plan-6 N19 0.020
-HEL plan-6 O21 0.020
-HEL plan-7 C26 0.020
-HEL plan-7 C3  0.020
-HEL plan-7 O27 0.020
-HEL plan-7 O28 0.020
-
+HEL    plan-1          C6   0.020
+HEL    plan-1          C7   0.020
+HEL    plan-1          N4   0.020
+HEL    plan-1         O29   0.020
+HEL    plan-2          C6   0.020
+HEL    plan-2          C9   0.020
+HEL    plan-2         HN8   0.020
+HEL    plan-2          N8   0.020
+HEL    plan-3         C11   0.020
+HEL    plan-3          C9   0.020
+HEL    plan-3          N8   0.020
+HEL    plan-3         O10   0.020
+HEL    plan-4         C15   0.020
+HEL    plan-4         C16   0.020
+HEL    plan-4         O17   0.020
+HEL    plan-4         O18   0.020
+HEL    plan-5         C15   0.020
+HEL    plan-5         C20   0.020
+HEL    plan-5         H19   0.020
+HEL    plan-5         N19   0.020
+HEL    plan-6         C20   0.020
+HEL    plan-6         C22   0.020
+HEL    plan-6         N19   0.020
+HEL    plan-6         O21   0.020
+HEL    plan-7         C26   0.020
+HEL    plan-7          C3   0.020
+HEL    plan-7         O27   0.020
+HEL    plan-7         O28   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-HEL SMILES           ACDLabs              10.04 O=C([O-])C1N2C(=O)C(NC(=O)CCCCC(C([O-])=O)NC(=O)C[NH3+])C2SC1(C)C
-HEL SMILES_CANONICAL CACTVS               3.341 CC1(C)S[C@@H]2[C@H](NC(=O)CCCC[C@H](NC(=O)C[NH3+])C([O-])=O)C(=O)N2[C@H]1C([O-])=O
-HEL SMILES           CACTVS               3.341 CC1(C)S[CH]2[CH](NC(=O)CCCC[CH](NC(=O)C[NH3+])C([O-])=O)C(=O)N2[CH]1C([O-])=O
-HEL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CCCC[C@@H](C(=O)[O-])NC(=O)C[NH3+])C(=O)[O-])C
-HEL SMILES           "OpenEye OEToolkits" 1.5.0 CC1(C(N2C(S1)C(C2=O)NC(=O)CCCCC(C(=O)[O-])NC(=O)C[NH3+])C(=O)[O-])C
-HEL InChI            InChI                1.03  InChI=1S/C17H26N4O7S/c1-17(2)12(16(27)28)21-13(24)11(14(21)29-17)20-9(22)6-4-3-5-8(15(25)26)19-10(23)7-18/h8,11-12,14H,3-7,18H2,1-2H3,(H,19,23)(H,20,22)(H,25,26)(H,27,28)/p-1/t8-,11+,12-,14+/m0/s1
-HEL InChIKey         InChI                1.03  LDJWRKFRKCXUDO-RBQWDTSBSA-M
-
+HEL           SMILES              ACDLabs 10.04                                                                                                                                    O=C([O-])C1N2C(=O)C(NC(=O)CCCCC(C([O-])=O)NC(=O)C[NH3+])C2SC1(C)C
+HEL SMILES_CANONICAL               CACTVS 3.341                                                                                                                   CC1(C)S[C@@H]2[C@H](NC(=O)CCCC[C@H](NC(=O)C[NH3+])C([O-])=O)C(=O)N2[C@H]1C([O-])=O
+HEL           SMILES               CACTVS 3.341                                                                                                                        CC1(C)S[CH]2[CH](NC(=O)CCCC[CH](NC(=O)C[NH3+])C([O-])=O)C(=O)N2[CH]1C([O-])=O
+HEL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                               CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CCCC[C@@H](C(=O)[O-])NC(=O)C[NH3+])C(=O)[O-])C
+HEL           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                  CC1(C(N2C(S1)C(C2=O)NC(=O)CCCCC(C(=O)[O-])NC(=O)C[NH3+])C(=O)[O-])C
+HEL            InChI                InChI  1.03 InChI=1S/C17H26N4O7S/c1-17(2)12(16(27)28)21-13(24)11(14(21)29-17)20-9(22)6-4-3-5-8(15(25)26)19-10(23)7-18/h8,11-12,14H,3-7,18H2,1-2H3,(H,19,23)(H,20,22)(H,25,26)(H,27,28)/p-1/t8-,11+,12-,14+/m0/s1
+HEL         InChIKey                InChI  1.03                                                                                                                                                                          LDJWRKFRKCXUDO-RBQWDTSBSA-M
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-HEL acedrg          243       "dictionary generator"
-HEL acedrg_database 11        "data source"
-HEL rdkit           2017.03.2 "Chemoinformatics tool"
-HEL refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-HEL M-peptide O17 O
-HEL M-peptide C16 C
-HEL M-peptide C15 CA
-HEL M-peptide N19 N
-HEL M-peptide C20 CN
-HEL M-peptide O18 OXT
-HEL M-peptide H19 H
+HEL acedrg               243         "dictionary generator"                  
+HEL acedrg_database      11          "data source"                           
+HEL rdkit                2017.03.2   "Chemoinformatics tool"
+HEL refmac5              5.8.0238    "optimization tool"                     

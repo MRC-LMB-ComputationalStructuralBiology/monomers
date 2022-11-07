@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-1AL 1AL "ALLANTOATE ION" NON-POLYMER 19 12 .
-
+1AL     1AL      "ALLANTOATE ION"     NON-POLYMER     19     12     .     
+#
 data_comp_1AL
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,26 +21,25 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-1AL C1   C C   0  61.965 33.345 22.458
-1AL O2   O O   0  62.981 33.915 22.900
-1AL N3   N NH2 0  61.166 33.994 21.591
-1AL N4   N NH1 0  61.684 32.067 22.828
-1AL C5   C C   0  59.194 31.912 23.088
-1AL O6   O OC  -1 59.285 32.415 24.226
-1AL O7   O O   0  58.149 31.839 22.412
-1AL C8   C CH1 0  60.485 31.328 22.466
-1AL C9   C C   0  60.702 29.333 23.974
-1AL O10  O O   0  60.807 28.097 24.088
-1AL N11  N NT2 0  60.602 30.097 25.074
-1AL N12  N NH1 0  60.659 29.909 22.743
-1AL HN31 H H   0  60.449 33.642 21.232
-1AL HN32 H H   0  61.378 34.822 21.372
-1AL HN4  H H   0  62.282 31.650 23.309
-1AL H8   H H   0  60.377 31.409 21.484
-1AL H111 H H   0  60.533 29.656 25.856
-1AL H112 H H   0  61.039 30.878 25.102
-1AL H12  H H   0  60.744 29.383 22.051
-
+1AL     C1      C       C       0       61.965      33.345      22.458      
+1AL     O2      O       O       0       62.981      33.915      22.900      
+1AL     N3      N       NH2     0       61.166      33.994      21.591      
+1AL     N4      N       NH1     0       61.684      32.067      22.828      
+1AL     C5      C       C       0       59.194      31.912      23.088      
+1AL     O6      O       OC      -1      59.285      32.415      24.226      
+1AL     O7      O       O       0       58.149      31.839      22.412      
+1AL     C8      C       CH1     0       60.485      31.328      22.466      
+1AL     C9      C       C       0       60.702      29.333      23.974      
+1AL     O10     O       O       0       60.807      28.097      24.088      
+1AL     N11     N       NT2     0       60.602      30.097      25.074      
+1AL     N12     N       NH1     0       60.659      29.909      22.743      
+1AL     HN31    H       H       0       60.449      33.642      21.232      
+1AL     HN32    H       H       0       61.378      34.822      21.372      
+1AL     HN4     H       H       0       62.282      31.650      23.309      
+1AL     H8      H       H       0       60.377      31.409      21.484      
+1AL     H111    H       H       0       60.533      29.656      25.856      
+1AL     H112    H       H       0       61.039      30.878      25.102      
+1AL     H12     H       H       0       60.744      29.383      22.051      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -49,25 +50,24 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-1AL C1  O2   DOUBLE n 1.243 0.0179 1.243 0.0179
-1AL C1  N3   SINGLE n 1.334 0.0157 1.334 0.0157
-1AL C1  N4   SINGLE n 1.351 0.0100 1.351 0.0100
-1AL N4  C8   SINGLE n 1.442 0.0145 1.442 0.0145
-1AL C5  O6   SINGLE n 1.247 0.0187 1.247 0.0187
-1AL C5  O7   DOUBLE n 1.247 0.0187 1.247 0.0187
-1AL C5  C8   SINGLE n 1.539 0.0155 1.539 0.0155
-1AL C8  N12  SINGLE n 1.442 0.0145 1.442 0.0145
-1AL C9  O10  DOUBLE n 1.243 0.0179 1.243 0.0179
-1AL C9  N11  SINGLE n 1.339 0.0100 1.339 0.0100
-1AL C9  N12  SINGLE n 1.351 0.0100 1.351 0.0100
-1AL N3  HN31 SINGLE n 1.016 0.0100 0.881 0.0200
-1AL N3  HN32 SINGLE n 1.016 0.0100 0.881 0.0200
-1AL N4  HN4  SINGLE n 1.016 0.0100 0.873 0.0200
-1AL C8  H8   SINGLE n 1.089 0.0100 0.991 0.0131
-1AL N11 H111 SINGLE n 1.016 0.0100 0.899 0.0200
-1AL N11 H112 SINGLE n 1.016 0.0100 0.899 0.0200
-1AL N12 H12  SINGLE n 1.016 0.0100 0.873 0.0200
-
+1AL          C1          O2      DOUBLE       n     1.243  0.0179     1.243  0.0179
+1AL          C1          N3      SINGLE       n     1.334  0.0157     1.334  0.0157
+1AL          C1          N4      SINGLE       n     1.351  0.0100     1.351  0.0100
+1AL          N4          C8      SINGLE       n     1.442  0.0145     1.442  0.0145
+1AL          C5          O6      SINGLE       n     1.247  0.0187     1.247  0.0187
+1AL          C5          O7      DOUBLE       n     1.247  0.0187     1.247  0.0187
+1AL          C5          C8      SINGLE       n     1.539  0.0155     1.539  0.0155
+1AL          C8         N12      SINGLE       n     1.442  0.0145     1.442  0.0145
+1AL          C9         O10      DOUBLE       n     1.243  0.0179     1.243  0.0179
+1AL          C9         N11      SINGLE       n     1.339  0.0100     1.339  0.0100
+1AL          C9         N12      SINGLE       n     1.351  0.0100     1.351  0.0100
+1AL          N3        HN31      SINGLE       n     1.016  0.0100     0.881  0.0200
+1AL          N3        HN32      SINGLE       n     1.016  0.0100     0.881  0.0200
+1AL          N4         HN4      SINGLE       n     1.016  0.0100     0.873  0.0200
+1AL          C8          H8      SINGLE       n     1.089  0.0100     0.991  0.0131
+1AL         N11        H111      SINGLE       n     1.016  0.0100     0.899  0.0200
+1AL         N11        H112      SINGLE       n     1.016  0.0100     0.899  0.0200
+1AL         N12         H12      SINGLE       n     1.016  0.0100     0.873  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -75,34 +75,33 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-1AL O2   C1  N3   121.364 1.81
-1AL O2   C1  N4   121.457 1.50
-1AL N3   C1  N4   117.179 1.50
-1AL C1   N3  HN31 119.809 2.97
-1AL C1   N3  HN32 119.809 2.97
-1AL HN31 N3  HN32 120.382 2.62
-1AL C1   N4  C8   122.205 1.61
-1AL C1   N4  HN4  118.794 1.50
-1AL C8   N4  HN4  119.000 1.83
-1AL O6   C5  O7   125.465 1.75
-1AL O6   C5  C8   117.267 1.50
-1AL O7   C5  C8   117.267 1.50
-1AL N4   C8  C5   111.249 2.34
-1AL N4   C8  N12  108.186 3.00
-1AL N4   C8  H8   107.390 1.50
-1AL C5   C8  N12  111.249 2.34
-1AL C5   C8  H8   107.385 3.00
-1AL N12  C8  H8   107.390 1.50
-1AL O10  C9  N11  121.006 1.50
-1AL O10  C9  N12  121.879 1.50
-1AL N11  C9  N12  117.116 1.58
-1AL C9   N11 H111 118.348 3.00
-1AL C9   N11 H112 118.348 3.00
-1AL H111 N11 H112 120.260 3.00
-1AL C8   N12 C9   122.205 1.61
-1AL C8   N12 H12  119.000 1.83
-1AL C9   N12 H12  118.794 1.50
-
+1AL          O2          C1          N3     121.364    1.81
+1AL          O2          C1          N4     121.457    1.50
+1AL          N3          C1          N4     117.179    1.50
+1AL          C1          N3        HN31     119.809    2.97
+1AL          C1          N3        HN32     119.809    2.97
+1AL        HN31          N3        HN32     120.382    2.62
+1AL          C1          N4          C8     122.205    1.61
+1AL          C1          N4         HN4     118.794    1.50
+1AL          C8          N4         HN4     119.000    1.83
+1AL          O6          C5          O7     125.465    1.75
+1AL          O6          C5          C8     117.267    1.50
+1AL          O7          C5          C8     117.267    1.50
+1AL          N4          C8          C5     111.249    2.34
+1AL          N4          C8         N12     108.186    3.00
+1AL          N4          C8          H8     107.390    1.50
+1AL          C5          C8         N12     111.249    2.34
+1AL          C5          C8          H8     107.385    3.00
+1AL         N12          C8          H8     107.390    1.50
+1AL         O10          C9         N11     121.006    1.50
+1AL         O10          C9         N12     121.879    1.50
+1AL         N11          C9         N12     117.116    1.58
+1AL          C9         N11        H111     118.348    3.00
+1AL          C9         N11        H112     118.348    3.00
+1AL        H111         N11        H112     120.260    3.00
+1AL          C8         N12          C9     122.205    1.61
+1AL          C8         N12         H12     119.000    1.83
+1AL          C9         N12         H12     118.794    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -113,14 +112,13 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-1AL sp2_sp2_3  O2  C1  N3  HN31 0.000   5.0  2
-1AL sp2_sp2_7  O2  C1  N4  C8   0.000   5.0  2
-1AL sp2_sp3_1  C1  N4  C8  C5   0.000   10.0 6
-1AL sp2_sp3_8  O6  C5  C8  N4   120.000 10.0 6
-1AL sp2_sp3_13 C9  N12 C8  N4   0.000   10.0 6
-1AL sp2_sp2_11 O10 C9  N11 H111 0.000   5.0  2
-1AL sp2_sp2_15 O10 C9  N12 C8   0.000   5.0  2
-
+1AL             sp2_sp2_3          O2          C1          N3        HN31       0.000     5.0     2
+1AL             sp2_sp2_7          O2          C1          N4          C8       0.000     5.0     2
+1AL             sp2_sp3_1          C1          N4          C8          C5       0.000    10.0     6
+1AL             sp2_sp3_8          O6          C5          C8          N4     120.000    10.0     6
+1AL            sp2_sp3_13          C9         N12          C8          N4       0.000    10.0     6
+1AL            sp2_sp2_11         O10          C9         N11        H111       0.000     5.0     2
+1AL            sp2_sp2_15         O10          C9         N12          C8       0.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -129,71 +127,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-1AL chir_1 C8 N4 N12 C5 both
-
+1AL    chir_1    C8    N4    N12    C5    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-1AL plan-1 C1   0.020
-1AL plan-1 N3   0.020
-1AL plan-1 N4   0.020
-1AL plan-1 O2   0.020
-1AL plan-2 C1   0.020
-1AL plan-2 HN31 0.020
-1AL plan-2 HN32 0.020
-1AL plan-2 N3   0.020
-1AL plan-3 C1   0.020
-1AL plan-3 C8   0.020
-1AL plan-3 HN4  0.020
-1AL plan-3 N4   0.020
-1AL plan-4 C5   0.020
-1AL plan-4 C8   0.020
-1AL plan-4 O6   0.020
-1AL plan-4 O7   0.020
-1AL plan-5 C9   0.020
-1AL plan-5 N11  0.020
-1AL plan-5 N12  0.020
-1AL plan-5 O10  0.020
-1AL plan-6 C8   0.020
-1AL plan-6 C9   0.020
-1AL plan-6 H12  0.020
-1AL plan-6 N12  0.020
-
+1AL    plan-1          C1   0.020
+1AL    plan-1          N3   0.020
+1AL    plan-1          N4   0.020
+1AL    plan-1          O2   0.020
+1AL    plan-2          C1   0.020
+1AL    plan-2        HN31   0.020
+1AL    plan-2        HN32   0.020
+1AL    plan-2          N3   0.020
+1AL    plan-3          C1   0.020
+1AL    plan-3          C8   0.020
+1AL    plan-3         HN4   0.020
+1AL    plan-3          N4   0.020
+1AL    plan-4          C5   0.020
+1AL    plan-4          C8   0.020
+1AL    plan-4          O6   0.020
+1AL    plan-4          O7   0.020
+1AL    plan-5          C9   0.020
+1AL    plan-5         N11   0.020
+1AL    plan-5         N12   0.020
+1AL    plan-5         O10   0.020
+1AL    plan-6          C8   0.020
+1AL    plan-6          C9   0.020
+1AL    plan-6         H12   0.020
+1AL    plan-6         N12   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-1AL SMILES           ACDLabs              10.04 O=C(NC(C([O-])=O)NC(=O)N)N
-1AL SMILES_CANONICAL CACTVS               3.341 NC(=O)NC(NC(N)=O)C([O-])=O
-1AL SMILES           CACTVS               3.341 NC(=O)NC(NC(N)=O)C([O-])=O
-1AL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C(C(=O)[O-])(NC(=O)N)NC(=O)N
-1AL SMILES           "OpenEye OEToolkits" 1.5.0 C(C(=O)[O-])(NC(=O)N)NC(=O)N
-1AL InChI            InChI                1.03  InChI=1S/C4H8N4O4/c5-3(11)7-1(2(9)10)8-4(6)12/h1H,(H,9,10)(H3,5,7,11)(H3,6,8,12)/p-1
-1AL InChIKey         InChI                1.03  NUCLJNSWZCHRKL-UHFFFAOYSA-M
-
+1AL           SMILES              ACDLabs 10.04                                                           O=C(NC(C([O-])=O)NC(=O)N)N
+1AL SMILES_CANONICAL               CACTVS 3.341                                                           NC(=O)NC(NC(N)=O)C([O-])=O
+1AL           SMILES               CACTVS 3.341                                                           NC(=O)NC(NC(N)=O)C([O-])=O
+1AL SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                         C(C(=O)[O-])(NC(=O)N)NC(=O)N
+1AL           SMILES "OpenEye OEToolkits" 1.5.0                                                         C(C(=O)[O-])(NC(=O)N)NC(=O)N
+1AL            InChI                InChI  1.03 InChI=1S/C4H8N4O4/c5-3(11)7-1(2(9)10)8-4(6)12/h1H,(H,9,10)(H3,5,7,11)(H3,6,8,12)/p-1
+1AL         InChIKey                InChI  1.03                                                          NUCLJNSWZCHRKL-UHFFFAOYSA-M
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-1AL acedrg          243       "dictionary generator"
-1AL acedrg_database 11        "data source"
-1AL rdkit           2017.03.2 "Chemoinformatics tool"
-1AL refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-1AL M-peptide O7  O
-1AL M-peptide C5  C
-1AL M-peptide C8  CA
-1AL M-peptide N4  N
-1AL M-peptide C1  CN
-1AL M-peptide O6  OXT
-1AL M-peptide HN4 H
+1AL acedrg               243         "dictionary generator"                  
+1AL acedrg_database      11          "data source"                           
+1AL rdkit                2017.03.2   "Chemoinformatics tool"
+1AL refmac5              5.8.0238    "optimization tool"                     

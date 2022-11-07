@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TPZ TPZ O-phosphono-N-(5-sulfanylpentanoyl)-L-threonine NON-POLYMER 34 19 .
-
+TPZ     TPZ      O-phosphono-N-(5-sulfanylpentanoyl)-L-threonine     NON-POLYMER     34     19     .     
+#
 data_comp_TPZ
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,41 +21,40 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TPZ C   C C    0  23.537 39.187 -45.260
-TPZ N   N NH1  0  24.615 38.789 -47.445
-TPZ O   O O    0  24.179 38.254 -44.733
-TPZ P   P P    0  21.488 35.876 -46.058
-TPZ C1  C C    0  25.152 39.465 -48.471
-TPZ O1  O O    0  24.630 40.468 -48.956
-TPZ C2  C CH2  0  26.456 38.926 -49.022
-TPZ C3  C CH2  0  27.658 39.421 -48.275
-TPZ C4  C CH2  0  28.965 38.775 -48.711
-TPZ C5  C CH2  0  29.497 39.314 -50.033
-TPZ S5  S SH1  0  30.165 40.994 -49.946
-TPZ CA  C CH1  0  23.371 39.164 -46.791
-TPZ CB  C CH1  0  22.225 38.215 -47.188
-TPZ CG  C CH3  0  21.954 38.232 -48.675
-TPZ O1P O OP   -1 21.222 36.535 -44.718
-TPZ O2P O O    0  20.260 35.835 -46.948
-TPZ O3P O OP   -1 22.166 34.525 -45.927
-TPZ O4P O O2   0  22.548 36.831 -46.816
-TPZ OXT O OC   -1 23.019 40.139 -44.644
-TPZ HN  H H    0  25.043 38.085 -47.153
-TPZ H2  H H    0  26.535 39.193 -49.962
-TPZ H2A H H    0  26.441 37.946 -48.990
-TPZ H3  H H    0  27.525 39.250 -47.319
-TPZ H3A H H    0  27.726 40.391 -48.394
-TPZ H4  H H    0  28.830 37.808 -48.799
-TPZ H4A H H    0  29.642 38.924 -48.017
-TPZ H5  H H    0  28.769 39.333 -50.682
-TPZ H5A H H    0  30.232 38.741 -50.328
-TPZ HS5 H HSH1 0  30.227 41.214 -51.127
-TPZ HA  H H    0  23.119 40.085 -47.072
-TPZ HB  H H    0  21.410 38.503 -46.706
-TPZ HG  H H    0  21.145 37.723 -48.864
-TPZ HGA H H    0  22.706 37.832 -49.148
-TPZ HGB H H    0  21.836 39.151 -48.974
-
+TPZ     C       C       C       0       23.537      39.187      -45.260     
+TPZ     N       N       NH1     0       24.615      38.789      -47.445     
+TPZ     O       O       O       0       24.179      38.254      -44.733     
+TPZ     P       P       P       0       21.488      35.876      -46.058     
+TPZ     C1      C       C       0       25.152      39.465      -48.471     
+TPZ     O1      O       O       0       24.630      40.468      -48.956     
+TPZ     C2      C       CH2     0       26.456      38.926      -49.022     
+TPZ     C3      C       CH2     0       27.658      39.421      -48.275     
+TPZ     C4      C       CH2     0       28.965      38.775      -48.711     
+TPZ     C5      C       CH2     0       29.497      39.314      -50.033     
+TPZ     S5      S       SH1     0       30.165      40.994      -49.946     
+TPZ     CA      C       CH1     0       23.371      39.164      -46.791     
+TPZ     CB      C       CH1     0       22.225      38.215      -47.188     
+TPZ     CG      C       CH3     0       21.954      38.232      -48.675     
+TPZ     O1P     O       OP      -1      21.222      36.535      -44.718     
+TPZ     O2P     O       O       0       20.260      35.835      -46.948     
+TPZ     O3P     O       OP      -1      22.166      34.525      -45.927     
+TPZ     O4P     O       O2      0       22.548      36.831      -46.816     
+TPZ     OXT     O       OC      -1      23.019      40.139      -44.644     
+TPZ     HN      H       H       0       25.043      38.085      -47.153     
+TPZ     H2      H       H       0       26.535      39.193      -49.962     
+TPZ     H2A     H       H       0       26.441      37.946      -48.990     
+TPZ     H3      H       H       0       27.525      39.250      -47.319     
+TPZ     H3A     H       H       0       27.726      40.391      -48.394     
+TPZ     H4      H       H       0       28.830      37.808      -48.799     
+TPZ     H4A     H       H       0       29.642      38.924      -48.017     
+TPZ     H5      H       H       0       28.769      39.333      -50.682     
+TPZ     H5A     H       H       0       30.232      38.741      -50.328     
+TPZ     HS5     H       HSH1    0       30.227      41.214      -51.127     
+TPZ     HA      H       H       0       23.119      40.085      -47.072     
+TPZ     HB      H       H       0       21.410      38.503      -46.706     
+TPZ     HG      H       H       0       21.145      37.723      -48.864     
+TPZ     HGA     H       H       0       22.706      37.832      -49.148     
+TPZ     HGB     H       H       0       21.836      39.151      -48.974     
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -64,40 +65,39 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TPZ C  CA  SINGLE n 1.539 0.0100 1.539 0.0100
-TPZ C  O   DOUBLE n 1.247 0.0187 1.247 0.0187
-TPZ C  OXT SINGLE n 1.247 0.0187 1.247 0.0187
-TPZ N  C1  SINGLE n 1.334 0.0100 1.334 0.0100
-TPZ N  CA  SINGLE n 1.450 0.0100 1.450 0.0100
-TPZ P  O2P DOUBLE n 1.517 0.0192 1.517 0.0192
-TPZ P  O3P SINGLE n 1.517 0.0192 1.517 0.0192
-TPZ P  O4P SINGLE n 1.614 0.0178 1.614 0.0178
-TPZ P  O1P SINGLE n 1.517 0.0192 1.517 0.0192
-TPZ C1 C2  SINGLE n 1.514 0.0100 1.514 0.0100
-TPZ C1 O1  DOUBLE n 1.229 0.0102 1.229 0.0102
-TPZ C2 C3  SINGLE n 1.497 0.0200 1.497 0.0200
-TPZ C3 C4  SINGLE n 1.519 0.0164 1.519 0.0164
-TPZ C4 C5  SINGLE n 1.522 0.0100 1.522 0.0100
-TPZ C5 S5  SINGLE n 1.810 0.0100 1.810 0.0100
-TPZ CA CB  SINGLE n 1.538 0.0100 1.538 0.0100
-TPZ CB CG  SINGLE n 1.511 0.0109 1.511 0.0109
-TPZ CB O4P SINGLE n 1.467 0.0151 1.467 0.0151
-TPZ N  HN  SINGLE n 1.016 0.0100 0.873 0.0200
-TPZ C2 H2  SINGLE n 1.089 0.0100 0.981 0.0185
-TPZ C2 H2A SINGLE n 1.089 0.0100 0.981 0.0185
-TPZ C3 H3  SINGLE n 1.089 0.0100 0.980 0.0160
-TPZ C3 H3A SINGLE n 1.089 0.0100 0.980 0.0160
-TPZ C4 H4  SINGLE n 1.089 0.0100 0.981 0.0160
-TPZ C4 H4A SINGLE n 1.089 0.0100 0.981 0.0160
-TPZ C5 H5  SINGLE n 1.089 0.0100 0.977 0.0169
-TPZ C5 H5A SINGLE n 1.089 0.0100 0.977 0.0169
-TPZ S5 HS5 SINGLE n 1.338 0.0100 1.203 0.0200
-TPZ CA HA  SINGLE n 1.089 0.0100 0.997 0.0200
-TPZ CB HB  SINGLE n 1.089 0.0100 0.989 0.0161
-TPZ CG HG  SINGLE n 1.089 0.0100 0.974 0.0145
-TPZ CG HGA SINGLE n 1.089 0.0100 0.974 0.0145
-TPZ CG HGB SINGLE n 1.089 0.0100 0.974 0.0145
-
+TPZ           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
+TPZ           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+TPZ           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+TPZ           N          C1      SINGLE       n     1.334  0.0100     1.334  0.0100
+TPZ           N          CA      SINGLE       n     1.450  0.0100     1.450  0.0100
+TPZ           P         O2P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+TPZ           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
+TPZ           P         O4P      SINGLE       n     1.614  0.0178     1.614  0.0178
+TPZ           P         O1P      SINGLE       n     1.517  0.0192     1.517  0.0192
+TPZ          C1          C2      SINGLE       n     1.514  0.0100     1.514  0.0100
+TPZ          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
+TPZ          C2          C3      SINGLE       n     1.497  0.0200     1.497  0.0200
+TPZ          C3          C4      SINGLE       n     1.519  0.0164     1.519  0.0164
+TPZ          C4          C5      SINGLE       n     1.522  0.0100     1.522  0.0100
+TPZ          C5          S5      SINGLE       n     1.810  0.0100     1.810  0.0100
+TPZ          CA          CB      SINGLE       n     1.538  0.0100     1.538  0.0100
+TPZ          CB          CG      SINGLE       n     1.511  0.0109     1.511  0.0109
+TPZ          CB         O4P      SINGLE       n     1.467  0.0151     1.467  0.0151
+TPZ           N          HN      SINGLE       n     1.016  0.0100     0.873  0.0200
+TPZ          C2          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
+TPZ          C2         H2A      SINGLE       n     1.089  0.0100     0.981  0.0185
+TPZ          C3          H3      SINGLE       n     1.089  0.0100     0.980  0.0160
+TPZ          C3         H3A      SINGLE       n     1.089  0.0100     0.980  0.0160
+TPZ          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0160
+TPZ          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0160
+TPZ          C5          H5      SINGLE       n     1.089  0.0100     0.977  0.0169
+TPZ          C5         H5A      SINGLE       n     1.089  0.0100     0.977  0.0169
+TPZ          S5         HS5      SINGLE       n     1.338  0.0100     1.203  0.0200
+TPZ          CA          HA      SINGLE       n     1.089  0.0100     0.997  0.0200
+TPZ          CB          HB      SINGLE       n     1.089  0.0100     0.989  0.0161
+TPZ          CG          HG      SINGLE       n     1.089  0.0100     0.974  0.0145
+TPZ          CG         HGA      SINGLE       n     1.089  0.0100     0.974  0.0145
+TPZ          CG         HGB      SINGLE       n     1.089  0.0100     0.974  0.0145
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -105,66 +105,65 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TPZ CA  C   O   117.371 1.50
-TPZ CA  C   OXT 117.371 1.50
-TPZ O   C   OXT 125.259 1.50
-TPZ C1  N   CA  121.656 1.76
-TPZ C1  N   HN  118.410 1.50
-TPZ CA  N   HN  119.934 1.61
-TPZ O2P P   O3P 112.864 1.69
-TPZ O2P P   O4P 105.808 2.07
-TPZ O2P P   O1P 112.864 1.69
-TPZ O3P P   O4P 105.808 2.07
-TPZ O3P P   O1P 112.864 1.69
-TPZ O4P P   O1P 105.808 2.07
-TPZ N   C1  C2  116.136 1.50
-TPZ N   C1  O1  122.033 1.50
-TPZ C2  C1  O1  121.831 1.50
-TPZ C1  C2  C3  112.836 1.50
-TPZ C1  C2  H2  108.930 1.50
-TPZ C1  C2  H2A 108.930 1.50
-TPZ C3  C2  H2  108.897 1.50
-TPZ C3  C2  H2A 108.897 1.50
-TPZ H2  C2  H2A 107.846 1.50
-TPZ C2  C3  C4  113.314 2.25
-TPZ C2  C3  H3  108.795 1.50
-TPZ C2  C3  H3A 108.795 1.50
-TPZ C4  C3  H3  108.891 1.50
-TPZ C4  C3  H3A 108.891 1.50
-TPZ H3  C3  H3A 107.646 1.50
-TPZ C3  C4  C5  112.785 1.50
-TPZ C3  C4  H4  108.963 1.50
-TPZ C3  C4  H4A 108.963 1.50
-TPZ C5  C4  H4  108.591 1.50
-TPZ C5  C4  H4A 108.591 1.50
-TPZ H4  C4  H4A 107.852 1.50
-TPZ C4  C5  S5  113.854 1.50
-TPZ C4  C5  H5  108.231 1.50
-TPZ C4  C5  H5A 108.231 1.50
-TPZ S5  C5  H5  105.353 2.82
-TPZ S5  C5  H5A 105.353 2.82
-TPZ H5  C5  H5A 111.425 1.71
-TPZ C5  S5  HS5 98.146  3.00
-TPZ C   CA  N   110.939 1.74
-TPZ C   CA  CB  110.275 1.50
-TPZ C   CA  HA  107.601 1.50
-TPZ N   CA  CB  110.507 1.90
-TPZ N   CA  HA  107.971 1.50
-TPZ CB  CA  HA  108.179 1.50
-TPZ CA  CB  CG  112.076 1.65
-TPZ CA  CB  O4P 109.482 3.00
-TPZ CA  CB  HB  108.267 2.06
-TPZ CG  CB  O4P 107.625 1.78
-TPZ CG  CB  HB  109.344 1.50
-TPZ O4P CB  HB  109.315 1.50
-TPZ CB  CG  HG  109.508 1.50
-TPZ CB  CG  HGA 109.508 1.50
-TPZ CB  CG  HGB 109.508 1.50
-TPZ HG  CG  HGA 109.425 1.50
-TPZ HG  CG  HGB 109.425 1.50
-TPZ HGA CG  HGB 109.425 1.50
-TPZ P   O4P CB  121.496 2.55
-
+TPZ          CA           C           O     117.371    1.50
+TPZ          CA           C         OXT     117.371    1.50
+TPZ           O           C         OXT     125.259    1.50
+TPZ          C1           N          CA     121.656    1.76
+TPZ          C1           N          HN     118.410    1.50
+TPZ          CA           N          HN     119.934    1.61
+TPZ         O2P           P         O3P     112.864    1.69
+TPZ         O2P           P         O4P     105.808    2.07
+TPZ         O2P           P         O1P     112.864    1.69
+TPZ         O3P           P         O4P     105.808    2.07
+TPZ         O3P           P         O1P     112.864    1.69
+TPZ         O4P           P         O1P     105.808    2.07
+TPZ           N          C1          C2     116.136    1.50
+TPZ           N          C1          O1     122.033    1.50
+TPZ          C2          C1          O1     121.831    1.50
+TPZ          C1          C2          C3     112.836    1.50
+TPZ          C1          C2          H2     108.930    1.50
+TPZ          C1          C2         H2A     108.930    1.50
+TPZ          C3          C2          H2     108.897    1.50
+TPZ          C3          C2         H2A     108.897    1.50
+TPZ          H2          C2         H2A     107.846    1.50
+TPZ          C2          C3          C4     113.314    2.25
+TPZ          C2          C3          H3     108.795    1.50
+TPZ          C2          C3         H3A     108.795    1.50
+TPZ          C4          C3          H3     108.891    1.50
+TPZ          C4          C3         H3A     108.891    1.50
+TPZ          H3          C3         H3A     107.646    1.50
+TPZ          C3          C4          C5     112.785    1.50
+TPZ          C3          C4          H4     108.963    1.50
+TPZ          C3          C4         H4A     108.963    1.50
+TPZ          C5          C4          H4     108.591    1.50
+TPZ          C5          C4         H4A     108.591    1.50
+TPZ          H4          C4         H4A     107.852    1.50
+TPZ          C4          C5          S5     113.854    1.50
+TPZ          C4          C5          H5     108.231    1.50
+TPZ          C4          C5         H5A     108.231    1.50
+TPZ          S5          C5          H5     105.353    2.82
+TPZ          S5          C5         H5A     105.353    2.82
+TPZ          H5          C5         H5A     111.425    1.71
+TPZ          C5          S5         HS5      98.146    3.00
+TPZ           C          CA           N     110.939    1.74
+TPZ           C          CA          CB     110.275    1.50
+TPZ           C          CA          HA     107.601    1.50
+TPZ           N          CA          CB     110.507    1.90
+TPZ           N          CA          HA     107.971    1.50
+TPZ          CB          CA          HA     108.179    1.50
+TPZ          CA          CB          CG     112.076    1.65
+TPZ          CA          CB         O4P     109.482    3.00
+TPZ          CA          CB          HB     108.267    2.06
+TPZ          CG          CB         O4P     107.625    1.78
+TPZ          CG          CB          HB     109.344    1.50
+TPZ         O4P          CB          HB     109.315    1.50
+TPZ          CB          CG          HG     109.508    1.50
+TPZ          CB          CG         HGA     109.508    1.50
+TPZ          CB          CG         HGB     109.508    1.50
+TPZ          HG          CG         HGA     109.425    1.50
+TPZ          HG          CG         HGB     109.425    1.50
+TPZ         HGA          CG         HGB     109.425    1.50
+TPZ           P         O4P          CB     121.496    2.55
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -175,19 +174,18 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TPZ sp2_sp3_1  O  C   CA  N   0.000   10.0 6
-TPZ sp3_sp3_34 C  CA  CB  CG  180.000 10.0 3
-TPZ sp3_sp3_43 CA CB  CG  HG  180.000 10.0 3
-TPZ sp3_sp3_52 CA CB  O4P P   180.000 10.0 3
-TPZ sp2_sp3_7  C1 N   CA  C   0.000   10.0 6
-TPZ sp2_sp2_1  C2 C1  N   CA  180.000 5.0  2
-TPZ sp3_sp3_3  CB O4P P   O2P 60.000  10.0 3
-TPZ sp2_sp3_14 N  C1  C2  C3  120.000 10.0 6
-TPZ sp3_sp3_4  C1 C2  C3  C4  180.000 10.0 3
-TPZ sp3_sp3_13 C2 C3  C4  C5  180.000 10.0 3
-TPZ sp3_sp3_22 C3 C4  C5  S5  180.000 10.0 3
-TPZ sp3_sp3_31 C4 C5  S5  HS5 180.000 10.0 3
-
+TPZ             sp2_sp3_1           O           C          CA           N       0.000    10.0     6
+TPZ            sp3_sp3_34           C          CA          CB          CG     180.000    10.0     3
+TPZ            sp3_sp3_43          CA          CB          CG          HG     180.000    10.0     3
+TPZ            sp3_sp3_52          CA          CB         O4P           P     180.000    10.0     3
+TPZ             sp2_sp3_7          C1           N          CA           C       0.000    10.0     6
+TPZ             sp2_sp2_1          C2          C1           N          CA     180.000     5.0     2
+TPZ             sp3_sp3_3          CB         O4P           P         O2P      60.000    10.0     3
+TPZ            sp2_sp3_14           N          C1          C2          C3     120.000    10.0     6
+TPZ             sp3_sp3_4          C1          C2          C3          C4     180.000    10.0     3
+TPZ            sp3_sp3_13          C2          C3          C4          C5     180.000    10.0     3
+TPZ            sp3_sp3_22          C3          C4          C5          S5     180.000    10.0     3
+TPZ            sp3_sp3_31          C4          C5          S5         HS5     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -196,56 +194,45 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TPZ chir_1 P  O4P O3P O1P both
-TPZ chir_2 CA N   C   CB  positive
-TPZ chir_3 CB O4P CA  CG  negative
-
+TPZ    chir_1    P    O4P    O3P    O1P    both
+TPZ    chir_2    CA    N    C    CB    positive
+TPZ    chir_3    CB    O4P    CA    CG    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TPZ plan-1 C   0.020
-TPZ plan-1 CA  0.020
-TPZ plan-1 O   0.020
-TPZ plan-1 OXT 0.020
-TPZ plan-2 C1  0.020
-TPZ plan-2 CA  0.020
-TPZ plan-2 HN  0.020
-TPZ plan-2 N   0.020
-TPZ plan-3 C1  0.020
-TPZ plan-3 C2  0.020
-TPZ plan-3 N   0.020
-TPZ plan-3 O1  0.020
-
+TPZ    plan-1           C   0.020
+TPZ    plan-1          CA   0.020
+TPZ    plan-1           O   0.020
+TPZ    plan-1         OXT   0.020
+TPZ    plan-2          C1   0.020
+TPZ    plan-2          CA   0.020
+TPZ    plan-2          HN   0.020
+TPZ    plan-2           N   0.020
+TPZ    plan-3          C1   0.020
+TPZ    plan-3          C2   0.020
+TPZ    plan-3           N   0.020
+TPZ    plan-3          O1   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TPZ SMILES           ACDLabs              12.01 O=C(NC(C(=O)O)C(OP(=O)(O)O)C)CCCCS
-TPZ SMILES_CANONICAL CACTVS               3.370 C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCS)C(O)=O
-TPZ SMILES           CACTVS               3.370 C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCS)C(O)=O
-TPZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 C[C@H]([C@@H](C(=O)O)NC(=O)CCCCS)OP(=O)(O)O
-TPZ SMILES           "OpenEye OEToolkits" 1.7.0 CC(C(C(=O)O)NC(=O)CCCCS)OP(=O)(O)O
-TPZ InChI            InChI                1.03  InChI=1S/C9H18NO7PS/c1-6(17-18(14,15)16)8(9(12)13)10-7(11)4-2-3-5-19/h6,8,19H,2-5H2,1H3,(H,10,11)(H,12,13)(H2,14,15,16)/t6-,8+/m1/s1
-TPZ InChIKey         InChI                1.03  PXLGZPNRHROFQI-SVRRBLITSA-N
-
+TPZ           SMILES              ACDLabs 12.01                                                                                                   O=C(NC(C(=O)O)C(OP(=O)(O)O)C)CCCCS
+TPZ SMILES_CANONICAL               CACTVS 3.370                                                                                        C[C@@H](O[P](O)(O)=O)[C@H](NC(=O)CCCCS)C(O)=O
+TPZ           SMILES               CACTVS 3.370                                                                                           C[CH](O[P](O)(O)=O)[CH](NC(=O)CCCCS)C(O)=O
+TPZ SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                          C[C@H]([C@@H](C(=O)O)NC(=O)CCCCS)OP(=O)(O)O
+TPZ           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                   CC(C(C(=O)O)NC(=O)CCCCS)OP(=O)(O)O
+TPZ            InChI                InChI  1.03 InChI=1S/C9H18NO7PS/c1-6(17-18(14,15)16)8(9(12)13)10-7(11)4-2-3-5-19/h6,8,19H,2-5H2,1H3,(H,10,11)(H,12,13)(H2,14,15,16)/t6-,8+/m1/s1
+TPZ         InChIKey                InChI  1.03                                                                                                          PXLGZPNRHROFQI-SVRRBLITSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TPZ acedrg          243       "dictionary generator"
-TPZ acedrg_database 11        "data source"
-TPZ rdkit           2017.03.2 "Chemoinformatics tool"
-TPZ refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-TPZ M-peptide C1 CN
-TPZ M-peptide HN H
+TPZ acedrg               243         "dictionary generator"                  
+TPZ acedrg_database      11          "data source"                           
+TPZ rdkit                2017.03.2   "Chemoinformatics tool"
+TPZ refmac5              5.8.0238    "optimization tool"                     

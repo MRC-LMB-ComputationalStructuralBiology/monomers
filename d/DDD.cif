@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DDD DDD "(5R,10S)-5-{[(CARBOXYMETHYL)AMINO]CARBONYL}-7-OXO-3-THIA-1,6-DIAZABICYCLO[4.4.1]UNDECANE-10-CARBOXYLIC ACID" NON-POLYMER 37 22 .
-
+DDD     DDD      "(5R,10S)-5-{[(CARBOXYMETHYL)AMINO]CARBONYL}-7-OXO-3-THIA-1,6-DIAZABICYCLO[4.4.1]UNDECANE-10-CARBOXYLIC ACID"     NON-POLYMER     37     22     .     
+#
 data_comp_DDD
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,44 +21,43 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DDD O31  O OC  -1 3.703  15.546 24.395
-DDD C3   C C   0  2.762  14.799 24.053
-DDD O32  O O   0  2.889  13.756 23.377
-DDD CA4  C CH1 0  1.339  15.170 24.526
-DDD CB2  C CH2 0  0.327  15.087 23.369
-DDD CG2  C CH2 0  0.540  16.098 22.244
-DDD CD1  C C   0  -0.103 17.435 22.530
-DDD OE1  O O   0  -0.814 17.960 21.674
-DDD N2   N N   0  0.172  18.030 23.721
-DDD CA3  C CH2 0  1.378  17.694 24.502
-DDD N3   N NT  0  1.315  16.444 25.277
-DDD CD2  C CH2 0  0.441  16.534 26.466
-DDD SD   S S2  0  -1.258 17.023 26.121
-DDD CB1  C CH2 0  -1.060 18.788 25.748
-DDD CA2  C CH1 0  -0.717 19.068 24.286
-DDD C2   C C   0  -0.180 20.497 24.137
-DDD O2   O O   0  0.992  20.698 23.820
-DDD N1   N NH1 0  -1.058 21.482 24.358
-DDD CA1  C CH2 0  -0.699 22.881 24.269
-DDD C1   C C   0  -0.539 23.362 22.828
-DDD O11  O OC  -1 0.604  23.704 22.466
-DDD O12  O O   0  -1.563 23.379 22.117
-DDD HA4  H H   0  1.075  14.474 25.177
-DDD HB21 H H   0  0.360  14.184 22.991
-DDD HB22 H H   0  -0.571 15.214 23.741
-DDD HG21 H H   0  0.151  15.740 21.417
-DDD HG22 H H   0  1.498  16.229 22.087
-DDD HA31 H H   0  2.146  17.636 23.880
-DDD HA32 H H   0  1.572  18.433 25.131
-DDD HD21 H H   0  0.828  17.189 27.083
-DDD HD22 H H   0  0.428  15.668 26.922
-DDD HB11 H H   0  -0.358 19.148 26.313
-DDD HB12 H H   0  -1.885 19.248 25.969
-DDD HA2  H H   0  -1.570 19.022 23.784
-DDD HN1  H H   0  -1.882 21.273 24.561
-DDD HA11 H H   0  0.140  23.033 24.746
-DDD HA12 H H   0  -1.393 23.416 24.700
-
+DDD     O31     O       OC      -1      3.703       15.546      24.395      
+DDD     C3      C       C       0       2.762       14.799      24.053      
+DDD     O32     O       O       0       2.889       13.756      23.377      
+DDD     CA4     C       CH1     0       1.339       15.170      24.526      
+DDD     CB2     C       CH2     0       0.327       15.087      23.369      
+DDD     CG2     C       CH2     0       0.540       16.098      22.244      
+DDD     CD1     C       C       0       -0.103      17.435      22.530      
+DDD     OE1     O       O       0       -0.814      17.960      21.674      
+DDD     N2      N       N       0       0.172       18.030      23.721      
+DDD     CA3     C       CH2     0       1.378       17.694      24.502      
+DDD     N3      N       NT      0       1.315       16.444      25.277      
+DDD     CD2     C       CH2     0       0.441       16.534      26.466      
+DDD     SD      S       S2      0       -1.258      17.023      26.121      
+DDD     CB1     C       CH2     0       -1.060      18.788      25.748      
+DDD     CA2     C       CH1     0       -0.717      19.068      24.286      
+DDD     C2      C       C       0       -0.180      20.497      24.137      
+DDD     O2      O       O       0       0.992       20.698      23.820      
+DDD     N1      N       NH1     0       -1.058      21.482      24.358      
+DDD     CA1     C       CH2     0       -0.699      22.881      24.269      
+DDD     C1      C       C       0       -0.539      23.362      22.828      
+DDD     O11     O       OC      -1      0.604       23.704      22.466      
+DDD     O12     O       O       0       -1.563      23.379      22.117      
+DDD     HA4     H       H       0       1.075       14.474      25.177      
+DDD     HB21    H       H       0       0.360       14.184      22.991      
+DDD     HB22    H       H       0       -0.571      15.214      23.741      
+DDD     HG21    H       H       0       0.151       15.740      21.417      
+DDD     HG22    H       H       0       1.498       16.229      22.087      
+DDD     HA31    H       H       0       2.146       17.636      23.880      
+DDD     HA32    H       H       0       1.572       18.433      25.131      
+DDD     HD21    H       H       0       0.828       17.189      27.083      
+DDD     HD22    H       H       0       0.428       15.668      26.922      
+DDD     HB11    H       H       0       -0.358      19.148      26.313      
+DDD     HB12    H       H       0       -1.885      19.248      25.969      
+DDD     HA2     H       H       0       -1.570      19.022      23.784      
+DDD     HN1     H       H       0       -1.882      21.273      24.561      
+DDD     HA11    H       H       0       0.140       23.033      24.746      
+DDD     HA12    H       H       0       -1.393      23.416      24.700      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -67,45 +68,44 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DDD O31 C3   SINGLE n 1.247 0.0187 1.247 0.0187
-DDD C3  O32  DOUBLE n 1.247 0.0187 1.247 0.0187
-DDD C3  CA4  SINGLE n 1.539 0.0100 1.539 0.0100
-DDD CA4 CB2  SINGLE n 1.533 0.0100 1.533 0.0100
-DDD CA4 N3   SINGLE n 1.471 0.0100 1.471 0.0100
-DDD CB2 CG2  SINGLE n 1.522 0.0131 1.522 0.0131
-DDD CG2 CD1  SINGLE n 1.510 0.0100 1.510 0.0100
-DDD CD1 OE1  DOUBLE n 1.229 0.0102 1.229 0.0102
-DDD CD1 N2   SINGLE n 1.351 0.0113 1.351 0.0113
-DDD N2  CA2  SINGLE n 1.469 0.0100 1.469 0.0100
-DDD N2  CA3  SINGLE n 1.465 0.0141 1.465 0.0141
-DDD CA3 N3   SINGLE n 1.464 0.0143 1.464 0.0143
-DDD N3  CD2  SINGLE n 1.467 0.0139 1.467 0.0139
-DDD CD2 SD   SINGLE n 1.799 0.0100 1.799 0.0100
-DDD SD  CB1  SINGLE n 1.813 0.0103 1.813 0.0103
-DDD CB1 CA2  SINGLE n 1.524 0.0100 1.524 0.0100
-DDD CA2 C2   SINGLE n 1.529 0.0100 1.529 0.0100
-DDD C2  O2   DOUBLE n 1.229 0.0102 1.229 0.0102
-DDD C2  N1   SINGLE n 1.333 0.0100 1.333 0.0100
-DDD N1  CA1  SINGLE n 1.445 0.0100 1.445 0.0100
-DDD CA1 C1   SINGLE n 1.527 0.0103 1.527 0.0103
-DDD C1  O12  DOUBLE n 1.247 0.0187 1.247 0.0187
-DDD C1  O11  SINGLE n 1.247 0.0187 1.247 0.0187
-DDD CA4 HA4  SINGLE n 1.089 0.0100 0.990 0.0200
-DDD CB2 HB21 SINGLE n 1.089 0.0100 0.980 0.0178
-DDD CB2 HB22 SINGLE n 1.089 0.0100 0.980 0.0178
-DDD CG2 HG21 SINGLE n 1.089 0.0100 0.981 0.0185
-DDD CG2 HG22 SINGLE n 1.089 0.0100 0.981 0.0185
-DDD CA3 HA31 SINGLE n 1.089 0.0100 0.990 0.0100
-DDD CA3 HA32 SINGLE n 1.089 0.0100 0.990 0.0100
-DDD CD2 HD21 SINGLE n 1.089 0.0100 0.979 0.0134
-DDD CD2 HD22 SINGLE n 1.089 0.0100 0.979 0.0134
-DDD CB1 HB11 SINGLE n 1.089 0.0100 0.970 0.0100
-DDD CB1 HB12 SINGLE n 1.089 0.0100 0.970 0.0100
-DDD CA2 HA2  SINGLE n 1.089 0.0100 0.991 0.0200
-DDD N1  HN1  SINGLE n 1.016 0.0100 0.873 0.0200
-DDD CA1 HA11 SINGLE n 1.089 0.0100 0.977 0.0124
-DDD CA1 HA12 SINGLE n 1.089 0.0100 0.977 0.0124
-
+DDD         O31          C3      SINGLE       n     1.247  0.0187     1.247  0.0187
+DDD          C3         O32      DOUBLE       n     1.247  0.0187     1.247  0.0187
+DDD          C3         CA4      SINGLE       n     1.539  0.0100     1.539  0.0100
+DDD         CA4         CB2      SINGLE       n     1.533  0.0100     1.533  0.0100
+DDD         CA4          N3      SINGLE       n     1.471  0.0100     1.471  0.0100
+DDD         CB2         CG2      SINGLE       n     1.522  0.0131     1.522  0.0131
+DDD         CG2         CD1      SINGLE       n     1.510  0.0100     1.510  0.0100
+DDD         CD1         OE1      DOUBLE       n     1.229  0.0102     1.229  0.0102
+DDD         CD1          N2      SINGLE       n     1.351  0.0113     1.351  0.0113
+DDD          N2         CA2      SINGLE       n     1.469  0.0100     1.469  0.0100
+DDD          N2         CA3      SINGLE       n     1.465  0.0141     1.465  0.0141
+DDD         CA3          N3      SINGLE       n     1.464  0.0143     1.464  0.0143
+DDD          N3         CD2      SINGLE       n     1.467  0.0139     1.467  0.0139
+DDD         CD2          SD      SINGLE       n     1.799  0.0100     1.799  0.0100
+DDD          SD         CB1      SINGLE       n     1.813  0.0103     1.813  0.0103
+DDD         CB1         CA2      SINGLE       n     1.524  0.0100     1.524  0.0100
+DDD         CA2          C2      SINGLE       n     1.529  0.0100     1.529  0.0100
+DDD          C2          O2      DOUBLE       n     1.229  0.0102     1.229  0.0102
+DDD          C2          N1      SINGLE       n     1.333  0.0100     1.333  0.0100
+DDD          N1         CA1      SINGLE       n     1.445  0.0100     1.445  0.0100
+DDD         CA1          C1      SINGLE       n     1.527  0.0103     1.527  0.0103
+DDD          C1         O12      DOUBLE       n     1.247  0.0187     1.247  0.0187
+DDD          C1         O11      SINGLE       n     1.247  0.0187     1.247  0.0187
+DDD         CA4         HA4      SINGLE       n     1.089  0.0100     0.990  0.0200
+DDD         CB2        HB21      SINGLE       n     1.089  0.0100     0.980  0.0178
+DDD         CB2        HB22      SINGLE       n     1.089  0.0100     0.980  0.0178
+DDD         CG2        HG21      SINGLE       n     1.089  0.0100     0.981  0.0185
+DDD         CG2        HG22      SINGLE       n     1.089  0.0100     0.981  0.0185
+DDD         CA3        HA31      SINGLE       n     1.089  0.0100     0.990  0.0100
+DDD         CA3        HA32      SINGLE       n     1.089  0.0100     0.990  0.0100
+DDD         CD2        HD21      SINGLE       n     1.089  0.0100     0.979  0.0134
+DDD         CD2        HD22      SINGLE       n     1.089  0.0100     0.979  0.0134
+DDD         CB1        HB11      SINGLE       n     1.089  0.0100     0.970  0.0100
+DDD         CB1        HB12      SINGLE       n     1.089  0.0100     0.970  0.0100
+DDD         CA2         HA2      SINGLE       n     1.089  0.0100     0.991  0.0200
+DDD          N1         HN1      SINGLE       n     1.016  0.0100     0.873  0.0200
+DDD         CA1        HA11      SINGLE       n     1.089  0.0100     0.977  0.0124
+DDD         CA1        HA12      SINGLE       n     1.089  0.0100     0.977  0.0124
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -113,77 +113,76 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DDD O31  C3  O32  125.548 1.50
-DDD O31  C3  CA4  117.226 1.56
-DDD O32  C3  CA4  117.226 1.56
-DDD C3   CA4 CB2  110.328 1.98
-DDD C3   CA4 N3   112.134 2.59
-DDD C3   CA4 HA4  108.169 1.50
-DDD CB2  CA4 N3   111.883 2.59
-DDD CB2  CA4 HA4  108.223 1.50
-DDD N3   CA4 HA4  106.450 1.50
-DDD CA4  CB2 CG2  113.079 1.50
-DDD CA4  CB2 HB21 108.562 1.50
-DDD CA4  CB2 HB22 108.562 1.50
-DDD CG2  CB2 HB21 109.107 1.50
-DDD CG2  CB2 HB22 109.107 1.50
-DDD HB21 CB2 HB22 107.844 1.50
-DDD CB2  CG2 CD1  112.984 1.82
-DDD CB2  CG2 HG21 109.204 1.50
-DDD CB2  CG2 HG22 109.204 1.50
-DDD CD1  CG2 HG21 108.617 2.19
-DDD CD1  CG2 HG22 108.617 2.19
-DDD HG21 CG2 HG22 107.846 1.50
-DDD CG2  CD1 OE1  120.414 1.50
-DDD CG2  CD1 N2   117.917 1.50
-DDD OE1  CD1 N2   121.670 2.26
-DDD CD1  N2  CA2  120.446 3.00
-DDD CD1  N2  CA3  123.137 1.66
-DDD CA2  N2  CA3  116.417 2.02
-DDD N2   CA3 N3   114.552 2.67
-DDD N2   CA3 HA31 108.269 1.50
-DDD N2   CA3 HA32 108.269 1.50
-DDD N3   CA3 HA31 108.136 1.50
-DDD N3   CA3 HA32 108.136 1.50
-DDD HA31 CA3 HA32 107.604 1.50
-DDD CA4  N3  CA3  115.376 1.82
-DDD CA4  N3  CD2  112.615 2.70
-DDD CA3  N3  CD2  112.615 2.70
-DDD N3   CD2 SD   109.471 3.00
-DDD N3   CD2 HD21 108.777 1.50
-DDD N3   CD2 HD22 108.777 1.50
-DDD SD   CD2 HD21 108.707 1.51
-DDD SD   CD2 HD22 108.707 1.51
-DDD HD21 CD2 HD22 108.188 1.50
-DDD CD2  SD  CB1  101.627 1.50
-DDD SD   CB1 CA2  112.239 3.00
-DDD SD   CB1 HB11 108.654 1.50
-DDD SD   CB1 HB12 108.654 1.50
-DDD CA2  CB1 HB11 108.695 1.50
-DDD CA2  CB1 HB12 108.695 1.50
-DDD HB11 CB1 HB12 107.812 1.50
-DDD N2   CA2 CB1  111.308 2.28
-DDD N2   CA2 C2   110.547 2.68
-DDD N2   CA2 HA2  106.680 1.50
-DDD CB1  CA2 C2   109.498 1.55
-DDD CB1  CA2 HA2  107.802 1.50
-DDD C2   CA2 HA2  108.061 1.50
-DDD CA2  C2  O2   120.496 1.50
-DDD CA2  C2  N1   116.483 1.50
-DDD O2   C2  N1   123.021 1.50
-DDD C2   N1  CA1  121.705 1.50
-DDD C2   N1  HN1  118.990 1.52
-DDD CA1  N1  HN1  119.305 1.57
-DDD N1   CA1 C1   112.537 1.50
-DDD N1   CA1 HA11 109.066 1.50
-DDD N1   CA1 HA12 109.066 1.50
-DDD C1   CA1 HA11 108.590 1.50
-DDD C1   CA1 HA12 108.590 1.50
-DDD HA11 CA1 HA12 107.999 1.50
-DDD CA1  C1  O12  117.139 1.80
-DDD CA1  C1  O11  117.139 1.80
-DDD O12  C1  O11  125.722 1.50
-
+DDD         O31          C3         O32     125.548    1.50
+DDD         O31          C3         CA4     117.226    1.56
+DDD         O32          C3         CA4     117.226    1.56
+DDD          C3         CA4         CB2     110.328    1.98
+DDD          C3         CA4          N3     112.134    2.59
+DDD          C3         CA4         HA4     108.169    1.50
+DDD         CB2         CA4          N3     111.883    2.59
+DDD         CB2         CA4         HA4     108.223    1.50
+DDD          N3         CA4         HA4     106.450    1.50
+DDD         CA4         CB2         CG2     113.079    1.50
+DDD         CA4         CB2        HB21     108.562    1.50
+DDD         CA4         CB2        HB22     108.562    1.50
+DDD         CG2         CB2        HB21     109.107    1.50
+DDD         CG2         CB2        HB22     109.107    1.50
+DDD        HB21         CB2        HB22     107.844    1.50
+DDD         CB2         CG2         CD1     112.984    1.82
+DDD         CB2         CG2        HG21     109.204    1.50
+DDD         CB2         CG2        HG22     109.204    1.50
+DDD         CD1         CG2        HG21     108.617    2.19
+DDD         CD1         CG2        HG22     108.617    2.19
+DDD        HG21         CG2        HG22     107.846    1.50
+DDD         CG2         CD1         OE1     120.414    1.50
+DDD         CG2         CD1          N2     117.917    1.50
+DDD         OE1         CD1          N2     121.670    2.26
+DDD         CD1          N2         CA2     120.446    3.00
+DDD         CD1          N2         CA3     123.137    1.66
+DDD         CA2          N2         CA3     116.417    2.02
+DDD          N2         CA3          N3     114.552    2.67
+DDD          N2         CA3        HA31     108.269    1.50
+DDD          N2         CA3        HA32     108.269    1.50
+DDD          N3         CA3        HA31     108.136    1.50
+DDD          N3         CA3        HA32     108.136    1.50
+DDD        HA31         CA3        HA32     107.604    1.50
+DDD         CA4          N3         CA3     115.376    1.82
+DDD         CA4          N3         CD2     112.615    2.70
+DDD         CA3          N3         CD2     112.615    2.70
+DDD          N3         CD2          SD     109.471    3.00
+DDD          N3         CD2        HD21     108.777    1.50
+DDD          N3         CD2        HD22     108.777    1.50
+DDD          SD         CD2        HD21     108.707    1.51
+DDD          SD         CD2        HD22     108.707    1.51
+DDD        HD21         CD2        HD22     108.188    1.50
+DDD         CD2          SD         CB1     101.627    1.50
+DDD          SD         CB1         CA2     112.239    3.00
+DDD          SD         CB1        HB11     108.654    1.50
+DDD          SD         CB1        HB12     108.654    1.50
+DDD         CA2         CB1        HB11     108.695    1.50
+DDD         CA2         CB1        HB12     108.695    1.50
+DDD        HB11         CB1        HB12     107.812    1.50
+DDD          N2         CA2         CB1     111.308    2.28
+DDD          N2         CA2          C2     110.547    2.68
+DDD          N2         CA2         HA2     106.680    1.50
+DDD         CB1         CA2          C2     109.498    1.55
+DDD         CB1         CA2         HA2     107.802    1.50
+DDD          C2         CA2         HA2     108.061    1.50
+DDD         CA2          C2          O2     120.496    1.50
+DDD         CA2          C2          N1     116.483    1.50
+DDD          O2          C2          N1     123.021    1.50
+DDD          C2          N1         CA1     121.705    1.50
+DDD          C2          N1         HN1     118.990    1.52
+DDD         CA1          N1         HN1     119.305    1.57
+DDD          N1         CA1          C1     112.537    1.50
+DDD          N1         CA1        HA11     109.066    1.50
+DDD          N1         CA1        HA12     109.066    1.50
+DDD          C1         CA1        HA11     108.590    1.50
+DDD          C1         CA1        HA12     108.590    1.50
+DDD        HA11         CA1        HA12     107.999    1.50
+DDD         CA1          C1         O12     117.139    1.80
+DDD         CA1          C1         O11     117.139    1.80
+DDD         O12          C1         O11     125.722    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -194,24 +193,23 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DDD sp3_sp3_31 SD  CD2 N3  CA4 180.000 10.0 3
-DDD sp3_sp3_37 N3  CD2 SD  CB1 180.000 10.0 3
-DDD sp3_sp3_40 CA2 CB1 SD  CD2 180.000 10.0 3
-DDD sp3_sp3_43 N2  CA2 CB1 SD  180.000 10.0 3
-DDD sp2_sp3_25 O2  C2  CA2 N2  0.000   10.0 6
-DDD sp2_sp2_5  CA2 C2  N1  CA1 180.000 5.0  2
-DDD sp2_sp3_32 C2  N1  CA1 C1  120.000 10.0 6
-DDD sp2_sp3_38 O12 C1  CA1 N1  120.000 10.0 6
-DDD sp2_sp3_1  O31 C3  CA4 CB2 0.000   10.0 6
-DDD sp3_sp3_10 C3  CA4 N3  CA3 180.000 10.0 3
-DDD sp3_sp3_1  C3  CA4 CB2 CG2 180.000 10.0 3
-DDD sp3_sp3_16 CA4 CB2 CG2 CD1 180.000 10.0 3
-DDD sp2_sp3_8  OE1 CD1 CG2 CB2 120.000 10.0 6
-DDD sp2_sp2_1  CG2 CD1 N2  CA2 180.000 5.0  2
-DDD sp2_sp3_13 CD1 N2  CA2 CB1 0.000   10.0 6
-DDD sp2_sp3_20 CD1 N2  CA3 N3  120.000 10.0 6
-DDD sp3_sp3_25 N2  CA3 N3  CA4 180.000 10.0 3
-
+DDD            sp3_sp3_31          SD         CD2          N3         CA4     180.000    10.0     3
+DDD            sp3_sp3_37          N3         CD2          SD         CB1     180.000    10.0     3
+DDD            sp3_sp3_40         CA2         CB1          SD         CD2     180.000    10.0     3
+DDD            sp3_sp3_43          N2         CA2         CB1          SD     180.000    10.0     3
+DDD            sp2_sp3_25          O2          C2         CA2          N2       0.000    10.0     6
+DDD             sp2_sp2_5         CA2          C2          N1         CA1     180.000     5.0     2
+DDD            sp2_sp3_32          C2          N1         CA1          C1     120.000    10.0     6
+DDD            sp2_sp3_38         O12          C1         CA1          N1     120.000    10.0     6
+DDD             sp2_sp3_1         O31          C3         CA4         CB2       0.000    10.0     6
+DDD            sp3_sp3_10          C3         CA4          N3         CA3     180.000    10.0     3
+DDD             sp3_sp3_1          C3         CA4         CB2         CG2     180.000    10.0     3
+DDD            sp3_sp3_16         CA4         CB2         CG2         CD1     180.000    10.0     3
+DDD             sp2_sp3_8         OE1         CD1         CG2         CB2     120.000    10.0     6
+DDD             sp2_sp2_1         CG2         CD1          N2         CA2     180.000     5.0     2
+DDD            sp2_sp3_13         CD1          N2         CA2         CB1       0.000    10.0     6
+DDD            sp2_sp3_20         CD1          N2         CA3          N3     120.000    10.0     6
+DDD            sp3_sp3_25          N2         CA3          N3         CA4     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -220,73 +218,57 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DDD chir_1 CA4 N3  C3  CB2 positive
-DDD chir_2 N3  CD2 CA3 CA4 positive
-DDD chir_3 CA2 N2  CB1 C2  negative
-
+DDD    chir_1    CA4    N3    C3    CB2    positive
+DDD    chir_2    N3    CD2    CA3    CA4    positive
+DDD    chir_3    CA2    N2    CB1    C2    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DDD plan-1 C3  0.020
-DDD plan-1 CA4 0.020
-DDD plan-1 O31 0.020
-DDD plan-1 O32 0.020
-DDD plan-2 CD1 0.020
-DDD plan-2 CG2 0.020
-DDD plan-2 N2  0.020
-DDD plan-2 OE1 0.020
-DDD plan-3 CA2 0.020
-DDD plan-3 CA3 0.020
-DDD plan-3 CD1 0.020
-DDD plan-3 N2  0.020
-DDD plan-4 C2  0.020
-DDD plan-4 CA2 0.020
-DDD plan-4 N1  0.020
-DDD plan-4 O2  0.020
-DDD plan-5 C2  0.020
-DDD plan-5 CA1 0.020
-DDD plan-5 HN1 0.020
-DDD plan-5 N1  0.020
-DDD plan-6 C1  0.020
-DDD plan-6 CA1 0.020
-DDD plan-6 O11 0.020
-DDD plan-6 O12 0.020
-
+DDD    plan-1          C3   0.020
+DDD    plan-1         CA4   0.020
+DDD    plan-1         O31   0.020
+DDD    plan-1         O32   0.020
+DDD    plan-2         CD1   0.020
+DDD    plan-2         CG2   0.020
+DDD    plan-2          N2   0.020
+DDD    plan-2         OE1   0.020
+DDD    plan-3         CA2   0.020
+DDD    plan-3         CA3   0.020
+DDD    plan-3         CD1   0.020
+DDD    plan-3          N2   0.020
+DDD    plan-4          C2   0.020
+DDD    plan-4         CA2   0.020
+DDD    plan-4          N1   0.020
+DDD    plan-4          O2   0.020
+DDD    plan-5          C2   0.020
+DDD    plan-5         CA1   0.020
+DDD    plan-5         HN1   0.020
+DDD    plan-5          N1   0.020
+DDD    plan-6          C1   0.020
+DDD    plan-6         CA1   0.020
+DDD    plan-6         O11   0.020
+DDD    plan-6         O12   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DDD SMILES           ACDLabs              10.04 O=C(O)CNC(=O)C2N1C(=O)CCC(N(C1)CSC2)C(=O)O
-DDD SMILES_CANONICAL CACTVS               3.341 OC(=O)CNC(=O)[C@@H]1CSCN2CN1C(=O)CC[C@H]2C(O)=O
-DDD SMILES           CACTVS               3.341 OC(=O)CNC(=O)[CH]1CSCN2CN1C(=O)CC[CH]2C(O)=O
-DDD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C1CC(=O)N2C[N@]([C@@H]1C(=O)O)CSC[C@H]2C(=O)NCC(=O)O
-DDD SMILES           "OpenEye OEToolkits" 1.5.0 C1CC(=O)N2CN(C1C(=O)O)CSCC2C(=O)NCC(=O)O
-DDD InChI            InChI                1.03  InChI=1S/C12H17N3O6S/c16-9-2-1-7(12(20)21)14-5-15(9)8(4-22-6-14)11(19)13-3-10(17)18/h7-8H,1-6H2,(H,13,19)(H,17,18)(H,20,21)/t7-,8-/m0/s1
-DDD InChIKey         InChI                1.03  FNEMNSFAPZMNDP-YUMQZZPRSA-N
-
+DDD           SMILES              ACDLabs 10.04                                                                                               O=C(O)CNC(=O)C2N1C(=O)CCC(N(C1)CSC2)C(=O)O
+DDD SMILES_CANONICAL               CACTVS 3.341                                                                                          OC(=O)CNC(=O)[C@@H]1CSCN2CN1C(=O)CC[C@H]2C(O)=O
+DDD           SMILES               CACTVS 3.341                                                                                             OC(=O)CNC(=O)[CH]1CSCN2CN1C(=O)CC[CH]2C(O)=O
+DDD SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                     C1CC(=O)N2C[N@]([C@@H]1C(=O)O)CSC[C@H]2C(=O)NCC(=O)O
+DDD           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                 C1CC(=O)N2CN(C1C(=O)O)CSCC2C(=O)NCC(=O)O
+DDD            InChI                InChI  1.03 InChI=1S/C12H17N3O6S/c16-9-2-1-7(12(20)21)14-5-15(9)8(4-22-6-14)11(19)13-3-10(17)18/h7-8H,1-6H2,(H,13,19)(H,17,18)(H,20,21)/t7-,8-/m0/s1
+DDD         InChIKey                InChI  1.03                                                                                                              FNEMNSFAPZMNDP-YUMQZZPRSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DDD acedrg          243       "dictionary generator"
-DDD acedrg_database 11        "data source"
-DDD rdkit           2017.03.2 "Chemoinformatics tool"
-DDD refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-DDD M-peptide O12 O
-DDD M-peptide C1  C
-DDD M-peptide CA1 CA
-DDD M-peptide N1  N
-DDD M-peptide C2  CN
-DDD M-peptide O11 OXT
-DDD M-peptide HN1 H
+DDD acedrg               243         "dictionary generator"                  
+DDD acedrg_database      11          "data source"                           
+DDD rdkit                2017.03.2   "Chemoinformatics tool"
+DDD refmac5              5.8.0238    "optimization tool"                     

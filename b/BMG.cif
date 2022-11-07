@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-BMG BMG "(4R,5S)-3-(6,7-dihydro-5H-pyrazolo[1,2-a][1,2,4]triazol-4-ium-6-ylsulfanyl)-5-[(1S,2R)-1-formyl-2-hydroxypropyl]-4-methyl-4,5-dihydro-1H-pyrrole-2-carboxylate" NON-POLYMER 44 24 .
-
+BMG     BMG      "(4R,5S)-3-(6,7-dihydro-5H-pyrazolo[1,2-a][1,2,4]triazol-4-ium-6-ylsulfanyl)-5-[(1S,2R)-1-formyl-2-hydroxypropyl]-4-methyl-4,5-dihydro-1H-pyrrole-2-carboxylate"     NON-POLYMER     44     24     .     
+#
 data_comp_BMG
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,51 +21,50 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-BMG C1   C CH1  0  35.082 61.071 -31.193
-BMG C3   C CR5  0  34.065 59.354 -30.009
-BMG C5   C CH1  0  36.178 60.246 -30.488
-BMG C6   C CH1  0  37.471 59.829 -31.240
-BMG C7   C C1   0  38.237 58.825 -30.431
-BMG C8   C CH1  0  38.474 60.937 -31.603
-BMG C11  C C    0  33.024 58.427 -29.471
-BMG C17  C CH1  0  32.617 63.437 -30.292
-BMG C18  C CH2  0  31.420 64.080 -30.999
-BMG C20  C CR15 0  29.255 64.688 -29.560
-BMG C22  C CR15 0  30.351 64.635 -27.677
-BMG C9   C CH3  0  39.643 60.434 -32.432
-BMG O14  O O    0  38.150 57.661 -30.667
-BMG O15  O OH1  0  37.818 61.998 -32.300
-BMG C10  C CH3  0  34.875 60.835 -32.682
-BMG N4   N NT1  0  35.378 59.081 -30.072
-BMG O13  O OC   -1 33.120 58.105 -28.301
-BMG O12  O O    0  32.155 58.061 -30.240
-BMG C2   C CR5  0  33.870 60.615 -30.432
-BMG S16  S S2   0  32.470 61.619 -30.145
-BMG C24  C CH2  0  32.656 64.023 -28.877
-BMG N23  N NT   0  31.248 64.346 -28.662
-BMG N19  N NT   1  30.547 64.380 -29.867
-BMG N21  N NRD5 0  29.116 64.850 -28.213
-BMG H1   H H    0  35.255 62.034 -31.041
-BMG H5   H H    0  36.453 60.760 -29.687
-BMG H6   H H    0  37.195 59.394 -32.084
-BMG H7   H H    0  38.790 59.134 -29.726
-BMG H8   H H    0  38.825 61.317 -30.753
-BMG H17  H H    0  33.452 63.655 -30.773
-BMG H18  H H    0  31.682 64.899 -31.474
-BMG H18A H H    0  30.993 63.455 -31.624
-BMG H20  H H    0  28.552 64.780 -30.181
-BMG H22  H H    0  30.545 64.683 -26.756
-BMG H9   H H    0  39.355 59.684 -32.984
-BMG H9A  H H    0  40.360 60.142 -31.840
-BMG H9B  H H    0  39.971 61.149 -33.006
-BMG HO15 H H    0  37.704 61.797 -33.117
-BMG H10  H H    0  33.942 60.978 -32.911
-BMG H10A H H    0  35.120 59.925 -32.907
-BMG H10B H H    0  35.420 61.450 -33.191
-BMG HN4  H H    0  35.705 58.419 -29.619
-BMG H24  H H    0  33.215 64.825 -28.838
-BMG H24A H H    0  32.974 63.368 -28.222
-
+BMG     C1      C       CH1     0       35.082      61.071      -31.193     
+BMG     C3      C       CR5     0       34.065      59.354      -30.009     
+BMG     C5      C       CH1     0       36.178      60.246      -30.488     
+BMG     C6      C       CH1     0       37.471      59.829      -31.240     
+BMG     C7      C       C1      0       38.237      58.825      -30.431     
+BMG     C8      C       CH1     0       38.474      60.937      -31.603     
+BMG     C11     C       C       0       33.024      58.427      -29.471     
+BMG     C17     C       CH1     0       32.617      63.437      -30.292     
+BMG     C18     C       CH2     0       31.420      64.080      -30.999     
+BMG     C20     C       CR15    0       29.255      64.688      -29.560     
+BMG     C22     C       CR15    0       30.351      64.635      -27.677     
+BMG     C9      C       CH3     0       39.643      60.434      -32.432     
+BMG     O14     O       O       0       38.150      57.661      -30.667     
+BMG     O15     O       OH1     0       37.818      61.998      -32.300     
+BMG     C10     C       CH3     0       34.875      60.835      -32.682     
+BMG     N4      N       NT1     0       35.378      59.081      -30.072     
+BMG     O13     O       OC      -1      33.120      58.105      -28.301     
+BMG     O12     O       O       0       32.155      58.061      -30.240     
+BMG     C2      C       CR5     0       33.870      60.615      -30.432     
+BMG     S16     S       S2      0       32.470      61.619      -30.145     
+BMG     C24     C       CH2     0       32.656      64.023      -28.877     
+BMG     N23     N       NT      0       31.248      64.346      -28.662     
+BMG     N19     N       NT      1       30.547      64.380      -29.867     
+BMG     N21     N       NRD5    0       29.116      64.850      -28.213     
+BMG     H1      H       H       0       35.255      62.034      -31.041     
+BMG     H5      H       H       0       36.453      60.760      -29.687     
+BMG     H6      H       H       0       37.195      59.394      -32.084     
+BMG     H7      H       H       0       38.790      59.134      -29.726     
+BMG     H8      H       H       0       38.825      61.317      -30.753     
+BMG     H17     H       H       0       33.452      63.655      -30.773     
+BMG     H18     H       H       0       31.682      64.899      -31.474     
+BMG     H18A    H       H       0       30.993      63.455      -31.624     
+BMG     H20     H       H       0       28.552      64.780      -30.181     
+BMG     H22     H       H       0       30.545      64.683      -26.756     
+BMG     H9      H       H       0       39.355      59.684      -32.984     
+BMG     H9A     H       H       0       40.360      60.142      -31.840     
+BMG     H9B     H       H       0       39.971      61.149      -33.006     
+BMG     HO15    H       H       0       37.704      61.797      -33.117     
+BMG     H10     H       H       0       33.942      60.978      -32.911     
+BMG     H10A    H       H       0       35.120      59.925      -32.907     
+BMG     H10B    H       H       0       35.420      61.450      -33.191     
+BMG     HN4     H       H       0       35.705      58.419      -29.619     
+BMG     H24     H       H       0       33.215      64.825      -28.838     
+BMG     H24A    H       H       0       32.974      63.368      -28.222     
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -74,53 +75,52 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-BMG C8  C9   SINGLE n 1.511 0.0143 1.511 0.0143
-BMG C1  C10  SINGLE n 1.517 0.0124 1.517 0.0124
-BMG C8  O15  SINGLE n 1.426 0.0179 1.426 0.0179
-BMG C6  C8   SINGLE n 1.534 0.0100 1.534 0.0100
-BMG C5  C6   SINGLE n 1.526 0.0200 1.526 0.0200
-BMG C6  C7   SINGLE n 1.498 0.0100 1.498 0.0100
-BMG C1  C5   SINGLE n 1.537 0.0162 1.537 0.0162
-BMG C1  C2   SINGLE n 1.505 0.0120 1.505 0.0120
-BMG C2  S16  SINGLE n 1.746 0.0119 1.746 0.0119
-BMG C17 S16  SINGLE n 1.832 0.0200 1.832 0.0200
-BMG C17 C18  SINGLE n 1.527 0.0114 1.527 0.0114
-BMG C18 N19  SINGLE n 1.462 0.0100 1.462 0.0100
-BMG C7  O14  DOUBLE n 1.191 0.0200 1.191 0.0200
-BMG C5  N4   SINGLE n 1.464 0.0131 1.464 0.0131
-BMG C3  C2   DOUBLE n 1.347 0.0180 1.347 0.0180
-BMG C17 C24  SINGLE n 1.527 0.0114 1.527 0.0114
-BMG C20 N19  DOUBLE y 1.368 0.0147 1.368 0.0147
-BMG N23 N19  SINGLE y 1.407 0.0100 1.407 0.0100
-BMG C20 N21  SINGLE y 1.338 0.0200 1.338 0.0200
-BMG C3  N4   SINGLE n 1.331 0.0197 1.331 0.0197
-BMG C3  C11  SINGLE n 1.494 0.0120 1.494 0.0120
-BMG C24 N23  SINGLE n 1.462 0.0100 1.462 0.0100
-BMG C22 N23  SINGLE y 1.368 0.0147 1.368 0.0147
-BMG C11 O12  DOUBLE n 1.217 0.0200 1.217 0.0200
-BMG C22 N21  DOUBLE y 1.338 0.0200 1.338 0.0200
-BMG C11 O13  SINGLE n 1.217 0.0200 1.217 0.0200
-BMG C1  H1   SINGLE n 1.089 0.0100 0.990 0.0175
-BMG C5  H5   SINGLE n 1.089 0.0100 0.991 0.0103
-BMG C6  H6   SINGLE n 1.089 0.0100 0.990 0.0102
-BMG C7  H7   SINGLE n 1.082 0.0130 0.947 0.0200
-BMG C8  H8   SINGLE n 1.089 0.0100 0.995 0.0200
-BMG C17 H17  SINGLE n 1.089 0.0100 0.988 0.0200
-BMG C18 H18  SINGLE n 1.089 0.0100 0.982 0.0179
-BMG C18 H18A SINGLE n 1.089 0.0100 0.982 0.0179
-BMG C20 H20  SINGLE n 1.082 0.0130 0.943 0.0179
-BMG C22 H22  SINGLE n 1.082 0.0130 0.942 0.0200
-BMG C9  H9   SINGLE n 1.089 0.0100 0.974 0.0145
-BMG C9  H9A  SINGLE n 1.089 0.0100 0.974 0.0145
-BMG C9  H9B  SINGLE n 1.089 0.0100 0.974 0.0145
-BMG O15 HO15 SINGLE n 0.970 0.0120 0.848 0.0200
-BMG C10 H10  SINGLE n 1.089 0.0100 0.970 0.0163
-BMG C10 H10A SINGLE n 1.089 0.0100 0.970 0.0163
-BMG C10 H10B SINGLE n 1.089 0.0100 0.970 0.0163
-BMG N4  HN4  SINGLE n 1.016 0.0100 0.868 0.0200
-BMG C24 H24  SINGLE n 1.089 0.0100 0.979 0.0113
-BMG C24 H24A SINGLE n 1.089 0.0100 0.979 0.0113
-
+BMG          C8          C9      SINGLE       n     1.511  0.0143     1.511  0.0143
+BMG          C1         C10      SINGLE       n     1.517  0.0124     1.517  0.0124
+BMG          C8         O15      SINGLE       n     1.426  0.0179     1.426  0.0179
+BMG          C6          C8      SINGLE       n     1.534  0.0100     1.534  0.0100
+BMG          C5          C6      SINGLE       n     1.526  0.0200     1.526  0.0200
+BMG          C6          C7      SINGLE       n     1.498  0.0100     1.498  0.0100
+BMG          C1          C5      SINGLE       n     1.537  0.0162     1.537  0.0162
+BMG          C1          C2      SINGLE       n     1.505  0.0120     1.505  0.0120
+BMG          C2         S16      SINGLE       n     1.746  0.0119     1.746  0.0119
+BMG         C17         S16      SINGLE       n     1.832  0.0200     1.832  0.0200
+BMG         C17         C18      SINGLE       n     1.527  0.0114     1.527  0.0114
+BMG         C18         N19      SINGLE       n     1.462  0.0100     1.462  0.0100
+BMG          C7         O14      DOUBLE       n     1.191  0.0200     1.191  0.0200
+BMG          C5          N4      SINGLE       n     1.464  0.0131     1.464  0.0131
+BMG          C3          C2      DOUBLE       n     1.347  0.0180     1.347  0.0180
+BMG         C17         C24      SINGLE       n     1.527  0.0114     1.527  0.0114
+BMG         C20         N19      DOUBLE       y     1.368  0.0147     1.368  0.0147
+BMG         N23         N19      SINGLE       y     1.407  0.0100     1.407  0.0100
+BMG         C20         N21      SINGLE       y     1.338  0.0200     1.338  0.0200
+BMG          C3          N4      SINGLE       n     1.331  0.0197     1.331  0.0197
+BMG          C3         C11      SINGLE       n     1.494  0.0120     1.494  0.0120
+BMG         C24         N23      SINGLE       n     1.462  0.0100     1.462  0.0100
+BMG         C22         N23      SINGLE       y     1.368  0.0147     1.368  0.0147
+BMG         C11         O12      DOUBLE       n     1.217  0.0200     1.217  0.0200
+BMG         C22         N21      DOUBLE       y     1.338  0.0200     1.338  0.0200
+BMG         C11         O13      SINGLE       n     1.217  0.0200     1.217  0.0200
+BMG          C1          H1      SINGLE       n     1.089  0.0100     0.990  0.0175
+BMG          C5          H5      SINGLE       n     1.089  0.0100     0.991  0.0103
+BMG          C6          H6      SINGLE       n     1.089  0.0100     0.990  0.0102
+BMG          C7          H7      SINGLE       n     1.082  0.0130     0.947  0.0200
+BMG          C8          H8      SINGLE       n     1.089  0.0100     0.995  0.0200
+BMG         C17         H17      SINGLE       n     1.089  0.0100     0.988  0.0200
+BMG         C18         H18      SINGLE       n     1.089  0.0100     0.982  0.0179
+BMG         C18        H18A      SINGLE       n     1.089  0.0100     0.982  0.0179
+BMG         C20         H20      SINGLE       n     1.082  0.0130     0.943  0.0179
+BMG         C22         H22      SINGLE       n     1.082  0.0130     0.942  0.0200
+BMG          C9          H9      SINGLE       n     1.089  0.0100     0.974  0.0145
+BMG          C9         H9A      SINGLE       n     1.089  0.0100     0.974  0.0145
+BMG          C9         H9B      SINGLE       n     1.089  0.0100     0.974  0.0145
+BMG         O15        HO15      SINGLE       n     0.970  0.0120     0.848  0.0200
+BMG         C10         H10      SINGLE       n     1.089  0.0100     0.970  0.0163
+BMG         C10        H10A      SINGLE       n     1.089  0.0100     0.970  0.0163
+BMG         C10        H10B      SINGLE       n     1.089  0.0100     0.970  0.0163
+BMG          N4         HN4      SINGLE       n     1.016  0.0100     0.868  0.0200
+BMG         C24         H24      SINGLE       n     1.089  0.0100     0.979  0.0113
+BMG         C24        H24A      SINGLE       n     1.089  0.0100     0.979  0.0113
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -128,91 +128,90 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-BMG C10  C1  C5   115.350 1.50
-BMG C10  C1  C2   111.539 2.78
-BMG C10  C1  H1   108.374 1.50
-BMG C5   C1  C2   104.009 1.83
-BMG C5   C1  H1   108.027 1.83
-BMG C2   C1  H1   110.367 1.60
-BMG C2   C3  N4   108.044 2.39
-BMG C2   C3  C11  126.415 3.00
-BMG N4   C3  C11  125.542 3.00
-BMG C6   C5  C1   113.745 2.48
-BMG C6   C5  N4   111.633 2.37
-BMG C6   C5  H5   108.328 1.50
-BMG C1   C5  N4   103.104 2.01
-BMG C1   C5  H5   108.027 1.83
-BMG N4   C5  H5   110.031 1.50
-BMG C8   C6  C5   112.518 2.73
-BMG C8   C6  C7   111.511 2.91
-BMG C8   C6  H6   107.529 1.50
-BMG C5   C6  C7   112.778 2.78
-BMG C5   C6  H6   107.419 1.50
-BMG C7   C6  H6   108.585 1.50
-BMG C6   C7  O14  120.549 1.50
-BMG C6   C7  H7   118.860 1.52
-BMG O14  C7  H7   120.591 1.50
-BMG C9   C8  O15  109.686 2.24
-BMG C9   C8  C6   113.131 1.50
-BMG C9   C8  H8   109.344 1.50
-BMG O15  C8  C6   108.805 2.04
-BMG O15  C8  H8   108.183 1.96
-BMG C6   C8  H8   108.167 1.50
-BMG C3   C11 O12  117.119 1.50
-BMG C3   C11 O13  117.126 1.50
-BMG O12  C11 O13  125.770 1.50
-BMG S16  C17 C18  111.815 3.00
-BMG S16  C17 C24  111.815 3.00
-BMG S16  C17 H17  109.380 1.69
-BMG C18  C17 C24  104.443 2.26
-BMG C18  C17 H17  110.422 1.50
-BMG C24  C17 H17  110.422 1.50
-BMG C17  C18 N19  100.927 2.33
-BMG C17  C18 H18  111.014 1.50
-BMG C17  C18 H18A 111.014 1.50
-BMG N19  C18 H18  110.907 1.50
-BMG N19  C18 H18A 110.907 1.50
-BMG H18  C18 H18A 109.266 1.50
-BMG N19  C20 N21  111.723 1.94
-BMG N19  C20 H20  124.526 2.15
-BMG N21  C20 H20  123.751 1.55
-BMG N23  C22 N21  111.723 1.94
-BMG N23  C22 H22  124.526 2.15
-BMG N21  C22 H22  123.751 1.55
-BMG C8   C9  H9   109.508 1.50
-BMG C8   C9  H9A  109.508 1.50
-BMG C8   C9  H9B  109.508 1.50
-BMG H9   C9  H9A  109.425 1.50
-BMG H9   C9  H9B  109.425 1.50
-BMG H9A  C9  H9B  109.425 1.50
-BMG C8   O15 HO15 109.265 3.00
-BMG C1   C10 H10  109.611 1.50
-BMG C1   C10 H10A 109.611 1.50
-BMG C1   C10 H10B 109.611 1.50
-BMG H10  C10 H10A 109.347 1.50
-BMG H10  C10 H10B 109.347 1.50
-BMG H10A C10 H10B 109.347 1.50
-BMG C5   N4  C3   111.258 2.32
-BMG C5   N4  HN4  123.296 2.36
-BMG C3   N4  HN4  121.531 2.16
-BMG C1   C2  S16  122.413 1.50
-BMG C1   C2  C3   111.680 2.72
-BMG S16  C2  C3   125.907 2.39
-BMG C2   S16 C17  120.000 3.00
-BMG C17  C24 N23  100.927 2.33
-BMG C17  C24 H24  111.014 1.50
-BMG C17  C24 H24A 111.014 1.50
-BMG N23  C24 H24  110.907 1.50
-BMG N23  C24 H24A 110.907 1.50
-BMG H24  C24 H24A 109.266 1.50
-BMG N19  N23 C24  109.660 1.50
-BMG N19  N23 C22  107.993 1.50
-BMG C24  N23 C22  125.134 3.00
-BMG C18  N19 C20  125.134 3.00
-BMG C18  N19 N23  109.660 1.50
-BMG C20  N19 N23  107.993 1.50
-BMG C20  N21 C22  104.899 1.50
-
+BMG         C10          C1          C5     115.350    1.50
+BMG         C10          C1          C2     111.539    2.78
+BMG         C10          C1          H1     108.374    1.50
+BMG          C5          C1          C2     104.009    1.83
+BMG          C5          C1          H1     108.027    1.83
+BMG          C2          C1          H1     110.367    1.60
+BMG          C2          C3          N4     108.044    2.39
+BMG          C2          C3         C11     126.415    3.00
+BMG          N4          C3         C11     125.542    3.00
+BMG          C6          C5          C1     113.745    2.48
+BMG          C6          C5          N4     111.633    2.37
+BMG          C6          C5          H5     108.328    1.50
+BMG          C1          C5          N4     103.104    2.01
+BMG          C1          C5          H5     108.027    1.83
+BMG          N4          C5          H5     110.031    1.50
+BMG          C8          C6          C5     112.518    2.73
+BMG          C8          C6          C7     111.511    2.91
+BMG          C8          C6          H6     107.529    1.50
+BMG          C5          C6          C7     112.778    2.78
+BMG          C5          C6          H6     107.419    1.50
+BMG          C7          C6          H6     108.585    1.50
+BMG          C6          C7         O14     120.549    1.50
+BMG          C6          C7          H7     118.860    1.52
+BMG         O14          C7          H7     120.591    1.50
+BMG          C9          C8         O15     109.686    2.24
+BMG          C9          C8          C6     113.131    1.50
+BMG          C9          C8          H8     109.344    1.50
+BMG         O15          C8          C6     108.805    2.04
+BMG         O15          C8          H8     108.183    1.96
+BMG          C6          C8          H8     108.167    1.50
+BMG          C3         C11         O12     117.119    1.50
+BMG          C3         C11         O13     117.126    1.50
+BMG         O12         C11         O13     125.770    1.50
+BMG         S16         C17         C18     111.815    3.00
+BMG         S16         C17         C24     111.815    3.00
+BMG         S16         C17         H17     109.380    1.69
+BMG         C18         C17         C24     104.443    2.26
+BMG         C18         C17         H17     110.422    1.50
+BMG         C24         C17         H17     110.422    1.50
+BMG         C17         C18         N19     100.927    2.33
+BMG         C17         C18         H18     111.014    1.50
+BMG         C17         C18        H18A     111.014    1.50
+BMG         N19         C18         H18     110.907    1.50
+BMG         N19         C18        H18A     110.907    1.50
+BMG         H18         C18        H18A     109.266    1.50
+BMG         N19         C20         N21     111.723    1.94
+BMG         N19         C20         H20     124.526    2.15
+BMG         N21         C20         H20     123.751    1.55
+BMG         N23         C22         N21     111.723    1.94
+BMG         N23         C22         H22     124.526    2.15
+BMG         N21         C22         H22     123.751    1.55
+BMG          C8          C9          H9     109.508    1.50
+BMG          C8          C9         H9A     109.508    1.50
+BMG          C8          C9         H9B     109.508    1.50
+BMG          H9          C9         H9A     109.425    1.50
+BMG          H9          C9         H9B     109.425    1.50
+BMG         H9A          C9         H9B     109.425    1.50
+BMG          C8         O15        HO15     109.265    3.00
+BMG          C1         C10         H10     109.611    1.50
+BMG          C1         C10        H10A     109.611    1.50
+BMG          C1         C10        H10B     109.611    1.50
+BMG         H10         C10        H10A     109.347    1.50
+BMG         H10         C10        H10B     109.347    1.50
+BMG        H10A         C10        H10B     109.347    1.50
+BMG          C5          N4          C3     111.258    2.32
+BMG          C5          N4         HN4     123.296    2.36
+BMG          C3          N4         HN4     121.531    2.16
+BMG          C1          C2         S16     122.413    1.50
+BMG          C1          C2          C3     111.680    2.72
+BMG         S16          C2          C3     125.907    2.39
+BMG          C2         S16         C17     120.000    3.00
+BMG         C17         C24         N23     100.927    2.33
+BMG         C17         C24         H24     111.014    1.50
+BMG         C17         C24        H24A     111.014    1.50
+BMG         N23         C24         H24     110.907    1.50
+BMG         N23         C24        H24A     110.907    1.50
+BMG         H24         C24        H24A     109.266    1.50
+BMG         N19         N23         C24     109.660    1.50
+BMG         N19         N23         C22     107.993    1.50
+BMG         C24         N23         C22     125.134    3.00
+BMG         C18         N19         C20     125.134    3.00
+BMG         C18         N19         N23     109.660    1.50
+BMG         C20         N19         N23     107.993    1.50
+BMG         C20         N21         C22     104.899    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -223,30 +222,29 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-BMG sp3_sp3_28      C5  C1  C10 H10  180.000 10.0 3
-BMG sp2_sp3_29      S16 C2  C1  C10  -60.000 10.0 6
-BMG sp3_sp3_14      C10 C1  C5  C6   60.000  10.0 3
-BMG const_sp2_sp2_9 N21 C22 N23 N19  0.000   5.0  2
-BMG const_13        N23 C22 N21 C20  0.000   10.0 2
-BMG sp2_sp2_9       C1  C2  S16 C17  180.000 5.0  2
-BMG sp2_sp2_3       C11 C3  N4  C5   180.000 5.0  2
-BMG sp2_sp2_8       S16 C2  C3  C11  0.000   5.0  2
-BMG sp2_sp2_11      O12 C11 C3  C2   180.000 5.0  2
-BMG sp2_sp3_7       N19 N23 C24 C17  0.000   10.0 6
-BMG const_sp2_sp2_1 C18 N19 N23 C24  0.000   5.0  2
-BMG sp2_sp3_14      C3  N4  C5  C6   120.000 10.0 6
-BMG sp3_sp3_49      C1  C5  C6  C8   180.000 10.0 3
-BMG sp2_sp3_19      O14 C7  C6  C8   0.000   10.0 6
-BMG sp3_sp3_43      C7  C6  C8  C9   60.000  10.0 3
-BMG sp3_sp3_19      O15 C8  C9  H9   180.000 10.0 3
-BMG sp3_sp3_37      C9  C8  O15 HO15 180.000 10.0 3
-BMG sp3_sp3_58      C18 C17 S16 C2   180.000 10.0 3
-BMG sp3_sp3_64      S16 C17 C24 N23  60.000  10.0 3
-BMG sp3_sp3_4       S16 C17 C18 N19  -60.000 10.0 3
-BMG sp2_sp3_4       C20 N19 C18 C17  180.000 10.0 6
-BMG const_sp2_sp2_6 N21 C20 N19 C18  180.000 5.0  2
-BMG const_15        N19 C20 N21 C22  0.000   10.0 2
-
+BMG            sp3_sp3_28          C5          C1         C10         H10     180.000    10.0     3
+BMG            sp2_sp3_29         S16          C2          C1         C10     -60.000    10.0     6
+BMG            sp3_sp3_14         C10          C1          C5          C6      60.000    10.0     3
+BMG       const_sp2_sp2_9         N21         C22         N23         N19       0.000     5.0     2
+BMG              const_13         N23         C22         N21         C20       0.000    10.0     2
+BMG             sp2_sp2_9          C1          C2         S16         C17     180.000     5.0     2
+BMG             sp2_sp2_3         C11          C3          N4          C5     180.000     5.0     2
+BMG             sp2_sp2_8         S16          C2          C3         C11       0.000     5.0     2
+BMG            sp2_sp2_11         O12         C11          C3          C2     180.000     5.0     2
+BMG             sp2_sp3_7         N19         N23         C24         C17       0.000    10.0     6
+BMG       const_sp2_sp2_1         C18         N19         N23         C24       0.000     5.0     2
+BMG            sp2_sp3_14          C3          N4          C5          C6     120.000    10.0     6
+BMG            sp3_sp3_49          C1          C5          C6          C8     180.000    10.0     3
+BMG            sp2_sp3_19         O14          C7          C6          C8       0.000    10.0     6
+BMG            sp3_sp3_43          C7          C6          C8          C9      60.000    10.0     3
+BMG            sp3_sp3_19         O15          C8          C9          H9     180.000    10.0     3
+BMG            sp3_sp3_37          C9          C8         O15        HO15     180.000    10.0     3
+BMG            sp3_sp3_58         C18         C17         S16          C2     180.000    10.0     3
+BMG            sp3_sp3_64         S16         C17         C24         N23      60.000    10.0     3
+BMG             sp3_sp3_4         S16         C17         C18         N19     -60.000    10.0     3
+BMG             sp2_sp3_4         C20         N19         C18         C17     180.000    10.0     6
+BMG       const_sp2_sp2_6         N21         C20         N19         C18     180.000     5.0     2
+BMG              const_15         N19         C20         N21         C22       0.000    10.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -255,76 +253,60 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-BMG chir_1 C1  C2  C5  C10 negative
-BMG chir_2 C5  N4  C1  C6  positive
-BMG chir_3 C6  C7  C8  C5  positive
-BMG chir_4 C8  O15 C6  C9  negative
-BMG chir_5 C17 S16 C18 C24 negative
-
+BMG    chir_1    C1    C2    C5    C10    negative
+BMG    chir_2    C5    N4    C1    C6    positive
+BMG    chir_3    C6    C7    C8    C5    positive
+BMG    chir_4    C8    O15    C6    C9    negative
+BMG    chir_5    C17    S16    C18    C24    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-BMG plan-1 C18 0.020
-BMG plan-1 C20 0.020
-BMG plan-1 C22 0.020
-BMG plan-1 C24 0.020
-BMG plan-1 H20 0.020
-BMG plan-1 H22 0.020
-BMG plan-1 N19 0.020
-BMG plan-1 N21 0.020
-BMG plan-1 N23 0.020
-BMG plan-2 C11 0.020
-BMG plan-2 C2  0.020
-BMG plan-2 C3  0.020
-BMG plan-2 N4  0.020
-BMG plan-3 C6  0.020
-BMG plan-3 C7  0.020
-BMG plan-3 H7  0.020
-BMG plan-3 O14 0.020
-BMG plan-4 C11 0.020
-BMG plan-4 C3  0.020
-BMG plan-4 O12 0.020
-BMG plan-4 O13 0.020
-BMG plan-5 C1  0.020
-BMG plan-5 C2  0.020
-BMG plan-5 C3  0.020
-BMG plan-5 S16 0.020
-
+BMG    plan-1         C18   0.020
+BMG    plan-1         C20   0.020
+BMG    plan-1         C22   0.020
+BMG    plan-1         C24   0.020
+BMG    plan-1         H20   0.020
+BMG    plan-1         H22   0.020
+BMG    plan-1         N19   0.020
+BMG    plan-1         N21   0.020
+BMG    plan-1         N23   0.020
+BMG    plan-2         C11   0.020
+BMG    plan-2          C2   0.020
+BMG    plan-2          C3   0.020
+BMG    plan-2          N4   0.020
+BMG    plan-3          C6   0.020
+BMG    plan-3          C7   0.020
+BMG    plan-3          H7   0.020
+BMG    plan-3         O14   0.020
+BMG    plan-4         C11   0.020
+BMG    plan-4          C3   0.020
+BMG    plan-4         O12   0.020
+BMG    plan-4         O13   0.020
+BMG    plan-5          C1   0.020
+BMG    plan-5          C2   0.020
+BMG    plan-5          C3   0.020
+BMG    plan-5         S16   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-BMG SMILES           ACDLabs              10.04 O=CC(C(O)C)C3NC(C([O-])=O)=C(SC2C[n+]1cncn1C2)C3C
-BMG SMILES_CANONICAL CACTVS               3.341 C[C@@H](O)[C@@H](C=O)[C@@H]1NC(=C(S[C@@H]2Cn3cnc[n+]3C2)[C@@H]1C)C([O-])=O
-BMG SMILES           CACTVS               3.341 C[CH](O)[CH](C=O)[CH]1NC(=C(S[CH]2Cn3cnc[n+]3C2)[CH]1C)C([O-])=O
-BMG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C[C@@H]1[C@@H](NC(=C1S[C@@H]2Cn3cnc[n+]3C2)C(=O)[O-])[C@H](C=O)[C@@H](C)O
-BMG SMILES           "OpenEye OEToolkits" 1.5.0 CC1C(NC(=C1SC2Cn3cnc[n+]3C2)C(=O)[O-])C(C=O)C(C)O
-BMG InChI            InChI                1.03  InChI=1S/C15H20N4O4S/c1-8-12(11(5-20)9(2)21)17-13(15(22)23)14(8)24-10-3-18-6-16-7-19(18)4-10/h5-12,17,21H,3-4H2,1-2H3/t8-,9-,11-,12-/m1/s1
-BMG InChIKey         InChI                1.03  FXUMZXFCLFWWAR-CNVPUSNMSA-N
-
+BMG           SMILES              ACDLabs 10.04                                                                                          O=CC(C(O)C)C3NC(C([O-])=O)=C(SC2C[n+]1cncn1C2)C3C
+BMG SMILES_CANONICAL               CACTVS 3.341                                                                 C[C@@H](O)[C@@H](C=O)[C@@H]1NC(=C(S[C@@H]2Cn3cnc[n+]3C2)[C@@H]1C)C([O-])=O
+BMG           SMILES               CACTVS 3.341                                                                           C[CH](O)[CH](C=O)[CH]1NC(=C(S[CH]2Cn3cnc[n+]3C2)[CH]1C)C([O-])=O
+BMG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                  C[C@@H]1[C@@H](NC(=C1S[C@@H]2Cn3cnc[n+]3C2)C(=O)[O-])[C@H](C=O)[C@@H](C)O
+BMG           SMILES "OpenEye OEToolkits" 1.5.0                                                                                          CC1C(NC(=C1SC2Cn3cnc[n+]3C2)C(=O)[O-])C(C=O)C(C)O
+BMG            InChI                InChI  1.03 InChI=1S/C15H20N4O4S/c1-8-12(11(5-20)9(2)21)17-13(15(22)23)14(8)24-10-3-18-6-16-7-19(18)4-10/h5-12,17,21H,3-4H2,1-2H3/t8-,9-,11-,12-/m1/s1
+BMG         InChIKey                InChI  1.03                                                                                                                FXUMZXFCLFWWAR-CNVPUSNMSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-BMG acedrg          243       "dictionary generator"
-BMG acedrg_database 11        "data source"
-BMG rdkit           2017.03.2 "Chemoinformatics tool"
-BMG refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-BMG P-peptide N4  N
-BMG P-peptide C3  CA
-BMG P-peptide C11 C
-BMG P-peptide O12 O
-BMG P-peptide C5  CD
-BMG P-peptide O13 OXT
-BMG P-peptide HN4 H
+BMG acedrg               243         "dictionary generator"                  
+BMG acedrg_database      11          "data source"                           
+BMG rdkit                2017.03.2   "Chemoinformatics tool"
+BMG refmac5              5.8.0238    "optimization tool"                     

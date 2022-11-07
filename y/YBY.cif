@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-YBY YBY "N-{[(1S)-1-carboxy-2-(4-hydroxy-3-iodophenyl)ethyl]carbamoyl}-L-glutamic acid" NON-POLYMER 40 26 .
-
+YBY     YBY      "N-{[(1S)-1-carboxy-2-(4-hydroxy-3-iodophenyl)ethyl]carbamoyl}-L-glutamic acid"     NON-POLYMER     40     26     .     
+#
 data_comp_YBY
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,47 +21,46 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-YBY I18  I I    0  24.887 48.385 46.943
-YBY C17  C CR6  0  24.116 47.194 45.405
-YBY C16  C CR16 0  22.832 47.420 44.927
-YBY C19  C CR6  0  24.909 46.175 44.870
-YBY O20  O OH1  0  26.182 45.950 45.341
-YBY C21  C CR16 0  24.394 45.387 43.849
-YBY C22  C CR16 0  23.109 45.620 43.377
-YBY C15  C CR6  0  22.315 46.632 43.905
-YBY C14  C CH2  0  20.920 46.871 43.381
-YBY C13  C CH1  0  19.869 45.900 43.946
-YBY C23  C C    0  19.618 46.216 45.432
-YBY O25  O O    0  19.020 47.278 45.698
-YBY O24  O OC   -1 20.032 45.389 46.268
-YBY N12  N NH1  0  18.629 45.982 43.183
-YBY C11  C C    0  17.950 44.929 42.665
-YBY O26  O O    0  18.359 43.755 42.788
-YBY N10  N NH1  0  16.794 45.214 42.017
-YBY C6   C CH1  0  15.961 44.209 41.362
-YBY C7   C C    0  16.622 43.716 40.059
-YBY O9   O OC   -1 17.239 44.557 39.373
-YBY O8   O O    0  16.494 42.508 39.777
-YBY C5   C CH2  0  14.528 44.716 41.139
-YBY C4   C CH2  0  14.390 45.819 40.093
-YBY C2   C C    0  13.011 46.453 39.998
-YBY O1   O O    0  12.039 45.858 40.511
-YBY O3   O OC   -1 12.909 47.543 39.401
-YBY H16  H H    0  22.302 48.111 45.294
-YBY HO20 H H    0  26.555 45.180 45.236
-YBY H21  H H    0  24.916 44.696 43.478
-YBY H22  H H    0  22.768 45.080 42.684
-YBY H14  H H    0  20.932 46.787 42.404
-YBY H14A H H    0  20.652 47.789 43.597
-YBY H13  H H    0  20.231 44.984 43.878
-YBY HN12 H H    0  18.303 46.781 43.049
-YBY HN10 H H    0  16.528 46.045 41.999
-YBY H6   H H    0  15.899 43.431 41.973
-YBY H5   H H    0  14.182 45.049 41.993
-YBY H5A  H H    0  13.970 43.957 40.869
-YBY H4   H H    0  14.614 45.453 39.212
-YBY H4A  H H    0  15.038 46.526 40.290
-
+YBY     I18     I       I       0       24.887      48.385      46.943      
+YBY     C17     C       CR6     0       24.116      47.194      45.405      
+YBY     C16     C       CR16    0       22.832      47.420      44.927      
+YBY     C19     C       CR6     0       24.909      46.175      44.870      
+YBY     O20     O       OH1     0       26.182      45.950      45.341      
+YBY     C21     C       CR16    0       24.394      45.387      43.849      
+YBY     C22     C       CR16    0       23.109      45.620      43.377      
+YBY     C15     C       CR6     0       22.315      46.632      43.905      
+YBY     C14     C       CH2     0       20.920      46.871      43.381      
+YBY     C13     C       CH1     0       19.869      45.900      43.946      
+YBY     C23     C       C       0       19.618      46.216      45.432      
+YBY     O25     O       O       0       19.020      47.278      45.698      
+YBY     O24     O       OC      -1      20.032      45.389      46.268      
+YBY     N12     N       NH1     0       18.629      45.982      43.183      
+YBY     C11     C       C       0       17.950      44.929      42.665      
+YBY     O26     O       O       0       18.359      43.755      42.788      
+YBY     N10     N       NH1     0       16.794      45.214      42.017      
+YBY     C6      C       CH1     0       15.961      44.209      41.362      
+YBY     C7      C       C       0       16.622      43.716      40.059      
+YBY     O9      O       OC      -1      17.239      44.557      39.373      
+YBY     O8      O       O       0       16.494      42.508      39.777      
+YBY     C5      C       CH2     0       14.528      44.716      41.139      
+YBY     C4      C       CH2     0       14.390      45.819      40.093      
+YBY     C2      C       C       0       13.011      46.453      39.998      
+YBY     O1      O       O       0       12.039      45.858      40.511      
+YBY     O3      O       OC      -1      12.909      47.543      39.401      
+YBY     H16     H       H       0       22.302      48.111      45.294      
+YBY     HO20    H       H       0       26.555      45.180      45.236      
+YBY     H21     H       H       0       24.916      44.696      43.478      
+YBY     H22     H       H       0       22.768      45.080      42.684      
+YBY     H14     H       H       0       20.932      46.787      42.404      
+YBY     H14A    H       H       0       20.652      47.789      43.597      
+YBY     H13     H       H       0       20.231      44.984      43.878      
+YBY     HN12    H       H       0       18.303      46.781      43.049      
+YBY     HN10    H       H       0       16.528      46.045      41.999      
+YBY     H6      H       H       0       15.899      43.431      41.973      
+YBY     H5      H       H       0       14.182      45.049      41.993      
+YBY     H5A     H       H       0       13.970      43.957      40.869      
+YBY     H4      H       H       0       14.614      45.453      39.212      
+YBY     H4A     H       H       0       15.038      46.526      40.290      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -70,47 +71,46 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-YBY I18 C17  SINGLE n 2.092 0.0100 2.092 0.0100
-YBY C17 C16  DOUBLE y 1.383 0.0125 1.383 0.0125
-YBY C17 C19  SINGLE y 1.395 0.0100 1.395 0.0100
-YBY C16 C15  SINGLE y 1.385 0.0110 1.385 0.0110
-YBY C19 C21  DOUBLE y 1.385 0.0100 1.385 0.0100
-YBY C19 O20  SINGLE n 1.374 0.0155 1.374 0.0155
-YBY C21 C22  SINGLE y 1.385 0.0100 1.385 0.0100
-YBY C22 C15  DOUBLE y 1.385 0.0110 1.385 0.0110
-YBY C15 C14  SINGLE n 1.508 0.0100 1.508 0.0100
-YBY C14 C13  SINGLE n 1.538 0.0100 1.538 0.0100
-YBY C13 N12  SINGLE n 1.450 0.0141 1.450 0.0141
-YBY C13 C23  SINGLE n 1.539 0.0100 1.539 0.0100
-YBY C23 O25  DOUBLE n 1.247 0.0187 1.247 0.0187
-YBY C23 O24  SINGLE n 1.247 0.0187 1.247 0.0187
-YBY N12 C11  SINGLE n 1.349 0.0100 1.349 0.0100
-YBY C11 O26  DOUBLE n 1.243 0.0179 1.243 0.0179
-YBY C11 N10  SINGLE n 1.349 0.0100 1.349 0.0100
-YBY N10 C6   SINGLE n 1.454 0.0128 1.454 0.0128
-YBY C6  C7   SINGLE n 1.539 0.0100 1.539 0.0100
-YBY C6  C5   SINGLE n 1.533 0.0100 1.533 0.0100
-YBY C7  O8   DOUBLE n 1.247 0.0187 1.247 0.0187
-YBY C7  O9   SINGLE n 1.247 0.0187 1.247 0.0187
-YBY C5  C4   SINGLE n 1.518 0.0153 1.518 0.0153
-YBY C4  C2   SINGLE n 1.519 0.0109 1.519 0.0109
-YBY C2  O1   DOUBLE n 1.247 0.0187 1.247 0.0187
-YBY C2  O3   SINGLE n 1.247 0.0187 1.247 0.0187
-YBY C16 H16  SINGLE n 1.082 0.0130 0.946 0.0100
-YBY O20 HO20 SINGLE n 0.966 0.0059 0.861 0.0200
-YBY C21 H21  SINGLE n 1.082 0.0130 0.942 0.0170
-YBY C22 H22  SINGLE n 1.082 0.0130 0.943 0.0173
-YBY C14 H14  SINGLE n 1.089 0.0100 0.980 0.0164
-YBY C14 H14A SINGLE n 1.089 0.0100 0.980 0.0164
-YBY C13 H13  SINGLE n 1.089 0.0100 0.988 0.0135
-YBY N12 HN12 SINGLE n 1.016 0.0100 0.873 0.0200
-YBY N10 HN10 SINGLE n 1.016 0.0100 0.873 0.0200
-YBY C6  H6   SINGLE n 1.089 0.0100 0.991 0.0200
-YBY C5  H5   SINGLE n 1.089 0.0100 0.980 0.0178
-YBY C5  H5A  SINGLE n 1.089 0.0100 0.980 0.0178
-YBY C4  H4   SINGLE n 1.089 0.0100 0.981 0.0185
-YBY C4  H4A  SINGLE n 1.089 0.0100 0.981 0.0185
-
+YBY         I18         C17      SINGLE       n     2.092  0.0100     2.092  0.0100
+YBY         C17         C16      DOUBLE       y     1.383  0.0125     1.383  0.0125
+YBY         C17         C19      SINGLE       y     1.395  0.0100     1.395  0.0100
+YBY         C16         C15      SINGLE       y     1.385  0.0110     1.385  0.0110
+YBY         C19         C21      DOUBLE       y     1.385  0.0100     1.385  0.0100
+YBY         C19         O20      SINGLE       n     1.374  0.0155     1.374  0.0155
+YBY         C21         C22      SINGLE       y     1.385  0.0100     1.385  0.0100
+YBY         C22         C15      DOUBLE       y     1.385  0.0110     1.385  0.0110
+YBY         C15         C14      SINGLE       n     1.508  0.0100     1.508  0.0100
+YBY         C14         C13      SINGLE       n     1.538  0.0100     1.538  0.0100
+YBY         C13         N12      SINGLE       n     1.450  0.0141     1.450  0.0141
+YBY         C13         C23      SINGLE       n     1.539  0.0100     1.539  0.0100
+YBY         C23         O25      DOUBLE       n     1.247  0.0187     1.247  0.0187
+YBY         C23         O24      SINGLE       n     1.247  0.0187     1.247  0.0187
+YBY         N12         C11      SINGLE       n     1.349  0.0100     1.349  0.0100
+YBY         C11         O26      DOUBLE       n     1.243  0.0179     1.243  0.0179
+YBY         C11         N10      SINGLE       n     1.349  0.0100     1.349  0.0100
+YBY         N10          C6      SINGLE       n     1.454  0.0128     1.454  0.0128
+YBY          C6          C7      SINGLE       n     1.539  0.0100     1.539  0.0100
+YBY          C6          C5      SINGLE       n     1.533  0.0100     1.533  0.0100
+YBY          C7          O8      DOUBLE       n     1.247  0.0187     1.247  0.0187
+YBY          C7          O9      SINGLE       n     1.247  0.0187     1.247  0.0187
+YBY          C5          C4      SINGLE       n     1.518  0.0153     1.518  0.0153
+YBY          C4          C2      SINGLE       n     1.519  0.0109     1.519  0.0109
+YBY          C2          O1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+YBY          C2          O3      SINGLE       n     1.247  0.0187     1.247  0.0187
+YBY         C16         H16      SINGLE       n     1.082  0.0130     0.946  0.0100
+YBY         O20        HO20      SINGLE       n     0.966  0.0059     0.861  0.0200
+YBY         C21         H21      SINGLE       n     1.082  0.0130     0.942  0.0170
+YBY         C22         H22      SINGLE       n     1.082  0.0130     0.943  0.0173
+YBY         C14         H14      SINGLE       n     1.089  0.0100     0.980  0.0164
+YBY         C14        H14A      SINGLE       n     1.089  0.0100     0.980  0.0164
+YBY         C13         H13      SINGLE       n     1.089  0.0100     0.988  0.0135
+YBY         N12        HN12      SINGLE       n     1.016  0.0100     0.873  0.0200
+YBY         N10        HN10      SINGLE       n     1.016  0.0100     0.873  0.0200
+YBY          C6          H6      SINGLE       n     1.089  0.0100     0.991  0.0200
+YBY          C5          H5      SINGLE       n     1.089  0.0100     0.980  0.0178
+YBY          C5         H5A      SINGLE       n     1.089  0.0100     0.980  0.0178
+YBY          C4          H4      SINGLE       n     1.089  0.0100     0.981  0.0185
+YBY          C4         H4A      SINGLE       n     1.089  0.0100     0.981  0.0185
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -118,74 +118,73 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-YBY I18 C17 C16  120.173 1.50
-YBY I18 C17 C19  118.845 1.50
-YBY C16 C17 C19  120.982 1.50
-YBY C17 C16 C15  120.167 1.50
-YBY C17 C16 H16  120.322 1.50
-YBY C15 C16 H16  119.510 1.50
-YBY C17 C19 C21  119.380 1.50
-YBY C17 C19 O20  120.310 3.00
-YBY C21 C19 O20  120.310 3.00
-YBY C19 O20 HO20 120.000 3.00
-YBY C19 C21 C22  119.777 1.50
-YBY C19 C21 H21  120.042 1.50
-YBY C22 C21 H21  120.180 1.50
-YBY C21 C22 C15  121.294 1.50
-YBY C21 C22 H22  119.299 1.50
-YBY C15 C22 H22  119.406 1.50
-YBY C16 C15 C22  118.399 1.50
-YBY C16 C15 C14  120.721 1.50
-YBY C22 C15 C14  120.880 1.50
-YBY C15 C14 C13  113.563 1.55
-YBY C15 C14 H14  108.862 1.50
-YBY C15 C14 H14A 108.862 1.50
-YBY C13 C14 H14  108.745 1.50
-YBY C13 C14 H14A 108.745 1.50
-YBY H14 C14 H14A 107.782 1.50
-YBY C14 C13 N12  110.790 1.50
-YBY C14 C13 C23  108.347 3.00
-YBY C14 C13 H13  108.204 1.50
-YBY N12 C13 C23  110.939 1.74
-YBY N12 C13 H13  108.161 1.50
-YBY C23 C13 H13  108.456 1.50
-YBY C13 C23 O25  117.245 1.50
-YBY C13 C23 O24  117.245 1.50
-YBY O25 C23 O24  125.509 1.50
-YBY C13 N12 C11  122.812 3.00
-YBY C13 N12 HN12 119.090 1.92
-YBY C11 N12 HN12 118.098 1.50
-YBY N12 C11 O26  122.060 1.50
-YBY N12 C11 N10  115.881 1.50
-YBY O26 C11 N10  122.060 1.50
-YBY C11 N10 C6   122.812 3.00
-YBY C11 N10 HN10 118.098 1.50
-YBY C6  N10 HN10 119.090 1.92
-YBY N10 C6  C7   110.939 1.74
-YBY N10 C6  C5   111.076 1.75
-YBY N10 C6  H6   108.161 1.50
-YBY C7  C6  C5   111.638 2.31
-YBY C7  C6  H6   108.327 1.50
-YBY C5  C6  H6   108.155 1.50
-YBY C6  C7  O8   117.249 1.61
-YBY C6  C7  O9   117.249 1.61
-YBY O8  C7  O9   125.502 1.50
-YBY C6  C5  C4   112.938 1.50
-YBY C6  C5  H5   108.606 1.50
-YBY C6  C5  H5A  108.606 1.50
-YBY C4  C5  H5   108.890 1.50
-YBY C4  C5  H5A  108.890 1.50
-YBY H5  C5  H5A  107.844 1.50
-YBY C5  C4  C2   114.629 2.24
-YBY C5  C4  H4   108.906 1.50
-YBY C5  C4  H4A  108.906 1.50
-YBY C2  C4  H4   108.404 1.50
-YBY C2  C4  H4A  108.404 1.50
-YBY H4  C4  H4A  107.521 1.50
-YBY C4  C2  O1   118.214 1.64
-YBY C4  C2  O3   118.214 1.64
-YBY O1  C2  O3   123.571 1.50
-
+YBY         I18         C17         C16     120.173    1.50
+YBY         I18         C17         C19     118.845    1.50
+YBY         C16         C17         C19     120.982    1.50
+YBY         C17         C16         C15     120.167    1.50
+YBY         C17         C16         H16     120.322    1.50
+YBY         C15         C16         H16     119.510    1.50
+YBY         C17         C19         C21     119.380    1.50
+YBY         C17         C19         O20     120.310    3.00
+YBY         C21         C19         O20     120.310    3.00
+YBY         C19         O20        HO20     120.000    3.00
+YBY         C19         C21         C22     119.777    1.50
+YBY         C19         C21         H21     120.042    1.50
+YBY         C22         C21         H21     120.180    1.50
+YBY         C21         C22         C15     121.294    1.50
+YBY         C21         C22         H22     119.299    1.50
+YBY         C15         C22         H22     119.406    1.50
+YBY         C16         C15         C22     118.399    1.50
+YBY         C16         C15         C14     120.721    1.50
+YBY         C22         C15         C14     120.880    1.50
+YBY         C15         C14         C13     113.563    1.55
+YBY         C15         C14         H14     108.862    1.50
+YBY         C15         C14        H14A     108.862    1.50
+YBY         C13         C14         H14     108.745    1.50
+YBY         C13         C14        H14A     108.745    1.50
+YBY         H14         C14        H14A     107.782    1.50
+YBY         C14         C13         N12     110.790    1.50
+YBY         C14         C13         C23     108.347    3.00
+YBY         C14         C13         H13     108.204    1.50
+YBY         N12         C13         C23     110.939    1.74
+YBY         N12         C13         H13     108.161    1.50
+YBY         C23         C13         H13     108.456    1.50
+YBY         C13         C23         O25     117.245    1.50
+YBY         C13         C23         O24     117.245    1.50
+YBY         O25         C23         O24     125.509    1.50
+YBY         C13         N12         C11     122.812    3.00
+YBY         C13         N12        HN12     119.090    1.92
+YBY         C11         N12        HN12     118.098    1.50
+YBY         N12         C11         O26     122.060    1.50
+YBY         N12         C11         N10     115.881    1.50
+YBY         O26         C11         N10     122.060    1.50
+YBY         C11         N10          C6     122.812    3.00
+YBY         C11         N10        HN10     118.098    1.50
+YBY          C6         N10        HN10     119.090    1.92
+YBY         N10          C6          C7     110.939    1.74
+YBY         N10          C6          C5     111.076    1.75
+YBY         N10          C6          H6     108.161    1.50
+YBY          C7          C6          C5     111.638    2.31
+YBY          C7          C6          H6     108.327    1.50
+YBY          C5          C6          H6     108.155    1.50
+YBY          C6          C7          O8     117.249    1.61
+YBY          C6          C7          O9     117.249    1.61
+YBY          O8          C7          O9     125.502    1.50
+YBY          C6          C5          C4     112.938    1.50
+YBY          C6          C5          H5     108.606    1.50
+YBY          C6          C5         H5A     108.606    1.50
+YBY          C4          C5          H5     108.890    1.50
+YBY          C4          C5         H5A     108.890    1.50
+YBY          H5          C5         H5A     107.844    1.50
+YBY          C5          C4          C2     114.629    2.24
+YBY          C5          C4          H4     108.906    1.50
+YBY          C5          C4         H4A     108.906    1.50
+YBY          C2          C4          H4     108.404    1.50
+YBY          C2          C4         H4A     108.404    1.50
+YBY          H4          C4         H4A     107.521    1.50
+YBY          C4          C2          O1     118.214    1.64
+YBY          C4          C2          O3     118.214    1.64
+YBY          O1          C2          O3     123.571    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -196,25 +195,24 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-YBY sp2_sp2_5       O26 C11 N12 C13  0.000   5.0  2
-YBY sp2_sp2_7       N12 C11 N10 C6   180.000 5.0  2
-YBY sp2_sp3_19      C11 N10 C6  C7   0.000   10.0 6
-YBY sp2_sp3_25      O8  C7  C6  N10  0.000   10.0 6
-YBY sp3_sp3_10      C4  C5  C6  N10  180.000 10.0 3
-YBY const_sp2_sp2_2 C15 C16 C17 I18  180.000 5.0  2
-YBY const_24        I18 C17 C19 O20  0.000   10.0 2
-YBY sp3_sp3_19      C2  C4  C5  C6   180.000 10.0 3
-YBY sp2_sp3_32      O1  C2  C4  C5   120.000 10.0 6
-YBY const_sp2_sp2_7 C14 C15 C16 C17  180.000 5.0  2
-YBY sp2_sp2_1       C17 C19 O20 HO20 180.000 5.0  2
-YBY const_19        O20 C19 C21 C22  180.000 10.0 2
-YBY const_13        C19 C21 C22 C15  0.000   10.0 2
-YBY const_11        C14 C15 C22 C21  180.000 10.0 2
-YBY sp2_sp3_2       C16 C15 C14 C13  -90.000 10.0 6
-YBY sp3_sp3_1       N12 C13 C14 C15  180.000 10.0 3
-YBY sp2_sp3_13      O25 C23 C13 C14  0.000   10.0 6
-YBY sp2_sp3_7       C11 N12 C13 C14  0.000   10.0 6
-
+YBY             sp2_sp2_5         O26         C11         N12         C13       0.000     5.0     2
+YBY             sp2_sp2_7         N12         C11         N10          C6     180.000     5.0     2
+YBY            sp2_sp3_19         C11         N10          C6          C7       0.000    10.0     6
+YBY            sp2_sp3_25          O8          C7          C6         N10       0.000    10.0     6
+YBY            sp3_sp3_10          C4          C5          C6         N10     180.000    10.0     3
+YBY       const_sp2_sp2_2         C15         C16         C17         I18     180.000     5.0     2
+YBY              const_24         I18         C17         C19         O20       0.000    10.0     2
+YBY            sp3_sp3_19          C2          C4          C5          C6     180.000    10.0     3
+YBY            sp2_sp3_32          O1          C2          C4          C5     120.000    10.0     6
+YBY       const_sp2_sp2_7         C14         C15         C16         C17     180.000     5.0     2
+YBY             sp2_sp2_1         C17         C19         O20        HO20     180.000     5.0     2
+YBY              const_19         O20         C19         C21         C22     180.000    10.0     2
+YBY              const_13         C19         C21         C22         C15       0.000    10.0     2
+YBY              const_11         C14         C15         C22         C21     180.000    10.0     2
+YBY             sp2_sp3_2         C16         C15         C14         C13     -90.000    10.0     6
+YBY             sp3_sp3_1         N12         C13         C14         C15     180.000    10.0     3
+YBY            sp2_sp3_13         O25         C23         C13         C14       0.000    10.0     6
+YBY             sp2_sp3_7         C11         N12         C13         C14       0.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -223,84 +221,68 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-YBY chir_1 C13 N12 C23 C14 positive
-YBY chir_2 C6  N10 C7  C5  positive
-
+YBY    chir_1    C13    N12    C23    C14    positive
+YBY    chir_2    C6    N10    C7    C5    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-YBY plan-1 C14  0.020
-YBY plan-1 C15  0.020
-YBY plan-1 C16  0.020
-YBY plan-1 C17  0.020
-YBY plan-1 C19  0.020
-YBY plan-1 C21  0.020
-YBY plan-1 C22  0.020
-YBY plan-1 H16  0.020
-YBY plan-1 H21  0.020
-YBY plan-1 H22  0.020
-YBY plan-1 I18  0.020
-YBY plan-1 O20  0.020
-YBY plan-2 C13  0.020
-YBY plan-2 C23  0.020
-YBY plan-2 O24  0.020
-YBY plan-2 O25  0.020
-YBY plan-3 C11  0.020
-YBY plan-3 C13  0.020
-YBY plan-3 HN12 0.020
-YBY plan-3 N12  0.020
-YBY plan-4 C11  0.020
-YBY plan-4 N10  0.020
-YBY plan-4 N12  0.020
-YBY plan-4 O26  0.020
-YBY plan-5 C11  0.020
-YBY plan-5 C6   0.020
-YBY plan-5 HN10 0.020
-YBY plan-5 N10  0.020
-YBY plan-6 C6   0.020
-YBY plan-6 C7   0.020
-YBY plan-6 O8   0.020
-YBY plan-6 O9   0.020
-YBY plan-7 C2   0.020
-YBY plan-7 C4   0.020
-YBY plan-7 O1   0.020
-YBY plan-7 O3   0.020
-
+YBY    plan-1         C14   0.020
+YBY    plan-1         C15   0.020
+YBY    plan-1         C16   0.020
+YBY    plan-1         C17   0.020
+YBY    plan-1         C19   0.020
+YBY    plan-1         C21   0.020
+YBY    plan-1         C22   0.020
+YBY    plan-1         H16   0.020
+YBY    plan-1         H21   0.020
+YBY    plan-1         H22   0.020
+YBY    plan-1         I18   0.020
+YBY    plan-1         O20   0.020
+YBY    plan-2         C13   0.020
+YBY    plan-2         C23   0.020
+YBY    plan-2         O24   0.020
+YBY    plan-2         O25   0.020
+YBY    plan-3         C11   0.020
+YBY    plan-3         C13   0.020
+YBY    plan-3        HN12   0.020
+YBY    plan-3         N12   0.020
+YBY    plan-4         C11   0.020
+YBY    plan-4         N10   0.020
+YBY    plan-4         N12   0.020
+YBY    plan-4         O26   0.020
+YBY    plan-5         C11   0.020
+YBY    plan-5          C6   0.020
+YBY    plan-5        HN10   0.020
+YBY    plan-5         N10   0.020
+YBY    plan-6          C6   0.020
+YBY    plan-6          C7   0.020
+YBY    plan-6          O8   0.020
+YBY    plan-6          O9   0.020
+YBY    plan-7          C2   0.020
+YBY    plan-7          C4   0.020
+YBY    plan-7          O1   0.020
+YBY    plan-7          O3   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-YBY SMILES           ACDLabs              10.04 Ic1cc(ccc1O)CC(C(=O)O)NC(=O)NC(C(=O)O)CCC(=O)O
-YBY SMILES_CANONICAL CACTVS               3.341 OC(=O)CC[C@H](NC(=O)N[C@@H](Cc1ccc(O)c(I)c1)C(O)=O)C(O)=O
-YBY SMILES           CACTVS               3.341 OC(=O)CC[CH](NC(=O)N[CH](Cc1ccc(O)c(I)c1)C(O)=O)C(O)=O
-YBY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1cc(c(cc1C[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)I)O
-YBY SMILES           "OpenEye OEToolkits" 1.5.0 c1cc(c(cc1CC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)I)O
-YBY InChI            InChI                1.03  InChI=1S/C15H17IN2O8/c16-8-5-7(1-3-11(8)19)6-10(14(24)25)18-15(26)17-9(13(22)23)2-4-12(20)21/h1,3,5,9-10,19H,2,4,6H2,(H,20,21)(H,22,23)(H,24,25)(H2,17,18,26)/t9-,10-/m0/s1
-YBY InChIKey         InChI                1.03  GUNPTUQXZIVQBT-UWVGGRQHSA-N
-
+YBY           SMILES              ACDLabs 10.04                                                                                                                              Ic1cc(ccc1O)CC(C(=O)O)NC(=O)NC(C(=O)O)CCC(=O)O
+YBY SMILES_CANONICAL               CACTVS 3.341                                                                                                                   OC(=O)CC[C@H](NC(=O)N[C@@H](Cc1ccc(O)c(I)c1)C(O)=O)C(O)=O
+YBY           SMILES               CACTVS 3.341                                                                                                                      OC(=O)CC[CH](NC(=O)N[CH](Cc1ccc(O)c(I)c1)C(O)=O)C(O)=O
+YBY SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                  c1cc(c(cc1C[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)I)O
+YBY           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                            c1cc(c(cc1CC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)I)O
+YBY            InChI                InChI  1.03 InChI=1S/C15H17IN2O8/c16-8-5-7(1-3-11(8)19)6-10(14(24)25)18-15(26)17-9(13(22)23)2-4-12(20)21/h1,3,5,9-10,19H,2,4,6H2,(H,20,21)(H,22,23)(H,24,25)(H2,17,18,26)/t9-,10-/m0/s1
+YBY         InChIKey                InChI  1.03                                                                                                                                                 GUNPTUQXZIVQBT-UWVGGRQHSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-YBY acedrg          243       "dictionary generator"
-YBY acedrg_database 11        "data source"
-YBY rdkit           2017.03.2 "Chemoinformatics tool"
-YBY refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-YBY M-peptide O25  O
-YBY M-peptide C23  C
-YBY M-peptide C13  CA
-YBY M-peptide N12  N
-YBY M-peptide C11  CN
-YBY M-peptide O24  OXT
-YBY M-peptide HN12 H
+YBY acedrg               243         "dictionary generator"                  
+YBY acedrg_database      11          "data source"                           
+YBY rdkit                2017.03.2   "Chemoinformatics tool"
+YBY refmac5              5.8.0238    "optimization tool"                     

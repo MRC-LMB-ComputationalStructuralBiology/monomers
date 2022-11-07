@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-IYG IYG N-ALPHA-ACETYL-3,5-DIIODOTYROSYLGLYCINE NON-POLYMER 35 22 .
-
+IYG     IYG      N-ALPHA-ACETYL-3,5-DIIODOTYROSYLGLYCINE     NON-POLYMER     35     22     .     
+#
 data_comp_IYG
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,42 +21,41 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-IYG CAN  C CH3  0  17.715 34.589 61.955
-IYG CN   C C    0  18.554 34.424 60.726
-IYG ON   O O    0  19.172 33.379 60.532
-IYG N    N NH1  0  18.570 35.449 59.856
-IYG CA   C CH1  0  19.353 35.509 58.620
-IYG CB   C CH2  0  20.850 35.273 58.876
-IYG CG   C CR6  0  21.743 35.678 57.727
-IYG CD1  C CR16 0  22.008 37.020 57.477
-IYG CE1  C CR6  0  22.823 37.398 56.417
-IYG CD2  C CR16 0  22.297 34.712 56.894
-IYG CE2  C CR6  0  23.114 35.074 55.829
-IYG CZ   C CR6  0  23.388 36.426 55.577
-IYG OH   O OH1  0  24.195 36.792 54.526
-IYG I1   I I    0  23.221 39.425 56.056
-IYG I2   I I    0  23.948 33.605 54.587
-IYG C    C C    0  18.832 34.574 57.519
-IYG O    O O    0  18.252 33.526 57.798
-IYG NT   N NH1  0  19.026 34.977 56.258
-IYG CAT  C CH2  0  18.690 34.146 55.122
-IYG CT   C C    0  19.238 34.691 53.804
-IYG OT1  O O    0  18.716 35.732 53.357
-IYG OT2  O OC   -1 20.169 34.056 53.269
-IYG HAN1 H H    0  17.378 35.497 62.015
-IYG HAN2 H H    0  18.251 34.396 62.741
-IYG HAN3 H H    0  16.966 33.972 61.921
-IYG H    H H    0  18.068 36.140 60.037
-IYG HA   H H    0  19.263 36.433 58.281
-IYG HB1  H H    0  20.995 34.324 59.063
-IYG HB2  H H    0  21.116 35.777 59.673
-IYG HD1  H H    0  21.629 37.678 58.041
-IYG HD2  H H    0  22.115 33.799 57.060
-IYG H1O  H H    0  23.933 36.663 53.716
-IYG HT1  H H    0  19.357 35.773 56.114
-IYG HAT1 H H    0  17.718 34.075 55.052
-IYG HAT2 H H    0  19.051 33.248 55.260
-
+IYG     CAN     C       CH3     0       17.715      34.589      61.955      
+IYG     CN      C       C       0       18.554      34.424      60.726      
+IYG     ON      O       O       0       19.172      33.379      60.532      
+IYG     N       N       NH1     0       18.570      35.449      59.856      
+IYG     CA      C       CH1     0       19.353      35.509      58.620      
+IYG     CB      C       CH2     0       20.850      35.273      58.876      
+IYG     CG      C       CR6     0       21.743      35.678      57.727      
+IYG     CD1     C       CR16    0       22.008      37.020      57.477      
+IYG     CE1     C       CR6     0       22.823      37.398      56.417      
+IYG     CD2     C       CR16    0       22.297      34.712      56.894      
+IYG     CE2     C       CR6     0       23.114      35.074      55.829      
+IYG     CZ      C       CR6     0       23.388      36.426      55.577      
+IYG     OH      O       OH1     0       24.195      36.792      54.526      
+IYG     I1      I       I       0       23.221      39.425      56.056      
+IYG     I2      I       I       0       23.948      33.605      54.587      
+IYG     C       C       C       0       18.832      34.574      57.519      
+IYG     O       O       O       0       18.252      33.526      57.798      
+IYG     NT      N       NH1     0       19.026      34.977      56.258      
+IYG     CAT     C       CH2     0       18.690      34.146      55.122      
+IYG     CT      C       C       0       19.238      34.691      53.804      
+IYG     OT1     O       O       0       18.716      35.732      53.357      
+IYG     OT2     O       OC      -1      20.169      34.056      53.269      
+IYG     HAN1    H       H       0       17.378      35.497      62.015      
+IYG     HAN2    H       H       0       18.251      34.396      62.741      
+IYG     HAN3    H       H       0       16.966      33.972      61.921      
+IYG     H       H       H       0       18.068      36.140      60.037      
+IYG     HA      H       H       0       19.263      36.433      58.281      
+IYG     HB1     H       H       0       20.995      34.324      59.063      
+IYG     HB2     H       H       0       21.116      35.777      59.673      
+IYG     HD1     H       H       0       21.629      37.678      58.041      
+IYG     HD2     H       H       0       22.115      33.799      57.060      
+IYG     H1O     H       H       0       23.933      36.663      53.716      
+IYG     HT1     H       H       0       19.357      35.773      56.114      
+IYG     HAT1    H       H       0       17.718      34.075      55.052      
+IYG     HAT2    H       H       0       19.051      33.248      55.260      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -65,42 +66,41 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-IYG CAN CN   SINGLE n 1.495 0.0100 1.495 0.0100
-IYG CN  ON   DOUBLE n 1.229 0.0102 1.229 0.0102
-IYG CN  N    SINGLE n 1.335 0.0100 1.335 0.0100
-IYG N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
-IYG CA  CB   SINGLE n 1.532 0.0110 1.532 0.0110
-IYG CA  C    SINGLE n 1.527 0.0118 1.527 0.0118
-IYG CB  CG   SINGLE n 1.508 0.0100 1.508 0.0100
-IYG CG  CD1  DOUBLE y 1.385 0.0106 1.385 0.0106
-IYG CG  CD2  SINGLE y 1.385 0.0106 1.385 0.0106
-IYG CD1 CE1  SINGLE y 1.385 0.0117 1.385 0.0117
-IYG CE1 CZ   DOUBLE y 1.400 0.0100 1.400 0.0100
-IYG CE1 I1   SINGLE n 2.096 0.0100 2.096 0.0100
-IYG CD2 CE2  DOUBLE y 1.385 0.0117 1.385 0.0117
-IYG CE2 CZ   SINGLE y 1.400 0.0100 1.400 0.0100
-IYG CE2 I2   SINGLE n 2.096 0.0100 2.096 0.0100
-IYG CZ  OH   SINGLE n 1.374 0.0155 1.374 0.0155
-IYG C   O    DOUBLE n 1.229 0.0102 1.229 0.0102
-IYG C   NT   SINGLE n 1.333 0.0100 1.333 0.0100
-IYG NT  CAT  SINGLE n 1.445 0.0100 1.445 0.0100
-IYG CAT CT   SINGLE n 1.527 0.0103 1.527 0.0103
-IYG CT  OT1  DOUBLE n 1.247 0.0187 1.247 0.0187
-IYG CT  OT2  SINGLE n 1.247 0.0187 1.247 0.0187
-IYG CAN HAN1 SINGLE n 1.089 0.0100 0.971 0.0140
-IYG CAN HAN2 SINGLE n 1.089 0.0100 0.971 0.0140
-IYG CAN HAN3 SINGLE n 1.089 0.0100 0.971 0.0140
-IYG N   H    SINGLE n 1.016 0.0100 0.873 0.0200
-IYG CA  HA   SINGLE n 1.089 0.0100 0.988 0.0200
-IYG CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0164
-IYG CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0164
-IYG CD1 HD1  SINGLE n 1.082 0.0130 0.946 0.0100
-IYG CD2 HD2  SINGLE n 1.082 0.0130 0.946 0.0100
-IYG OH  H1O  SINGLE n 0.966 0.0059 0.861 0.0200
-IYG NT  HT1  SINGLE n 1.016 0.0100 0.873 0.0200
-IYG CAT HAT1 SINGLE n 1.089 0.0100 0.977 0.0124
-IYG CAT HAT2 SINGLE n 1.089 0.0100 0.977 0.0124
-
+IYG         CAN          CN      SINGLE       n     1.495  0.0100     1.495  0.0100
+IYG          CN          ON      DOUBLE       n     1.229  0.0102     1.229  0.0102
+IYG          CN           N      SINGLE       n     1.335  0.0100     1.335  0.0100
+IYG           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
+IYG          CA          CB      SINGLE       n     1.532  0.0110     1.532  0.0110
+IYG          CA           C      SINGLE       n     1.527  0.0118     1.527  0.0118
+IYG          CB          CG      SINGLE       n     1.508  0.0100     1.508  0.0100
+IYG          CG         CD1      DOUBLE       y     1.385  0.0106     1.385  0.0106
+IYG          CG         CD2      SINGLE       y     1.385  0.0106     1.385  0.0106
+IYG         CD1         CE1      SINGLE       y     1.385  0.0117     1.385  0.0117
+IYG         CE1          CZ      DOUBLE       y     1.400  0.0100     1.400  0.0100
+IYG         CE1          I1      SINGLE       n     2.096  0.0100     2.096  0.0100
+IYG         CD2         CE2      DOUBLE       y     1.385  0.0117     1.385  0.0117
+IYG         CE2          CZ      SINGLE       y     1.400  0.0100     1.400  0.0100
+IYG         CE2          I2      SINGLE       n     2.096  0.0100     2.096  0.0100
+IYG          CZ          OH      SINGLE       n     1.374  0.0155     1.374  0.0155
+IYG           C           O      DOUBLE       n     1.229  0.0102     1.229  0.0102
+IYG           C          NT      SINGLE       n     1.333  0.0100     1.333  0.0100
+IYG          NT         CAT      SINGLE       n     1.445  0.0100     1.445  0.0100
+IYG         CAT          CT      SINGLE       n     1.527  0.0103     1.527  0.0103
+IYG          CT         OT1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+IYG          CT         OT2      SINGLE       n     1.247  0.0187     1.247  0.0187
+IYG         CAN        HAN1      SINGLE       n     1.089  0.0100     0.971  0.0140
+IYG         CAN        HAN2      SINGLE       n     1.089  0.0100     0.971  0.0140
+IYG         CAN        HAN3      SINGLE       n     1.089  0.0100     0.971  0.0140
+IYG           N           H      SINGLE       n     1.016  0.0100     0.873  0.0200
+IYG          CA          HA      SINGLE       n     1.089  0.0100     0.988  0.0200
+IYG          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0164
+IYG          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0164
+IYG         CD1         HD1      SINGLE       n     1.082  0.0130     0.946  0.0100
+IYG         CD2         HD2      SINGLE       n     1.082  0.0130     0.946  0.0100
+IYG          OH         H1O      SINGLE       n     0.966  0.0059     0.861  0.0200
+IYG          NT         HT1      SINGLE       n     1.016  0.0100     0.873  0.0200
+IYG         CAT        HAT1      SINGLE       n     1.089  0.0100     0.977  0.0124
+IYG         CAT        HAT2      SINGLE       n     1.089  0.0100     0.977  0.0124
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -108,65 +108,64 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-IYG CN   CAN HAN1 109.678 1.50
-IYG CN   CAN HAN2 109.678 1.50
-IYG CN   CAN HAN3 109.678 1.50
-IYG HAN1 CAN HAN2 109.365 1.50
-IYG HAN1 CAN HAN3 109.365 1.50
-IYG HAN2 CAN HAN3 109.365 1.50
-IYG CAN  CN  ON   121.913 1.50
-IYG CAN  CN  N    116.420 1.50
-IYG ON   CN  N    121.667 1.50
-IYG CN   N   CA   121.978 1.76
-IYG CN   N   H    119.408 2.25
-IYG CA   N   H    118.614 1.50
-IYG N    CA  CB   111.012 1.50
-IYG N    CA  C    110.600 2.58
-IYG N    CA  HA   108.047 1.50
-IYG CB   CA  C    110.507 1.62
-IYG CB   CA  HA   108.341 1.50
-IYG C    CA  HA   108.179 1.50
-IYG CA   CB  CG   113.550 1.83
-IYG CA   CB  HB1  108.810 1.50
-IYG CA   CB  HB2  108.810 1.50
-IYG CG   CB  HB1  108.862 1.50
-IYG CG   CB  HB2  108.862 1.50
-IYG HB1  CB  HB2  107.782 1.50
-IYG CB   CG  CD1  120.646 1.50
-IYG CB   CG  CD2  120.646 1.50
-IYG CD1  CG  CD2  118.707 1.50
-IYG CG   CD1 CE1  120.476 1.50
-IYG CG   CD1 HD1  119.356 1.50
-IYG CE1  CD1 HD1  120.168 1.50
-IYG CD1  CE1 CZ   120.445 1.50
-IYG CD1  CE1 I1   120.442 1.50
-IYG CZ   CE1 I1   119.114 1.50
-IYG CG   CD2 CE2  120.476 1.50
-IYG CG   CD2 HD2  119.356 1.50
-IYG CE2  CD2 HD2  120.168 1.50
-IYG CD2  CE2 CZ   120.445 1.50
-IYG CD2  CE2 I2   120.442 1.50
-IYG CZ   CE2 I2   119.114 1.50
-IYG CE1  CZ  CE2  119.451 1.50
-IYG CE1  CZ  OH   120.275 3.00
-IYG CE2  CZ  OH   120.275 3.00
-IYG CZ   OH  H1O  120.000 3.00
-IYG CA   C   O    120.760 1.50
-IYG CA   C   NT   116.223 1.50
-IYG O    C   NT   123.017 1.50
-IYG C    NT  CAT  121.705 1.50
-IYG C    NT  HT1  118.990 1.52
-IYG CAT  NT  HT1  119.305 1.57
-IYG NT   CAT CT   112.537 1.50
-IYG NT   CAT HAT1 109.066 1.50
-IYG NT   CAT HAT2 109.066 1.50
-IYG CT   CAT HAT1 108.590 1.50
-IYG CT   CAT HAT2 108.590 1.50
-IYG HAT1 CAT HAT2 107.999 1.50
-IYG CAT  CT  OT1  117.139 1.80
-IYG CAT  CT  OT2  117.139 1.80
-IYG OT1  CT  OT2  125.722 1.50
-
+IYG          CN         CAN        HAN1     109.678    1.50
+IYG          CN         CAN        HAN2     109.678    1.50
+IYG          CN         CAN        HAN3     109.678    1.50
+IYG        HAN1         CAN        HAN2     109.365    1.50
+IYG        HAN1         CAN        HAN3     109.365    1.50
+IYG        HAN2         CAN        HAN3     109.365    1.50
+IYG         CAN          CN          ON     121.913    1.50
+IYG         CAN          CN           N     116.420    1.50
+IYG          ON          CN           N     121.667    1.50
+IYG          CN           N          CA     121.978    1.76
+IYG          CN           N           H     119.408    2.25
+IYG          CA           N           H     118.614    1.50
+IYG           N          CA          CB     111.012    1.50
+IYG           N          CA           C     110.600    2.58
+IYG           N          CA          HA     108.047    1.50
+IYG          CB          CA           C     110.507    1.62
+IYG          CB          CA          HA     108.341    1.50
+IYG           C          CA          HA     108.179    1.50
+IYG          CA          CB          CG     113.550    1.83
+IYG          CA          CB         HB1     108.810    1.50
+IYG          CA          CB         HB2     108.810    1.50
+IYG          CG          CB         HB1     108.862    1.50
+IYG          CG          CB         HB2     108.862    1.50
+IYG         HB1          CB         HB2     107.782    1.50
+IYG          CB          CG         CD1     120.646    1.50
+IYG          CB          CG         CD2     120.646    1.50
+IYG         CD1          CG         CD2     118.707    1.50
+IYG          CG         CD1         CE1     120.476    1.50
+IYG          CG         CD1         HD1     119.356    1.50
+IYG         CE1         CD1         HD1     120.168    1.50
+IYG         CD1         CE1          CZ     120.445    1.50
+IYG         CD1         CE1          I1     120.442    1.50
+IYG          CZ         CE1          I1     119.114    1.50
+IYG          CG         CD2         CE2     120.476    1.50
+IYG          CG         CD2         HD2     119.356    1.50
+IYG         CE2         CD2         HD2     120.168    1.50
+IYG         CD2         CE2          CZ     120.445    1.50
+IYG         CD2         CE2          I2     120.442    1.50
+IYG          CZ         CE2          I2     119.114    1.50
+IYG         CE1          CZ         CE2     119.451    1.50
+IYG         CE1          CZ          OH     120.275    3.00
+IYG         CE2          CZ          OH     120.275    3.00
+IYG          CZ          OH         H1O     120.000    3.00
+IYG          CA           C           O     120.760    1.50
+IYG          CA           C          NT     116.223    1.50
+IYG           O           C          NT     123.017    1.50
+IYG           C          NT         CAT     121.705    1.50
+IYG           C          NT         HT1     118.990    1.52
+IYG         CAT          NT         HT1     119.305    1.57
+IYG          NT         CAT          CT     112.537    1.50
+IYG          NT         CAT        HAT1     109.066    1.50
+IYG          NT         CAT        HAT2     109.066    1.50
+IYG          CT         CAT        HAT1     108.590    1.50
+IYG          CT         CAT        HAT2     108.590    1.50
+IYG        HAT1         CAT        HAT2     107.999    1.50
+IYG         CAT          CT         OT1     117.139    1.80
+IYG         CAT          CT         OT2     117.139    1.80
+IYG         OT1          CT         OT2     125.722    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -177,23 +176,22 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-IYG sp2_sp3_1       ON  CN  CAN HAN1 0.000   10.0 6
-IYG const_16        I2  CE2 CZ  OH   0.000   10.0 2
-IYG sp2_sp2_5       CE1 CZ  OH  H1O  180.000 5.0  2
-IYG sp2_sp2_7       CA  C   NT  CAT  180.000 5.0  2
-IYG sp2_sp3_26      C   NT  CAT CT   120.000 10.0 6
-IYG sp2_sp3_32      OT1 CT  CAT NT   120.000 10.0 6
-IYG sp2_sp2_1       CAN CN  N   CA   180.000 5.0  2
-IYG sp2_sp3_7       CN  N   CA  CB   0.000   10.0 6
-IYG sp2_sp3_13      O   C   CA  N    0.000   10.0 6
-IYG sp3_sp3_1       N   CA  CB  CG   180.000 10.0 3
-IYG sp2_sp3_20      CD1 CG  CB  CA   -90.000 10.0 6
-IYG const_sp2_sp2_2 CE1 CD1 CG  CB   180.000 5.0  2
-IYG const_22        CE2 CD2 CG  CB   180.000 10.0 2
-IYG const_sp2_sp2_6 CG  CD1 CE1 I1   180.000 5.0  2
-IYG const_12        I1  CE1 CZ  OH   0.000   10.0 2
-IYG const_18        CG  CD2 CE2 I2   180.000 10.0 2
-
+IYG             sp2_sp3_1          ON          CN         CAN        HAN1       0.000    10.0     6
+IYG              const_16          I2         CE2          CZ          OH       0.000    10.0     2
+IYG             sp2_sp2_5         CE1          CZ          OH         H1O     180.000     5.0     2
+IYG             sp2_sp2_7          CA           C          NT         CAT     180.000     5.0     2
+IYG            sp2_sp3_26           C          NT         CAT          CT     120.000    10.0     6
+IYG            sp2_sp3_32         OT1          CT         CAT          NT     120.000    10.0     6
+IYG             sp2_sp2_1         CAN          CN           N          CA     180.000     5.0     2
+IYG             sp2_sp3_7          CN           N          CA          CB       0.000    10.0     6
+IYG            sp2_sp3_13           O           C          CA           N       0.000    10.0     6
+IYG             sp3_sp3_1           N          CA          CB          CG     180.000    10.0     3
+IYG            sp2_sp3_20         CD1          CG          CB          CA     -90.000    10.0     6
+IYG       const_sp2_sp2_2         CE1         CD1          CG          CB     180.000     5.0     2
+IYG              const_22         CE2         CD2          CG          CB     180.000    10.0     2
+IYG       const_sp2_sp2_6          CG         CD1         CE1          I1     180.000     5.0     2
+IYG              const_12          I1         CE1          CZ          OH       0.000    10.0     2
+IYG              const_18          CG         CD2         CE2          I2     180.000    10.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -202,79 +200,63 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-IYG chir_1 CA N C CB positive
-
+IYG    chir_1    CA    N    C    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-IYG plan-1 CB  0.020
-IYG plan-1 CD1 0.020
-IYG plan-1 CD2 0.020
-IYG plan-1 CE1 0.020
-IYG plan-1 CE2 0.020
-IYG plan-1 CG  0.020
-IYG plan-1 CZ  0.020
-IYG plan-1 HD1 0.020
-IYG plan-1 HD2 0.020
-IYG plan-1 I1  0.020
-IYG plan-1 I2  0.020
-IYG plan-1 OH  0.020
-IYG plan-2 CAN 0.020
-IYG plan-2 CN  0.020
-IYG plan-2 N   0.020
-IYG plan-2 ON  0.020
-IYG plan-3 CA  0.020
-IYG plan-3 CN  0.020
-IYG plan-3 H   0.020
-IYG plan-3 N   0.020
-IYG plan-4 C   0.020
-IYG plan-4 CA  0.020
-IYG plan-4 NT  0.020
-IYG plan-4 O   0.020
-IYG plan-5 C   0.020
-IYG plan-5 CAT 0.020
-IYG plan-5 HT1 0.020
-IYG plan-5 NT  0.020
-IYG plan-6 CAT 0.020
-IYG plan-6 CT  0.020
-IYG plan-6 OT1 0.020
-IYG plan-6 OT2 0.020
-
+IYG    plan-1          CB   0.020
+IYG    plan-1         CD1   0.020
+IYG    plan-1         CD2   0.020
+IYG    plan-1         CE1   0.020
+IYG    plan-1         CE2   0.020
+IYG    plan-1          CG   0.020
+IYG    plan-1          CZ   0.020
+IYG    plan-1         HD1   0.020
+IYG    plan-1         HD2   0.020
+IYG    plan-1          I1   0.020
+IYG    plan-1          I2   0.020
+IYG    plan-1          OH   0.020
+IYG    plan-2         CAN   0.020
+IYG    plan-2          CN   0.020
+IYG    plan-2           N   0.020
+IYG    plan-2          ON   0.020
+IYG    plan-3          CA   0.020
+IYG    plan-3          CN   0.020
+IYG    plan-3           H   0.020
+IYG    plan-3           N   0.020
+IYG    plan-4           C   0.020
+IYG    plan-4          CA   0.020
+IYG    plan-4          NT   0.020
+IYG    plan-4           O   0.020
+IYG    plan-5           C   0.020
+IYG    plan-5         CAT   0.020
+IYG    plan-5         HT1   0.020
+IYG    plan-5          NT   0.020
+IYG    plan-6         CAT   0.020
+IYG    plan-6          CT   0.020
+IYG    plan-6         OT1   0.020
+IYG    plan-6         OT2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-IYG SMILES           ACDLabs              10.04 Ic1cc(cc(I)c1O)CC(C(=O)NCC(=O)O)NC(=O)C
-IYG SMILES_CANONICAL CACTVS               3.341 CC(=O)N[C@@H](Cc1cc(I)c(O)c(I)c1)C(=O)NCC(O)=O
-IYG SMILES           CACTVS               3.341 CC(=O)N[CH](Cc1cc(I)c(O)c(I)c1)C(=O)NCC(O)=O
-IYG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(=O)N[C@@H](Cc1cc(c(c(c1)I)O)I)C(=O)NCC(=O)O
-IYG SMILES           "OpenEye OEToolkits" 1.5.0 CC(=O)NC(Cc1cc(c(c(c1)I)O)I)C(=O)NCC(=O)O
-IYG InChI            InChI                1.03  InChI=1S/C13H14I2N2O5/c1-6(18)17-10(13(22)16-5-11(19)20)4-7-2-8(14)12(21)9(15)3-7/h2-3,10,21H,4-5H2,1H3,(H,16,22)(H,17,18)(H,19,20)/t10-/m0/s1
-IYG InChIKey         InChI                1.03  SXRYVFRVDCDPKH-JTQLQIEISA-N
-
+IYG           SMILES              ACDLabs 10.04                                                                                                        Ic1cc(cc(I)c1O)CC(C(=O)NCC(=O)O)NC(=O)C
+IYG SMILES_CANONICAL               CACTVS 3.341                                                                                                 CC(=O)N[C@@H](Cc1cc(I)c(O)c(I)c1)C(=O)NCC(O)=O
+IYG           SMILES               CACTVS 3.341                                                                                                   CC(=O)N[CH](Cc1cc(I)c(O)c(I)c1)C(=O)NCC(O)=O
+IYG SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                 CC(=O)N[C@@H](Cc1cc(c(c(c1)I)O)I)C(=O)NCC(=O)O
+IYG           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                      CC(=O)NC(Cc1cc(c(c(c1)I)O)I)C(=O)NCC(=O)O
+IYG            InChI                InChI  1.03 InChI=1S/C13H14I2N2O5/c1-6(18)17-10(13(22)16-5-11(19)20)4-7-2-8(14)12(21)9(15)3-7/h2-3,10,21H,4-5H2,1H3,(H,16,22)(H,17,18)(H,19,20)/t10-/m0/s1
+IYG         InChIKey                InChI  1.03                                                                                                                    SXRYVFRVDCDPKH-JTQLQIEISA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-IYG acedrg          243       "dictionary generator"
-IYG acedrg_database 11        "data source"
-IYG rdkit           2017.03.2 "Chemoinformatics tool"
-IYG refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-IYG M-peptide OT1 O
-IYG M-peptide CT  C
-IYG M-peptide CAT CA
-IYG M-peptide NT  N
-IYG M-peptide C   CN
-IYG M-peptide OT2 OXT
-IYG M-peptide HT1 H
+IYG acedrg               243         "dictionary generator"                  
+IYG acedrg_database      11          "data source"                           
+IYG rdkit                2017.03.2   "Chemoinformatics tool"
+IYG refmac5              5.8.0238    "optimization tool"                     

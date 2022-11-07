@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-G8W G8W "(2~{S})-2-[[(2~{S})-6-[(6-fluoranylpyridin-3-yl)amino]-1-oxidanyl-1,6-bis(oxidanylidene)hexan-2-yl]carbamoylamino]pentanedioic acid" NON-POLYMER 48 30 .
-
+G8W     G8W      "(2~{S})-2-[[(2~{S})-6-[(6-fluoranylpyridin-3-yl)amino]-1-oxidanyl-1,6-bis(oxidanylidene)hexan-2-yl]carbamoylamino]pentanedioic acid"     NON-POLYMER     48     30     .     
+#
 data_comp_G8W
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,55 +21,54 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-G8W OBA O OC   -1 13.948 48.947 41.366
-G8W CAZ C C    0  14.144 48.160 40.419
-G8W OBB O O    0  13.378 48.055 39.440
-G8W CAY C CH2  0  15.382 47.281 40.459
-G8W CAX C CH2  0  15.203 45.980 41.234
-G8W CAT C CH1  0  16.504 45.205 41.495
-G8W CAU C C    0  17.258 44.884 40.190
-G8W OAW O O    0  16.983 43.808 39.623
-G8W OAV O OC   -1 18.092 45.721 39.786
-G8W NAS N NH1  0  17.365 45.906 42.445
-G8W CAA C C    0  18.421 45.336 43.074
-G8W OBD O O    0  18.721 44.135 42.899
-G8W N   N NH1  0  19.154 46.143 43.879
-G8W CA  C CH1  0  20.371 45.733 44.571
-G8W C   C C    0  20.605 46.591 45.828
-G8W OXT O O    0  20.649 47.828 45.675
-G8W O   O OC   -1 20.734 45.990 46.913
-G8W CB  C CH2  0  21.577 45.796 43.628
-G8W CAL C CH2  0  22.821 45.089 44.162
-G8W CAK C CH2  0  23.888 44.881 43.130
-G8W CAB C C    0  24.618 46.151 42.743
-G8W OBC O O    0  25.479 46.641 43.461
-G8W NAJ N NH1  0  24.257 46.695 41.555
-G8W CAD C CR6  0  24.357 48.054 41.180
-G8W CAC C CR16 0  24.877 48.387 39.932
-G8W CAE C CR16 0  24.977 49.716 39.560
-G8W CAG C CR6  0  24.541 50.646 40.480
-G8W FAI F F    0  24.617 51.964 40.166
-G8W NAH N NRD6 0  24.046 50.390 41.663
-G8W CAF C CR16 0  23.952 49.098 42.015
-G8W H2  H H    0  16.114 47.796 40.860
-G8W H3  H H    0  15.638 47.073 39.536
-G8W H4  H H    0  14.591 45.400 40.735
-G8W H5  H H    0  14.785 46.183 42.096
-G8W H6  H H    0  16.249 44.341 41.910
-G8W H8  H H    0  17.182 46.739 42.627
-G8W H9  H H    0  18.882 46.967 43.989
-G8W H10 H H    0  20.261 44.792 44.864
-G8W H12 H H    0  21.796 46.737 43.464
-G8W H13 H H    0  21.327 45.391 42.772
-G8W H14 H H    0  22.556 44.217 44.523
-G8W H15 H H    0  23.192 45.617 44.899
-G8W H16 H H    0  23.483 44.481 42.333
-G8W H17 H H    0  24.542 44.240 43.483
-G8W H18 H H    0  23.947 46.149 40.947
-G8W H19 H H    0  25.162 47.712 39.339
-G8W H20 H H    0  25.328 49.956 38.717
-G8W H21 H H    0  23.594 48.888 42.873
-
+G8W     OBA     O       OC      -1      13.948      48.947      41.366      
+G8W     CAZ     C       C       0       14.144      48.160      40.419      
+G8W     OBB     O       O       0       13.378      48.055      39.440      
+G8W     CAY     C       CH2     0       15.382      47.281      40.459      
+G8W     CAX     C       CH2     0       15.203      45.980      41.234      
+G8W     CAT     C       CH1     0       16.504      45.205      41.495      
+G8W     CAU     C       C       0       17.258      44.884      40.190      
+G8W     OAW     O       O       0       16.983      43.808      39.623      
+G8W     OAV     O       OC      -1      18.092      45.721      39.786      
+G8W     NAS     N       NH1     0       17.365      45.906      42.445      
+G8W     CAA     C       C       0       18.421      45.336      43.074      
+G8W     OBD     O       O       0       18.721      44.135      42.899      
+G8W     N       N       NH1     0       19.154      46.143      43.879      
+G8W     CA      C       CH1     0       20.371      45.733      44.571      
+G8W     C       C       C       0       20.605      46.591      45.828      
+G8W     OXT     O       O       0       20.649      47.828      45.675      
+G8W     O       O       OC      -1      20.734      45.990      46.913      
+G8W     CB      C       CH2     0       21.577      45.796      43.628      
+G8W     CAL     C       CH2     0       22.821      45.089      44.162      
+G8W     CAK     C       CH2     0       23.888      44.881      43.130      
+G8W     CAB     C       C       0       24.618      46.151      42.743      
+G8W     OBC     O       O       0       25.479      46.641      43.461      
+G8W     NAJ     N       NH1     0       24.257      46.695      41.555      
+G8W     CAD     C       CR6     0       24.357      48.054      41.180      
+G8W     CAC     C       CR16    0       24.877      48.387      39.932      
+G8W     CAE     C       CR16    0       24.977      49.716      39.560      
+G8W     CAG     C       CR6     0       24.541      50.646      40.480      
+G8W     FAI     F       F       0       24.617      51.964      40.166      
+G8W     NAH     N       NRD6    0       24.046      50.390      41.663      
+G8W     CAF     C       CR16    0       23.952      49.098      42.015      
+G8W     H2      H       H       0       16.114      47.796      40.860      
+G8W     H3      H       H       0       15.638      47.073      39.536      
+G8W     H4      H       H       0       14.591      45.400      40.735      
+G8W     H5      H       H       0       14.785      46.183      42.096      
+G8W     H6      H       H       0       16.249      44.341      41.910      
+G8W     H8      H       H       0       17.182      46.739      42.627      
+G8W     H9      H       H       0       18.882      46.967      43.989      
+G8W     H10     H       H       0       20.261      44.792      44.864      
+G8W     H12     H       H       0       21.796      46.737      43.464      
+G8W     H13     H       H       0       21.327      45.391      42.772      
+G8W     H14     H       H       0       22.556      44.217      44.523      
+G8W     H15     H       H       0       23.192      45.617      44.899      
+G8W     H16     H       H       0       23.483      44.481      42.333      
+G8W     H17     H       H       0       24.542      44.240      43.483      
+G8W     H18     H       H       0       23.947      46.149      40.947      
+G8W     H19     H       H       0       25.162      47.712      39.339      
+G8W     H20     H       H       0       25.328      49.956      38.717      
+G8W     H21     H       H       0       23.594      48.888      42.873      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -78,55 +79,54 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-G8W CAC CAE SINGLE y 1.382 0.0100 1.382 0.0100
-G8W CAE CAG DOUBLE y 1.375 0.0149 1.375 0.0149
-G8W CAU OAW DOUBLE n 1.247 0.0187 1.247 0.0187
-G8W CAG FAI SINGLE n 1.357 0.0100 1.357 0.0100
-G8W CAZ OBB DOUBLE n 1.247 0.0187 1.247 0.0187
-G8W CAD CAC DOUBLE y 1.388 0.0100 1.388 0.0100
-G8W CAG NAH SINGLE y 1.304 0.0100 1.304 0.0100
-G8W CAU OAV SINGLE n 1.247 0.0187 1.247 0.0187
-G8W CAT CAU SINGLE n 1.539 0.0100 1.539 0.0100
-G8W OBA CAZ SINGLE n 1.247 0.0187 1.247 0.0187
-G8W CAZ CAY SINGLE n 1.519 0.0109 1.519 0.0109
-G8W NAJ CAD SINGLE n 1.411 0.0131 1.411 0.0131
-G8W CAD CAF SINGLE y 1.391 0.0100 1.391 0.0100
-G8W CAY CAX SINGLE n 1.518 0.0153 1.518 0.0153
-G8W NAH CAF DOUBLE y 1.336 0.0101 1.336 0.0101
-G8W CAX CAT SINGLE n 1.533 0.0100 1.533 0.0100
-G8W CAB NAJ SINGLE n 1.350 0.0120 1.350 0.0120
-G8W CAT NAS SINGLE n 1.454 0.0128 1.454 0.0128
-G8W CAK CAB SINGLE n 1.510 0.0129 1.510 0.0129
-G8W CAB OBC DOUBLE n 1.223 0.0143 1.223 0.0143
-G8W CAA OBD DOUBLE n 1.243 0.0179 1.243 0.0179
-G8W NAS CAA SINGLE n 1.349 0.0100 1.349 0.0100
-G8W CAL CAK SINGLE n 1.497 0.0200 1.497 0.0200
-G8W CAA N   SINGLE n 1.349 0.0100 1.349 0.0100
-G8W CB  CAL SINGLE n 1.526 0.0181 1.526 0.0181
-G8W CA  CB  SINGLE n 1.531 0.0123 1.531 0.0123
-G8W N   CA  SINGLE n 1.454 0.0128 1.454 0.0128
-G8W CA  C   SINGLE n 1.539 0.0100 1.539 0.0100
-G8W C   OXT DOUBLE n 1.247 0.0187 1.247 0.0187
-G8W C   O   SINGLE n 1.247 0.0187 1.247 0.0187
-G8W CAY H2  SINGLE n 1.089 0.0100 0.981 0.0185
-G8W CAY H3  SINGLE n 1.089 0.0100 0.981 0.0185
-G8W CAX H4  SINGLE n 1.089 0.0100 0.980 0.0178
-G8W CAX H5  SINGLE n 1.089 0.0100 0.980 0.0178
-G8W CAT H6  SINGLE n 1.089 0.0100 0.991 0.0200
-G8W NAS H8  SINGLE n 1.016 0.0100 0.873 0.0200
-G8W N   H9  SINGLE n 1.016 0.0100 0.873 0.0200
-G8W CA  H10 SINGLE n 1.089 0.0100 0.991 0.0200
-G8W CB  H12 SINGLE n 1.089 0.0100 0.980 0.0160
-G8W CB  H13 SINGLE n 1.089 0.0100 0.980 0.0160
-G8W CAL H14 SINGLE n 1.089 0.0100 0.980 0.0160
-G8W CAL H15 SINGLE n 1.089 0.0100 0.980 0.0160
-G8W CAK H16 SINGLE n 1.089 0.0100 0.981 0.0185
-G8W CAK H17 SINGLE n 1.089 0.0100 0.981 0.0185
-G8W NAJ H18 SINGLE n 1.016 0.0100 0.874 0.0200
-G8W CAC H19 SINGLE n 1.082 0.0130 0.942 0.0186
-G8W CAE H20 SINGLE n 1.082 0.0130 0.944 0.0155
-G8W CAF H21 SINGLE n 1.082 0.0130 0.953 0.0200
-
+G8W         CAC         CAE      SINGLE       y     1.382  0.0100     1.382  0.0100
+G8W         CAE         CAG      DOUBLE       y     1.375  0.0149     1.375  0.0149
+G8W         CAU         OAW      DOUBLE       n     1.247  0.0187     1.247  0.0187
+G8W         CAG         FAI      SINGLE       n     1.357  0.0100     1.357  0.0100
+G8W         CAZ         OBB      DOUBLE       n     1.247  0.0187     1.247  0.0187
+G8W         CAD         CAC      DOUBLE       y     1.388  0.0100     1.388  0.0100
+G8W         CAG         NAH      SINGLE       y     1.304  0.0100     1.304  0.0100
+G8W         CAU         OAV      SINGLE       n     1.247  0.0187     1.247  0.0187
+G8W         CAT         CAU      SINGLE       n     1.539  0.0100     1.539  0.0100
+G8W         OBA         CAZ      SINGLE       n     1.247  0.0187     1.247  0.0187
+G8W         CAZ         CAY      SINGLE       n     1.519  0.0109     1.519  0.0109
+G8W         NAJ         CAD      SINGLE       n     1.411  0.0131     1.411  0.0131
+G8W         CAD         CAF      SINGLE       y     1.391  0.0100     1.391  0.0100
+G8W         CAY         CAX      SINGLE       n     1.518  0.0153     1.518  0.0153
+G8W         NAH         CAF      DOUBLE       y     1.336  0.0101     1.336  0.0101
+G8W         CAX         CAT      SINGLE       n     1.533  0.0100     1.533  0.0100
+G8W         CAB         NAJ      SINGLE       n     1.350  0.0120     1.350  0.0120
+G8W         CAT         NAS      SINGLE       n     1.454  0.0128     1.454  0.0128
+G8W         CAK         CAB      SINGLE       n     1.510  0.0129     1.510  0.0129
+G8W         CAB         OBC      DOUBLE       n     1.223  0.0143     1.223  0.0143
+G8W         CAA         OBD      DOUBLE       n     1.243  0.0179     1.243  0.0179
+G8W         NAS         CAA      SINGLE       n     1.349  0.0100     1.349  0.0100
+G8W         CAL         CAK      SINGLE       n     1.497  0.0200     1.497  0.0200
+G8W         CAA           N      SINGLE       n     1.349  0.0100     1.349  0.0100
+G8W          CB         CAL      SINGLE       n     1.526  0.0181     1.526  0.0181
+G8W          CA          CB      SINGLE       n     1.531  0.0123     1.531  0.0123
+G8W           N          CA      SINGLE       n     1.454  0.0128     1.454  0.0128
+G8W          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+G8W           C         OXT      DOUBLE       n     1.247  0.0187     1.247  0.0187
+G8W           C           O      SINGLE       n     1.247  0.0187     1.247  0.0187
+G8W         CAY          H2      SINGLE       n     1.089  0.0100     0.981  0.0185
+G8W         CAY          H3      SINGLE       n     1.089  0.0100     0.981  0.0185
+G8W         CAX          H4      SINGLE       n     1.089  0.0100     0.980  0.0178
+G8W         CAX          H5      SINGLE       n     1.089  0.0100     0.980  0.0178
+G8W         CAT          H6      SINGLE       n     1.089  0.0100     0.991  0.0200
+G8W         NAS          H8      SINGLE       n     1.016  0.0100     0.873  0.0200
+G8W           N          H9      SINGLE       n     1.016  0.0100     0.873  0.0200
+G8W          CA         H10      SINGLE       n     1.089  0.0100     0.991  0.0200
+G8W          CB         H12      SINGLE       n     1.089  0.0100     0.980  0.0160
+G8W          CB         H13      SINGLE       n     1.089  0.0100     0.980  0.0160
+G8W         CAL         H14      SINGLE       n     1.089  0.0100     0.980  0.0160
+G8W         CAL         H15      SINGLE       n     1.089  0.0100     0.980  0.0160
+G8W         CAK         H16      SINGLE       n     1.089  0.0100     0.981  0.0185
+G8W         CAK         H17      SINGLE       n     1.089  0.0100     0.981  0.0185
+G8W         NAJ         H18      SINGLE       n     1.016  0.0100     0.874  0.0200
+G8W         CAC         H19      SINGLE       n     1.082  0.0130     0.942  0.0186
+G8W         CAE         H20      SINGLE       n     1.082  0.0130     0.944  0.0155
+G8W         CAF         H21      SINGLE       n     1.082  0.0130     0.953  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -134,89 +134,88 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-G8W OBB CAZ OBA 123.571 1.50
-G8W OBB CAZ CAY 118.214 1.64
-G8W OBA CAZ CAY 118.214 1.64
-G8W CAZ CAY CAX 114.629 2.24
-G8W CAZ CAY H2  108.404 1.50
-G8W CAZ CAY H3  108.404 1.50
-G8W CAX CAY H2  108.906 1.50
-G8W CAX CAY H3  108.906 1.50
-G8W H2  CAY H3  107.521 1.50
-G8W CAY CAX CAT 112.938 1.50
-G8W CAY CAX H4  108.890 1.50
-G8W CAY CAX H5  108.890 1.50
-G8W CAT CAX H4  108.606 1.50
-G8W CAT CAX H5  108.606 1.50
-G8W H4  CAX H5  107.844 1.50
-G8W CAU CAT CAX 111.638 2.31
-G8W CAU CAT NAS 110.939 1.74
-G8W CAU CAT H6  108.327 1.50
-G8W CAX CAT NAS 111.076 1.75
-G8W CAX CAT H6  108.155 1.50
-G8W NAS CAT H6  108.161 1.50
-G8W OAW CAU OAV 125.502 1.50
-G8W OAW CAU CAT 117.249 1.61
-G8W OAV CAU CAT 117.249 1.61
-G8W CAT NAS CAA 122.812 3.00
-G8W CAT NAS H8  119.090 1.92
-G8W CAA NAS H8  118.098 1.50
-G8W OBD CAA NAS 122.060 1.50
-G8W OBD CAA N   122.060 1.50
-G8W NAS CAA N   115.881 1.50
-G8W CAA N   CA  122.812 3.00
-G8W CAA N   H9  118.098 1.50
-G8W CA  N   H9  119.090 1.92
-G8W CB  CA  N   111.076 1.75
-G8W CB  CA  C   111.638 2.31
-G8W CB  CA  H10 108.155 1.50
-G8W N   CA  C   110.939 1.74
-G8W N   CA  H10 108.161 1.50
-G8W C   CA  H10 108.327 1.50
-G8W CA  C   OXT 117.249 1.61
-G8W CA  C   O   117.249 1.61
-G8W OXT C   O   125.502 1.50
-G8W CAL CB  CA  113.671 1.50
-G8W CAL CB  H12 108.650 1.50
-G8W CAL CB  H13 108.650 1.50
-G8W CA  CB  H12 108.606 1.50
-G8W CA  CB  H13 108.606 1.50
-G8W H12 CB  H13 107.844 1.50
-G8W CAK CAL CB  113.314 2.25
-G8W CAK CAL H14 108.795 1.50
-G8W CAK CAL H15 108.795 1.50
-G8W CB  CAL H14 108.601 1.50
-G8W CB  CAL H15 108.601 1.50
-G8W H14 CAL H15 107.646 1.50
-G8W CAB CAK CAL 113.697 1.65
-G8W CAB CAK H16 108.910 1.50
-G8W CAB CAK H17 108.910 1.50
-G8W CAL CAK H16 108.897 1.50
-G8W CAL CAK H17 108.897 1.50
-G8W H16 CAK H17 107.846 1.50
-G8W NAJ CAB CAK 114.644 1.50
-G8W NAJ CAB OBC 123.054 1.50
-G8W CAK CAB OBC 122.305 1.50
-G8W CAD NAJ CAB 126.356 1.68
-G8W CAD NAJ H18 116.972 1.71
-G8W CAB NAJ H18 116.672 1.57
-G8W CAC CAD NAJ 120.371 2.25
-G8W CAC CAD CAF 117.679 1.50
-G8W NAJ CAD CAF 121.950 2.66
-G8W CAE CAC CAD 119.877 1.50
-G8W CAE CAC H19 119.714 1.50
-G8W CAD CAC H19 120.409 1.50
-G8W CAC CAE CAG 117.023 1.50
-G8W CAC CAE H20 120.433 1.50
-G8W CAG CAE H20 122.545 1.50
-G8W CAE CAG FAI 118.539 1.50
-G8W CAE CAG NAH 126.816 1.50
-G8W FAI CAG NAH 114.648 1.50
-G8W CAG NAH CAF 116.342 1.50
-G8W CAD CAF NAH 122.263 1.50
-G8W CAD CAF H21 119.017 1.50
-G8W NAH CAF H21 118.720 1.50
-
+G8W         OBB         CAZ         OBA     123.571    1.50
+G8W         OBB         CAZ         CAY     118.214    1.64
+G8W         OBA         CAZ         CAY     118.214    1.64
+G8W         CAZ         CAY         CAX     114.629    2.24
+G8W         CAZ         CAY          H2     108.404    1.50
+G8W         CAZ         CAY          H3     108.404    1.50
+G8W         CAX         CAY          H2     108.906    1.50
+G8W         CAX         CAY          H3     108.906    1.50
+G8W          H2         CAY          H3     107.521    1.50
+G8W         CAY         CAX         CAT     112.938    1.50
+G8W         CAY         CAX          H4     108.890    1.50
+G8W         CAY         CAX          H5     108.890    1.50
+G8W         CAT         CAX          H4     108.606    1.50
+G8W         CAT         CAX          H5     108.606    1.50
+G8W          H4         CAX          H5     107.844    1.50
+G8W         CAU         CAT         CAX     111.638    2.31
+G8W         CAU         CAT         NAS     110.939    1.74
+G8W         CAU         CAT          H6     108.327    1.50
+G8W         CAX         CAT         NAS     111.076    1.75
+G8W         CAX         CAT          H6     108.155    1.50
+G8W         NAS         CAT          H6     108.161    1.50
+G8W         OAW         CAU         OAV     125.502    1.50
+G8W         OAW         CAU         CAT     117.249    1.61
+G8W         OAV         CAU         CAT     117.249    1.61
+G8W         CAT         NAS         CAA     122.812    3.00
+G8W         CAT         NAS          H8     119.090    1.92
+G8W         CAA         NAS          H8     118.098    1.50
+G8W         OBD         CAA         NAS     122.060    1.50
+G8W         OBD         CAA           N     122.060    1.50
+G8W         NAS         CAA           N     115.881    1.50
+G8W         CAA           N          CA     122.812    3.00
+G8W         CAA           N          H9     118.098    1.50
+G8W          CA           N          H9     119.090    1.92
+G8W          CB          CA           N     111.076    1.75
+G8W          CB          CA           C     111.638    2.31
+G8W          CB          CA         H10     108.155    1.50
+G8W           N          CA           C     110.939    1.74
+G8W           N          CA         H10     108.161    1.50
+G8W           C          CA         H10     108.327    1.50
+G8W          CA           C         OXT     117.249    1.61
+G8W          CA           C           O     117.249    1.61
+G8W         OXT           C           O     125.502    1.50
+G8W         CAL          CB          CA     113.671    1.50
+G8W         CAL          CB         H12     108.650    1.50
+G8W         CAL          CB         H13     108.650    1.50
+G8W          CA          CB         H12     108.606    1.50
+G8W          CA          CB         H13     108.606    1.50
+G8W         H12          CB         H13     107.844    1.50
+G8W         CAK         CAL          CB     113.314    2.25
+G8W         CAK         CAL         H14     108.795    1.50
+G8W         CAK         CAL         H15     108.795    1.50
+G8W          CB         CAL         H14     108.601    1.50
+G8W          CB         CAL         H15     108.601    1.50
+G8W         H14         CAL         H15     107.646    1.50
+G8W         CAB         CAK         CAL     113.697    1.65
+G8W         CAB         CAK         H16     108.910    1.50
+G8W         CAB         CAK         H17     108.910    1.50
+G8W         CAL         CAK         H16     108.897    1.50
+G8W         CAL         CAK         H17     108.897    1.50
+G8W         H16         CAK         H17     107.846    1.50
+G8W         NAJ         CAB         CAK     114.644    1.50
+G8W         NAJ         CAB         OBC     123.054    1.50
+G8W         CAK         CAB         OBC     122.305    1.50
+G8W         CAD         NAJ         CAB     126.356    1.68
+G8W         CAD         NAJ         H18     116.972    1.71
+G8W         CAB         NAJ         H18     116.672    1.57
+G8W         CAC         CAD         NAJ     120.371    2.25
+G8W         CAC         CAD         CAF     117.679    1.50
+G8W         NAJ         CAD         CAF     121.950    2.66
+G8W         CAE         CAC         CAD     119.877    1.50
+G8W         CAE         CAC         H19     119.714    1.50
+G8W         CAD         CAC         H19     120.409    1.50
+G8W         CAC         CAE         CAG     117.023    1.50
+G8W         CAC         CAE         H20     120.433    1.50
+G8W         CAG         CAE         H20     122.545    1.50
+G8W         CAE         CAG         FAI     118.539    1.50
+G8W         CAE         CAG         NAH     126.816    1.50
+G8W         FAI         CAG         NAH     114.648    1.50
+G8W         CAG         NAH         CAF     116.342    1.50
+G8W         CAD         CAF         NAH     122.263    1.50
+G8W         CAD         CAF         H21     119.017    1.50
+G8W         NAH         CAF         H21     118.720    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -227,28 +226,27 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-G8W sp2_sp2_15      OBD CAA N   CA  0.000   5.0  2
-G8W sp2_sp3_25      CAA N   CA  CB  0.000   10.0 6
-G8W sp2_sp3_31      OXT C   CA  CB  0.000   10.0 6
-G8W sp3_sp3_37      N   CA  CB  CAL 180.000 10.0 3
-G8W sp3_sp3_28      CAK CAL CB  CA  180.000 10.0 3
-G8W sp3_sp3_19      CAB CAK CAL CB  180.000 10.0 3
-G8W sp2_sp3_20      NAJ CAB CAK CAL 120.000 10.0 6
-G8W sp2_sp3_8       OBB CAZ CAY CAX 120.000 10.0 6
-G8W sp2_sp2_5       CAK CAB NAJ CAD 180.000 5.0  2
-G8W sp2_sp2_1       CAC CAD NAJ CAB 180.000 5.0  2
-G8W const_sp2_sp2_2 CAE CAC CAD NAJ 180.000 5.0  2
-G8W const_19        NAJ CAD CAF NAH 180.000 10.0 2
-G8W const_sp2_sp2_5 CAD CAC CAE CAG 0.000   5.0  2
-G8W const_10        CAC CAE CAG FAI 180.000 10.0 2
-G8W const_14        FAI CAG NAH CAF 180.000 10.0 2
-G8W const_15        CAD CAF NAH CAG 0.000   10.0 2
-G8W sp3_sp3_1       CAT CAX CAY CAZ 180.000 10.0 3
-G8W sp3_sp3_10      CAU CAT CAX CAY 180.000 10.0 3
-G8W sp2_sp3_1       OAW CAU CAT CAX 0.000   10.0 6
-G8W sp2_sp3_13      CAA NAS CAT CAU 0.000   10.0 6
-G8W sp2_sp2_11      OBD CAA NAS CAT 0.000   5.0  2
-
+G8W            sp2_sp2_15         OBD         CAA           N          CA       0.000     5.0     2
+G8W            sp2_sp3_25         CAA           N          CA          CB       0.000    10.0     6
+G8W            sp2_sp3_31         OXT           C          CA          CB       0.000    10.0     6
+G8W            sp3_sp3_37           N          CA          CB         CAL     180.000    10.0     3
+G8W            sp3_sp3_28         CAK         CAL          CB          CA     180.000    10.0     3
+G8W            sp3_sp3_19         CAB         CAK         CAL          CB     180.000    10.0     3
+G8W            sp2_sp3_20         NAJ         CAB         CAK         CAL     120.000    10.0     6
+G8W             sp2_sp3_8         OBB         CAZ         CAY         CAX     120.000    10.0     6
+G8W             sp2_sp2_5         CAK         CAB         NAJ         CAD     180.000     5.0     2
+G8W             sp2_sp2_1         CAC         CAD         NAJ         CAB     180.000     5.0     2
+G8W       const_sp2_sp2_2         CAE         CAC         CAD         NAJ     180.000     5.0     2
+G8W              const_19         NAJ         CAD         CAF         NAH     180.000    10.0     2
+G8W       const_sp2_sp2_5         CAD         CAC         CAE         CAG       0.000     5.0     2
+G8W              const_10         CAC         CAE         CAG         FAI     180.000    10.0     2
+G8W              const_14         FAI         CAG         NAH         CAF     180.000    10.0     2
+G8W              const_15         CAD         CAF         NAH         CAG       0.000    10.0     2
+G8W             sp3_sp3_1         CAT         CAX         CAY         CAZ     180.000    10.0     3
+G8W            sp3_sp3_10         CAU         CAT         CAX         CAY     180.000    10.0     3
+G8W             sp2_sp3_1         OAW         CAU         CAT         CAX       0.000    10.0     6
+G8W            sp2_sp3_13         CAA         NAS         CAT         CAU       0.000    10.0     6
+G8W            sp2_sp2_11         OBD         CAA         NAS         CAT       0.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -257,87 +255,74 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-G8W chir_1 CAT NAS CAU CAX positive
-G8W chir_2 CA  N   C   CB  positive
-
+G8W    chir_1    CAT    NAS    CAU    CAX    positive
+G8W    chir_2    CA    N    C    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-G8W plan-1 CAC 0.020
-G8W plan-1 CAD 0.020
-G8W plan-1 CAE 0.020
-G8W plan-1 CAF 0.020
-G8W plan-1 CAG 0.020
-G8W plan-1 FAI 0.020
-G8W plan-1 H19 0.020
-G8W plan-1 H20 0.020
-G8W plan-1 H21 0.020
-G8W plan-1 NAH 0.020
-G8W plan-1 NAJ 0.020
-G8W plan-2 CAY 0.020
-G8W plan-2 CAZ 0.020
-G8W plan-2 OBA 0.020
-G8W plan-2 OBB 0.020
-G8W plan-3 CAT 0.020
-G8W plan-3 CAU 0.020
-G8W plan-3 OAV 0.020
-G8W plan-3 OAW 0.020
-G8W plan-4 CAA 0.020
-G8W plan-4 CAT 0.020
-G8W plan-4 H8  0.020
-G8W plan-4 NAS 0.020
-G8W plan-5 CAA 0.020
-G8W plan-5 N   0.020
-G8W plan-5 NAS 0.020
-G8W plan-5 OBD 0.020
-G8W plan-6 CA  0.020
-G8W plan-6 CAA 0.020
-G8W plan-6 H9  0.020
-G8W plan-6 N   0.020
-G8W plan-7 C   0.020
-G8W plan-7 CA  0.020
-G8W plan-7 O   0.020
-G8W plan-7 OXT 0.020
-G8W plan-8 CAB 0.020
-G8W plan-8 CAK 0.020
-G8W plan-8 NAJ 0.020
-G8W plan-8 OBC 0.020
-G8W plan-9 CAB 0.020
-G8W plan-9 CAD 0.020
-G8W plan-9 H18 0.020
-G8W plan-9 NAJ 0.020
-
+G8W    plan-1         CAC   0.020
+G8W    plan-1         CAD   0.020
+G8W    plan-1         CAE   0.020
+G8W    plan-1         CAF   0.020
+G8W    plan-1         CAG   0.020
+G8W    plan-1         FAI   0.020
+G8W    plan-1         H19   0.020
+G8W    plan-1         H20   0.020
+G8W    plan-1         H21   0.020
+G8W    plan-1         NAH   0.020
+G8W    plan-1         NAJ   0.020
+G8W    plan-2         CAY   0.020
+G8W    plan-2         CAZ   0.020
+G8W    plan-2         OBA   0.020
+G8W    plan-2         OBB   0.020
+G8W    plan-3         CAT   0.020
+G8W    plan-3         CAU   0.020
+G8W    plan-3         OAV   0.020
+G8W    plan-3         OAW   0.020
+G8W    plan-4         CAA   0.020
+G8W    plan-4         CAT   0.020
+G8W    plan-4          H8   0.020
+G8W    plan-4         NAS   0.020
+G8W    plan-5         CAA   0.020
+G8W    plan-5           N   0.020
+G8W    plan-5         NAS   0.020
+G8W    plan-5         OBD   0.020
+G8W    plan-6          CA   0.020
+G8W    plan-6         CAA   0.020
+G8W    plan-6          H9   0.020
+G8W    plan-6           N   0.020
+G8W    plan-7           C   0.020
+G8W    plan-7          CA   0.020
+G8W    plan-7           O   0.020
+G8W    plan-7         OXT   0.020
+G8W    plan-8         CAB   0.020
+G8W    plan-8         CAK   0.020
+G8W    plan-8         NAJ   0.020
+G8W    plan-8         OBC   0.020
+G8W    plan-9         CAB   0.020
+G8W    plan-9         CAD   0.020
+G8W    plan-9         H18   0.020
+G8W    plan-9         NAJ   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-G8W InChI            InChI                1.03  InChI=1S/C17H21FN4O8/c18-12-6-4-9(8-19-12)20-13(23)3-1-2-10(15(26)27)21-17(30)22-11(16(28)29)5-7-14(24)25/h4,6,8,10-11H,1-3,5,7H2,(H,20,23)(H,24,25)(H,26,27)(H,28,29)(H2,21,22,30)/t10-,11-/m0/s1
-G8W InChIKey         InChI                1.03  OAJLMFWIFAWMDP-QWRGUYRKSA-N
-G8W SMILES_CANONICAL CACTVS               3.385 OC(=O)CC[C@H](NC(=O)N[C@@H](CCCC(=O)Nc1ccc(F)nc1)C(O)=O)C(O)=O
-G8W SMILES           CACTVS               3.385 OC(=O)CC[CH](NC(=O)N[CH](CCCC(=O)Nc1ccc(F)nc1)C(O)=O)C(O)=O
-G8W SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 c1cc(ncc1NC(=O)CCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)F
-G8W SMILES           "OpenEye OEToolkits" 2.0.6 c1cc(ncc1NC(=O)CCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)F
-
+G8W            InChI                InChI  1.03 InChI=1S/C17H21FN4O8/c18-12-6-4-9(8-19-12)20-13(23)3-1-2-10(15(26)27)21-17(30)22-11(16(28)29)5-7-14(24)25/h4,6,8,10-11H,1-3,5,7H2,(H,20,23)(H,24,25)(H,26,27)(H,28,29)(H2,21,22,30)/t10-,11-/m0/s1
+G8W         InChIKey                InChI  1.03                                                                                                                                                                        OAJLMFWIFAWMDP-QWRGUYRKSA-N
+G8W SMILES_CANONICAL               CACTVS 3.385                                                                                                                                     OC(=O)CC[C@H](NC(=O)N[C@@H](CCCC(=O)Nc1ccc(F)nc1)C(O)=O)C(O)=O
+G8W           SMILES               CACTVS 3.385                                                                                                                                        OC(=O)CC[CH](NC(=O)N[CH](CCCC(=O)Nc1ccc(F)nc1)C(O)=O)C(O)=O
+G8W SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                                                    c1cc(ncc1NC(=O)CCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)F
+G8W           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                                              c1cc(ncc1NC(=O)CCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)F
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-G8W acedrg          243       "dictionary generator"
-G8W acedrg_database 11        "data source"
-G8W rdkit           2017.03.2 "Chemoinformatics tool"
-G8W refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-G8W M-peptide OXT O
-G8W M-peptide CAA CN
-G8W M-peptide O   OXT
-G8W M-peptide H9  H
+G8W acedrg               243         "dictionary generator"                  
+G8W acedrg_database      11          "data source"                           
+G8W rdkit                2017.03.2   "Chemoinformatics tool"
+G8W refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-KCT KCT "(5S)-7-oxo-6,7,12,13-tetrahydro-5H-indolo[2,3-a]pyrrolo[3,4-c]carbazole-5-carboxylic acid" NON-POLYMER 39 27 .
-
+KCT     KCT      "(5S)-7-oxo-6,7,12,13-tetrahydro-5H-indolo[2,3-a]pyrrolo[3,4-c]carbazole-5-carboxylic acid"     NON-POLYMER     39     27     .     
+#
 data_comp_KCT
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,46 +21,45 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-KCT O27 O OC   -1 22.460 -25.653 19.249
-KCT C25 C C    0  22.556 -25.669 18.056
-KCT O26 O O    0  23.411 -26.293 17.493
-KCT C7  C CH1  0  21.563 -24.853 17.234
-KCT N6  N NR5  0  22.232 -23.755 16.556
-KCT C22 C CR56 0  20.945 -25.608 16.079
-KCT C21 C CR56 0  20.098 -26.761 16.057
-KCT C20 C CR56 0  19.542 -27.590 17.094
-KCT C8  C CR16 0  19.615 -27.588 18.496
-KCT C9  C CR16 0  18.938 -28.560 19.203
-KCT C10 C CR16 0  18.188 -29.536 18.538
-KCT C11 C CR16 0  18.097 -29.566 17.162
-KCT C19 C CR56 0  18.781 -28.583 16.441
-KCT N12 N NR5  0  18.859 -28.383 15.073
-KCT C18 C CR56 0  19.651 -27.286 14.824
-KCT C17 C CR56 0  20.040 -26.671 13.603
-KCT C16 C CR56 0  20.882 -25.525 13.612
-KCT C23 C CR56 0  21.338 -24.994 14.870
-KCT C5  C CR5  0  22.196 -23.839 15.214
-KCT O24 O O    0  22.757 -23.064 14.458
-KCT N13 N NR5  0  19.741 -26.989 12.299
-KCT C14 C CR56 0  20.362 -26.083 11.457
-KCT C15 C CR56 0  21.086 -25.151 12.233
-KCT C1  C CR16 0  20.342 -26.014 10.061
-KCT C2  C CR16 0  21.056 -25.000 9.456
-KCT C3  C CR16 0  21.779 -24.066 10.204
-KCT C4  C CR16 0  21.801 -24.131 11.582
-KCT H2  H H    0  20.856 -24.505 17.824
-KCT H3  H H    0  22.622 -23.102 16.975
-KCT H4  H H    0  20.117 -26.934 18.947
-KCT H5  H H    0  18.980 -28.568 20.146
-KCT H6  H H    0  17.735 -30.189 19.041
-KCT H7  H H    0  17.590 -30.226 16.720
-KCT H8  H H    0  18.461 -28.881 14.431
-KCT H9  H H    0  19.218 -27.684 12.051
-KCT H10 H H    0  19.857 -26.640 9.552
-KCT H11 H H    0  21.055 -24.936 8.518
-KCT H12 H H    0  22.257 -23.384 9.759
-KCT H13 H H    0  22.289 -23.500 12.074
-
+KCT     O27     O       OC      -1      22.460      -25.653     19.249      
+KCT     C25     C       C       0       22.556      -25.669     18.056      
+KCT     O26     O       O       0       23.411      -26.293     17.493      
+KCT     C7      C       CH1     0       21.563      -24.853     17.234      
+KCT     N6      N       NR5     0       22.232      -23.755     16.556      
+KCT     C22     C       CR56    0       20.945      -25.608     16.079      
+KCT     C21     C       CR56    0       20.098      -26.761     16.057      
+KCT     C20     C       CR56    0       19.542      -27.590     17.094      
+KCT     C8      C       CR16    0       19.615      -27.588     18.496      
+KCT     C9      C       CR16    0       18.938      -28.560     19.203      
+KCT     C10     C       CR16    0       18.188      -29.536     18.538      
+KCT     C11     C       CR16    0       18.097      -29.566     17.162      
+KCT     C19     C       CR56    0       18.781      -28.583     16.441      
+KCT     N12     N       NR5     0       18.859      -28.383     15.073      
+KCT     C18     C       CR56    0       19.651      -27.286     14.824      
+KCT     C17     C       CR56    0       20.040      -26.671     13.603      
+KCT     C16     C       CR56    0       20.882      -25.525     13.612      
+KCT     C23     C       CR56    0       21.338      -24.994     14.870      
+KCT     C5      C       CR5     0       22.196      -23.839     15.214      
+KCT     O24     O       O       0       22.757      -23.064     14.458      
+KCT     N13     N       NR5     0       19.741      -26.989     12.299      
+KCT     C14     C       CR56    0       20.362      -26.083     11.457      
+KCT     C15     C       CR56    0       21.086      -25.151     12.233      
+KCT     C1      C       CR16    0       20.342      -26.014     10.061      
+KCT     C2      C       CR16    0       21.056      -25.000     9.456       
+KCT     C3      C       CR16    0       21.779      -24.066     10.204      
+KCT     C4      C       CR16    0       21.801      -24.131     11.582      
+KCT     H2      H       H       0       20.856      -24.505     17.824      
+KCT     H3      H       H       0       22.622      -23.102     16.975      
+KCT     H4      H       H       0       20.117      -26.934     18.947      
+KCT     H5      H       H       0       18.980      -28.568     20.146      
+KCT     H6      H       H       0       17.735      -30.189     19.041      
+KCT     H7      H       H       0       17.590      -30.226     16.720      
+KCT     H8      H       H       0       18.461      -28.881     14.431      
+KCT     H9      H       H       0       19.218      -27.684     12.051      
+KCT     H10     H       H       0       19.857      -26.640     9.552       
+KCT     H11     H       H       0       21.055      -24.936     8.518       
+KCT     H12     H       H       0       22.257      -23.384     9.759       
+KCT     H13     H       H       0       22.289      -23.500     12.074      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -69,51 +70,50 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-KCT C1  C2  DOUBLE y 1.376 0.0100 1.376 0.0100
-KCT C2  C3  SINGLE y 1.395 0.0112 1.395 0.0112
-KCT C14 C1  SINGLE y 1.393 0.0100 1.393 0.0100
-KCT C3  C4  DOUBLE y 1.377 0.0100 1.377 0.0100
-KCT C14 C15 DOUBLE y 1.409 0.0100 1.409 0.0100
-KCT N13 C14 SINGLE y 1.384 0.0100 1.384 0.0100
-KCT C15 C4  SINGLE y 1.401 0.0100 1.401 0.0100
-KCT C16 C15 SINGLE y 1.440 0.0156 1.440 0.0156
-KCT C17 N13 SINGLE y 1.374 0.0100 1.374 0.0100
-KCT C17 C16 DOUBLE y 1.412 0.0165 1.412 0.0165
-KCT C16 C23 SINGLE y 1.418 0.0174 1.418 0.0174
-KCT C18 C17 SINGLE y 1.417 0.0146 1.417 0.0146
-KCT C5  O24 DOUBLE n 1.223 0.0200 1.223 0.0200
-KCT N12 C18 SINGLE y 1.374 0.0100 1.374 0.0100
-KCT C21 C18 DOUBLE y 1.408 0.0141 1.408 0.0141
-KCT C19 N12 SINGLE y 1.384 0.0100 1.384 0.0100
-KCT C23 C5  SINGLE n 1.478 0.0110 1.478 0.0110
-KCT C22 C23 DOUBLE y 1.398 0.0200 1.398 0.0200
-KCT N6  C5  SINGLE n 1.345 0.0100 1.345 0.0100
-KCT C22 C21 SINGLE y 1.414 0.0200 1.414 0.0200
-KCT C21 C20 SINGLE y 1.441 0.0151 1.441 0.0151
-KCT C7  C22 SINGLE n 1.511 0.0163 1.511 0.0163
-KCT C11 C19 SINGLE y 1.393 0.0100 1.393 0.0100
-KCT C20 C19 DOUBLE y 1.409 0.0100 1.409 0.0100
-KCT C7  N6  SINGLE n 1.452 0.0112 1.452 0.0112
-KCT C10 C11 DOUBLE y 1.376 0.0100 1.376 0.0100
-KCT C20 C8  SINGLE y 1.401 0.0100 1.401 0.0100
-KCT C25 C7  SINGLE n 1.520 0.0200 1.520 0.0200
-KCT C25 O26 DOUBLE n 1.197 0.0200 1.197 0.0200
-KCT O27 C25 SINGLE n 1.197 0.0200 1.197 0.0200
-KCT C9  C10 SINGLE y 1.395 0.0112 1.395 0.0112
-KCT C8  C9  DOUBLE y 1.377 0.0100 1.377 0.0100
-KCT C7  H2  SINGLE n 1.089 0.0100 0.985 0.0181
-KCT N6  H3  SINGLE n 1.016 0.0100 0.868 0.0200
-KCT C8  H4  SINGLE n 1.082 0.0130 0.942 0.0177
-KCT C9  H5  SINGLE n 1.082 0.0130 0.944 0.0181
-KCT C10 H6  SINGLE n 1.082 0.0130 0.941 0.0181
-KCT C11 H7  SINGLE n 1.082 0.0130 0.942 0.0188
-KCT N12 H8  SINGLE n 1.016 0.0100 0.905 0.0200
-KCT N13 H9  SINGLE n 1.016 0.0100 0.905 0.0200
-KCT C1  H10 SINGLE n 1.082 0.0130 0.942 0.0188
-KCT C2  H11 SINGLE n 1.082 0.0130 0.941 0.0181
-KCT C3  H12 SINGLE n 1.082 0.0130 0.944 0.0181
-KCT C4  H13 SINGLE n 1.082 0.0130 0.942 0.0177
-
+KCT          C1          C2      DOUBLE       y     1.376  0.0100     1.376  0.0100
+KCT          C2          C3      SINGLE       y     1.395  0.0112     1.395  0.0112
+KCT         C14          C1      SINGLE       y     1.393  0.0100     1.393  0.0100
+KCT          C3          C4      DOUBLE       y     1.377  0.0100     1.377  0.0100
+KCT         C14         C15      DOUBLE       y     1.409  0.0100     1.409  0.0100
+KCT         N13         C14      SINGLE       y     1.384  0.0100     1.384  0.0100
+KCT         C15          C4      SINGLE       y     1.401  0.0100     1.401  0.0100
+KCT         C16         C15      SINGLE       y     1.440  0.0156     1.440  0.0156
+KCT         C17         N13      SINGLE       y     1.374  0.0100     1.374  0.0100
+KCT         C17         C16      DOUBLE       y     1.412  0.0165     1.412  0.0165
+KCT         C16         C23      SINGLE       y     1.418  0.0174     1.418  0.0174
+KCT         C18         C17      SINGLE       y     1.417  0.0146     1.417  0.0146
+KCT          C5         O24      DOUBLE       n     1.223  0.0200     1.223  0.0200
+KCT         N12         C18      SINGLE       y     1.374  0.0100     1.374  0.0100
+KCT         C21         C18      DOUBLE       y     1.408  0.0141     1.408  0.0141
+KCT         C19         N12      SINGLE       y     1.384  0.0100     1.384  0.0100
+KCT         C23          C5      SINGLE       n     1.478  0.0110     1.478  0.0110
+KCT         C22         C23      DOUBLE       y     1.398  0.0200     1.398  0.0200
+KCT          N6          C5      SINGLE       n     1.345  0.0100     1.345  0.0100
+KCT         C22         C21      SINGLE       y     1.414  0.0200     1.414  0.0200
+KCT         C21         C20      SINGLE       y     1.441  0.0151     1.441  0.0151
+KCT          C7         C22      SINGLE       n     1.511  0.0163     1.511  0.0163
+KCT         C11         C19      SINGLE       y     1.393  0.0100     1.393  0.0100
+KCT         C20         C19      DOUBLE       y     1.409  0.0100     1.409  0.0100
+KCT          C7          N6      SINGLE       n     1.452  0.0112     1.452  0.0112
+KCT         C10         C11      DOUBLE       y     1.376  0.0100     1.376  0.0100
+KCT         C20          C8      SINGLE       y     1.401  0.0100     1.401  0.0100
+KCT         C25          C7      SINGLE       n     1.520  0.0200     1.520  0.0200
+KCT         C25         O26      DOUBLE       n     1.197  0.0200     1.197  0.0200
+KCT         O27         C25      SINGLE       n     1.197  0.0200     1.197  0.0200
+KCT          C9         C10      SINGLE       y     1.395  0.0112     1.395  0.0112
+KCT          C8          C9      DOUBLE       y     1.377  0.0100     1.377  0.0100
+KCT          C7          H2      SINGLE       n     1.089  0.0100     0.985  0.0181
+KCT          N6          H3      SINGLE       n     1.016  0.0100     0.868  0.0200
+KCT          C8          H4      SINGLE       n     1.082  0.0130     0.942  0.0177
+KCT          C9          H5      SINGLE       n     1.082  0.0130     0.944  0.0181
+KCT         C10          H6      SINGLE       n     1.082  0.0130     0.941  0.0181
+KCT         C11          H7      SINGLE       n     1.082  0.0130     0.942  0.0188
+KCT         N12          H8      SINGLE       n     1.016  0.0100     0.905  0.0200
+KCT         N13          H9      SINGLE       n     1.016  0.0100     0.905  0.0200
+KCT          C1         H10      SINGLE       n     1.082  0.0130     0.942  0.0188
+KCT          C2         H11      SINGLE       n     1.082  0.0130     0.941  0.0181
+KCT          C3         H12      SINGLE       n     1.082  0.0130     0.944  0.0181
+KCT          C4         H13      SINGLE       n     1.082  0.0130     0.942  0.0177
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -121,82 +121,81 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-KCT C7  C25 O26 118.867 2.73
-KCT C7  C25 O27 118.867 2.73
-KCT O26 C25 O27 122.267 1.50
-KCT C22 C7  N6  101.401 1.50
-KCT C22 C7  C25 111.718 3.00
-KCT C22 C7  H2  108.358 3.00
-KCT N6  C7  C25 111.417 2.02
-KCT N6  C7  H2  109.726 1.50
-KCT C25 C7  H2  108.963 1.74
-KCT C5  N6  C7  112.686 2.00
-KCT C5  N6  H3  123.574 2.21
-KCT C7  N6  H3  123.740 1.50
-KCT C23 C22 C21 119.672 1.50
-KCT C23 C22 C7  109.357 1.50
-KCT C21 C22 C7  130.971 3.00
-KCT C18 C21 C22 119.973 1.50
-KCT C18 C21 C20 107.599 1.50
-KCT C22 C21 C20 132.428 1.90
-KCT C21 C20 C19 106.884 1.50
-KCT C21 C20 C8  133.623 1.50
-KCT C19 C20 C8  119.492 1.50
-KCT C20 C8  C9  119.206 1.50
-KCT C20 C8  H4  120.406 1.50
-KCT C9  C8  H4  120.389 1.50
-KCT C10 C9  C8  120.891 1.50
-KCT C10 C9  H5  119.403 1.50
-KCT C8  C9  H5  119.707 1.50
-KCT C11 C10 C9  121.649 1.50
-KCT C11 C10 H6  119.121 1.50
-KCT C9  C10 H6  119.230 1.50
-KCT C19 C11 C10 117.447 1.50
-KCT C19 C11 H7  121.138 1.50
-KCT C10 C11 H7  121.416 1.50
-KCT N12 C19 C11 129.783 1.50
-KCT N12 C19 C20 108.902 1.50
-KCT C11 C19 C20 121.316 1.50
-KCT C18 N12 C19 108.454 1.50
-KCT C18 N12 H8  124.598 1.50
-KCT C19 N12 H8  126.948 1.50
-KCT C17 C18 N12 131.484 1.50
-KCT C17 C18 C21 120.355 1.50
-KCT N12 C18 C21 108.161 1.50
-KCT N13 C17 C16 108.161 1.50
-KCT N13 C17 C18 131.484 1.50
-KCT C16 C17 C18 120.355 1.50
-KCT C15 C16 C17 107.599 1.50
-KCT C15 C16 C23 132.428 1.90
-KCT C17 C16 C23 119.973 1.50
-KCT C16 C23 C5  131.214 1.55
-KCT C16 C23 C22 119.672 1.50
-KCT C5  C23 C22 109.113 1.99
-KCT O24 C5  C23 127.855 1.53
-KCT O24 C5  N6  125.206 1.50
-KCT C23 C5  N6  106.939 1.59
-KCT C14 N13 C17 108.454 1.50
-KCT C14 N13 H9  126.948 1.50
-KCT C17 N13 H9  124.598 1.50
-KCT C1  C14 C15 121.316 1.50
-KCT C1  C14 N13 129.783 1.50
-KCT C15 C14 N13 108.902 1.50
-KCT C14 C15 C4  119.492 1.50
-KCT C14 C15 C16 106.884 1.50
-KCT C4  C15 C16 133.623 1.50
-KCT C2  C1  C14 117.447 1.50
-KCT C2  C1  H10 121.416 1.50
-KCT C14 C1  H10 121.138 1.50
-KCT C1  C2  C3  121.649 1.50
-KCT C1  C2  H11 119.121 1.50
-KCT C3  C2  H11 119.230 1.50
-KCT C2  C3  C4  120.891 1.50
-KCT C2  C3  H12 119.403 1.50
-KCT C4  C3  H12 119.707 1.50
-KCT C3  C4  C15 119.206 1.50
-KCT C3  C4  H13 120.389 1.50
-KCT C15 C4  H13 120.406 1.50
-
+KCT          C7         C25         O26     118.867    2.73
+KCT          C7         C25         O27     118.867    2.73
+KCT         O26         C25         O27     122.267    1.50
+KCT         C22          C7          N6     101.401    1.50
+KCT         C22          C7         C25     111.718    3.00
+KCT         C22          C7          H2     108.358    3.00
+KCT          N6          C7         C25     111.417    2.02
+KCT          N6          C7          H2     109.726    1.50
+KCT         C25          C7          H2     108.963    1.74
+KCT          C5          N6          C7     112.686    2.00
+KCT          C5          N6          H3     123.574    2.21
+KCT          C7          N6          H3     123.740    1.50
+KCT         C23         C22         C21     119.672    1.50
+KCT         C23         C22          C7     109.357    1.50
+KCT         C21         C22          C7     130.971    3.00
+KCT         C18         C21         C22     119.973    1.50
+KCT         C18         C21         C20     107.599    1.50
+KCT         C22         C21         C20     132.428    1.90
+KCT         C21         C20         C19     106.884    1.50
+KCT         C21         C20          C8     133.623    1.50
+KCT         C19         C20          C8     119.492    1.50
+KCT         C20          C8          C9     119.206    1.50
+KCT         C20          C8          H4     120.406    1.50
+KCT          C9          C8          H4     120.389    1.50
+KCT         C10          C9          C8     120.891    1.50
+KCT         C10          C9          H5     119.403    1.50
+KCT          C8          C9          H5     119.707    1.50
+KCT         C11         C10          C9     121.649    1.50
+KCT         C11         C10          H6     119.121    1.50
+KCT          C9         C10          H6     119.230    1.50
+KCT         C19         C11         C10     117.447    1.50
+KCT         C19         C11          H7     121.138    1.50
+KCT         C10         C11          H7     121.416    1.50
+KCT         N12         C19         C11     129.783    1.50
+KCT         N12         C19         C20     108.902    1.50
+KCT         C11         C19         C20     121.316    1.50
+KCT         C18         N12         C19     108.454    1.50
+KCT         C18         N12          H8     124.598    1.50
+KCT         C19         N12          H8     126.948    1.50
+KCT         C17         C18         N12     131.484    1.50
+KCT         C17         C18         C21     120.355    1.50
+KCT         N12         C18         C21     108.161    1.50
+KCT         N13         C17         C16     108.161    1.50
+KCT         N13         C17         C18     131.484    1.50
+KCT         C16         C17         C18     120.355    1.50
+KCT         C15         C16         C17     107.599    1.50
+KCT         C15         C16         C23     132.428    1.90
+KCT         C17         C16         C23     119.973    1.50
+KCT         C16         C23          C5     131.214    1.55
+KCT         C16         C23         C22     119.672    1.50
+KCT          C5         C23         C22     109.113    1.99
+KCT         O24          C5         C23     127.855    1.53
+KCT         O24          C5          N6     125.206    1.50
+KCT         C23          C5          N6     106.939    1.59
+KCT         C14         N13         C17     108.454    1.50
+KCT         C14         N13          H9     126.948    1.50
+KCT         C17         N13          H9     124.598    1.50
+KCT          C1         C14         C15     121.316    1.50
+KCT          C1         C14         N13     129.783    1.50
+KCT         C15         C14         N13     108.902    1.50
+KCT         C14         C15          C4     119.492    1.50
+KCT         C14         C15         C16     106.884    1.50
+KCT          C4         C15         C16     133.623    1.50
+KCT          C2          C1         C14     117.447    1.50
+KCT          C2          C1         H10     121.416    1.50
+KCT         C14          C1         H10     121.138    1.50
+KCT          C1          C2          C3     121.649    1.50
+KCT          C1          C2         H11     119.121    1.50
+KCT          C3          C2         H11     119.230    1.50
+KCT          C2          C3          C4     120.891    1.50
+KCT          C2          C3         H12     119.403    1.50
+KCT          C4          C3         H12     119.707    1.50
+KCT          C3          C4         C15     119.206    1.50
+KCT          C3          C4         H13     120.389    1.50
+KCT         C15          C4         H13     120.406    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -207,36 +206,35 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-KCT const_sp2_sp2_9 C9  C10 C11 C19 0.000   5.0  2
-KCT const_sp2_sp2_6 C10 C11 C19 N12 180.000 5.0  2
-KCT const_83        C11 C19 N12 C18 180.000 10.0 2
-KCT const_79        C17 C18 N12 C19 180.000 10.0 2
-KCT const_72        N13 C17 C18 N12 0.000   10.0 2
-KCT const_65        C15 C16 C17 N13 0.000   10.0 2
-KCT const_21        C16 C17 N13 C14 0.000   10.0 2
-KCT const_64        C15 C16 C23 C5  0.000   10.0 2
-KCT const_33        C14 C15 C16 C17 0.000   10.0 2
-KCT sp2_sp2_4       C16 C23 C5  O24 0.000   5.0  2
-KCT sp2_sp3_13      O26 C25 C7  C22 0.000   10.0 6
-KCT const_27        C1  C14 N13 C17 180.000 10.0 2
-KCT const_29        C1  C14 C15 C4  0.000   10.0 2
-KCT const_37        C2  C1  C14 C15 0.000   10.0 2
-KCT const_53        C14 C15 C4  C3  0.000   10.0 2
-KCT const_41        C14 C1  C2  C3  0.000   10.0 2
-KCT const_45        C1  C2  C3  C4  0.000   10.0 2
-KCT const_49        C2  C3  C4  C15 0.000   10.0 2
-KCT sp2_sp3_8       C5  N6  C7  C25 120.000 10.0 6
-KCT sp2_sp3_2       C23 C22 C7  C25 120.000 10.0 6
-KCT sp2_sp2_7       O24 C5  N6  C7  180.000 5.0  2
-KCT const_57        C21 C22 C23 C16 0.000   10.0 2
-KCT const_85        C18 C21 C22 C23 0.000   10.0 2
-KCT const_73        C17 C18 C21 C22 0.000   10.0 2
-KCT const_89        C19 C20 C21 C18 0.000   10.0 2
-KCT const_sp2_sp2_1 N12 C19 C20 C21 0.000   5.0  2
-KCT const_95        C21 C20 C8  C9  180.000 10.0 2
-KCT const_17        C20 C8  C9  C10 0.000   10.0 2
-KCT const_13        C11 C10 C9  C8  0.000   10.0 2
-
+KCT       const_sp2_sp2_9          C9         C10         C11         C19       0.000     5.0     2
+KCT       const_sp2_sp2_6         C10         C11         C19         N12     180.000     5.0     2
+KCT              const_83         C11         C19         N12         C18     180.000    10.0     2
+KCT              const_79         C17         C18         N12         C19     180.000    10.0     2
+KCT              const_72         N13         C17         C18         N12       0.000    10.0     2
+KCT              const_65         C15         C16         C17         N13       0.000    10.0     2
+KCT              const_21         C16         C17         N13         C14       0.000    10.0     2
+KCT              const_64         C15         C16         C23          C5       0.000    10.0     2
+KCT              const_33         C14         C15         C16         C17       0.000    10.0     2
+KCT             sp2_sp2_4         C16         C23          C5         O24       0.000     5.0     2
+KCT            sp2_sp3_13         O26         C25          C7         C22       0.000    10.0     6
+KCT              const_27          C1         C14         N13         C17     180.000    10.0     2
+KCT              const_29          C1         C14         C15          C4       0.000    10.0     2
+KCT              const_37          C2          C1         C14         C15       0.000    10.0     2
+KCT              const_53         C14         C15          C4          C3       0.000    10.0     2
+KCT              const_41         C14          C1          C2          C3       0.000    10.0     2
+KCT              const_45          C1          C2          C3          C4       0.000    10.0     2
+KCT              const_49          C2          C3          C4         C15       0.000    10.0     2
+KCT             sp2_sp3_8          C5          N6          C7         C25     120.000    10.0     6
+KCT             sp2_sp3_2         C23         C22          C7         C25     120.000    10.0     6
+KCT             sp2_sp2_7         O24          C5          N6          C7     180.000     5.0     2
+KCT              const_57         C21         C22         C23         C16       0.000    10.0     2
+KCT              const_85         C18         C21         C22         C23       0.000    10.0     2
+KCT              const_73         C17         C18         C21         C22       0.000    10.0     2
+KCT              const_89         C19         C20         C21         C18       0.000    10.0     2
+KCT       const_sp2_sp2_1         N12         C19         C20         C21       0.000     5.0     2
+KCT              const_95         C21         C20          C8          C9     180.000    10.0     2
+KCT              const_17         C20          C8          C9         C10       0.000    10.0     2
+KCT              const_13         C11         C10          C9          C8       0.000    10.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -245,91 +243,75 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-KCT chir_1 C7 N6 C25 C22 positive
-
+KCT    chir_1    C7    N6    C25    C22    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-KCT plan-1 C1  0.020
-KCT plan-1 C10 0.020
-KCT plan-1 C11 0.020
-KCT plan-1 C14 0.020
-KCT plan-1 C15 0.020
-KCT plan-1 C16 0.020
-KCT plan-1 C17 0.020
-KCT plan-1 C18 0.020
-KCT plan-1 C19 0.020
-KCT plan-1 C2  0.020
-KCT plan-1 C20 0.020
-KCT plan-1 C21 0.020
-KCT plan-1 C22 0.020
-KCT plan-1 C23 0.020
-KCT plan-1 C3  0.020
-KCT plan-1 C4  0.020
-KCT plan-1 C5  0.020
-KCT plan-1 C7  0.020
-KCT plan-1 C8  0.020
-KCT plan-1 C9  0.020
-KCT plan-1 H10 0.020
-KCT plan-1 H11 0.020
-KCT plan-1 H12 0.020
-KCT plan-1 H13 0.020
-KCT plan-1 H4  0.020
-KCT plan-1 H5  0.020
-KCT plan-1 H6  0.020
-KCT plan-1 H7  0.020
-KCT plan-1 H8  0.020
-KCT plan-1 H9  0.020
-KCT plan-1 N12 0.020
-KCT plan-1 N13 0.020
-KCT plan-2 C25 0.020
-KCT plan-2 C7  0.020
-KCT plan-2 O26 0.020
-KCT plan-2 O27 0.020
-KCT plan-3 C5  0.020
-KCT plan-3 C7  0.020
-KCT plan-3 H3  0.020
-KCT plan-3 N6  0.020
-KCT plan-4 C23 0.020
-KCT plan-4 C5  0.020
-KCT plan-4 N6  0.020
-KCT plan-4 O24 0.020
-
+KCT    plan-1          C1   0.020
+KCT    plan-1         C10   0.020
+KCT    plan-1         C11   0.020
+KCT    plan-1         C14   0.020
+KCT    plan-1         C15   0.020
+KCT    plan-1         C16   0.020
+KCT    plan-1         C17   0.020
+KCT    plan-1         C18   0.020
+KCT    plan-1         C19   0.020
+KCT    plan-1          C2   0.020
+KCT    plan-1         C20   0.020
+KCT    plan-1         C21   0.020
+KCT    plan-1         C22   0.020
+KCT    plan-1         C23   0.020
+KCT    plan-1          C3   0.020
+KCT    plan-1          C4   0.020
+KCT    plan-1          C5   0.020
+KCT    plan-1          C7   0.020
+KCT    plan-1          C8   0.020
+KCT    plan-1          C9   0.020
+KCT    plan-1         H10   0.020
+KCT    plan-1         H11   0.020
+KCT    plan-1         H12   0.020
+KCT    plan-1         H13   0.020
+KCT    plan-1          H4   0.020
+KCT    plan-1          H5   0.020
+KCT    plan-1          H6   0.020
+KCT    plan-1          H7   0.020
+KCT    plan-1          H8   0.020
+KCT    plan-1          H9   0.020
+KCT    plan-1         N12   0.020
+KCT    plan-1         N13   0.020
+KCT    plan-2         C25   0.020
+KCT    plan-2          C7   0.020
+KCT    plan-2         O26   0.020
+KCT    plan-2         O27   0.020
+KCT    plan-3          C5   0.020
+KCT    plan-3          C7   0.020
+KCT    plan-3          H3   0.020
+KCT    plan-3          N6   0.020
+KCT    plan-4         C23   0.020
+KCT    plan-4          C5   0.020
+KCT    plan-4          N6   0.020
+KCT    plan-4         O24   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-KCT SMILES           ACDLabs              12.01 O=C(O)C6c5c2c1ccccc1nc2c4nc3ccccc3c4c5C(=O)N6
-KCT InChI            InChI                1.03  InChI=1S/C21H13N3O3/c25-20-16-14-10-6-2-4-8-12(10)23-18(14)17-13(15(16)19(24-20)21(26)27)9-5-1-3-7-11(9)22-17/h1-8,19,22-23H,(H,24,25)(H,26,27)/t19-/m0/s1
-KCT InChIKey         InChI                1.03  LYSTWLDKIFYXOG-IBGZPJMESA-N
-KCT SMILES_CANONICAL CACTVS               3.370 OC(=O)[C@H]1NC(=O)c2c1c3c([nH]c4ccccc34)c5[nH]c6ccccc6c25
-KCT SMILES           CACTVS               3.370 OC(=O)[CH]1NC(=O)c2c1c3c([nH]c4ccccc34)c5[nH]c6ccccc6c25
-KCT SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 c1ccc2c(c1)c3c4c(c5c6ccccc6[nH]c5c3[nH]2)C(=O)N[C@@H]4C(=O)O
-KCT SMILES           "OpenEye OEToolkits" 1.7.6 c1ccc2c(c1)c3c4c(c5c6ccccc6[nH]c5c3[nH]2)C(=O)NC4C(=O)O
-
+KCT           SMILES              ACDLabs 12.01                                                                                                              O=C(O)C6c5c2c1ccccc1nc2c4nc3ccccc3c4c5C(=O)N6
+KCT            InChI                InChI  1.03 InChI=1S/C21H13N3O3/c25-20-16-14-10-6-2-4-8-12(10)23-18(14)17-13(15(16)19(24-20)21(26)27)9-5-1-3-7-11(9)22-17/h1-8,19,22-23H,(H,24,25)(H,26,27)/t19-/m0/s1
+KCT         InChIKey                InChI  1.03                                                                                                                                LYSTWLDKIFYXOG-IBGZPJMESA-N
+KCT SMILES_CANONICAL               CACTVS 3.370                                                                                                  OC(=O)[C@H]1NC(=O)c2c1c3c([nH]c4ccccc34)c5[nH]c6ccccc6c25
+KCT           SMILES               CACTVS 3.370                                                                                                   OC(=O)[CH]1NC(=O)c2c1c3c([nH]c4ccccc34)c5[nH]c6ccccc6c25
+KCT SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                               c1ccc2c(c1)c3c4c(c5c6ccccc6[nH]c5c3[nH]2)C(=O)N[C@@H]4C(=O)O
+KCT           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                    c1ccc2c(c1)c3c4c(c5c6ccccc6[nH]c5c3[nH]2)C(=O)NC4C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-KCT acedrg          243       "dictionary generator"
-KCT acedrg_database 11        "data source"
-KCT rdkit           2017.03.2 "Chemoinformatics tool"
-KCT refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-KCT P-peptide N6  N
-KCT P-peptide C7  CA
-KCT P-peptide C25 C
-KCT P-peptide O26 O
-KCT P-peptide C5  CD
-KCT P-peptide O27 OXT
-KCT P-peptide H3  H
+KCT acedrg               243         "dictionary generator"                  
+KCT acedrg_database      11          "data source"                           
+KCT rdkit                2017.03.2   "Chemoinformatics tool"
+KCT refmac5              5.8.0238    "optimization tool"                     

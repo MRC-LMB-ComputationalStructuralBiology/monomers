@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-KRO KRO "5-[2-(4-fluoro-3-methylphenyl)ethyl]-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid" NON-POLYMER 33 21 .
-
+KRO     KRO      "5-[2-(4-fluoro-3-methylphenyl)ethyl]-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid"     NON-POLYMER     33     21     .     
+#
 data_comp_KRO
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,40 +21,39 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-KRO OAB O O    0  7.692 18.389 14.088
-KRO CAN C C    0  6.769 17.642 13.811
-KRO OAE O OC   -1 5.708 17.964 13.305
-KRO CAR C CR6  0  6.954 16.185 14.132
-KRO NAL N NR6  0  6.220 15.707 15.197
-KRO CAT C CR6  0  6.273 14.397 15.620
-KRO OAC O O    0  5.617 13.982 16.568
-KRO NAM N NR6  0  7.114 13.578 14.908
-KRO CAU C CR6  0  7.898 13.939 13.825
-KRO OAD O O    0  8.608 13.086 13.282
-KRO CAS C CR6  0  7.811 15.325 13.418
-KRO CAK C CH2  0  8.651 15.759 12.235
-KRO CAJ C CH2  0  8.006 15.439 10.865
-KRO CAP C CR6  0  6.718 16.193 10.616
-KRO CAI C CR16 0  6.739 17.555 10.299
-KRO CAO C CR6  0  5.570 18.278 10.065
-KRO CAA C CH3  0  5.644 19.740 9.727
-KRO CAQ C CR6  0  4.373 17.594 10.155
-KRO FAF F F    0  3.209 18.251 9.934
-KRO CAH C CR16 0  4.303 16.256 10.463
-KRO CAG C CR16 0  5.484 15.561 10.693
-KRO H14 H H    0  5.688 16.254 15.637
-KRO H2  H H    0  7.153 12.730 15.176
-KRO H4  H H    0  9.527 15.315 12.283
-KRO H5  H H    0  8.821 16.724 12.288
-KRO H6  H H    0  7.829 14.473 10.818
-KRO H7  H H    0  8.650 15.658 10.155
-KRO H8  H H    0  7.571 17.997 10.244
-KRO H9  H H    0  4.784 20.166 9.873
-KRO H10 H H    0  5.898 19.850 8.796
-KRO H11 H H    0  6.307 20.173 10.289
-KRO H12 H H    0  3.470 15.821 10.517
-KRO H13 H H    0  5.447 14.643 10.905
-
+KRO     OAB     O       O       0       7.692       18.389      14.088      
+KRO     CAN     C       C       0       6.769       17.642      13.811      
+KRO     OAE     O       OC      -1      5.708       17.964      13.305      
+KRO     CAR     C       CR6     0       6.954       16.185      14.132      
+KRO     NAL     N       NR6     0       6.220       15.707      15.197      
+KRO     CAT     C       CR6     0       6.273       14.397      15.620      
+KRO     OAC     O       O       0       5.617       13.982      16.568      
+KRO     NAM     N       NR6     0       7.114       13.578      14.908      
+KRO     CAU     C       CR6     0       7.898       13.939      13.825      
+KRO     OAD     O       O       0       8.608       13.086      13.282      
+KRO     CAS     C       CR6     0       7.811       15.325      13.418      
+KRO     CAK     C       CH2     0       8.651       15.759      12.235      
+KRO     CAJ     C       CH2     0       8.006       15.439      10.865      
+KRO     CAP     C       CR6     0       6.718       16.193      10.616      
+KRO     CAI     C       CR16    0       6.739       17.555      10.299      
+KRO     CAO     C       CR6     0       5.570       18.278      10.065      
+KRO     CAA     C       CH3     0       5.644       19.740      9.727       
+KRO     CAQ     C       CR6     0       4.373       17.594      10.155      
+KRO     FAF     F       F       0       3.209       18.251      9.934       
+KRO     CAH     C       CR16    0       4.303       16.256      10.463      
+KRO     CAG     C       CR16    0       5.484       15.561      10.693      
+KRO     H14     H       H       0       5.688       16.254      15.637      
+KRO     H2      H       H       0       7.153       12.730      15.176      
+KRO     H4      H       H       0       9.527       15.315      12.283      
+KRO     H5      H       H       0       8.821       16.724      12.288      
+KRO     H6      H       H       0       7.829       14.473      10.818      
+KRO     H7      H       H       0       8.650       15.658      10.155      
+KRO     H8      H       H       0       7.571       17.997      10.244      
+KRO     H9      H       H       0       4.784       20.166      9.873       
+KRO     H10     H       H       0       5.898       19.850      8.796       
+KRO     H11     H       H       0       6.307       20.173      10.289      
+KRO     H12     H       H       0       3.470       15.821      10.517      
+KRO     H13     H       H       0       5.447       14.643      10.905      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -63,41 +64,40 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-KRO CAO CAA SINGLE n 1.501 0.0100 1.501 0.0100
-KRO CAI CAO DOUBLE y 1.390 0.0100 1.390 0.0100
-KRO CAO CAQ SINGLE y 1.376 0.0100 1.376 0.0100
-KRO CAQ FAF SINGLE n 1.354 0.0100 1.354 0.0100
-KRO CAP CAI SINGLE y 1.394 0.0100 1.394 0.0100
-KRO CAQ CAH DOUBLE y 1.371 0.0108 1.371 0.0108
-KRO CAJ CAP SINGLE n 1.513 0.0100 1.513 0.0100
-KRO CAP CAG DOUBLE y 1.385 0.0110 1.385 0.0110
-KRO CAH CAG SINGLE y 1.386 0.0101 1.386 0.0101
-KRO CAK CAJ SINGLE n 1.546 0.0200 1.546 0.0200
-KRO CAS CAK SINGLE n 1.510 0.0100 1.510 0.0100
-KRO CAU OAD DOUBLE n 1.234 0.0141 1.234 0.0141
-KRO CAU CAS SINGLE y 1.443 0.0100 1.443 0.0100
-KRO CAR CAS DOUBLE y 1.401 0.0100 1.401 0.0100
-KRO NAM CAU SINGLE y 1.383 0.0100 1.383 0.0100
-KRO OAB CAN DOUBLE n 1.219 0.0200 1.219 0.0200
-KRO CAN CAR SINGLE n 1.496 0.0200 1.496 0.0200
-KRO CAN OAE SINGLE n 1.219 0.0200 1.219 0.0200
-KRO CAR NAL SINGLE y 1.365 0.0158 1.365 0.0158
-KRO CAT NAM SINGLE y 1.370 0.0100 1.370 0.0100
-KRO NAL CAT SINGLE y 1.374 0.0100 1.374 0.0100
-KRO CAT OAC DOUBLE n 1.225 0.0100 1.225 0.0100
-KRO NAL H14 SINGLE n 1.016 0.0100 0.879 0.0200
-KRO NAM H2  SINGLE n 1.016 0.0100 0.889 0.0200
-KRO CAK H4  SINGLE n 1.089 0.0100 0.983 0.0181
-KRO CAK H5  SINGLE n 1.089 0.0100 0.983 0.0181
-KRO CAJ H6  SINGLE n 1.089 0.0100 0.983 0.0181
-KRO CAJ H7  SINGLE n 1.089 0.0100 0.983 0.0181
-KRO CAI H8  SINGLE n 1.082 0.0130 0.944 0.0155
-KRO CAA H9  SINGLE n 1.089 0.0100 0.971 0.0135
-KRO CAA H10 SINGLE n 1.089 0.0100 0.971 0.0135
-KRO CAA H11 SINGLE n 1.089 0.0100 0.971 0.0135
-KRO CAH H12 SINGLE n 1.082 0.0130 0.941 0.0159
-KRO CAG H13 SINGLE n 1.082 0.0130 0.943 0.0173
-
+KRO         CAO         CAA      SINGLE       n     1.501  0.0100     1.501  0.0100
+KRO         CAI         CAO      DOUBLE       y     1.390  0.0100     1.390  0.0100
+KRO         CAO         CAQ      SINGLE       y     1.376  0.0100     1.376  0.0100
+KRO         CAQ         FAF      SINGLE       n     1.354  0.0100     1.354  0.0100
+KRO         CAP         CAI      SINGLE       y     1.394  0.0100     1.394  0.0100
+KRO         CAQ         CAH      DOUBLE       y     1.371  0.0108     1.371  0.0108
+KRO         CAJ         CAP      SINGLE       n     1.513  0.0100     1.513  0.0100
+KRO         CAP         CAG      DOUBLE       y     1.385  0.0110     1.385  0.0110
+KRO         CAH         CAG      SINGLE       y     1.386  0.0101     1.386  0.0101
+KRO         CAK         CAJ      SINGLE       n     1.546  0.0200     1.546  0.0200
+KRO         CAS         CAK      SINGLE       n     1.510  0.0100     1.510  0.0100
+KRO         CAU         OAD      DOUBLE       n     1.234  0.0141     1.234  0.0141
+KRO         CAU         CAS      SINGLE       y     1.443  0.0100     1.443  0.0100
+KRO         CAR         CAS      DOUBLE       y     1.401  0.0100     1.401  0.0100
+KRO         NAM         CAU      SINGLE       y     1.383  0.0100     1.383  0.0100
+KRO         OAB         CAN      DOUBLE       n     1.219  0.0200     1.219  0.0200
+KRO         CAN         CAR      SINGLE       n     1.496  0.0200     1.496  0.0200
+KRO         CAN         OAE      SINGLE       n     1.219  0.0200     1.219  0.0200
+KRO         CAR         NAL      SINGLE       y     1.365  0.0158     1.365  0.0158
+KRO         CAT         NAM      SINGLE       y     1.370  0.0100     1.370  0.0100
+KRO         NAL         CAT      SINGLE       y     1.374  0.0100     1.374  0.0100
+KRO         CAT         OAC      DOUBLE       n     1.225  0.0100     1.225  0.0100
+KRO         NAL         H14      SINGLE       n     1.016  0.0100     0.879  0.0200
+KRO         NAM          H2      SINGLE       n     1.016  0.0100     0.889  0.0200
+KRO         CAK          H4      SINGLE       n     1.089  0.0100     0.983  0.0181
+KRO         CAK          H5      SINGLE       n     1.089  0.0100     0.983  0.0181
+KRO         CAJ          H6      SINGLE       n     1.089  0.0100     0.983  0.0181
+KRO         CAJ          H7      SINGLE       n     1.089  0.0100     0.983  0.0181
+KRO         CAI          H8      SINGLE       n     1.082  0.0130     0.944  0.0155
+KRO         CAA          H9      SINGLE       n     1.089  0.0100     0.971  0.0135
+KRO         CAA         H10      SINGLE       n     1.089  0.0100     0.971  0.0135
+KRO         CAA         H11      SINGLE       n     1.089  0.0100     0.971  0.0135
+KRO         CAH         H12      SINGLE       n     1.082  0.0130     0.941  0.0159
+KRO         CAG         H13      SINGLE       n     1.082  0.0130     0.943  0.0173
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -105,64 +105,63 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-KRO OAB CAN CAR 116.880 1.50
-KRO OAB CAN OAE 126.239 1.50
-KRO CAR CAN OAE 116.880 1.50
-KRO CAS CAR CAN 123.296 2.15
-KRO CAS CAR NAL 119.954 3.00
-KRO CAN CAR NAL 116.751 1.50
-KRO CAR NAL CAT 122.126 1.50
-KRO CAR NAL H14 119.789 2.44
-KRO CAT NAL H14 118.085 1.73
-KRO NAM CAT NAL 115.440 1.50
-KRO NAM CAT OAC 121.869 1.50
-KRO NAL CAT OAC 122.691 1.50
-KRO CAU NAM CAT 127.015 1.50
-KRO CAU NAM H2  117.107 1.81
-KRO CAT NAM H2  115.878 2.30
-KRO OAD CAU CAS 124.355 1.50
-KRO OAD CAU NAM 119.516 1.50
-KRO CAS CAU NAM 116.129 1.50
-KRO CAK CAS CAU 117.768 1.50
-KRO CAK CAS CAR 122.895 2.15
-KRO CAU CAS CAR 119.337 1.50
-KRO CAJ CAK CAS 113.312 1.99
-KRO CAJ CAK H4  108.746 1.50
-KRO CAJ CAK H5  108.746 1.50
-KRO CAS CAK H4  108.906 1.50
-KRO CAS CAK H5  108.906 1.50
-KRO H4  CAK H5  107.732 2.63
-KRO CAP CAJ CAK 113.191 1.54
-KRO CAP CAJ H6  109.088 1.58
-KRO CAP CAJ H7  109.088 1.58
-KRO CAK CAJ H6  108.746 1.50
-KRO CAK CAJ H7  108.746 1.50
-KRO H6  CAJ H7  107.732 2.63
-KRO CAI CAP CAJ 120.717 1.50
-KRO CAI CAP CAG 117.931 1.50
-KRO CAJ CAP CAG 121.351 1.50
-KRO CAO CAI CAP 121.743 1.50
-KRO CAO CAI H8  119.268 1.50
-KRO CAP CAI H8  118.981 1.50
-KRO CAA CAO CAI 120.747 1.50
-KRO CAA CAO CAQ 121.824 1.50
-KRO CAI CAO CAQ 117.429 1.50
-KRO CAO CAA H9  110.153 1.50
-KRO CAO CAA H10 110.153 1.50
-KRO CAO CAA H11 110.153 1.50
-KRO H9  CAA H10 109.348 1.50
-KRO H9  CAA H11 109.348 1.50
-KRO H10 CAA H11 109.348 1.50
-KRO CAO CAQ FAF 118.936 1.50
-KRO CAO CAQ CAH 122.974 1.50
-KRO FAF CAQ CAH 118.090 1.50
-KRO CAQ CAH CAG 118.691 1.50
-KRO CAQ CAH H12 120.547 1.50
-KRO CAG CAH H12 120.762 1.50
-KRO CAP CAG CAH 121.238 1.50
-KRO CAP CAG H13 119.342 1.50
-KRO CAH CAG H13 119.421 1.50
-
+KRO         OAB         CAN         CAR     116.880    1.50
+KRO         OAB         CAN         OAE     126.239    1.50
+KRO         CAR         CAN         OAE     116.880    1.50
+KRO         CAS         CAR         CAN     123.296    2.15
+KRO         CAS         CAR         NAL     119.954    3.00
+KRO         CAN         CAR         NAL     116.751    1.50
+KRO         CAR         NAL         CAT     122.126    1.50
+KRO         CAR         NAL         H14     119.789    2.44
+KRO         CAT         NAL         H14     118.085    1.73
+KRO         NAM         CAT         NAL     115.440    1.50
+KRO         NAM         CAT         OAC     121.869    1.50
+KRO         NAL         CAT         OAC     122.691    1.50
+KRO         CAU         NAM         CAT     127.015    1.50
+KRO         CAU         NAM          H2     117.107    1.81
+KRO         CAT         NAM          H2     115.878    2.30
+KRO         OAD         CAU         CAS     124.355    1.50
+KRO         OAD         CAU         NAM     119.516    1.50
+KRO         CAS         CAU         NAM     116.129    1.50
+KRO         CAK         CAS         CAU     117.768    1.50
+KRO         CAK         CAS         CAR     122.895    2.15
+KRO         CAU         CAS         CAR     119.337    1.50
+KRO         CAJ         CAK         CAS     113.312    1.99
+KRO         CAJ         CAK          H4     108.746    1.50
+KRO         CAJ         CAK          H5     108.746    1.50
+KRO         CAS         CAK          H4     108.906    1.50
+KRO         CAS         CAK          H5     108.906    1.50
+KRO          H4         CAK          H5     107.732    2.63
+KRO         CAP         CAJ         CAK     113.191    1.54
+KRO         CAP         CAJ          H6     109.088    1.58
+KRO         CAP         CAJ          H7     109.088    1.58
+KRO         CAK         CAJ          H6     108.746    1.50
+KRO         CAK         CAJ          H7     108.746    1.50
+KRO          H6         CAJ          H7     107.732    2.63
+KRO         CAI         CAP         CAJ     120.717    1.50
+KRO         CAI         CAP         CAG     117.931    1.50
+KRO         CAJ         CAP         CAG     121.351    1.50
+KRO         CAO         CAI         CAP     121.743    1.50
+KRO         CAO         CAI          H8     119.268    1.50
+KRO         CAP         CAI          H8     118.981    1.50
+KRO         CAA         CAO         CAI     120.747    1.50
+KRO         CAA         CAO         CAQ     121.824    1.50
+KRO         CAI         CAO         CAQ     117.429    1.50
+KRO         CAO         CAA          H9     110.153    1.50
+KRO         CAO         CAA         H10     110.153    1.50
+KRO         CAO         CAA         H11     110.153    1.50
+KRO          H9         CAA         H10     109.348    1.50
+KRO          H9         CAA         H11     109.348    1.50
+KRO         H10         CAA         H11     109.348    1.50
+KRO         CAO         CAQ         FAF     118.936    1.50
+KRO         CAO         CAQ         CAH     122.974    1.50
+KRO         FAF         CAQ         CAH     118.090    1.50
+KRO         CAQ         CAH         CAG     118.691    1.50
+KRO         CAQ         CAH         H12     120.547    1.50
+KRO         CAG         CAH         H12     120.762    1.50
+KRO         CAP         CAG         CAH     121.238    1.50
+KRO         CAP         CAG         H13     119.342    1.50
+KRO         CAH         CAG         H13     119.421    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -173,91 +172,75 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-KRO sp2_sp3_14      CAU CAS CAK CAJ -90.000 10.0 6
-KRO sp3_sp3_1       CAP CAJ CAK CAS 180.000 10.0 3
-KRO sp2_sp3_8       CAI CAP CAJ CAK -90.000 10.0 6
-KRO const_sp2_sp2_2 CAO CAI CAP CAJ 180.000 5.0  2
-KRO const_42        CAH CAG CAP CAJ 180.000 10.0 2
-KRO const_sp2_sp2_6 CAP CAI CAO CAA 180.000 5.0  2
-KRO sp2_sp3_1       CAI CAO CAA H9  150.000 10.0 6
-KRO const_12        CAA CAO CAQ FAF 0.000   10.0 2
-KRO const_14        CAG CAH CAQ FAF 180.000 10.0 2
-KRO const_17        CAP CAG CAH CAQ 0.000   10.0 2
-KRO sp2_sp2_1       OAB CAN CAR CAS 180.000 5.0  2
-KRO const_24        CAN CAR CAS CAK 0.000   10.0 2
-KRO const_47        CAN CAR NAL CAT 180.000 10.0 2
-KRO const_39        OAC CAT NAL CAR 180.000 10.0 2
-KRO const_35        OAC CAT NAM CAU 180.000 10.0 2
-KRO const_31        OAD CAU NAM CAT 180.000 10.0 2
-KRO const_28        CAK CAS CAU OAD 0.000   10.0 2
-
+KRO            sp2_sp3_14         CAU         CAS         CAK         CAJ     -90.000    10.0     6
+KRO             sp3_sp3_1         CAP         CAJ         CAK         CAS     180.000    10.0     3
+KRO             sp2_sp3_8         CAI         CAP         CAJ         CAK     -90.000    10.0     6
+KRO       const_sp2_sp2_2         CAO         CAI         CAP         CAJ     180.000     5.0     2
+KRO              const_42         CAH         CAG         CAP         CAJ     180.000    10.0     2
+KRO       const_sp2_sp2_6         CAP         CAI         CAO         CAA     180.000     5.0     2
+KRO             sp2_sp3_1         CAI         CAO         CAA          H9     150.000    10.0     6
+KRO              const_12         CAA         CAO         CAQ         FAF       0.000    10.0     2
+KRO              const_14         CAG         CAH         CAQ         FAF     180.000    10.0     2
+KRO              const_17         CAP         CAG         CAH         CAQ       0.000    10.0     2
+KRO             sp2_sp2_1         OAB         CAN         CAR         CAS     180.000     5.0     2
+KRO              const_24         CAN         CAR         CAS         CAK       0.000    10.0     2
+KRO              const_47         CAN         CAR         NAL         CAT     180.000    10.0     2
+KRO              const_39         OAC         CAT         NAL         CAR     180.000    10.0     2
+KRO              const_35         OAC         CAT         NAM         CAU     180.000    10.0     2
+KRO              const_31         OAD         CAU         NAM         CAT     180.000    10.0     2
+KRO              const_28         CAK         CAS         CAU         OAD       0.000    10.0     2
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-KRO plan-1 CAK 0.020
-KRO plan-1 CAN 0.020
-KRO plan-1 CAR 0.020
-KRO plan-1 CAS 0.020
-KRO plan-1 CAT 0.020
-KRO plan-1 CAU 0.020
-KRO plan-1 H14 0.020
-KRO plan-1 H2  0.020
-KRO plan-1 NAL 0.020
-KRO plan-1 NAM 0.020
-KRO plan-1 OAC 0.020
-KRO plan-1 OAD 0.020
-KRO plan-2 CAA 0.020
-KRO plan-2 CAG 0.020
-KRO plan-2 CAH 0.020
-KRO plan-2 CAI 0.020
-KRO plan-2 CAJ 0.020
-KRO plan-2 CAO 0.020
-KRO plan-2 CAP 0.020
-KRO plan-2 CAQ 0.020
-KRO plan-2 FAF 0.020
-KRO plan-2 H12 0.020
-KRO plan-2 H13 0.020
-KRO plan-2 H8  0.020
-KRO plan-3 CAN 0.020
-KRO plan-3 CAR 0.020
-KRO plan-3 OAB 0.020
-KRO plan-3 OAE 0.020
-
+KRO    plan-1         CAK   0.020
+KRO    plan-1         CAN   0.020
+KRO    plan-1         CAR   0.020
+KRO    plan-1         CAS   0.020
+KRO    plan-1         CAT   0.020
+KRO    plan-1         CAU   0.020
+KRO    plan-1         H14   0.020
+KRO    plan-1          H2   0.020
+KRO    plan-1         NAL   0.020
+KRO    plan-1         NAM   0.020
+KRO    plan-1         OAC   0.020
+KRO    plan-1         OAD   0.020
+KRO    plan-2         CAA   0.020
+KRO    plan-2         CAG   0.020
+KRO    plan-2         CAH   0.020
+KRO    plan-2         CAI   0.020
+KRO    plan-2         CAJ   0.020
+KRO    plan-2         CAO   0.020
+KRO    plan-2         CAP   0.020
+KRO    plan-2         CAQ   0.020
+KRO    plan-2         FAF   0.020
+KRO    plan-2         H12   0.020
+KRO    plan-2         H13   0.020
+KRO    plan-2          H8   0.020
+KRO    plan-3         CAN   0.020
+KRO    plan-3         CAR   0.020
+KRO    plan-3         OAB   0.020
+KRO    plan-3         OAE   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-KRO SMILES           ACDLabs              12.01 O=C1NC(C(=O)O)=C(C(=O)N1)CCc2ccc(F)c(c2)C
-KRO InChI            InChI                1.03  InChI=1S/C14H13FN2O4/c1-7-6-8(3-5-10(7)15)2-4-9-11(13(19)20)16-14(21)17-12(9)18/h3,5-6H,2,4H2,1H3,(H,19,20)(H2,16,17,18,21)
-KRO InChIKey         InChI                1.03  ZLAJUTPBANPKKJ-UHFFFAOYSA-N
-KRO SMILES_CANONICAL CACTVS               3.370 Cc1cc(CCC2=C(NC(=O)NC2=O)C(O)=O)ccc1F
-KRO SMILES           CACTVS               3.370 Cc1cc(CCC2=C(NC(=O)NC2=O)C(O)=O)ccc1F
-KRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 Cc1cc(ccc1F)CCC2=C(NC(=O)NC2=O)C(=O)O
-KRO SMILES           "OpenEye OEToolkits" 1.7.6 Cc1cc(ccc1F)CCC2=C(NC(=O)NC2=O)C(=O)O
-
+KRO           SMILES              ACDLabs 12.01                                                                                   O=C1NC(C(=O)O)=C(C(=O)N1)CCc2ccc(F)c(c2)C
+KRO            InChI                InChI  1.03 InChI=1S/C14H13FN2O4/c1-7-6-8(3-5-10(7)15)2-4-9-11(13(19)20)16-14(21)17-12(9)18/h3,5-6H,2,4H2,1H3,(H,19,20)(H2,16,17,18,21)
+KRO         InChIKey                InChI  1.03                                                                                                 ZLAJUTPBANPKKJ-UHFFFAOYSA-N
+KRO SMILES_CANONICAL               CACTVS 3.370                                                                                       Cc1cc(CCC2=C(NC(=O)NC2=O)C(O)=O)ccc1F
+KRO           SMILES               CACTVS 3.370                                                                                       Cc1cc(CCC2=C(NC(=O)NC2=O)C(O)=O)ccc1F
+KRO SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                       Cc1cc(ccc1F)CCC2=C(NC(=O)NC2=O)C(=O)O
+KRO           SMILES "OpenEye OEToolkits" 1.7.6                                                                                       Cc1cc(ccc1F)CCC2=C(NC(=O)NC2=O)C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-KRO acedrg          243       "dictionary generator"
-KRO acedrg_database 11        "data source"
-KRO rdkit           2017.03.2 "Chemoinformatics tool"
-KRO refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-KRO M-peptide OAB O
-KRO M-peptide CAN C
-KRO M-peptide CAR CA
-KRO M-peptide NAL N
-KRO M-peptide CAT CN
-KRO M-peptide OAE OXT
-KRO M-peptide H14 H
+KRO acedrg               243         "dictionary generator"                  
+KRO acedrg_database      11          "data source"                           
+KRO rdkit                2017.03.2   "Chemoinformatics tool"
+KRO refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-PSE PSE O-PHOSPHOETHANOLAMINE NON-POLYMER 18 10 .
-
+PSE     PSE      O-PHOSPHOETHANOLAMINE     NON-POLYMER     18     10     .     
+#
 data_comp_PSE
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,25 +21,24 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-PSE N2   N NT2 0  -8.938  34.937 16.077
-PSE C2   C CH1 0  -9.156  36.256 16.701
-PSE C1   C CH2 0  -8.801  36.234 18.190
-PSE O1   O OH1 0  -8.848  37.528 18.767
-PSE C3   C CH2 0  -10.586 36.749 16.473
-PSE O1P  O O2  0  -11.551 35.853 17.093
-PSE O2P  O O   0  -13.404 36.040 15.428
-PSE O3P  O OP  -1 -13.328 37.577 17.434
-PSE O4P  O OP  -1 -13.849 35.123 17.742
-PSE P    P P   0  -13.124 36.167 16.914
-PSE HN21 H H   0  -9.490  34.341 16.436
-PSE HN22 H H   0  -8.108  34.663 16.236
-PSE H2   H H   0  -8.546  36.903 16.260
-PSE H11  H H   0  -7.899  35.866 18.300
-PSE H12  H H   0  -9.425  35.645 18.665
-PSE HO1  H H   0  -8.617  37.469 19.579
-PSE H31  H H   0  -10.758 36.801 15.510
-PSE H32  H H   0  -10.683 37.649 16.847
-
+PSE     N2      N       NT2     0       -8.938      34.937      16.077      
+PSE     C2      C       CH1     0       -9.156      36.256      16.701      
+PSE     C1      C       CH2     0       -8.801      36.234      18.190      
+PSE     O1      O       OH1     0       -8.848      37.528      18.767      
+PSE     C3      C       CH2     0       -10.586     36.749      16.473      
+PSE     O1P     O       O2      0       -11.551     35.853      17.093      
+PSE     O2P     O       O       0       -13.404     36.040      15.428      
+PSE     O3P     O       OP      -1      -13.328     37.577      17.434      
+PSE     O4P     O       OP      -1      -13.849     35.123      17.742      
+PSE     P       P       P       0       -13.124     36.167      16.914      
+PSE     HN21    H       H       0       -9.490      34.341      16.436      
+PSE     HN22    H       H       0       -8.108      34.663      16.236      
+PSE     H2      H       H       0       -8.546      36.903      16.260      
+PSE     H11     H       H       0       -7.899      35.866      18.300      
+PSE     H12     H       H       0       -9.425      35.645      18.665      
+PSE     HO1     H       H       0       -8.617      37.469      19.579      
+PSE     H31     H       H       0       -10.758     36.801      15.510      
+PSE     H32     H       H       0       -10.683     37.649      16.847      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -48,24 +49,23 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-PSE N2  C2   SINGLE n 1.476 0.0134 1.476 0.0134
-PSE C2  C1   SINGLE n 1.530 0.0118 1.530 0.0118
-PSE C2  C3   SINGLE n 1.528 0.0109 1.528 0.0109
-PSE C1  O1   SINGLE n 1.417 0.0200 1.417 0.0200
-PSE C3  O1P  SINGLE n 1.454 0.0165 1.454 0.0165
-PSE O1P P    SINGLE n 1.614 0.0178 1.614 0.0178
-PSE O2P P    DOUBLE n 1.517 0.0192 1.517 0.0192
-PSE O3P P    SINGLE n 1.517 0.0192 1.517 0.0192
-PSE O4P P    SINGLE n 1.517 0.0192 1.517 0.0192
-PSE N2  HN21 SINGLE n 1.036 0.0160 0.888 0.0200
-PSE N2  HN22 SINGLE n 1.036 0.0160 0.888 0.0200
-PSE C2  H2   SINGLE n 1.089 0.0100 0.992 0.0135
-PSE C1  H11  SINGLE n 1.089 0.0100 0.981 0.0174
-PSE C1  H12  SINGLE n 1.089 0.0100 0.981 0.0174
-PSE O1  HO1  SINGLE n 0.970 0.0120 0.846 0.0200
-PSE C3  H31  SINGLE n 1.089 0.0100 0.980 0.0146
-PSE C3  H32  SINGLE n 1.089 0.0100 0.980 0.0146
-
+PSE          N2          C2      SINGLE       n     1.476  0.0134     1.476  0.0134
+PSE          C2          C1      SINGLE       n     1.530  0.0118     1.530  0.0118
+PSE          C2          C3      SINGLE       n     1.528  0.0109     1.528  0.0109
+PSE          C1          O1      SINGLE       n     1.417  0.0200     1.417  0.0200
+PSE          C3         O1P      SINGLE       n     1.454  0.0165     1.454  0.0165
+PSE         O1P           P      SINGLE       n     1.614  0.0178     1.614  0.0178
+PSE         O2P           P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+PSE         O3P           P      SINGLE       n     1.517  0.0192     1.517  0.0192
+PSE         O4P           P      SINGLE       n     1.517  0.0192     1.517  0.0192
+PSE          N2        HN21      SINGLE       n     1.036  0.0160     0.888  0.0200
+PSE          N2        HN22      SINGLE       n     1.036  0.0160     0.888  0.0200
+PSE          C2          H2      SINGLE       n     1.089  0.0100     0.992  0.0135
+PSE          C1         H11      SINGLE       n     1.089  0.0100     0.981  0.0174
+PSE          C1         H12      SINGLE       n     1.089  0.0100     0.981  0.0174
+PSE          O1         HO1      SINGLE       n     0.970  0.0120     0.846  0.0200
+PSE          C3         H31      SINGLE       n     1.089  0.0100     0.980  0.0146
+PSE          C3         H32      SINGLE       n     1.089  0.0100     0.980  0.0146
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -73,36 +73,35 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-PSE C2   N2  HN21 109.715 3.00
-PSE C2   N2  HN22 109.715 3.00
-PSE HN21 N2  HN22 107.559 3.00
-PSE N2   C2  C1   111.883 2.59
-PSE N2   C2  C3   111.883 2.59
-PSE N2   C2  H2   107.944 1.55
-PSE C1   C2  C3   110.571 1.89
-PSE C1   C2  H2   107.627 1.50
-PSE C3   C2  H2   107.627 1.50
-PSE C2   C1  O1   111.903 1.66
-PSE C2   C1  H11  109.343 1.50
-PSE C2   C1  H12  109.343 1.50
-PSE O1   C1  H11  109.411 1.50
-PSE O1   C1  H12  109.411 1.50
-PSE H11  C1  H12  108.070 1.50
-PSE C1   O1  HO1  108.529 2.94
-PSE C2   C3  O1P  110.589 2.35
-PSE C2   C3  H31  109.343 1.50
-PSE C2   C3  H32  109.343 1.50
-PSE O1P  C3  H31  109.758 1.50
-PSE O1P  C3  H32  109.758 1.50
-PSE H31  C3  H32  108.157 1.50
-PSE C3   O1P P    118.609 1.50
-PSE O1P  P   O2P  105.795 2.09
-PSE O1P  P   O3P  105.795 2.09
-PSE O1P  P   O4P  105.795 2.09
-PSE O2P  P   O3P  112.864 1.69
-PSE O2P  P   O4P  112.864 1.69
-PSE O3P  P   O4P  112.864 1.69
-
+PSE          C2          N2        HN21     109.715    3.00
+PSE          C2          N2        HN22     109.715    3.00
+PSE        HN21          N2        HN22     107.559    3.00
+PSE          N2          C2          C1     111.883    2.59
+PSE          N2          C2          C3     111.883    2.59
+PSE          N2          C2          H2     107.944    1.55
+PSE          C1          C2          C3     110.571    1.89
+PSE          C1          C2          H2     107.627    1.50
+PSE          C3          C2          H2     107.627    1.50
+PSE          C2          C1          O1     111.903    1.66
+PSE          C2          C1         H11     109.343    1.50
+PSE          C2          C1         H12     109.343    1.50
+PSE          O1          C1         H11     109.411    1.50
+PSE          O1          C1         H12     109.411    1.50
+PSE         H11          C1         H12     108.070    1.50
+PSE          C1          O1         HO1     108.529    2.94
+PSE          C2          C3         O1P     110.589    2.35
+PSE          C2          C3         H31     109.343    1.50
+PSE          C2          C3         H32     109.343    1.50
+PSE         O1P          C3         H31     109.758    1.50
+PSE         O1P          C3         H32     109.758    1.50
+PSE         H31          C3         H32     108.157    1.50
+PSE          C3         O1P           P     118.609    1.50
+PSE         O1P           P         O2P     105.795    2.09
+PSE         O1P           P         O3P     105.795    2.09
+PSE         O1P           P         O4P     105.795    2.09
+PSE         O2P           P         O3P     112.864    1.69
+PSE         O2P           P         O4P     112.864    1.69
+PSE         O3P           P         O4P     112.864    1.69
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -113,13 +112,12 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-PSE sp3_sp3_1  C1 C2  N2  HN21 180.000 10.0 3
-PSE sp3_sp3_7  O1 C1  C2  N2   180.000 10.0 3
-PSE sp3_sp3_16 N2 C2  C3  O1P  180.000 10.0 3
-PSE sp3_sp3_25 C2 C1  O1  HO1  180.000 10.0 3
-PSE sp3_sp3_28 C2 C3  O1P P    180.000 10.0 3
-PSE sp3_sp3_33 C3 O1P P   O2P  60.000  10.0 3
-
+PSE             sp3_sp3_1          C1          C2          N2        HN21     180.000    10.0     3
+PSE             sp3_sp3_7          O1          C1          C2          N2     180.000    10.0     3
+PSE            sp3_sp3_16          N2          C2          C3         O1P     180.000    10.0     3
+PSE            sp3_sp3_25          C2          C1          O1         HO1     180.000    10.0     3
+PSE            sp3_sp3_28          C2          C3         O1P           P     180.000    10.0     3
+PSE            sp3_sp3_33          C3         O1P           P         O2P      60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -128,44 +126,27 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-PSE chir_1 C2 N2  C3  C1  negative
-PSE chir_2 P  O1P O3P O4P both
-
+PSE    chir_1    C2    N2    C3    C1    negative
+PSE    chir_2    P    O1P    O3P    O4P    both
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-PSE SMILES           ACDLabs              10.04 O=P(O)(O)OCC(N)CO
-PSE SMILES_CANONICAL CACTVS               3.341 N[C@H](CO)CO[P](O)(O)=O
-PSE SMILES           CACTVS               3.341 N[CH](CO)CO[P](O)(O)=O
-PSE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C([C@H](COP(=O)(O)O)N)O
-PSE SMILES           "OpenEye OEToolkits" 1.5.0 C(C(COP(=O)(O)O)N)O
-PSE InChI            InChI                1.03  InChI=1S/C3H10NO5P/c4-3(1-5)2-9-10(6,7)8/h3,5H,1-2,4H2,(H2,6,7,8)/t3-/m1/s1
-PSE InChIKey         InChI                1.03  WDWYJNPKBKWDBL-GSVOUGTGSA-N
-
+PSE           SMILES              ACDLabs 10.04                                                           O=P(O)(O)OCC(N)CO
+PSE SMILES_CANONICAL               CACTVS 3.341                                                     N[C@H](CO)CO[P](O)(O)=O
+PSE           SMILES               CACTVS 3.341                                                      N[CH](CO)CO[P](O)(O)=O
+PSE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                     C([C@H](COP(=O)(O)O)N)O
+PSE           SMILES "OpenEye OEToolkits" 1.5.0                                                         C(C(COP(=O)(O)O)N)O
+PSE            InChI                InChI  1.03 InChI=1S/C3H10NO5P/c4-3(1-5)2-9-10(6,7)8/h3,5H,1-2,4H2,(H2,6,7,8)/t3-/m1/s1
+PSE         InChIKey                InChI  1.03                                                 WDWYJNPKBKWDBL-GSVOUGTGSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-PSE acedrg          243       "dictionary generator"
-PSE acedrg_database 11        "data source"
-PSE rdkit           2017.03.2 "Chemoinformatics tool"
-PSE refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-PSE DNA/RNA O3P OP3
-PSE DNA/RNA O2P OP1
-PSE DNA/RNA O4P OP2
-PSE DNA/RNA O1P O5'
-PSE DNA/RNA C3  C5'
-PSE DNA/RNA C2  C4'
-PSE DNA/RNA C1  C3'
-PSE DNA/RNA O1  O3'
-PSE DNA/RNA HO1 HO3'
+PSE acedrg               243         "dictionary generator"                  
+PSE acedrg_database      11          "data source"                           
+PSE rdkit                2017.03.2   "Chemoinformatics tool"
+PSE refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-LK5 LK5 "(1S,4R,7AR)-4-BUTOXY-1-[(1R)-1-FORMYLPROPYL]-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID" NON-POLYMER 48 22 .
-
+LK5     LK5      "(1S,4R,7AR)-4-BUTOXY-1-[(1R)-1-FORMYLPROPYL]-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID"     NON-POLYMER     48     22     .     
+#
 data_comp_LK5
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,55 +21,54 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-LK5 C1   C CH3  0  22.376 26.688 21.676
-LK5 C3   C CH2  0  22.748 27.538 22.867
-LK5 C4   C CH2  0  21.982 27.190 24.121
-LK5 C5   C CH2  0  22.367 25.873 24.731
-LK5 O4   O O2   0  21.584 24.823 24.145
-LK5 C6   C CH1  0  21.935 23.502 24.563
-LK5 C7   C CH2  0  22.899 22.884 23.565
-LK5 C8   C CH2  0  22.215 22.509 22.259
-LK5 C9   C CH2  0  21.090 21.514 22.495
-LK5 C10  C CH1  0  20.040 22.120 23.430
-LK5 C11  C CR56 0  20.687 22.672 24.681
-LK5 C12  C CR5  0  19.983 22.351 25.781
-LK5 C13  C C    0  20.251 22.786 27.186
-LK5 O3   O O    0  20.398 23.979 27.377
-LK5 O2   O OC   -1 20.302 21.917 28.035
-LK5 N1   N NR5  0  18.977 21.556 25.448
-LK5 C14  C CH1  0  18.909 21.241 24.023
-LK5 C15  C CH1  0  18.866 19.704 23.770
-LK5 C16  C CH2  0  19.488 18.792 24.841
-LK5 C2   C CH3  0  20.998 18.923 24.986
-LK5 C17  C C1   0  17.446 19.272 23.563
-LK5 O1   O O    0  17.088 18.839 22.511
-LK5 H11  H H    0  22.813 27.035 20.879
-LK5 H12  H H    0  21.412 26.707 21.550
-LK5 H13  H H    0  22.663 25.770 21.828
-LK5 H31  H H    0  22.582 28.481 22.647
-LK5 H32  H H    0  23.709 27.438 23.042
-LK5 H41  H H    0  21.025 27.174 23.910
-LK5 H42  H H    0  22.130 27.897 24.783
-LK5 H51  H H    0  22.210 25.896 25.698
-LK5 H52  H H    0  23.318 25.695 24.580
-LK5 H6   H H    0  22.378 23.549 25.448
-LK5 H71  H H    0  23.622 23.526 23.378
-LK5 H72  H H    0  23.297 22.076 23.964
-LK5 H81  H H    0  22.868 22.122 21.654
-LK5 H82  H H    0  21.857 23.310 21.843
-LK5 H91  H H    0  21.455 20.697 22.887
-LK5 H92  H H    0  20.676 21.279 21.640
-LK5 H10  H H    0  19.605 22.858 22.957
-LK5 HN1  H H    0  18.393 21.243 26.017
-LK5 H14  H H    0  18.076 21.631 23.655
-LK5 H15  H H    0  19.350 19.541 22.923
-LK5 H161 H H    0  19.279 17.858 24.611
-LK5 H162 H H    0  19.066 18.983 25.709
-LK5 H21  H H    0  21.306 18.344 25.705
-LK5 H22  H H    0  21.229 19.844 25.192
-LK5 H23  H H    0  21.428 18.661 24.153
-LK5 H17  H H    0  16.836 19.348 24.284
-
+LK5     C1      C       CH3     0       22.376      26.688      21.676      
+LK5     C3      C       CH2     0       22.748      27.538      22.867      
+LK5     C4      C       CH2     0       21.982      27.190      24.121      
+LK5     C5      C       CH2     0       22.367      25.873      24.731      
+LK5     O4      O       O2      0       21.584      24.823      24.145      
+LK5     C6      C       CH1     0       21.935      23.502      24.563      
+LK5     C7      C       CH2     0       22.899      22.884      23.565      
+LK5     C8      C       CH2     0       22.215      22.509      22.259      
+LK5     C9      C       CH2     0       21.090      21.514      22.495      
+LK5     C10     C       CH1     0       20.040      22.120      23.430      
+LK5     C11     C       CR56    0       20.687      22.672      24.681      
+LK5     C12     C       CR5     0       19.983      22.351      25.781      
+LK5     C13     C       C       0       20.251      22.786      27.186      
+LK5     O3      O       O       0       20.398      23.979      27.377      
+LK5     O2      O       OC      -1      20.302      21.917      28.035      
+LK5     N1      N       NR5     0       18.977      21.556      25.448      
+LK5     C14     C       CH1     0       18.909      21.241      24.023      
+LK5     C15     C       CH1     0       18.866      19.704      23.770      
+LK5     C16     C       CH2     0       19.488      18.792      24.841      
+LK5     C2      C       CH3     0       20.998      18.923      24.986      
+LK5     C17     C       C1      0       17.446      19.272      23.563      
+LK5     O1      O       O       0       17.088      18.839      22.511      
+LK5     H11     H       H       0       22.813      27.035      20.879      
+LK5     H12     H       H       0       21.412      26.707      21.550      
+LK5     H13     H       H       0       22.663      25.770      21.828      
+LK5     H31     H       H       0       22.582      28.481      22.647      
+LK5     H32     H       H       0       23.709      27.438      23.042      
+LK5     H41     H       H       0       21.025      27.174      23.910      
+LK5     H42     H       H       0       22.130      27.897      24.783      
+LK5     H51     H       H       0       22.210      25.896      25.698      
+LK5     H52     H       H       0       23.318      25.695      24.580      
+LK5     H6      H       H       0       22.378      23.549      25.448      
+LK5     H71     H       H       0       23.622      23.526      23.378      
+LK5     H72     H       H       0       23.297      22.076      23.964      
+LK5     H81     H       H       0       22.868      22.122      21.654      
+LK5     H82     H       H       0       21.857      23.310      21.843      
+LK5     H91     H       H       0       21.455      20.697      22.887      
+LK5     H92     H       H       0       20.676      21.279      21.640      
+LK5     H10     H       H       0       19.605      22.858      22.957      
+LK5     HN1     H       H       0       18.393      21.243      26.017      
+LK5     H14     H       H       0       18.076      21.631      23.655      
+LK5     H15     H       H       0       19.350      19.541      22.923      
+LK5     H161    H       H       0       19.279      17.858      24.611      
+LK5     H162    H       H       0       19.066      18.983      25.709      
+LK5     H21     H       H       0       21.306      18.344      25.705      
+LK5     H22     H       H       0       21.229      19.844      25.192      
+LK5     H23     H       H       0       21.428      18.661      24.153      
+LK5     H17     H       H       0       16.836      19.348      24.284      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -78,56 +79,55 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-LK5 C1  C3   SINGLE n 1.510 0.0200 1.510 0.0200
-LK5 C3  C4   SINGLE n 1.508 0.0200 1.508 0.0200
-LK5 C4  C5   SINGLE n 1.497 0.0200 1.497 0.0200
-LK5 C5  O4   SINGLE n 1.433 0.0102 1.433 0.0102
-LK5 O4  C6   SINGLE n 1.426 0.0138 1.426 0.0138
-LK5 C6  C7   SINGLE n 1.516 0.0101 1.516 0.0101
-LK5 C6  C11  SINGLE n 1.500 0.0119 1.500 0.0119
-LK5 C7  C8   SINGLE n 1.518 0.0146 1.518 0.0146
-LK5 C8  C9   SINGLE n 1.520 0.0100 1.520 0.0100
-LK5 C9  C10  SINGLE n 1.528 0.0100 1.528 0.0100
-LK5 C10 C14  SINGLE n 1.535 0.0200 1.535 0.0200
-LK5 C10 C11  SINGLE n 1.511 0.0100 1.511 0.0100
-LK5 C11 C12  DOUBLE n 1.343 0.0114 1.343 0.0114
-LK5 C12 N1   SINGLE n 1.322 0.0161 1.322 0.0161
-LK5 C12 C13  SINGLE n 1.494 0.0120 1.494 0.0120
-LK5 C13 O3   DOUBLE n 1.217 0.0200 1.217 0.0200
-LK5 C13 O2   SINGLE n 1.217 0.0200 1.217 0.0200
-LK5 N1  C14  SINGLE n 1.458 0.0108 1.458 0.0108
-LK5 C14 C15  SINGLE n 1.526 0.0200 1.526 0.0200
-LK5 C15 C17  SINGLE n 1.498 0.0100 1.498 0.0100
-LK5 C15 C16  SINGLE n 1.532 0.0128 1.532 0.0128
-LK5 C16 C2   SINGLE n 1.522 0.0200 1.522 0.0200
-LK5 C17 O1   DOUBLE n 1.191 0.0200 1.191 0.0200
-LK5 C1  H11  SINGLE n 1.089 0.0100 0.973 0.0157
-LK5 C1  H12  SINGLE n 1.089 0.0100 0.973 0.0157
-LK5 C1  H13  SINGLE n 1.089 0.0100 0.973 0.0157
-LK5 C3  H31  SINGLE n 1.089 0.0100 0.982 0.0155
-LK5 C3  H32  SINGLE n 1.089 0.0100 0.982 0.0155
-LK5 C4  H41  SINGLE n 1.089 0.0100 0.980 0.0166
-LK5 C4  H42  SINGLE n 1.089 0.0100 0.980 0.0166
-LK5 C5  H51  SINGLE n 1.089 0.0100 0.979 0.0200
-LK5 C5  H52  SINGLE n 1.089 0.0100 0.979 0.0200
-LK5 C6  H6   SINGLE n 1.089 0.0100 0.990 0.0199
-LK5 C7  H71  SINGLE n 1.089 0.0100 0.985 0.0100
-LK5 C7  H72  SINGLE n 1.089 0.0100 0.985 0.0100
-LK5 C8  H81  SINGLE n 1.089 0.0100 0.971 0.0100
-LK5 C8  H82  SINGLE n 1.089 0.0100 0.971 0.0100
-LK5 C9  H91  SINGLE n 1.089 0.0100 0.979 0.0178
-LK5 C9  H92  SINGLE n 1.089 0.0100 0.979 0.0178
-LK5 C10 H10  SINGLE n 1.089 0.0100 0.979 0.0134
-LK5 N1  HN1  SINGLE n 1.016 0.0100 0.874 0.0200
-LK5 C14 H14  SINGLE n 1.089 0.0100 0.990 0.0167
-LK5 C15 H15  SINGLE n 1.089 0.0100 0.990 0.0102
-LK5 C16 H161 SINGLE n 1.089 0.0100 0.984 0.0103
-LK5 C16 H162 SINGLE n 1.089 0.0100 0.984 0.0103
-LK5 C2  H21  SINGLE n 1.089 0.0100 0.973 0.0157
-LK5 C2  H22  SINGLE n 1.089 0.0100 0.973 0.0157
-LK5 C2  H23  SINGLE n 1.089 0.0100 0.973 0.0157
-LK5 C17 H17  SINGLE n 1.082 0.0130 0.947 0.0200
-
+LK5          C1          C3      SINGLE       n     1.510  0.0200     1.510  0.0200
+LK5          C3          C4      SINGLE       n     1.508  0.0200     1.508  0.0200
+LK5          C4          C5      SINGLE       n     1.497  0.0200     1.497  0.0200
+LK5          C5          O4      SINGLE       n     1.433  0.0102     1.433  0.0102
+LK5          O4          C6      SINGLE       n     1.426  0.0138     1.426  0.0138
+LK5          C6          C7      SINGLE       n     1.516  0.0101     1.516  0.0101
+LK5          C6         C11      SINGLE       n     1.500  0.0119     1.500  0.0119
+LK5          C7          C8      SINGLE       n     1.518  0.0146     1.518  0.0146
+LK5          C8          C9      SINGLE       n     1.520  0.0100     1.520  0.0100
+LK5          C9         C10      SINGLE       n     1.528  0.0100     1.528  0.0100
+LK5         C10         C14      SINGLE       n     1.535  0.0200     1.535  0.0200
+LK5         C10         C11      SINGLE       n     1.511  0.0100     1.511  0.0100
+LK5         C11         C12      DOUBLE       n     1.343  0.0114     1.343  0.0114
+LK5         C12          N1      SINGLE       n     1.322  0.0161     1.322  0.0161
+LK5         C12         C13      SINGLE       n     1.494  0.0120     1.494  0.0120
+LK5         C13          O3      DOUBLE       n     1.217  0.0200     1.217  0.0200
+LK5         C13          O2      SINGLE       n     1.217  0.0200     1.217  0.0200
+LK5          N1         C14      SINGLE       n     1.458  0.0108     1.458  0.0108
+LK5         C14         C15      SINGLE       n     1.526  0.0200     1.526  0.0200
+LK5         C15         C17      SINGLE       n     1.498  0.0100     1.498  0.0100
+LK5         C15         C16      SINGLE       n     1.532  0.0128     1.532  0.0128
+LK5         C16          C2      SINGLE       n     1.522  0.0200     1.522  0.0200
+LK5         C17          O1      DOUBLE       n     1.191  0.0200     1.191  0.0200
+LK5          C1         H11      SINGLE       n     1.089  0.0100     0.973  0.0157
+LK5          C1         H12      SINGLE       n     1.089  0.0100     0.973  0.0157
+LK5          C1         H13      SINGLE       n     1.089  0.0100     0.973  0.0157
+LK5          C3         H31      SINGLE       n     1.089  0.0100     0.982  0.0155
+LK5          C3         H32      SINGLE       n     1.089  0.0100     0.982  0.0155
+LK5          C4         H41      SINGLE       n     1.089  0.0100     0.980  0.0166
+LK5          C4         H42      SINGLE       n     1.089  0.0100     0.980  0.0166
+LK5          C5         H51      SINGLE       n     1.089  0.0100     0.979  0.0200
+LK5          C5         H52      SINGLE       n     1.089  0.0100     0.979  0.0200
+LK5          C6          H6      SINGLE       n     1.089  0.0100     0.990  0.0199
+LK5          C7         H71      SINGLE       n     1.089  0.0100     0.985  0.0100
+LK5          C7         H72      SINGLE       n     1.089  0.0100     0.985  0.0100
+LK5          C8         H81      SINGLE       n     1.089  0.0100     0.971  0.0100
+LK5          C8         H82      SINGLE       n     1.089  0.0100     0.971  0.0100
+LK5          C9         H91      SINGLE       n     1.089  0.0100     0.979  0.0178
+LK5          C9         H92      SINGLE       n     1.089  0.0100     0.979  0.0178
+LK5         C10         H10      SINGLE       n     1.089  0.0100     0.979  0.0134
+LK5          N1         HN1      SINGLE       n     1.016  0.0100     0.874  0.0200
+LK5         C14         H14      SINGLE       n     1.089  0.0100     0.990  0.0167
+LK5         C15         H15      SINGLE       n     1.089  0.0100     0.990  0.0102
+LK5         C16        H161      SINGLE       n     1.089  0.0100     0.984  0.0103
+LK5         C16        H162      SINGLE       n     1.089  0.0100     0.984  0.0103
+LK5          C2         H21      SINGLE       n     1.089  0.0100     0.973  0.0157
+LK5          C2         H22      SINGLE       n     1.089  0.0100     0.973  0.0157
+LK5          C2         H23      SINGLE       n     1.089  0.0100     0.973  0.0157
+LK5         C17         H17      SINGLE       n     1.082  0.0130     0.947  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -135,101 +135,100 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-LK5 C3   C1  H11  109.554 1.50
-LK5 C3   C1  H12  109.554 1.50
-LK5 C3   C1  H13  109.554 1.50
-LK5 H11  C1  H12  109.380 1.50
-LK5 H11  C1  H13  109.380 1.50
-LK5 H12  C1  H13  109.380 1.50
-LK5 C1   C3  C4   113.306 3.00
-LK5 C1   C3  H31  108.918 1.50
-LK5 C1   C3  H32  108.918 1.50
-LK5 C4   C3  H31  108.835 1.50
-LK5 C4   C3  H32  108.835 1.50
-LK5 H31  C3  H32  107.763 1.50
-LK5 C3   C4  C5   113.301 2.18
-LK5 C3   C4  H41  108.683 1.93
-LK5 C3   C4  H42  108.683 1.93
-LK5 C5   C4  H41  108.815 1.50
-LK5 C5   C4  H42  108.815 1.50
-LK5 H41  C4  H42  107.788 1.50
-LK5 C4   C5  O4   109.183 2.40
-LK5 C4   C5  H51  110.103 1.50
-LK5 C4   C5  H52  110.103 1.50
-LK5 O4   C5  H51  109.586 1.50
-LK5 O4   C5  H52  109.586 1.50
-LK5 H51  C5  H52  108.316 1.50
-LK5 C5   O4  C6   114.074 1.50
-LK5 O4   C6  C7   110.347 2.52
-LK5 O4   C6  C11  109.852 1.80
-LK5 O4   C6  H6   108.904 1.51
-LK5 C7   C6  C11  110.012 1.50
-LK5 C7   C6  H6   109.402 1.50
-LK5 C11  C6  H6   109.445 1.50
-LK5 C6   C7  C8   110.841 2.09
-LK5 C6   C7  H71  108.992 1.50
-LK5 C6   C7  H72  108.992 1.50
-LK5 C8   C7  H71  109.110 1.50
-LK5 C8   C7  H72  109.110 1.50
-LK5 H71  C7  H72  108.405 1.50
-LK5 C7   C8  C9   111.293 1.50
-LK5 C7   C8  H81  109.293 1.50
-LK5 C7   C8  H82  109.293 1.50
-LK5 C9   C8  H81  109.398 1.50
-LK5 C9   C8  H82  109.398 1.50
-LK5 H81  C8  H82  107.912 1.50
-LK5 C8   C9  C10  109.816 1.50
-LK5 C8   C9  H91  109.314 1.50
-LK5 C8   C9  H92  109.314 1.50
-LK5 C10  C9  H91  109.607 1.50
-LK5 C10  C9  H92  109.607 1.50
-LK5 H91  C9  H92  107.731 1.50
-LK5 C9   C10 C14  114.678 3.00
-LK5 C9   C10 C11  110.549 1.65
-LK5 C9   C10 H10  108.602 1.84
-LK5 C14  C10 C11  102.039 1.89
-LK5 C14  C10 H10  107.759 2.57
-LK5 C11  C10 H10  108.654 1.50
-LK5 C6   C11 C10  119.500 1.90
-LK5 C6   C11 C12  128.932 3.00
-LK5 C10  C11 C12  111.567 2.00
-LK5 C11  C12 N1   108.150 2.25
-LK5 C11  C12 C13  126.959 3.00
-LK5 N1   C12 C13  124.890 2.90
-LK5 C12  C13 O3   117.075 3.00
-LK5 C12  C13 O2   117.075 3.00
-LK5 O3   C13 O2   125.849 2.58
-LK5 C12  N1  C14  112.879 2.00
-LK5 C12  N1  HN1  124.842 2.05
-LK5 C14  N1  HN1  122.280 1.50
-LK5 C10  C14 N1   102.804 1.50
-LK5 C10  C14 C15  116.119 3.00
-LK5 C10  C14 H14  108.227 2.84
-LK5 N1   C14 C15  109.797 2.76
-LK5 N1   C14 H14  109.313 1.50
-LK5 C15  C14 H14  108.328 1.50
-LK5 C14  C15 C17  112.778 2.78
-LK5 C14  C15 C16  112.518 2.73
-LK5 C14  C15 H15  107.419 1.50
-LK5 C17  C15 C16  110.778 2.06
-LK5 C17  C15 H15  108.585 1.50
-LK5 C16  C15 H15  108.750 1.50
-LK5 C15  C16 C2   113.751 1.51
-LK5 C15  C16 H161 108.668 1.50
-LK5 C15  C16 H162 108.668 1.50
-LK5 C2   C16 H161 108.869 1.50
-LK5 C2   C16 H162 108.869 1.50
-LK5 H161 C16 H162 107.808 1.50
-LK5 C16  C2  H21  109.463 1.50
-LK5 C16  C2  H22  109.463 1.50
-LK5 C16  C2  H23  109.463 1.50
-LK5 H21  C2  H22  109.380 1.50
-LK5 H21  C2  H23  109.380 1.50
-LK5 H22  C2  H23  109.380 1.50
-LK5 C15  C17 O1   120.549 1.50
-LK5 C15  C17 H17  118.860 1.52
-LK5 O1   C17 H17  120.591 1.50
-
+LK5          C3          C1         H11     109.554    1.50
+LK5          C3          C1         H12     109.554    1.50
+LK5          C3          C1         H13     109.554    1.50
+LK5         H11          C1         H12     109.380    1.50
+LK5         H11          C1         H13     109.380    1.50
+LK5         H12          C1         H13     109.380    1.50
+LK5          C1          C3          C4     113.306    3.00
+LK5          C1          C3         H31     108.918    1.50
+LK5          C1          C3         H32     108.918    1.50
+LK5          C4          C3         H31     108.835    1.50
+LK5          C4          C3         H32     108.835    1.50
+LK5         H31          C3         H32     107.763    1.50
+LK5          C3          C4          C5     113.301    2.18
+LK5          C3          C4         H41     108.683    1.93
+LK5          C3          C4         H42     108.683    1.93
+LK5          C5          C4         H41     108.815    1.50
+LK5          C5          C4         H42     108.815    1.50
+LK5         H41          C4         H42     107.788    1.50
+LK5          C4          C5          O4     109.183    2.40
+LK5          C4          C5         H51     110.103    1.50
+LK5          C4          C5         H52     110.103    1.50
+LK5          O4          C5         H51     109.586    1.50
+LK5          O4          C5         H52     109.586    1.50
+LK5         H51          C5         H52     108.316    1.50
+LK5          C5          O4          C6     114.074    1.50
+LK5          O4          C6          C7     110.347    2.52
+LK5          O4          C6         C11     109.852    1.80
+LK5          O4          C6          H6     108.904    1.51
+LK5          C7          C6         C11     110.012    1.50
+LK5          C7          C6          H6     109.402    1.50
+LK5         C11          C6          H6     109.445    1.50
+LK5          C6          C7          C8     110.841    2.09
+LK5          C6          C7         H71     108.992    1.50
+LK5          C6          C7         H72     108.992    1.50
+LK5          C8          C7         H71     109.110    1.50
+LK5          C8          C7         H72     109.110    1.50
+LK5         H71          C7         H72     108.405    1.50
+LK5          C7          C8          C9     111.293    1.50
+LK5          C7          C8         H81     109.293    1.50
+LK5          C7          C8         H82     109.293    1.50
+LK5          C9          C8         H81     109.398    1.50
+LK5          C9          C8         H82     109.398    1.50
+LK5         H81          C8         H82     107.912    1.50
+LK5          C8          C9         C10     109.816    1.50
+LK5          C8          C9         H91     109.314    1.50
+LK5          C8          C9         H92     109.314    1.50
+LK5         C10          C9         H91     109.607    1.50
+LK5         C10          C9         H92     109.607    1.50
+LK5         H91          C9         H92     107.731    1.50
+LK5          C9         C10         C14     114.678    3.00
+LK5          C9         C10         C11     110.549    1.65
+LK5          C9         C10         H10     108.602    1.84
+LK5         C14         C10         C11     102.039    1.89
+LK5         C14         C10         H10     107.759    2.57
+LK5         C11         C10         H10     108.654    1.50
+LK5          C6         C11         C10     119.500    1.90
+LK5          C6         C11         C12     128.932    3.00
+LK5         C10         C11         C12     111.567    2.00
+LK5         C11         C12          N1     108.150    2.25
+LK5         C11         C12         C13     126.959    3.00
+LK5          N1         C12         C13     124.890    2.90
+LK5         C12         C13          O3     117.075    3.00
+LK5         C12         C13          O2     117.075    3.00
+LK5          O3         C13          O2     125.849    2.58
+LK5         C12          N1         C14     112.879    2.00
+LK5         C12          N1         HN1     124.842    2.05
+LK5         C14          N1         HN1     122.280    1.50
+LK5         C10         C14          N1     102.804    1.50
+LK5         C10         C14         C15     116.119    3.00
+LK5         C10         C14         H14     108.227    2.84
+LK5          N1         C14         C15     109.797    2.76
+LK5          N1         C14         H14     109.313    1.50
+LK5         C15         C14         H14     108.328    1.50
+LK5         C14         C15         C17     112.778    2.78
+LK5         C14         C15         C16     112.518    2.73
+LK5         C14         C15         H15     107.419    1.50
+LK5         C17         C15         C16     110.778    2.06
+LK5         C17         C15         H15     108.585    1.50
+LK5         C16         C15         H15     108.750    1.50
+LK5         C15         C16          C2     113.751    1.51
+LK5         C15         C16        H161     108.668    1.50
+LK5         C15         C16        H162     108.668    1.50
+LK5          C2         C16        H161     108.869    1.50
+LK5          C2         C16        H162     108.869    1.50
+LK5        H161         C16        H162     107.808    1.50
+LK5         C16          C2         H21     109.463    1.50
+LK5         C16          C2         H22     109.463    1.50
+LK5         C16          C2         H23     109.463    1.50
+LK5         H21          C2         H22     109.380    1.50
+LK5         H21          C2         H23     109.380    1.50
+LK5         H22          C2         H23     109.380    1.50
+LK5         C15         C17          O1     120.549    1.50
+LK5         C15         C17         H17     118.860    1.52
+LK5          O1         C17         H17     120.591    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -240,27 +239,26 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-LK5 sp3_sp3_46 H11 C1  C3  C4  180.000 10.0 3
-LK5 sp2_sp2_8  C6  C11 C12 C13 0.000   5.0  2
-LK5 sp2_sp2_9  C11 C12 C13 O3  180.000 5.0  2
-LK5 sp2_sp2_3  C13 C12 N1  C14 180.000 5.0  2
-LK5 sp2_sp3_2  C12 N1  C14 C15 120.000 10.0 6
-LK5 sp3_sp3_79 C10 C14 C15 C17 180.000 10.0 3
-LK5 sp3_sp3_91 C17 C15 C16 C2  60.000  10.0 3
-LK5 sp2_sp3_20 O1  C17 C15 C16 120.000 10.0 6
-LK5 sp3_sp3_97 C15 C16 C2  H21 180.000 10.0 3
-LK5 sp3_sp3_55 C1  C3  C4  C5  180.000 10.0 3
-LK5 sp3_sp3_64 C3  C4  C5  O4  180.000 10.0 3
-LK5 sp3_sp3_73 C4  C5  O4  C6  180.000 10.0 3
-LK5 sp3_sp3_76 C7  C6  O4  C5  180.000 10.0 3
-LK5 sp2_sp3_14 C10 C11 C6  O4  120.000 10.0 6
-LK5 sp3_sp3_13 O4  C6  C7  C8  -60.000 10.0 3
-LK5 sp3_sp3_19 C6  C7  C8  C9  -60.000 10.0 3
-LK5 sp3_sp3_28 C7  C8  C9  C10 60.000  10.0 3
-LK5 sp3_sp3_40 C14 C10 C9  C8  180.000 10.0 3
-LK5 sp2_sp3_7  C6  C11 C10 C9  0.000   10.0 6
-LK5 sp3_sp3_5  C9  C10 C14 C15 60.000  10.0 3
-
+LK5            sp3_sp3_46         H11          C1          C3          C4     180.000    10.0     3
+LK5             sp2_sp2_8          C6         C11         C12         C13       0.000     5.0     2
+LK5             sp2_sp2_9         C11         C12         C13          O3     180.000     5.0     2
+LK5             sp2_sp2_3         C13         C12          N1         C14     180.000     5.0     2
+LK5             sp2_sp3_2         C12          N1         C14         C15     120.000    10.0     6
+LK5            sp3_sp3_79         C10         C14         C15         C17     180.000    10.0     3
+LK5            sp3_sp3_91         C17         C15         C16          C2      60.000    10.0     3
+LK5            sp2_sp3_20          O1         C17         C15         C16     120.000    10.0     6
+LK5            sp3_sp3_97         C15         C16          C2         H21     180.000    10.0     3
+LK5            sp3_sp3_55          C1          C3          C4          C5     180.000    10.0     3
+LK5            sp3_sp3_64          C3          C4          C5          O4     180.000    10.0     3
+LK5            sp3_sp3_73          C4          C5          O4          C6     180.000    10.0     3
+LK5            sp3_sp3_76          C7          C6          O4          C5     180.000    10.0     3
+LK5            sp2_sp3_14         C10         C11          C6          O4     120.000    10.0     6
+LK5            sp3_sp3_13          O4          C6          C7          C8     -60.000    10.0     3
+LK5            sp3_sp3_19          C6          C7          C8          C9     -60.000    10.0     3
+LK5            sp3_sp3_28          C7          C8          C9         C10      60.000    10.0     3
+LK5            sp3_sp3_40         C14         C10          C9          C8     180.000    10.0     3
+LK5             sp2_sp3_7          C6         C11         C10          C9       0.000    10.0     6
+LK5             sp3_sp3_5          C9         C10         C14         C15      60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -269,70 +267,54 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-LK5 chir_1 C6  O4  C11 C7  negative
-LK5 chir_2 C10 C14 C11 C9  negative
-LK5 chir_3 C14 N1  C15 C10 positive
-LK5 chir_4 C15 C17 C14 C16 negative
-
+LK5    chir_1    C6    O4    C11    C7    negative
+LK5    chir_2    C10    C14    C11    C9    negative
+LK5    chir_3    C14    N1    C15    C10    positive
+LK5    chir_4    C15    C17    C14    C16    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-LK5 plan-1 C10 0.020
-LK5 plan-1 C11 0.020
-LK5 plan-1 C12 0.020
-LK5 plan-1 C6  0.020
-LK5 plan-2 C11 0.020
-LK5 plan-2 C12 0.020
-LK5 plan-2 C13 0.020
-LK5 plan-2 N1  0.020
-LK5 plan-3 C12 0.020
-LK5 plan-3 C13 0.020
-LK5 plan-3 O2  0.020
-LK5 plan-3 O3  0.020
-LK5 plan-4 C12 0.020
-LK5 plan-4 C14 0.020
-LK5 plan-4 HN1 0.020
-LK5 plan-4 N1  0.020
-LK5 plan-5 C15 0.020
-LK5 plan-5 C17 0.020
-LK5 plan-5 H17 0.020
-LK5 plan-5 O1  0.020
-
+LK5    plan-1         C10   0.020
+LK5    plan-1         C11   0.020
+LK5    plan-1         C12   0.020
+LK5    plan-1          C6   0.020
+LK5    plan-2         C11   0.020
+LK5    plan-2         C12   0.020
+LK5    plan-2         C13   0.020
+LK5    plan-2          N1   0.020
+LK5    plan-3         C12   0.020
+LK5    plan-3         C13   0.020
+LK5    plan-3          O2   0.020
+LK5    plan-3          O3   0.020
+LK5    plan-4         C12   0.020
+LK5    plan-4         C14   0.020
+LK5    plan-4         HN1   0.020
+LK5    plan-4          N1   0.020
+LK5    plan-5         C15   0.020
+LK5    plan-5         C17   0.020
+LK5    plan-5         H17   0.020
+LK5    plan-5          O1   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-LK5 SMILES           ACDLabs              10.04 O=CC(C2NC(=C1C(OCCCC)CCCC12)C(=O)O)CC
-LK5 SMILES_CANONICAL CACTVS               3.341 CCCCO[C@@H]1CCC[C@H]2[C@H](NC(=C12)C(O)=O)[C@@H](CC)C=O
-LK5 SMILES           CACTVS               3.341 CCCCO[CH]1CCC[CH]2[CH](NC(=C12)C(O)=O)[CH](CC)C=O
-LK5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CCCCO[C@@H]1CCC[C@@H]2C1=C(N[C@@H]2[C@@H](CC)C=O)C(=O)O
-LK5 SMILES           "OpenEye OEToolkits" 1.5.0 CCCCOC1CCCC2C1=C(NC2C(CC)C=O)C(=O)O
-LK5 InChI            InChI                1.03  InChI=1S/C17H27NO4/c1-3-5-9-22-13-8-6-7-12-14(13)16(17(20)21)18-15(12)11(4-2)10-19/h10-13,15,18H,3-9H2,1-2H3,(H,20,21)/t11-,12+,13+,15+/m0/s1
-LK5 InChIKey         InChI                1.03  WRBRCIHZCYLBFW-KYEXWDHISA-N
-
+LK5           SMILES              ACDLabs 10.04                                                                                                         O=CC(C2NC(=C1C(OCCCC)CCCC12)C(=O)O)CC
+LK5 SMILES_CANONICAL               CACTVS 3.341                                                                                       CCCCO[C@@H]1CCC[C@H]2[C@H](NC(=C12)C(O)=O)[C@@H](CC)C=O
+LK5           SMILES               CACTVS 3.341                                                                                             CCCCO[CH]1CCC[CH]2[CH](NC(=C12)C(O)=O)[CH](CC)C=O
+LK5 SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                       CCCCO[C@@H]1CCC[C@@H]2C1=C(N[C@@H]2[C@@H](CC)C=O)C(=O)O
+LK5           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                           CCCCOC1CCCC2C1=C(NC2C(CC)C=O)C(=O)O
+LK5            InChI                InChI  1.03 InChI=1S/C17H27NO4/c1-3-5-9-22-13-8-6-7-12-14(13)16(17(20)21)18-15(12)11(4-2)10-19/h10-13,15,18H,3-9H2,1-2H3,(H,20,21)/t11-,12+,13+,15+/m0/s1
+LK5         InChIKey                InChI  1.03                                                                                                                   WRBRCIHZCYLBFW-KYEXWDHISA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-LK5 acedrg          243       "dictionary generator"
-LK5 acedrg_database 11        "data source"
-LK5 rdkit           2017.03.2 "Chemoinformatics tool"
-LK5 refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-LK5 P-peptide N1  N
-LK5 P-peptide C12 CA
-LK5 P-peptide C13 C
-LK5 P-peptide O3  O
-LK5 P-peptide C14 CD
-LK5 P-peptide O2  OXT
-LK5 P-peptide HN1 H
+LK5 acedrg               243         "dictionary generator"                  
+LK5 acedrg_database      11          "data source"                           
+LK5 rdkit                2017.03.2   "Chemoinformatics tool"
+LK5 refmac5              5.8.0238    "optimization tool"                     

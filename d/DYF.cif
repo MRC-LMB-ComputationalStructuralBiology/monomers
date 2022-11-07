@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DYF DYF "[(3~{R})-2,2-dimethyl-4-[[3-[2-[[(~{E})-oct-2-enoyl]amino]ethylamino]-3-oxidanylidene-propyl]amino]-3-oxidanyl-4-oxidanylidene-butyl] dihydrogen phosphate" NON-POLYMER 65 31 .
-
+DYF     DYF      "[(3~{R})-2,2-dimethyl-4-[[3-[2-[[(~{E})-oct-2-enoyl]amino]ethylamino]-3-oxidanylidene-propyl]amino]-3-oxidanyl-4-oxidanylidene-butyl] dihydrogen phosphate"     NON-POLYMER     65     31     .     
+#
 data_comp_DYF
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,72 +21,71 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DYF C29 C CH2 0  -16.375 -24.493 27.631
-DYF C26 C C1  0  -16.350 -23.395 23.919
-DYF C25 C C1  0  -16.412 -22.085 23.680
-DYF O13 O O   0  -21.317 -16.108 27.664
-DYF C21 C CH2 0  -16.644 -19.225 23.463
-DYF C17 C C   0  -18.452 -16.780 24.356
-DYF O11 O OH1 0  -19.786 -13.671 29.584
-DYF N22 N NH1 0  -16.091 -20.101 22.437
-DYF C10 C CH1 0  -20.699 -14.764 29.528
-DYF N19 N NH1 0  -17.145 -16.903 24.082
-DYF C30 C CH2 0  -15.504 -24.202 28.826
-DYF C31 C CH3 0  -15.957 -24.893 30.090
-DYF N14 N NH1 0  -19.111 -15.776 27.971
-DYF C28 C CH2 0  -15.935 -23.800 26.353
-DYF C27 C CH2 0  -16.820 -24.066 25.175
-DYF C23 C C   0  -15.972 -21.444 22.516
-DYF C20 C CH2 0  -16.605 -17.770 23.042
-DYF C16 C CH2 0  -18.837 -15.887 25.517
-DYF C15 C CH2 0  -18.655 -16.586 26.847
-DYF C12 C C   0  -20.389 -15.610 28.298
-DYF C01 C CH3 0  -19.349 -16.213 31.101
-DYF C02 C CT  0  -20.703 -15.528 30.868
-DYF C03 C CH3 0  -21.791 -16.611 30.840
-DYF C04 C CH2 0  -20.973 -14.600 32.055
-DYF O05 O O2  0  -22.246 -13.917 31.871
-DYF P06 P P   0  -22.713 -12.840 32.979
-DYF O07 O OP  -1 -22.800 -13.603 34.287
-DYF O08 O O   0  -24.058 -12.320 32.508
-DYF O09 O OP  -1 -21.639 -11.769 32.992
-DYF O18 O O   0  -19.316 -17.375 23.714
-DYF O24 O O   0  -15.485 -22.081 21.582
-DYF H1  H H   0  -17.293 -24.218 27.838
-DYF H2  H H   0  -16.382 -25.462 27.477
-DYF H3  H H   0  -15.984 -23.951 23.252
-DYF H4  H H   0  -16.790 -21.571 24.368
-DYF H5  H H   0  -16.133 -19.331 24.292
-DYF H6  H H   0  -17.571 -19.482 23.645
-DYF H7  H H   0  -20.201 -12.963 29.803
-DYF H8  H H   0  -15.811 -19.720 21.704
-DYF H9  H H   0  -21.607 -14.395 29.401
-DYF H10 H H   0  -16.584 -16.434 24.559
-DYF H11 H H   0  -15.493 -23.232 28.980
-DYF H12 H H   0  -14.585 -24.482 28.623
-DYF H13 H H   0  -15.356 -24.664 30.820
-DYF H14 H H   0  -15.950 -25.856 29.955
-DYF H15 H H   0  -16.860 -24.605 30.313
-DYF H16 H H   0  -18.503 -15.379 28.456
-DYF H17 H H   0  -15.025 -24.092 26.136
-DYF H18 H H   0  -15.906 -22.834 26.514
-DYF H19 H H   0  -16.862 -25.036 25.021
-DYF H20 H H   0  -17.728 -23.752 25.383
-DYF H21 H H   0  -17.124 -17.654 22.219
-DYF H22 H H   0  -15.680 -17.511 22.853
-DYF H23 H H   0  -19.767 -15.618 25.416
-DYF H24 H H   0  -18.291 -15.082 25.495
-DYF H25 H H   0  -19.152 -17.431 26.835
-DYF H26 H H   0  -17.706 -16.796 26.969
-DYF H27 H H   0  -19.308 -16.550 32.013
-DYF H28 H H   0  -18.629 -15.574 30.965
-DYF H29 H H   0  -19.241 -16.956 30.483
-DYF H30 H H   0  -21.521 -17.337 30.252
-DYF H31 H H   0  -22.624 -16.227 30.515
-DYF H32 H H   0  -21.927 -16.961 31.737
-DYF H33 H H   0  -20.252 -13.943 32.133
-DYF H34 H H   0  -20.996 -15.122 32.881
-
+DYF     C29     C       CH2     0       -16.375     -24.493     27.631      
+DYF     C26     C       C1      0       -16.350     -23.395     23.919      
+DYF     C25     C       C1      0       -16.412     -22.085     23.680      
+DYF     O13     O       O       0       -21.317     -16.108     27.664      
+DYF     C21     C       CH2     0       -16.644     -19.225     23.463      
+DYF     C17     C       C       0       -18.452     -16.780     24.356      
+DYF     O11     O       OH1     0       -19.786     -13.671     29.584      
+DYF     N22     N       NH1     0       -16.091     -20.101     22.437      
+DYF     C10     C       CH1     0       -20.699     -14.764     29.528      
+DYF     N19     N       NH1     0       -17.145     -16.903     24.082      
+DYF     C30     C       CH2     0       -15.504     -24.202     28.826      
+DYF     C31     C       CH3     0       -15.957     -24.893     30.090      
+DYF     N14     N       NH1     0       -19.111     -15.776     27.971      
+DYF     C28     C       CH2     0       -15.935     -23.800     26.353      
+DYF     C27     C       CH2     0       -16.820     -24.066     25.175      
+DYF     C23     C       C       0       -15.972     -21.444     22.516      
+DYF     C20     C       CH2     0       -16.605     -17.770     23.042      
+DYF     C16     C       CH2     0       -18.837     -15.887     25.517      
+DYF     C15     C       CH2     0       -18.655     -16.586     26.847      
+DYF     C12     C       C       0       -20.389     -15.610     28.298      
+DYF     C01     C       CH3     0       -19.349     -16.213     31.101      
+DYF     C02     C       CT      0       -20.703     -15.528     30.868      
+DYF     C03     C       CH3     0       -21.791     -16.611     30.840      
+DYF     C04     C       CH2     0       -20.973     -14.600     32.055      
+DYF     O05     O       O2      0       -22.246     -13.917     31.871      
+DYF     P06     P       P       0       -22.713     -12.840     32.979      
+DYF     O07     O       OP      -1      -22.800     -13.603     34.287      
+DYF     O08     O       O       0       -24.058     -12.320     32.508      
+DYF     O09     O       OP      -1      -21.639     -11.769     32.992      
+DYF     O18     O       O       0       -19.316     -17.375     23.714      
+DYF     O24     O       O       0       -15.485     -22.081     21.582      
+DYF     H1      H       H       0       -17.293     -24.218     27.838      
+DYF     H2      H       H       0       -16.382     -25.462     27.477      
+DYF     H3      H       H       0       -15.984     -23.951     23.252      
+DYF     H4      H       H       0       -16.790     -21.571     24.368      
+DYF     H5      H       H       0       -16.133     -19.331     24.292      
+DYF     H6      H       H       0       -17.571     -19.482     23.645      
+DYF     H7      H       H       0       -20.201     -12.963     29.803      
+DYF     H8      H       H       0       -15.811     -19.720     21.704      
+DYF     H9      H       H       0       -21.607     -14.395     29.401      
+DYF     H10     H       H       0       -16.584     -16.434     24.559      
+DYF     H11     H       H       0       -15.493     -23.232     28.980      
+DYF     H12     H       H       0       -14.585     -24.482     28.623      
+DYF     H13     H       H       0       -15.356     -24.664     30.820      
+DYF     H14     H       H       0       -15.950     -25.856     29.955      
+DYF     H15     H       H       0       -16.860     -24.605     30.313      
+DYF     H16     H       H       0       -18.503     -15.379     28.456      
+DYF     H17     H       H       0       -15.025     -24.092     26.136      
+DYF     H18     H       H       0       -15.906     -22.834     26.514      
+DYF     H19     H       H       0       -16.862     -25.036     25.021      
+DYF     H20     H       H       0       -17.728     -23.752     25.383      
+DYF     H21     H       H       0       -17.124     -17.654     22.219      
+DYF     H22     H       H       0       -15.680     -17.511     22.853      
+DYF     H23     H       H       0       -19.767     -15.618     25.416      
+DYF     H24     H       H       0       -18.291     -15.082     25.495      
+DYF     H25     H       H       0       -19.152     -17.431     26.835      
+DYF     H26     H       H       0       -17.706     -16.796     26.969      
+DYF     H27     H       H       0       -19.308     -16.550     32.013      
+DYF     H28     H       H       0       -18.629     -15.574     30.965      
+DYF     H29     H       H       0       -19.241     -16.956     30.483      
+DYF     H30     H       H       0       -21.521     -17.337     30.252      
+DYF     H31     H       H       0       -22.624     -16.227     30.515      
+DYF     H32     H       H       0       -21.927     -16.961     31.737      
+DYF     H33     H       H       0       -20.252     -13.943     32.133      
+DYF     H34     H       H       0       -20.996     -15.122     32.881      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -95,71 +96,70 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DYF C23 O24 DOUBLE n 1.229 0.0129 1.229 0.0129
-DYF C21 C20 SINGLE n 1.513 0.0183 1.513 0.0183
-DYF N19 C20 SINGLE n 1.456 0.0100 1.456 0.0100
-DYF N22 C23 SINGLE n 1.336 0.0127 1.336 0.0127
-DYF C21 N22 SINGLE n 1.454 0.0100 1.454 0.0100
-DYF C25 C23 SINGLE n 1.366 0.0200 1.366 0.0200
-DYF C17 O18 DOUBLE n 1.229 0.0102 1.229 0.0102
-DYF C17 N19 SINGLE n 1.337 0.0118 1.337 0.0118
-DYF C17 C16 SINGLE n 1.514 0.0100 1.514 0.0100
-DYF C26 C25 DOUBLE n 1.327 0.0151 1.327 0.0151
-DYF C26 C27 SINGLE n 1.499 0.0157 1.499 0.0157
-DYF C28 C27 SINGLE n 1.497 0.0200 1.497 0.0200
-DYF C16 C15 SINGLE n 1.513 0.0195 1.513 0.0195
-DYF C29 C28 SINGLE n 1.519 0.0164 1.519 0.0164
-DYF N14 C15 SINGLE n 1.457 0.0100 1.457 0.0100
-DYF O13 C12 DOUBLE n 1.229 0.0102 1.229 0.0102
-DYF C29 C30 SINGLE n 1.507 0.0200 1.507 0.0200
-DYF N14 C12 SINGLE n 1.326 0.0100 1.326 0.0100
-DYF C30 C31 SINGLE n 1.510 0.0200 1.510 0.0200
-DYF C10 C12 SINGLE n 1.519 0.0108 1.519 0.0108
-DYF O11 C10 SINGLE n 1.419 0.0162 1.419 0.0162
-DYF C10 C02 SINGLE n 1.532 0.0112 1.532 0.0112
-DYF C02 C03 SINGLE n 1.531 0.0109 1.531 0.0109
-DYF P06 O08 DOUBLE n 1.517 0.0192 1.517 0.0192
-DYF C01 C02 SINGLE n 1.531 0.0109 1.531 0.0109
-DYF C02 C04 SINGLE n 1.526 0.0108 1.526 0.0108
-DYF P06 O09 SINGLE n 1.517 0.0192 1.517 0.0192
-DYF O05 P06 SINGLE n 1.614 0.0178 1.614 0.0178
-DYF P06 O07 SINGLE n 1.517 0.0192 1.517 0.0192
-DYF C04 O05 SINGLE n 1.454 0.0165 1.454 0.0165
-DYF C29 H1  SINGLE n 1.089 0.0100 0.981 0.0163
-DYF C29 H2  SINGLE n 1.089 0.0100 0.981 0.0163
-DYF C26 H3  SINGLE n 1.082 0.0130 0.943 0.0181
-DYF C25 H4  SINGLE n 1.082 0.0130 0.943 0.0200
-DYF C21 H5  SINGLE n 1.089 0.0100 0.979 0.0148
-DYF C21 H6  SINGLE n 1.089 0.0100 0.979 0.0148
-DYF O11 H7  SINGLE n 0.970 0.0120 0.848 0.0200
-DYF N22 H8  SINGLE n 1.016 0.0100 0.870 0.0200
-DYF C10 H9  SINGLE n 1.089 0.0100 0.988 0.0129
-DYF N19 H10 SINGLE n 1.016 0.0100 0.872 0.0200
-DYF C30 H11 SINGLE n 1.089 0.0100 0.982 0.0155
-DYF C30 H12 SINGLE n 1.089 0.0100 0.982 0.0155
-DYF C31 H13 SINGLE n 1.089 0.0100 0.973 0.0157
-DYF C31 H14 SINGLE n 1.089 0.0100 0.973 0.0157
-DYF C31 H15 SINGLE n 1.089 0.0100 0.973 0.0157
-DYF N14 H16 SINGLE n 1.016 0.0100 0.872 0.0200
-DYF C28 H17 SINGLE n 1.089 0.0100 0.980 0.0160
-DYF C28 H18 SINGLE n 1.089 0.0100 0.980 0.0160
-DYF C27 H19 SINGLE n 1.089 0.0100 0.983 0.0180
-DYF C27 H20 SINGLE n 1.089 0.0100 0.983 0.0180
-DYF C20 H21 SINGLE n 1.089 0.0100 0.979 0.0148
-DYF C20 H22 SINGLE n 1.089 0.0100 0.979 0.0148
-DYF C16 H23 SINGLE n 1.089 0.0100 0.973 0.0156
-DYF C16 H24 SINGLE n 1.089 0.0100 0.973 0.0156
-DYF C15 H25 SINGLE n 1.089 0.0100 0.980 0.0159
-DYF C15 H26 SINGLE n 1.089 0.0100 0.980 0.0159
-DYF C01 H27 SINGLE n 1.089 0.0100 0.973 0.0146
-DYF C01 H28 SINGLE n 1.089 0.0100 0.973 0.0146
-DYF C01 H29 SINGLE n 1.089 0.0100 0.973 0.0146
-DYF C03 H30 SINGLE n 1.089 0.0100 0.973 0.0146
-DYF C03 H31 SINGLE n 1.089 0.0100 0.973 0.0146
-DYF C03 H32 SINGLE n 1.089 0.0100 0.973 0.0146
-DYF C04 H33 SINGLE n 1.089 0.0100 0.978 0.0102
-DYF C04 H34 SINGLE n 1.089 0.0100 0.978 0.0102
-
+DYF         C23         O24      DOUBLE       n     1.229  0.0129     1.229  0.0129
+DYF         C21         C20      SINGLE       n     1.513  0.0183     1.513  0.0183
+DYF         N19         C20      SINGLE       n     1.456  0.0100     1.456  0.0100
+DYF         N22         C23      SINGLE       n     1.336  0.0127     1.336  0.0127
+DYF         C21         N22      SINGLE       n     1.454  0.0100     1.454  0.0100
+DYF         C25         C23      SINGLE       n     1.366  0.0200     1.366  0.0200
+DYF         C17         O18      DOUBLE       n     1.229  0.0102     1.229  0.0102
+DYF         C17         N19      SINGLE       n     1.337  0.0118     1.337  0.0118
+DYF         C17         C16      SINGLE       n     1.514  0.0100     1.514  0.0100
+DYF         C26         C25      DOUBLE       n     1.327  0.0151     1.327  0.0151
+DYF         C26         C27      SINGLE       n     1.499  0.0157     1.499  0.0157
+DYF         C28         C27      SINGLE       n     1.497  0.0200     1.497  0.0200
+DYF         C16         C15      SINGLE       n     1.513  0.0195     1.513  0.0195
+DYF         C29         C28      SINGLE       n     1.519  0.0164     1.519  0.0164
+DYF         N14         C15      SINGLE       n     1.457  0.0100     1.457  0.0100
+DYF         O13         C12      DOUBLE       n     1.229  0.0102     1.229  0.0102
+DYF         C29         C30      SINGLE       n     1.507  0.0200     1.507  0.0200
+DYF         N14         C12      SINGLE       n     1.326  0.0100     1.326  0.0100
+DYF         C30         C31      SINGLE       n     1.510  0.0200     1.510  0.0200
+DYF         C10         C12      SINGLE       n     1.519  0.0108     1.519  0.0108
+DYF         O11         C10      SINGLE       n     1.419  0.0162     1.419  0.0162
+DYF         C10         C02      SINGLE       n     1.532  0.0112     1.532  0.0112
+DYF         C02         C03      SINGLE       n     1.531  0.0109     1.531  0.0109
+DYF         P06         O08      DOUBLE       n     1.517  0.0192     1.517  0.0192
+DYF         C01         C02      SINGLE       n     1.531  0.0109     1.531  0.0109
+DYF         C02         C04      SINGLE       n     1.526  0.0108     1.526  0.0108
+DYF         P06         O09      SINGLE       n     1.517  0.0192     1.517  0.0192
+DYF         O05         P06      SINGLE       n     1.614  0.0178     1.614  0.0178
+DYF         P06         O07      SINGLE       n     1.517  0.0192     1.517  0.0192
+DYF         C04         O05      SINGLE       n     1.454  0.0165     1.454  0.0165
+DYF         C29          H1      SINGLE       n     1.089  0.0100     0.981  0.0163
+DYF         C29          H2      SINGLE       n     1.089  0.0100     0.981  0.0163
+DYF         C26          H3      SINGLE       n     1.082  0.0130     0.943  0.0181
+DYF         C25          H4      SINGLE       n     1.082  0.0130     0.943  0.0200
+DYF         C21          H5      SINGLE       n     1.089  0.0100     0.979  0.0148
+DYF         C21          H6      SINGLE       n     1.089  0.0100     0.979  0.0148
+DYF         O11          H7      SINGLE       n     0.970  0.0120     0.848  0.0200
+DYF         N22          H8      SINGLE       n     1.016  0.0100     0.870  0.0200
+DYF         C10          H9      SINGLE       n     1.089  0.0100     0.988  0.0129
+DYF         N19         H10      SINGLE       n     1.016  0.0100     0.872  0.0200
+DYF         C30         H11      SINGLE       n     1.089  0.0100     0.982  0.0155
+DYF         C30         H12      SINGLE       n     1.089  0.0100     0.982  0.0155
+DYF         C31         H13      SINGLE       n     1.089  0.0100     0.973  0.0157
+DYF         C31         H14      SINGLE       n     1.089  0.0100     0.973  0.0157
+DYF         C31         H15      SINGLE       n     1.089  0.0100     0.973  0.0157
+DYF         N14         H16      SINGLE       n     1.016  0.0100     0.872  0.0200
+DYF         C28         H17      SINGLE       n     1.089  0.0100     0.980  0.0160
+DYF         C28         H18      SINGLE       n     1.089  0.0100     0.980  0.0160
+DYF         C27         H19      SINGLE       n     1.089  0.0100     0.983  0.0180
+DYF         C27         H20      SINGLE       n     1.089  0.0100     0.983  0.0180
+DYF         C20         H21      SINGLE       n     1.089  0.0100     0.979  0.0148
+DYF         C20         H22      SINGLE       n     1.089  0.0100     0.979  0.0148
+DYF         C16         H23      SINGLE       n     1.089  0.0100     0.973  0.0156
+DYF         C16         H24      SINGLE       n     1.089  0.0100     0.973  0.0156
+DYF         C15         H25      SINGLE       n     1.089  0.0100     0.980  0.0159
+DYF         C15         H26      SINGLE       n     1.089  0.0100     0.980  0.0159
+DYF         C01         H27      SINGLE       n     1.089  0.0100     0.973  0.0146
+DYF         C01         H28      SINGLE       n     1.089  0.0100     0.973  0.0146
+DYF         C01         H29      SINGLE       n     1.089  0.0100     0.973  0.0146
+DYF         C03         H30      SINGLE       n     1.089  0.0100     0.973  0.0146
+DYF         C03         H31      SINGLE       n     1.089  0.0100     0.973  0.0146
+DYF         C03         H32      SINGLE       n     1.089  0.0100     0.973  0.0146
+DYF         C04         H33      SINGLE       n     1.089  0.0100     0.978  0.0102
+DYF         C04         H34      SINGLE       n     1.089  0.0100     0.978  0.0102
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -167,123 +167,122 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DYF C28 C29 C30 114.362 3.00
-DYF C28 C29 H1  108.698 1.50
-DYF C28 C29 H2  108.698 1.50
-DYF C30 C29 H1  108.653 1.50
-DYF C30 C29 H2  108.653 1.50
-DYF H1  C29 H2  107.646 1.50
-DYF C25 C26 C27 125.879 2.56
-DYF C25 C26 H3  117.170 2.02
-DYF C27 C26 H3  116.963 1.61
-DYF C23 C25 C26 123.345 3.00
-DYF C23 C25 H4  118.284 2.13
-DYF C26 C25 H4  118.371 2.29
-DYF C20 C21 N22 111.385 1.50
-DYF C20 C21 H5  109.342 1.50
-DYF C20 C21 H6  109.342 1.50
-DYF N22 C21 H5  109.265 1.50
-DYF N22 C21 H6  109.265 1.50
-DYF H5  C21 H6  107.909 1.50
-DYF O18 C17 N19 121.943 1.50
-DYF O18 C17 C16 120.987 1.50
-DYF N19 C17 C16 117.070 1.96
-DYF C10 O11 H7  108.894 3.00
-DYF C23 N22 C21 122.894 1.50
-DYF C23 N22 H8  118.722 1.93
-DYF C21 N22 H8  118.385 2.02
-DYF C12 C10 O11 109.850 1.55
-DYF C12 C10 C02 111.511 2.91
-DYF C12 C10 H9  108.529 1.70
-DYF O11 C10 C02 109.482 3.00
-DYF O11 C10 H9  108.675 1.50
-DYF C02 C10 H9  107.825 1.50
-DYF C20 N19 C17 123.475 1.50
-DYF C20 N19 H10 118.815 2.02
-DYF C17 N19 H10 117.710 2.10
-DYF C29 C30 C31 113.719 3.00
-DYF C29 C30 H11 108.758 1.50
-DYF C29 C30 H12 108.758 1.50
-DYF C31 C30 H11 108.918 1.50
-DYF C31 C30 H12 108.918 1.50
-DYF H11 C30 H12 107.763 1.50
-DYF C30 C31 H13 109.554 1.50
-DYF C30 C31 H14 109.554 1.50
-DYF C30 C31 H15 109.554 1.50
-DYF H13 C31 H14 109.380 1.50
-DYF H13 C31 H15 109.380 1.50
-DYF H14 C31 H15 109.380 1.50
-DYF C15 N14 C12 122.964 1.80
-DYF C15 N14 H16 118.351 1.90
-DYF C12 N14 H16 118.685 1.94
-DYF C27 C28 C29 114.266 1.80
-DYF C27 C28 H17 108.805 1.50
-DYF C27 C28 H18 108.805 1.50
-DYF C29 C28 H17 108.698 1.50
-DYF C29 C28 H18 108.698 1.50
-DYF H17 C28 H18 107.646 1.50
-DYF C26 C27 C28 113.226 1.94
-DYF C26 C27 H19 108.886 1.50
-DYF C26 C27 H20 108.886 1.50
-DYF C28 C27 H19 108.819 1.50
-DYF C28 C27 H20 108.819 1.50
-DYF H19 C27 H20 107.922 1.50
-DYF O24 C23 N22 122.124 1.50
-DYF O24 C23 C25 122.369 1.94
-DYF N22 C23 C25 115.507 1.50
-DYF C21 C20 N19 111.385 1.50
-DYF C21 C20 H21 109.342 1.50
-DYF C21 C20 H22 109.342 1.50
-DYF N19 C20 H21 109.265 1.50
-DYF N19 C20 H22 109.265 1.50
-DYF H21 C20 H22 107.909 1.50
-DYF C17 C16 C15 112.120 2.79
-DYF C17 C16 H23 108.945 1.50
-DYF C17 C16 H24 108.945 1.50
-DYF C15 C16 H23 109.432 1.50
-DYF C15 C16 H24 109.432 1.50
-DYF H23 C16 H24 107.745 2.07
-DYF C16 C15 N14 112.257 1.50
-DYF C16 C15 H25 108.971 1.50
-DYF C16 C15 H26 108.971 1.50
-DYF N14 C15 H25 108.979 1.50
-DYF N14 C15 H26 108.979 1.50
-DYF H25 C15 H26 107.877 1.50
-DYF O13 C12 N14 122.985 1.50
-DYF O13 C12 C10 119.851 1.78
-DYF N14 C12 C10 117.147 1.50
-DYF C02 C01 H27 109.575 1.50
-DYF C02 C01 H28 109.575 1.50
-DYF C02 C01 H29 109.575 1.50
-DYF H27 C01 H28 109.377 1.50
-DYF H27 C01 H29 109.377 1.50
-DYF H28 C01 H29 109.377 1.50
-DYF C10 C02 C03 109.534 1.52
-DYF C10 C02 C01 109.534 1.52
-DYF C10 C02 C04 111.094 2.85
-DYF C03 C02 C01 108.765 1.50
-DYF C03 C02 C04 109.385 1.50
-DYF C01 C02 C04 109.385 1.50
-DYF C02 C03 H30 109.575 1.50
-DYF C02 C03 H31 109.575 1.50
-DYF C02 C03 H32 109.575 1.50
-DYF H30 C03 H31 109.377 1.50
-DYF H30 C03 H32 109.377 1.50
-DYF H31 C03 H32 109.377 1.50
-DYF C02 C04 O05 108.435 1.69
-DYF C02 C04 H33 109.473 1.50
-DYF C02 C04 H34 109.473 1.50
-DYF O05 C04 H33 109.739 1.50
-DYF O05 C04 H34 109.739 1.50
-DYF H33 C04 H34 108.108 1.50
-DYF P06 O05 C04 118.671 1.50
-DYF O08 P06 O09 112.864 1.69
-DYF O08 P06 O05 105.795 2.09
-DYF O08 P06 O07 112.864 1.69
-DYF O09 P06 O05 105.795 2.09
-DYF O09 P06 O07 112.864 1.69
-DYF O05 P06 O07 105.795 2.09
-
+DYF         C28         C29         C30     114.362    3.00
+DYF         C28         C29          H1     108.698    1.50
+DYF         C28         C29          H2     108.698    1.50
+DYF         C30         C29          H1     108.653    1.50
+DYF         C30         C29          H2     108.653    1.50
+DYF          H1         C29          H2     107.646    1.50
+DYF         C25         C26         C27     125.879    2.56
+DYF         C25         C26          H3     117.170    2.02
+DYF         C27         C26          H3     116.963    1.61
+DYF         C23         C25         C26     123.345    3.00
+DYF         C23         C25          H4     118.284    2.13
+DYF         C26         C25          H4     118.371    2.29
+DYF         C20         C21         N22     111.385    1.50
+DYF         C20         C21          H5     109.342    1.50
+DYF         C20         C21          H6     109.342    1.50
+DYF         N22         C21          H5     109.265    1.50
+DYF         N22         C21          H6     109.265    1.50
+DYF          H5         C21          H6     107.909    1.50
+DYF         O18         C17         N19     121.943    1.50
+DYF         O18         C17         C16     120.987    1.50
+DYF         N19         C17         C16     117.070    1.96
+DYF         C10         O11          H7     108.894    3.00
+DYF         C23         N22         C21     122.894    1.50
+DYF         C23         N22          H8     118.722    1.93
+DYF         C21         N22          H8     118.385    2.02
+DYF         C12         C10         O11     109.850    1.55
+DYF         C12         C10         C02     111.511    2.91
+DYF         C12         C10          H9     108.529    1.70
+DYF         O11         C10         C02     109.482    3.00
+DYF         O11         C10          H9     108.675    1.50
+DYF         C02         C10          H9     107.825    1.50
+DYF         C20         N19         C17     123.475    1.50
+DYF         C20         N19         H10     118.815    2.02
+DYF         C17         N19         H10     117.710    2.10
+DYF         C29         C30         C31     113.719    3.00
+DYF         C29         C30         H11     108.758    1.50
+DYF         C29         C30         H12     108.758    1.50
+DYF         C31         C30         H11     108.918    1.50
+DYF         C31         C30         H12     108.918    1.50
+DYF         H11         C30         H12     107.763    1.50
+DYF         C30         C31         H13     109.554    1.50
+DYF         C30         C31         H14     109.554    1.50
+DYF         C30         C31         H15     109.554    1.50
+DYF         H13         C31         H14     109.380    1.50
+DYF         H13         C31         H15     109.380    1.50
+DYF         H14         C31         H15     109.380    1.50
+DYF         C15         N14         C12     122.964    1.80
+DYF         C15         N14         H16     118.351    1.90
+DYF         C12         N14         H16     118.685    1.94
+DYF         C27         C28         C29     114.266    1.80
+DYF         C27         C28         H17     108.805    1.50
+DYF         C27         C28         H18     108.805    1.50
+DYF         C29         C28         H17     108.698    1.50
+DYF         C29         C28         H18     108.698    1.50
+DYF         H17         C28         H18     107.646    1.50
+DYF         C26         C27         C28     113.226    1.94
+DYF         C26         C27         H19     108.886    1.50
+DYF         C26         C27         H20     108.886    1.50
+DYF         C28         C27         H19     108.819    1.50
+DYF         C28         C27         H20     108.819    1.50
+DYF         H19         C27         H20     107.922    1.50
+DYF         O24         C23         N22     122.124    1.50
+DYF         O24         C23         C25     122.369    1.94
+DYF         N22         C23         C25     115.507    1.50
+DYF         C21         C20         N19     111.385    1.50
+DYF         C21         C20         H21     109.342    1.50
+DYF         C21         C20         H22     109.342    1.50
+DYF         N19         C20         H21     109.265    1.50
+DYF         N19         C20         H22     109.265    1.50
+DYF         H21         C20         H22     107.909    1.50
+DYF         C17         C16         C15     112.120    2.79
+DYF         C17         C16         H23     108.945    1.50
+DYF         C17         C16         H24     108.945    1.50
+DYF         C15         C16         H23     109.432    1.50
+DYF         C15         C16         H24     109.432    1.50
+DYF         H23         C16         H24     107.745    2.07
+DYF         C16         C15         N14     112.257    1.50
+DYF         C16         C15         H25     108.971    1.50
+DYF         C16         C15         H26     108.971    1.50
+DYF         N14         C15         H25     108.979    1.50
+DYF         N14         C15         H26     108.979    1.50
+DYF         H25         C15         H26     107.877    1.50
+DYF         O13         C12         N14     122.985    1.50
+DYF         O13         C12         C10     119.851    1.78
+DYF         N14         C12         C10     117.147    1.50
+DYF         C02         C01         H27     109.575    1.50
+DYF         C02         C01         H28     109.575    1.50
+DYF         C02         C01         H29     109.575    1.50
+DYF         H27         C01         H28     109.377    1.50
+DYF         H27         C01         H29     109.377    1.50
+DYF         H28         C01         H29     109.377    1.50
+DYF         C10         C02         C03     109.534    1.52
+DYF         C10         C02         C01     109.534    1.52
+DYF         C10         C02         C04     111.094    2.85
+DYF         C03         C02         C01     108.765    1.50
+DYF         C03         C02         C04     109.385    1.50
+DYF         C01         C02         C04     109.385    1.50
+DYF         C02         C03         H30     109.575    1.50
+DYF         C02         C03         H31     109.575    1.50
+DYF         C02         C03         H32     109.575    1.50
+DYF         H30         C03         H31     109.377    1.50
+DYF         H30         C03         H32     109.377    1.50
+DYF         H31         C03         H32     109.377    1.50
+DYF         C02         C04         O05     108.435    1.69
+DYF         C02         C04         H33     109.473    1.50
+DYF         C02         C04         H34     109.473    1.50
+DYF         O05         C04         H33     109.739    1.50
+DYF         O05         C04         H34     109.739    1.50
+DYF         H33         C04         H34     108.108    1.50
+DYF         P06         O05         C04     118.671    1.50
+DYF         O08         P06         O09     112.864    1.69
+DYF         O08         P06         O05     105.795    2.09
+DYF         O08         P06         O07     112.864    1.69
+DYF         O09         P06         O05     105.795    2.09
+DYF         O09         P06         O07     112.864    1.69
+DYF         O05         P06         O07     105.795    2.09
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -294,31 +293,30 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DYF sp3_sp3_37 C28 C29 C30 C31 180.000 10.0 3
-DYF sp3_sp3_28 C27 C28 C29 C30 180.000 10.0 3
-DYF sp3_sp3_46 C29 C30 C31 H13 180.000 10.0 3
-DYF sp2_sp3_26 C12 N14 C15 C16 120.000 10.0 6
-DYF sp2_sp2_19 O13 C12 N14 C15 0.000   5.0  2
-DYF sp3_sp3_10 C26 C27 C28 C29 180.000 10.0 3
-DYF sp3_sp3_19 N14 C15 C16 C17 180.000 10.0 3
-DYF sp2_sp3_20 C25 C26 C27 C28 120.000 10.0 6
-DYF sp2_sp2_13 C23 C25 C26 C27 180.000 5.0  2
-DYF sp3_sp3_76 H27 C01 C02 C10 180.000 10.0 3
-DYF sp3_sp3_70 C10 C02 C03 H30 60.000  10.0 3
-DYF sp3_sp3_85 C10 C02 C04 O05 180.000 10.0 3
-DYF sp3_sp3_97 C02 C04 O05 P06 180.000 10.0 3
-DYF sp3_sp3_96 C04 O05 P06 O08 60.000  10.0 3
-DYF sp2_sp2_7  O24 C23 C25 C26 0.000   5.0  2
-DYF sp3_sp3_1  N19 C20 C21 N22 180.000 10.0 3
-DYF sp2_sp3_8  C23 N22 C21 C20 120.000 10.0 6
-DYF sp2_sp3_14 O18 C17 C16 C15 120.000 10.0 6
-DYF sp2_sp2_11 O18 C17 N19 C20 0.000   5.0  2
-DYF sp3_sp3_55 C12 C10 O11 H7  180.000 10.0 3
-DYF sp2_sp2_3  O24 C23 N22 C21 0.000   5.0  2
-DYF sp2_sp3_31 O13 C12 C10 O11 0.000   10.0 6
-DYF sp3_sp3_58 C03 C02 C10 C12 180.000 10.0 3
-DYF sp2_sp3_2  C17 N19 C20 C21 120.000 10.0 6
-
+DYF            sp3_sp3_37         C28         C29         C30         C31     180.000    10.0     3
+DYF            sp3_sp3_28         C27         C28         C29         C30     180.000    10.0     3
+DYF            sp3_sp3_46         C29         C30         C31         H13     180.000    10.0     3
+DYF            sp2_sp3_26         C12         N14         C15         C16     120.000    10.0     6
+DYF            sp2_sp2_19         O13         C12         N14         C15       0.000     5.0     2
+DYF            sp3_sp3_10         C26         C27         C28         C29     180.000    10.0     3
+DYF            sp3_sp3_19         N14         C15         C16         C17     180.000    10.0     3
+DYF            sp2_sp3_20         C25         C26         C27         C28     120.000    10.0     6
+DYF            sp2_sp2_13         C23         C25         C26         C27     180.000     5.0     2
+DYF            sp3_sp3_76         H27         C01         C02         C10     180.000    10.0     3
+DYF            sp3_sp3_70         C10         C02         C03         H30      60.000    10.0     3
+DYF            sp3_sp3_85         C10         C02         C04         O05     180.000    10.0     3
+DYF            sp3_sp3_97         C02         C04         O05         P06     180.000    10.0     3
+DYF            sp3_sp3_96         C04         O05         P06         O08      60.000    10.0     3
+DYF             sp2_sp2_7         O24         C23         C25         C26       0.000     5.0     2
+DYF             sp3_sp3_1         N19         C20         C21         N22     180.000    10.0     3
+DYF             sp2_sp3_8         C23         N22         C21         C20     120.000    10.0     6
+DYF            sp2_sp3_14         O18         C17         C16         C15     120.000    10.0     6
+DYF            sp2_sp2_11         O18         C17         N19         C20       0.000     5.0     2
+DYF            sp3_sp3_55         C12         C10         O11          H7     180.000    10.0     3
+DYF             sp2_sp2_3         O24         C23         N22         C21       0.000     5.0     2
+DYF            sp2_sp3_31         O13         C12         C10         O11       0.000    10.0     6
+DYF            sp3_sp3_58         C03         C02         C10         C12     180.000    10.0     3
+DYF             sp2_sp3_2         C17         N19         C20         C21     120.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -327,83 +325,64 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DYF chir_1 C10 O11 C12 C02 negative
-DYF chir_2 C02 C10 C04 C03 both
-DYF chir_3 P06 O05 O09 O07 both
-
+DYF    chir_1    C10    O11    C12    C02    negative
+DYF    chir_2    C02    C10    C04    C03    both
+DYF    chir_3    P06    O05    O09    O07    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DYF plan-1 C25 0.020
-DYF plan-1 C26 0.020
-DYF plan-1 C27 0.020
-DYF plan-1 H3  0.020
-DYF plan-2 C23 0.020
-DYF plan-2 C25 0.020
-DYF plan-2 C26 0.020
-DYF plan-2 H4  0.020
-DYF plan-3 C16 0.020
-DYF plan-3 C17 0.020
-DYF plan-3 N19 0.020
-DYF plan-3 O18 0.020
-DYF plan-4 C21 0.020
-DYF plan-4 C23 0.020
-DYF plan-4 H8  0.020
-DYF plan-4 N22 0.020
-DYF plan-5 C17 0.020
-DYF plan-5 C20 0.020
-DYF plan-5 H10 0.020
-DYF plan-5 N19 0.020
-DYF plan-6 C12 0.020
-DYF plan-6 C15 0.020
-DYF plan-6 H16 0.020
-DYF plan-6 N14 0.020
-DYF plan-7 C23 0.020
-DYF plan-7 C25 0.020
-DYF plan-7 N22 0.020
-DYF plan-7 O24 0.020
-DYF plan-8 C10 0.020
-DYF plan-8 C12 0.020
-DYF plan-8 N14 0.020
-DYF plan-8 O13 0.020
-
+DYF    plan-1         C25   0.020
+DYF    plan-1         C26   0.020
+DYF    plan-1         C27   0.020
+DYF    plan-1          H3   0.020
+DYF    plan-2         C23   0.020
+DYF    plan-2         C25   0.020
+DYF    plan-2         C26   0.020
+DYF    plan-2          H4   0.020
+DYF    plan-3         C16   0.020
+DYF    plan-3         C17   0.020
+DYF    plan-3         N19   0.020
+DYF    plan-3         O18   0.020
+DYF    plan-4         C21   0.020
+DYF    plan-4         C23   0.020
+DYF    plan-4          H8   0.020
+DYF    plan-4         N22   0.020
+DYF    plan-5         C17   0.020
+DYF    plan-5         C20   0.020
+DYF    plan-5         H10   0.020
+DYF    plan-5         N19   0.020
+DYF    plan-6         C12   0.020
+DYF    plan-6         C15   0.020
+DYF    plan-6         H16   0.020
+DYF    plan-6         N14   0.020
+DYF    plan-7         C23   0.020
+DYF    plan-7         C25   0.020
+DYF    plan-7         N22   0.020
+DYF    plan-7         O24   0.020
+DYF    plan-8         C10   0.020
+DYF    plan-8         C12   0.020
+DYF    plan-8         N14   0.020
+DYF    plan-8         O13   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DYF InChI            InChI                1.03  InChI=1S/C19H36N3O8P/c1-4-5-6-7-8-9-15(23)20-12-13-21-16(24)10-11-22-18(26)17(25)19(2,3)14-30-31(27,28)29/h8-9,17,25H,4-7,10-14H2,1-3H3,(H,20,23)(H,21,24)(H,22,26)(H2,27,28,29)/b9-8+/t17-/m0/s1
-DYF InChIKey         InChI                1.03  KFHBREMVHHVYJE-IJDCCNJMSA-N
-DYF SMILES_CANONICAL CACTVS               3.385 CCCCC\C=C\C(=O)NCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)CO[P](O)(O)=O
-DYF SMILES           CACTVS               3.385 CCCCCC=CC(=O)NCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(O)=O
-DYF SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 CCCCC/C=C/C(=O)NCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)O)O
-DYF SMILES           "OpenEye OEToolkits" 2.0.7 CCCCCC=CC(=O)NCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)O)O
-
+DYF            InChI                InChI  1.03 InChI=1S/C19H36N3O8P/c1-4-5-6-7-8-9-15(23)20-12-13-21-16(24)10-11-22-18(26)17(25)19(2,3)14-30-31(27,28)29/h8-9,17,25H,4-7,10-14H2,1-3H3,(H,20,23)(H,21,24)(H,22,26)(H2,27,28,29)/b9-8+/t17-/m0/s1
+DYF         InChIKey                InChI  1.03                                                                                                                                                                       KFHBREMVHHVYJE-IJDCCNJMSA-N
+DYF SMILES_CANONICAL               CACTVS 3.385                                                                                                                                      CCCCC\C=C\C(=O)NCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)CO[P](O)(O)=O
+DYF           SMILES               CACTVS 3.385                                                                                                                                         CCCCCC=CC(=O)NCCNC(=O)CCNC(=O)[CH](O)C(C)(C)CO[P](O)(O)=O
+DYF SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7                                                                                                                                       CCCCC/C=C/C(=O)NCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)O)O
+DYF           SMILES "OpenEye OEToolkits" 2.0.7                                                                                                                                              CCCCCC=CC(=O)NCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DYF acedrg          243       "dictionary generator"
-DYF acedrg_database 11        "data source"
-DYF rdkit           2017.03.2 "Chemoinformatics tool"
-DYF refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-DYF DNA/RNA O07 OP3
-DYF DNA/RNA P06 P
-DYF DNA/RNA O08 OP1
-DYF DNA/RNA O09 OP2
-DYF DNA/RNA O05 O5'
-DYF DNA/RNA C04 C5'
-DYF DNA/RNA C02 C4'
-DYF DNA/RNA C10 C3'
-DYF DNA/RNA O11 O3'
-DYF DNA/RNA H7  HO3'
+DYF acedrg               243         "dictionary generator"                  
+DYF acedrg_database      11          "data source"                           
+DYF rdkit                2017.03.2   "Chemoinformatics tool"
+DYF refmac5              5.8.0238    "optimization tool"                     

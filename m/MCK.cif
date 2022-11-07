@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-MCK MCK N-[(2,3-dihydroxyphenyl)carbonyl]-O-[(2S)-2-{[(2,3-dihydroxyphenyl)carbonyl]amino}-3-(L-seryloxy)propanoyl]-L-serine NON-POLYMER 64 39 .
-
+MCK     MCK      N-[(2,3-dihydroxyphenyl)carbonyl]-O-[(2S)-2-{[(2,3-dihydroxyphenyl)carbonyl]amino}-3-(L-seryloxy)propanoyl]-L-serine     NON-POLYMER     64     39     .     
+#
 data_comp_MCK
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,71 +21,70 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-MCK C1   C CR6  0  51.993 40.456 43.355
-MCK C2   C CR6  0  51.699 39.172 43.844
-MCK C3   C CR6  0  51.221 39.007 45.149
-MCK C4   C CR16 0  51.045 40.111 45.966
-MCK C5   C CR16 0  51.346 41.388 45.488
-MCK C6   C CR16 0  51.814 41.551 44.213
-MCK C7   C C    0  52.520 40.646 41.975
-MCK O8   O O    0  53.600 41.216 41.819
-MCK N9   N NH1  0  51.836 40.075 40.970
-MCK O10  O OH1  0  51.867 38.063 43.046
-MCK O11  O OH1  0  50.919 37.755 45.631
-MCK C12  C CH1  0  52.435 39.777 39.669
-MCK C13  C C    0  51.448 39.934 38.513
-MCK C14  C CH2  0  53.032 38.370 39.672
-MCK O15  O O2   0  52.099 37.430 40.270
-MCK O16  O O    0  51.705 39.604 37.381
-MCK O17  O O2   0  50.310 40.514 38.901
-MCK C18  C CH2  0  49.206 40.678 37.964
-MCK C19  C CH1  0  48.304 39.444 37.968
-MCK N20  N NT1  0  48.196 38.918 39.320
-MCK C21  C C    0  48.785 38.398 36.943
-MCK O22  O O    0  48.636 38.683 35.738
-MCK O23  O OC   -1 49.280 37.343 37.381
-MCK C24  C C    0  52.025 36.195 39.773
-MCK O25  O O    0  51.139 35.794 39.067
-MCK C26  C CH1  0  53.188 35.313 40.205
-MCK N27  N NT3  1  54.310 35.473 39.238
-MCK C28  C CH2  0  53.639 35.582 41.627
-MCK C29  C C    0  47.385 39.481 40.238
-MCK O30  O O    0  46.553 40.343 39.950
-MCK C31  C CR6  0  47.580 39.094 41.663
-MCK C32  C CR6  0  47.698 37.756 42.075
-MCK C33  C CR6  0  47.882 37.452 43.430
-MCK C34  C CR16 0  47.943 38.470 44.366
-MCK C35  C CR16 0  47.824 39.801 43.960
-MCK C36  C CR16 0  47.647 40.100 42.639
-MCK O37  O OH1  0  47.641 36.736 41.153
-MCK O38  O OH1  0  48.002 36.146 43.843
-MCK O45  O OH1  0  54.496 34.548 42.087
-MCK H4   H H    0  50.721 39.997 46.843
-MCK H5   H H    0  51.226 42.134 46.044
-MCK H6   H H    0  52.014 42.415 43.899
-MCK HN9  H H    0  50.995 39.873 41.091
-MCK HO10 H H    0  51.250 37.464 43.007
-MCK HO11 H H    0  51.168 37.528 46.424
-MCK H12  H H    0  53.176 40.415 39.507
-MCK H14  H H    0  53.865 38.371 40.190
-MCK H14A H H    0  53.249 38.093 38.756
-MCK H18  H H    0  49.548 40.842 37.059
-MCK H18A H H    0  48.678 41.461 38.227
-MCK H19  H H    0  47.403 39.735 37.676
-MCK HN20 H H    0  48.850 38.419 39.571
-MCK H26  H H    0  52.885 34.367 40.156
-MCK HN27 H H    0  54.859 34.748 39.286
-MCK HN2A H H    0  54.791 36.219 39.435
-MCK H29  H H    0  53.985 35.539 38.388
-MCK H28  H H    0  52.851 35.640 42.214
-MCK H28A H H    0  54.114 36.443 41.667
-MCK H34  H H    0  48.066 38.263 45.277
-MCK H35  H H    0  47.866 40.489 44.597
-MCK H36  H H    0  47.567 40.999 42.374
-MCK HO37 H H    0  47.220 36.008 41.338
-MCK HO38 H H    0  47.691 35.905 44.609
-MCK HO45 H H    0  54.957 34.846 42.731
-
+MCK     C1      C       CR6     0       51.993      40.456      43.355      
+MCK     C2      C       CR6     0       51.699      39.172      43.844      
+MCK     C3      C       CR6     0       51.221      39.007      45.149      
+MCK     C4      C       CR16    0       51.045      40.111      45.966      
+MCK     C5      C       CR16    0       51.346      41.388      45.488      
+MCK     C6      C       CR16    0       51.814      41.551      44.213      
+MCK     C7      C       C       0       52.520      40.646      41.975      
+MCK     O8      O       O       0       53.600      41.216      41.819      
+MCK     N9      N       NH1     0       51.836      40.075      40.970      
+MCK     O10     O       OH1     0       51.867      38.063      43.046      
+MCK     O11     O       OH1     0       50.919      37.755      45.631      
+MCK     C12     C       CH1     0       52.435      39.777      39.669      
+MCK     C13     C       C       0       51.448      39.934      38.513      
+MCK     C14     C       CH2     0       53.032      38.370      39.672      
+MCK     O15     O       O2      0       52.099      37.430      40.270      
+MCK     O16     O       O       0       51.705      39.604      37.381      
+MCK     O17     O       O2      0       50.310      40.514      38.901      
+MCK     C18     C       CH2     0       49.206      40.678      37.964      
+MCK     C19     C       CH1     0       48.304      39.444      37.968      
+MCK     N20     N       NT1     0       48.196      38.918      39.320      
+MCK     C21     C       C       0       48.785      38.398      36.943      
+MCK     O22     O       O       0       48.636      38.683      35.738      
+MCK     O23     O       OC      -1      49.280      37.343      37.381      
+MCK     C24     C       C       0       52.025      36.195      39.773      
+MCK     O25     O       O       0       51.139      35.794      39.067      
+MCK     C26     C       CH1     0       53.188      35.313      40.205      
+MCK     N27     N       NT3     1       54.310      35.473      39.238      
+MCK     C28     C       CH2     0       53.639      35.582      41.627      
+MCK     C29     C       C       0       47.385      39.481      40.238      
+MCK     O30     O       O       0       46.553      40.343      39.950      
+MCK     C31     C       CR6     0       47.580      39.094      41.663      
+MCK     C32     C       CR6     0       47.698      37.756      42.075      
+MCK     C33     C       CR6     0       47.882      37.452      43.430      
+MCK     C34     C       CR16    0       47.943      38.470      44.366      
+MCK     C35     C       CR16    0       47.824      39.801      43.960      
+MCK     C36     C       CR16    0       47.647      40.100      42.639      
+MCK     O37     O       OH1     0       47.641      36.736      41.153      
+MCK     O38     O       OH1     0       48.002      36.146      43.843      
+MCK     O45     O       OH1     0       54.496      34.548      42.087      
+MCK     H4      H       H       0       50.721      39.997      46.843      
+MCK     H5      H       H       0       51.226      42.134      46.044      
+MCK     H6      H       H       0       52.014      42.415      43.899      
+MCK     HN9     H       H       0       50.995      39.873      41.091      
+MCK     HO10    H       H       0       51.250      37.464      43.007      
+MCK     HO11    H       H       0       51.168      37.528      46.424      
+MCK     H12     H       H       0       53.176      40.415      39.507      
+MCK     H14     H       H       0       53.865      38.371      40.190      
+MCK     H14A    H       H       0       53.249      38.093      38.756      
+MCK     H18     H       H       0       49.548      40.842      37.059      
+MCK     H18A    H       H       0       48.678      41.461      38.227      
+MCK     H19     H       H       0       47.403      39.735      37.676      
+MCK     HN20    H       H       0       48.850      38.419      39.571      
+MCK     H26     H       H       0       52.885      34.367      40.156      
+MCK     HN27    H       H       0       54.859      34.748      39.286      
+MCK     HN2A    H       H       0       54.791      36.219      39.435      
+MCK     H29     H       H       0       53.985      35.539      38.388      
+MCK     H28     H       H       0       52.851      35.640      42.214      
+MCK     H28A    H       H       0       54.114      36.443      41.667      
+MCK     H34     H       H       0       48.066      38.263      45.277      
+MCK     H35     H       H       0       47.866      40.489      44.597      
+MCK     H36     H       H       0       47.567      40.999      42.374      
+MCK     HO37    H       H       0       47.220      36.008      41.338      
+MCK     HO38    H       H       0       47.691      35.905      44.609      
+MCK     HO45    H       H       0       54.957      34.846      42.731      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -94,72 +95,71 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-MCK C1  C7   SINGLE n 1.487 0.0100 1.487 0.0100
-MCK C1  C2   DOUBLE y 1.399 0.0100 1.399 0.0100
-MCK C1  C6   SINGLE y 1.399 0.0100 1.399 0.0100
-MCK C2  O10  SINGLE n 1.374 0.0155 1.374 0.0155
-MCK C2  C3   SINGLE y 1.395 0.0100 1.395 0.0100
-MCK C3  O11  SINGLE n 1.374 0.0155 1.374 0.0155
-MCK C3  C4   DOUBLE y 1.381 0.0100 1.381 0.0100
-MCK C4  C5   SINGLE y 1.393 0.0103 1.393 0.0103
-MCK C5  C6   DOUBLE y 1.364 0.0110 1.364 0.0110
-MCK C7  N9   SINGLE n 1.337 0.0101 1.337 0.0101
-MCK C7  O8   DOUBLE n 1.230 0.0114 1.230 0.0114
-MCK N9  C12  SINGLE n 1.456 0.0100 1.456 0.0100
-MCK C12 C13  SINGLE n 1.522 0.0100 1.522 0.0100
-MCK C12 C14  SINGLE n 1.525 0.0102 1.525 0.0102
-MCK C13 O16  DOUBLE n 1.203 0.0150 1.203 0.0150
-MCK C13 O17  SINGLE n 1.328 0.0119 1.328 0.0119
-MCK C14 O15  SINGLE n 1.450 0.0103 1.450 0.0103
-MCK O15 C24  SINGLE n 1.328 0.0119 1.328 0.0119
-MCK O17 C18  SINGLE n 1.450 0.0103 1.450 0.0103
-MCK C18 C19  SINGLE n 1.525 0.0102 1.525 0.0102
-MCK C19 C21  SINGLE n 1.539 0.0100 1.539 0.0100
-MCK C19 N20  SINGLE n 1.451 0.0100 1.451 0.0100
-MCK N20 C29  SINGLE n 1.343 0.0100 1.343 0.0100
-MCK C21 O22  DOUBLE n 1.247 0.0187 1.247 0.0187
-MCK C21 O23  SINGLE n 1.247 0.0187 1.247 0.0187
-MCK C24 C26  SINGLE n 1.517 0.0100 1.517 0.0100
-MCK C24 O25  DOUBLE n 1.203 0.0150 1.203 0.0150
-MCK C26 N27  SINGLE n 1.487 0.0100 1.487 0.0100
-MCK C26 C28  SINGLE n 1.507 0.0177 1.507 0.0177
-MCK C28 O45  SINGLE n 1.420 0.0140 1.420 0.0140
-MCK C29 O30  DOUBLE n 1.230 0.0114 1.230 0.0114
-MCK C29 C31  SINGLE n 1.487 0.0100 1.487 0.0100
-MCK C31 C32  DOUBLE y 1.399 0.0100 1.399 0.0100
-MCK C31 C36  SINGLE y 1.399 0.0100 1.399 0.0100
-MCK C32 O37  SINGLE n 1.374 0.0155 1.374 0.0155
-MCK C32 C33  SINGLE y 1.395 0.0100 1.395 0.0100
-MCK C33 O38  SINGLE n 1.374 0.0155 1.374 0.0155
-MCK C33 C34  DOUBLE y 1.381 0.0100 1.381 0.0100
-MCK C34 C35  SINGLE y 1.393 0.0103 1.393 0.0103
-MCK C35 C36  DOUBLE y 1.364 0.0110 1.364 0.0110
-MCK C4  H4   SINGLE n 1.082 0.0130 0.942 0.0174
-MCK C5  H5   SINGLE n 1.082 0.0130 0.938 0.0149
-MCK C6  H6   SINGLE n 1.082 0.0130 0.941 0.0168
-MCK N9  HN9  SINGLE n 1.016 0.0100 0.872 0.0200
-MCK O10 HO10 SINGLE n 0.966 0.0059 0.861 0.0200
-MCK O11 HO11 SINGLE n 0.966 0.0059 0.861 0.0200
-MCK C12 H12  SINGLE n 1.089 0.0100 0.991 0.0123
-MCK C14 H14  SINGLE n 1.089 0.0100 0.981 0.0100
-MCK C14 H14A SINGLE n 1.089 0.0100 0.981 0.0100
-MCK C18 H18  SINGLE n 1.089 0.0100 0.981 0.0100
-MCK C18 H18A SINGLE n 1.089 0.0100 0.981 0.0100
-MCK C19 H19  SINGLE n 1.089 0.0100 0.991 0.0123
-MCK N20 HN20 SINGLE n 1.016 0.0100 0.859 0.0200
-MCK C26 H26  SINGLE n 1.089 0.0100 0.995 0.0200
-MCK N27 HN27 SINGLE n 1.036 0.0160 0.911 0.0200
-MCK N27 HN2A SINGLE n 1.036 0.0160 0.911 0.0200
-MCK N27 H29  SINGLE n 1.036 0.0160 0.911 0.0200
-MCK C28 H28  SINGLE n 1.089 0.0100 0.984 0.0200
-MCK C28 H28A SINGLE n 1.089 0.0100 0.984 0.0200
-MCK C34 H34  SINGLE n 1.082 0.0130 0.942 0.0174
-MCK C35 H35  SINGLE n 1.082 0.0130 0.938 0.0149
-MCK C36 H36  SINGLE n 1.082 0.0130 0.941 0.0168
-MCK O37 HO37 SINGLE n 0.966 0.0059 0.861 0.0200
-MCK O38 HO38 SINGLE n 0.966 0.0059 0.861 0.0200
-MCK O45 HO45 SINGLE n 0.970 0.0120 0.846 0.0200
-
+MCK          C1          C7      SINGLE       n     1.487  0.0100     1.487  0.0100
+MCK          C1          C2      DOUBLE       y     1.399  0.0100     1.399  0.0100
+MCK          C1          C6      SINGLE       y     1.399  0.0100     1.399  0.0100
+MCK          C2         O10      SINGLE       n     1.374  0.0155     1.374  0.0155
+MCK          C2          C3      SINGLE       y     1.395  0.0100     1.395  0.0100
+MCK          C3         O11      SINGLE       n     1.374  0.0155     1.374  0.0155
+MCK          C3          C4      DOUBLE       y     1.381  0.0100     1.381  0.0100
+MCK          C4          C5      SINGLE       y     1.393  0.0103     1.393  0.0103
+MCK          C5          C6      DOUBLE       y     1.364  0.0110     1.364  0.0110
+MCK          C7          N9      SINGLE       n     1.337  0.0101     1.337  0.0101
+MCK          C7          O8      DOUBLE       n     1.230  0.0114     1.230  0.0114
+MCK          N9         C12      SINGLE       n     1.456  0.0100     1.456  0.0100
+MCK         C12         C13      SINGLE       n     1.522  0.0100     1.522  0.0100
+MCK         C12         C14      SINGLE       n     1.525  0.0102     1.525  0.0102
+MCK         C13         O16      DOUBLE       n     1.203  0.0150     1.203  0.0150
+MCK         C13         O17      SINGLE       n     1.328  0.0119     1.328  0.0119
+MCK         C14         O15      SINGLE       n     1.450  0.0103     1.450  0.0103
+MCK         O15         C24      SINGLE       n     1.328  0.0119     1.328  0.0119
+MCK         O17         C18      SINGLE       n     1.450  0.0103     1.450  0.0103
+MCK         C18         C19      SINGLE       n     1.525  0.0102     1.525  0.0102
+MCK         C19         C21      SINGLE       n     1.539  0.0100     1.539  0.0100
+MCK         C19         N20      SINGLE       n     1.451  0.0100     1.451  0.0100
+MCK         N20         C29      SINGLE       n     1.343  0.0100     1.343  0.0100
+MCK         C21         O22      DOUBLE       n     1.247  0.0187     1.247  0.0187
+MCK         C21         O23      SINGLE       n     1.247  0.0187     1.247  0.0187
+MCK         C24         C26      SINGLE       n     1.517  0.0100     1.517  0.0100
+MCK         C24         O25      DOUBLE       n     1.203  0.0150     1.203  0.0150
+MCK         C26         N27      SINGLE       n     1.487  0.0100     1.487  0.0100
+MCK         C26         C28      SINGLE       n     1.507  0.0177     1.507  0.0177
+MCK         C28         O45      SINGLE       n     1.420  0.0140     1.420  0.0140
+MCK         C29         O30      DOUBLE       n     1.230  0.0114     1.230  0.0114
+MCK         C29         C31      SINGLE       n     1.487  0.0100     1.487  0.0100
+MCK         C31         C32      DOUBLE       y     1.399  0.0100     1.399  0.0100
+MCK         C31         C36      SINGLE       y     1.399  0.0100     1.399  0.0100
+MCK         C32         O37      SINGLE       n     1.374  0.0155     1.374  0.0155
+MCK         C32         C33      SINGLE       y     1.395  0.0100     1.395  0.0100
+MCK         C33         O38      SINGLE       n     1.374  0.0155     1.374  0.0155
+MCK         C33         C34      DOUBLE       y     1.381  0.0100     1.381  0.0100
+MCK         C34         C35      SINGLE       y     1.393  0.0103     1.393  0.0103
+MCK         C35         C36      DOUBLE       y     1.364  0.0110     1.364  0.0110
+MCK          C4          H4      SINGLE       n     1.082  0.0130     0.942  0.0174
+MCK          C5          H5      SINGLE       n     1.082  0.0130     0.938  0.0149
+MCK          C6          H6      SINGLE       n     1.082  0.0130     0.941  0.0168
+MCK          N9         HN9      SINGLE       n     1.016  0.0100     0.872  0.0200
+MCK         O10        HO10      SINGLE       n     0.966  0.0059     0.861  0.0200
+MCK         O11        HO11      SINGLE       n     0.966  0.0059     0.861  0.0200
+MCK         C12         H12      SINGLE       n     1.089  0.0100     0.991  0.0123
+MCK         C14         H14      SINGLE       n     1.089  0.0100     0.981  0.0100
+MCK         C14        H14A      SINGLE       n     1.089  0.0100     0.981  0.0100
+MCK         C18         H18      SINGLE       n     1.089  0.0100     0.981  0.0100
+MCK         C18        H18A      SINGLE       n     1.089  0.0100     0.981  0.0100
+MCK         C19         H19      SINGLE       n     1.089  0.0100     0.991  0.0123
+MCK         N20        HN20      SINGLE       n     1.016  0.0100     0.859  0.0200
+MCK         C26         H26      SINGLE       n     1.089  0.0100     0.995  0.0200
+MCK         N27        HN27      SINGLE       n     1.036  0.0160     0.911  0.0200
+MCK         N27        HN2A      SINGLE       n     1.036  0.0160     0.911  0.0200
+MCK         N27         H29      SINGLE       n     1.036  0.0160     0.911  0.0200
+MCK         C28         H28      SINGLE       n     1.089  0.0100     0.984  0.0200
+MCK         C28        H28A      SINGLE       n     1.089  0.0100     0.984  0.0200
+MCK         C34         H34      SINGLE       n     1.082  0.0130     0.942  0.0174
+MCK         C35         H35      SINGLE       n     1.082  0.0130     0.938  0.0149
+MCK         C36         H36      SINGLE       n     1.082  0.0130     0.941  0.0168
+MCK         O37        HO37      SINGLE       n     0.966  0.0059     0.861  0.0200
+MCK         O38        HO38      SINGLE       n     0.966  0.0059     0.861  0.0200
+MCK         O45        HO45      SINGLE       n     0.970  0.0120     0.846  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -167,113 +167,112 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-MCK C7   C1  C2   120.217 2.42
-MCK C7   C1  C6   121.280 3.00
-MCK C2   C1  C6   118.504 1.50
-MCK C1   C2  O10  119.972 3.00
-MCK C1   C2  C3   120.057 1.50
-MCK O10  C2  C3   119.972 3.00
-MCK C2   C3  O11  120.201 3.00
-MCK C2   C3  C4   119.598 1.50
-MCK O11  C3  C4   120.201 3.00
-MCK C3   C4  C5   119.932 1.50
-MCK C3   C4  H4   119.840 1.50
-MCK C5   C4  H4   120.228 1.50
-MCK C4   C5  C6   120.302 1.50
-MCK C4   C5  H5   119.710 1.50
-MCK C6   C5  H5   119.988 1.50
-MCK C1   C6  C5   121.608 1.50
-MCK C1   C6  H6   118.909 1.50
-MCK C5   C6  H6   119.483 1.50
-MCK C1   C7  N9   117.026 1.50
-MCK C1   C7  O8   120.321 1.50
-MCK N9   C7  O8   122.654 1.50
-MCK C7   N9  C12  121.852 1.50
-MCK C7   N9  HN9  119.360 1.94
-MCK C12  N9  HN9  118.788 1.91
-MCK C2   O10 HO10 120.000 3.00
-MCK C3   O11 HO11 120.000 3.00
-MCK N9   C12 C13  110.537 1.50
-MCK N9   C12 C14  111.090 1.58
-MCK N9   C12 H12  108.209 1.50
-MCK C13  C12 C14  109.084 1.95
-MCK C13  C12 H12  107.874 1.50
-MCK C14  C12 H12  107.990 1.50
-MCK C12  C13 O16  124.175 1.72
-MCK C12  C13 O17  111.210 1.50
-MCK O16  C13 O17  124.616 1.50
-MCK C12  C14 O15  107.754 2.90
-MCK C12  C14 H14  109.674 1.50
-MCK C12  C14 H14A 109.674 1.50
-MCK O15  C14 H14  109.566 1.50
-MCK O15  C14 H14A 109.566 1.50
-MCK H14  C14 H14A 108.098 1.50
-MCK C14  O15 C24  116.652 1.80
-MCK C13  O17 C18  116.652 1.80
-MCK O17  C18 C19  107.754 2.90
-MCK O17  C18 H18  109.566 1.50
-MCK O17  C18 H18A 109.566 1.50
-MCK C19  C18 H18  109.674 1.50
-MCK C19  C18 H18A 109.674 1.50
-MCK H18  C18 H18A 108.098 1.50
-MCK C18  C19 C21  110.594 1.50
-MCK C18  C19 N20  111.883 2.59
-MCK C18  C19 H19  107.990 1.50
-MCK C21  C19 N20  112.134 2.59
-MCK C21  C19 H19  107.898 1.50
-MCK N20  C19 H19  108.185 1.50
-MCK C19  N20 C29  120.424 1.61
-MCK C19  N20 HN20 116.854 2.81
-MCK C29  N20 HN20 119.912 2.29
-MCK C19  C21 O22  117.118 2.07
-MCK C19  C21 O23  117.118 2.07
-MCK O22  C21 O23  125.765 1.50
-MCK O15  C24 C26  111.250 1.50
-MCK O15  C24 O25  125.360 1.50
-MCK C26  C24 O25  123.390 1.50
-MCK C24  C26 N27  108.083 1.50
-MCK C24  C26 C28  111.551 1.50
-MCK C24  C26 H26  108.404 1.50
-MCK N27  C26 C28  110.990 1.50
-MCK N27  C26 H26  108.049 1.50
-MCK C28  C26 H26  108.518 1.50
-MCK C26  N27 HN27 109.619 1.50
-MCK C26  N27 HN2A 109.619 1.50
-MCK C26  N27 H29  109.619 1.50
-MCK HN27 N27 HN2A 109.028 2.41
-MCK HN27 N27 H29  109.028 2.41
-MCK HN2A N27 H29  109.028 2.41
-MCK C26  C28 O45  110.825 1.50
-MCK C26  C28 H28  109.305 1.50
-MCK C26  C28 H28A 109.305 1.50
-MCK O45  C28 H28  109.411 1.50
-MCK O45  C28 H28A 109.411 1.50
-MCK H28  C28 H28A 108.070 1.50
-MCK N20  C29 O30  122.094 1.56
-MCK N20  C29 C31  117.228 1.50
-MCK O30  C29 C31  120.678 1.50
-MCK C29  C31 C32  120.217 2.42
-MCK C29  C31 C36  121.280 3.00
-MCK C32  C31 C36  118.504 1.50
-MCK C31  C32 O37  119.972 3.00
-MCK C31  C32 C33  120.057 1.50
-MCK O37  C32 C33  119.972 3.00
-MCK C32  C33 O38  120.201 3.00
-MCK C32  C33 C34  119.598 1.50
-MCK O38  C33 C34  120.201 3.00
-MCK C33  C34 C35  119.932 1.50
-MCK C33  C34 H34  119.840 1.50
-MCK C35  C34 H34  120.228 1.50
-MCK C34  C35 C36  120.302 1.50
-MCK C34  C35 H35  119.710 1.50
-MCK C36  C35 H35  119.988 1.50
-MCK C31  C36 C35  121.608 1.50
-MCK C31  C36 H36  118.909 1.50
-MCK C35  C36 H36  119.483 1.50
-MCK C32  O37 HO37 120.000 3.00
-MCK C33  O38 HO38 120.000 3.00
-MCK C28  O45 HO45 108.529 2.94
-
+MCK          C7          C1          C2     120.217    2.42
+MCK          C7          C1          C6     121.280    3.00
+MCK          C2          C1          C6     118.504    1.50
+MCK          C1          C2         O10     119.972    3.00
+MCK          C1          C2          C3     120.057    1.50
+MCK         O10          C2          C3     119.972    3.00
+MCK          C2          C3         O11     120.201    3.00
+MCK          C2          C3          C4     119.598    1.50
+MCK         O11          C3          C4     120.201    3.00
+MCK          C3          C4          C5     119.932    1.50
+MCK          C3          C4          H4     119.840    1.50
+MCK          C5          C4          H4     120.228    1.50
+MCK          C4          C5          C6     120.302    1.50
+MCK          C4          C5          H5     119.710    1.50
+MCK          C6          C5          H5     119.988    1.50
+MCK          C1          C6          C5     121.608    1.50
+MCK          C1          C6          H6     118.909    1.50
+MCK          C5          C6          H6     119.483    1.50
+MCK          C1          C7          N9     117.026    1.50
+MCK          C1          C7          O8     120.321    1.50
+MCK          N9          C7          O8     122.654    1.50
+MCK          C7          N9         C12     121.852    1.50
+MCK          C7          N9         HN9     119.360    1.94
+MCK         C12          N9         HN9     118.788    1.91
+MCK          C2         O10        HO10     120.000    3.00
+MCK          C3         O11        HO11     120.000    3.00
+MCK          N9         C12         C13     110.537    1.50
+MCK          N9         C12         C14     111.090    1.58
+MCK          N9         C12         H12     108.209    1.50
+MCK         C13         C12         C14     109.084    1.95
+MCK         C13         C12         H12     107.874    1.50
+MCK         C14         C12         H12     107.990    1.50
+MCK         C12         C13         O16     124.175    1.72
+MCK         C12         C13         O17     111.210    1.50
+MCK         O16         C13         O17     124.616    1.50
+MCK         C12         C14         O15     107.754    2.90
+MCK         C12         C14         H14     109.674    1.50
+MCK         C12         C14        H14A     109.674    1.50
+MCK         O15         C14         H14     109.566    1.50
+MCK         O15         C14        H14A     109.566    1.50
+MCK         H14         C14        H14A     108.098    1.50
+MCK         C14         O15         C24     116.652    1.80
+MCK         C13         O17         C18     116.652    1.80
+MCK         O17         C18         C19     107.754    2.90
+MCK         O17         C18         H18     109.566    1.50
+MCK         O17         C18        H18A     109.566    1.50
+MCK         C19         C18         H18     109.674    1.50
+MCK         C19         C18        H18A     109.674    1.50
+MCK         H18         C18        H18A     108.098    1.50
+MCK         C18         C19         C21     110.594    1.50
+MCK         C18         C19         N20     111.883    2.59
+MCK         C18         C19         H19     107.990    1.50
+MCK         C21         C19         N20     112.134    2.59
+MCK         C21         C19         H19     107.898    1.50
+MCK         N20         C19         H19     108.185    1.50
+MCK         C19         N20         C29     120.424    1.61
+MCK         C19         N20        HN20     116.854    2.81
+MCK         C29         N20        HN20     119.912    2.29
+MCK         C19         C21         O22     117.118    2.07
+MCK         C19         C21         O23     117.118    2.07
+MCK         O22         C21         O23     125.765    1.50
+MCK         O15         C24         C26     111.250    1.50
+MCK         O15         C24         O25     125.360    1.50
+MCK         C26         C24         O25     123.390    1.50
+MCK         C24         C26         N27     108.083    1.50
+MCK         C24         C26         C28     111.551    1.50
+MCK         C24         C26         H26     108.404    1.50
+MCK         N27         C26         C28     110.990    1.50
+MCK         N27         C26         H26     108.049    1.50
+MCK         C28         C26         H26     108.518    1.50
+MCK         C26         N27        HN27     109.619    1.50
+MCK         C26         N27        HN2A     109.619    1.50
+MCK         C26         N27         H29     109.619    1.50
+MCK        HN27         N27        HN2A     109.028    2.41
+MCK        HN27         N27         H29     109.028    2.41
+MCK        HN2A         N27         H29     109.028    2.41
+MCK         C26         C28         O45     110.825    1.50
+MCK         C26         C28         H28     109.305    1.50
+MCK         C26         C28        H28A     109.305    1.50
+MCK         O45         C28         H28     109.411    1.50
+MCK         O45         C28        H28A     109.411    1.50
+MCK         H28         C28        H28A     108.070    1.50
+MCK         N20         C29         O30     122.094    1.56
+MCK         N20         C29         C31     117.228    1.50
+MCK         O30         C29         C31     120.678    1.50
+MCK         C29         C31         C32     120.217    2.42
+MCK         C29         C31         C36     121.280    3.00
+MCK         C32         C31         C36     118.504    1.50
+MCK         C31         C32         O37     119.972    3.00
+MCK         C31         C32         C33     120.057    1.50
+MCK         O37         C32         C33     119.972    3.00
+MCK         C32         C33         O38     120.201    3.00
+MCK         C32         C33         C34     119.598    1.50
+MCK         O38         C33         C34     120.201    3.00
+MCK         C33         C34         C35     119.932    1.50
+MCK         C33         C34         H34     119.840    1.50
+MCK         C35         C34         H34     120.228    1.50
+MCK         C34         C35         C36     120.302    1.50
+MCK         C34         C35         H35     119.710    1.50
+MCK         C36         C35         H35     119.988    1.50
+MCK         C31         C36         C35     121.608    1.50
+MCK         C31         C36         H36     118.909    1.50
+MCK         C35         C36         H36     119.483    1.50
+MCK         C32         O37        HO37     120.000    3.00
+MCK         C33         O38        HO38     120.000    3.00
+MCK         C28         O45        HO45     108.529    2.94
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -284,41 +283,40 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-MCK const_sp2_sp2_4 C7  C1  C2  O10  0.000   5.0  2
-MCK const_43        C7  C1  C6  C5   180.000 10.0 2
-MCK sp2_sp2_1       C2  C1  C7  N9   180.000 5.0  2
-MCK sp2_sp3_7       O16 C13 C12 N9   0.000   10.0 6
-MCK sp3_sp3_1       N9  C12 C14 O15  180.000 10.0 3
-MCK sp2_sp2_13      C12 C13 O17 C18  180.000 5.0  2
-MCK sp3_sp3_10      C12 C14 O15 C24  180.000 10.0 3
-MCK sp2_sp2_15      C26 C24 O15 C14  180.000 5.0  2
-MCK sp3_sp3_13      C19 C18 O17 C13  180.000 10.0 3
-MCK sp3_sp3_16      O17 C18 C19 C21  180.000 10.0 3
-MCK sp2_sp3_19      C29 N20 C19 C18  0.000   10.0 6
-MCK sp2_sp3_13      O22 C21 C19 C18  0.000   10.0 6
-MCK sp2_sp2_19      O30 C29 N20 C19  0.000   5.0  2
-MCK const_sp2_sp2_8 O10 C2  C3  O11  0.000   5.0  2
-MCK sp2_sp2_5       C1  C2  O10 HO10 180.000 5.0  2
-MCK sp2_sp3_25      O15 C24 C26 N27  0.000   10.0 6
-MCK sp3_sp3_25      C24 C26 N27 HN27 180.000 10.0 3
-MCK sp3_sp3_34      C24 C26 C28 O45  180.000 10.0 3
-MCK sp3_sp3_43      C26 C28 O45 HO45 180.000 10.0 3
-MCK sp2_sp2_21      N20 C29 C31 C32  180.000 5.0  2
-MCK sp2_sp2_7       C2  C3  O11 HO11 180.000 5.0  2
-MCK const_11        O11 C3  C4  C5   180.000 10.0 2
-MCK const_24        C29 C31 C32 O37  0.000   10.0 2
-MCK const_47        C29 C31 C36 C35  180.000 10.0 2
-MCK const_28        O37 C32 C33 O38  0.000   10.0 2
-MCK sp2_sp2_25      C31 C32 O37 HO37 180.000 5.0  2
-MCK const_31        O38 C33 C34 C35  180.000 10.0 2
-MCK sp2_sp2_27      C32 C33 O38 HO38 180.000 5.0  2
-MCK const_33        C33 C34 C35 C36  0.000   10.0 2
-MCK const_37        C34 C35 C36 C31  0.000   10.0 2
-MCK const_13        C3  C4  C5  C6   0.000   10.0 2
-MCK const_17        C4  C5  C6  C1   0.000   10.0 2
-MCK sp2_sp2_11      O8  C7  N9  C12  0.000   5.0  2
-MCK sp2_sp3_1       C7  N9  C12 C13  0.000   10.0 6
-
+MCK       const_sp2_sp2_4          C7          C1          C2         O10       0.000     5.0     2
+MCK              const_43          C7          C1          C6          C5     180.000    10.0     2
+MCK             sp2_sp2_1          C2          C1          C7          N9     180.000     5.0     2
+MCK             sp2_sp3_7         O16         C13         C12          N9       0.000    10.0     6
+MCK             sp3_sp3_1          N9         C12         C14         O15     180.000    10.0     3
+MCK            sp2_sp2_13         C12         C13         O17         C18     180.000     5.0     2
+MCK            sp3_sp3_10         C12         C14         O15         C24     180.000    10.0     3
+MCK            sp2_sp2_15         C26         C24         O15         C14     180.000     5.0     2
+MCK            sp3_sp3_13         C19         C18         O17         C13     180.000    10.0     3
+MCK            sp3_sp3_16         O17         C18         C19         C21     180.000    10.0     3
+MCK            sp2_sp3_19         C29         N20         C19         C18       0.000    10.0     6
+MCK            sp2_sp3_13         O22         C21         C19         C18       0.000    10.0     6
+MCK            sp2_sp2_19         O30         C29         N20         C19       0.000     5.0     2
+MCK       const_sp2_sp2_8         O10          C2          C3         O11       0.000     5.0     2
+MCK             sp2_sp2_5          C1          C2         O10        HO10     180.000     5.0     2
+MCK            sp2_sp3_25         O15         C24         C26         N27       0.000    10.0     6
+MCK            sp3_sp3_25         C24         C26         N27        HN27     180.000    10.0     3
+MCK            sp3_sp3_34         C24         C26         C28         O45     180.000    10.0     3
+MCK            sp3_sp3_43         C26         C28         O45        HO45     180.000    10.0     3
+MCK            sp2_sp2_21         N20         C29         C31         C32     180.000     5.0     2
+MCK             sp2_sp2_7          C2          C3         O11        HO11     180.000     5.0     2
+MCK              const_11         O11          C3          C4          C5     180.000    10.0     2
+MCK              const_24         C29         C31         C32         O37       0.000    10.0     2
+MCK              const_47         C29         C31         C36         C35     180.000    10.0     2
+MCK              const_28         O37         C32         C33         O38       0.000    10.0     2
+MCK            sp2_sp2_25         C31         C32         O37        HO37     180.000     5.0     2
+MCK              const_31         O38         C33         C34         C35     180.000    10.0     2
+MCK            sp2_sp2_27         C32         C33         O38        HO38     180.000     5.0     2
+MCK              const_33         C33         C34         C35         C36       0.000    10.0     2
+MCK              const_37         C34         C35         C36         C31       0.000    10.0     2
+MCK              const_13          C3          C4          C5          C6       0.000    10.0     2
+MCK              const_17          C4          C5          C6          C1       0.000    10.0     2
+MCK            sp2_sp2_11          O8          C7          N9         C12       0.000     5.0     2
+MCK             sp2_sp3_1          C7          N9         C12         C13       0.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -327,97 +325,81 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-MCK chir_1 C12 N9  C13 C14 positive
-MCK chir_2 C19 N20 C21 C18 positive
-MCK chir_3 C26 N27 C24 C28 positive
-
+MCK    chir_1    C12    N9    C13    C14    positive
+MCK    chir_2    C19    N20    C21    C18    positive
+MCK    chir_3    C26    N27    C24    C28    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-MCK plan-1 C1  0.020
-MCK plan-1 C2  0.020
-MCK plan-1 C3  0.020
-MCK plan-1 C4  0.020
-MCK plan-1 C5  0.020
-MCK plan-1 C6  0.020
-MCK plan-1 C7  0.020
-MCK plan-1 H4  0.020
-MCK plan-1 H5  0.020
-MCK plan-1 H6  0.020
-MCK plan-1 O10 0.020
-MCK plan-1 O11 0.020
-MCK plan-2 C29 0.020
-MCK plan-2 C31 0.020
-MCK plan-2 C32 0.020
-MCK plan-2 C33 0.020
-MCK plan-2 C34 0.020
-MCK plan-2 C35 0.020
-MCK plan-2 C36 0.020
-MCK plan-2 H34 0.020
-MCK plan-2 H35 0.020
-MCK plan-2 H36 0.020
-MCK plan-2 O37 0.020
-MCK plan-2 O38 0.020
-MCK plan-3 C1  0.020
-MCK plan-3 C7  0.020
-MCK plan-3 N9  0.020
-MCK plan-3 O8  0.020
-MCK plan-4 C12 0.020
-MCK plan-4 C7  0.020
-MCK plan-4 HN9 0.020
-MCK plan-4 N9  0.020
-MCK plan-5 C12 0.020
-MCK plan-5 C13 0.020
-MCK plan-5 O16 0.020
-MCK plan-5 O17 0.020
-MCK plan-6 C19 0.020
-MCK plan-6 C21 0.020
-MCK plan-6 O22 0.020
-MCK plan-6 O23 0.020
-MCK plan-7 C24 0.020
-MCK plan-7 C26 0.020
-MCK plan-7 O15 0.020
-MCK plan-7 O25 0.020
-MCK plan-8 C29 0.020
-MCK plan-8 C31 0.020
-MCK plan-8 N20 0.020
-MCK plan-8 O30 0.020
-
+MCK    plan-1          C1   0.020
+MCK    plan-1          C2   0.020
+MCK    plan-1          C3   0.020
+MCK    plan-1          C4   0.020
+MCK    plan-1          C5   0.020
+MCK    plan-1          C6   0.020
+MCK    plan-1          C7   0.020
+MCK    plan-1          H4   0.020
+MCK    plan-1          H5   0.020
+MCK    plan-1          H6   0.020
+MCK    plan-1         O10   0.020
+MCK    plan-1         O11   0.020
+MCK    plan-2         C29   0.020
+MCK    plan-2         C31   0.020
+MCK    plan-2         C32   0.020
+MCK    plan-2         C33   0.020
+MCK    plan-2         C34   0.020
+MCK    plan-2         C35   0.020
+MCK    plan-2         C36   0.020
+MCK    plan-2         H34   0.020
+MCK    plan-2         H35   0.020
+MCK    plan-2         H36   0.020
+MCK    plan-2         O37   0.020
+MCK    plan-2         O38   0.020
+MCK    plan-3          C1   0.020
+MCK    plan-3          C7   0.020
+MCK    plan-3          N9   0.020
+MCK    plan-3          O8   0.020
+MCK    plan-4         C12   0.020
+MCK    plan-4          C7   0.020
+MCK    plan-4         HN9   0.020
+MCK    plan-4          N9   0.020
+MCK    plan-5         C12   0.020
+MCK    plan-5         C13   0.020
+MCK    plan-5         O16   0.020
+MCK    plan-5         O17   0.020
+MCK    plan-6         C19   0.020
+MCK    plan-6         C21   0.020
+MCK    plan-6         O22   0.020
+MCK    plan-6         O23   0.020
+MCK    plan-7         C24   0.020
+MCK    plan-7         C26   0.020
+MCK    plan-7         O15   0.020
+MCK    plan-7         O25   0.020
+MCK    plan-8         C29   0.020
+MCK    plan-8         C31   0.020
+MCK    plan-8         N20   0.020
+MCK    plan-8         O30   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-MCK SMILES           ACDLabs              11.02 O=C(O)C(NC(=O)c1cccc(O)c1O)COC(=O)C(NC(=O)c2cccc(O)c2O)COC(=O)C(N)CO
-MCK SMILES_CANONICAL CACTVS               3.352 N[C@@H](CO)C(=O)OC[C@H](NC(=O)c1cccc(O)c1O)C(=O)OC[C@H](NC(=O)c2cccc(O)c2O)C(O)=O
-MCK SMILES           CACTVS               3.352 N[CH](CO)C(=O)OC[CH](NC(=O)c1cccc(O)c1O)C(=O)OC[CH](NC(=O)c2cccc(O)c2O)C(O)=O
-MCK SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 c1cc(c(c(c1)O)O)C(=O)N[C@@H](COC(=O)[C@H](CO)N)C(=O)OC[C@@H](C(=O)O)NC(=O)c2cccc(c2O)O
-MCK SMILES           "OpenEye OEToolkits" 1.7.0 c1cc(c(c(c1)O)O)C(=O)NC(COC(=O)C(CO)N)C(=O)OCC(C(=O)O)NC(=O)c2cccc(c2O)O
-MCK InChI            InChI                1.03  InChI=1S/C23H25N3O13/c24-12(7-27)22(36)38-9-14(26-20(33)11-4-2-6-16(29)18(11)31)23(37)39-8-13(21(34)35)25-19(32)10-3-1-5-15(28)17(10)30/h1-6,12-14,27-31H,7-9,24H2,(H,25,32)(H,26,33)(H,34,35)/t12-,13-,14-/m0/s1
-MCK InChIKey         InChI                1.03  AVZOYWMPRGKOPV-IHRRRGAJSA-N
-
+MCK           SMILES              ACDLabs 11.02                                                                                                                                              O=C(O)C(NC(=O)c1cccc(O)c1O)COC(=O)C(NC(=O)c2cccc(O)c2O)COC(=O)C(N)CO
+MCK SMILES_CANONICAL               CACTVS 3.352                                                                                                                                 N[C@@H](CO)C(=O)OC[C@H](NC(=O)c1cccc(O)c1O)C(=O)OC[C@H](NC(=O)c2cccc(O)c2O)C(O)=O
+MCK           SMILES               CACTVS 3.352                                                                                                                                     N[CH](CO)C(=O)OC[CH](NC(=O)c1cccc(O)c1O)C(=O)OC[CH](NC(=O)c2cccc(O)c2O)C(O)=O
+MCK SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                            c1cc(c(c(c1)O)O)C(=O)N[C@@H](COC(=O)[C@H](CO)N)C(=O)OC[C@@H](C(=O)O)NC(=O)c2cccc(c2O)O
+MCK           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                          c1cc(c(c(c1)O)O)C(=O)NC(COC(=O)C(CO)N)C(=O)OCC(C(=O)O)NC(=O)c2cccc(c2O)O
+MCK            InChI                InChI  1.03 InChI=1S/C23H25N3O13/c24-12(7-27)22(36)38-9-14(26-20(33)11-4-2-6-16(29)18(11)31)23(37)39-8-13(21(34)35)25-19(32)10-3-1-5-15(28)17(10)30/h1-6,12-14,27-31H,7-9,24H2,(H,25,32)(H,26,33)(H,34,35)/t12-,13-,14-/m0/s1
+MCK         InChIKey                InChI  1.03                                                                                                                                                                                       AVZOYWMPRGKOPV-IHRRRGAJSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-MCK acedrg          243       "dictionary generator"
-MCK acedrg_database 11        "data source"
-MCK rdkit           2017.03.2 "Chemoinformatics tool"
-MCK refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-MCK M-peptide O22  O
-MCK M-peptide C21  C
-MCK M-peptide C19  CA
-MCK M-peptide N20  N
-MCK M-peptide C29  CN
-MCK M-peptide O23  OXT
-MCK M-peptide HN20 H
+MCK acedrg               243         "dictionary generator"                  
+MCK acedrg_database      11          "data source"                           
+MCK rdkit                2017.03.2   "Chemoinformatics tool"
+MCK refmac5              5.8.0238    "optimization tool"                     

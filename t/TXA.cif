@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TXA TXA threonylcarbamoyladenylate NON-POLYMER 52 33 .
-
+TXA     TXA      threonylcarbamoyladenylate     NON-POLYMER     52     33     .     
+#
 data_comp_TXA
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,59 +21,58 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TXA OXT   O OC   -1 1.027   20.569 13.975
-TXA CX    C C    0  1.737   21.567 14.210
-TXA OX    O O    0  1.882   22.542 13.445
-TXA CAX   C CH1  0  2.494   21.597 15.550
-TXA CBX   C CH1  0  3.699   20.635 15.512
-TXA CGX   C CH3  0  4.594   20.764 16.728
-TXA OGX   O OH1  0  3.226   19.292 15.389
-TXA NX    N NH1  0  1.614   21.239 16.657
-TXA CCA   C C    0  1.441   22.035 17.737
-TXA OP2   O O2   0  0.539   21.499 18.583
-TXA OCA   O O    0  2.004   23.092 17.928
-TXA P     P P    0  0.061   22.206 19.961
-TXA OP3   O OP   -1 1.194   22.219 20.932
-TXA OP1   O O    0  -0.611  23.498 19.634
-TXA "O5'" O O2   0  -1.059  21.246 20.598
-TXA "C5'" C CH2  0  -2.342  21.049 19.943
-TXA "C4'" C CH1  0  -3.370  21.981 20.539
-TXA "C3'" C CH1  0  -3.705  21.772 22.019
-TXA "O3'" O OH1  0  -2.789  22.483 22.844
-TXA "C2'" C CH1  0  -5.135  22.317 22.107
-TXA "O2'" O OH1  0  -5.178  23.713 22.315
-TXA "C1'" C CH1  0  -5.713  21.952 20.739
-TXA "O4'" O O2   0  -4.631  21.796 19.848
-TXA N9    N NR5  0  -6.489  20.715 20.734
-TXA C8    C CR15 0  -6.022  19.453 21.007
-TXA N7    N NRD5 0  -6.942  18.526 20.924
-TXA C5    C CR56 0  -8.094  19.214 20.573
-TXA C6    C CR6  0  -9.418  18.788 20.332
-TXA N6    N NH2  0  -9.811  17.518 20.414
-TXA N1    N NRD6 0  -10.333 19.735 19.999
-TXA C2    C CR16 0  -9.930  21.013 19.918
-TXA N3    N NRD6 0  -8.716  21.526 20.122
-TXA C4    C CR56 0  -7.828  20.567 20.451
-TXA H2    H H    0  2.837   22.523 15.682
-TXA H3    H H    0  4.225   20.861 14.708
-TXA H4    H H    0  4.289   21.501 17.287
-TXA H5    H H    0  5.508   20.937 16.440
-TXA H6    H H    0  4.570   19.938 17.243
-TXA H7    H H    0  3.864   18.787 15.150
-TXA H8    H H    0  1.181   20.478 16.621
-TXA H10   H H    0  -2.637  20.113 20.065
-TXA H11   H H    0  -2.258  21.225 18.973
-TXA H12   H H    0  -3.068  22.903 20.403
-TXA H13   H H    0  -3.687  20.808 22.244
-TXA H14   H H    0  -3.103  22.530 23.632
-TXA H15   H H    0  -5.637  21.853 22.829
-TXA H16   H H    0  -5.126  23.871 23.148
-TXA H17   H H    0  -6.282  22.693 20.431
-TXA H18   H H    0  -5.126  19.272 21.232
-TXA H19   H H    0  -10.576 17.274 20.059
-TXA H20   H H    0  -9.303  16.931 20.822
-TXA H21   H H    0  -10.601 21.636 19.683
-
+TXA     OXT     O       OC      -1      1.027       20.569      13.975      
+TXA     CX      C       C       0       1.737       21.567      14.210      
+TXA     OX      O       O       0       1.882       22.542      13.445      
+TXA     CAX     C       CH1     0       2.494       21.597      15.550      
+TXA     CBX     C       CH1     0       3.699       20.635      15.512      
+TXA     CGX     C       CH3     0       4.594       20.764      16.728      
+TXA     OGX     O       OH1     0       3.226       19.292      15.389      
+TXA     NX      N       NH1     0       1.614       21.239      16.657      
+TXA     CCA     C       C       0       1.441       22.035      17.737      
+TXA     OP2     O       O2      0       0.539       21.499      18.583      
+TXA     OCA     O       O       0       2.004       23.092      17.928      
+TXA     P       P       P       0       0.061       22.206      19.961      
+TXA     OP3     O       OP      -1      1.194       22.219      20.932      
+TXA     OP1     O       O       0       -0.611      23.498      19.634      
+TXA     "O5'"   O       O2      0       -1.059      21.246      20.598      
+TXA     "C5'"   C       CH2     0       -2.342      21.049      19.943      
+TXA     "C4'"   C       CH1     0       -3.370      21.981      20.539      
+TXA     "C3'"   C       CH1     0       -3.705      21.772      22.019      
+TXA     "O3'"   O       OH1     0       -2.789      22.483      22.844      
+TXA     "C2'"   C       CH1     0       -5.135      22.317      22.107      
+TXA     "O2'"   O       OH1     0       -5.178      23.713      22.315      
+TXA     "C1'"   C       CH1     0       -5.713      21.952      20.739      
+TXA     "O4'"   O       O2      0       -4.631      21.796      19.848      
+TXA     N9      N       NR5     0       -6.489      20.715      20.734      
+TXA     C8      C       CR15    0       -6.022      19.453      21.007      
+TXA     N7      N       NRD5    0       -6.942      18.526      20.924      
+TXA     C5      C       CR56    0       -8.094      19.214      20.573      
+TXA     C6      C       CR6     0       -9.418      18.788      20.332      
+TXA     N6      N       NH2     0       -9.811      17.518      20.414      
+TXA     N1      N       NRD6    0       -10.333     19.735      19.999      
+TXA     C2      C       CR16    0       -9.930      21.013      19.918      
+TXA     N3      N       NRD6    0       -8.716      21.526      20.122      
+TXA     C4      C       CR56    0       -7.828      20.567      20.451      
+TXA     H2      H       H       0       2.837       22.523      15.682      
+TXA     H3      H       H       0       4.225       20.861      14.708      
+TXA     H4      H       H       0       4.289       21.501      17.287      
+TXA     H5      H       H       0       5.508       20.937      16.440      
+TXA     H6      H       H       0       4.570       19.938      17.243      
+TXA     H7      H       H       0       3.864       18.787      15.150      
+TXA     H8      H       H       0       1.181       20.478      16.621      
+TXA     H10     H       H       0       -2.637      20.113      20.065      
+TXA     H11     H       H       0       -2.258      21.225      18.973      
+TXA     H12     H       H       0       -3.068      22.903      20.403      
+TXA     H13     H       H       0       -3.687      20.808      22.244      
+TXA     H14     H       H       0       -3.103      22.530      23.632      
+TXA     H15     H       H       0       -5.637      21.853      22.829      
+TXA     H16     H       H       0       -5.126      23.871      23.148      
+TXA     H17     H       H       0       -6.282      22.693      20.431      
+TXA     H18     H       H       0       -5.126      19.272      21.232      
+TXA     H19     H       H       0       -10.576     17.274      20.059      
+TXA     H20     H       H       0       -9.303      16.931      20.822      
+TXA     H21     H       H       0       -10.601     21.636      19.683      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -82,61 +83,60 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TXA CX    OX    DOUBLE n 1.247 0.0187 1.247 0.0187
-TXA CBX   OGX   SINGLE n 1.428 0.0100 1.428 0.0100
-TXA OXT   CX    SINGLE n 1.247 0.0187 1.247 0.0187
-TXA CX    CAX   SINGLE n 1.539 0.0100 1.539 0.0100
-TXA CAX   CBX   SINGLE n 1.540 0.0100 1.540 0.0100
-TXA CBX   CGX   SINGLE n 1.513 0.0100 1.513 0.0100
-TXA CAX   NX    SINGLE n 1.452 0.0109 1.452 0.0109
-TXA NX    CCA   SINGLE n 1.345 0.0110 1.345 0.0110
-TXA CCA   OCA   DOUBLE n 1.210 0.0111 1.210 0.0111
-TXA CCA   OP2   SINGLE n 1.340 0.0143 1.340 0.0143
-TXA OP2   P     SINGLE n 1.617 0.0158 1.617 0.0158
-TXA "C1'" "O4'" SINGLE n 1.409 0.0100 1.409 0.0100
-TXA "C4'" "O4'" SINGLE n 1.451 0.0100 1.451 0.0100
-TXA P     OP1   DOUBLE n 1.493 0.0122 1.493 0.0122
-TXA "C1'" N9    SINGLE n 1.458 0.0100 1.458 0.0100
-TXA "C2'" "C1'" SINGLE n 1.525 0.0100 1.525 0.0100
-TXA C2    N3    SINGLE y 1.330 0.0100 1.330 0.0100
-TXA N3    C4    DOUBLE y 1.343 0.0100 1.343 0.0100
-TXA N1    C2    DOUBLE y 1.339 0.0100 1.339 0.0100
-TXA N9    C4    SINGLE y 1.374 0.0101 1.374 0.0101
-TXA C5    C4    SINGLE y 1.381 0.0100 1.381 0.0100
-TXA N9    C8    SINGLE y 1.372 0.0100 1.372 0.0100
-TXA P     "O5'" SINGLE n 1.604 0.0133 1.604 0.0133
-TXA P     OP3   SINGLE n 1.493 0.0122 1.493 0.0122
-TXA C6    N1    SINGLE y 1.354 0.0100 1.354 0.0100
-TXA C8    N7    DOUBLE y 1.310 0.0100 1.310 0.0100
-TXA C5    C6    DOUBLE y 1.408 0.0100 1.408 0.0100
-TXA N7    C5    SINGLE y 1.388 0.0100 1.388 0.0100
-TXA C6    N6    SINGLE n 1.330 0.0100 1.330 0.0100
-TXA "C5'" "C4'" SINGLE n 1.509 0.0100 1.509 0.0100
-TXA "C4'" "C3'" SINGLE n 1.535 0.0100 1.535 0.0100
-TXA "O5'" "C5'" SINGLE n 1.450 0.0166 1.450 0.0166
-TXA "C2'" "O2'" SINGLE n 1.411 0.0100 1.411 0.0100
-TXA "C3'" "C2'" SINGLE n 1.531 0.0100 1.531 0.0100
-TXA "C3'" "O3'" SINGLE n 1.422 0.0100 1.422 0.0100
-TXA CAX   H2    SINGLE n 1.089 0.0100 0.997 0.0200
-TXA CBX   H3    SINGLE n 1.089 0.0100 0.987 0.0200
-TXA CGX   H4    SINGLE n 1.089 0.0100 0.974 0.0145
-TXA CGX   H5    SINGLE n 1.089 0.0100 0.974 0.0145
-TXA CGX   H6    SINGLE n 1.089 0.0100 0.974 0.0145
-TXA OGX   H7    SINGLE n 0.970 0.0120 0.848 0.0200
-TXA NX    H8    SINGLE n 1.016 0.0100 0.875 0.0200
-TXA "C5'" H10   SINGLE n 1.089 0.0100 0.989 0.0200
-TXA "C5'" H11   SINGLE n 1.089 0.0100 0.989 0.0200
-TXA "C4'" H12   SINGLE n 1.089 0.0100 0.981 0.0200
-TXA "C3'" H13   SINGLE n 1.089 0.0100 0.992 0.0200
-TXA "O3'" H14   SINGLE n 0.970 0.0120 0.849 0.0200
-TXA "C2'" H15   SINGLE n 1.089 0.0100 0.994 0.0200
-TXA "O2'" H16   SINGLE n 0.970 0.0120 0.849 0.0200
-TXA "C1'" H17   SINGLE n 1.089 0.0100 0.984 0.0200
-TXA C8    H18   SINGLE n 1.082 0.0130 0.942 0.0170
-TXA N6    H19   SINGLE n 1.016 0.0100 0.877 0.0200
-TXA N6    H20   SINGLE n 1.016 0.0100 0.877 0.0200
-TXA C2    H21   SINGLE n 1.082 0.0130 0.945 0.0200
-
+TXA          CX          OX      DOUBLE       n     1.247  0.0187     1.247  0.0187
+TXA         CBX         OGX      SINGLE       n     1.428  0.0100     1.428  0.0100
+TXA         OXT          CX      SINGLE       n     1.247  0.0187     1.247  0.0187
+TXA          CX         CAX      SINGLE       n     1.539  0.0100     1.539  0.0100
+TXA         CAX         CBX      SINGLE       n     1.540  0.0100     1.540  0.0100
+TXA         CBX         CGX      SINGLE       n     1.513  0.0100     1.513  0.0100
+TXA         CAX          NX      SINGLE       n     1.452  0.0109     1.452  0.0109
+TXA          NX         CCA      SINGLE       n     1.345  0.0110     1.345  0.0110
+TXA         CCA         OCA      DOUBLE       n     1.210  0.0111     1.210  0.0111
+TXA         CCA         OP2      SINGLE       n     1.340  0.0143     1.340  0.0143
+TXA         OP2           P      SINGLE       n     1.617  0.0158     1.617  0.0158
+TXA       "C1'"       "O4'"      SINGLE       n     1.409  0.0100     1.409  0.0100
+TXA       "C4'"       "O4'"      SINGLE       n     1.451  0.0100     1.451  0.0100
+TXA           P         OP1      DOUBLE       n     1.493  0.0122     1.493  0.0122
+TXA       "C1'"          N9      SINGLE       n     1.458  0.0100     1.458  0.0100
+TXA       "C2'"       "C1'"      SINGLE       n     1.525  0.0100     1.525  0.0100
+TXA          C2          N3      SINGLE       y     1.330  0.0100     1.330  0.0100
+TXA          N3          C4      DOUBLE       y     1.343  0.0100     1.343  0.0100
+TXA          N1          C2      DOUBLE       y     1.339  0.0100     1.339  0.0100
+TXA          N9          C4      SINGLE       y     1.374  0.0101     1.374  0.0101
+TXA          C5          C4      SINGLE       y     1.381  0.0100     1.381  0.0100
+TXA          N9          C8      SINGLE       y     1.372  0.0100     1.372  0.0100
+TXA           P       "O5'"      SINGLE       n     1.604  0.0133     1.604  0.0133
+TXA           P         OP3      SINGLE       n     1.493  0.0122     1.493  0.0122
+TXA          C6          N1      SINGLE       y     1.354  0.0100     1.354  0.0100
+TXA          C8          N7      DOUBLE       y     1.310  0.0100     1.310  0.0100
+TXA          C5          C6      DOUBLE       y     1.408  0.0100     1.408  0.0100
+TXA          N7          C5      SINGLE       y     1.388  0.0100     1.388  0.0100
+TXA          C6          N6      SINGLE       n     1.330  0.0100     1.330  0.0100
+TXA       "C5'"       "C4'"      SINGLE       n     1.509  0.0100     1.509  0.0100
+TXA       "C4'"       "C3'"      SINGLE       n     1.535  0.0100     1.535  0.0100
+TXA       "O5'"       "C5'"      SINGLE       n     1.450  0.0166     1.450  0.0166
+TXA       "C2'"       "O2'"      SINGLE       n     1.411  0.0100     1.411  0.0100
+TXA       "C3'"       "C2'"      SINGLE       n     1.531  0.0100     1.531  0.0100
+TXA       "C3'"       "O3'"      SINGLE       n     1.422  0.0100     1.422  0.0100
+TXA         CAX          H2      SINGLE       n     1.089  0.0100     0.997  0.0200
+TXA         CBX          H3      SINGLE       n     1.089  0.0100     0.987  0.0200
+TXA         CGX          H4      SINGLE       n     1.089  0.0100     0.974  0.0145
+TXA         CGX          H5      SINGLE       n     1.089  0.0100     0.974  0.0145
+TXA         CGX          H6      SINGLE       n     1.089  0.0100     0.974  0.0145
+TXA         OGX          H7      SINGLE       n     0.970  0.0120     0.848  0.0200
+TXA          NX          H8      SINGLE       n     1.016  0.0100     0.875  0.0200
+TXA       "C5'"         H10      SINGLE       n     1.089  0.0100     0.989  0.0200
+TXA       "C5'"         H11      SINGLE       n     1.089  0.0100     0.989  0.0200
+TXA       "C4'"         H12      SINGLE       n     1.089  0.0100     0.981  0.0200
+TXA       "C3'"         H13      SINGLE       n     1.089  0.0100     0.992  0.0200
+TXA       "O3'"         H14      SINGLE       n     0.970  0.0120     0.849  0.0200
+TXA       "C2'"         H15      SINGLE       n     1.089  0.0100     0.994  0.0200
+TXA       "O2'"         H16      SINGLE       n     0.970  0.0120     0.849  0.0200
+TXA       "C1'"         H17      SINGLE       n     1.089  0.0100     0.984  0.0200
+TXA          C8         H18      SINGLE       n     1.082  0.0130     0.942  0.0170
+TXA          N6         H19      SINGLE       n     1.016  0.0100     0.877  0.0200
+TXA          N6         H20      SINGLE       n     1.016  0.0100     0.877  0.0200
+TXA          C2         H21      SINGLE       n     1.082  0.0130     0.945  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -144,100 +144,99 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TXA OX    CX    OXT   125.259 1.50
-TXA OX    CX    CAX   117.371 1.50
-TXA OXT   CX    CAX   117.371 1.50
-TXA CX    CAX   CBX   110.275 1.50
-TXA CX    CAX   NX    110.939 1.74
-TXA CX    CAX   H2    107.601 1.50
-TXA CBX   CAX   NX    109.026 1.50
-TXA CBX   CAX   H2    108.271 1.50
-TXA NX    CAX   H2    108.234 1.50
-TXA OGX   CBX   CAX   109.026 1.50
-TXA OGX   CBX   CGX   109.779 2.11
-TXA OGX   CBX   H3    108.878 1.50
-TXA CAX   CBX   CGX   112.331 1.50
-TXA CAX   CBX   H3    107.444 2.35
-TXA CGX   CBX   H3    108.799 1.50
-TXA CBX   CGX   H4    109.564 1.50
-TXA CBX   CGX   H5    109.564 1.50
-TXA CBX   CGX   H6    109.564 1.50
-TXA H4    CGX   H5    109.425 1.50
-TXA H4    CGX   H6    109.425 1.50
-TXA H5    CGX   H6    109.425 1.50
-TXA CBX   OGX   H7    109.608 2.55
-TXA CAX   NX    CCA   120.867 1.63
-TXA CAX   NX    H8    119.646 1.50
-TXA CCA   NX    H8    119.487 1.99
-TXA NX    CCA   OCA   125.058 1.50
-TXA NX    CCA   OP2   110.406 1.50
-TXA OCA   CCA   OP2   124.536 1.66
-TXA CCA   OP2   P     122.808 2.93
-TXA OP2   P     OP1   112.304 3.00
-TXA OP2   P     "O5'" 104.460 3.00
-TXA OP2   P     OP3   112.304 3.00
-TXA OP1   P     "O5'" 107.912 2.57
-TXA OP1   P     OP3   119.782 1.83
-TXA "O5'" P     OP3   107.912 2.57
-TXA P     "O5'" "C5'" 118.553 2.41
-TXA "C4'" "C5'" "O5'" 109.342 1.50
-TXA "C4'" "C5'" H10   109.624 1.50
-TXA "C4'" "C5'" H11   109.624 1.50
-TXA "O5'" "C5'" H10   109.845 1.50
-TXA "O5'" "C5'" H11   109.845 1.50
-TXA H10   "C5'" H11   108.472 1.50
-TXA "O4'" "C4'" "C5'" 109.123 1.50
-TXA "O4'" "C4'" "C3'" 105.388 1.50
-TXA "O4'" "C4'" H12   108.947 1.50
-TXA "C5'" "C4'" "C3'" 116.008 1.52
-TXA "C5'" "C4'" H12   108.268 1.50
-TXA "C3'" "C4'" H12   109.363 1.86
-TXA "C4'" "C3'" "C2'" 102.602 1.50
-TXA "C4'" "C3'" "O3'" 111.281 2.46
-TXA "C4'" "C3'" H13   110.452 2.54
-TXA "C2'" "C3'" "O3'" 111.581 2.83
-TXA "C2'" "C3'" H13   110.504 1.75
-TXA "O3'" "C3'" H13   110.380 1.67
-TXA "C3'" "O3'" H14   108.744 3.00
-TXA "C1'" "C2'" "O2'" 111.715 2.69
-TXA "C1'" "C2'" "C3'" 101.239 1.50
-TXA "C1'" "C2'" H15   110.636 1.70
-TXA "O2'" "C2'" "C3'" 112.782 2.45
-TXA "O2'" "C2'" H15   110.448 1.97
-TXA "C3'" "C2'" H15   110.596 1.51
-TXA "C2'" "O2'" H16   109.103 2.13
-TXA "O4'" "C1'" N9    108.477 1.50
-TXA "O4'" "C1'" "C2'" 106.047 1.50
-TXA "O4'" "C1'" H17   109.807 1.50
-TXA N9    "C1'" "C2'" 113.824 1.50
-TXA N9    "C1'" H17   109.561 1.50
-TXA "C2'" "C1'" H17   109.015 1.50
-TXA "C1'" "O4'" "C4'" 109.903 1.50
-TXA "C1'" N9    C4    127.459 1.80
-TXA "C1'" N9    C8    126.848 1.91
-TXA C4    N9    C8    105.693 1.50
-TXA N9    C8    N7    113.469 1.50
-TXA N9    C8    H18   123.206 1.50
-TXA N7    C8    H18   123.326 1.50
-TXA C8    N7    C5    104.739 1.50
-TXA C4    C5    C6    117.270 1.50
-TXA C4    C5    N7    110.483 1.50
-TXA C6    C5    N7    132.247 1.50
-TXA N1    C6    C5    117.409 1.50
-TXA N1    C6    N6    118.799 1.50
-TXA C5    C6    N6    123.792 1.50
-TXA C6    N6    H19   119.723 1.50
-TXA C6    N6    H20   119.723 1.50
-TXA H19   N6    H20   120.554 1.88
-TXA C2    N1    C6    118.521 1.50
-TXA N3    C2    N1    129.332 1.50
-TXA N3    C2    H21   115.355 1.50
-TXA N1    C2    H21   115.313 1.50
-TXA C2    N3    C4    110.982 1.50
-TXA N3    C4    N9    127.895 1.50
-TXA N3    C4    C5    126.489 1.50
-TXA N9    C4    C5    105.616 1.50
-
+TXA          OX          CX         OXT     125.259    1.50
+TXA          OX          CX         CAX     117.371    1.50
+TXA         OXT          CX         CAX     117.371    1.50
+TXA          CX         CAX         CBX     110.275    1.50
+TXA          CX         CAX          NX     110.939    1.74
+TXA          CX         CAX          H2     107.601    1.50
+TXA         CBX         CAX          NX     109.026    1.50
+TXA         CBX         CAX          H2     108.271    1.50
+TXA          NX         CAX          H2     108.234    1.50
+TXA         OGX         CBX         CAX     109.026    1.50
+TXA         OGX         CBX         CGX     109.779    2.11
+TXA         OGX         CBX          H3     108.878    1.50
+TXA         CAX         CBX         CGX     112.331    1.50
+TXA         CAX         CBX          H3     107.444    2.35
+TXA         CGX         CBX          H3     108.799    1.50
+TXA         CBX         CGX          H4     109.564    1.50
+TXA         CBX         CGX          H5     109.564    1.50
+TXA         CBX         CGX          H6     109.564    1.50
+TXA          H4         CGX          H5     109.425    1.50
+TXA          H4         CGX          H6     109.425    1.50
+TXA          H5         CGX          H6     109.425    1.50
+TXA         CBX         OGX          H7     109.608    2.55
+TXA         CAX          NX         CCA     120.867    1.63
+TXA         CAX          NX          H8     119.646    1.50
+TXA         CCA          NX          H8     119.487    1.99
+TXA          NX         CCA         OCA     125.058    1.50
+TXA          NX         CCA         OP2     110.406    1.50
+TXA         OCA         CCA         OP2     124.536    1.66
+TXA         CCA         OP2           P     122.808    2.93
+TXA         OP2           P         OP1     112.304    3.00
+TXA         OP2           P       "O5'"     104.460    3.00
+TXA         OP2           P         OP3     112.304    3.00
+TXA         OP1           P       "O5'"     107.912    2.57
+TXA         OP1           P         OP3     119.782    1.83
+TXA       "O5'"           P         OP3     107.912    2.57
+TXA           P       "O5'"       "C5'"     118.553    2.41
+TXA       "C4'"       "C5'"       "O5'"     109.342    1.50
+TXA       "C4'"       "C5'"         H10     109.624    1.50
+TXA       "C4'"       "C5'"         H11     109.624    1.50
+TXA       "O5'"       "C5'"         H10     109.845    1.50
+TXA       "O5'"       "C5'"         H11     109.845    1.50
+TXA         H10       "C5'"         H11     108.472    1.50
+TXA       "O4'"       "C4'"       "C5'"     109.123    1.50
+TXA       "O4'"       "C4'"       "C3'"     105.388    1.50
+TXA       "O4'"       "C4'"         H12     108.947    1.50
+TXA       "C5'"       "C4'"       "C3'"     116.008    1.52
+TXA       "C5'"       "C4'"         H12     108.268    1.50
+TXA       "C3'"       "C4'"         H12     109.363    1.86
+TXA       "C4'"       "C3'"       "C2'"     102.602    1.50
+TXA       "C4'"       "C3'"       "O3'"     111.281    2.46
+TXA       "C4'"       "C3'"         H13     110.452    2.54
+TXA       "C2'"       "C3'"       "O3'"     111.581    2.83
+TXA       "C2'"       "C3'"         H13     110.504    1.75
+TXA       "O3'"       "C3'"         H13     110.380    1.67
+TXA       "C3'"       "O3'"         H14     108.744    3.00
+TXA       "C1'"       "C2'"       "O2'"     111.715    2.69
+TXA       "C1'"       "C2'"       "C3'"     101.239    1.50
+TXA       "C1'"       "C2'"         H15     110.636    1.70
+TXA       "O2'"       "C2'"       "C3'"     112.782    2.45
+TXA       "O2'"       "C2'"         H15     110.448    1.97
+TXA       "C3'"       "C2'"         H15     110.596    1.51
+TXA       "C2'"       "O2'"         H16     109.103    2.13
+TXA       "O4'"       "C1'"          N9     108.477    1.50
+TXA       "O4'"       "C1'"       "C2'"     106.047    1.50
+TXA       "O4'"       "C1'"         H17     109.807    1.50
+TXA          N9       "C1'"       "C2'"     113.824    1.50
+TXA          N9       "C1'"         H17     109.561    1.50
+TXA       "C2'"       "C1'"         H17     109.015    1.50
+TXA       "C1'"       "O4'"       "C4'"     109.903    1.50
+TXA       "C1'"          N9          C4     127.459    1.80
+TXA       "C1'"          N9          C8     126.848    1.91
+TXA          C4          N9          C8     105.693    1.50
+TXA          N9          C8          N7     113.469    1.50
+TXA          N9          C8         H18     123.206    1.50
+TXA          N7          C8         H18     123.326    1.50
+TXA          C8          N7          C5     104.739    1.50
+TXA          C4          C5          C6     117.270    1.50
+TXA          C4          C5          N7     110.483    1.50
+TXA          C6          C5          N7     132.247    1.50
+TXA          N1          C6          C5     117.409    1.50
+TXA          N1          C6          N6     118.799    1.50
+TXA          C5          C6          N6     123.792    1.50
+TXA          C6          N6         H19     119.723    1.50
+TXA          C6          N6         H20     119.723    1.50
+TXA         H19          N6         H20     120.554    1.88
+TXA          C2          N1          C6     118.521    1.50
+TXA          N3          C2          N1     129.332    1.50
+TXA          N3          C2         H21     115.355    1.50
+TXA          N1          C2         H21     115.313    1.50
+TXA          C2          N3          C4     110.982    1.50
+TXA          N3          C4          N9     127.895    1.50
+TXA          N3          C4          C5     126.489    1.50
+TXA          N9          C4          C5     105.616    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -248,37 +247,36 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TXA sp3_sp3_49      "C5'" "O5'" P     OP2   180.000 10.0 3
-TXA sp3_sp3_70      "C4'" "C5'" "O5'" P     180.000 10.0 3
-TXA sp3_sp3_52      "O4'" "C4'" "C5'" "O5'" 180.000 10.0 3
-TXA sp3_sp3_65      "O3'" "C3'" "C4'" "C5'" 180.000 10.0 3
-TXA sp3_sp3_2       "C5'" "C4'" "O4'" "C1'" -60.000 10.0 3
-TXA sp3_sp3_76      "C4'" "C3'" "O3'" H14   180.000 10.0 3
-TXA sp3_sp3_20      "O2'" "C2'" "C3'" "O3'" -60.000 10.0 3
-TXA sp3_sp3_73      "C1'" "C2'" "O2'" H16   180.000 10.0 3
-TXA sp3_sp3_8       "O4'" "C1'" "C2'" "O2'" 180.000 10.0 3
-TXA sp2_sp3_1       OX    CX    CAX   CBX   0.000   10.0 6
-TXA sp3_sp3_5       N9    "C1'" "O4'" "C4'" 180.000 10.0 3
-TXA sp2_sp3_13      C4    N9    "C1'" "O4'" 150.000 10.0 6
-TXA const_22        N7    C8    N9    "C1'" 180.000 10.0 2
-TXA const_16        N3    C4    N9    "C1'" 0.000   10.0 2
-TXA const_19        N9    C8    N7    C5    0.000   10.0 2
-TXA const_17        C4    C5    N7    C8    0.000   10.0 2
-TXA const_26        C4    C5    C6    N6    180.000 10.0 2
-TXA const_sp2_sp2_1 N3    C4    C5    C6    0.000   5.0  2
-TXA sp2_sp2_9       N1    C6    N6    H19   0.000   5.0  2
-TXA const_12        N6    C6    N1    C2    180.000 10.0 2
-TXA const_sp2_sp2_9 N3    C2    N1    C6    0.000   5.0  2
-TXA const_sp2_sp2_7 N1    C2    N3    C4    0.000   5.0  2
-TXA const_sp2_sp2_6 N9    C4    N3    C2    180.000 5.0  2
-TXA sp3_sp3_28      CX    CAX   CBX   OGX   180.000 10.0 3
-TXA sp2_sp3_7       CCA   NX    CAX   CX    0.000   10.0 6
-TXA sp3_sp3_37      OGX   CBX   CGX   H4    180.000 10.0 3
-TXA sp3_sp3_25      CAX   CBX   OGX   H7    180.000 10.0 3
-TXA sp2_sp2_3       OCA   CCA   NX    CAX   0.000   5.0  2
-TXA sp2_sp2_5       NX    CCA   OP2   P     180.000 5.0  2
-TXA sp3_sp3_46      OP1   P     OP2   CCA   180.000 10.0 3
-
+TXA            sp3_sp3_49       "C5'"       "O5'"           P         OP2     180.000    10.0     3
+TXA            sp3_sp3_70       "C4'"       "C5'"       "O5'"           P     180.000    10.0     3
+TXA            sp3_sp3_52       "O4'"       "C4'"       "C5'"       "O5'"     180.000    10.0     3
+TXA            sp3_sp3_65       "O3'"       "C3'"       "C4'"       "C5'"     180.000    10.0     3
+TXA             sp3_sp3_2       "C5'"       "C4'"       "O4'"       "C1'"     -60.000    10.0     3
+TXA            sp3_sp3_76       "C4'"       "C3'"       "O3'"         H14     180.000    10.0     3
+TXA            sp3_sp3_20       "O2'"       "C2'"       "C3'"       "O3'"     -60.000    10.0     3
+TXA            sp3_sp3_73       "C1'"       "C2'"       "O2'"         H16     180.000    10.0     3
+TXA             sp3_sp3_8       "O4'"       "C1'"       "C2'"       "O2'"     180.000    10.0     3
+TXA             sp2_sp3_1          OX          CX         CAX         CBX       0.000    10.0     6
+TXA             sp3_sp3_5          N9       "C1'"       "O4'"       "C4'"     180.000    10.0     3
+TXA            sp2_sp3_13          C4          N9       "C1'"       "O4'"     150.000    10.0     6
+TXA              const_22          N7          C8          N9       "C1'"     180.000    10.0     2
+TXA              const_16          N3          C4          N9       "C1'"       0.000    10.0     2
+TXA              const_19          N9          C8          N7          C5       0.000    10.0     2
+TXA              const_17          C4          C5          N7          C8       0.000    10.0     2
+TXA              const_26          C4          C5          C6          N6     180.000    10.0     2
+TXA       const_sp2_sp2_1          N3          C4          C5          C6       0.000     5.0     2
+TXA             sp2_sp2_9          N1          C6          N6         H19       0.000     5.0     2
+TXA              const_12          N6          C6          N1          C2     180.000    10.0     2
+TXA       const_sp2_sp2_9          N3          C2          N1          C6       0.000     5.0     2
+TXA       const_sp2_sp2_7          N1          C2          N3          C4       0.000     5.0     2
+TXA       const_sp2_sp2_6          N9          C4          N3          C2     180.000     5.0     2
+TXA            sp3_sp3_28          CX         CAX         CBX         OGX     180.000    10.0     3
+TXA             sp2_sp3_7         CCA          NX         CAX          CX       0.000    10.0     6
+TXA            sp3_sp3_37         OGX         CBX         CGX          H4     180.000    10.0     3
+TXA            sp3_sp3_25         CAX         CBX         OGX          H7     180.000    10.0     3
+TXA             sp2_sp2_3         OCA         CCA          NX         CAX       0.000     5.0     2
+TXA             sp2_sp2_5          NX         CCA         OP2           P     180.000     5.0     2
+TXA            sp3_sp3_46         OP1           P         OP2         CCA     180.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -287,81 +285,66 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TXA chir_1 CAX   NX    CX    CBX   positive
-TXA chir_2 CBX   OGX   CAX   CGX   negative
-TXA chir_3 P     OP2   "O5'" OP3   both
-TXA chir_4 "C4'" "O4'" "C3'" "C5'" negative
-TXA chir_5 "C3'" "O3'" "C4'" "C2'" positive
-TXA chir_6 "C2'" "O2'" "C1'" "C3'" negative
-TXA chir_7 "C1'" "O4'" N9    "C2'" negative
-
+TXA    chir_1    CAX    NX    CX    CBX    positive
+TXA    chir_2    CBX    OGX    CAX    CGX    negative
+TXA    chir_3    P    OP2    "O5'"    OP3    both
+TXA    chir_4    "C4'"    "O4'"    "C3'"    "C5'"    negative
+TXA    chir_5    "C3'"    "O3'"    "C4'"    "C2'"    positive
+TXA    chir_6    "C2'"    "O2'"    "C1'"    "C3'"    negative
+TXA    chir_7    "C1'"    "O4'"    N9    "C2'"    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TXA plan-1 "C1'" 0.020
-TXA plan-1 C2    0.020
-TXA plan-1 C4    0.020
-TXA plan-1 C5    0.020
-TXA plan-1 C6    0.020
-TXA plan-1 C8    0.020
-TXA plan-1 H18   0.020
-TXA plan-1 H21   0.020
-TXA plan-1 N1    0.020
-TXA plan-1 N3    0.020
-TXA plan-1 N6    0.020
-TXA plan-1 N7    0.020
-TXA plan-1 N9    0.020
-TXA plan-2 CAX   0.020
-TXA plan-2 CX    0.020
-TXA plan-2 OX    0.020
-TXA plan-2 OXT   0.020
-TXA plan-3 CAX   0.020
-TXA plan-3 CCA   0.020
-TXA plan-3 H8    0.020
-TXA plan-3 NX    0.020
-TXA plan-4 CCA   0.020
-TXA plan-4 NX    0.020
-TXA plan-4 OCA   0.020
-TXA plan-4 OP2   0.020
-TXA plan-5 C6    0.020
-TXA plan-5 H19   0.020
-TXA plan-5 H20   0.020
-TXA plan-5 N6    0.020
-
+TXA    plan-1       "C1'"   0.020
+TXA    plan-1          C2   0.020
+TXA    plan-1          C4   0.020
+TXA    plan-1          C5   0.020
+TXA    plan-1          C6   0.020
+TXA    plan-1          C8   0.020
+TXA    plan-1         H18   0.020
+TXA    plan-1         H21   0.020
+TXA    plan-1          N1   0.020
+TXA    plan-1          N3   0.020
+TXA    plan-1          N6   0.020
+TXA    plan-1          N7   0.020
+TXA    plan-1          N9   0.020
+TXA    plan-2         CAX   0.020
+TXA    plan-2          CX   0.020
+TXA    plan-2          OX   0.020
+TXA    plan-2         OXT   0.020
+TXA    plan-3         CAX   0.020
+TXA    plan-3         CCA   0.020
+TXA    plan-3          H8   0.020
+TXA    plan-3          NX   0.020
+TXA    plan-4         CCA   0.020
+TXA    plan-4          NX   0.020
+TXA    plan-4         OCA   0.020
+TXA    plan-4         OP2   0.020
+TXA    plan-5          C6   0.020
+TXA    plan-5         H19   0.020
+TXA    plan-5         H20   0.020
+TXA    plan-5          N6   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TXA SMILES           ACDLabs              12.01 O=C(O)C(NC(=O)OP(=O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O)C(O)C
-TXA InChI            InChI                1.03  InChI=1S/C15H21N6O11P/c1-5(22)7(14(25)26)20-15(27)32-33(28,29)30-2-6-9(23)10(24)13(31-6)21-4-19-8-11(16)17-3-18-12(8)21/h3-7,9-10,13,22-24H,2H2,1H3,(H,20,27)(H,25,26)(H,28,29)(H2,16,17,18)/t5-,6-,7+,9-,10-,13-/m1/s1
-TXA InChIKey         InChI                1.03  GHLUPQUHEIJRCU-DWVDDHQFSA-N
-TXA SMILES_CANONICAL CACTVS               3.370 C[C@@H](O)[C@H](NC(=O)O[P](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23)C(O)=O
-TXA SMILES           CACTVS               3.370 C[CH](O)[CH](NC(=O)O[P](O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O)n2cnc3c(N)ncnc23)C(O)=O
-TXA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 C[C@H]([C@@H](C(=O)O)NC(=O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)O)O
-TXA SMILES           "OpenEye OEToolkits" 1.7.6 CC(C(C(=O)O)NC(=O)OP(=O)(O)OCC1C(C(C(O1)n2cnc3c2ncnc3N)O)O)O
-
+TXA           SMILES              ACDLabs 12.01                                                                                                                                                            O=C(O)C(NC(=O)OP(=O)(O)OCC3OC(n2cnc1c(ncnc12)N)C(O)C3O)C(O)C
+TXA            InChI                InChI  1.03 InChI=1S/C15H21N6O11P/c1-5(22)7(14(25)26)20-15(27)32-33(28,29)30-2-6-9(23)10(24)13(31-6)21-4-19-8-11(16)17-3-18-12(8)21/h3-7,9-10,13,22-24H,2H2,1H3,(H,20,27)(H,25,26)(H,28,29)(H2,16,17,18)/t5-,6-,7+,9-,10-,13-/m1/s1
+TXA         InChIKey                InChI  1.03                                                                                                                                                                                             GHLUPQUHEIJRCU-DWVDDHQFSA-N
+TXA SMILES_CANONICAL               CACTVS 3.370                                                                                                                                C[C@@H](O)[C@H](NC(=O)O[P](O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23)C(O)=O
+TXA           SMILES               CACTVS 3.370                                                                                                                                        C[CH](O)[CH](NC(=O)O[P](O)(=O)OC[CH]1O[CH]([CH](O)[CH]1O)n2cnc3c(N)ncnc23)C(O)=O
+TXA SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                 C[C@H]([C@@H](C(=O)O)NC(=O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)n2cnc3c2ncnc3N)O)O)O
+TXA           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                            CC(C(C(=O)O)NC(=O)OP(=O)(O)OCC1C(C(C(O1)n2cnc3c2ncnc3N)O)O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TXA acedrg          243       "dictionary generator"
-TXA acedrg_database 11        "data source"
-TXA rdkit           2017.03.2 "Chemoinformatics tool"
-TXA refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-TXA M-peptide OX  O
-TXA M-peptide CX  C
-TXA M-peptide CAX CA
-TXA M-peptide NX  N
-TXA M-peptide CCA CN
-TXA M-peptide H8  H
+TXA acedrg               243         "dictionary generator"                  
+TXA acedrg_database      11          "data source"                           
+TXA rdkit                2017.03.2   "Chemoinformatics tool"
+TXA refmac5              5.8.0238    "optimization tool"                     

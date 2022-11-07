@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-DXF DXF "(2R)-5-[(carbamoyloxy)methyl]-2-[(1R)-1-{[(2Z)-2-(furan-2-yl)-2-(methoxyimino)acetyl]amino}-2-oxoethyl]-3,6-dihydro-2H-1,3-thiazine-4-carboxylic acid" NON-POLYMER 46 29 .
-
+DXF     DXF      "(2R)-5-[(carbamoyloxy)methyl]-2-[(1R)-1-{[(2Z)-2-(furan-2-yl)-2-(methoxyimino)acetyl]amino}-2-oxoethyl]-3,6-dihydro-2H-1,3-thiazine-4-carboxylic acid"     NON-POLYMER     46     29     .     
+#
 data_comp_DXF
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,53 +21,52 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-DXF C   C C1   0  -8.614  -11.624 5.955
-DXF N   N NH1  0  -8.989  -12.083 3.560
-DXF O   O O    0  -9.784  -11.590 6.182
-DXF CA  C CH1  0  -8.087  -11.452 4.518
-DXF CB  C CH1  0  -7.824  -9.984  4.139
-DXF CAA C CH3  0  -10.391 -17.337 2.638
-DXF NAB N NH2  0  -9.203  -4.319  1.985
-DXF OAD O O    0  -7.159  -5.013  2.633
-DXF OAE O OC   -1 -11.082 -6.959  4.052
-DXF OAF O O    0  -8.423  -14.213 4.017
-DXF OAG O O    0  -11.702 -8.268  2.418
-DXF CAI C CR15 0  -11.483 -11.926 -0.503
-DXF CAJ C CR15 0  -10.482 -11.121 -0.018
-DXF CAK C CR15 0  -11.422 -13.130 0.238
-DXF CAL C CH2  0  -9.034  -7.050  0.907
-DXF CAM C CH2  0  -7.173  -8.309  2.057
-DXF NAN N N    0  -10.168 -15.164 1.895
-DXF NAP N NR6  0  -9.071  -9.212  4.044
-DXF OAQ O O2   0  -9.756  -16.077 2.878
-DXF OAR O O2   0  -8.174  -5.880  0.799
-DXF OAS O O2   0  -9.815  -11.770 0.976
-DXF SAT S S2   0  -6.912  -10.017 2.565
-DXF CAU C C    0  -8.107  -5.060  1.871
-DXF CAV C C    0  -10.888 -7.794  3.189
-DXF CAW C C    0  -9.044  -13.406 3.323
-DXF CAX C CR6  0  -8.622  -7.924  2.064
-DXF CAY C C    0  -9.879  -13.926 2.141
-DXF CAZ C CR6  0  -9.458  -8.308  3.057
-DXF CBA C CR5  0  -10.405 -13.006 1.122
-DXF H1  H H    0  -7.997  -11.757 6.661
-DXF H3  H H    0  -9.546  -11.568 3.135
-DXF H5  H H    0  -7.224  -11.936 4.471
-DXF H6  H H    0  -7.243  -9.586  4.835
-DXF H7  H H    0  -10.128 -17.673 1.766
-DXF H8  H H    0  -11.355 -17.225 2.665
-DXF H9  H H    0  -10.121 -17.969 3.322
-DXF H10 H H    0  -9.862  -4.381  1.397
-DXF H11 H H    0  -9.279  -3.755  2.662
-DXF H13 H H    0  -12.087 -11.718 -1.190
-DXF H14 H H    0  -10.275 -10.253 -0.316
-DXF H15 H H    0  -11.976 -13.879 0.141
-DXF H16 H H    0  -8.944  -7.568  0.075
-DXF H2  H H    0  -9.965  -6.739  0.964
-DXF H17 H H    0  -6.814  -8.186  1.156
-DXF H18 H H    0  -6.687  -7.716  2.662
-DXF H4  H H    0  -9.625  -9.346  4.714
-
+DXF     C       C       C1      0       -8.614      -11.624     5.955       
+DXF     N       N       NH1     0       -8.989      -12.083     3.560       
+DXF     O       O       O       0       -9.784      -11.590     6.182       
+DXF     CA      C       CH1     0       -8.087      -11.452     4.518       
+DXF     CB      C       CH1     0       -7.824      -9.984      4.139       
+DXF     CAA     C       CH3     0       -10.391     -17.337     2.638       
+DXF     NAB     N       NH2     0       -9.203      -4.319      1.985       
+DXF     OAD     O       O       0       -7.159      -5.013      2.633       
+DXF     OAE     O       OC      -1      -11.082     -6.959      4.052       
+DXF     OAF     O       O       0       -8.423      -14.213     4.017       
+DXF     OAG     O       O       0       -11.702     -8.268      2.418       
+DXF     CAI     C       CR15    0       -11.483     -11.926     -0.503      
+DXF     CAJ     C       CR15    0       -10.482     -11.121     -0.018      
+DXF     CAK     C       CR15    0       -11.422     -13.130     0.238       
+DXF     CAL     C       CH2     0       -9.034      -7.050      0.907       
+DXF     CAM     C       CH2     0       -7.173      -8.309      2.057       
+DXF     NAN     N       N       0       -10.168     -15.164     1.895       
+DXF     NAP     N       NR6     0       -9.071      -9.212      4.044       
+DXF     OAQ     O       O2      0       -9.756      -16.077     2.878       
+DXF     OAR     O       O2      0       -8.174      -5.880      0.799       
+DXF     OAS     O       O2      0       -9.815      -11.770     0.976       
+DXF     SAT     S       S2      0       -6.912      -10.017     2.565       
+DXF     CAU     C       C       0       -8.107      -5.060      1.871       
+DXF     CAV     C       C       0       -10.888     -7.794      3.189       
+DXF     CAW     C       C       0       -9.044      -13.406     3.323       
+DXF     CAX     C       CR6     0       -8.622      -7.924      2.064       
+DXF     CAY     C       C       0       -9.879      -13.926     2.141       
+DXF     CAZ     C       CR6     0       -9.458      -8.308      3.057       
+DXF     CBA     C       CR5     0       -10.405     -13.006     1.122       
+DXF     H1      H       H       0       -7.997      -11.757     6.661       
+DXF     H3      H       H       0       -9.546      -11.568     3.135       
+DXF     H5      H       H       0       -7.224      -11.936     4.471       
+DXF     H6      H       H       0       -7.243      -9.586      4.835       
+DXF     H7      H       H       0       -10.128     -17.673     1.766       
+DXF     H8      H       H       0       -11.355     -17.225     2.665       
+DXF     H9      H       H       0       -10.121     -17.969     3.322       
+DXF     H10     H       H       0       -9.862      -4.381      1.397       
+DXF     H11     H       H       0       -9.279      -3.755      2.662       
+DXF     H13     H       H       0       -12.087     -11.718     -1.190      
+DXF     H14     H       H       0       -10.275     -10.253     -0.316      
+DXF     H15     H       H       0       -11.976     -13.879     0.141       
+DXF     H16     H       H       0       -8.944      -7.568      0.075       
+DXF     H2      H       H       0       -9.965      -6.739      0.964       
+DXF     H17     H       H       0       -6.814      -8.186      1.156       
+DXF     H18     H       H       0       -6.687      -7.716      2.662       
+DXF     H4      H       H       0       -9.625      -9.346      4.714       
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -76,54 +77,53 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-DXF CAI CAK SINGLE y 1.416 0.0136 1.416 0.0136
-DXF CAI CAJ DOUBLE y 1.384 0.0200 1.384 0.0200
-DXF CAK CBA DOUBLE y 1.349 0.0111 1.349 0.0111
-DXF CAJ OAS SINGLE y 1.363 0.0110 1.363 0.0110
-DXF OAD CAU DOUBLE n 1.217 0.0100 1.217 0.0100
-DXF OAS CBA SINGLE y 1.374 0.0116 1.374 0.0116
-DXF CAY CBA SINGLE n 1.467 0.0100 1.467 0.0100
-DXF NAN CAY DOUBLE n 1.285 0.0117 1.285 0.0117
-DXF NAN OAQ SINGLE n 1.401 0.0129 1.401 0.0129
-DXF OAR CAU SINGLE n 1.346 0.0121 1.346 0.0121
-DXF NAB CAU SINGLE n 1.326 0.0100 1.326 0.0100
-DXF CAA OAQ SINGLE n 1.431 0.0100 1.431 0.0100
-DXF CAW CAY SINGLE n 1.498 0.0200 1.498 0.0200
-DXF CAL OAR SINGLE n 1.449 0.0132 1.449 0.0132
-DXF CAL CAX SINGLE n 1.502 0.0100 1.502 0.0100
-DXF N   CAW SINGLE n 1.334 0.0149 1.334 0.0149
-DXF OAF CAW DOUBLE n 1.231 0.0100 1.231 0.0100
-DXF CAM CAX SINGLE n 1.497 0.0100 1.497 0.0100
-DXF CAM SAT SINGLE n 1.804 0.0100 1.804 0.0100
-DXF N   CA  SINGLE n 1.455 0.0100 1.455 0.0100
-DXF CAX CAZ DOUBLE n 1.346 0.0100 1.346 0.0100
-DXF OAG CAV DOUBLE n 1.217 0.0200 1.217 0.0200
-DXF C   O   DOUBLE n 1.191 0.0200 1.191 0.0200
-DXF CAV CAZ SINGLE n 1.523 0.0100 1.523 0.0100
-DXF NAP CAZ SINGLE n 1.370 0.0200 1.370 0.0200
-DXF CB  SAT SINGLE n 1.816 0.0145 1.816 0.0145
-DXF OAE CAV SINGLE n 1.217 0.0200 1.217 0.0200
-DXF C   CA  SINGLE n 1.539 0.0100 1.539 0.0100
-DXF CA  CB  SINGLE n 1.528 0.0200 1.528 0.0200
-DXF CB  NAP SINGLE n 1.462 0.0118 1.462 0.0118
-DXF C   H1  SINGLE n 1.082 0.0130 0.947 0.0200
-DXF N   H3  SINGLE n 1.016 0.0100 0.874 0.0200
-DXF CA  H5  SINGLE n 1.089 0.0100 0.989 0.0198
-DXF CB  H6  SINGLE n 1.089 0.0100 0.990 0.0200
-DXF CAA H7  SINGLE n 1.089 0.0100 0.970 0.0177
-DXF CAA H8  SINGLE n 1.089 0.0100 0.970 0.0177
-DXF CAA H9  SINGLE n 1.089 0.0100 0.970 0.0177
-DXF NAB H10 SINGLE n 1.016 0.0100 0.884 0.0200
-DXF NAB H11 SINGLE n 1.016 0.0100 0.884 0.0200
-DXF CAI H13 SINGLE n 1.082 0.0130 0.938 0.0166
-DXF CAJ H14 SINGLE n 1.082 0.0130 0.941 0.0191
-DXF CAK H15 SINGLE n 1.082 0.0130 0.936 0.0163
-DXF CAL H16 SINGLE n 1.089 0.0100 0.984 0.0105
-DXF CAL H2  SINGLE n 1.089 0.0100 0.984 0.0105
-DXF CAM H17 SINGLE n 1.089 0.0100 0.977 0.0141
-DXF CAM H18 SINGLE n 1.089 0.0100 0.977 0.0141
-DXF NAP H4  SINGLE n 1.016 0.0100 0.880 0.0200
-
+DXF         CAI         CAK      SINGLE       y     1.416  0.0136     1.416  0.0136
+DXF         CAI         CAJ      DOUBLE       y     1.384  0.0200     1.384  0.0200
+DXF         CAK         CBA      DOUBLE       y     1.349  0.0111     1.349  0.0111
+DXF         CAJ         OAS      SINGLE       y     1.363  0.0110     1.363  0.0110
+DXF         OAD         CAU      DOUBLE       n     1.217  0.0100     1.217  0.0100
+DXF         OAS         CBA      SINGLE       y     1.374  0.0116     1.374  0.0116
+DXF         CAY         CBA      SINGLE       n     1.467  0.0100     1.467  0.0100
+DXF         NAN         CAY      DOUBLE       n     1.285  0.0117     1.285  0.0117
+DXF         NAN         OAQ      SINGLE       n     1.401  0.0129     1.401  0.0129
+DXF         OAR         CAU      SINGLE       n     1.346  0.0121     1.346  0.0121
+DXF         NAB         CAU      SINGLE       n     1.326  0.0100     1.326  0.0100
+DXF         CAA         OAQ      SINGLE       n     1.431  0.0100     1.431  0.0100
+DXF         CAW         CAY      SINGLE       n     1.498  0.0200     1.498  0.0200
+DXF         CAL         OAR      SINGLE       n     1.449  0.0132     1.449  0.0132
+DXF         CAL         CAX      SINGLE       n     1.502  0.0100     1.502  0.0100
+DXF           N         CAW      SINGLE       n     1.334  0.0149     1.334  0.0149
+DXF         OAF         CAW      DOUBLE       n     1.231  0.0100     1.231  0.0100
+DXF         CAM         CAX      SINGLE       n     1.497  0.0100     1.497  0.0100
+DXF         CAM         SAT      SINGLE       n     1.804  0.0100     1.804  0.0100
+DXF           N          CA      SINGLE       n     1.455  0.0100     1.455  0.0100
+DXF         CAX         CAZ      DOUBLE       n     1.346  0.0100     1.346  0.0100
+DXF         OAG         CAV      DOUBLE       n     1.217  0.0200     1.217  0.0200
+DXF           C           O      DOUBLE       n     1.191  0.0200     1.191  0.0200
+DXF         CAV         CAZ      SINGLE       n     1.523  0.0100     1.523  0.0100
+DXF         NAP         CAZ      SINGLE       n     1.370  0.0200     1.370  0.0200
+DXF          CB         SAT      SINGLE       n     1.816  0.0145     1.816  0.0145
+DXF         OAE         CAV      SINGLE       n     1.217  0.0200     1.217  0.0200
+DXF           C          CA      SINGLE       n     1.539  0.0100     1.539  0.0100
+DXF          CA          CB      SINGLE       n     1.528  0.0200     1.528  0.0200
+DXF          CB         NAP      SINGLE       n     1.462  0.0118     1.462  0.0118
+DXF           C          H1      SINGLE       n     1.082  0.0130     0.947  0.0200
+DXF           N          H3      SINGLE       n     1.016  0.0100     0.874  0.0200
+DXF          CA          H5      SINGLE       n     1.089  0.0100     0.989  0.0198
+DXF          CB          H6      SINGLE       n     1.089  0.0100     0.990  0.0200
+DXF         CAA          H7      SINGLE       n     1.089  0.0100     0.970  0.0177
+DXF         CAA          H8      SINGLE       n     1.089  0.0100     0.970  0.0177
+DXF         CAA          H9      SINGLE       n     1.089  0.0100     0.970  0.0177
+DXF         NAB         H10      SINGLE       n     1.016  0.0100     0.884  0.0200
+DXF         NAB         H11      SINGLE       n     1.016  0.0100     0.884  0.0200
+DXF         CAI         H13      SINGLE       n     1.082  0.0130     0.938  0.0166
+DXF         CAJ         H14      SINGLE       n     1.082  0.0130     0.941  0.0191
+DXF         CAK         H15      SINGLE       n     1.082  0.0130     0.936  0.0163
+DXF         CAL         H16      SINGLE       n     1.089  0.0100     0.984  0.0105
+DXF         CAL          H2      SINGLE       n     1.089  0.0100     0.984  0.0105
+DXF         CAM         H17      SINGLE       n     1.089  0.0100     0.977  0.0141
+DXF         CAM         H18      SINGLE       n     1.089  0.0100     0.977  0.0141
+DXF         NAP          H4      SINGLE       n     1.016  0.0100     0.880  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -131,84 +131,83 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-DXF O   C   CA  120.289 1.60
-DXF O   C   H1  120.163 1.50
-DXF CA  C   H1  119.547 2.53
-DXF CAW N   CA  122.589 2.50
-DXF CAW N   H3  118.605 2.08
-DXF CA  N   H3  118.806 1.91
-DXF N   CA  C   110.921 1.74
-DXF N   CA  CB  112.102 2.36
-DXF N   CA  H5  108.169 1.50
-DXF C   CA  CB  113.355 2.65
-DXF C   CA  H5  108.186 1.50
-DXF CB  CA  H5  109.342 1.50
-DXF SAT CB  CA  107.746 3.00
-DXF SAT CB  NAP 110.151 1.60
-DXF SAT CB  H6  108.373 1.68
-DXF CA  CB  NAP 110.271 2.01
-DXF CA  CB  H6  107.642 1.65
-DXF NAP CB  H6  109.078 1.50
-DXF OAQ CAA H7  109.449 1.50
-DXF OAQ CAA H8  109.449 1.50
-DXF OAQ CAA H9  109.449 1.50
-DXF H7  CAA H8  109.461 1.50
-DXF H7  CAA H9  109.461 1.50
-DXF H8  CAA H9  109.461 1.50
-DXF CAU NAB H10 119.996 2.41
-DXF CAU NAB H11 119.996 2.41
-DXF H10 NAB H11 120.007 3.00
-DXF CAK CAI CAJ 106.861 1.50
-DXF CAK CAI H13 126.610 1.50
-DXF CAJ CAI H13 126.529 1.50
-DXF CAI CAJ OAS 110.486 1.50
-DXF CAI CAJ H14 125.624 2.87
-DXF OAS CAJ H14 123.890 2.84
-DXF CAI CAK CBA 106.733 1.50
-DXF CAI CAK H15 127.153 1.50
-DXF CBA CAK H15 126.115 1.50
-DXF OAR CAL CAX 108.923 2.04
-DXF OAR CAL H16 109.039 2.57
-DXF OAR CAL H2  109.039 2.57
-DXF CAX CAL H16 110.379 3.00
-DXF CAX CAL H2  110.379 3.00
-DXF H16 CAL H2  108.062 1.50
-DXF CAX CAM SAT 111.860 2.17
-DXF CAX CAM H17 108.678 1.50
-DXF CAX CAM H18 108.678 1.50
-DXF SAT CAM H17 109.111 1.50
-DXF SAT CAM H18 109.111 1.50
-DXF H17 CAM H18 108.104 1.50
-DXF CAY NAN OAQ 111.365 1.50
-DXF CAZ NAP CB  122.646 2.69
-DXF CAZ NAP H4  118.959 1.50
-DXF CB  NAP H4  118.395 2.75
-DXF NAN OAQ CAA 108.634 1.50
-DXF CAU OAR CAL 115.707 1.50
-DXF CAJ OAS CBA 106.927 1.50
-DXF CAM SAT CB  99.411  2.27
-DXF OAD CAU OAR 124.504 1.50
-DXF OAD CAU NAB 124.940 1.50
-DXF OAR CAU NAB 110.556 1.50
-DXF OAG CAV CAZ 116.187 1.68
-DXF OAG CAV OAE 127.626 1.50
-DXF CAZ CAV OAE 116.187 1.68
-DXF CAY CAW N   118.431 3.00
-DXF CAY CAW OAF 118.608 1.54
-DXF N   CAW OAF 122.961 1.83
-DXF CAL CAX CAM 116.541 2.44
-DXF CAL CAX CAZ 122.031 2.28
-DXF CAM CAX CAZ 121.428 3.00
-DXF CBA CAY NAN 120.279 3.00
-DXF CBA CAY CAW 122.513 3.00
-DXF NAN CAY CAW 117.209 3.00
-DXF CAX CAZ CAV 121.007 2.59
-DXF CAX CAZ NAP 120.071 1.66
-DXF CAV CAZ NAP 118.922 3.00
-DXF CAK CBA OAS 108.994 1.50
-DXF CAK CBA CAY 131.457 2.46
-DXF OAS CBA CAY 119.549 2.37
-
+DXF           O           C          CA     120.289    1.60
+DXF           O           C          H1     120.163    1.50
+DXF          CA           C          H1     119.547    2.53
+DXF         CAW           N          CA     122.589    2.50
+DXF         CAW           N          H3     118.605    2.08
+DXF          CA           N          H3     118.806    1.91
+DXF           N          CA           C     110.921    1.74
+DXF           N          CA          CB     112.102    2.36
+DXF           N          CA          H5     108.169    1.50
+DXF           C          CA          CB     113.355    2.65
+DXF           C          CA          H5     108.186    1.50
+DXF          CB          CA          H5     109.342    1.50
+DXF         SAT          CB          CA     107.746    3.00
+DXF         SAT          CB         NAP     110.151    1.60
+DXF         SAT          CB          H6     108.373    1.68
+DXF          CA          CB         NAP     110.271    2.01
+DXF          CA          CB          H6     107.642    1.65
+DXF         NAP          CB          H6     109.078    1.50
+DXF         OAQ         CAA          H7     109.449    1.50
+DXF         OAQ         CAA          H8     109.449    1.50
+DXF         OAQ         CAA          H9     109.449    1.50
+DXF          H7         CAA          H8     109.461    1.50
+DXF          H7         CAA          H9     109.461    1.50
+DXF          H8         CAA          H9     109.461    1.50
+DXF         CAU         NAB         H10     119.996    2.41
+DXF         CAU         NAB         H11     119.996    2.41
+DXF         H10         NAB         H11     120.007    3.00
+DXF         CAK         CAI         CAJ     106.861    1.50
+DXF         CAK         CAI         H13     126.610    1.50
+DXF         CAJ         CAI         H13     126.529    1.50
+DXF         CAI         CAJ         OAS     110.486    1.50
+DXF         CAI         CAJ         H14     125.624    2.87
+DXF         OAS         CAJ         H14     123.890    2.84
+DXF         CAI         CAK         CBA     106.733    1.50
+DXF         CAI         CAK         H15     127.153    1.50
+DXF         CBA         CAK         H15     126.115    1.50
+DXF         OAR         CAL         CAX     108.923    2.04
+DXF         OAR         CAL         H16     109.039    2.57
+DXF         OAR         CAL          H2     109.039    2.57
+DXF         CAX         CAL         H16     110.379    3.00
+DXF         CAX         CAL          H2     110.379    3.00
+DXF         H16         CAL          H2     108.062    1.50
+DXF         CAX         CAM         SAT     111.860    2.17
+DXF         CAX         CAM         H17     108.678    1.50
+DXF         CAX         CAM         H18     108.678    1.50
+DXF         SAT         CAM         H17     109.111    1.50
+DXF         SAT         CAM         H18     109.111    1.50
+DXF         H17         CAM         H18     108.104    1.50
+DXF         CAY         NAN         OAQ     111.365    1.50
+DXF         CAZ         NAP          CB     122.646    2.69
+DXF         CAZ         NAP          H4     118.959    1.50
+DXF          CB         NAP          H4     118.395    2.75
+DXF         NAN         OAQ         CAA     108.634    1.50
+DXF         CAU         OAR         CAL     115.707    1.50
+DXF         CAJ         OAS         CBA     106.927    1.50
+DXF         CAM         SAT          CB      99.411    2.27
+DXF         OAD         CAU         OAR     124.504    1.50
+DXF         OAD         CAU         NAB     124.940    1.50
+DXF         OAR         CAU         NAB     110.556    1.50
+DXF         OAG         CAV         CAZ     116.187    1.68
+DXF         OAG         CAV         OAE     127.626    1.50
+DXF         CAZ         CAV         OAE     116.187    1.68
+DXF         CAY         CAW           N     118.431    3.00
+DXF         CAY         CAW         OAF     118.608    1.54
+DXF           N         CAW         OAF     122.961    1.83
+DXF         CAL         CAX         CAM     116.541    2.44
+DXF         CAL         CAX         CAZ     122.031    2.28
+DXF         CAM         CAX         CAZ     121.428    3.00
+DXF         CBA         CAY         NAN     120.279    3.00
+DXF         CBA         CAY         CAW     122.513    3.00
+DXF         NAN         CAY         CAW     117.209    3.00
+DXF         CAX         CAZ         CAV     121.007    2.59
+DXF         CAX         CAZ         NAP     120.071    1.66
+DXF         CAV         CAZ         NAP     118.922    3.00
+DXF         CAK         CBA         OAS     108.994    1.50
+DXF         CAK         CBA         CAY     131.457    2.46
+DXF         OAS         CBA         CAY     119.549    2.37
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -219,32 +218,31 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-DXF sp2_sp3_19      O   C   CA  N   0.000   10.0 6
-DXF const_13        CAK CAI CAJ OAS 0.000   10.0 2
-DXF const_sp2_sp2_1 CAJ CAI CAK CBA 0.000   5.0  2
-DXF const_11        CAI CAJ OAS CBA 0.000   10.0 2
-DXF const_sp2_sp2_6 CAI CAK CBA CAY 180.000 5.0  2
-DXF sp3_sp3_11      CAX CAL OAR CAU 180.000 10.0 3
-DXF sp2_sp3_8       CAM CAX CAL OAR -90.000 10.0 6
-DXF sp3_sp3_4       CAX CAM SAT CB  -60.000 10.0 3
-DXF sp2_sp3_4       CAL CAX CAM SAT 180.000 10.0 6
-DXF sp2_sp2_15      CAY NAN OAQ CAA 180.000 5.0  2
-DXF sp2_sp2_14      CAW CAY NAN OAQ 0.000   5.0  2
-DXF sp2_sp2_7       CAV CAZ NAP CB  180.000 5.0  2
-DXF sp2_sp2_16      OAD CAU OAR CAL 180.000 5.0  2
-DXF sp2_sp2_26      CAY CAW N   CA  180.000 5.0  2
-DXF sp2_sp3_13      CAW N   CA  C   0.000   10.0 6
-DXF const_10        CAY CBA OAS CAJ 180.000 10.0 2
-DXF sp2_sp2_30      OAG CAV CAZ CAX 180.000 5.0  2
-DXF sp2_sp2_23      N   CAW CAY NAN 0.000   5.0  2
-DXF sp2_sp2_4       CAL CAX CAZ CAV 0.000   5.0  2
-DXF sp2_sp2_11      NAN CAY CBA CAK 0.000   5.0  2
-DXF sp3_sp3_14      N   CA  CB  SAT 180.000 10.0 3
-DXF sp2_sp3_26      CAZ NAP CB  CA  120.000 10.0 6
-DXF sp3_sp3_2       CA  CB  SAT CAM -60.000 10.0 3
-DXF sp3_sp3_8       H7  CAA OAQ NAN -60.000 10.0 3
-DXF sp2_sp2_20      OAD CAU NAB H10 0.000   5.0  2
-
+DXF            sp2_sp3_19           O           C          CA           N       0.000    10.0     6
+DXF              const_13         CAK         CAI         CAJ         OAS       0.000    10.0     2
+DXF       const_sp2_sp2_1         CAJ         CAI         CAK         CBA       0.000     5.0     2
+DXF              const_11         CAI         CAJ         OAS         CBA       0.000    10.0     2
+DXF       const_sp2_sp2_6         CAI         CAK         CBA         CAY     180.000     5.0     2
+DXF            sp3_sp3_11         CAX         CAL         OAR         CAU     180.000    10.0     3
+DXF             sp2_sp3_8         CAM         CAX         CAL         OAR     -90.000    10.0     6
+DXF             sp3_sp3_4         CAX         CAM         SAT          CB     -60.000    10.0     3
+DXF             sp2_sp3_4         CAL         CAX         CAM         SAT     180.000    10.0     6
+DXF            sp2_sp2_15         CAY         NAN         OAQ         CAA     180.000     5.0     2
+DXF            sp2_sp2_14         CAW         CAY         NAN         OAQ       0.000     5.0     2
+DXF             sp2_sp2_7         CAV         CAZ         NAP          CB     180.000     5.0     2
+DXF            sp2_sp2_16         OAD         CAU         OAR         CAL     180.000     5.0     2
+DXF            sp2_sp2_26         CAY         CAW           N          CA     180.000     5.0     2
+DXF            sp2_sp3_13         CAW           N          CA           C       0.000    10.0     6
+DXF              const_10         CAY         CBA         OAS         CAJ     180.000    10.0     2
+DXF            sp2_sp2_30         OAG         CAV         CAZ         CAX     180.000     5.0     2
+DXF            sp2_sp2_23           N         CAW         CAY         NAN       0.000     5.0     2
+DXF             sp2_sp2_4         CAL         CAX         CAZ         CAV       0.000     5.0     2
+DXF            sp2_sp2_11         NAN         CAY         CBA         CAK       0.000     5.0     2
+DXF            sp3_sp3_14           N          CA          CB         SAT     180.000    10.0     3
+DXF            sp2_sp3_26         CAZ         NAP          CB          CA     120.000    10.0     6
+DXF             sp3_sp3_2          CA          CB         SAT         CAM     -60.000    10.0     3
+DXF             sp3_sp3_8          H7         CAA         OAQ         NAN     -60.000    10.0     3
+DXF            sp2_sp2_20         OAD         CAU         NAB         H10       0.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -253,97 +251,81 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-DXF chir_1 CA N   CB  C  negative
-DXF chir_2 CB SAT NAP CA negative
-
+DXF    chir_1    CA    N    CB    C    negative
+DXF    chir_2    CB    SAT    NAP    CA    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-DXF plan-1  CAI 0.020
-DXF plan-1  CAJ 0.020
-DXF plan-1  CAK 0.020
-DXF plan-1  CAY 0.020
-DXF plan-1  CBA 0.020
-DXF plan-1  H13 0.020
-DXF plan-1  H14 0.020
-DXF plan-1  H15 0.020
-DXF plan-1  OAS 0.020
-DXF plan-2  C   0.020
-DXF plan-2  CA  0.020
-DXF plan-2  H1  0.020
-DXF plan-2  O   0.020
-DXF plan-3  CA  0.020
-DXF plan-3  CAW 0.020
-DXF plan-3  H3  0.020
-DXF plan-3  N   0.020
-DXF plan-4  CAU 0.020
-DXF plan-4  H10 0.020
-DXF plan-4  H11 0.020
-DXF plan-4  NAB 0.020
-DXF plan-5  CAZ 0.020
-DXF plan-5  CB  0.020
-DXF plan-5  H4  0.020
-DXF plan-5  NAP 0.020
-DXF plan-6  CAU 0.020
-DXF plan-6  NAB 0.020
-DXF plan-6  OAD 0.020
-DXF plan-6  OAR 0.020
-DXF plan-7  CAV 0.020
-DXF plan-7  CAZ 0.020
-DXF plan-7  OAE 0.020
-DXF plan-7  OAG 0.020
-DXF plan-8  CAW 0.020
-DXF plan-8  CAY 0.020
-DXF plan-8  N   0.020
-DXF plan-8  OAF 0.020
-DXF plan-9  CAL 0.020
-DXF plan-9  CAM 0.020
-DXF plan-9  CAX 0.020
-DXF plan-9  CAZ 0.020
-DXF plan-10 CAW 0.020
-DXF plan-10 CAY 0.020
-DXF plan-10 CBA 0.020
-DXF plan-10 NAN 0.020
-DXF plan-11 CAV 0.020
-DXF plan-11 CAX 0.020
-DXF plan-11 CAZ 0.020
-DXF plan-11 NAP 0.020
-
+DXF    plan-1         CAI   0.020
+DXF    plan-1         CAJ   0.020
+DXF    plan-1         CAK   0.020
+DXF    plan-1         CAY   0.020
+DXF    plan-1         CBA   0.020
+DXF    plan-1         H13   0.020
+DXF    plan-1         H14   0.020
+DXF    plan-1         H15   0.020
+DXF    plan-1         OAS   0.020
+DXF    plan-2           C   0.020
+DXF    plan-2          CA   0.020
+DXF    plan-2          H1   0.020
+DXF    plan-2           O   0.020
+DXF    plan-3          CA   0.020
+DXF    plan-3         CAW   0.020
+DXF    plan-3          H3   0.020
+DXF    plan-3           N   0.020
+DXF    plan-4         CAU   0.020
+DXF    plan-4         H10   0.020
+DXF    plan-4         H11   0.020
+DXF    plan-4         NAB   0.020
+DXF    plan-5         CAZ   0.020
+DXF    plan-5          CB   0.020
+DXF    plan-5          H4   0.020
+DXF    plan-5         NAP   0.020
+DXF    plan-6         CAU   0.020
+DXF    plan-6         NAB   0.020
+DXF    plan-6         OAD   0.020
+DXF    plan-6         OAR   0.020
+DXF    plan-7         CAV   0.020
+DXF    plan-7         CAZ   0.020
+DXF    plan-7         OAE   0.020
+DXF    plan-7         OAG   0.020
+DXF    plan-8         CAW   0.020
+DXF    plan-8         CAY   0.020
+DXF    plan-8           N   0.020
+DXF    plan-8         OAF   0.020
+DXF    plan-9         CAL   0.020
+DXF    plan-9         CAM   0.020
+DXF    plan-9         CAX   0.020
+DXF    plan-9         CAZ   0.020
+DXF   plan-10         CAW   0.020
+DXF   plan-10         CAY   0.020
+DXF   plan-10         CBA   0.020
+DXF   plan-10         NAN   0.020
+DXF   plan-11         CAV   0.020
+DXF   plan-11         CAX   0.020
+DXF   plan-11         CAZ   0.020
+DXF   plan-11         NAP   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-DXF SMILES           ACDLabs              12.01 O=CC(NC(=O)C(=N\OC)/c1occc1)C2SCC(=C(N2)C(=O)O)COC(=O)N
-DXF InChI            InChI                1.03  InChI=1S/C16H18N4O8S/c1-26-20-12(10-3-2-4-27-10)13(22)18-9(5-21)14-19-11(15(23)24)8(7-29-14)6-28-16(17)25/h2-5,9,14,19H,6-7H2,1H3,(H2,17,25)(H,18,22)(H,23,24)/b20-12-/t9-,14-/m1/s1
-DXF InChIKey         InChI                1.03  RUUDYXYLGTZCPN-VRVPSKPHSA-N
-DXF SMILES_CANONICAL CACTVS               3.370 CO\N=C(/C(=O)N[C@H](C=O)[C@@H]1NC(=C(COC(N)=O)CS1)C(O)=O)c2occc2
-DXF SMILES           CACTVS               3.370 CON=C(C(=O)N[CH](C=O)[CH]1NC(=C(COC(N)=O)CS1)C(O)=O)c2occc2
-DXF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CO/N=C(/c1ccco1)\C(=O)N[C@H](C=O)[C@@H]2NC(=C(CS2)COC(=O)N)C(=O)O
-DXF SMILES           "OpenEye OEToolkits" 1.7.6 CON=C(c1ccco1)C(=O)NC(C=O)C2NC(=C(CS2)COC(=O)N)C(=O)O
-
+DXF           SMILES              ACDLabs 12.01                                                                                                                              O=CC(NC(=O)C(=N\OC)/c1occc1)C2SCC(=C(N2)C(=O)O)COC(=O)N
+DXF            InChI                InChI  1.03 InChI=1S/C16H18N4O8S/c1-26-20-12(10-3-2-4-27-10)13(22)18-9(5-21)14-19-11(15(23)24)8(7-29-14)6-28-16(17)25/h2-5,9,14,19H,6-7H2,1H3,(H2,17,25)(H,18,22)(H,23,24)/b20-12-/t9-,14-/m1/s1
+DXF         InChIKey                InChI  1.03                                                                                                                                                          RUUDYXYLGTZCPN-VRVPSKPHSA-N
+DXF SMILES_CANONICAL               CACTVS 3.370                                                                                                                     CO\N=C(/C(=O)N[C@H](C=O)[C@@H]1NC(=C(COC(N)=O)CS1)C(O)=O)c2occc2
+DXF           SMILES               CACTVS 3.370                                                                                                                          CON=C(C(=O)N[CH](C=O)[CH]1NC(=C(COC(N)=O)CS1)C(O)=O)c2occc2
+DXF SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                    CO/N=C(/c1ccco1)\C(=O)N[C@H](C=O)[C@@H]2NC(=C(CS2)COC(=O)N)C(=O)O
+DXF           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                CON=C(c1ccco1)C(=O)NC(C=O)C2NC(=C(CS2)COC(=O)N)C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-DXF acedrg          243       "dictionary generator"
-DXF acedrg_database 11        "data source"
-DXF rdkit           2017.03.2 "Chemoinformatics tool"
-DXF refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-DXF M-peptide OAG O
-DXF M-peptide CAV C
-DXF M-peptide CAZ CA
-DXF M-peptide NAP N
-DXF M-peptide CB  CN
-DXF M-peptide OAE OXT
-DXF M-peptide H4  H
+DXF acedrg               243         "dictionary generator"                  
+DXF acedrg_database      11          "data source"                           
+DXF rdkit                2017.03.2   "Chemoinformatics tool"
+DXF refmac5              5.8.0238    "optimization tool"                     

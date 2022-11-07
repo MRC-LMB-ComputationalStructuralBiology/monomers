@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-FON FON "N-{[4-({[(6R)-2-amino-5-formyl-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)phenyl]carbonyl}-L-glutamic acid" NON-POLYMER 55 34 .
-
+FON     FON      "N-{[4-({[(6R)-2-amino-5-formyl-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)phenyl]carbonyl}-L-glutamic acid"     NON-POLYMER     55     34     .     
+#
 data_comp_FON
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,62 +21,61 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-FON N1   N NR6  0  22.112 55.638 45.215
-FON C2   C CR6  0  21.875 56.571 44.243
-FON NA2  N NH2  0  21.718 56.148 42.989
-FON N3   N NRD6 0  21.800 57.874 44.519
-FON C4   C CR6  0  21.963 58.314 45.823
-FON O4   O O    0  21.880 59.538 46.002
-FON C4A  C CR66 0  22.213 57.395 46.882
-FON N5   N NR6  0  22.388 57.773 48.259
-FON C6   C CH1  0  22.890 56.762 49.246
-FON C7   C CH2  0  22.373 55.356 48.922
-FON N8   N NR6  0  22.522 55.061 47.503
-FON C8A  C CR66 0  22.282 56.014 46.535
-FON C9   C CH2  0  24.425 56.815 49.330
-FON N10  N NH1  0  24.992 56.033 50.421
-FON C11  C CR6  0  24.368 56.674 54.513
-FON C12  C CR16 0  24.519 55.388 53.999
-FON C13  C CR16 0  24.727 55.184 52.647
-FON C14  C CR6  0  24.774 56.272 51.765
-FON C15  C CR16 0  24.622 57.567 52.281
-FON C16  C CR16 0  24.416 57.756 53.636
-FON C    C C    0  24.137 56.911 55.981
-FON O    O O    0  23.222 57.650 56.348
-FON N    N NH1  0  24.964 56.298 56.843
-FON CA   C CH1  0  24.858 56.441 58.292
-FON CB   C CH2  0  25.538 55.272 59.017
-FON CG   C CH2  0  25.113 55.138 60.471
-FON CD   C C    0  25.650 53.919 61.205
-FON OE1  O O    0  25.204 53.679 62.345
-FON OE2  O OC   -1 26.513 53.213 60.643
-FON CT   C C    0  25.445 57.794 58.735
-FON O1   O O    0  24.715 58.540 59.417
-FON O2   O OC   -1 26.613 58.051 58.381
-FON CP1  C C1   0  22.116 59.023 48.768
-FON O3   O O    0  21.127 59.273 49.450
-FON HN1  H H    0  22.153 54.785 44.981
-FON HN21 H H    0  21.111 56.521 42.477
-FON HN22 H H    0  22.221 55.498 42.683
-FON H61  H H    0  22.527 57.017 50.133
-FON H7   H H    0  21.426 55.294 49.171
-FON HC72 H H    0  22.871 54.695 49.448
-FON HN8  H H    0  22.770 54.256 47.267
-FON H91  H H    0  24.703 57.750 49.429
-FON H92  H H    0  24.794 56.482 48.483
-FON HN0  H H    0  25.515 55.360 50.202
-FON H12  H H    0  24.487 54.647 54.577
-FON H13  H H    0  24.832 54.308 52.315
-FON H15  H H    0  24.656 58.311 51.706
-FON H16  H H    0  24.311 58.630 53.968
-FON HN   H H    0  25.610 55.797 56.536
-FON HA   H H    0  23.896 56.426 58.533
-FON HB1  H H    0  26.510 55.399 58.978
-FON HB2  H H    0  25.323 54.442 58.543
-FON HG1  H H    0  24.133 55.110 60.511
-FON HG2  H H    0  25.401 55.938 60.960
-FON HCP1 H H    0  22.732 59.716 48.577
-
+FON     N1      N       NR6     0       22.112      55.638      45.215      
+FON     C2      C       CR6     0       21.875      56.571      44.243      
+FON     NA2     N       NH2     0       21.718      56.148      42.989      
+FON     N3      N       NRD6    0       21.800      57.874      44.519      
+FON     C4      C       CR6     0       21.963      58.314      45.823      
+FON     O4      O       O       0       21.880      59.538      46.002      
+FON     C4A     C       CR66    0       22.213      57.395      46.882      
+FON     N5      N       NR6     0       22.388      57.773      48.259      
+FON     C6      C       CH1     0       22.890      56.762      49.246      
+FON     C7      C       CH2     0       22.373      55.356      48.922      
+FON     N8      N       NR6     0       22.522      55.061      47.503      
+FON     C8A     C       CR66    0       22.282      56.014      46.535      
+FON     C9      C       CH2     0       24.425      56.815      49.330      
+FON     N10     N       NH1     0       24.992      56.033      50.421      
+FON     C11     C       CR6     0       24.368      56.674      54.513      
+FON     C12     C       CR16    0       24.519      55.388      53.999      
+FON     C13     C       CR16    0       24.727      55.184      52.647      
+FON     C14     C       CR6     0       24.774      56.272      51.765      
+FON     C15     C       CR16    0       24.622      57.567      52.281      
+FON     C16     C       CR16    0       24.416      57.756      53.636      
+FON     C       C       C       0       24.137      56.911      55.981      
+FON     O       O       O       0       23.222      57.650      56.348      
+FON     N       N       NH1     0       24.964      56.298      56.843      
+FON     CA      C       CH1     0       24.858      56.441      58.292      
+FON     CB      C       CH2     0       25.538      55.272      59.017      
+FON     CG      C       CH2     0       25.113      55.138      60.471      
+FON     CD      C       C       0       25.650      53.919      61.205      
+FON     OE1     O       O       0       25.204      53.679      62.345      
+FON     OE2     O       OC      -1      26.513      53.213      60.643      
+FON     CT      C       C       0       25.445      57.794      58.735      
+FON     O1      O       O       0       24.715      58.540      59.417      
+FON     O2      O       OC      -1      26.613      58.051      58.381      
+FON     CP1     C       C1      0       22.116      59.023      48.768      
+FON     O3      O       O       0       21.127      59.273      49.450      
+FON     HN1     H       H       0       22.153      54.785      44.981      
+FON     HN21    H       H       0       21.111      56.521      42.477      
+FON     HN22    H       H       0       22.221      55.498      42.683      
+FON     H61     H       H       0       22.527      57.017      50.133      
+FON     H7      H       H       0       21.426      55.294      49.171      
+FON     HC72    H       H       0       22.871      54.695      49.448      
+FON     HN8     H       H       0       22.770      54.256      47.267      
+FON     H91     H       H       0       24.703      57.750      49.429      
+FON     H92     H       H       0       24.794      56.482      48.483      
+FON     HN0     H       H       0       25.515      55.360      50.202      
+FON     H12     H       H       0       24.487      54.647      54.577      
+FON     H13     H       H       0       24.832      54.308      52.315      
+FON     H15     H       H       0       24.656      58.311      51.706      
+FON     H16     H       H       0       24.311      58.630      53.968      
+FON     HN      H       H       0       25.610      55.797      56.536      
+FON     HA      H       H       0       23.896      56.426      58.533      
+FON     HB1     H       H       0       26.510      55.399      58.978      
+FON     HB2     H       H       0       25.323      54.442      58.543      
+FON     HG1     H       H       0       24.133      55.110      60.511      
+FON     HG2     H       H       0       25.401      55.938      60.960      
+FON     HCP1    H       H       0       22.732      59.716      48.577      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -85,64 +86,63 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-FON N1  C2   SINGLE y 1.362 0.0100 1.362 0.0100
-FON N1  C8A  SINGLE y 1.376 0.0146 1.376 0.0146
-FON C2  NA2  SINGLE n 1.333 0.0100 1.333 0.0100
-FON C2  N3   DOUBLE y 1.328 0.0100 1.328 0.0100
-FON N3  C4   SINGLE y 1.367 0.0200 1.367 0.0200
-FON C4  O4   DOUBLE n 1.239 0.0136 1.239 0.0136
-FON C4  C4A  SINGLE y 1.402 0.0200 1.402 0.0200
-FON C4A N5   SINGLE n 1.430 0.0100 1.430 0.0100
-FON C4A C8A  DOUBLE y 1.422 0.0200 1.422 0.0200
-FON N5  C6   SINGLE n 1.484 0.0152 1.484 0.0152
-FON N5  CP1  SINGLE n 1.368 0.0200 1.368 0.0200
-FON C6  C7   SINGLE n 1.527 0.0119 1.527 0.0119
-FON C6  C9   SINGLE n 1.536 0.0125 1.536 0.0125
-FON C7  N8   SINGLE n 1.456 0.0100 1.456 0.0100
-FON N8  C8A  SINGLE n 1.380 0.0164 1.380 0.0164
-FON C9  N10  SINGLE n 1.454 0.0100 1.454 0.0100
-FON N10 C14  SINGLE n 1.375 0.0130 1.375 0.0130
-FON C11 C12  DOUBLE y 1.390 0.0100 1.390 0.0100
-FON C11 C16  SINGLE y 1.390 0.0100 1.390 0.0100
-FON C11 C    SINGLE n 1.502 0.0100 1.502 0.0100
-FON C12 C13  SINGLE y 1.379 0.0100 1.379 0.0100
-FON C13 C14  DOUBLE y 1.395 0.0124 1.395 0.0124
-FON C14 C15  SINGLE y 1.395 0.0124 1.395 0.0124
-FON C15 C16  DOUBLE y 1.379 0.0100 1.379 0.0100
-FON C   O    DOUBLE n 1.230 0.0114 1.230 0.0114
-FON C   N    SINGLE n 1.337 0.0101 1.337 0.0101
-FON N   CA   SINGLE n 1.456 0.0100 1.456 0.0100
-FON CA  CB   SINGLE n 1.533 0.0100 1.533 0.0100
-FON CA  CT   SINGLE n 1.539 0.0100 1.539 0.0100
-FON CB  CG   SINGLE n 1.518 0.0153 1.518 0.0153
-FON CG  CD   SINGLE n 1.519 0.0109 1.519 0.0109
-FON CD  OE1  DOUBLE n 1.247 0.0187 1.247 0.0187
-FON CD  OE2  SINGLE n 1.247 0.0187 1.247 0.0187
-FON CT  O1   DOUBLE n 1.247 0.0187 1.247 0.0187
-FON CT  O2   SINGLE n 1.247 0.0187 1.247 0.0187
-FON CP1 O3   DOUBLE n 1.227 0.0200 1.227 0.0200
-FON N1  HN1  SINGLE n 1.016 0.0100 0.885 0.0200
-FON NA2 HN21 SINGLE n 1.016 0.0100 0.877 0.0200
-FON NA2 HN22 SINGLE n 1.016 0.0100 0.877 0.0200
-FON C6  H61  SINGLE n 1.089 0.0100 0.991 0.0179
-FON C7  H7   SINGLE n 1.089 0.0100 0.981 0.0161
-FON C7  HC72 SINGLE n 1.089 0.0100 0.981 0.0161
-FON N8  HN8  SINGLE n 1.016 0.0100 0.875 0.0200
-FON C9  H91  SINGLE n 1.089 0.0100 0.981 0.0200
-FON C9  H92  SINGLE n 1.089 0.0100 0.981 0.0200
-FON N10 HN0  SINGLE n 1.016 0.0100 0.880 0.0200
-FON C12 H12  SINGLE n 1.082 0.0130 0.941 0.0168
-FON C13 H13  SINGLE n 1.082 0.0130 0.942 0.0198
-FON C15 H15  SINGLE n 1.082 0.0130 0.942 0.0198
-FON C16 H16  SINGLE n 1.082 0.0130 0.941 0.0168
-FON N   HN   SINGLE n 1.016 0.0100 0.872 0.0200
-FON CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
-FON CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0178
-FON CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0178
-FON CG  HG1  SINGLE n 1.089 0.0100 0.981 0.0185
-FON CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0185
-FON CP1 HCP1 SINGLE n 1.082 0.0130 0.947 0.0200
-
+FON          N1          C2      SINGLE       y     1.362  0.0100     1.362  0.0100
+FON          N1         C8A      SINGLE       y     1.376  0.0146     1.376  0.0146
+FON          C2         NA2      SINGLE       n     1.333  0.0100     1.333  0.0100
+FON          C2          N3      DOUBLE       y     1.328  0.0100     1.328  0.0100
+FON          N3          C4      SINGLE       y     1.367  0.0200     1.367  0.0200
+FON          C4          O4      DOUBLE       n     1.239  0.0136     1.239  0.0136
+FON          C4         C4A      SINGLE       y     1.402  0.0200     1.402  0.0200
+FON         C4A          N5      SINGLE       n     1.430  0.0100     1.430  0.0100
+FON         C4A         C8A      DOUBLE       y     1.422  0.0200     1.422  0.0200
+FON          N5          C6      SINGLE       n     1.484  0.0152     1.484  0.0152
+FON          N5         CP1      SINGLE       n     1.368  0.0200     1.368  0.0200
+FON          C6          C7      SINGLE       n     1.527  0.0119     1.527  0.0119
+FON          C6          C9      SINGLE       n     1.536  0.0125     1.536  0.0125
+FON          C7          N8      SINGLE       n     1.456  0.0100     1.456  0.0100
+FON          N8         C8A      SINGLE       n     1.380  0.0164     1.380  0.0164
+FON          C9         N10      SINGLE       n     1.454  0.0100     1.454  0.0100
+FON         N10         C14      SINGLE       n     1.375  0.0130     1.375  0.0130
+FON         C11         C12      DOUBLE       y     1.390  0.0100     1.390  0.0100
+FON         C11         C16      SINGLE       y     1.390  0.0100     1.390  0.0100
+FON         C11           C      SINGLE       n     1.502  0.0100     1.502  0.0100
+FON         C12         C13      SINGLE       y     1.379  0.0100     1.379  0.0100
+FON         C13         C14      DOUBLE       y     1.395  0.0124     1.395  0.0124
+FON         C14         C15      SINGLE       y     1.395  0.0124     1.395  0.0124
+FON         C15         C16      DOUBLE       y     1.379  0.0100     1.379  0.0100
+FON           C           O      DOUBLE       n     1.230  0.0114     1.230  0.0114
+FON           C           N      SINGLE       n     1.337  0.0101     1.337  0.0101
+FON           N          CA      SINGLE       n     1.456  0.0100     1.456  0.0100
+FON          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
+FON          CA          CT      SINGLE       n     1.539  0.0100     1.539  0.0100
+FON          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
+FON          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
+FON          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+FON          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
+FON          CT          O1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+FON          CT          O2      SINGLE       n     1.247  0.0187     1.247  0.0187
+FON         CP1          O3      DOUBLE       n     1.227  0.0200     1.227  0.0200
+FON          N1         HN1      SINGLE       n     1.016  0.0100     0.885  0.0200
+FON         NA2        HN21      SINGLE       n     1.016  0.0100     0.877  0.0200
+FON         NA2        HN22      SINGLE       n     1.016  0.0100     0.877  0.0200
+FON          C6         H61      SINGLE       n     1.089  0.0100     0.991  0.0179
+FON          C7          H7      SINGLE       n     1.089  0.0100     0.981  0.0161
+FON          C7        HC72      SINGLE       n     1.089  0.0100     0.981  0.0161
+FON          N8         HN8      SINGLE       n     1.016  0.0100     0.875  0.0200
+FON          C9         H91      SINGLE       n     1.089  0.0100     0.981  0.0200
+FON          C9         H92      SINGLE       n     1.089  0.0100     0.981  0.0200
+FON         N10         HN0      SINGLE       n     1.016  0.0100     0.880  0.0200
+FON         C12         H12      SINGLE       n     1.082  0.0130     0.941  0.0168
+FON         C13         H13      SINGLE       n     1.082  0.0130     0.942  0.0198
+FON         C15         H15      SINGLE       n     1.082  0.0130     0.942  0.0198
+FON         C16         H16      SINGLE       n     1.082  0.0130     0.941  0.0168
+FON           N          HN      SINGLE       n     1.016  0.0100     0.872  0.0200
+FON          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
+FON          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0178
+FON          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0178
+FON          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0185
+FON          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0185
+FON         CP1        HCP1      SINGLE       n     1.082  0.0130     0.947  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -150,104 +150,103 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-FON C2   N1  C8A  120.171 1.90
-FON C2   N1  HN1  118.931 1.95
-FON C8A  N1  HN1  120.898 1.50
-FON N1   C2  NA2  118.606 1.50
-FON N1   C2  N3   120.908 1.50
-FON NA2  C2  N3   120.486 1.50
-FON C2   NA2 HN21 119.700 2.06
-FON C2   NA2 HN22 119.700 2.06
-FON HN21 NA2 HN22 120.601 1.96
-FON C2   N3  C4   118.282 1.50
-FON N3   C4  O4   117.020 1.50
-FON N3   C4  C4A  121.702 1.50
-FON O4   C4  C4A  121.278 1.69
-FON C4   C4A N5   121.529 1.55
-FON C4   C4A C8A  119.271 1.50
-FON N5   C4A C8A  119.200 1.69
-FON C4A  N5  C6   117.669 3.00
-FON C4A  N5  CP1  121.727 2.98
-FON C6   N5  CP1  120.604 3.00
-FON N5   C6  C7   110.160 1.50
-FON N5   C6  C9   110.271 2.01
-FON N5   C6  H61  106.799 1.50
-FON C7   C6  C9   111.163 2.25
-FON C7   C6  H61  107.845 1.60
-FON C9   C6  H61  107.920 1.50
-FON C6   C7  N8   110.160 1.50
-FON C6   C7  H7   109.290 1.50
-FON C6   C7  HC72 109.290 1.50
-FON N8   C7  H7   109.467 1.50
-FON N8   C7  HC72 109.467 1.50
-FON H7   C7  HC72 108.194 1.50
-FON C7   N8  C8A  122.056 2.07
-FON C7   N8  HN8  118.435 1.50
-FON C8A  N8  HN8  119.509 1.74
-FON N1   C8A C4A  119.666 1.68
-FON N1   C8A N8   119.579 2.02
-FON C4A  C8A N8   120.755 1.50
-FON C6   C9  N10  112.102 2.36
-FON C6   C9  H91  108.942 1.50
-FON C6   C9  H92  108.942 1.50
-FON N10  C9  H91  109.052 1.50
-FON N10  C9  H92  109.052 1.50
-FON H91  C9  H92  108.244 1.51
-FON C9   N10 C14  123.314 1.53
-FON C9   N10 HN0  118.172 1.91
-FON C14  N10 HN0  118.514 1.50
-FON C12  C11 C16  118.950 1.50
-FON C12  C11 C    120.525 2.80
-FON C16  C11 C    120.525 2.80
-FON C11  C12 C13  120.771 1.50
-FON C11  C12 H12  119.830 1.50
-FON C13  C12 H12  119.399 1.50
-FON C12  C13 C14  120.067 1.50
-FON C12  C13 H13  120.067 1.50
-FON C14  C13 H13  119.866 1.50
-FON N10  C14 C13  120.313 2.16
-FON N10  C14 C15  120.313 2.16
-FON C13  C14 C15  119.374 1.50
-FON C14  C15 C16  120.067 1.50
-FON C14  C15 H15  119.866 1.50
-FON C16  C15 H15  120.067 1.50
-FON C11  C16 C15  120.771 1.50
-FON C11  C16 H16  119.830 1.50
-FON C15  C16 H16  119.399 1.50
-FON C11  C   O    120.865 1.50
-FON C11  C   N    116.740 1.50
-FON O    C   N    122.394 1.50
-FON C    N   CA   122.253 1.50
-FON C    N   HN   119.427 1.94
-FON CA   N   HN   118.320 2.24
-FON N    CA  CB   110.984 1.61
-FON N    CA  CT   110.522 1.86
-FON N    CA  HA   107.930 1.50
-FON CB   CA  CT   111.638 2.31
-FON CB   CA  HA   108.155 1.50
-FON CT   CA  HA   108.327 1.50
-FON CA   CB  CG   112.938 1.50
-FON CA   CB  HB1  108.606 1.50
-FON CA   CB  HB2  108.606 1.50
-FON CG   CB  HB1  108.890 1.50
-FON CG   CB  HB2  108.890 1.50
-FON HB1  CB  HB2  107.844 1.50
-FON CB   CG  CD   114.629 2.24
-FON CB   CG  HG1  108.906 1.50
-FON CB   CG  HG2  108.906 1.50
-FON CD   CG  HG1  108.404 1.50
-FON CD   CG  HG2  108.404 1.50
-FON HG1  CG  HG2  107.521 1.50
-FON CG   CD  OE1  118.214 1.64
-FON CG   CD  OE2  118.214 1.64
-FON OE1  CD  OE2  123.571 1.50
-FON CA   CT  O1   117.249 1.61
-FON CA   CT  O2   117.249 1.61
-FON O1   CT  O2   125.502 1.50
-FON N5   CP1 O3   123.323 1.93
-FON N5   CP1 HCP1 117.513 3.00
-FON O3   CP1 HCP1 119.164 3.00
-
+FON          C2          N1         C8A     120.171    1.90
+FON          C2          N1         HN1     118.931    1.95
+FON         C8A          N1         HN1     120.898    1.50
+FON          N1          C2         NA2     118.606    1.50
+FON          N1          C2          N3     120.908    1.50
+FON         NA2          C2          N3     120.486    1.50
+FON          C2         NA2        HN21     119.700    2.06
+FON          C2         NA2        HN22     119.700    2.06
+FON        HN21         NA2        HN22     120.601    1.96
+FON          C2          N3          C4     118.282    1.50
+FON          N3          C4          O4     117.020    1.50
+FON          N3          C4         C4A     121.702    1.50
+FON          O4          C4         C4A     121.278    1.69
+FON          C4         C4A          N5     121.529    1.55
+FON          C4         C4A         C8A     119.271    1.50
+FON          N5         C4A         C8A     119.200    1.69
+FON         C4A          N5          C6     117.669    3.00
+FON         C4A          N5         CP1     121.727    2.98
+FON          C6          N5         CP1     120.604    3.00
+FON          N5          C6          C7     110.160    1.50
+FON          N5          C6          C9     110.271    2.01
+FON          N5          C6         H61     106.799    1.50
+FON          C7          C6          C9     111.163    2.25
+FON          C7          C6         H61     107.845    1.60
+FON          C9          C6         H61     107.920    1.50
+FON          C6          C7          N8     110.160    1.50
+FON          C6          C7          H7     109.290    1.50
+FON          C6          C7        HC72     109.290    1.50
+FON          N8          C7          H7     109.467    1.50
+FON          N8          C7        HC72     109.467    1.50
+FON          H7          C7        HC72     108.194    1.50
+FON          C7          N8         C8A     122.056    2.07
+FON          C7          N8         HN8     118.435    1.50
+FON         C8A          N8         HN8     119.509    1.74
+FON          N1         C8A         C4A     119.666    1.68
+FON          N1         C8A          N8     119.579    2.02
+FON         C4A         C8A          N8     120.755    1.50
+FON          C6          C9         N10     112.102    2.36
+FON          C6          C9         H91     108.942    1.50
+FON          C6          C9         H92     108.942    1.50
+FON         N10          C9         H91     109.052    1.50
+FON         N10          C9         H92     109.052    1.50
+FON         H91          C9         H92     108.244    1.51
+FON          C9         N10         C14     123.314    1.53
+FON          C9         N10         HN0     118.172    1.91
+FON         C14         N10         HN0     118.514    1.50
+FON         C12         C11         C16     118.950    1.50
+FON         C12         C11           C     120.525    2.80
+FON         C16         C11           C     120.525    2.80
+FON         C11         C12         C13     120.771    1.50
+FON         C11         C12         H12     119.830    1.50
+FON         C13         C12         H12     119.399    1.50
+FON         C12         C13         C14     120.067    1.50
+FON         C12         C13         H13     120.067    1.50
+FON         C14         C13         H13     119.866    1.50
+FON         N10         C14         C13     120.313    2.16
+FON         N10         C14         C15     120.313    2.16
+FON         C13         C14         C15     119.374    1.50
+FON         C14         C15         C16     120.067    1.50
+FON         C14         C15         H15     119.866    1.50
+FON         C16         C15         H15     120.067    1.50
+FON         C11         C16         C15     120.771    1.50
+FON         C11         C16         H16     119.830    1.50
+FON         C15         C16         H16     119.399    1.50
+FON         C11           C           O     120.865    1.50
+FON         C11           C           N     116.740    1.50
+FON           O           C           N     122.394    1.50
+FON           C           N          CA     122.253    1.50
+FON           C           N          HN     119.427    1.94
+FON          CA           N          HN     118.320    2.24
+FON           N          CA          CB     110.984    1.61
+FON           N          CA          CT     110.522    1.86
+FON           N          CA          HA     107.930    1.50
+FON          CB          CA          CT     111.638    2.31
+FON          CB          CA          HA     108.155    1.50
+FON          CT          CA          HA     108.327    1.50
+FON          CA          CB          CG     112.938    1.50
+FON          CA          CB         HB1     108.606    1.50
+FON          CA          CB         HB2     108.606    1.50
+FON          CG          CB         HB1     108.890    1.50
+FON          CG          CB         HB2     108.890    1.50
+FON         HB1          CB         HB2     107.844    1.50
+FON          CB          CG          CD     114.629    2.24
+FON          CB          CG         HG1     108.906    1.50
+FON          CB          CG         HG2     108.906    1.50
+FON          CD          CG         HG1     108.404    1.50
+FON          CD          CG         HG2     108.404    1.50
+FON         HG1          CG         HG2     107.521    1.50
+FON          CG          CD         OE1     118.214    1.64
+FON          CG          CD         OE2     118.214    1.64
+FON         OE1          CD         OE2     123.571    1.50
+FON          CA          CT          O1     117.249    1.61
+FON          CA          CT          O2     117.249    1.61
+FON          O1          CT          O2     125.502    1.50
+FON          N5         CP1          O3     123.323    1.93
+FON          N5         CP1        HCP1     117.513    3.00
+FON          O3         CP1        HCP1     119.164    3.00
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -258,36 +257,35 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-FON const_23        NA2 C2  N1  C8A  180.000 10.0 2
-FON const_37        C4A C8A N1  C2   0.000   10.0 2
-FON sp2_sp2_7       N1  C8A N8  C7   180.000 5.0  2
-FON sp2_sp3_14      C14 N10 C9  C6   120.000 10.0 6
-FON sp2_sp2_17      C13 C14 N10 C9   180.000 5.0  2
-FON const_sp2_sp2_3 C   C11 C12 C13  180.000 5.0  2
-FON const_43        C   C11 C16 C15  180.000 10.0 2
-FON sp2_sp2_23      O   C   C11 C12  0.000   5.0  2
-FON const_sp2_sp2_5 C11 C12 C13 C14  0.000   5.0  2
-FON const_10        C12 C13 C14 N10  180.000 10.0 2
-FON const_15        N10 C14 C15 C16  180.000 10.0 2
-FON const_17        C14 C15 C16 C11  0.000   10.0 2
-FON sp2_sp2_9       N1  C2  NA2 HN21 180.000 5.0  2
-FON const_26        NA2 C2  N3  C4   180.000 10.0 2
-FON sp2_sp2_27      O   C   N   CA   0.000   5.0  2
-FON sp2_sp3_19      C   N   CA  CB   0.000   10.0 6
-FON sp3_sp3_19      N   CA  CB  CG   180.000 10.0 3
-FON sp2_sp3_25      O1  CT  CA  N    0.000   10.0 6
-FON sp3_sp3_28      CA  CB  CG  CD   180.000 10.0 3
-FON sp2_sp3_32      OE1 CD  CG  CB   120.000 10.0 6
-FON const_28        O4  C4  N3  C2   180.000 10.0 2
-FON const_32        O4  C4  C4A N5   0.000   10.0 2
-FON const_33        C4  C4A C8A N1   0.000   10.0 2
-FON sp2_sp2_4       C4  C4A N5  CP1  0.000   5.0  2
-FON sp2_sp2_14      O3  CP1 N5  C4A  0.000   5.0  2
-FON sp2_sp3_5       CP1 N5  C6  C9   -60.000 10.0 6
-FON sp3_sp3_10      N5  C6  C9  N10  180.000 10.0 3
-FON sp3_sp3_4       C9  C6  C7  N8   -60.000 10.0 3
-FON sp2_sp3_7       C8A N8  C7  C6   0.000   10.0 6
-
+FON              const_23         NA2          C2          N1         C8A     180.000    10.0     2
+FON              const_37         C4A         C8A          N1          C2       0.000    10.0     2
+FON             sp2_sp2_7          N1         C8A          N8          C7     180.000     5.0     2
+FON            sp2_sp3_14         C14         N10          C9          C6     120.000    10.0     6
+FON            sp2_sp2_17         C13         C14         N10          C9     180.000     5.0     2
+FON       const_sp2_sp2_3           C         C11         C12         C13     180.000     5.0     2
+FON              const_43           C         C11         C16         C15     180.000    10.0     2
+FON            sp2_sp2_23           O           C         C11         C12       0.000     5.0     2
+FON       const_sp2_sp2_5         C11         C12         C13         C14       0.000     5.0     2
+FON              const_10         C12         C13         C14         N10     180.000    10.0     2
+FON              const_15         N10         C14         C15         C16     180.000    10.0     2
+FON              const_17         C14         C15         C16         C11       0.000    10.0     2
+FON             sp2_sp2_9          N1          C2         NA2        HN21     180.000     5.0     2
+FON              const_26         NA2          C2          N3          C4     180.000    10.0     2
+FON            sp2_sp2_27           O           C           N          CA       0.000     5.0     2
+FON            sp2_sp3_19           C           N          CA          CB       0.000    10.0     6
+FON            sp3_sp3_19           N          CA          CB          CG     180.000    10.0     3
+FON            sp2_sp3_25          O1          CT          CA           N       0.000    10.0     6
+FON            sp3_sp3_28          CA          CB          CG          CD     180.000    10.0     3
+FON            sp2_sp3_32         OE1          CD          CG          CB     120.000    10.0     6
+FON              const_28          O4          C4          N3          C2     180.000    10.0     2
+FON              const_32          O4          C4         C4A          N5       0.000    10.0     2
+FON              const_33          C4         C4A         C8A          N1       0.000    10.0     2
+FON             sp2_sp2_4          C4         C4A          N5         CP1       0.000     5.0     2
+FON            sp2_sp2_14          O3         CP1          N5         C4A       0.000     5.0     2
+FON             sp2_sp3_5         CP1          N5          C6          C9     -60.000    10.0     6
+FON            sp3_sp3_10          N5          C6          C9         N10     180.000    10.0     3
+FON             sp3_sp3_4          C9          C6          C7          N8     -60.000    10.0     3
+FON             sp2_sp3_7         C8A          N8          C7          C6       0.000    10.0     6
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -296,105 +294,91 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-FON chir_1 C6 N5 C7 C9 negative
-FON chir_2 CA N  CT CB positive
-
+FON    chir_1    C6    N5    C7    C9    negative
+FON    chir_2    CA    N    CT    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-FON plan-1  C2   0.020
-FON plan-1  C4   0.020
-FON plan-1  C4A  0.020
-FON plan-1  C8A  0.020
-FON plan-1  HN1  0.020
-FON plan-1  N1   0.020
-FON plan-1  N3   0.020
-FON plan-1  N5   0.020
-FON plan-1  N8   0.020
-FON plan-1  NA2  0.020
-FON plan-1  O4   0.020
-FON plan-2  C    0.020
-FON plan-2  C11  0.020
-FON plan-2  C12  0.020
-FON plan-2  C13  0.020
-FON plan-2  C14  0.020
-FON plan-2  C15  0.020
-FON plan-2  C16  0.020
-FON plan-2  H12  0.020
-FON plan-2  H13  0.020
-FON plan-2  H15  0.020
-FON plan-2  H16  0.020
-FON plan-2  N10  0.020
-FON plan-3  C2   0.020
-FON plan-3  HN21 0.020
-FON plan-3  HN22 0.020
-FON plan-3  NA2  0.020
-FON plan-4  C4A  0.020
-FON plan-4  C6   0.020
-FON plan-4  CP1  0.020
-FON plan-4  N5   0.020
-FON plan-5  C7   0.020
-FON plan-5  C8A  0.020
-FON plan-5  HN8  0.020
-FON plan-5  N8   0.020
-FON plan-6  C14  0.020
-FON plan-6  C9   0.020
-FON plan-6  HN0  0.020
-FON plan-6  N10  0.020
-FON plan-7  C    0.020
-FON plan-7  C11  0.020
-FON plan-7  N    0.020
-FON plan-7  O    0.020
-FON plan-8  C    0.020
-FON plan-8  CA   0.020
-FON plan-8  HN   0.020
-FON plan-8  N    0.020
-FON plan-9  CD   0.020
-FON plan-9  CG   0.020
-FON plan-9  OE1  0.020
-FON plan-9  OE2  0.020
-FON plan-10 CA   0.020
-FON plan-10 CT   0.020
-FON plan-10 O1   0.020
-FON plan-10 O2   0.020
-FON plan-11 CP1  0.020
-FON plan-11 HCP1 0.020
-FON plan-11 N5   0.020
-FON plan-11 O3   0.020
-
+FON    plan-1          C2   0.020
+FON    plan-1          C4   0.020
+FON    plan-1         C4A   0.020
+FON    plan-1         C8A   0.020
+FON    plan-1         HN1   0.020
+FON    plan-1          N1   0.020
+FON    plan-1          N3   0.020
+FON    plan-1          N5   0.020
+FON    plan-1          N8   0.020
+FON    plan-1         NA2   0.020
+FON    plan-1          O4   0.020
+FON    plan-2           C   0.020
+FON    plan-2         C11   0.020
+FON    plan-2         C12   0.020
+FON    plan-2         C13   0.020
+FON    plan-2         C14   0.020
+FON    plan-2         C15   0.020
+FON    plan-2         C16   0.020
+FON    plan-2         H12   0.020
+FON    plan-2         H13   0.020
+FON    plan-2         H15   0.020
+FON    plan-2         H16   0.020
+FON    plan-2         N10   0.020
+FON    plan-3          C2   0.020
+FON    plan-3        HN21   0.020
+FON    plan-3        HN22   0.020
+FON    plan-3         NA2   0.020
+FON    plan-4         C4A   0.020
+FON    plan-4          C6   0.020
+FON    plan-4         CP1   0.020
+FON    plan-4          N5   0.020
+FON    plan-5          C7   0.020
+FON    plan-5         C8A   0.020
+FON    plan-5         HN8   0.020
+FON    plan-5          N8   0.020
+FON    plan-6         C14   0.020
+FON    plan-6          C9   0.020
+FON    plan-6         HN0   0.020
+FON    plan-6         N10   0.020
+FON    plan-7           C   0.020
+FON    plan-7         C11   0.020
+FON    plan-7           N   0.020
+FON    plan-7           O   0.020
+FON    plan-8           C   0.020
+FON    plan-8          CA   0.020
+FON    plan-8          HN   0.020
+FON    plan-8           N   0.020
+FON    plan-9          CD   0.020
+FON    plan-9          CG   0.020
+FON    plan-9         OE1   0.020
+FON    plan-9         OE2   0.020
+FON   plan-10          CA   0.020
+FON   plan-10          CT   0.020
+FON   plan-10          O1   0.020
+FON   plan-10          O2   0.020
+FON   plan-11         CP1   0.020
+FON   plan-11        HCP1   0.020
+FON   plan-11          N5   0.020
+FON   plan-11          O3   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-FON SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)c1ccc(cc1)NCC3N(C2=C(NC(=NC2=O)N)NC3)C=O)CCC(=O)O
-FON SMILES_CANONICAL CACTVS               3.341 NC1=NC(=O)C2=C(NC[C@@H](CNc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N2C=O)N1
-FON SMILES           CACTVS               3.341 NC1=NC(=O)C2=C(NC[CH](CNc3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O)N2C=O)N1
-FON SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1cc(ccc1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NC[C@@H]2CNC3=C(N2C=O)C(=O)N=C(N3)N
-FON SMILES           "OpenEye OEToolkits" 1.5.0 c1cc(ccc1C(=O)NC(CCC(=O)O)C(=O)O)NCC2CNC3=C(N2C=O)C(=O)N=C(N3)N
-FON InChI            InChI                1.03  InChI=1S/C20H23N7O7/c21-20-25-16-15(18(32)26-20)27(9-28)12(8-23-16)7-22-11-3-1-10(2-4-11)17(31)24-13(19(33)34)5-6-14(29)30/h1-4,9,12-13,22H,5-8H2,(H,24,31)(H,29,30)(H,33,34)(H4,21,23,25,26,32)/t12-,13+/m1/s1
-FON InChIKey         InChI                1.03  VVIAGPKUTFNRDU-OLZOCXBDSA-N
-
+FON           SMILES              ACDLabs 10.04                                                                                                                                                 O=C(O)C(NC(=O)c1ccc(cc1)NCC3N(C2=C(NC(=NC2=O)N)NC3)C=O)CCC(=O)O
+FON SMILES_CANONICAL               CACTVS 3.341                                                                                                                                       NC1=NC(=O)C2=C(NC[C@@H](CNc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N2C=O)N1
+FON           SMILES               CACTVS 3.341                                                                                                                                           NC1=NC(=O)C2=C(NC[CH](CNc3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O)N2C=O)N1
+FON SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                       c1cc(ccc1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NC[C@@H]2CNC3=C(N2C=O)C(=O)N=C(N3)N
+FON           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                 c1cc(ccc1C(=O)NC(CCC(=O)O)C(=O)O)NCC2CNC3=C(N2C=O)C(=O)N=C(N3)N
+FON            InChI                InChI  1.03 InChI=1S/C20H23N7O7/c21-20-25-16-15(18(32)26-20)27(9-28)12(8-23-16)7-22-11-3-1-10(2-4-11)17(31)24-13(19(33)34)5-6-14(29)30/h1-4,9,12-13,22H,5-8H2,(H,24,31)(H,29,30)(H,33,34)(H4,21,23,25,26,32)/t12-,13+/m1/s1
+FON         InChIKey                InChI  1.03                                                                                                                                                                                     VVIAGPKUTFNRDU-OLZOCXBDSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-FON acedrg          243       "dictionary generator"
-FON acedrg_database 11        "data source"
-FON rdkit           2017.03.2 "Chemoinformatics tool"
-FON refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-FON M-peptide O1 O
-FON M-peptide CT C
-FON M-peptide C  CN
-FON M-peptide O2 OXT
-FON M-peptide HN H
+FON acedrg               243         "dictionary generator"                  
+FON acedrg_database      11          "data source"                           
+FON rdkit                2017.03.2   "Chemoinformatics tool"
+FON refmac5              5.8.0238    "optimization tool"                     

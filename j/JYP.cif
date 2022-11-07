@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-JYP JYP "Adenophostin A" NON-POLYMER 62 42 .
-
+JYP     JYP      "Adenophostin A"     NON-POLYMER     62     42     .     
+#
 data_comp_JYP
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,69 +21,68 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-JYP C1  C CR16 0  179.279 141.955 90.825
-JYP N1  N NRD6 0  180.208 142.165 89.891
-JYP C2  C CR56 0  179.917 143.250 89.147
-JYP C3  C CR56 0  178.811 144.069 89.293
-JYP C4  C CR6  0  177.893 143.747 90.317
-JYP N2  N NRD6 0  178.165 142.658 91.083
-JYP N3  N NH2  0  176.789 144.447 90.567
-JYP N4  N NRD5 0  178.840 145.089 88.351
-JYP C5  C CR15 0  179.936 144.874 87.662
-JYP N5  N NT   0  180.649 143.779 88.111
-JYP C6  C CH1  0  181.922 143.258 87.529
-JYP C7  C CH1  0  182.917 144.342 87.106
-JYP C8  C CH1  0  184.170 144.115 87.966
-JYP C9  C CH1  0  183.745 143.069 89.005
-JYP O1  O O2   0  182.570 142.423 88.460
-JYP C10 C CH2  0  183.422 143.557 90.406
-JYP O2  O OH1  0  183.159 142.460 91.271
-JYP O3  O O2   0  184.770 145.252 88.610
-JYP C11 C CH1  0  184.195 146.550 88.672
-JYP C12 C CH1  0  185.169 147.511 89.395
-JYP C13 C CH1  0  184.394 148.547 90.211
-JYP C14 C CH1  0  183.090 148.953 89.533
-JYP C15 C CH1  0  182.186 147.742 89.296
-JYP O4  O O2   0  182.959 146.525 89.375
-JYP C16 C CH2  0  181.072 147.615 90.312
-JYP O5  O OH1  0  179.974 148.463 89.983
-JYP O6  O O2   0  183.410 149.572 88.242
-JYP P1  P P    0  182.517 150.744 87.581
-JYP O7  O OP   -1 182.629 151.942 88.505
-JYP O8  O O    0  181.093 150.228 87.488
-JYP O9  O OP   -1 183.114 151.019 86.214
-JYP O10 O O2   0  185.220 149.748 90.376
-JYP P2  P P    0  185.268 150.602 91.747
-JYP O11 O OP   -1 185.884 149.698 92.798
-JYP O12 O OP   -1 183.837 150.977 92.083
-JYP O13 O O    0  186.127 151.820 91.466
-JYP O14 O OH1  0  186.032 148.124 88.436
-JYP O15 O O2   0  183.235 144.172 85.718
-JYP P3  P P    0  183.820 145.465 84.932
-JYP O16 O OP   -1 182.820 146.598 85.069
-JYP O17 O O    0  185.163 145.815 85.545
-JYP O18 O OP   -1 183.964 145.016 83.490
-JYP H1  H H    0  179.426 141.207 91.383
-JYP H2  H H    0  176.182 144.126 91.113
-JYP H3  H H    0  176.672 145.228 90.183
-JYP H4  H H    0  180.208 145.428 86.951
-JYP H5  H H    0  181.693 142.721 86.736
-JYP H6  H H    0  182.535 145.232 87.254
-JYP H7  H H    0  184.853 143.703 87.383
-JYP H8  H H    0  184.457 142.399 89.078
-JYP H9  H H    0  182.634 144.137 90.377
-JYP H10 H H    0  184.175 144.071 90.766
-JYP H11 H H    0  182.453 142.067 91.015
-JYP H12 H H    0  184.041 146.884 87.752
-JYP H13 H H    0  185.727 146.979 90.012
-JYP H14 H H    0  184.187 148.164 91.112
-JYP H15 H H    0  182.622 149.610 90.101
-JYP H16 H H    0  181.791 147.809 88.393
-JYP H17 H H    0  181.412 147.855 91.199
-JYP H18 H H    0  180.763 146.685 90.345
-JYP H19 H H    0  180.218 149.273 90.032
-JYP H24 H H    0  185.758 148.899 88.249
-
+JYP     C1      C       CR16    0       179.279     141.955     90.825      
+JYP     N1      N       NRD6    0       180.208     142.165     89.891      
+JYP     C2      C       CR56    0       179.917     143.250     89.147      
+JYP     C3      C       CR56    0       178.811     144.069     89.293      
+JYP     C4      C       CR6     0       177.893     143.747     90.317      
+JYP     N2      N       NRD6    0       178.165     142.658     91.083      
+JYP     N3      N       NH2     0       176.789     144.447     90.567      
+JYP     N4      N       NRD5    0       178.840     145.089     88.351      
+JYP     C5      C       CR15    0       179.936     144.874     87.662      
+JYP     N5      N       NT      0       180.649     143.779     88.111      
+JYP     C6      C       CH1     0       181.922     143.258     87.529      
+JYP     C7      C       CH1     0       182.917     144.342     87.106      
+JYP     C8      C       CH1     0       184.170     144.115     87.966      
+JYP     C9      C       CH1     0       183.745     143.069     89.005      
+JYP     O1      O       O2      0       182.570     142.423     88.460      
+JYP     C10     C       CH2     0       183.422     143.557     90.406      
+JYP     O2      O       OH1     0       183.159     142.460     91.271      
+JYP     O3      O       O2      0       184.770     145.252     88.610      
+JYP     C11     C       CH1     0       184.195     146.550     88.672      
+JYP     C12     C       CH1     0       185.169     147.511     89.395      
+JYP     C13     C       CH1     0       184.394     148.547     90.211      
+JYP     C14     C       CH1     0       183.090     148.953     89.533      
+JYP     C15     C       CH1     0       182.186     147.742     89.296      
+JYP     O4      O       O2      0       182.959     146.525     89.375      
+JYP     C16     C       CH2     0       181.072     147.615     90.312      
+JYP     O5      O       OH1     0       179.974     148.463     89.983      
+JYP     O6      O       O2      0       183.410     149.572     88.242      
+JYP     P1      P       P       0       182.517     150.744     87.581      
+JYP     O7      O       OP      -1      182.629     151.942     88.505      
+JYP     O8      O       O       0       181.093     150.228     87.488      
+JYP     O9      O       OP      -1      183.114     151.019     86.214      
+JYP     O10     O       O2      0       185.220     149.748     90.376      
+JYP     P2      P       P       0       185.268     150.602     91.747      
+JYP     O11     O       OP      -1      185.884     149.698     92.798      
+JYP     O12     O       OP      -1      183.837     150.977     92.083      
+JYP     O13     O       O       0       186.127     151.820     91.466      
+JYP     O14     O       OH1     0       186.032     148.124     88.436      
+JYP     O15     O       O2      0       183.235     144.172     85.718      
+JYP     P3      P       P       0       183.820     145.465     84.932      
+JYP     O16     O       OP      -1      182.820     146.598     85.069      
+JYP     O17     O       O       0       185.163     145.815     85.545      
+JYP     O18     O       OP      -1      183.964     145.016     83.490      
+JYP     H1      H       H       0       179.426     141.207     91.383      
+JYP     H2      H       H       0       176.182     144.126     91.113      
+JYP     H3      H       H       0       176.672     145.228     90.183      
+JYP     H4      H       H       0       180.208     145.428     86.951      
+JYP     H5      H       H       0       181.693     142.721     86.736      
+JYP     H6      H       H       0       182.535     145.232     87.254      
+JYP     H7      H       H       0       184.853     143.703     87.383      
+JYP     H8      H       H       0       184.457     142.399     89.078      
+JYP     H9      H       H       0       182.634     144.137     90.377      
+JYP     H10     H       H       0       184.175     144.071     90.766      
+JYP     H11     H       H       0       182.453     142.067     91.015      
+JYP     H12     H       H       0       184.041     146.884     87.752      
+JYP     H13     H       H       0       185.727     146.979     90.012      
+JYP     H14     H       H       0       184.187     148.164     91.112      
+JYP     H15     H       H       0       182.622     149.610     90.101      
+JYP     H16     H       H       0       181.791     147.809     88.393      
+JYP     H17     H       H       0       181.412     147.855     91.199      
+JYP     H18     H       H       0       180.763     146.685     90.345      
+JYP     H19     H       H       0       180.218     149.273     90.032      
+JYP     H24     H       H       0       185.758     148.899     88.249      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -92,72 +93,71 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-JYP P3  O17 DOUBLE n 1.517 0.0192 1.517 0.0192
-JYP P3  O18 SINGLE n 1.517 0.0192 1.517 0.0192
-JYP O15 P3  SINGLE n 1.614 0.0178 1.614 0.0178
-JYP P3  O16 SINGLE n 1.517 0.0192 1.517 0.0192
-JYP C7  O15 SINGLE n 1.425 0.0152 1.425 0.0152
-JYP C6  O1  SINGLE n 1.409 0.0100 1.409 0.0100
-JYP C6  C7  SINGLE n 1.524 0.0100 1.524 0.0100
-JYP N5  C6  SINGLE n 1.458 0.0200 1.458 0.0200
-JYP C9  O1  SINGLE n 1.451 0.0100 1.451 0.0100
-JYP C7  C8  SINGLE n 1.523 0.0106 1.523 0.0106
-JYP C8  C9  SINGLE n 1.528 0.0117 1.528 0.0117
-JYP C9  C10 SINGLE n 1.511 0.0177 1.511 0.0177
-JYP C8  O3  SINGLE n 1.425 0.0115 1.425 0.0115
-JYP C1  N1  DOUBLE y 1.330 0.0100 1.330 0.0100
-JYP N1  C2  SINGLE y 1.343 0.0100 1.343 0.0100
-JYP C1  N2  SINGLE y 1.339 0.0100 1.339 0.0100
-JYP C2  N5  SINGLE y 1.372 0.0100 1.372 0.0100
-JYP C5  N5  SINGLE y 1.372 0.0200 1.372 0.0200
-JYP C2  C3  DOUBLE y 1.381 0.0100 1.381 0.0100
-JYP N4  C5  DOUBLE y 1.310 0.0100 1.310 0.0100
-JYP C4  N2  DOUBLE y 1.354 0.0100 1.354 0.0100
-JYP C3  N4  SINGLE y 1.388 0.0100 1.388 0.0100
-JYP C3  C4  SINGLE y 1.408 0.0100 1.408 0.0100
-JYP C12 O14 SINGLE n 1.425 0.0112 1.425 0.0112
-JYP C4  N3  SINGLE n 1.330 0.0100 1.330 0.0100
-JYP C10 O2  SINGLE n 1.421 0.0131 1.421 0.0131
-JYP O3  C11 SINGLE n 1.415 0.0128 1.415 0.0128
-JYP C11 C12 SINGLE n 1.536 0.0185 1.536 0.0185
-JYP C11 O4  SINGLE n 1.421 0.0100 1.421 0.0100
-JYP C12 C13 SINGLE n 1.522 0.0100 1.522 0.0100
-JYP C15 O4  SINGLE n 1.440 0.0195 1.440 0.0195
-JYP C15 C16 SINGLE n 1.511 0.0142 1.511 0.0142
-JYP C14 C15 SINGLE n 1.525 0.0100 1.525 0.0100
-JYP C16 O5  SINGLE n 1.426 0.0200 1.426 0.0200
-JYP C14 O6  SINGLE n 1.465 0.0114 1.465 0.0114
-JYP O6  P1  SINGLE n 1.614 0.0178 1.614 0.0178
-JYP C13 C14 SINGLE n 1.519 0.0100 1.519 0.0100
-JYP C13 O10 SINGLE n 1.465 0.0114 1.465 0.0114
-JYP O10 P2  SINGLE n 1.614 0.0178 1.614 0.0178
-JYP P1  O8  DOUBLE n 1.517 0.0192 1.517 0.0192
-JYP P1  O9  SINGLE n 1.517 0.0192 1.517 0.0192
-JYP P1  O7  SINGLE n 1.517 0.0192 1.517 0.0192
-JYP P2  O13 DOUBLE n 1.517 0.0192 1.517 0.0192
-JYP P2  O12 SINGLE n 1.517 0.0192 1.517 0.0192
-JYP P2  O11 SINGLE n 1.517 0.0192 1.517 0.0192
-JYP C1  H1  SINGLE n 1.082 0.0130 0.945 0.0200
-JYP N3  H2  SINGLE n 1.016 0.0100 0.877 0.0200
-JYP N3  H3  SINGLE n 1.016 0.0100 0.877 0.0200
-JYP C5  H4  SINGLE n 1.082 0.0130 0.942 0.0170
-JYP C6  H5  SINGLE n 1.089 0.0100 0.984 0.0200
-JYP C7  H6  SINGLE n 1.089 0.0100 0.985 0.0119
-JYP C8  H7  SINGLE n 1.089 0.0100 0.988 0.0200
-JYP C9  H8  SINGLE n 1.089 0.0100 0.981 0.0200
-JYP C10 H9  SINGLE n 1.089 0.0100 0.981 0.0200
-JYP C10 H10 SINGLE n 1.089 0.0100 0.981 0.0200
-JYP O2  H11 SINGLE n 0.970 0.0120 0.848 0.0200
-JYP C11 H12 SINGLE n 1.089 0.0100 0.991 0.0102
-JYP C12 H13 SINGLE n 1.089 0.0100 0.987 0.0140
-JYP C13 H14 SINGLE n 1.089 0.0100 1.000 0.0100
-JYP C14 H15 SINGLE n 1.089 0.0100 0.987 0.0166
-JYP C15 H16 SINGLE n 1.089 0.0100 0.988 0.0182
-JYP C16 H17 SINGLE n 1.089 0.0100 0.980 0.0184
-JYP C16 H18 SINGLE n 1.089 0.0100 0.980 0.0184
-JYP O5  H19 SINGLE n 0.970 0.0120 0.848 0.0200
-JYP O14 H24 SINGLE n 0.970 0.0120 0.841 0.0200
-
+JYP          P3         O17      DOUBLE       n     1.517  0.0192     1.517  0.0192
+JYP          P3         O18      SINGLE       n     1.517  0.0192     1.517  0.0192
+JYP         O15          P3      SINGLE       n     1.614  0.0178     1.614  0.0178
+JYP          P3         O16      SINGLE       n     1.517  0.0192     1.517  0.0192
+JYP          C7         O15      SINGLE       n     1.425  0.0152     1.425  0.0152
+JYP          C6          O1      SINGLE       n     1.409  0.0100     1.409  0.0100
+JYP          C6          C7      SINGLE       n     1.524  0.0100     1.524  0.0100
+JYP          N5          C6      SINGLE       n     1.458  0.0200     1.458  0.0200
+JYP          C9          O1      SINGLE       n     1.451  0.0100     1.451  0.0100
+JYP          C7          C8      SINGLE       n     1.523  0.0106     1.523  0.0106
+JYP          C8          C9      SINGLE       n     1.528  0.0117     1.528  0.0117
+JYP          C9         C10      SINGLE       n     1.511  0.0177     1.511  0.0177
+JYP          C8          O3      SINGLE       n     1.425  0.0115     1.425  0.0115
+JYP          C1          N1      DOUBLE       y     1.330  0.0100     1.330  0.0100
+JYP          N1          C2      SINGLE       y     1.343  0.0100     1.343  0.0100
+JYP          C1          N2      SINGLE       y     1.339  0.0100     1.339  0.0100
+JYP          C2          N5      SINGLE       y     1.372  0.0100     1.372  0.0100
+JYP          C5          N5      SINGLE       y     1.372  0.0200     1.372  0.0200
+JYP          C2          C3      DOUBLE       y     1.381  0.0100     1.381  0.0100
+JYP          N4          C5      DOUBLE       y     1.310  0.0100     1.310  0.0100
+JYP          C4          N2      DOUBLE       y     1.354  0.0100     1.354  0.0100
+JYP          C3          N4      SINGLE       y     1.388  0.0100     1.388  0.0100
+JYP          C3          C4      SINGLE       y     1.408  0.0100     1.408  0.0100
+JYP         C12         O14      SINGLE       n     1.425  0.0112     1.425  0.0112
+JYP          C4          N3      SINGLE       n     1.330  0.0100     1.330  0.0100
+JYP         C10          O2      SINGLE       n     1.421  0.0131     1.421  0.0131
+JYP          O3         C11      SINGLE       n     1.415  0.0128     1.415  0.0128
+JYP         C11         C12      SINGLE       n     1.536  0.0185     1.536  0.0185
+JYP         C11          O4      SINGLE       n     1.421  0.0100     1.421  0.0100
+JYP         C12         C13      SINGLE       n     1.522  0.0100     1.522  0.0100
+JYP         C15          O4      SINGLE       n     1.440  0.0195     1.440  0.0195
+JYP         C15         C16      SINGLE       n     1.511  0.0142     1.511  0.0142
+JYP         C14         C15      SINGLE       n     1.525  0.0100     1.525  0.0100
+JYP         C16          O5      SINGLE       n     1.426  0.0200     1.426  0.0200
+JYP         C14          O6      SINGLE       n     1.465  0.0114     1.465  0.0114
+JYP          O6          P1      SINGLE       n     1.614  0.0178     1.614  0.0178
+JYP         C13         C14      SINGLE       n     1.519  0.0100     1.519  0.0100
+JYP         C13         O10      SINGLE       n     1.465  0.0114     1.465  0.0114
+JYP         O10          P2      SINGLE       n     1.614  0.0178     1.614  0.0178
+JYP          P1          O8      DOUBLE       n     1.517  0.0192     1.517  0.0192
+JYP          P1          O9      SINGLE       n     1.517  0.0192     1.517  0.0192
+JYP          P1          O7      SINGLE       n     1.517  0.0192     1.517  0.0192
+JYP          P2         O13      DOUBLE       n     1.517  0.0192     1.517  0.0192
+JYP          P2         O12      SINGLE       n     1.517  0.0192     1.517  0.0192
+JYP          P2         O11      SINGLE       n     1.517  0.0192     1.517  0.0192
+JYP          C1          H1      SINGLE       n     1.082  0.0130     0.945  0.0200
+JYP          N3          H2      SINGLE       n     1.016  0.0100     0.877  0.0200
+JYP          N3          H3      SINGLE       n     1.016  0.0100     0.877  0.0200
+JYP          C5          H4      SINGLE       n     1.082  0.0130     0.942  0.0170
+JYP          C6          H5      SINGLE       n     1.089  0.0100     0.984  0.0200
+JYP          C7          H6      SINGLE       n     1.089  0.0100     0.985  0.0119
+JYP          C8          H7      SINGLE       n     1.089  0.0100     0.988  0.0200
+JYP          C9          H8      SINGLE       n     1.089  0.0100     0.981  0.0200
+JYP         C10          H9      SINGLE       n     1.089  0.0100     0.981  0.0200
+JYP         C10         H10      SINGLE       n     1.089  0.0100     0.981  0.0200
+JYP          O2         H11      SINGLE       n     0.970  0.0120     0.848  0.0200
+JYP         C11         H12      SINGLE       n     1.089  0.0100     0.991  0.0102
+JYP         C12         H13      SINGLE       n     1.089  0.0100     0.987  0.0140
+JYP         C13         H14      SINGLE       n     1.089  0.0100     1.000  0.0100
+JYP         C14         H15      SINGLE       n     1.089  0.0100     0.987  0.0166
+JYP         C15         H16      SINGLE       n     1.089  0.0100     0.988  0.0182
+JYP         C16         H17      SINGLE       n     1.089  0.0100     0.980  0.0184
+JYP         C16         H18      SINGLE       n     1.089  0.0100     0.980  0.0184
+JYP          O5         H19      SINGLE       n     0.970  0.0120     0.848  0.0200
+JYP         O14         H24      SINGLE       n     0.970  0.0120     0.841  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -165,124 +165,123 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-JYP N1  C1  N2  129.332 1.50
-JYP N1  C1  H1  115.355 1.50
-JYP N2  C1  H1  115.313 1.50
-JYP C1  N1  C2  110.982 1.50
-JYP N1  C2  N5  125.845 1.50
-JYP N1  C2  C3  126.489 1.50
-JYP N5  C2  C3  107.666 1.69
-JYP C2  C3  N4  110.588 1.50
-JYP C2  C3  C4  117.267 1.50
-JYP N4  C3  C4  132.145 1.50
-JYP N2  C4  C3  117.409 1.50
-JYP N2  C4  N3  118.799 1.50
-JYP C3  C4  N3  123.792 1.50
-JYP C1  N2  C4  118.521 1.50
-JYP C4  N3  H2  119.723 1.50
-JYP C4  N3  H3  119.723 1.50
-JYP H2  N3  H3  120.554 1.88
-JYP C5  N4  C3  103.927 1.50
-JYP N5  C5  N4  112.130 1.94
-JYP N5  C5  H4  124.701 2.19
-JYP N4  C5  H4  123.170 1.50
-JYP C6  N5  C2  125.158 1.54
-JYP C6  N5  C5  126.078 2.46
-JYP C2  N5  C5  107.594 1.50
-JYP O1  C6  C7  106.416 1.50
-JYP O1  C6  N5  108.167 1.51
-JYP O1  C6  H5  109.807 1.50
-JYP C7  C6  N5  113.752 2.20
-JYP C7  C6  H5  109.319 1.50
-JYP N5  C6  H5  109.246 1.50
-JYP O15 C7  C6  110.738 2.44
-JYP O15 C7  C8  110.766 3.00
-JYP O15 C7  H6  110.343 1.64
-JYP C6  C7  C8  101.388 1.50
-JYP C6  C7  H6  111.050 1.62
-JYP C8  C7  H6  110.255 2.04
-JYP C7  C8  C9  102.352 1.50
-JYP C7  C8  O3  110.766 3.00
-JYP C7  C8  H7  110.255 2.04
-JYP C9  C8  O3  110.864 2.31
-JYP C9  C8  H7  110.624 1.81
-JYP O3  C8  H7  110.343 1.64
-JYP O1  C9  C8  105.508 1.50
-JYP O1  C9  C10 109.170 1.50
-JYP O1  C9  H8  108.947 1.50
-JYP C8  C9  C10 114.866 1.63
-JYP C8  C9  H8  109.143 1.50
-JYP C10 C9  H8  109.037 1.87
-JYP C6  O1  C9  109.903 1.50
-JYP C9  C10 O2  111.279 1.98
-JYP C9  C10 H9  109.326 2.00
-JYP C9  C10 H10 109.326 2.00
-JYP O2  C10 H9  109.280 1.50
-JYP O2  C10 H10 109.280 1.50
-JYP H9  C10 H10 108.248 2.26
-JYP C10 O2  H11 109.007 3.00
-JYP C8  O3  C11 116.304 2.37
-JYP O3  C11 C12 108.240 1.70
-JYP O3  C11 O4  110.394 2.23
-JYP O3  C11 H12 109.322 1.50
-JYP C12 C11 O4  109.751 1.59
-JYP C12 C11 H12 109.346 1.50
-JYP O4  C11 H12 109.257 1.50
-JYP O14 C12 C11 110.024 1.69
-JYP O14 C12 C13 110.081 2.02
-JYP O14 C12 H13 108.551 1.50
-JYP C11 C12 C13 110.229 1.69
-JYP C11 C12 H13 108.625 1.50
-JYP C13 C12 H13 109.166 1.50
-JYP C12 C13 C14 110.796 1.54
-JYP C12 C13 O10 108.118 1.66
-JYP C12 C13 H14 109.166 1.50
-JYP C14 C13 O10 108.118 1.66
-JYP C14 C13 H14 109.166 1.50
-JYP O10 C13 H14 109.322 1.50
-JYP C15 C14 O6  108.486 2.35
-JYP C15 C14 C13 110.316 1.64
-JYP C15 C14 H15 109.550 1.50
-JYP O6  C14 C13 108.118 1.66
-JYP O6  C14 H15 109.322 1.50
-JYP C13 C14 H15 109.166 1.50
-JYP O4  C15 C16 106.879 1.50
-JYP O4  C15 C14 109.378 1.54
-JYP O4  C15 H16 109.134 1.50
-JYP C16 C15 C14 113.127 1.52
-JYP C16 C15 H16 109.269 1.50
-JYP C14 C15 H16 108.898 1.50
-JYP C11 O4  C15 114.370 2.49
-JYP C15 C16 O5  111.299 2.09
-JYP C15 C16 H17 109.363 1.50
-JYP C15 C16 H18 109.363 1.50
-JYP O5  C16 H17 109.265 1.50
-JYP O5  C16 H18 109.265 1.50
-JYP H17 C16 H18 108.155 1.50
-JYP C16 O5  H19 109.472 2.41
-JYP C14 O6  P1  122.306 2.63
-JYP O6  P1  O8  106.518 3.00
-JYP O6  P1  O9  106.518 3.00
-JYP O6  P1  O7  106.518 3.00
-JYP O8  P1  O9  112.139 1.52
-JYP O8  P1  O7  112.139 1.52
-JYP O9  P1  O7  112.139 1.52
-JYP C13 O10 P2  122.306 2.63
-JYP O10 P2  O13 106.518 3.00
-JYP O10 P2  O12 106.518 3.00
-JYP O10 P2  O11 106.518 3.00
-JYP O13 P2  O12 112.139 1.52
-JYP O13 P2  O11 112.139 1.52
-JYP O12 P2  O11 112.139 1.52
-JYP C12 O14 H24 109.126 2.06
-JYP P3  O15 C7  109.471 3.00
-JYP O17 P3  O18 112.139 1.52
-JYP O17 P3  O15 106.518 3.00
-JYP O17 P3  O16 112.139 1.52
-JYP O18 P3  O15 106.518 3.00
-JYP O18 P3  O16 112.139 1.52
-JYP O15 P3  O16 106.518 3.00
-
+JYP          N1          C1          N2     129.332    1.50
+JYP          N1          C1          H1     115.355    1.50
+JYP          N2          C1          H1     115.313    1.50
+JYP          C1          N1          C2     110.982    1.50
+JYP          N1          C2          N5     125.845    1.50
+JYP          N1          C2          C3     126.489    1.50
+JYP          N5          C2          C3     107.666    1.69
+JYP          C2          C3          N4     110.588    1.50
+JYP          C2          C3          C4     117.267    1.50
+JYP          N4          C3          C4     132.145    1.50
+JYP          N2          C4          C3     117.409    1.50
+JYP          N2          C4          N3     118.799    1.50
+JYP          C3          C4          N3     123.792    1.50
+JYP          C1          N2          C4     118.521    1.50
+JYP          C4          N3          H2     119.723    1.50
+JYP          C4          N3          H3     119.723    1.50
+JYP          H2          N3          H3     120.554    1.88
+JYP          C5          N4          C3     103.927    1.50
+JYP          N5          C5          N4     112.130    1.94
+JYP          N5          C5          H4     124.701    2.19
+JYP          N4          C5          H4     123.170    1.50
+JYP          C6          N5          C2     125.158    1.54
+JYP          C6          N5          C5     126.078    2.46
+JYP          C2          N5          C5     107.594    1.50
+JYP          O1          C6          C7     106.416    1.50
+JYP          O1          C6          N5     108.167    1.51
+JYP          O1          C6          H5     109.807    1.50
+JYP          C7          C6          N5     113.752    2.20
+JYP          C7          C6          H5     109.319    1.50
+JYP          N5          C6          H5     109.246    1.50
+JYP         O15          C7          C6     110.738    2.44
+JYP         O15          C7          C8     110.766    3.00
+JYP         O15          C7          H6     110.343    1.64
+JYP          C6          C7          C8     101.388    1.50
+JYP          C6          C7          H6     111.050    1.62
+JYP          C8          C7          H6     110.255    2.04
+JYP          C7          C8          C9     102.352    1.50
+JYP          C7          C8          O3     110.766    3.00
+JYP          C7          C8          H7     110.255    2.04
+JYP          C9          C8          O3     110.864    2.31
+JYP          C9          C8          H7     110.624    1.81
+JYP          O3          C8          H7     110.343    1.64
+JYP          O1          C9          C8     105.508    1.50
+JYP          O1          C9         C10     109.170    1.50
+JYP          O1          C9          H8     108.947    1.50
+JYP          C8          C9         C10     114.866    1.63
+JYP          C8          C9          H8     109.143    1.50
+JYP         C10          C9          H8     109.037    1.87
+JYP          C6          O1          C9     109.903    1.50
+JYP          C9         C10          O2     111.279    1.98
+JYP          C9         C10          H9     109.326    2.00
+JYP          C9         C10         H10     109.326    2.00
+JYP          O2         C10          H9     109.280    1.50
+JYP          O2         C10         H10     109.280    1.50
+JYP          H9         C10         H10     108.248    2.26
+JYP         C10          O2         H11     109.007    3.00
+JYP          C8          O3         C11     116.304    2.37
+JYP          O3         C11         C12     108.240    1.70
+JYP          O3         C11          O4     110.394    2.23
+JYP          O3         C11         H12     109.322    1.50
+JYP         C12         C11          O4     109.751    1.59
+JYP         C12         C11         H12     109.346    1.50
+JYP          O4         C11         H12     109.257    1.50
+JYP         O14         C12         C11     110.024    1.69
+JYP         O14         C12         C13     110.081    2.02
+JYP         O14         C12         H13     108.551    1.50
+JYP         C11         C12         C13     110.229    1.69
+JYP         C11         C12         H13     108.625    1.50
+JYP         C13         C12         H13     109.166    1.50
+JYP         C12         C13         C14     110.796    1.54
+JYP         C12         C13         O10     108.118    1.66
+JYP         C12         C13         H14     109.166    1.50
+JYP         C14         C13         O10     108.118    1.66
+JYP         C14         C13         H14     109.166    1.50
+JYP         O10         C13         H14     109.322    1.50
+JYP         C15         C14          O6     108.486    2.35
+JYP         C15         C14         C13     110.316    1.64
+JYP         C15         C14         H15     109.550    1.50
+JYP          O6         C14         C13     108.118    1.66
+JYP          O6         C14         H15     109.322    1.50
+JYP         C13         C14         H15     109.166    1.50
+JYP          O4         C15         C16     106.879    1.50
+JYP          O4         C15         C14     109.378    1.54
+JYP          O4         C15         H16     109.134    1.50
+JYP         C16         C15         C14     113.127    1.52
+JYP         C16         C15         H16     109.269    1.50
+JYP         C14         C15         H16     108.898    1.50
+JYP         C11          O4         C15     114.370    2.49
+JYP         C15         C16          O5     111.299    2.09
+JYP         C15         C16         H17     109.363    1.50
+JYP         C15         C16         H18     109.363    1.50
+JYP          O5         C16         H17     109.265    1.50
+JYP          O5         C16         H18     109.265    1.50
+JYP         H17         C16         H18     108.155    1.50
+JYP         C16          O5         H19     109.472    2.41
+JYP         C14          O6          P1     122.306    2.63
+JYP          O6          P1          O8     106.518    3.00
+JYP          O6          P1          O9     106.518    3.00
+JYP          O6          P1          O7     106.518    3.00
+JYP          O8          P1          O9     112.139    1.52
+JYP          O8          P1          O7     112.139    1.52
+JYP          O9          P1          O7     112.139    1.52
+JYP         C13         O10          P2     122.306    2.63
+JYP         O10          P2         O13     106.518    3.00
+JYP         O10          P2         O12     106.518    3.00
+JYP         O10          P2         O11     106.518    3.00
+JYP         O13          P2         O12     112.139    1.52
+JYP         O13          P2         O11     112.139    1.52
+JYP         O12          P2         O11     112.139    1.52
+JYP         C12         O14         H24     109.126    2.06
+JYP          P3         O15          C7     109.471    3.00
+JYP         O17          P3         O18     112.139    1.52
+JYP         O17          P3         O15     106.518    3.00
+JYP         O17          P3         O16     112.139    1.52
+JYP         O18          P3         O15     106.518    3.00
+JYP         O18          P3         O16     112.139    1.52
+JYP         O15          P3         O16     106.518    3.00
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -293,135 +292,134 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-JYP nu0             C15 O4  C11 C12 73.218   10.0 3
-JYP nu1             O4  C11 C12 C13 -30.108  10.0 3
-JYP nu2             C11 C12 C13 C14 -31.882  10.0 3
-JYP nu3             C12 C13 C14 C15 56.624   10.0 3
-JYP nu4             C13 C14 C15 O4  -18.787  10.0 3
-JYP nu5             C14 C15 O4  C11 -46.038  10.0 3
-JYP const_sp2_sp2_1 N2  C1  N1  C2  0.000    5.0  2
-JYP const_sp2_sp2_2 H1  C1  N1  C2  180.000  5.0  2
-JYP const_sp2_sp2_3 C3  C2  N1  C1  0.000    5.0  2
-JYP const_sp2_sp2_4 N5  C2  N1  C1  180.000  5.0  2
-JYP const_sp2_sp2_5 N1  C2  C3  C4  0.000    5.0  2
-JYP const_sp2_sp2_6 N1  C2  C3  N4  180.000  5.0  2
-JYP const_sp2_sp2_7 N5  C2  C3  C4  180.000  5.0  2
-JYP const_sp2_sp2_8 N5  C2  C3  N4  0.000    5.0  2
-JYP const_sp2_sp2_9 C2  C3  C4  N2  0.000    5.0  2
-JYP const_10        C2  C3  C4  N3  180.000  10.0 2
-JYP const_11        N4  C3  C4  N2  180.000  10.0 2
-JYP const_12        N4  C3  C4  N3  0.000    10.0 2
-JYP const_13        C3  C4  N2  C1  0.000    10.0 2
-JYP const_14        N3  C4  N2  C1  180.000  10.0 2
-JYP const_15        C3  C2  N5  C5  0.000    10.0 2
-JYP const_16        C3  C2  N5  C6  180.000  10.0 2
-JYP const_17        N1  C2  N5  C5  180.000  10.0 2
-JYP const_18        N1  C2  N5  C6  0.000    10.0 2
-JYP const_19        N4  C5  N5  C2  0.000    10.0 2
-JYP const_20        N4  C5  N5  C6  180.000  10.0 2
-JYP const_21        H4  C5  N5  C2  180.000  10.0 2
-JYP const_22        H4  C5  N5  C6  0.000    10.0 2
-JYP const_23        N5  C5  N4  C3  0.000    10.0 2
-JYP const_24        H4  C5  N4  C3  180.000  10.0 2
-JYP const_25        C2  C3  N4  C5  0.000    10.0 2
-JYP const_26        C4  C3  N4  C5  180.000  10.0 2
-JYP sp3_sp3_40      C7  C6  O1  C9  60.000   10.0 3
-JYP sp3_sp3_41      N5  C6  O1  C9  -60.000  10.0 3
-JYP sp3_sp3_42      H5  C6  O1  C9  180.000  10.0 3
-JYP sp3_sp3_43      C8  C9  O1  C6  -60.000  10.0 3
-JYP sp3_sp3_44      C10 C9  O1  C6  180.000  10.0 3
-JYP sp3_sp3_45      H8  C9  O1  C6  60.000   10.0 3
-JYP sp3_sp3_46      C7  C8  C9  O1  60.000   10.0 3
-JYP sp3_sp3_47      C7  C8  C9  C10 180.000  10.0 3
-JYP sp3_sp3_48      C7  C8  C9  H8  -60.000  10.0 3
-JYP sp3_sp3_49      O3  C8  C9  O1  -60.000  10.0 3
-JYP sp3_sp3_50      O3  C8  C9  C10 60.000   10.0 3
-JYP sp3_sp3_51      O3  C8  C9  H8  180.000  10.0 3
-JYP sp3_sp3_52      H7  C8  C9  O1  180.000  10.0 3
-JYP sp3_sp3_53      H7  C8  C9  C10 -60.000  10.0 3
-JYP sp3_sp3_54      H7  C8  C9  H8  60.000   10.0 3
-JYP sp3_sp3_55      C6  C7  C8  C9  -60.000  10.0 3
-JYP sp3_sp3_56      C6  C7  C8  O3  60.000   10.0 3
-JYP sp3_sp3_57      C6  C7  C8  H7  180.000  10.0 3
-JYP sp3_sp3_58      O15 C7  C8  C9  180.000  10.0 3
-JYP sp3_sp3_59      O15 C7  C8  O3  -60.000  10.0 3
-JYP sp3_sp3_60      O15 C7  C8  H7  60.000   10.0 3
-JYP sp3_sp3_61      H6  C7  C8  C9  60.000   10.0 3
-JYP sp3_sp3_62      H6  C7  C8  O3  180.000  10.0 3
-JYP sp3_sp3_63      H6  C7  C8  H7  -60.000  10.0 3
-JYP sp3_sp3_64      C7  O15 P3  O16 180.000  10.0 3
-JYP sp3_sp3_65      C7  O15 P3  O18 -60.000  10.0 3
-JYP sp3_sp3_66      C7  O15 P3  O17 60.000   10.0 3
-JYP sp3_sp3_67      C6  C7  O15 P3  180.000  10.0 3
-JYP sp3_sp3_68      C8  C7  O15 P3  60.000   10.0 3
-JYP sp3_sp3_69      H6  C7  O15 P3  -60.000  10.0 3
-JYP sp3_sp3_70      O1  C6  C7  C8  180.000  10.0 3
-JYP sp3_sp3_71      O1  C6  C7  O15 -60.000  10.0 3
-JYP sp3_sp3_72      O1  C6  C7  H6  60.000   10.0 3
-JYP sp3_sp3_73      N5  C6  C7  C8  60.000   10.0 3
-JYP sp3_sp3_74      N5  C6  C7  O15 180.000  10.0 3
-JYP sp3_sp3_75      N5  C6  C7  H6  -60.000  10.0 3
-JYP sp3_sp3_76      H5  C6  C7  C8  -60.000  10.0 3
-JYP sp3_sp3_77      H5  C6  C7  O15 60.000   10.0 3
-JYP sp3_sp3_78      H5  C6  C7  H6  180.000  10.0 3
-JYP sp2_sp3_1       C2  N5  C6  O1  150.000  10.0 6
-JYP sp2_sp3_2       C2  N5  C6  C7  -90.000  10.0 6
-JYP sp2_sp3_3       C2  N5  C6  H5  30.000   10.0 6
-JYP sp2_sp3_4       C5  N5  C6  O1  -30.000  10.0 6
-JYP sp2_sp3_5       C5  N5  C6  C7  90.000   10.0 6
-JYP sp2_sp3_6       C5  N5  C6  H5  -150.000 10.0 6
-JYP sp3_sp3_79      O2  C10 C9  O1  180.000  10.0 3
-JYP sp3_sp3_80      O2  C10 C9  C8  -60.000  10.0 3
-JYP sp3_sp3_81      O2  C10 C9  H8  60.000   10.0 3
-JYP sp3_sp3_82      H9  C10 C9  O1  60.000   10.0 3
-JYP sp3_sp3_83      H9  C10 C9  C8  180.000  10.0 3
-JYP sp3_sp3_84      H9  C10 C9  H8  -60.000  10.0 3
-JYP sp3_sp3_85      H10 C10 C9  O1  -60.000  10.0 3
-JYP sp3_sp3_86      H10 C10 C9  C8  60.000   10.0 3
-JYP sp3_sp3_87      H10 C10 C9  H8  180.000  10.0 3
-JYP sp3_sp3_88      C7  C8  O3  C11 180.000  10.0 3
-JYP sp3_sp3_89      C9  C8  O3  C11 60.000   10.0 3
-JYP sp3_sp3_90      H7  C8  O3  C11 -60.000  10.0 3
-JYP const_27        N1  C1  N2  C4  0.000    10.0 2
-JYP const_28        H1  C1  N2  C4  180.000  10.0 2
-JYP sp3_sp3_91      C11 C12 O14 H24 180.000  10.0 3
-JYP sp3_sp3_92      C13 C12 O14 H24 60.000   10.0 3
-JYP sp3_sp3_93      H13 C12 O14 H24 -60.000  10.0 3
-JYP sp2_sp2_1       C3  C4  N3  H2  180.000  5.0  2
-JYP sp2_sp2_2       C3  C4  N3  H3  0.000    5.0  2
-JYP sp2_sp2_3       N2  C4  N3  H2  0.000    5.0  2
-JYP sp2_sp2_4       N2  C4  N3  H3  180.000  5.0  2
-JYP sp3_sp3_94      C9  C10 O2  H11 180.000  10.0 3
-JYP sp3_sp3_95      H9  C10 O2  H11 60.000   10.0 3
-JYP sp3_sp3_96      H10 C10 O2  H11 -60.000  10.0 3
-JYP sp3_sp3_97      C12 C11 O3  C8  180.000  10.0 3
-JYP sp3_sp3_98      O4  C11 O3  C8  60.000   10.0 3
-JYP sp3_sp3_99      H12 C11 O3  C8  -60.000  10.0 3
-JYP sp3_sp3_103     O4  C15 C16 O5  180.000  10.0 3
-JYP sp3_sp3_104     O4  C15 C16 H17 -60.000  10.0 3
-JYP sp3_sp3_105     O4  C15 C16 H18 60.000   10.0 3
-JYP sp3_sp3_106     C14 C15 C16 O5  60.000   10.0 3
-JYP sp3_sp3_107     C14 C15 C16 H17 180.000  10.0 3
-JYP sp3_sp3_108     C14 C15 C16 H18 -60.000  10.0 3
-JYP sp3_sp3_109     H16 C15 C16 O5  -60.000  10.0 3
-JYP sp3_sp3_110     H16 C15 C16 H17 60.000   10.0 3
-JYP sp3_sp3_111     H16 C15 C16 H18 180.000  10.0 3
-JYP sp3_sp3_112     C15 C16 O5  H19 180.000  10.0 3
-JYP sp3_sp3_113     H17 C16 O5  H19 60.000   10.0 3
-JYP sp3_sp3_114     H18 C16 O5  H19 -60.000  10.0 3
-JYP sp3_sp3_115     C15 C14 O6  P1  180.000  10.0 3
-JYP sp3_sp3_116     C13 C14 O6  P1  60.000   10.0 3
-JYP sp3_sp3_117     H15 C14 O6  P1  -60.000  10.0 3
-JYP sp3_sp3_118     C14 O6  P1  O7  180.000  10.0 3
-JYP sp3_sp3_119     C14 O6  P1  O9  -60.000  10.0 3
-JYP sp3_sp3_120     C14 O6  P1  O8  60.000   10.0 3
-JYP sp3_sp3_121     C12 C13 O10 P2  180.000  10.0 3
-JYP sp3_sp3_122     C14 C13 O10 P2  60.000   10.0 3
-JYP sp3_sp3_123     H14 C13 O10 P2  -60.000  10.0 3
-JYP sp3_sp3_124     C13 O10 P2  O11 180.000  10.0 3
-JYP sp3_sp3_125     C13 O10 P2  O12 -60.000  10.0 3
-JYP sp3_sp3_126     C13 O10 P2  O13 60.000   10.0 3
-
+JYP                   nu0         C15          O4         C11         C12      73.218    10.0     3
+JYP                   nu1          O4         C11         C12         C13     -30.108    10.0     3
+JYP                   nu2         C11         C12         C13         C14     -31.882    10.0     3
+JYP                   nu3         C12         C13         C14         C15      56.624    10.0     3
+JYP                   nu4         C13         C14         C15          O4     -18.787    10.0     3
+JYP                   nu5         C14         C15          O4         C11     -46.038    10.0     3
+JYP       const_sp2_sp2_1          N2          C1          N1          C2       0.000     5.0     2
+JYP       const_sp2_sp2_2          H1          C1          N1          C2     180.000     5.0     2
+JYP       const_sp2_sp2_3          C3          C2          N1          C1       0.000     5.0     2
+JYP       const_sp2_sp2_4          N5          C2          N1          C1     180.000     5.0     2
+JYP       const_sp2_sp2_5          N1          C2          C3          C4       0.000     5.0     2
+JYP       const_sp2_sp2_6          N1          C2          C3          N4     180.000     5.0     2
+JYP       const_sp2_sp2_7          N5          C2          C3          C4     180.000     5.0     2
+JYP       const_sp2_sp2_8          N5          C2          C3          N4       0.000     5.0     2
+JYP       const_sp2_sp2_9          C2          C3          C4          N2       0.000     5.0     2
+JYP              const_10          C2          C3          C4          N3     180.000    10.0     2
+JYP              const_11          N4          C3          C4          N2     180.000    10.0     2
+JYP              const_12          N4          C3          C4          N3       0.000    10.0     2
+JYP              const_13          C3          C4          N2          C1       0.000    10.0     2
+JYP              const_14          N3          C4          N2          C1     180.000    10.0     2
+JYP              const_15          C3          C2          N5          C5       0.000    10.0     2
+JYP              const_16          C3          C2          N5          C6     180.000    10.0     2
+JYP              const_17          N1          C2          N5          C5     180.000    10.0     2
+JYP              const_18          N1          C2          N5          C6       0.000    10.0     2
+JYP              const_19          N4          C5          N5          C2       0.000    10.0     2
+JYP              const_20          N4          C5          N5          C6     180.000    10.0     2
+JYP              const_21          H4          C5          N5          C2     180.000    10.0     2
+JYP              const_22          H4          C5          N5          C6       0.000    10.0     2
+JYP              const_23          N5          C5          N4          C3       0.000    10.0     2
+JYP              const_24          H4          C5          N4          C3     180.000    10.0     2
+JYP              const_25          C2          C3          N4          C5       0.000    10.0     2
+JYP              const_26          C4          C3          N4          C5     180.000    10.0     2
+JYP            sp3_sp3_40          C7          C6          O1          C9      60.000    10.0     3
+JYP            sp3_sp3_41          N5          C6          O1          C9     -60.000    10.0     3
+JYP            sp3_sp3_42          H5          C6          O1          C9     180.000    10.0     3
+JYP            sp3_sp3_43          C8          C9          O1          C6     -60.000    10.0     3
+JYP            sp3_sp3_44         C10          C9          O1          C6     180.000    10.0     3
+JYP            sp3_sp3_45          H8          C9          O1          C6      60.000    10.0     3
+JYP            sp3_sp3_46          C7          C8          C9          O1      60.000    10.0     3
+JYP            sp3_sp3_47          C7          C8          C9         C10     180.000    10.0     3
+JYP            sp3_sp3_48          C7          C8          C9          H8     -60.000    10.0     3
+JYP            sp3_sp3_49          O3          C8          C9          O1     -60.000    10.0     3
+JYP            sp3_sp3_50          O3          C8          C9         C10      60.000    10.0     3
+JYP            sp3_sp3_51          O3          C8          C9          H8     180.000    10.0     3
+JYP            sp3_sp3_52          H7          C8          C9          O1     180.000    10.0     3
+JYP            sp3_sp3_53          H7          C8          C9         C10     -60.000    10.0     3
+JYP            sp3_sp3_54          H7          C8          C9          H8      60.000    10.0     3
+JYP            sp3_sp3_55          C6          C7          C8          C9     -60.000    10.0     3
+JYP            sp3_sp3_56          C6          C7          C8          O3      60.000    10.0     3
+JYP            sp3_sp3_57          C6          C7          C8          H7     180.000    10.0     3
+JYP            sp3_sp3_58         O15          C7          C8          C9     180.000    10.0     3
+JYP            sp3_sp3_59         O15          C7          C8          O3     -60.000    10.0     3
+JYP            sp3_sp3_60         O15          C7          C8          H7      60.000    10.0     3
+JYP            sp3_sp3_61          H6          C7          C8          C9      60.000    10.0     3
+JYP            sp3_sp3_62          H6          C7          C8          O3     180.000    10.0     3
+JYP            sp3_sp3_63          H6          C7          C8          H7     -60.000    10.0     3
+JYP            sp3_sp3_64          C7         O15          P3         O16     180.000    10.0     3
+JYP            sp3_sp3_65          C7         O15          P3         O18     -60.000    10.0     3
+JYP            sp3_sp3_66          C7         O15          P3         O17      60.000    10.0     3
+JYP            sp3_sp3_67          C6          C7         O15          P3     180.000    10.0     3
+JYP            sp3_sp3_68          C8          C7         O15          P3      60.000    10.0     3
+JYP            sp3_sp3_69          H6          C7         O15          P3     -60.000    10.0     3
+JYP            sp3_sp3_70          O1          C6          C7          C8     180.000    10.0     3
+JYP            sp3_sp3_71          O1          C6          C7         O15     -60.000    10.0     3
+JYP            sp3_sp3_72          O1          C6          C7          H6      60.000    10.0     3
+JYP            sp3_sp3_73          N5          C6          C7          C8      60.000    10.0     3
+JYP            sp3_sp3_74          N5          C6          C7         O15     180.000    10.0     3
+JYP            sp3_sp3_75          N5          C6          C7          H6     -60.000    10.0     3
+JYP            sp3_sp3_76          H5          C6          C7          C8     -60.000    10.0     3
+JYP            sp3_sp3_77          H5          C6          C7         O15      60.000    10.0     3
+JYP            sp3_sp3_78          H5          C6          C7          H6     180.000    10.0     3
+JYP             sp2_sp3_1          C2          N5          C6          O1     150.000    10.0     6
+JYP             sp2_sp3_2          C2          N5          C6          C7     -90.000    10.0     6
+JYP             sp2_sp3_3          C2          N5          C6          H5      30.000    10.0     6
+JYP             sp2_sp3_4          C5          N5          C6          O1     -30.000    10.0     6
+JYP             sp2_sp3_5          C5          N5          C6          C7      90.000    10.0     6
+JYP             sp2_sp3_6          C5          N5          C6          H5    -150.000    10.0     6
+JYP            sp3_sp3_79          O2         C10          C9          O1     180.000    10.0     3
+JYP            sp3_sp3_80          O2         C10          C9          C8     -60.000    10.0     3
+JYP            sp3_sp3_81          O2         C10          C9          H8      60.000    10.0     3
+JYP            sp3_sp3_82          H9         C10          C9          O1      60.000    10.0     3
+JYP            sp3_sp3_83          H9         C10          C9          C8     180.000    10.0     3
+JYP            sp3_sp3_84          H9         C10          C9          H8     -60.000    10.0     3
+JYP            sp3_sp3_85         H10         C10          C9          O1     -60.000    10.0     3
+JYP            sp3_sp3_86         H10         C10          C9          C8      60.000    10.0     3
+JYP            sp3_sp3_87         H10         C10          C9          H8     180.000    10.0     3
+JYP            sp3_sp3_88          C7          C8          O3         C11     180.000    10.0     3
+JYP            sp3_sp3_89          C9          C8          O3         C11      60.000    10.0     3
+JYP            sp3_sp3_90          H7          C8          O3         C11     -60.000    10.0     3
+JYP              const_27          N1          C1          N2          C4       0.000    10.0     2
+JYP              const_28          H1          C1          N2          C4     180.000    10.0     2
+JYP            sp3_sp3_91         C11         C12         O14         H24     180.000    10.0     3
+JYP            sp3_sp3_92         C13         C12         O14         H24      60.000    10.0     3
+JYP            sp3_sp3_93         H13         C12         O14         H24     -60.000    10.0     3
+JYP             sp2_sp2_1          C3          C4          N3          H2     180.000     5.0     2
+JYP             sp2_sp2_2          C3          C4          N3          H3       0.000     5.0     2
+JYP             sp2_sp2_3          N2          C4          N3          H2       0.000     5.0     2
+JYP             sp2_sp2_4          N2          C4          N3          H3     180.000     5.0     2
+JYP            sp3_sp3_94          C9         C10          O2         H11     180.000    10.0     3
+JYP            sp3_sp3_95          H9         C10          O2         H11      60.000    10.0     3
+JYP            sp3_sp3_96         H10         C10          O2         H11     -60.000    10.0     3
+JYP            sp3_sp3_97         C12         C11          O3          C8     180.000    10.0     3
+JYP            sp3_sp3_98          O4         C11          O3          C8      60.000    10.0     3
+JYP            sp3_sp3_99         H12         C11          O3          C8     -60.000    10.0     3
+JYP           sp3_sp3_103          O4         C15         C16          O5     180.000    10.0     3
+JYP           sp3_sp3_104          O4         C15         C16         H17     -60.000    10.0     3
+JYP           sp3_sp3_105          O4         C15         C16         H18      60.000    10.0     3
+JYP           sp3_sp3_106         C14         C15         C16          O5      60.000    10.0     3
+JYP           sp3_sp3_107         C14         C15         C16         H17     180.000    10.0     3
+JYP           sp3_sp3_108         C14         C15         C16         H18     -60.000    10.0     3
+JYP           sp3_sp3_109         H16         C15         C16          O5     -60.000    10.0     3
+JYP           sp3_sp3_110         H16         C15         C16         H17      60.000    10.0     3
+JYP           sp3_sp3_111         H16         C15         C16         H18     180.000    10.0     3
+JYP           sp3_sp3_112         C15         C16          O5         H19     180.000    10.0     3
+JYP           sp3_sp3_113         H17         C16          O5         H19      60.000    10.0     3
+JYP           sp3_sp3_114         H18         C16          O5         H19     -60.000    10.0     3
+JYP           sp3_sp3_115         C15         C14          O6          P1     180.000    10.0     3
+JYP           sp3_sp3_116         C13         C14          O6          P1      60.000    10.0     3
+JYP           sp3_sp3_117         H15         C14          O6          P1     -60.000    10.0     3
+JYP           sp3_sp3_118         C14          O6          P1          O7     180.000    10.0     3
+JYP           sp3_sp3_119         C14          O6          P1          O9     -60.000    10.0     3
+JYP           sp3_sp3_120         C14          O6          P1          O8      60.000    10.0     3
+JYP           sp3_sp3_121         C12         C13         O10          P2     180.000    10.0     3
+JYP           sp3_sp3_122         C14         C13         O10          P2      60.000    10.0     3
+JYP           sp3_sp3_123         H14         C13         O10          P2     -60.000    10.0     3
+JYP           sp3_sp3_124         C13         O10          P2         O11     180.000    10.0     3
+JYP           sp3_sp3_125         C13         O10          P2         O12     -60.000    10.0     3
+JYP           sp3_sp3_126         C13         O10          P2         O13      60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -430,77 +428,58 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-JYP chir_1  C6  O1  N5  C7  negative
-JYP chir_2  C7  O15 C6  C8  negative
-JYP chir_3  C8  O3  C7  C9  positive
-JYP chir_4  C9  O1  C8  C10 negative
-JYP chir_5  C11 O3  O4  C12 negative
-JYP chir_6  C12 O14 C11 C13 positive
-JYP chir_7  C13 O10 C14 C12 negative
-JYP chir_8  C14 O6  C13 C15 positive
-JYP chir_9  C15 O4  C14 C16 positive
-JYP chir_10 P1  O6  O9  O7  both
-JYP chir_11 P2  O10 O12 O11 both
-JYP chir_12 P3  O15 O18 O16 both
-
+JYP    chir_1    C6    O1    N5    C7    negative
+JYP    chir_2    C7    O15    C6    C8    negative
+JYP    chir_3    C8    O3    C7    C9    positive
+JYP    chir_4    C9    O1    C8    C10    negative
+JYP    chir_5    C11    O3    O4    C12    negative
+JYP    chir_6    C12    O14    C11    C13    positive
+JYP    chir_7    C13    O10    C14    C12    negative
+JYP    chir_8    C14    O6    C13    C15    positive
+JYP    chir_9    C15    O4    C14    C16    positive
+JYP    chir_10    P1    O6    O9    O7    both
+JYP    chir_11    P2    O10    O12    O11    both
+JYP    chir_12    P3    O15    O18    O16    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-JYP plan-1 C1 0.020
-JYP plan-1 C2 0.020
-JYP plan-1 C3 0.020
-JYP plan-1 C4 0.020
-JYP plan-1 C5 0.020
-JYP plan-1 C6 0.020
-JYP plan-1 H1 0.020
-JYP plan-1 H4 0.020
-JYP plan-1 N1 0.020
-JYP plan-1 N2 0.020
-JYP plan-1 N3 0.020
-JYP plan-1 N4 0.020
-JYP plan-1 N5 0.020
-JYP plan-2 C4 0.020
-JYP plan-2 H2 0.020
-JYP plan-2 H3 0.020
-JYP plan-2 N3 0.020
-
+JYP    plan-1          C1   0.020
+JYP    plan-1          C2   0.020
+JYP    plan-1          C3   0.020
+JYP    plan-1          C4   0.020
+JYP    plan-1          C5   0.020
+JYP    plan-1          C6   0.020
+JYP    plan-1          H1   0.020
+JYP    plan-1          H4   0.020
+JYP    plan-1          N1   0.020
+JYP    plan-1          N2   0.020
+JYP    plan-1          N3   0.020
+JYP    plan-1          N4   0.020
+JYP    plan-1          N5   0.020
+JYP    plan-2          C4   0.020
+JYP    plan-2          H2   0.020
+JYP    plan-2          H3   0.020
+JYP    plan-2          N3   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-JYP InChI            InChI                1.03  InChI=1S/C16H26N5O18P3/c17-13-7-14(19-3-18-13)21(4-20-7)15-12(39-42(31,32)33)9(5(1-22)34-15)36-16-8(24)11(38-41(28,29)30)10(6(2-23)35-16)37-40(25,26)27/h3-6,8-12,15-16,22-24H,1-2H2,(H2,17,18,19)(H2,25,26,27)(H2,28,29,30)(H2,31,32,33)/t5-,6+,8+,9+,10+,11-,12-,15-,16-/m1/s1
-JYP InChIKey         InChI                1.03  RENVITLQVBEFDT-YFPOSXHWSA-N
-JYP SMILES_CANONICAL CACTVS               3.385 Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO)[C@H](O[C@H]4O[C@@H](CO)[C@H](O[P](O)(O)=O)[C@H](O[P](O)(O)=O)[C@@H]4O)[C@H]3O[P](O)(O)=O
-JYP SMILES           CACTVS               3.385 Nc1ncnc2n(cnc12)[CH]3O[CH](CO)[CH](O[CH]4O[CH](CO)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH]4O)[CH]3O[P](O)(O)=O
-JYP SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6 c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]([C@H](O3)CO)O[C@@H]4[C@H]([C@H]([C@H]([C@@H](O4)CO)OP(=O)(O)O)OP(=O)(O)O)O)OP(=O)(O)O)N
-JYP SMILES           "OpenEye OEToolkits" 2.0.6 c1nc(c2c(n1)n(cn2)C3C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OP(=O)(O)O)OP(=O)(O)O)O)OP(=O)(O)O)N
-
+JYP            InChI                InChI  1.03 InChI=1S/C16H26N5O18P3/c17-13-7-14(19-3-18-13)21(4-20-7)15-12(39-42(31,32)33)9(5(1-22)34-15)36-16-8(24)11(38-41(28,29)30)10(6(2-23)35-16)37-40(25,26)27/h3-6,8-12,15-16,22-24H,1-2H2,(H2,17,18,19)(H2,25,26,27)(H2,28,29,30)(H2,31,32,33)/t5-,6+,8+,9+,10+,11-,12-,15-,16-/m1/s1
+JYP         InChIKey                InChI  1.03                                                                                                                                                                                                                                                      RENVITLQVBEFDT-YFPOSXHWSA-N
+JYP SMILES_CANONICAL               CACTVS 3.385                                                                                                                                                       Nc1ncnc2n(cnc12)[C@@H]3O[C@H](CO)[C@H](O[C@H]4O[C@@H](CO)[C@H](O[P](O)(O)=O)[C@H](O[P](O)(O)=O)[C@@H]4O)[C@H]3O[P](O)(O)=O
+JYP           SMILES               CACTVS 3.385                                                                                                                                                                   Nc1ncnc2n(cnc12)[CH]3O[CH](CO)[CH](O[CH]4O[CH](CO)[CH](O[P](O)(O)=O)[CH](O[P](O)(O)=O)[CH]4O)[CH]3O[P](O)(O)=O
+JYP SMILES_CANONICAL "OpenEye OEToolkits" 2.0.6                                                                                                                                                     c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@H]([C@H](O3)CO)O[C@@H]4[C@H]([C@H]([C@H]([C@@H](O4)CO)OP(=O)(O)O)OP(=O)(O)O)O)OP(=O)(O)O)N
+JYP           SMILES "OpenEye OEToolkits" 2.0.6                                                                                                                                                                                            c1nc(c2c(n1)n(cn2)C3C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OP(=O)(O)O)OP(=O)(O)O)O)OP(=O)(O)O)N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-JYP acedrg          243       "dictionary generator"
-JYP acedrg_database 11        "data source"
-JYP rdkit           2017.03.2 "Chemoinformatics tool"
-JYP refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-JYP DNA/RNA O7  OP3
-JYP DNA/RNA P1  P
-JYP DNA/RNA O8  OP1
-JYP DNA/RNA O9  OP2
-JYP DNA/RNA O6  O5'
-JYP DNA/RNA C14 C5'
-JYP DNA/RNA C13 C4'
-JYP DNA/RNA C12 C3'
-JYP DNA/RNA O14 O3'
-JYP DNA/RNA H24 HO3'
+JYP acedrg               243         "dictionary generator"                  
+JYP acedrg_database      11          "data source"                           
+JYP rdkit                2017.03.2   "Chemoinformatics tool"
+JYP refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TRM TRM "1H-BENOXIMIDAZOLE-2-CARBOXYLIC ACID" NON-POLYMER 17 12 .
-
+TRM     TRM      "1H-BENOXIMIDAZOLE-2-CARBOXYLIC ACID"     NON-POLYMER     17     12     .     
+#
 data_comp_TRM
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,24 +21,23 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TRM NG   N NRD5 0  -20.579 60.425 35.963
-TRM CD1  C CR5  0  -20.485 61.694 36.313
-TRM NE1  N NR5  0  -21.552 62.100 37.057
-TRM CE2  C CR56 0  -22.390 61.024 37.197
-TRM CZ2  C CR16 0  -23.611 60.862 37.849
-TRM CH2  C CR16 0  -24.191 59.611 37.785
-TRM CZ3  C CR16 0  -23.581 58.555 37.097
-TRM CE3  C CR16 0  -22.373 58.717 36.453
-TRM CD2  C CR56 0  -21.770 59.976 36.506
-TRM C    C C    0  -19.361 62.561 35.941
-TRM O    O O    0  -18.306 62.054 35.600
-TRM OXT  O OC   -1 -19.529 63.765 35.989
-TRM HE11 H H    0  -21.680 62.903 37.386
-TRM HZ21 H H    0  -24.020 61.567 38.309
-TRM HH21 H H    0  -25.016 59.465 38.214
-TRM HZ31 H H    0  -24.004 57.717 37.074
-TRM HE31 H H    0  -21.966 58.006 35.992
-
+TRM     NG      N       NRD5    0       -20.579     60.425      35.963      
+TRM     CD1     C       CR5     0       -20.485     61.694      36.313      
+TRM     NE1     N       NR5     0       -21.552     62.100      37.057      
+TRM     CE2     C       CR56    0       -22.390     61.024      37.197      
+TRM     CZ2     C       CR16    0       -23.611     60.862      37.849      
+TRM     CH2     C       CR16    0       -24.191     59.611      37.785      
+TRM     CZ3     C       CR16    0       -23.581     58.555      37.097      
+TRM     CE3     C       CR16    0       -22.373     58.717      36.453      
+TRM     CD2     C       CR56    0       -21.770     59.976      36.506      
+TRM     C       C       C       0       -19.361     62.561      35.941      
+TRM     O       O       O       0       -18.306     62.054      35.600      
+TRM     OXT     O       OC      -1      -19.529     63.765      35.989      
+TRM     HE11    H       H       0       -21.680     62.903      37.386      
+TRM     HZ21    H       H       0       -24.020     61.567      38.309      
+TRM     HH21    H       H       0       -25.016     59.465      38.214      
+TRM     HZ31    H       H       0       -24.004     57.717      37.074      
+TRM     HE31    H       H       0       -21.966     58.006      35.992      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -47,25 +48,24 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TRM NG  CD1  DOUBLE y 1.319 0.0100 1.319 0.0100
-TRM NG  CD2  SINGLE y 1.384 0.0100 1.384 0.0100
-TRM CD1 NE1  SINGLE y 1.361 0.0114 1.361 0.0114
-TRM CD1 C    SINGLE n 1.463 0.0200 1.463 0.0200
-TRM NE1 CE2  SINGLE y 1.371 0.0100 1.371 0.0100
-TRM CE2 CZ2  SINGLE y 1.390 0.0100 1.390 0.0100
-TRM CE2 CD2  DOUBLE y 1.398 0.0100 1.398 0.0100
-TRM CZ2 CH2  DOUBLE y 1.377 0.0100 1.377 0.0100
-TRM CH2 CZ3  SINGLE y 1.396 0.0106 1.396 0.0106
-TRM CZ3 CE3  DOUBLE y 1.375 0.0100 1.375 0.0100
-TRM CE3 CD2  SINGLE y 1.394 0.0100 1.394 0.0100
-TRM C   O    DOUBLE n 1.217 0.0200 1.217 0.0200
-TRM C   OXT  SINGLE n 1.217 0.0200 1.217 0.0200
-TRM NE1 HE11 SINGLE n 1.016 0.0100 0.878 0.0200
-TRM CZ2 HZ21 SINGLE n 1.082 0.0130 0.936 0.0156
-TRM CH2 HH21 SINGLE n 1.082 0.0130 0.941 0.0181
-TRM CZ3 HZ31 SINGLE n 1.082 0.0130 0.939 0.0159
-TRM CE3 HE31 SINGLE n 1.082 0.0130 0.940 0.0194
-
+TRM          NG         CD1      DOUBLE       y     1.319  0.0100     1.319  0.0100
+TRM          NG         CD2      SINGLE       y     1.384  0.0100     1.384  0.0100
+TRM         CD1         NE1      SINGLE       y     1.361  0.0114     1.361  0.0114
+TRM         CD1           C      SINGLE       n     1.463  0.0200     1.463  0.0200
+TRM         NE1         CE2      SINGLE       y     1.371  0.0100     1.371  0.0100
+TRM         CE2         CZ2      SINGLE       y     1.390  0.0100     1.390  0.0100
+TRM         CE2         CD2      DOUBLE       y     1.398  0.0100     1.398  0.0100
+TRM         CZ2         CH2      DOUBLE       y     1.377  0.0100     1.377  0.0100
+TRM         CH2         CZ3      SINGLE       y     1.396  0.0106     1.396  0.0106
+TRM         CZ3         CE3      DOUBLE       y     1.375  0.0100     1.375  0.0100
+TRM         CE3         CD2      SINGLE       y     1.394  0.0100     1.394  0.0100
+TRM           C           O      DOUBLE       n     1.217  0.0200     1.217  0.0200
+TRM           C         OXT      SINGLE       n     1.217  0.0200     1.217  0.0200
+TRM         NE1        HE11      SINGLE       n     1.016  0.0100     0.878  0.0200
+TRM         CZ2        HZ21      SINGLE       n     1.082  0.0130     0.936  0.0156
+TRM         CH2        HH21      SINGLE       n     1.082  0.0130     0.941  0.0181
+TRM         CZ3        HZ31      SINGLE       n     1.082  0.0130     0.939  0.0159
+TRM         CE3        HE31      SINGLE       n     1.082  0.0130     0.940  0.0194
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -73,35 +73,34 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TRM CD1 NG  CD2  105.759 1.50
-TRM NG  CD1 NE1  111.932 1.50
-TRM NG  CD1 C    123.508 1.69
-TRM NE1 CD1 C    124.560 3.00
-TRM CD1 NE1 CE2  107.298 1.50
-TRM CD1 NE1 HE11 126.395 1.50
-TRM CE2 NE1 HE11 126.307 1.62
-TRM NE1 CE2 CZ2  132.390 1.50
-TRM NE1 CE2 CD2  105.366 1.50
-TRM CZ2 CE2 CD2  122.244 1.50
-TRM CE2 CZ2 CH2  116.713 1.50
-TRM CE2 CZ2 HZ21 121.713 1.50
-TRM CH2 CZ2 HZ21 121.573 1.50
-TRM CZ2 CH2 CZ3  121.628 1.50
-TRM CZ2 CH2 HH21 119.132 1.50
-TRM CZ3 CH2 HH21 119.240 1.50
-TRM CH2 CZ3 CE3  121.628 1.50
-TRM CH2 CZ3 HZ31 119.240 1.50
-TRM CE3 CZ3 HZ31 119.132 1.50
-TRM CZ3 CE3 CD2  117.727 1.50
-TRM CZ3 CE3 HE31 121.359 1.50
-TRM CD2 CE3 HE31 120.915 1.50
-TRM NG  CD2 CE2  109.645 1.50
-TRM NG  CD2 CE3  130.295 1.50
-TRM CE2 CD2 CE3  120.060 1.50
-TRM CD1 C   O    118.485 3.00
-TRM CD1 C   OXT  118.485 3.00
-TRM O   C   OXT  123.030 1.50
-
+TRM         CD1          NG         CD2     105.759    1.50
+TRM          NG         CD1         NE1     111.932    1.50
+TRM          NG         CD1           C     123.508    1.69
+TRM         NE1         CD1           C     124.560    3.00
+TRM         CD1         NE1         CE2     107.298    1.50
+TRM         CD1         NE1        HE11     126.395    1.50
+TRM         CE2         NE1        HE11     126.307    1.62
+TRM         NE1         CE2         CZ2     132.390    1.50
+TRM         NE1         CE2         CD2     105.366    1.50
+TRM         CZ2         CE2         CD2     122.244    1.50
+TRM         CE2         CZ2         CH2     116.713    1.50
+TRM         CE2         CZ2        HZ21     121.713    1.50
+TRM         CH2         CZ2        HZ21     121.573    1.50
+TRM         CZ2         CH2         CZ3     121.628    1.50
+TRM         CZ2         CH2        HH21     119.132    1.50
+TRM         CZ3         CH2        HH21     119.240    1.50
+TRM         CH2         CZ3         CE3     121.628    1.50
+TRM         CH2         CZ3        HZ31     119.240    1.50
+TRM         CE3         CZ3        HZ31     119.132    1.50
+TRM         CZ3         CE3         CD2     117.727    1.50
+TRM         CZ3         CE3        HE31     121.359    1.50
+TRM         CD2         CE3        HE31     120.915    1.50
+TRM          NG         CD2         CE2     109.645    1.50
+TRM          NG         CD2         CE3     130.295    1.50
+TRM         CE2         CD2         CE3     120.060    1.50
+TRM         CD1           C           O     118.485    3.00
+TRM         CD1           C         OXT     118.485    3.00
+TRM           O           C         OXT     123.030    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -112,73 +111,60 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TRM const_sp2_sp2_2 C   CD1 NG  CD2 180.000 5.0  2
-TRM const_35        CE2 CD2 NG  CD1 0.000   10.0 2
-TRM const_sp2_sp2_5 C   CD1 NE1 CE2 180.000 5.0  2
-TRM sp2_sp2_2       O   C   CD1 NG  0.000   5.0  2
-TRM const_sp2_sp2_9 CZ2 CE2 NE1 CD1 180.000 5.0  2
-TRM const_17        NE1 CE2 CZ2 CH2 180.000 10.0 2
-TRM const_11        NG  CD2 CE2 NE1 0.000   10.0 2
-TRM const_19        CZ3 CH2 CZ2 CE2 0.000   10.0 2
-TRM const_23        CZ2 CH2 CZ3 CE3 0.000   10.0 2
-TRM const_27        CD2 CE3 CZ3 CH2 0.000   10.0 2
-TRM const_33        NG  CD2 CE3 CZ3 180.000 10.0 2
-
+TRM       const_sp2_sp2_2           C         CD1          NG         CD2     180.000     5.0     2
+TRM              const_35         CE2         CD2          NG         CD1       0.000    10.0     2
+TRM       const_sp2_sp2_5           C         CD1         NE1         CE2     180.000     5.0     2
+TRM             sp2_sp2_2           O           C         CD1          NG       0.000     5.0     2
+TRM       const_sp2_sp2_9         CZ2         CE2         NE1         CD1     180.000     5.0     2
+TRM              const_17         NE1         CE2         CZ2         CH2     180.000    10.0     2
+TRM              const_11          NG         CD2         CE2         NE1       0.000    10.0     2
+TRM              const_19         CZ3         CH2         CZ2         CE2       0.000    10.0     2
+TRM              const_23         CZ2         CH2         CZ3         CE3       0.000    10.0     2
+TRM              const_27         CD2         CE3         CZ3         CH2       0.000    10.0     2
+TRM              const_33          NG         CD2         CE3         CZ3     180.000    10.0     2
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TRM plan-1 C    0.020
-TRM plan-1 CD1  0.020
-TRM plan-1 CD2  0.020
-TRM plan-1 CE2  0.020
-TRM plan-1 CE3  0.020
-TRM plan-1 CH2  0.020
-TRM plan-1 CZ2  0.020
-TRM plan-1 CZ3  0.020
-TRM plan-1 HE11 0.020
-TRM plan-1 HE31 0.020
-TRM plan-1 HH21 0.020
-TRM plan-1 HZ21 0.020
-TRM plan-1 HZ31 0.020
-TRM plan-1 NE1  0.020
-TRM plan-1 NG   0.020
-TRM plan-2 C    0.020
-TRM plan-2 CD1  0.020
-TRM plan-2 O    0.020
-TRM plan-2 OXT  0.020
-
+TRM    plan-1           C   0.020
+TRM    plan-1         CD1   0.020
+TRM    plan-1         CD2   0.020
+TRM    plan-1         CE2   0.020
+TRM    plan-1         CE3   0.020
+TRM    plan-1         CH2   0.020
+TRM    plan-1         CZ2   0.020
+TRM    plan-1         CZ3   0.020
+TRM    plan-1        HE11   0.020
+TRM    plan-1        HE31   0.020
+TRM    plan-1        HH21   0.020
+TRM    plan-1        HZ21   0.020
+TRM    plan-1        HZ31   0.020
+TRM    plan-1         NE1   0.020
+TRM    plan-1          NG   0.020
+TRM    plan-2           C   0.020
+TRM    plan-2         CD1   0.020
+TRM    plan-2           O   0.020
+TRM    plan-2         OXT   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TRM SMILES           ACDLabs              10.04 O=C(O)c2nc1ccccc1n2
-TRM SMILES_CANONICAL CACTVS               3.341 OC(=O)c1[nH]c2ccccc2n1
-TRM SMILES           CACTVS               3.341 OC(=O)c1[nH]c2ccccc2n1
-TRM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1ccc2c(c1)[nH]c(n2)C(=O)O
-TRM SMILES           "OpenEye OEToolkits" 1.5.0 c1ccc2c(c1)[nH]c(n2)C(=O)O
-TRM InChI            InChI                1.03  InChI=1S/C8H6N2O2/c11-8(12)7-9-5-3-1-2-4-6(5)10-7/h1-4H,(H,9,10)(H,11,12)
-TRM InChIKey         InChI                1.03  RHXSYTACTOMVLJ-UHFFFAOYSA-N
-
+TRM           SMILES              ACDLabs 10.04                                                       O=C(O)c2nc1ccccc1n2
+TRM SMILES_CANONICAL               CACTVS 3.341                                                    OC(=O)c1[nH]c2ccccc2n1
+TRM           SMILES               CACTVS 3.341                                                    OC(=O)c1[nH]c2ccccc2n1
+TRM SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                c1ccc2c(c1)[nH]c(n2)C(=O)O
+TRM           SMILES "OpenEye OEToolkits" 1.5.0                                                c1ccc2c(c1)[nH]c(n2)C(=O)O
+TRM            InChI                InChI  1.03 InChI=1S/C8H6N2O2/c11-8(12)7-9-5-3-1-2-4-6(5)10-7/h1-4H,(H,9,10)(H,11,12)
+TRM         InChIKey                InChI  1.03                                               RHXSYTACTOMVLJ-UHFFFAOYSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TRM acedrg          243       "dictionary generator"
-TRM acedrg_database 11        "data source"
-TRM rdkit           2017.03.2 "Chemoinformatics tool"
-TRM refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-TRM M-peptide CD1  CA
-TRM M-peptide NE1  N
-TRM M-peptide CE2  CN
-TRM M-peptide HE11 H
+TRM acedrg               243         "dictionary generator"                  
+TRM acedrg_database      11          "data source"                           
+TRM rdkit                2017.03.2   "Chemoinformatics tool"
+TRM refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-0GR 0GR N-(furan-2-ylcarbonyl)-L-leucyl-L-tryptophan NON-POLYMER 54 30 .
-
+0GR     0GR      N-(furan-2-ylcarbonyl)-L-leucyl-L-tryptophan     NON-POLYMER     54     30     .     
+#
 data_comp_0GR
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,61 +21,60 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-0GR C2   C C    0  25.082 1.042  20.403
-0GR C4   C CR5  0  26.499 1.425  20.330
-0GR C5   C CR15 0  27.488 1.412  21.249
-0GR C6   C CR15 0  28.648 1.911  20.606
-0GR C7   C CR15 0  28.281 2.208  19.316
-0GR O3   O O    0  24.330 1.265  19.453
-0GR O8   O O2   0  26.963 1.918  19.140
-0GR N    N NH1  0  24.650 0.503  21.558
-0GR CA   C CH1  0  23.239 0.271  21.847
-0GR C    C C    0  22.725 1.388  22.764
-0GR O    O O    0  22.955 1.345  23.972
-0GR CB   C CH2  0  23.025 -1.106 22.479
-0GR CG   C CH1  0  23.452 -2.305 21.630
-0GR CD1  C CH3  0  23.400 -3.587 22.448
-0GR CD2  C CH3  0  22.589 -2.436 20.383
-0GR N1   N NH1  0  22.050 2.391  22.183
-0GR CA1  C CH1  0  21.519 3.525  22.925
-0GR C1   C C    0  20.464 4.314  22.126
-0GR O1   O O    0  20.672 4.481  20.906
-0GR CB1  C CH2  0  22.640 4.478  23.388
-0GR CG1  C CR5  0  23.556 4.930  22.291
-0GR CD11 C CR15 0  24.635 4.259  21.791
-0GR CD21 C CR56 0  23.478 6.164  21.554
-0GR NE1  N NR5  0  25.231 4.984  20.795
-0GR CE2  C CR56 0  24.545 6.158  20.626
-0GR CE3  C CR16 0  22.615 7.270  21.584
-0GR CZ2  C CR16 0  24.767 7.216  19.741
-0GR CZ3  C CR16 0  22.835 8.315  20.709
-0GR CH2  C CR16 0  23.898 8.286  19.800
-0GR OXT  O OC   -1 19.471 4.734  22.752
-0GR H5   H H    0  27.424 1.124  22.137
-0GR H6   H H    0  29.499 2.018  20.985
-0GR H7   H H    0  28.841 2.558  18.647
-0GR H    H H    0  25.224 0.259  22.168
-0GR HA   H H    0  22.723 0.303  21.005
-0GR HB2  H H    0  22.075 -1.202 22.692
-0GR HB3  H H    0  23.519 -1.139 23.322
-0GR HG   H H    0  24.387 -2.164 21.343
-0GR HD11 H H    0  23.719 -4.330 21.907
-0GR HD12 H H    0  22.483 -3.758 22.726
-0GR HD13 H H    0  23.964 -3.493 23.235
-0GR HD21 H H    0  22.816 -1.729 19.755
-0GR HD22 H H    0  21.650 -2.363 20.628
-0GR HD23 H H    0  22.749 -3.301 19.967
-0GR H1   H H    0  21.926 2.376  21.318
-0GR HA1  H H    0  21.063 3.171  23.727
-0GR HB21 H H    0  23.170 4.025  24.075
-0GR HB31 H H    0  22.230 5.264  23.802
-0GR HD1  H H    0  24.931 3.412  22.086
-0GR HE1  H H    0  25.938 4.736  20.340
-0GR HE3  H H    0  21.896 7.298  22.194
-0GR HZ2  H H    0  25.483 7.197  19.129
-0GR HZ3  H H    0  22.259 9.062  20.723
-0GR HH2  H H    0  24.024 9.012  19.215
-
+0GR     C2      C       C       0       25.082      1.042       20.403      
+0GR     C4      C       CR5     0       26.499      1.425       20.330      
+0GR     C5      C       CR15    0       27.488      1.412       21.249      
+0GR     C6      C       CR15    0       28.648      1.911       20.606      
+0GR     C7      C       CR15    0       28.281      2.208       19.316      
+0GR     O3      O       O       0       24.330      1.265       19.453      
+0GR     O8      O       O2      0       26.963      1.918       19.140      
+0GR     N       N       NH1     0       24.650      0.503       21.558      
+0GR     CA      C       CH1     0       23.239      0.271       21.847      
+0GR     C       C       C       0       22.725      1.388       22.764      
+0GR     O       O       O       0       22.955      1.345       23.972      
+0GR     CB      C       CH2     0       23.025      -1.106      22.479      
+0GR     CG      C       CH1     0       23.452      -2.305      21.630      
+0GR     CD1     C       CH3     0       23.400      -3.587      22.448      
+0GR     CD2     C       CH3     0       22.589      -2.436      20.383      
+0GR     N1      N       NH1     0       22.050      2.391       22.183      
+0GR     CA1     C       CH1     0       21.519      3.525       22.925      
+0GR     C1      C       C       0       20.464      4.314       22.126      
+0GR     O1      O       O       0       20.672      4.481       20.906      
+0GR     CB1     C       CH2     0       22.640      4.478       23.388      
+0GR     CG1     C       CR5     0       23.556      4.930       22.291      
+0GR     CD11    C       CR15    0       24.635      4.259       21.791      
+0GR     CD21    C       CR56    0       23.478      6.164       21.554      
+0GR     NE1     N       NR5     0       25.231      4.984       20.795      
+0GR     CE2     C       CR56    0       24.545      6.158       20.626      
+0GR     CE3     C       CR16    0       22.615      7.270       21.584      
+0GR     CZ2     C       CR16    0       24.767      7.216       19.741      
+0GR     CZ3     C       CR16    0       22.835      8.315       20.709      
+0GR     CH2     C       CR16    0       23.898      8.286       19.800      
+0GR     OXT     O       OC      -1      19.471      4.734       22.752      
+0GR     H5      H       H       0       27.424      1.124       22.137      
+0GR     H6      H       H       0       29.499      2.018       20.985      
+0GR     H7      H       H       0       28.841      2.558       18.647      
+0GR     H       H       H       0       25.224      0.259       22.168      
+0GR     HA      H       H       0       22.723      0.303       21.005      
+0GR     HB2     H       H       0       22.075      -1.202      22.692      
+0GR     HB3     H       H       0       23.519      -1.139      23.322      
+0GR     HG      H       H       0       24.387      -2.164      21.343      
+0GR     HD11    H       H       0       23.719      -4.330      21.907      
+0GR     HD12    H       H       0       22.483      -3.758      22.726      
+0GR     HD13    H       H       0       23.964      -3.493      23.235      
+0GR     HD21    H       H       0       22.816      -1.729      19.755      
+0GR     HD22    H       H       0       21.650      -2.363      20.628      
+0GR     HD23    H       H       0       22.749      -3.301      19.967      
+0GR     H1      H       H       0       21.926      2.376       21.318      
+0GR     HA1     H       H       0       21.063      3.171       23.727      
+0GR     HB21    H       H       0       23.170      4.025       24.075      
+0GR     HB31    H       H       0       22.230      5.264       23.802      
+0GR     HD1     H       H       0       24.931      3.412       22.086      
+0GR     HE1     H       H       0       25.938      4.736       20.340      
+0GR     HE3     H       H       0       21.896      7.298       22.194      
+0GR     HZ2     H       H       0       25.483      7.197       19.129      
+0GR     HZ3     H       H       0       22.259      9.062       20.723      
+0GR     HH2     H       H       0       24.024      9.012       19.215      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -84,63 +85,62 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-0GR N    CA   SINGLE n 1.454 0.0100 1.454 0.0100
-0GR C2   N    SINGLE n 1.338 0.0100 1.338 0.0100
-0GR CA   CB   SINGLE n 1.528 0.0100 1.528 0.0100
-0GR CA   C    SINGLE n 1.530 0.0100 1.530 0.0100
-0GR CB   CG   SINGLE n 1.528 0.0105 1.528 0.0105
-0GR CG   CD1  SINGLE n 1.521 0.0151 1.521 0.0151
-0GR CG   CD2  SINGLE n 1.521 0.0151 1.521 0.0151
-0GR C    O    DOUBLE n 1.229 0.0102 1.229 0.0102
-0GR C2   O3   DOUBLE n 1.231 0.0100 1.231 0.0100
-0GR C2   C4   SINGLE n 1.465 0.0107 1.465 0.0107
-0GR C4   O8   SINGLE y 1.367 0.0100 1.367 0.0100
-0GR C4   C5   DOUBLE y 1.344 0.0127 1.344 0.0127
-0GR C7   O8   SINGLE y 1.363 0.0110 1.363 0.0110
-0GR C5   C6   SINGLE y 1.416 0.0136 1.416 0.0136
-0GR C6   C7   DOUBLE y 1.384 0.0200 1.384 0.0200
-0GR N1   CA1  SINGLE n 1.451 0.0100 1.451 0.0100
-0GR CA1  C1   SINGLE n 1.539 0.0100 1.539 0.0100
-0GR CA1  CB1  SINGLE n 1.540 0.0100 1.540 0.0100
-0GR C1   O1   DOUBLE n 1.247 0.0187 1.247 0.0187
-0GR C1   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
-0GR CB1  CG1  SINGLE n 1.498 0.0100 1.498 0.0100
-0GR CG1  CD11 DOUBLE y 1.365 0.0100 1.365 0.0100
-0GR CG1  CD21 SINGLE y 1.439 0.0100 1.439 0.0100
-0GR CD11 NE1  SINGLE y 1.369 0.0100 1.369 0.0100
-0GR CD21 CE2  DOUBLE y 1.411 0.0100 1.411 0.0100
-0GR CD21 CE3  SINGLE y 1.399 0.0100 1.399 0.0100
-0GR NE1  CE2  SINGLE y 1.370 0.0100 1.370 0.0100
-0GR CE2  CZ2  SINGLE y 1.394 0.0100 1.394 0.0100
-0GR CE3  CZ3  DOUBLE y 1.377 0.0100 1.377 0.0100
-0GR CZ2  CH2  DOUBLE y 1.376 0.0100 1.376 0.0100
-0GR CZ3  CH2  SINGLE y 1.395 0.0112 1.395 0.0112
-0GR C    N1   SINGLE n 1.337 0.0100 1.337 0.0100
-0GR C5   H5   SINGLE n 1.082 0.0130 0.936 0.0163
-0GR C6   H6   SINGLE n 1.082 0.0130 0.938 0.0166
-0GR C7   H7   SINGLE n 1.082 0.0130 0.941 0.0191
-0GR N    H    SINGLE n 1.016 0.0100 0.873 0.0101
-0GR CA   HA   SINGLE n 1.089 0.0100 0.991 0.0200
-0GR CB   HB2  SINGLE n 1.089 0.0100 0.978 0.0119
-0GR CB   HB3  SINGLE n 1.089 0.0100 0.978 0.0119
-0GR CG   HG   SINGLE n 1.089 0.0100 0.989 0.0162
-0GR CD1  HD11 SINGLE n 1.089 0.0100 0.973 0.0146
-0GR CD1  HD12 SINGLE n 1.089 0.0100 0.973 0.0146
-0GR CD1  HD13 SINGLE n 1.089 0.0100 0.973 0.0146
-0GR CD2  HD21 SINGLE n 1.089 0.0100 0.973 0.0146
-0GR CD2  HD22 SINGLE n 1.089 0.0100 0.973 0.0146
-0GR CD2  HD23 SINGLE n 1.089 0.0100 0.973 0.0146
-0GR N1   H1   SINGLE n 1.016 0.0100 0.873 0.0200
-0GR CA1  HA1  SINGLE n 1.089 0.0100 0.987 0.0115
-0GR CB1  HB21 SINGLE n 1.089 0.0100 0.979 0.0197
-0GR CB1  HB31 SINGLE n 1.089 0.0100 0.979 0.0197
-0GR CD11 HD1  SINGLE n 1.082 0.0130 0.945 0.0191
-0GR NE1  HE1  SINGLE n 1.016 0.0100 0.877 0.0200
-0GR CE3  HE3  SINGLE n 1.082 0.0130 0.944 0.0200
-0GR CZ2  HZ2  SINGLE n 1.082 0.0130 0.942 0.0188
-0GR CZ3  HZ3  SINGLE n 1.082 0.0130 0.944 0.0181
-0GR CH2  HH2  SINGLE n 1.082 0.0130 0.941 0.0181
-
+0GR           N          CA      SINGLE       n     1.454  0.0100     1.454  0.0100
+0GR          C2           N      SINGLE       n     1.338  0.0100     1.338  0.0100
+0GR          CA          CB      SINGLE       n     1.528  0.0100     1.528  0.0100
+0GR          CA           C      SINGLE       n     1.530  0.0100     1.530  0.0100
+0GR          CB          CG      SINGLE       n     1.528  0.0105     1.528  0.0105
+0GR          CG         CD1      SINGLE       n     1.521  0.0151     1.521  0.0151
+0GR          CG         CD2      SINGLE       n     1.521  0.0151     1.521  0.0151
+0GR           C           O      DOUBLE       n     1.229  0.0102     1.229  0.0102
+0GR          C2          O3      DOUBLE       n     1.231  0.0100     1.231  0.0100
+0GR          C2          C4      SINGLE       n     1.465  0.0107     1.465  0.0107
+0GR          C4          O8      SINGLE       y     1.367  0.0100     1.367  0.0100
+0GR          C4          C5      DOUBLE       y     1.344  0.0127     1.344  0.0127
+0GR          C7          O8      SINGLE       y     1.363  0.0110     1.363  0.0110
+0GR          C5          C6      SINGLE       y     1.416  0.0136     1.416  0.0136
+0GR          C6          C7      DOUBLE       y     1.384  0.0200     1.384  0.0200
+0GR          N1         CA1      SINGLE       n     1.451  0.0100     1.451  0.0100
+0GR         CA1          C1      SINGLE       n     1.539  0.0100     1.539  0.0100
+0GR         CA1         CB1      SINGLE       n     1.540  0.0100     1.540  0.0100
+0GR          C1          O1      DOUBLE       n     1.247  0.0187     1.247  0.0187
+0GR          C1         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+0GR         CB1         CG1      SINGLE       n     1.498  0.0100     1.498  0.0100
+0GR         CG1        CD11      DOUBLE       y     1.365  0.0100     1.365  0.0100
+0GR         CG1        CD21      SINGLE       y     1.439  0.0100     1.439  0.0100
+0GR        CD11         NE1      SINGLE       y     1.369  0.0100     1.369  0.0100
+0GR        CD21         CE2      DOUBLE       y     1.411  0.0100     1.411  0.0100
+0GR        CD21         CE3      SINGLE       y     1.399  0.0100     1.399  0.0100
+0GR         NE1         CE2      SINGLE       y     1.370  0.0100     1.370  0.0100
+0GR         CE2         CZ2      SINGLE       y     1.394  0.0100     1.394  0.0100
+0GR         CE3         CZ3      DOUBLE       y     1.377  0.0100     1.377  0.0100
+0GR         CZ2         CH2      DOUBLE       y     1.376  0.0100     1.376  0.0100
+0GR         CZ3         CH2      SINGLE       y     1.395  0.0112     1.395  0.0112
+0GR           C          N1      SINGLE       n     1.337  0.0100     1.337  0.0100
+0GR          C5          H5      SINGLE       n     1.082  0.0130     0.936  0.0163
+0GR          C6          H6      SINGLE       n     1.082  0.0130     0.938  0.0166
+0GR          C7          H7      SINGLE       n     1.082  0.0130     0.941  0.0191
+0GR           N           H      SINGLE       n     1.016  0.0100     0.873  0.0101
+0GR          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
+0GR          CB         HB2      SINGLE       n     1.089  0.0100     0.978  0.0119
+0GR          CB         HB3      SINGLE       n     1.089  0.0100     0.978  0.0119
+0GR          CG          HG      SINGLE       n     1.089  0.0100     0.989  0.0162
+0GR         CD1        HD11      SINGLE       n     1.089  0.0100     0.973  0.0146
+0GR         CD1        HD12      SINGLE       n     1.089  0.0100     0.973  0.0146
+0GR         CD1        HD13      SINGLE       n     1.089  0.0100     0.973  0.0146
+0GR         CD2        HD21      SINGLE       n     1.089  0.0100     0.973  0.0146
+0GR         CD2        HD22      SINGLE       n     1.089  0.0100     0.973  0.0146
+0GR         CD2        HD23      SINGLE       n     1.089  0.0100     0.973  0.0146
+0GR          N1          H1      SINGLE       n     1.016  0.0100     0.873  0.0200
+0GR         CA1         HA1      SINGLE       n     1.089  0.0100     0.987  0.0115
+0GR         CB1        HB21      SINGLE       n     1.089  0.0100     0.979  0.0197
+0GR         CB1        HB31      SINGLE       n     1.089  0.0100     0.979  0.0197
+0GR        CD11         HD1      SINGLE       n     1.082  0.0130     0.945  0.0191
+0GR         NE1         HE1      SINGLE       n     1.016  0.0100     0.877  0.0200
+0GR         CE3         HE3      SINGLE       n     1.082  0.0130     0.944  0.0200
+0GR         CZ2         HZ2      SINGLE       n     1.082  0.0130     0.942  0.0188
+0GR         CZ3         HZ3      SINGLE       n     1.082  0.0130     0.944  0.0181
+0GR         CH2         HH2      SINGLE       n     1.082  0.0130     0.941  0.0181
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -148,104 +148,103 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-0GR N    C2   O3   122.005 1.59
-0GR N    C2   C4   116.668 1.50
-0GR O3   C2   C4   121.327 1.50
-0GR C2   C4   O8   118.147 1.50
-0GR C2   C4   C5   131.956 1.54
-0GR O8   C4   C5   109.897 1.50
-0GR C4   C5   C6   105.976 1.50
-0GR C4   C5   H5   127.040 1.50
-0GR C6   C5   H5   126.983 1.50
-0GR C5   C6   C7   106.812 1.50
-0GR C5   C6   H6   126.635 1.50
-0GR C7   C6   H6   126.553 1.50
-0GR O8   C7   C6   110.437 1.50
-0GR O8   C7   H7   123.914 2.84
-0GR C6   C7   H7   125.649 2.87
-0GR C4   O8   C7   106.878 1.50
-0GR CA   N    C2   120.832 1.61
-0GR CA   N    H    119.015 1.91
-0GR C2   N    H    120.154 1.50
-0GR N    CA   CB   110.984 1.61
-0GR N    CA   C    110.342 2.62
-0GR N    CA   HA   108.209 1.50
-0GR CB   CA   C    110.666 1.50
-0GR CB   CA   HA   108.275 1.50
-0GR C    CA   HA   107.852 1.50
-0GR CA   C    O    120.345 1.50
-0GR CA   C    N1   116.639 1.50
-0GR O    C    N1   123.016 1.50
-0GR CA   CB   CG   115.210 1.50
-0GR CA   CB   HB2  108.470 1.50
-0GR CA   CB   HB3  108.470 1.50
-0GR CG   CB   HB2  108.478 1.50
-0GR CG   CB   HB3  108.478 1.50
-0GR HB2  CB   HB3  107.542 1.50
-0GR CB   CG   CD1  110.880 1.50
-0GR CB   CG   CD2  110.880 1.50
-0GR CB   CG   HG   108.053 1.50
-0GR CD1  CG   CD2  110.507 1.50
-0GR CD1  CG   HG   108.052 1.50
-0GR CD2  CG   HG   108.052 1.50
-0GR CG   CD1  HD11 109.488 1.50
-0GR CG   CD1  HD12 109.488 1.50
-0GR CG   CD1  HD13 109.488 1.50
-0GR HD11 CD1  HD12 109.411 1.50
-0GR HD11 CD1  HD13 109.411 1.50
-0GR HD12 CD1  HD13 109.411 1.50
-0GR CG   CD2  HD21 109.488 1.50
-0GR CG   CD2  HD22 109.488 1.50
-0GR CG   CD2  HD23 109.488 1.50
-0GR HD21 CD2  HD22 109.411 1.50
-0GR HD21 CD2  HD23 109.411 1.50
-0GR HD22 CD2  HD23 109.411 1.50
-0GR CA1  N1   C    122.219 1.76
-0GR CA1  N1   H1   118.480 1.50
-0GR C    N1   H1   119.300 1.83
-0GR N1   CA1  C1   111.981 1.50
-0GR N1   CA1  CB1  111.087 1.50
-0GR N1   CA1  HA1  107.553 1.50
-0GR C1   CA1  CB1  109.167 2.00
-0GR C1   CA1  HA1  107.623 2.42
-0GR CB1  CA1  HA1  108.345 1.50
-0GR CA1  C1   O1   117.298 1.50
-0GR CA1  C1   OXT  117.298 1.50
-0GR O1   C1   OXT  125.405 1.50
-0GR CA1  CB1  CG1  113.232 1.92
-0GR CA1  CB1  HB21 108.689 1.50
-0GR CA1  CB1  HB31 108.689 1.50
-0GR CG1  CB1  HB21 109.029 1.50
-0GR CG1  CB1  HB31 109.029 1.50
-0GR HB21 CB1  HB31 107.759 1.50
-0GR CB1  CG1  CD11 127.068 1.62
-0GR CB1  CG1  CD21 126.820 1.50
-0GR CD11 CG1  CD21 106.112 1.50
-0GR CG1  CD11 NE1  110.404 1.50
-0GR CG1  CD11 HD1  125.159 1.59
-0GR NE1  CD11 HD1  124.437 1.50
-0GR CG1  CD21 CE2  106.987 1.50
-0GR CG1  CD21 CE3  134.307 1.50
-0GR CE2  CD21 CE3  118.706 1.50
-0GR CD11 NE1  CE2  109.042 1.50
-0GR CD11 NE1  HE1  125.328 1.77
-0GR CE2  NE1  HE1  125.630 1.60
-0GR CD21 CE2  NE1  107.455 1.50
-0GR CD21 CE2  CZ2  122.250 1.50
-0GR NE1  CE2  CZ2  130.294 1.50
-0GR CD21 CE3  CZ3  118.817 1.50
-0GR CD21 CE3  HE3  120.505 1.50
-0GR CZ3  CE3  HE3  120.678 1.50
-0GR CE2  CZ2  CH2  117.385 1.50
-0GR CE2  CZ2  HZ2  121.137 1.50
-0GR CH2  CZ2  HZ2  121.477 1.50
-0GR CE3  CZ3  CH2  121.212 1.50
-0GR CE3  CZ3  HZ3  119.471 1.50
-0GR CH2  CZ3  HZ3  119.316 1.50
-0GR CZ2  CH2  CZ3  121.628 1.50
-0GR CZ2  CH2  HH2  119.132 1.50
-0GR CZ3  CH2  HH2  119.240 1.50
-
+0GR           N          C2          O3     122.005    1.59
+0GR           N          C2          C4     116.668    1.50
+0GR          O3          C2          C4     121.327    1.50
+0GR          C2          C4          O8     118.147    1.50
+0GR          C2          C4          C5     131.956    1.54
+0GR          O8          C4          C5     109.897    1.50
+0GR          C4          C5          C6     105.976    1.50
+0GR          C4          C5          H5     127.040    1.50
+0GR          C6          C5          H5     126.983    1.50
+0GR          C5          C6          C7     106.812    1.50
+0GR          C5          C6          H6     126.635    1.50
+0GR          C7          C6          H6     126.553    1.50
+0GR          O8          C7          C6     110.437    1.50
+0GR          O8          C7          H7     123.914    2.84
+0GR          C6          C7          H7     125.649    2.87
+0GR          C4          O8          C7     106.878    1.50
+0GR          CA           N          C2     120.832    1.61
+0GR          CA           N           H     119.015    1.91
+0GR          C2           N           H     120.154    1.50
+0GR           N          CA          CB     110.984    1.61
+0GR           N          CA           C     110.342    2.62
+0GR           N          CA          HA     108.209    1.50
+0GR          CB          CA           C     110.666    1.50
+0GR          CB          CA          HA     108.275    1.50
+0GR           C          CA          HA     107.852    1.50
+0GR          CA           C           O     120.345    1.50
+0GR          CA           C          N1     116.639    1.50
+0GR           O           C          N1     123.016    1.50
+0GR          CA          CB          CG     115.210    1.50
+0GR          CA          CB         HB2     108.470    1.50
+0GR          CA          CB         HB3     108.470    1.50
+0GR          CG          CB         HB2     108.478    1.50
+0GR          CG          CB         HB3     108.478    1.50
+0GR         HB2          CB         HB3     107.542    1.50
+0GR          CB          CG         CD1     110.880    1.50
+0GR          CB          CG         CD2     110.880    1.50
+0GR          CB          CG          HG     108.053    1.50
+0GR         CD1          CG         CD2     110.507    1.50
+0GR         CD1          CG          HG     108.052    1.50
+0GR         CD2          CG          HG     108.052    1.50
+0GR          CG         CD1        HD11     109.488    1.50
+0GR          CG         CD1        HD12     109.488    1.50
+0GR          CG         CD1        HD13     109.488    1.50
+0GR        HD11         CD1        HD12     109.411    1.50
+0GR        HD11         CD1        HD13     109.411    1.50
+0GR        HD12         CD1        HD13     109.411    1.50
+0GR          CG         CD2        HD21     109.488    1.50
+0GR          CG         CD2        HD22     109.488    1.50
+0GR          CG         CD2        HD23     109.488    1.50
+0GR        HD21         CD2        HD22     109.411    1.50
+0GR        HD21         CD2        HD23     109.411    1.50
+0GR        HD22         CD2        HD23     109.411    1.50
+0GR         CA1          N1           C     122.219    1.76
+0GR         CA1          N1          H1     118.480    1.50
+0GR           C          N1          H1     119.300    1.83
+0GR          N1         CA1          C1     111.981    1.50
+0GR          N1         CA1         CB1     111.087    1.50
+0GR          N1         CA1         HA1     107.553    1.50
+0GR          C1         CA1         CB1     109.167    2.00
+0GR          C1         CA1         HA1     107.623    2.42
+0GR         CB1         CA1         HA1     108.345    1.50
+0GR         CA1          C1          O1     117.298    1.50
+0GR         CA1          C1         OXT     117.298    1.50
+0GR          O1          C1         OXT     125.405    1.50
+0GR         CA1         CB1         CG1     113.232    1.92
+0GR         CA1         CB1        HB21     108.689    1.50
+0GR         CA1         CB1        HB31     108.689    1.50
+0GR         CG1         CB1        HB21     109.029    1.50
+0GR         CG1         CB1        HB31     109.029    1.50
+0GR        HB21         CB1        HB31     107.759    1.50
+0GR         CB1         CG1        CD11     127.068    1.62
+0GR         CB1         CG1        CD21     126.820    1.50
+0GR        CD11         CG1        CD21     106.112    1.50
+0GR         CG1        CD11         NE1     110.404    1.50
+0GR         CG1        CD11         HD1     125.159    1.59
+0GR         NE1        CD11         HD1     124.437    1.50
+0GR         CG1        CD21         CE2     106.987    1.50
+0GR         CG1        CD21         CE3     134.307    1.50
+0GR         CE2        CD21         CE3     118.706    1.50
+0GR        CD11         NE1         CE2     109.042    1.50
+0GR        CD11         NE1         HE1     125.328    1.77
+0GR         CE2         NE1         HE1     125.630    1.60
+0GR        CD21         CE2         NE1     107.455    1.50
+0GR        CD21         CE2         CZ2     122.250    1.50
+0GR         NE1         CE2         CZ2     130.294    1.50
+0GR        CD21         CE3         CZ3     118.817    1.50
+0GR        CD21         CE3         HE3     120.505    1.50
+0GR         CZ3         CE3         HE3     120.678    1.50
+0GR         CE2         CZ2         CH2     117.385    1.50
+0GR         CE2         CZ2         HZ2     121.137    1.50
+0GR         CH2         CZ2         HZ2     121.477    1.50
+0GR         CE3         CZ3         CH2     121.212    1.50
+0GR         CE3         CZ3         HZ3     119.471    1.50
+0GR         CH2         CZ3         HZ3     119.316    1.50
+0GR         CZ2         CH2         CZ3     121.628    1.50
+0GR         CZ2         CH2         HH2     119.132    1.50
+0GR         CZ3         CH2         HH2     119.240    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -256,35 +255,34 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-0GR sp2_sp2_6       N    C2   C4  O8   0.000   5.0  2
-0GR sp2_sp2_3       O3   C2   N   CA   0.000   5.0  2
-0GR sp3_sp3_11      CA   CB   CG  CD1  -60.000 10.0 3
-0GR sp3_sp3_19      HD11 CD1  CG  CB   180.000 10.0 3
-0GR sp3_sp3_29      HD21 CD2  CG  CB   -60.000 10.0 3
-0GR sp2_sp3_13      C    N1   CA1 C1   0.000   10.0 6
-0GR sp2_sp3_19      O1   C1   CA1 N1   0.000   10.0 6
-0GR sp3_sp3_37      N1   CA1  CB1 CG1  180.000 10.0 3
-0GR sp2_sp3_26      CD11 CG1  CB1 CA1  -90.000 10.0 6
-0GR const_47        C2   C4   C5  C6   180.000 10.0 2
-0GR const_sp2_sp2_2 C2   C4   O8  C7   180.000 5.0  2
-0GR const_14        NE1  CD11 CG1 CB1  180.000 10.0 2
-0GR const_50        CE2  CD21 CG1 CB1  180.000 10.0 2
-0GR const_17        CG1  CD11 NE1 CE2  0.000   10.0 2
-0GR const_25        CG1  CD21 CE2 NE1  0.000   10.0 2
-0GR const_55        CG1  CD21 CE3 CZ3  180.000 10.0 2
-0GR const_21        CD21 CE2  NE1 CD11 0.000   10.0 2
-0GR const_29        CD21 CE2  CZ2 CH2  0.000   10.0 2
-0GR const_41        CD21 CE3  CZ3 CH2  0.000   10.0 2
-0GR const_33        CZ3  CH2  CZ2 CE2  0.000   10.0 2
-0GR const_37        CZ2  CH2  CZ3 CE3  0.000   10.0 2
-0GR const_sp2_sp2_9 C4   C5   C6  C7   0.000   5.0  2
-0GR const_sp2_sp2_5 C5   C6   C7  O8   0.000   5.0  2
-0GR const_sp2_sp2_3 C6   C7   O8  C4   0.000   5.0  2
-0GR sp2_sp3_1       C2   N    CA  CB   0.000   10.0 6
-0GR sp3_sp3_1       N    CA   CB  CG   180.000 10.0 3
-0GR sp2_sp3_7       O    C    CA  N    0.000   10.0 6
-0GR sp2_sp2_9       CA   C    N1  CA1  180.000 5.0  2
-
+0GR             sp2_sp2_6           N          C2          C4          O8       0.000     5.0     2
+0GR             sp2_sp2_3          O3          C2           N          CA       0.000     5.0     2
+0GR            sp3_sp3_11          CA          CB          CG         CD1     -60.000    10.0     3
+0GR            sp3_sp3_19        HD11         CD1          CG          CB     180.000    10.0     3
+0GR            sp3_sp3_29        HD21         CD2          CG          CB     -60.000    10.0     3
+0GR            sp2_sp3_13           C          N1         CA1          C1       0.000    10.0     6
+0GR            sp2_sp3_19          O1          C1         CA1          N1       0.000    10.0     6
+0GR            sp3_sp3_37          N1         CA1         CB1         CG1     180.000    10.0     3
+0GR            sp2_sp3_26        CD11         CG1         CB1         CA1     -90.000    10.0     6
+0GR              const_47          C2          C4          C5          C6     180.000    10.0     2
+0GR       const_sp2_sp2_2          C2          C4          O8          C7     180.000     5.0     2
+0GR              const_14         NE1        CD11         CG1         CB1     180.000    10.0     2
+0GR              const_50         CE2        CD21         CG1         CB1     180.000    10.0     2
+0GR              const_17         CG1        CD11         NE1         CE2       0.000    10.0     2
+0GR              const_25         CG1        CD21         CE2         NE1       0.000    10.0     2
+0GR              const_55         CG1        CD21         CE3         CZ3     180.000    10.0     2
+0GR              const_21        CD21         CE2         NE1        CD11       0.000    10.0     2
+0GR              const_29        CD21         CE2         CZ2         CH2       0.000    10.0     2
+0GR              const_41        CD21         CE3         CZ3         CH2       0.000    10.0     2
+0GR              const_33         CZ3         CH2         CZ2         CE2       0.000    10.0     2
+0GR              const_37         CZ2         CH2         CZ3         CE3       0.000    10.0     2
+0GR       const_sp2_sp2_9          C4          C5          C6          C7       0.000     5.0     2
+0GR       const_sp2_sp2_5          C5          C6          C7          O8       0.000     5.0     2
+0GR       const_sp2_sp2_3          C6          C7          O8          C4       0.000     5.0     2
+0GR             sp2_sp3_1          C2           N          CA          CB       0.000    10.0     6
+0GR             sp3_sp3_1           N          CA          CB          CG     180.000    10.0     3
+0GR             sp2_sp3_7           O           C          CA           N       0.000    10.0     6
+0GR             sp2_sp2_9          CA           C          N1         CA1     180.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -293,93 +291,78 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-0GR chir_1 CA  N  C   CB  positive
-0GR chir_2 CG  CB CD1 CD2 both
-0GR chir_3 CA1 N1 C1  CB1 positive
-
+0GR    chir_1    CA    N    C    CB    positive
+0GR    chir_2    CG    CB    CD1    CD2    both
+0GR    chir_3    CA1    N1    C1    CB1    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-0GR plan-1 CB1  0.020
-0GR plan-1 CD11 0.020
-0GR plan-1 CD21 0.020
-0GR plan-1 CE2  0.020
-0GR plan-1 CE3  0.020
-0GR plan-1 CG1  0.020
-0GR plan-1 CH2  0.020
-0GR plan-1 CZ2  0.020
-0GR plan-1 CZ3  0.020
-0GR plan-1 HD1  0.020
-0GR plan-1 HE1  0.020
-0GR plan-1 HE3  0.020
-0GR plan-1 HH2  0.020
-0GR plan-1 HZ2  0.020
-0GR plan-1 HZ3  0.020
-0GR plan-1 NE1  0.020
-0GR plan-2 C2   0.020
-0GR plan-2 C4   0.020
-0GR plan-2 C5   0.020
-0GR plan-2 C6   0.020
-0GR plan-2 C7   0.020
-0GR plan-2 H5   0.020
-0GR plan-2 H6   0.020
-0GR plan-2 H7   0.020
-0GR plan-2 O8   0.020
-0GR plan-3 C2   0.020
-0GR plan-3 C4   0.020
-0GR plan-3 N    0.020
-0GR plan-3 O3   0.020
-0GR plan-4 C2   0.020
-0GR plan-4 CA   0.020
-0GR plan-4 H    0.020
-0GR plan-4 N    0.020
-0GR plan-5 C    0.020
-0GR plan-5 CA   0.020
-0GR plan-5 N1   0.020
-0GR plan-5 O    0.020
-0GR plan-6 C    0.020
-0GR plan-6 CA1  0.020
-0GR plan-6 H1   0.020
-0GR plan-6 N1   0.020
-0GR plan-7 C1   0.020
-0GR plan-7 CA1  0.020
-0GR plan-7 O1   0.020
-0GR plan-7 OXT  0.020
-
+0GR    plan-1         CB1   0.020
+0GR    plan-1        CD11   0.020
+0GR    plan-1        CD21   0.020
+0GR    plan-1         CE2   0.020
+0GR    plan-1         CE3   0.020
+0GR    plan-1         CG1   0.020
+0GR    plan-1         CH2   0.020
+0GR    plan-1         CZ2   0.020
+0GR    plan-1         CZ3   0.020
+0GR    plan-1         HD1   0.020
+0GR    plan-1         HE1   0.020
+0GR    plan-1         HE3   0.020
+0GR    plan-1         HH2   0.020
+0GR    plan-1         HZ2   0.020
+0GR    plan-1         HZ3   0.020
+0GR    plan-1         NE1   0.020
+0GR    plan-2          C2   0.020
+0GR    plan-2          C4   0.020
+0GR    plan-2          C5   0.020
+0GR    plan-2          C6   0.020
+0GR    plan-2          C7   0.020
+0GR    plan-2          H5   0.020
+0GR    plan-2          H6   0.020
+0GR    plan-2          H7   0.020
+0GR    plan-2          O8   0.020
+0GR    plan-3          C2   0.020
+0GR    plan-3          C4   0.020
+0GR    plan-3           N   0.020
+0GR    plan-3          O3   0.020
+0GR    plan-4          C2   0.020
+0GR    plan-4          CA   0.020
+0GR    plan-4           H   0.020
+0GR    plan-4           N   0.020
+0GR    plan-5           C   0.020
+0GR    plan-5          CA   0.020
+0GR    plan-5          N1   0.020
+0GR    plan-5           O   0.020
+0GR    plan-6           C   0.020
+0GR    plan-6         CA1   0.020
+0GR    plan-6          H1   0.020
+0GR    plan-6          N1   0.020
+0GR    plan-7          C1   0.020
+0GR    plan-7         CA1   0.020
+0GR    plan-7          O1   0.020
+0GR    plan-7         OXT   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-0GR SMILES           ACDLabs              12.01 O=C(NC(C(=O)NC(C(=O)O)Cc2c1ccccc1nc2)CC(C)C)c3occc3
-0GR SMILES_CANONICAL CACTVS               3.370 CC(C)C[C@H](NC(=O)c1occc1)C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(O)=O
-0GR SMILES           CACTVS               3.370 CC(C)C[CH](NC(=O)c1occc1)C(=O)N[CH](Cc2c[nH]c3ccccc23)C(O)=O
-0GR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 CC(C)C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)O)NC(=O)c3ccco3
-0GR SMILES           "OpenEye OEToolkits" 1.7.0 CC(C)CC(C(=O)NC(Cc1c[nH]c2c1cccc2)C(=O)O)NC(=O)c3ccco3
-0GR InChI            InChI                1.03  InChI=1S/C22H25N3O5/c1-13(2)10-17(24-21(27)19-8-5-9-30-19)20(26)25-18(22(28)29)11-14-12-23-16-7-4-3-6-15(14)16/h3-9,12-13,17-18,23H,10-11H2,1-2H3,(H,24,27)(H,25,26)(H,28,29)/t17-,18-/m0/s1
-0GR InChIKey         InChI                1.03  ULCATSBNAQXWKO-ROUUACIJSA-N
-
+0GR           SMILES              ACDLabs 12.01                                                                                                                                          O=C(NC(C(=O)NC(C(=O)O)Cc2c1ccccc1nc2)CC(C)C)c3occc3
+0GR SMILES_CANONICAL               CACTVS 3.370                                                                                                                              CC(C)C[C@H](NC(=O)c1occc1)C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(O)=O
+0GR           SMILES               CACTVS 3.370                                                                                                                                 CC(C)C[CH](NC(=O)c1occc1)C(=O)N[CH](Cc2c[nH]c3ccccc23)C(O)=O
+0GR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                                                                             CC(C)C[C@@H](C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)O)NC(=O)c3ccco3
+0GR           SMILES "OpenEye OEToolkits" 1.7.0                                                                                                                                       CC(C)CC(C(=O)NC(Cc1c[nH]c2c1cccc2)C(=O)O)NC(=O)c3ccco3
+0GR            InChI                InChI  1.03 InChI=1S/C22H25N3O5/c1-13(2)10-17(24-21(27)19-8-5-9-30-19)20(26)25-18(22(28)29)11-14-12-23-16-7-4-3-6-15(14)16/h3-9,12-13,17-18,23H,10-11H2,1-2H3,(H,24,27)(H,25,26)(H,28,29)/t17-,18-/m0/s1
+0GR         InChIKey                InChI  1.03                                                                                                                                                                  ULCATSBNAQXWKO-ROUUACIJSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-0GR acedrg          243       "dictionary generator"
-0GR acedrg_database 11        "data source"
-0GR rdkit           2017.03.2 "Chemoinformatics tool"
-0GR refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-0GR M-peptide O1  O
-0GR M-peptide C1  C
-0GR M-peptide CA1 CA
-0GR M-peptide N1  N
-0GR M-peptide C   CN
-0GR M-peptide H1  H
+0GR acedrg               243         "dictionary generator"                  
+0GR acedrg_database      11          "data source"                           
+0GR rdkit                2017.03.2   "Chemoinformatics tool"
+0GR refmac5              5.8.0238    "optimization tool"                     

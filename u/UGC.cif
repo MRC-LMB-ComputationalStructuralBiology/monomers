@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-UGC UGC "(2S)-(carbamoylamino)(hydroxy)ethanoic acid" NON-POLYMER 13 9 .
-
+UGC     UGC      "(2S)-(carbamoylamino)(hydroxy)ethanoic acid"     NON-POLYMER     13     9     .     
+#
 data_comp_UGC
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,20 +21,19 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-UGC O3 O OC  -1 8.083 69.056 104.546
-UGC C3 C C   0  7.898 68.546 103.423
-UGC O4 O O   0  8.615 67.669 102.902
-UGC C2 C CH1 0  6.696 69.037 102.619
-UGC O2 O OC  -1 5.832 67.950 102.379
-UGC N2 N NH1 0  7.080 69.621 101.343
-UGC C1 C C   0  7.654 70.844 101.229
-UGC O1 O O   0  7.895 71.553 102.226
-UGC N1 N NH2 0  7.960 71.274 99.998
-UGC H2 H H   0  6.222 69.712 103.147
-UGC H4 H H   0  6.931 69.155 100.619
-UGC H5 H H   0  8.334 72.066 99.898
-UGC H6 H H   0  7.792 70.779 99.288
-
+UGC     O3      O       OC      -1      8.083       69.056      104.546     
+UGC     C3      C       C       0       7.898       68.546      103.423     
+UGC     O4      O       O       0       8.615       67.669      102.902     
+UGC     C2      C       CH1     0       6.696       69.037      102.619     
+UGC     O2      O       OC      -1      5.832       67.950      102.379     
+UGC     N2      N       NH1     0       7.080       69.621      101.343     
+UGC     C1      C       C       0       7.654       70.844      101.229     
+UGC     O1      O       O       0       7.895       71.553      102.226     
+UGC     N1      N       NH2     0       7.960       71.274      99.998      
+UGC     H2      H       H       0       6.222       69.712      103.147     
+UGC     H4      H       H       0       6.931       69.155      100.619     
+UGC     H5      H       H       0       8.334       72.066      99.898      
+UGC     H6      H       H       0       7.792       70.779      99.288      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -43,19 +44,18 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-UGC C1 N1 SINGLE n 1.334 0.0157 1.334 0.0157
-UGC N2 C1 SINGLE n 1.351 0.0100 1.351 0.0100
-UGC C1 O1 DOUBLE n 1.243 0.0179 1.243 0.0179
-UGC C2 N2 SINGLE n 1.451 0.0142 1.451 0.0142
-UGC C2 O2 SINGLE n 1.410 0.0200 1.410 0.0200
-UGC C3 C2 SINGLE n 1.527 0.0103 1.527 0.0103
-UGC C3 O4 DOUBLE n 1.247 0.0187 1.247 0.0187
-UGC O3 C3 SINGLE n 1.247 0.0187 1.247 0.0187
-UGC C2 H2 SINGLE n 1.089 0.0100 0.979 0.0148
-UGC N2 H4 SINGLE n 1.016 0.0100 0.873 0.0200
-UGC N1 H5 SINGLE n 1.016 0.0100 0.881 0.0200
-UGC N1 H6 SINGLE n 1.016 0.0100 0.881 0.0200
-
+UGC          C1          N1      SINGLE       n     1.334  0.0157     1.334  0.0157
+UGC          N2          C1      SINGLE       n     1.351  0.0100     1.351  0.0100
+UGC          C1          O1      DOUBLE       n     1.243  0.0179     1.243  0.0179
+UGC          C2          N2      SINGLE       n     1.451  0.0142     1.451  0.0142
+UGC          C2          O2      SINGLE       n     1.410  0.0200     1.410  0.0200
+UGC          C3          C2      SINGLE       n     1.527  0.0103     1.527  0.0103
+UGC          C3          O4      DOUBLE       n     1.247  0.0187     1.247  0.0187
+UGC          O3          C3      SINGLE       n     1.247  0.0187     1.247  0.0187
+UGC          C2          H2      SINGLE       n     1.089  0.0100     0.979  0.0148
+UGC          N2          H4      SINGLE       n     1.016  0.0100     0.873  0.0200
+UGC          N1          H5      SINGLE       n     1.016  0.0100     0.881  0.0200
+UGC          N1          H6      SINGLE       n     1.016  0.0100     0.881  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -63,25 +63,24 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-UGC C2 C3 O4 117.315 1.72
-UGC C2 C3 O3 117.315 1.72
-UGC O4 C3 O3 125.371 1.75
-UGC N2 C2 O2 109.471 3.00
-UGC N2 C2 C3 112.537 1.50
-UGC N2 C2 H2 108.953 1.50
-UGC O2 C2 C3 109.522 2.28
-UGC O2 C2 H2 109.444 1.61
-UGC C3 C2 H2 108.731 1.50
-UGC C1 N2 C2 122.306 1.63
-UGC C1 N2 H4 118.865 1.50
-UGC C2 N2 H4 118.829 1.94
-UGC N1 C1 N2 117.179 1.50
-UGC N1 C1 O1 121.364 1.81
-UGC N2 C1 O1 121.457 1.50
-UGC C1 N1 H5 119.809 2.97
-UGC C1 N1 H6 119.809 2.97
-UGC H5 N1 H6 120.382 2.62
-
+UGC          C2          C3          O4     117.315    1.72
+UGC          C2          C3          O3     117.315    1.72
+UGC          O4          C3          O3     125.371    1.75
+UGC          N2          C2          O2     109.471    3.00
+UGC          N2          C2          C3     112.537    1.50
+UGC          N2          C2          H2     108.953    1.50
+UGC          O2          C2          C3     109.522    2.28
+UGC          O2          C2          H2     109.444    1.61
+UGC          C3          C2          H2     108.731    1.50
+UGC          C1          N2          C2     122.306    1.63
+UGC          C1          N2          H4     118.865    1.50
+UGC          C2          N2          H4     118.829    1.94
+UGC          N1          C1          N2     117.179    1.50
+UGC          N1          C1          O1     121.364    1.81
+UGC          N2          C1          O1     121.457    1.50
+UGC          C1          N1          H5     119.809    2.97
+UGC          C1          N1          H6     119.809    2.97
+UGC          H5          N1          H6     120.382    2.62
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -92,11 +91,10 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-UGC sp2_sp3_7 O4 C3 C2 N2 0.000   10.0 6
-UGC sp2_sp3_1 C1 N2 C2 O2 0.000   10.0 6
-UGC sp2_sp2_5 N1 C1 N2 C2 180.000 5.0  2
-UGC sp2_sp2_1 N2 C1 N1 H5 180.000 5.0  2
-
+UGC             sp2_sp3_7          O4          C3          C2          N2       0.000    10.0     6
+UGC             sp2_sp3_1          C1          N2          C2          O2       0.000    10.0     6
+UGC             sp2_sp2_5          N1          C1          N2          C2     180.000     5.0     2
+UGC             sp2_sp2_1          N2          C1          N1          H5     180.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -105,63 +103,47 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-UGC chir_1 C2 O2 N2 C3 positive
-
+UGC    chir_1    C2    O2    N2    C3    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-UGC plan-1 C2 0.020
-UGC plan-1 C3 0.020
-UGC plan-1 O3 0.020
-UGC plan-1 O4 0.020
-UGC plan-2 C1 0.020
-UGC plan-2 C2 0.020
-UGC plan-2 H4 0.020
-UGC plan-2 N2 0.020
-UGC plan-3 C1 0.020
-UGC plan-3 N1 0.020
-UGC plan-3 N2 0.020
-UGC plan-3 O1 0.020
-UGC plan-4 C1 0.020
-UGC plan-4 H5 0.020
-UGC plan-4 H6 0.020
-UGC plan-4 N1 0.020
-
+UGC    plan-1          C2   0.020
+UGC    plan-1          C3   0.020
+UGC    plan-1          O3   0.020
+UGC    plan-1          O4   0.020
+UGC    plan-2          C1   0.020
+UGC    plan-2          C2   0.020
+UGC    plan-2          H4   0.020
+UGC    plan-2          N2   0.020
+UGC    plan-3          C1   0.020
+UGC    plan-3          N1   0.020
+UGC    plan-3          N2   0.020
+UGC    plan-3          O1   0.020
+UGC    plan-4          C1   0.020
+UGC    plan-4          H5   0.020
+UGC    plan-4          H6   0.020
+UGC    plan-4          N1   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-UGC SMILES           ACDLabs              12.01 O=C(O)C(O)NC(=O)N
-UGC InChI            InChI                1.03  InChI=1S/C3H6N2O4/c4-3(9)5-1(6)2(7)8/h1,6H,(H,7,8)(H3,4,5,9)/t1-/m0/s1
-UGC InChIKey         InChI                1.03  NWZYYCVIOKVTII-SFOWXEAESA-N
-UGC SMILES_CANONICAL CACTVS               3.385 NC(=O)N[C@@H](O)C(O)=O
-UGC SMILES           CACTVS               3.385 NC(=O)N[CH](O)C(O)=O
-UGC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 "[C@H](C(=O)O)(NC(=O)N)O"
-UGC SMILES           "OpenEye OEToolkits" 1.7.6 C(C(=O)O)(NC(=O)N)O
-
+UGC           SMILES              ACDLabs 12.01                                                      O=C(O)C(O)NC(=O)N
+UGC            InChI                InChI  1.03 InChI=1S/C3H6N2O4/c4-3(9)5-1(6)2(7)8/h1,6H,(H,7,8)(H3,4,5,9)/t1-/m0/s1
+UGC         InChIKey                InChI  1.03                                            NWZYYCVIOKVTII-SFOWXEAESA-N
+UGC SMILES_CANONICAL               CACTVS 3.385                                                 NC(=O)N[C@@H](O)C(O)=O
+UGC           SMILES               CACTVS 3.385                                                   NC(=O)N[CH](O)C(O)=O
+UGC SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                              "[C@H](C(=O)O)(NC(=O)N)O"
+UGC           SMILES "OpenEye OEToolkits" 1.7.6                                                    C(C(=O)O)(NC(=O)N)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-UGC acedrg          243       "dictionary generator"
-UGC acedrg_database 11        "data source"
-UGC rdkit           2017.03.2 "Chemoinformatics tool"
-UGC refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-UGC M-peptide O4 O
-UGC M-peptide C3 C
-UGC M-peptide C2 CA
-UGC M-peptide N2 N
-UGC M-peptide C1 CN
-UGC M-peptide O3 OXT
-UGC M-peptide H4 H
+UGC acedrg               243         "dictionary generator"                  
+UGC acedrg_database      11          "data source"                           
+UGC rdkit                2017.03.2   "Chemoinformatics tool"
+UGC refmac5              5.8.0238    "optimization tool"                     

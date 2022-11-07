@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-OLN OLN "(S)-2-ACETAMIDO-5-UREIDOPENTANOIC ACID" NON-POLYMER 29 15 .
-
+OLN     OLN      "(S)-2-ACETAMIDO-5-UREIDOPENTANOIC ACID"     NON-POLYMER     29     15     .     
+#
 data_comp_OLN
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,36 +21,35 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-OLN CA   C CH1 0  109.139 42.523 81.997
-OLN C    C C   0  109.214 43.344 80.696
-OLN O    O O   0  108.326 43.142 79.844
-OLN OXT  O OC  -1 110.153 44.159 80.582
-OLN CB   C CH2 0  108.283 43.255 83.033
-OLN CG   C CH2 0  108.057 42.457 84.309
-OLN CD   C CH2 0  107.143 43.175 85.285
-OLN NE   N NH1 0  107.796 44.314 85.914
-OLN CZ   C C   0  107.188 45.097 86.823
-OLN O2   O O   0  106.013 44.882 87.178
-OLN NH2  N NH2 0  107.898 46.116 87.327
-OLN N1   N NH1 0  110.476 42.226 82.495
-OLN C1   C C   0  111.001 40.997 82.598
-OLN O1   O O   0  110.393 39.984 82.255
-OLN C2   C CH3 0  112.381 40.916 83.169
-OLN HA   H H   0  108.680 41.673 81.785
-OLN HB1  H H   0  107.414 43.464 82.631
-OLN HB2  H H   0  108.722 44.101 83.261
-OLN HG1  H H   0  108.920 42.291 84.744
-OLN HG2  H H   0  107.661 41.589 84.081
-OLN HD1  H H   0  106.855 42.544 85.980
-OLN HD2  H H   0  106.343 43.484 84.810
-OLN HNE  H H   0  108.621 44.499 85.694
-OLN HH21 H H   0  107.524 46.645 87.924
-OLN HH22 H H   0  108.729 46.266 87.074
-OLN HN1  H H   0  110.961 42.910 82.741
-OLN H21  H H   0  112.657 39.986 83.226
-OLN H22  H H   0  112.390 41.308 84.057
-OLN H23  H H   0  112.999 41.400 82.598
-
+OLN     CA      C       CH1     0       109.139     42.523      81.997      
+OLN     C       C       C       0       109.214     43.344      80.696      
+OLN     O       O       O       0       108.326     43.142      79.844      
+OLN     OXT     O       OC      -1      110.153     44.159      80.582      
+OLN     CB      C       CH2     0       108.283     43.255      83.033      
+OLN     CG      C       CH2     0       108.057     42.457      84.309      
+OLN     CD      C       CH2     0       107.143     43.175      85.285      
+OLN     NE      N       NH1     0       107.796     44.314      85.914      
+OLN     CZ      C       C       0       107.188     45.097      86.823      
+OLN     O2      O       O       0       106.013     44.882      87.178      
+OLN     NH2     N       NH2     0       107.898     46.116      87.327      
+OLN     N1      N       NH1     0       110.476     42.226      82.495      
+OLN     C1      C       C       0       111.001     40.997      82.598      
+OLN     O1      O       O       0       110.393     39.984      82.255      
+OLN     C2      C       CH3     0       112.381     40.916      83.169      
+OLN     HA      H       H       0       108.680     41.673      81.785      
+OLN     HB1     H       H       0       107.414     43.464      82.631      
+OLN     HB2     H       H       0       108.722     44.101      83.261      
+OLN     HG1     H       H       0       108.920     42.291      84.744      
+OLN     HG2     H       H       0       107.661     41.589      84.081      
+OLN     HD1     H       H       0       106.855     42.544      85.980      
+OLN     HD2     H       H       0       106.343     43.484      84.810      
+OLN     HNE     H       H       0       108.621     44.499      85.694      
+OLN     HH21    H       H       0       107.524     46.645      87.924      
+OLN     HH22    H       H       0       108.729     46.266      87.074      
+OLN     HN1     H       H       0       110.961     42.910      82.741      
+OLN     H21     H       H       0       112.657     39.986      83.226      
+OLN     H22     H       H       0       112.390     41.308      84.057      
+OLN     H23     H       H       0       112.999     41.400      82.598      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -59,35 +60,34 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-OLN CA  C    SINGLE n 1.539 0.0100 1.539 0.0100
-OLN CA  CB   SINGLE n 1.531 0.0123 1.531 0.0123
-OLN CA  N1   SINGLE n 1.453 0.0100 1.453 0.0100
-OLN C   O    DOUBLE n 1.247 0.0187 1.247 0.0187
-OLN C   OXT  SINGLE n 1.247 0.0187 1.247 0.0187
-OLN CB  CG   SINGLE n 1.522 0.0100 1.522 0.0100
-OLN CG  CD   SINGLE n 1.517 0.0143 1.517 0.0143
-OLN CD  NE   SINGLE n 1.453 0.0133 1.453 0.0133
-OLN NE  CZ   SINGLE n 1.341 0.0100 1.341 0.0100
-OLN CZ  O2   DOUBLE n 1.243 0.0179 1.243 0.0179
-OLN CZ  NH2  SINGLE n 1.334 0.0157 1.334 0.0157
-OLN N1  C1   SINGLE n 1.335 0.0100 1.335 0.0100
-OLN C1  O1   DOUBLE n 1.229 0.0102 1.229 0.0102
-OLN C1  C2   SINGLE n 1.495 0.0100 1.495 0.0100
-OLN CA  HA   SINGLE n 1.089 0.0100 0.991 0.0200
-OLN CB  HB1  SINGLE n 1.089 0.0100 0.980 0.0160
-OLN CB  HB2  SINGLE n 1.089 0.0100 0.980 0.0160
-OLN CG  HG1  SINGLE n 1.089 0.0100 0.981 0.0160
-OLN CG  HG2  SINGLE n 1.089 0.0100 0.981 0.0160
-OLN CD  HD1  SINGLE n 1.089 0.0100 0.981 0.0152
-OLN CD  HD2  SINGLE n 1.089 0.0100 0.981 0.0152
-OLN NE  HNE  SINGLE n 1.016 0.0100 0.872 0.0200
-OLN NH2 HH21 SINGLE n 1.016 0.0100 0.881 0.0200
-OLN NH2 HH22 SINGLE n 1.016 0.0100 0.881 0.0200
-OLN N1  HN1  SINGLE n 1.016 0.0100 0.873 0.0200
-OLN C2  H21  SINGLE n 1.089 0.0100 0.971 0.0140
-OLN C2  H22  SINGLE n 1.089 0.0100 0.971 0.0140
-OLN C2  H23  SINGLE n 1.089 0.0100 0.971 0.0140
-
+OLN          CA           C      SINGLE       n     1.539  0.0100     1.539  0.0100
+OLN          CA          CB      SINGLE       n     1.531  0.0123     1.531  0.0123
+OLN          CA          N1      SINGLE       n     1.453  0.0100     1.453  0.0100
+OLN           C           O      DOUBLE       n     1.247  0.0187     1.247  0.0187
+OLN           C         OXT      SINGLE       n     1.247  0.0187     1.247  0.0187
+OLN          CB          CG      SINGLE       n     1.522  0.0100     1.522  0.0100
+OLN          CG          CD      SINGLE       n     1.517  0.0143     1.517  0.0143
+OLN          CD          NE      SINGLE       n     1.453  0.0133     1.453  0.0133
+OLN          NE          CZ      SINGLE       n     1.341  0.0100     1.341  0.0100
+OLN          CZ          O2      DOUBLE       n     1.243  0.0179     1.243  0.0179
+OLN          CZ         NH2      SINGLE       n     1.334  0.0157     1.334  0.0157
+OLN          N1          C1      SINGLE       n     1.335  0.0100     1.335  0.0100
+OLN          C1          O1      DOUBLE       n     1.229  0.0102     1.229  0.0102
+OLN          C1          C2      SINGLE       n     1.495  0.0100     1.495  0.0100
+OLN          CA          HA      SINGLE       n     1.089  0.0100     0.991  0.0200
+OLN          CB         HB1      SINGLE       n     1.089  0.0100     0.980  0.0160
+OLN          CB         HB2      SINGLE       n     1.089  0.0100     0.980  0.0160
+OLN          CG         HG1      SINGLE       n     1.089  0.0100     0.981  0.0160
+OLN          CG         HG2      SINGLE       n     1.089  0.0100     0.981  0.0160
+OLN          CD         HD1      SINGLE       n     1.089  0.0100     0.981  0.0152
+OLN          CD         HD2      SINGLE       n     1.089  0.0100     0.981  0.0152
+OLN          NE         HNE      SINGLE       n     1.016  0.0100     0.872  0.0200
+OLN         NH2        HH21      SINGLE       n     1.016  0.0100     0.881  0.0200
+OLN         NH2        HH22      SINGLE       n     1.016  0.0100     0.881  0.0200
+OLN          N1         HN1      SINGLE       n     1.016  0.0100     0.873  0.0200
+OLN          C2         H21      SINGLE       n     1.089  0.0100     0.971  0.0140
+OLN          C2         H22      SINGLE       n     1.089  0.0100     0.971  0.0140
+OLN          C2         H23      SINGLE       n     1.089  0.0100     0.971  0.0140
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -95,55 +95,54 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-OLN C    CA  CB   111.638 2.31
-OLN C    CA  N1   110.976 1.55
-OLN C    CA  HA   108.327 1.50
-OLN CB   CA  N1   113.029 1.50
-OLN CB   CA  HA   108.155 1.50
-OLN N1   CA  HA   108.343 1.63
-OLN CA   C   O    117.249 1.61
-OLN CA   C   OXT  117.249 1.61
-OLN O    C   OXT  125.502 1.50
-OLN CA   CB  CG   113.381 1.99
-OLN CA   CB  HB1  108.606 1.50
-OLN CA   CB  HB2  108.606 1.50
-OLN CG   CB  HB1  108.775 1.50
-OLN CG   CB  HB2  108.775 1.50
-OLN HB1  CB  HB2  107.844 1.50
-OLN CB   CG  CD   112.387 3.00
-OLN CB   CG  HG1  109.262 1.50
-OLN CB   CG  HG2  109.262 1.50
-OLN CD   CG  HG1  108.956 1.50
-OLN CD   CG  HG2  108.956 1.50
-OLN HG1  CG  HG2  107.927 1.57
-OLN CG   CD  NE   111.917 1.50
-OLN CG   CD  HD1  109.197 1.51
-OLN CG   CD  HD2  109.197 1.51
-OLN NE   CD  HD1  109.194 1.50
-OLN NE   CD  HD2  109.194 1.50
-OLN HD1  CD  HD2  107.877 1.50
-OLN CD   NE  CZ   122.784 1.50
-OLN CD   NE  HNE  119.130 1.50
-OLN CZ   NE  HNE  118.086 1.50
-OLN NE   CZ  O2   121.174 1.50
-OLN NE   CZ  NH2  116.376 1.50
-OLN O2   CZ  NH2  122.449 1.81
-OLN CZ   NH2 HH21 119.809 2.97
-OLN CZ   NH2 HH22 119.809 2.97
-OLN HH21 NH2 HH22 120.382 2.62
-OLN CA   N1  C1   122.215 1.76
-OLN CA   N1  HN1  118.142 2.15
-OLN C1   N1  HN1  119.644 2.25
-OLN N1   C1  O1   121.667 1.50
-OLN N1   C1  C2   116.420 1.50
-OLN O1   C1  C2   121.913 1.50
-OLN C1   C2  H21  109.678 1.50
-OLN C1   C2  H22  109.678 1.50
-OLN C1   C2  H23  109.678 1.50
-OLN H21  C2  H22  109.365 1.50
-OLN H21  C2  H23  109.365 1.50
-OLN H22  C2  H23  109.365 1.50
-
+OLN           C          CA          CB     111.638    2.31
+OLN           C          CA          N1     110.976    1.55
+OLN           C          CA          HA     108.327    1.50
+OLN          CB          CA          N1     113.029    1.50
+OLN          CB          CA          HA     108.155    1.50
+OLN          N1          CA          HA     108.343    1.63
+OLN          CA           C           O     117.249    1.61
+OLN          CA           C         OXT     117.249    1.61
+OLN           O           C         OXT     125.502    1.50
+OLN          CA          CB          CG     113.381    1.99
+OLN          CA          CB         HB1     108.606    1.50
+OLN          CA          CB         HB2     108.606    1.50
+OLN          CG          CB         HB1     108.775    1.50
+OLN          CG          CB         HB2     108.775    1.50
+OLN         HB1          CB         HB2     107.844    1.50
+OLN          CB          CG          CD     112.387    3.00
+OLN          CB          CG         HG1     109.262    1.50
+OLN          CB          CG         HG2     109.262    1.50
+OLN          CD          CG         HG1     108.956    1.50
+OLN          CD          CG         HG2     108.956    1.50
+OLN         HG1          CG         HG2     107.927    1.57
+OLN          CG          CD          NE     111.917    1.50
+OLN          CG          CD         HD1     109.197    1.51
+OLN          CG          CD         HD2     109.197    1.51
+OLN          NE          CD         HD1     109.194    1.50
+OLN          NE          CD         HD2     109.194    1.50
+OLN         HD1          CD         HD2     107.877    1.50
+OLN          CD          NE          CZ     122.784    1.50
+OLN          CD          NE         HNE     119.130    1.50
+OLN          CZ          NE         HNE     118.086    1.50
+OLN          NE          CZ          O2     121.174    1.50
+OLN          NE          CZ         NH2     116.376    1.50
+OLN          O2          CZ         NH2     122.449    1.81
+OLN          CZ         NH2        HH21     119.809    2.97
+OLN          CZ         NH2        HH22     119.809    2.97
+OLN        HH21         NH2        HH22     120.382    2.62
+OLN          CA          N1          C1     122.215    1.76
+OLN          CA          N1         HN1     118.142    2.15
+OLN          C1          N1         HN1     119.644    2.25
+OLN          N1          C1          O1     121.667    1.50
+OLN          N1          C1          C2     116.420    1.50
+OLN          O1          C1          C2     121.913    1.50
+OLN          C1          C2         H21     109.678    1.50
+OLN          C1          C2         H22     109.678    1.50
+OLN          C1          C2         H23     109.678    1.50
+OLN         H21          C2         H22     109.365    1.50
+OLN         H21          C2         H23     109.365    1.50
+OLN         H22          C2         H23     109.365    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -154,17 +153,16 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-OLN sp2_sp3_1  O  C  CA  CB   0.000   10.0 6
-OLN sp2_sp3_7  C1 N1 CA  C    0.000   10.0 6
-OLN sp3_sp3_1  C  CA CB  CG   180.000 10.0 3
-OLN sp2_sp2_11 O1 C1 N1  CA   0.000   5.0  2
-OLN sp2_sp3_19 N1 C1 C2  H21  0.000   10.0 6
-OLN sp3_sp3_10 CA CB CG  CD   180.000 10.0 3
-OLN sp3_sp3_19 NE CD CG  CB   180.000 10.0 3
-OLN sp2_sp3_14 CZ NE CD  CG   120.000 10.0 6
-OLN sp2_sp2_3  O2 CZ NE  CD   0.000   5.0  2
-OLN sp2_sp2_5  NE CZ NH2 HH21 180.000 5.0  2
-
+OLN             sp2_sp3_1           O           C          CA          CB       0.000    10.0     6
+OLN             sp2_sp3_7          C1          N1          CA           C       0.000    10.0     6
+OLN             sp3_sp3_1           C          CA          CB          CG     180.000    10.0     3
+OLN            sp2_sp2_11          O1          C1          N1          CA       0.000     5.0     2
+OLN            sp2_sp3_19          N1          C1          C2         H21       0.000    10.0     6
+OLN            sp3_sp3_10          CA          CB          CG          CD     180.000    10.0     3
+OLN            sp3_sp3_19          NE          CD          CG          CB     180.000    10.0     3
+OLN            sp2_sp3_14          CZ          NE          CD          CG     120.000    10.0     6
+OLN             sp2_sp2_3          O2          CZ          NE          CD       0.000     5.0     2
+OLN             sp2_sp2_5          NE          CZ         NH2        HH21     180.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -173,67 +171,55 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-OLN chir_1 CA N1 C CB positive
-
+OLN    chir_1    CA    N1    C    CB    positive
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-OLN plan-1 C    0.020
-OLN plan-1 CA   0.020
-OLN plan-1 O    0.020
-OLN plan-1 OXT  0.020
-OLN plan-2 CD   0.020
-OLN plan-2 CZ   0.020
-OLN plan-2 HNE  0.020
-OLN plan-2 NE   0.020
-OLN plan-3 CZ   0.020
-OLN plan-3 NE   0.020
-OLN plan-3 NH2  0.020
-OLN plan-3 O2   0.020
-OLN plan-4 CZ   0.020
-OLN plan-4 HH21 0.020
-OLN plan-4 HH22 0.020
-OLN plan-4 NH2  0.020
-OLN plan-5 C1   0.020
-OLN plan-5 CA   0.020
-OLN plan-5 HN1  0.020
-OLN plan-5 N1   0.020
-OLN plan-6 C1   0.020
-OLN plan-6 C2   0.020
-OLN plan-6 N1   0.020
-OLN plan-6 O1   0.020
-
+OLN    plan-1           C   0.020
+OLN    plan-1          CA   0.020
+OLN    plan-1           O   0.020
+OLN    plan-1         OXT   0.020
+OLN    plan-2          CD   0.020
+OLN    plan-2          CZ   0.020
+OLN    plan-2         HNE   0.020
+OLN    plan-2          NE   0.020
+OLN    plan-3          CZ   0.020
+OLN    plan-3          NE   0.020
+OLN    plan-3         NH2   0.020
+OLN    plan-3          O2   0.020
+OLN    plan-4          CZ   0.020
+OLN    plan-4        HH21   0.020
+OLN    plan-4        HH22   0.020
+OLN    plan-4         NH2   0.020
+OLN    plan-5          C1   0.020
+OLN    plan-5          CA   0.020
+OLN    plan-5         HN1   0.020
+OLN    plan-5          N1   0.020
+OLN    plan-6          C1   0.020
+OLN    plan-6          C2   0.020
+OLN    plan-6          N1   0.020
+OLN    plan-6          O1   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-OLN SMILES           ACDLabs              10.04 O=C(O)C(NC(=O)C)CCCNC(=O)N
-OLN SMILES_CANONICAL CACTVS               3.341 CC(=O)N[C@@H](CCCNC(N)=O)C(O)=O
-OLN SMILES           CACTVS               3.341 CC(=O)N[CH](CCCNC(N)=O)C(O)=O
-OLN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 CC(=O)N[C@@H](CCCNC(=O)N)C(=O)O
-OLN SMILES           "OpenEye OEToolkits" 1.5.0 CC(=O)NC(CCCNC(=O)N)C(=O)O
-OLN InChI            InChI                1.03  InChI=1S/C8H15N3O4/c1-5(12)11-6(7(13)14)3-2-4-10-8(9)15/h6H,2-4H2,1H3,(H,11,12)(H,13,14)(H3,9,10,15)/t6-/m0/s1
-OLN InChIKey         InChI                1.03  WMQMIOYQXNRROC-LURJTMIESA-N
-
+OLN           SMILES              ACDLabs 10.04                                                                                     O=C(O)C(NC(=O)C)CCCNC(=O)N
+OLN SMILES_CANONICAL               CACTVS 3.341                                                                                CC(=O)N[C@@H](CCCNC(N)=O)C(O)=O
+OLN           SMILES               CACTVS 3.341                                                                                  CC(=O)N[CH](CCCNC(N)=O)C(O)=O
+OLN SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                CC(=O)N[C@@H](CCCNC(=O)N)C(=O)O
+OLN           SMILES "OpenEye OEToolkits" 1.5.0                                                                                     CC(=O)NC(CCCNC(=O)N)C(=O)O
+OLN            InChI                InChI  1.03 InChI=1S/C8H15N3O4/c1-5(12)11-6(7(13)14)3-2-4-10-8(9)15/h6H,2-4H2,1H3,(H,11,12)(H,13,14)(H3,9,10,15)/t6-/m0/s1
+OLN         InChIKey                InChI  1.03                                                                                    WMQMIOYQXNRROC-LURJTMIESA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-OLN acedrg          243       "dictionary generator"
-OLN acedrg_database 11        "data source"
-OLN rdkit           2017.03.2 "Chemoinformatics tool"
-OLN refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-OLN M-peptide N1  N
-OLN M-peptide C1  CN
-OLN M-peptide HN1 H
+OLN acedrg               243         "dictionary generator"                  
+OLN acedrg_database      11          "data source"                           
+OLN rdkit                2017.03.2   "Chemoinformatics tool"
+OLN refmac5              5.8.0238    "optimization tool"                     

@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-VPP VPP "(2S,4S)-2-[(R)-carboxy{[(2R)-2-{[(4-ethyl-2,3-dioxopiperazin-1-yl)carbonyl]amino}-2-phenylacetyl]amino}methyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid" NON-POLYMER 64 37 .
-
+VPP     VPP      "(2S,4S)-2-[(R)-carboxy{[(2R)-2-{[(4-ethyl-2,3-dioxopiperazin-1-yl)carbonyl]amino}-2-phenylacetyl]amino}methyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid"     NON-POLYMER     64     37     .     
+#
 data_comp_VPP
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,71 +21,70 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-VPP S   S S2   0  -7.990  6.205  24.183
-VPP O01 O OC   -1 -4.879  5.242  25.677
-VPP O02 O O    0  -6.785  4.023  20.237
-VPP O03 O OC   -1 -8.661  4.865  19.543
-VPP O06 O O    0  -3.004  8.138  25.227
-VPP O04 O O    0  0.178   9.981  21.959
-VPP O05 O O    0  0.880   6.653  24.073
-VPP O   O O    0  3.312   5.959  24.807
-VPP N02 N NT1  0  -6.447  6.025  22.076
-VPP N03 N NH1  0  -4.275  7.729  23.400
-VPP N04 N NH1  0  -0.838  8.635  23.481
-VPP N01 N NR6  0  1.563   8.721  23.288
-VPP N   N NR6  0  4.200   7.822  23.851
-VPP C17 C CH1  0  -6.592  6.912  23.239
-VPP C19 C CT   0  -8.504  5.098  22.790
-VPP C18 C CH1  0  -7.787  5.716  21.554
-VPP C20 C CH1  0  -5.310  6.973  24.095
-VPP C01 C C    0  -4.795  5.573  24.478
-VPP C02 C CH3  0  -8.064  3.685  23.137
-VPP C03 C CH3  0  -10.020 5.164  22.652
-VPP C04 C C    0  -7.737  4.781  20.333
-VPP C21 C C    0  -3.209  8.246  24.022
-VPP CA  C CH1  0  -2.211  9.020  23.132
-VPP C05 C CR6  0  -2.483  10.511 23.278
-VPP C06 C C    0  0.269   9.127  22.845
-VPP C07 C CR16 0  -3.055  11.238 22.240
-VPP C08 C CR16 0  -2.152  11.177 24.452
-VPP C09 C CH2  0  2.721   9.667  23.108
-VPP C10 C CH2  0  4.027   8.928  22.899
-VPP C11 C CR6  0  1.805   7.455  23.850
-VPP C12 C CR16 0  -3.296  12.599 22.376
-VPP C13 C CR16 0  -2.394  12.539 24.587
-VPP C14 C CR6  0  3.172   7.022  24.207
-VPP C15 C CH2  0  5.569   7.569  24.343
-VPP C16 C CR16 0  -2.966  13.248 23.549
-VPP C   C CH3  0  6.382   6.711  23.407
-VPP O07 O O    0  -4.329  4.865  23.563
-VPP H3  H H    0  -5.939  6.350  21.421
-VPP H5  H H    0  -4.361  7.849  22.539
-VPP H6  H H    0  -0.720  8.079  24.139
-VPP H7  H H    0  -6.808  7.828  22.943
-VPP H8  H H    0  -8.228  6.564  21.296
-VPP H9  H H    0  -5.521  7.452  24.934
-VPP H10 H H    0  -7.096  3.626  23.099
-VPP H11 H H    0  -8.450  3.056  22.505
-VPP H12 H H    0  -8.364  3.465  24.034
-VPP H13 H H    0  -10.254 5.444  21.752
-VPP H14 H H    0  -10.381 5.802  23.289
-VPP H15 H H    0  -10.406 4.289  22.825
-VPP H16 H H    0  -2.370  8.766  22.187
-VPP H17 H H    0  -3.284  10.802 21.434
-VPP H18 H H    0  -1.761  10.699 25.166
-VPP H19 H H    0  2.793   10.234 23.909
-VPP H20 H H    0  2.557   10.252 22.335
-VPP H21 H H    0  4.768   9.559  22.992
-VPP H22 H H    0  4.051   8.569  21.990
-VPP H23 H H    0  -3.687  13.081 21.665
-VPP H24 H H    0  -2.167  12.980 25.390
-VPP H25 H H    0  5.524   7.132  25.224
-VPP H26 H H    0  6.028   8.430  24.467
-VPP H27 H H    0  -3.130  14.173 23.641
-VPP H28 H H    0  7.250   6.541  23.797
-VPP H29 H H    0  6.493   7.170  22.563
-VPP H30 H H    0  5.925   5.872  23.259
-
+VPP     S       S       S2      0       -7.990      6.205       24.183      
+VPP     O01     O       OC      -1      -4.879      5.242       25.677      
+VPP     O02     O       O       0       -6.785      4.023       20.237      
+VPP     O03     O       OC      -1      -8.661      4.865       19.543      
+VPP     O06     O       O       0       -3.004      8.138       25.227      
+VPP     O04     O       O       0       0.178       9.981       21.959      
+VPP     O05     O       O       0       0.880       6.653       24.073      
+VPP     O       O       O       0       3.312       5.959       24.807      
+VPP     N02     N       NT1     0       -6.447      6.025       22.076      
+VPP     N03     N       NH1     0       -4.275      7.729       23.400      
+VPP     N04     N       NH1     0       -0.838      8.635       23.481      
+VPP     N01     N       NR6     0       1.563       8.721       23.288      
+VPP     N       N       NR6     0       4.200       7.822       23.851      
+VPP     C17     C       CH1     0       -6.592      6.912       23.239      
+VPP     C19     C       CT      0       -8.504      5.098       22.790      
+VPP     C18     C       CH1     0       -7.787      5.716       21.554      
+VPP     C20     C       CH1     0       -5.310      6.973       24.095      
+VPP     C01     C       C       0       -4.795      5.573       24.478      
+VPP     C02     C       CH3     0       -8.064      3.685       23.137      
+VPP     C03     C       CH3     0       -10.020     5.164       22.652      
+VPP     C04     C       C       0       -7.737      4.781       20.333      
+VPP     C21     C       C       0       -3.209      8.246       24.022      
+VPP     CA      C       CH1     0       -2.211      9.020       23.132      
+VPP     C05     C       CR6     0       -2.483      10.511      23.278      
+VPP     C06     C       C       0       0.269       9.127       22.845      
+VPP     C07     C       CR16    0       -3.055      11.238      22.240      
+VPP     C08     C       CR16    0       -2.152      11.177      24.452      
+VPP     C09     C       CH2     0       2.721       9.667       23.108      
+VPP     C10     C       CH2     0       4.027       8.928       22.899      
+VPP     C11     C       CR6     0       1.805       7.455       23.850      
+VPP     C12     C       CR16    0       -3.296      12.599      22.376      
+VPP     C13     C       CR16    0       -2.394      12.539      24.587      
+VPP     C14     C       CR6     0       3.172       7.022       24.207      
+VPP     C15     C       CH2     0       5.569       7.569       24.343      
+VPP     C16     C       CR16    0       -2.966      13.248      23.549      
+VPP     C       C       CH3     0       6.382       6.711       23.407      
+VPP     O07     O       O       0       -4.329      4.865       23.563      
+VPP     H3      H       H       0       -5.939      6.350       21.421      
+VPP     H5      H       H       0       -4.361      7.849       22.539      
+VPP     H6      H       H       0       -0.720      8.079       24.139      
+VPP     H7      H       H       0       -6.808      7.828       22.943      
+VPP     H8      H       H       0       -8.228      6.564       21.296      
+VPP     H9      H       H       0       -5.521      7.452       24.934      
+VPP     H10     H       H       0       -7.096      3.626       23.099      
+VPP     H11     H       H       0       -8.450      3.056       22.505      
+VPP     H12     H       H       0       -8.364      3.465       24.034      
+VPP     H13     H       H       0       -10.254     5.444       21.752      
+VPP     H14     H       H       0       -10.381     5.802       23.289      
+VPP     H15     H       H       0       -10.406     4.289       22.825      
+VPP     H16     H       H       0       -2.370      8.766       22.187      
+VPP     H17     H       H       0       -3.284      10.802      21.434      
+VPP     H18     H       H       0       -1.761      10.699      25.166      
+VPP     H19     H       H       0       2.793       10.234      23.909      
+VPP     H20     H       H       0       2.557       10.252      22.335      
+VPP     H21     H       H       0       4.768       9.559       22.992      
+VPP     H22     H       H       0       4.051       8.569       21.990      
+VPP     H23     H       H       0       -3.687      13.081      21.665      
+VPP     H24     H       H       0       -2.167      12.980      25.390      
+VPP     H25     H       H       0       5.524       7.132       25.224      
+VPP     H26     H       H       0       6.028       8.430       24.467      
+VPP     H27     H       H       0       -3.130      14.173      23.641      
+VPP     H28     H       H       0       7.250       6.541       23.797      
+VPP     H29     H       H       0       6.493       7.170       22.563      
+VPP     H30     H       H       0       5.925       5.872       23.259      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -94,73 +95,72 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-VPP O02 C04 DOUBLE n 1.218 0.0200 1.218 0.0200
-VPP O03 C04 SINGLE n 1.218 0.0200 1.218 0.0200
-VPP C18 C04 SINGLE n 1.536 0.0100 1.536 0.0100
-VPP C01 O07 DOUBLE n 1.247 0.0187 1.247 0.0187
-VPP N02 C18 SINGLE n 1.468 0.0148 1.468 0.0148
-VPP N02 C17 SINGLE n 1.469 0.0170 1.469 0.0170
-VPP C19 C18 SINGLE n 1.549 0.0160 1.549 0.0160
-VPP C07 C12 DOUBLE y 1.386 0.0100 1.386 0.0100
-VPP C05 C07 SINGLE y 1.386 0.0100 1.386 0.0100
-VPP O04 C06 DOUBLE n 1.230 0.0134 1.230 0.0134
-VPP C12 C16 SINGLE y 1.376 0.0124 1.376 0.0124
-VPP C20 C01 SINGLE n 1.539 0.0100 1.539 0.0100
-VPP O01 C01 SINGLE n 1.247 0.0187 1.247 0.0187
-VPP C19 C02 SINGLE n 1.518 0.0100 1.518 0.0100
-VPP N03 C20 SINGLE n 1.454 0.0100 1.454 0.0100
-VPP N03 C21 SINGLE n 1.332 0.0101 1.332 0.0101
-VPP CA  C05 SINGLE n 1.520 0.0100 1.520 0.0100
-VPP C21 CA  SINGLE n 1.540 0.0125 1.540 0.0125
-VPP N04 CA  SINGLE n 1.460 0.0129 1.460 0.0129
-VPP N04 C06 SINGLE n 1.339 0.0200 1.339 0.0200
-VPP N01 C06 SINGLE n 1.384 0.0200 1.384 0.0200
-VPP C09 C10 SINGLE n 1.508 0.0200 1.508 0.0200
-VPP N01 C09 SINGLE n 1.489 0.0150 1.489 0.0150
-VPP C19 C03 SINGLE n 1.518 0.0100 1.518 0.0100
-VPP S   C19 SINGLE n 1.851 0.0113 1.851 0.0113
-VPP C17 C20 SINGLE n 1.536 0.0200 1.536 0.0200
-VPP S   C17 SINGLE n 1.828 0.0131 1.828 0.0131
-VPP C05 C08 DOUBLE y 1.386 0.0100 1.386 0.0100
-VPP C13 C16 DOUBLE y 1.376 0.0124 1.376 0.0124
-VPP N   C10 SINGLE n 1.467 0.0100 1.467 0.0100
-VPP O06 C21 DOUBLE n 1.226 0.0100 1.226 0.0100
-VPP N01 C11 SINGLE n 1.382 0.0169 1.382 0.0169
-VPP C08 C13 SINGLE y 1.386 0.0100 1.386 0.0100
-VPP N   C15 SINGLE n 1.472 0.0100 1.472 0.0100
-VPP N   C14 SINGLE n 1.341 0.0133 1.341 0.0133
-VPP C15 C   SINGLE n 1.508 0.0200 1.508 0.0200
-VPP O05 C11 DOUBLE n 1.238 0.0180 1.238 0.0180
-VPP C11 C14 SINGLE n 1.461 0.0200 1.461 0.0200
-VPP O   C14 DOUBLE n 1.226 0.0100 1.226 0.0100
-VPP N02 H3  SINGLE n 1.036 0.0160 0.890 0.0200
-VPP N03 H5  SINGLE n 1.016 0.0100 0.873 0.0200
-VPP N04 H6  SINGLE n 1.016 0.0100 0.871 0.0200
-VPP C17 H7  SINGLE n 1.089 0.0100 0.987 0.0200
-VPP C18 H8  SINGLE n 1.089 0.0100 0.990 0.0121
-VPP C20 H9  SINGLE n 1.089 0.0100 0.989 0.0198
-VPP C02 H10 SINGLE n 1.089 0.0100 0.971 0.0169
-VPP C02 H11 SINGLE n 1.089 0.0100 0.971 0.0169
-VPP C02 H12 SINGLE n 1.089 0.0100 0.971 0.0169
-VPP C03 H13 SINGLE n 1.089 0.0100 0.971 0.0169
-VPP C03 H14 SINGLE n 1.089 0.0100 0.971 0.0169
-VPP C03 H15 SINGLE n 1.089 0.0100 0.971 0.0169
-VPP CA  H16 SINGLE n 1.089 0.0100 0.992 0.0200
-VPP C07 H17 SINGLE n 1.082 0.0130 0.944 0.0174
-VPP C08 H18 SINGLE n 1.082 0.0130 0.944 0.0174
-VPP C09 H19 SINGLE n 1.089 0.0100 0.984 0.0105
-VPP C09 H20 SINGLE n 1.089 0.0100 0.984 0.0105
-VPP C10 H21 SINGLE n 1.089 0.0100 0.978 0.0161
-VPP C10 H22 SINGLE n 1.089 0.0100 0.978 0.0161
-VPP C12 H23 SINGLE n 1.082 0.0130 0.944 0.0175
-VPP C13 H24 SINGLE n 1.082 0.0130 0.944 0.0175
-VPP C15 H25 SINGLE n 1.089 0.0100 0.984 0.0191
-VPP C15 H26 SINGLE n 1.089 0.0100 0.984 0.0191
-VPP C16 H27 SINGLE n 1.082 0.0130 0.944 0.0161
-VPP C   H28 SINGLE n 1.089 0.0100 0.967 0.0131
-VPP C   H29 SINGLE n 1.089 0.0100 0.967 0.0131
-VPP C   H30 SINGLE n 1.089 0.0100 0.967 0.0131
-
+VPP         O02         C04      DOUBLE       n     1.218  0.0200     1.218  0.0200
+VPP         O03         C04      SINGLE       n     1.218  0.0200     1.218  0.0200
+VPP         C18         C04      SINGLE       n     1.536  0.0100     1.536  0.0100
+VPP         C01         O07      DOUBLE       n     1.247  0.0187     1.247  0.0187
+VPP         N02         C18      SINGLE       n     1.468  0.0148     1.468  0.0148
+VPP         N02         C17      SINGLE       n     1.469  0.0170     1.469  0.0170
+VPP         C19         C18      SINGLE       n     1.549  0.0160     1.549  0.0160
+VPP         C07         C12      DOUBLE       y     1.386  0.0100     1.386  0.0100
+VPP         C05         C07      SINGLE       y     1.386  0.0100     1.386  0.0100
+VPP         O04         C06      DOUBLE       n     1.230  0.0134     1.230  0.0134
+VPP         C12         C16      SINGLE       y     1.376  0.0124     1.376  0.0124
+VPP         C20         C01      SINGLE       n     1.539  0.0100     1.539  0.0100
+VPP         O01         C01      SINGLE       n     1.247  0.0187     1.247  0.0187
+VPP         C19         C02      SINGLE       n     1.518  0.0100     1.518  0.0100
+VPP         N03         C20      SINGLE       n     1.454  0.0100     1.454  0.0100
+VPP         N03         C21      SINGLE       n     1.332  0.0101     1.332  0.0101
+VPP          CA         C05      SINGLE       n     1.520  0.0100     1.520  0.0100
+VPP         C21          CA      SINGLE       n     1.540  0.0125     1.540  0.0125
+VPP         N04          CA      SINGLE       n     1.460  0.0129     1.460  0.0129
+VPP         N04         C06      SINGLE       n     1.339  0.0200     1.339  0.0200
+VPP         N01         C06      SINGLE       n     1.384  0.0200     1.384  0.0200
+VPP         C09         C10      SINGLE       n     1.508  0.0200     1.508  0.0200
+VPP         N01         C09      SINGLE       n     1.489  0.0150     1.489  0.0150
+VPP         C19         C03      SINGLE       n     1.518  0.0100     1.518  0.0100
+VPP           S         C19      SINGLE       n     1.851  0.0113     1.851  0.0113
+VPP         C17         C20      SINGLE       n     1.536  0.0200     1.536  0.0200
+VPP           S         C17      SINGLE       n     1.828  0.0131     1.828  0.0131
+VPP         C05         C08      DOUBLE       y     1.386  0.0100     1.386  0.0100
+VPP         C13         C16      DOUBLE       y     1.376  0.0124     1.376  0.0124
+VPP           N         C10      SINGLE       n     1.467  0.0100     1.467  0.0100
+VPP         O06         C21      DOUBLE       n     1.226  0.0100     1.226  0.0100
+VPP         N01         C11      SINGLE       n     1.382  0.0169     1.382  0.0169
+VPP         C08         C13      SINGLE       y     1.386  0.0100     1.386  0.0100
+VPP           N         C15      SINGLE       n     1.472  0.0100     1.472  0.0100
+VPP           N         C14      SINGLE       n     1.341  0.0133     1.341  0.0133
+VPP         C15           C      SINGLE       n     1.508  0.0200     1.508  0.0200
+VPP         O05         C11      DOUBLE       n     1.238  0.0180     1.238  0.0180
+VPP         C11         C14      SINGLE       n     1.461  0.0200     1.461  0.0200
+VPP           O         C14      DOUBLE       n     1.226  0.0100     1.226  0.0100
+VPP         N02          H3      SINGLE       n     1.036  0.0160     0.890  0.0200
+VPP         N03          H5      SINGLE       n     1.016  0.0100     0.873  0.0200
+VPP         N04          H6      SINGLE       n     1.016  0.0100     0.871  0.0200
+VPP         C17          H7      SINGLE       n     1.089  0.0100     0.987  0.0200
+VPP         C18          H8      SINGLE       n     1.089  0.0100     0.990  0.0121
+VPP         C20          H9      SINGLE       n     1.089  0.0100     0.989  0.0198
+VPP         C02         H10      SINGLE       n     1.089  0.0100     0.971  0.0169
+VPP         C02         H11      SINGLE       n     1.089  0.0100     0.971  0.0169
+VPP         C02         H12      SINGLE       n     1.089  0.0100     0.971  0.0169
+VPP         C03         H13      SINGLE       n     1.089  0.0100     0.971  0.0169
+VPP         C03         H14      SINGLE       n     1.089  0.0100     0.971  0.0169
+VPP         C03         H15      SINGLE       n     1.089  0.0100     0.971  0.0169
+VPP          CA         H16      SINGLE       n     1.089  0.0100     0.992  0.0200
+VPP         C07         H17      SINGLE       n     1.082  0.0130     0.944  0.0174
+VPP         C08         H18      SINGLE       n     1.082  0.0130     0.944  0.0174
+VPP         C09         H19      SINGLE       n     1.089  0.0100     0.984  0.0105
+VPP         C09         H20      SINGLE       n     1.089  0.0100     0.984  0.0105
+VPP         C10         H21      SINGLE       n     1.089  0.0100     0.978  0.0161
+VPP         C10         H22      SINGLE       n     1.089  0.0100     0.978  0.0161
+VPP         C12         H23      SINGLE       n     1.082  0.0130     0.944  0.0175
+VPP         C13         H24      SINGLE       n     1.082  0.0130     0.944  0.0175
+VPP         C15         H25      SINGLE       n     1.089  0.0100     0.984  0.0191
+VPP         C15         H26      SINGLE       n     1.089  0.0100     0.984  0.0191
+VPP         C16         H27      SINGLE       n     1.082  0.0130     0.944  0.0161
+VPP           C         H28      SINGLE       n     1.089  0.0100     0.967  0.0131
+VPP           C         H29      SINGLE       n     1.089  0.0100     0.967  0.0131
+VPP           C         H30      SINGLE       n     1.089  0.0100     0.967  0.0131
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -168,125 +168,124 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-VPP C19 S   C17 92.264  3.00
-VPP C18 N02 C17 109.056 3.00
-VPP C18 N02 H3  109.307 3.00
-VPP C17 N02 H3  114.884 3.00
-VPP C20 N03 C21 122.005 1.75
-VPP C20 N03 H5  119.110 1.91
-VPP C21 N03 H5  118.885 1.94
-VPP CA  N04 C06 122.192 1.61
-VPP CA  N04 H6  119.242 1.50
-VPP C06 N04 H6  118.565 2.02
-VPP C06 N01 C09 119.211 3.00
-VPP C06 N01 C11 120.532 2.86
-VPP C09 N01 C11 120.257 2.69
-VPP C10 N   C15 117.140 1.83
-VPP C10 N   C14 122.782 1.61
-VPP C15 N   C14 120.078 1.62
-VPP N02 C17 C20 111.633 2.37
-VPP N02 C17 S   104.726 1.50
-VPP N02 C17 H7  110.535 1.50
-VPP C20 C17 S   111.156 2.31
-VPP C20 C17 H7  108.599 1.67
-VPP S   C17 H7  111.432 2.82
-VPP C18 C19 C02 113.745 2.48
-VPP C18 C19 C03 113.745 2.48
-VPP C18 C19 S   107.036 2.68
-VPP C02 C19 C03 110.924 1.50
-VPP C02 C19 S   108.982 1.53
-VPP C03 C19 S   108.982 1.53
-VPP C04 C18 N02 111.420 2.45
-VPP C04 C18 C19 112.424 2.46
-VPP C04 C18 H8  110.011 1.50
-VPP N02 C18 C19 103.104 2.01
-VPP N02 C18 H8  109.296 1.50
-VPP C19 C18 H8  110.594 1.50
-VPP C01 C20 N03 110.921 1.74
-VPP C01 C20 C17 112.778 2.78
-VPP C01 C20 H9  108.186 1.50
-VPP N03 C20 C17 111.113 2.62
-VPP N03 C20 H9  108.169 1.50
-VPP C17 C20 H9  109.253 1.50
-VPP O07 C01 C20 117.276 1.60
-VPP O07 C01 O01 125.448 1.75
-VPP C20 C01 O01 117.276 1.60
-VPP C19 C02 H10 109.457 1.50
-VPP C19 C02 H11 109.457 1.50
-VPP C19 C02 H12 109.457 1.50
-VPP H10 C02 H11 109.486 1.50
-VPP H10 C02 H12 109.486 1.50
-VPP H11 C02 H12 109.486 1.50
-VPP C19 C03 H13 109.457 1.50
-VPP C19 C03 H14 109.457 1.50
-VPP C19 C03 H15 109.457 1.50
-VPP H13 C03 H14 109.486 1.50
-VPP H13 C03 H15 109.486 1.50
-VPP H14 C03 H15 109.486 1.50
-VPP O02 C04 O03 125.975 1.50
-VPP O02 C04 C18 117.013 1.95
-VPP O03 C04 C18 117.013 1.95
-VPP N03 C21 CA  115.163 1.50
-VPP N03 C21 O06 123.719 1.50
-VPP CA  C21 O06 121.118 1.50
-VPP C05 CA  C21 110.517 2.35
-VPP C05 CA  N04 113.090 1.50
-VPP C05 CA  H16 108.370 1.59
-VPP C21 CA  N04 109.904 2.48
-VPP C21 CA  H16 108.160 1.50
-VPP N04 CA  H16 108.583 1.50
-VPP C07 C05 CA  120.770 1.50
-VPP C07 C05 C08 118.460 1.50
-VPP CA  C05 C08 120.770 1.50
-VPP O04 C06 N04 122.827 1.58
-VPP O04 C06 N01 119.741 1.50
-VPP N04 C06 N01 117.413 3.00
-VPP C12 C07 C05 120.588 1.50
-VPP C12 C07 H17 119.730 1.50
-VPP C05 C07 H17 119.682 1.50
-VPP C05 C08 C13 120.588 1.50
-VPP C05 C08 H18 119.682 1.50
-VPP C13 C08 H18 119.730 1.50
-VPP C10 C09 N01 110.160 1.50
-VPP C10 C09 H19 109.532 1.50
-VPP C10 C09 H20 109.532 1.50
-VPP N01 C09 H19 108.940 1.50
-VPP N01 C09 H20 108.940 1.50
-VPP H19 C09 H20 108.187 1.50
-VPP C09 C10 N   110.821 2.82
-VPP C09 C10 H21 109.532 1.50
-VPP C09 C10 H22 109.532 1.50
-VPP N   C10 H21 109.155 1.50
-VPP N   C10 H22 109.155 1.50
-VPP H21 C10 H22 108.187 1.50
-VPP N01 C11 O05 121.671 1.50
-VPP N01 C11 C14 120.885 1.50
-VPP O05 C11 C14 117.443 1.50
-VPP C07 C12 C16 120.216 1.50
-VPP C07 C12 H23 119.847 1.50
-VPP C16 C12 H23 119.938 1.50
-VPP C16 C13 C08 120.216 1.50
-VPP C16 C13 H24 119.938 1.50
-VPP C08 C13 H24 119.847 1.50
-VPP N   C14 C11 118.078 1.50
-VPP N   C14 O   123.241 1.56
-VPP C11 C14 O   118.681 1.50
-VPP N   C15 C   113.158 1.50
-VPP N   C15 H25 108.907 1.50
-VPP N   C15 H26 108.907 1.50
-VPP C   C15 H25 109.296 1.50
-VPP C   C15 H26 109.296 1.50
-VPP H25 C15 H26 107.955 1.50
-VPP C12 C16 C13 119.933 1.50
-VPP C12 C16 H27 120.033 1.50
-VPP C13 C16 H27 120.033 1.50
-VPP C15 C   H28 109.493 1.50
-VPP C15 C   H29 109.493 1.50
-VPP C15 C   H30 109.493 1.50
-VPP H28 C   H29 109.417 1.50
-VPP H28 C   H30 109.417 1.50
-VPP H29 C   H30 109.417 1.50
-
+VPP         C19           S         C17      92.264    3.00
+VPP         C18         N02         C17     109.056    3.00
+VPP         C18         N02          H3     109.307    3.00
+VPP         C17         N02          H3     114.884    3.00
+VPP         C20         N03         C21     122.005    1.75
+VPP         C20         N03          H5     119.110    1.91
+VPP         C21         N03          H5     118.885    1.94
+VPP          CA         N04         C06     122.192    1.61
+VPP          CA         N04          H6     119.242    1.50
+VPP         C06         N04          H6     118.565    2.02
+VPP         C06         N01         C09     119.211    3.00
+VPP         C06         N01         C11     120.532    2.86
+VPP         C09         N01         C11     120.257    2.69
+VPP         C10           N         C15     117.140    1.83
+VPP         C10           N         C14     122.782    1.61
+VPP         C15           N         C14     120.078    1.62
+VPP         N02         C17         C20     111.633    2.37
+VPP         N02         C17           S     104.726    1.50
+VPP         N02         C17          H7     110.535    1.50
+VPP         C20         C17           S     111.156    2.31
+VPP         C20         C17          H7     108.599    1.67
+VPP           S         C17          H7     111.432    2.82
+VPP         C18         C19         C02     113.745    2.48
+VPP         C18         C19         C03     113.745    2.48
+VPP         C18         C19           S     107.036    2.68
+VPP         C02         C19         C03     110.924    1.50
+VPP         C02         C19           S     108.982    1.53
+VPP         C03         C19           S     108.982    1.53
+VPP         C04         C18         N02     111.420    2.45
+VPP         C04         C18         C19     112.424    2.46
+VPP         C04         C18          H8     110.011    1.50
+VPP         N02         C18         C19     103.104    2.01
+VPP         N02         C18          H8     109.296    1.50
+VPP         C19         C18          H8     110.594    1.50
+VPP         C01         C20         N03     110.921    1.74
+VPP         C01         C20         C17     112.778    2.78
+VPP         C01         C20          H9     108.186    1.50
+VPP         N03         C20         C17     111.113    2.62
+VPP         N03         C20          H9     108.169    1.50
+VPP         C17         C20          H9     109.253    1.50
+VPP         O07         C01         C20     117.276    1.60
+VPP         O07         C01         O01     125.448    1.75
+VPP         C20         C01         O01     117.276    1.60
+VPP         C19         C02         H10     109.457    1.50
+VPP         C19         C02         H11     109.457    1.50
+VPP         C19         C02         H12     109.457    1.50
+VPP         H10         C02         H11     109.486    1.50
+VPP         H10         C02         H12     109.486    1.50
+VPP         H11         C02         H12     109.486    1.50
+VPP         C19         C03         H13     109.457    1.50
+VPP         C19         C03         H14     109.457    1.50
+VPP         C19         C03         H15     109.457    1.50
+VPP         H13         C03         H14     109.486    1.50
+VPP         H13         C03         H15     109.486    1.50
+VPP         H14         C03         H15     109.486    1.50
+VPP         O02         C04         O03     125.975    1.50
+VPP         O02         C04         C18     117.013    1.95
+VPP         O03         C04         C18     117.013    1.95
+VPP         N03         C21          CA     115.163    1.50
+VPP         N03         C21         O06     123.719    1.50
+VPP          CA         C21         O06     121.118    1.50
+VPP         C05          CA         C21     110.517    2.35
+VPP         C05          CA         N04     113.090    1.50
+VPP         C05          CA         H16     108.370    1.59
+VPP         C21          CA         N04     109.904    2.48
+VPP         C21          CA         H16     108.160    1.50
+VPP         N04          CA         H16     108.583    1.50
+VPP         C07         C05          CA     120.770    1.50
+VPP         C07         C05         C08     118.460    1.50
+VPP          CA         C05         C08     120.770    1.50
+VPP         O04         C06         N04     122.827    1.58
+VPP         O04         C06         N01     119.741    1.50
+VPP         N04         C06         N01     117.413    3.00
+VPP         C12         C07         C05     120.588    1.50
+VPP         C12         C07         H17     119.730    1.50
+VPP         C05         C07         H17     119.682    1.50
+VPP         C05         C08         C13     120.588    1.50
+VPP         C05         C08         H18     119.682    1.50
+VPP         C13         C08         H18     119.730    1.50
+VPP         C10         C09         N01     110.160    1.50
+VPP         C10         C09         H19     109.532    1.50
+VPP         C10         C09         H20     109.532    1.50
+VPP         N01         C09         H19     108.940    1.50
+VPP         N01         C09         H20     108.940    1.50
+VPP         H19         C09         H20     108.187    1.50
+VPP         C09         C10           N     110.821    2.82
+VPP         C09         C10         H21     109.532    1.50
+VPP         C09         C10         H22     109.532    1.50
+VPP           N         C10         H21     109.155    1.50
+VPP           N         C10         H22     109.155    1.50
+VPP         H21         C10         H22     108.187    1.50
+VPP         N01         C11         O05     121.671    1.50
+VPP         N01         C11         C14     120.885    1.50
+VPP         O05         C11         C14     117.443    1.50
+VPP         C07         C12         C16     120.216    1.50
+VPP         C07         C12         H23     119.847    1.50
+VPP         C16         C12         H23     119.938    1.50
+VPP         C16         C13         C08     120.216    1.50
+VPP         C16         C13         H24     119.938    1.50
+VPP         C08         C13         H24     119.847    1.50
+VPP           N         C14         C11     118.078    1.50
+VPP           N         C14           O     123.241    1.56
+VPP         C11         C14           O     118.681    1.50
+VPP           N         C15           C     113.158    1.50
+VPP           N         C15         H25     108.907    1.50
+VPP           N         C15         H26     108.907    1.50
+VPP           C         C15         H25     109.296    1.50
+VPP           C         C15         H26     109.296    1.50
+VPP         H25         C15         H26     107.955    1.50
+VPP         C12         C16         C13     119.933    1.50
+VPP         C12         C16         H27     120.033    1.50
+VPP         C13         C16         H27     120.033    1.50
+VPP         C15           C         H28     109.493    1.50
+VPP         C15           C         H29     109.493    1.50
+VPP         C15           C         H30     109.493    1.50
+VPP         H28           C         H29     109.417    1.50
+VPP         H28           C         H30     109.417    1.50
+VPP         H29           C         H30     109.417    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -297,38 +296,37 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-VPP sp3_sp3_62      C20 C17 S   C19 60.000  10.0 3
-VPP sp3_sp3_12      C02 C19 S   C17 180.000 10.0 3
-VPP sp2_sp3_44      C06 N04 CA  C21 120.000 10.0 6
-VPP sp2_sp2_15      O04 C06 N04 CA  0.000   5.0  2
-VPP sp2_sp2_19      O04 C06 N01 C09 0.000   5.0  2
-VPP sp2_sp3_4       C06 N01 C09 C10 180.000 10.0 6
-VPP sp2_sp2_24      O05 C11 N01 C06 0.000   5.0  2
-VPP sp2_sp3_10      C15 N   C10 C09 180.000 10.0 6
-VPP sp2_sp2_4       O   C14 N   C15 0.000   5.0  2
-VPP sp2_sp3_50      C10 N   C15 C   -90.000 10.0 6
-VPP sp3_sp3_52      N02 C17 C20 C01 180.000 10.0 3
-VPP sp3_sp3_17      C04 C18 C19 C02 -60.000 10.0 3
-VPP sp3_sp3_36      H10 C02 C19 C03 60.000  10.0 3
-VPP sp3_sp3_45      H13 C03 C19 C02 60.000  10.0 3
-VPP sp2_sp3_13      O02 C04 C18 N02 0.000   10.0 6
-VPP sp2_sp3_19      O07 C01 C20 N03 0.000   10.0 6
-VPP sp2_sp3_38      N03 C21 CA  N04 120.000 10.0 6
-VPP sp2_sp3_31      C07 C05 CA  C21 150.000 10.0 6
-VPP const_sp2_sp2_3 CA  C05 C07 C12 180.000 5.0  2
-VPP const_23        CA  C05 C08 C13 180.000 10.0 2
-VPP const_sp2_sp2_5 C05 C07 C12 C16 0.000   5.0  2
-VPP const_17        C05 C08 C13 C16 0.000   10.0 2
-VPP sp3_sp3_1       N01 C09 C10 N   -60.000 10.0 3
-VPP sp2_sp2_8       O05 C11 C14 O   0.000   5.0  2
-VPP const_sp2_sp2_9 C07 C12 C16 C13 0.000   5.0  2
-VPP const_13        C08 C13 C16 C12 0.000   10.0 2
-VPP sp3_sp3_64      H28 C   C15 N   180.000 10.0 3
-VPP sp3_sp3_30      C20 C17 N02 C18 180.000 10.0 3
-VPP sp3_sp3_24      C04 C18 N02 C17 -60.000 10.0 3
-VPP sp2_sp3_25      C21 N03 C20 C01 0.000   10.0 6
-VPP sp2_sp2_9       CA  C21 N03 C20 180.000 5.0  2
-
+VPP            sp3_sp3_62         C20         C17           S         C19      60.000    10.0     3
+VPP            sp3_sp3_12         C02         C19           S         C17     180.000    10.0     3
+VPP            sp2_sp3_44         C06         N04          CA         C21     120.000    10.0     6
+VPP            sp2_sp2_15         O04         C06         N04          CA       0.000     5.0     2
+VPP            sp2_sp2_19         O04         C06         N01         C09       0.000     5.0     2
+VPP             sp2_sp3_4         C06         N01         C09         C10     180.000    10.0     6
+VPP            sp2_sp2_24         O05         C11         N01         C06       0.000     5.0     2
+VPP            sp2_sp3_10         C15           N         C10         C09     180.000    10.0     6
+VPP             sp2_sp2_4           O         C14           N         C15       0.000     5.0     2
+VPP            sp2_sp3_50         C10           N         C15           C     -90.000    10.0     6
+VPP            sp3_sp3_52         N02         C17         C20         C01     180.000    10.0     3
+VPP            sp3_sp3_17         C04         C18         C19         C02     -60.000    10.0     3
+VPP            sp3_sp3_36         H10         C02         C19         C03      60.000    10.0     3
+VPP            sp3_sp3_45         H13         C03         C19         C02      60.000    10.0     3
+VPP            sp2_sp3_13         O02         C04         C18         N02       0.000    10.0     6
+VPP            sp2_sp3_19         O07         C01         C20         N03       0.000    10.0     6
+VPP            sp2_sp3_38         N03         C21          CA         N04     120.000    10.0     6
+VPP            sp2_sp3_31         C07         C05          CA         C21     150.000    10.0     6
+VPP       const_sp2_sp2_3          CA         C05         C07         C12     180.000     5.0     2
+VPP              const_23          CA         C05         C08         C13     180.000    10.0     2
+VPP       const_sp2_sp2_5         C05         C07         C12         C16       0.000     5.0     2
+VPP              const_17         C05         C08         C13         C16       0.000    10.0     2
+VPP             sp3_sp3_1         N01         C09         C10           N     -60.000    10.0     3
+VPP             sp2_sp2_8         O05         C11         C14           O       0.000     5.0     2
+VPP       const_sp2_sp2_9         C07         C12         C16         C13       0.000     5.0     2
+VPP              const_13         C08         C13         C16         C12       0.000    10.0     2
+VPP            sp3_sp3_64         H28           C         C15           N     180.000    10.0     3
+VPP            sp3_sp3_30         C20         C17         N02         C18     180.000    10.0     3
+VPP            sp3_sp3_24         C04         C18         N02         C17     -60.000    10.0     3
+VPP            sp2_sp3_25         C21         N03         C20         C01       0.000    10.0     6
+VPP             sp2_sp2_9          CA         C21         N03         C20     180.000     5.0     2
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -337,104 +335,88 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-VPP chir_1 C17 S   N02 C20 positive
-VPP chir_2 C19 S   C18 C02 both
-VPP chir_3 C18 N02 C19 C04 positive
-VPP chir_4 C20 N03 C17 C01 negative
-VPP chir_5 CA  N04 C21 C05 negative
-VPP chir_6 N02 C17 C18 H3  both
-
+VPP    chir_1    C17    S    N02    C20    positive
+VPP    chir_2    C19    S    C18    C02    both
+VPP    chir_3    C18    N02    C19    C04    positive
+VPP    chir_4    C20    N03    C17    C01    negative
+VPP    chir_5    CA    N04    C21    C05    negative
+VPP    chir_6    N02    C17    C18    H3    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-VPP plan-1  C05 0.020
-VPP plan-1  C07 0.020
-VPP plan-1  C08 0.020
-VPP plan-1  C12 0.020
-VPP plan-1  C13 0.020
-VPP plan-1  C16 0.020
-VPP plan-1  CA  0.020
-VPP plan-1  H17 0.020
-VPP plan-1  H18 0.020
-VPP plan-1  H23 0.020
-VPP plan-1  H24 0.020
-VPP plan-1  H27 0.020
-VPP plan-2  C20 0.020
-VPP plan-2  C21 0.020
-VPP plan-2  H5  0.020
-VPP plan-2  N03 0.020
-VPP plan-3  C06 0.020
-VPP plan-3  CA  0.020
-VPP plan-3  H6  0.020
-VPP plan-3  N04 0.020
-VPP plan-4  C06 0.020
-VPP plan-4  C09 0.020
-VPP plan-4  C11 0.020
-VPP plan-4  N01 0.020
-VPP plan-5  C10 0.020
-VPP plan-5  C14 0.020
-VPP plan-5  C15 0.020
-VPP plan-5  N   0.020
-VPP plan-6  C01 0.020
-VPP plan-6  C20 0.020
-VPP plan-6  O01 0.020
-VPP plan-6  O07 0.020
-VPP plan-7  C04 0.020
-VPP plan-7  C18 0.020
-VPP plan-7  O02 0.020
-VPP plan-7  O03 0.020
-VPP plan-8  C21 0.020
-VPP plan-8  CA  0.020
-VPP plan-8  N03 0.020
-VPP plan-8  O06 0.020
-VPP plan-9  C06 0.020
-VPP plan-9  N01 0.020
-VPP plan-9  N04 0.020
-VPP plan-9  O04 0.020
-VPP plan-10 C11 0.020
-VPP plan-10 C14 0.020
-VPP plan-10 N01 0.020
-VPP plan-10 O05 0.020
-VPP plan-11 C11 0.020
-VPP plan-11 C14 0.020
-VPP plan-11 N   0.020
-VPP plan-11 O   0.020
-
+VPP    plan-1         C05   0.020
+VPP    plan-1         C07   0.020
+VPP    plan-1         C08   0.020
+VPP    plan-1         C12   0.020
+VPP    plan-1         C13   0.020
+VPP    plan-1         C16   0.020
+VPP    plan-1          CA   0.020
+VPP    plan-1         H17   0.020
+VPP    plan-1         H18   0.020
+VPP    plan-1         H23   0.020
+VPP    plan-1         H24   0.020
+VPP    plan-1         H27   0.020
+VPP    plan-2         C20   0.020
+VPP    plan-2         C21   0.020
+VPP    plan-2          H5   0.020
+VPP    plan-2         N03   0.020
+VPP    plan-3         C06   0.020
+VPP    plan-3          CA   0.020
+VPP    plan-3          H6   0.020
+VPP    plan-3         N04   0.020
+VPP    plan-4         C06   0.020
+VPP    plan-4         C09   0.020
+VPP    plan-4         C11   0.020
+VPP    plan-4         N01   0.020
+VPP    plan-5         C10   0.020
+VPP    plan-5         C14   0.020
+VPP    plan-5         C15   0.020
+VPP    plan-5           N   0.020
+VPP    plan-6         C01   0.020
+VPP    plan-6         C20   0.020
+VPP    plan-6         O01   0.020
+VPP    plan-6         O07   0.020
+VPP    plan-7         C04   0.020
+VPP    plan-7         C18   0.020
+VPP    plan-7         O02   0.020
+VPP    plan-7         O03   0.020
+VPP    plan-8         C21   0.020
+VPP    plan-8          CA   0.020
+VPP    plan-8         N03   0.020
+VPP    plan-8         O06   0.020
+VPP    plan-9         C06   0.020
+VPP    plan-9         N01   0.020
+VPP    plan-9         N04   0.020
+VPP    plan-9         O04   0.020
+VPP   plan-10         C11   0.020
+VPP   plan-10         C14   0.020
+VPP   plan-10         N01   0.020
+VPP   plan-10         O05   0.020
+VPP   plan-11         C11   0.020
+VPP   plan-11         C14   0.020
+VPP   plan-11           N   0.020
+VPP   plan-11           O   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-VPP SMILES           ACDLabs              12.01 O=C(NC(C(=O)O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NC(=O)N3C(=O)C(=O)N(CC)CC3
-VPP InChI            InChI                1.03  InChI=1S/C23H29N5O8S/c1-4-27-10-11-28(19(31)18(27)30)22(36)25-13(12-8-6-5-7-9-12)16(29)24-14(20(32)33)17-26-15(21(34)35)23(2,3)37-17/h5-9,13-15,17,26H,4,10-11H2,1-3H3,(H,24,29)(H,25,36)(H,32,33)(H,34,35)/t13-,14+,15+,17+/m1/s1
-VPP InChIKey         InChI                1.03  OKSUEATVFIVTFV-AESZEHBQSA-N
-VPP SMILES_CANONICAL CACTVS               3.385 CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]([C@H]2N[C@@H](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
-VPP SMILES           CACTVS               3.385 CCN1CCN(C(=O)N[CH](C(=O)N[CH]([CH]2N[CH](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
-VPP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 CCN1CCN(C(=O)C1=O)C(=O)N[C@H](c2ccccc2)C(=O)N[C@@H]([C@H]3N[C@H](C(S3)(C)C)C(=O)O)C(=O)O
-VPP SMILES           "OpenEye OEToolkits" 1.7.6 CCN1CCN(C(=O)C1=O)C(=O)NC(c2ccccc2)C(=O)NC(C3NC(C(S3)(C)C)C(=O)O)C(=O)O
-
+VPP           SMILES              ACDLabs 12.01                                                                                                                                                          O=C(NC(C(=O)O)C1SC(C(N1)C(=O)O)(C)C)C(c2ccccc2)NC(=O)N3C(=O)C(=O)N(CC)CC3
+VPP            InChI                InChI  1.03 InChI=1S/C23H29N5O8S/c1-4-27-10-11-28(19(31)18(27)30)22(36)25-13(12-8-6-5-7-9-12)16(29)24-14(20(32)33)17-26-15(21(34)35)23(2,3)37-17/h5-9,13-15,17,26H,4,10-11H2,1-3H3,(H,24,29)(H,25,36)(H,32,33)(H,34,35)/t13-,14+,15+,17+/m1/s1
+VPP         InChIKey                InChI  1.03                                                                                                                                                                                                        OKSUEATVFIVTFV-AESZEHBQSA-N
+VPP SMILES_CANONICAL               CACTVS 3.385                                                                                                                                         CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]([C@H]2N[C@@H](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
+VPP           SMILES               CACTVS 3.385                                                                                                                                                CCN1CCN(C(=O)N[CH](C(=O)N[CH]([CH]2N[CH](C(O)=O)C(C)(C)S2)C(O)=O)c3ccccc3)C(=O)C1=O
+VPP SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                                                           CCN1CCN(C(=O)C1=O)C(=O)N[C@H](c2ccccc2)C(=O)N[C@@H]([C@H]3N[C@H](C(S3)(C)C)C(=O)O)C(=O)O
+VPP           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                                                            CCN1CCN(C(=O)C1=O)C(=O)NC(c2ccccc2)C(=O)NC(C3NC(C(S3)(C)C)C(=O)O)C(=O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-VPP acedrg          243       "dictionary generator"
-VPP acedrg_database 11        "data source"
-VPP rdkit           2017.03.2 "Chemoinformatics tool"
-VPP refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-VPP M-peptide O02 O
-VPP M-peptide C04 C
-VPP M-peptide C18 CA
-VPP M-peptide N02 N
-VPP M-peptide C17 CN
-VPP M-peptide O03 OXT
-VPP M-peptide H3  H
+VPP acedrg               243         "dictionary generator"                  
+VPP acedrg_database      11          "data source"                           
+VPP rdkit                2017.03.2   "Chemoinformatics tool"
+VPP refmac5              5.8.0238    "optimization tool"                     

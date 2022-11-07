@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-NDE NDE "ADENOSINE 5'-(TRIHYDROGEN DIPHOSPHATE) P'-5'-ESTER WITH 3-(AMINOCARBONYL)-4-(1-HYDROXYL-2-OXO-3-PHOSPHONOOXY-PROPYL)-1-BETA-D-RIBOFURANOSYLPYRIDINIUM INNER SALT" NON-POLYMER 83 54 .
-
+NDE     NDE      "ADENOSINE 5'-(TRIHYDROGEN DIPHOSPHATE) P'-5'-ESTER WITH 3-(AMINOCARBONYL)-4-(1-HYDROXYL-2-OXO-3-PHOSPHONOOXY-PROPYL)-1-BETA-D-RIBOFURANOSYLPYRIDINIUM INNER SALT"     NON-POLYMER     83     54     .     
+#
 data_comp_NDE
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,90 +21,89 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-NDE O7N  O O    0  -5.655  -0.207 -0.538
-NDE C7N  C C    0  -4.501  -0.535 -0.855
-NDE N7N  N NH2  0  -4.018  -0.296 -2.068
-NDE C3N  C CR6  0  -3.605  -1.217 0.137
-NDE C4N  C CR6  0  -3.855  -2.522 0.623
-NDE C5N  C CR16 0  -2.957  -3.066 1.547
-NDE C6N  C CR16 0  -1.856  -2.344 1.969
-NDE C2N  C CR16 0  -2.488  -0.508 0.577
-NDE N1N  N NR6  1  -1.620  -1.073 1.492
-NDE C1D  C CH1  0  -0.430  -0.316 1.957
-NDE C2D  C CH1  0  0.648   -0.126 0.884
-NDE O2D  O OH1  0  1.535   -1.234 0.900
-NDE C3D  C CH1  0  1.296   1.183  1.350
-NDE O3D  O OH1  0  2.273   1.002  2.370
-NDE O4D  O O2   0  -0.842  0.990  2.356
-NDE C4D  C CH1  0  0.083   1.980  1.857
-NDE C5D  C CH2  0  -0.608  2.849  0.834
-NDE O5D  O O2   0  -1.726  3.529  1.460
-NDE PN   P P    0  -2.495  4.684  0.653
-NDE O1N  O O    0  -3.647  5.172  1.467
-NDE O2N  O OP   -1 -1.508  5.688  0.158
-NDE PA   P P    0  -4.033  4.280  -1.811
-NDE O1A  O O    0  -3.704  5.676  -2.224
-NDE O3   O O2   0  -3.067  3.862  -0.600
-NDE O2A  O OP   -1 -3.992  3.209  -2.851
-NDE O5B  O O2   0  -5.463  4.265  -1.083
-NDE C5B  C CH2  0  -5.988  3.007  -0.587
-NDE C4B  C CH1  0  -7.371  3.226  -0.024
-NDE O4B  O O2   0  -8.234  3.733  -1.073
-NDE C1B  C CH1  0  -9.217  2.777  -1.405
-NDE C2B  C CH1  0  -8.787  1.465  -0.755
-NDE O2B  O OH1  0  -9.897  0.639  -0.477
-NDE C3B  C CH1  0  -8.087  1.978  0.506
-NDE O3B  O OH1  0  -9.004  2.316  1.539
-NDE N9A  N NR5  0  -9.318  2.710  -2.860
-NDE C8A  C CR15 0  -8.283  2.522  -3.742
-NDE N7A  N NRD5 0  -8.662  2.506  -4.996
-NDE C5A  C CR56 0  -10.034 2.696  -4.942
-NDE C6A  C CR6  0  -11.022 2.776  -5.948
-NDE N6A  N NH2  0  -10.761 2.670  -7.247
-NDE C4A  C CR56 0  -10.453 2.824  -3.628
-NDE N3A  N NRD6 0  -11.720 3.019  -3.212
-NDE C2A  C CR16 0  -12.565 3.079  -4.242
-NDE N1A  N NRD6 0  -12.308 2.973  -5.555
-NDE P    P P    0  -8.526  -1.395 3.583
-NDE O1P  O O    0  -9.170  -2.018 4.807
-NDE O2P  O OP   -1 -9.539  -0.945 2.548
-NDE O3P  O OP   -1 -7.520  -0.315 3.932
-NDE O1   O O2   0  -7.678  -2.577 2.883
-NDE C1   C CH2  0  -6.920  -2.352 1.696
-NDE C2   C C    0  -6.029  -3.533 1.356
-NDE O2   O O    0  -6.081  -4.577 1.978
-NDE C3   C CH1  0  -5.048  -3.363 0.197
-NDE O31  O OH1  0  -4.618  -4.623 -0.298
-NDE H71N H H    0  -3.187  -0.537 -2.285
-NDE H72N H H    0  -4.525  0.110  -2.679
-NDE H5N  H H    0  -3.110  -3.936 1.882
-NDE H6N  H H    0  -1.256  -2.719 2.592
-NDE H2N  H H    0  -2.327  0.361  0.247
-NDE H1D  H H    0  -0.035  -0.780 2.738
-NDE H2D  H H    0  0.241   -0.014 -0.010
-NDE HO2N H H    0  2.210   -1.063 0.415
-NDE H3D  H H    0  1.700   1.651  0.574
-NDE HO3N H H    0  1.906   0.767  3.099
-NDE H4D  H H    0  0.363   2.552  2.603
-NDE H51N H H    0  -0.931  2.289  0.086
-NDE H52N H H    0  0.032   3.512  0.476
-NDE H51A H H    0  -5.394  2.650  0.119
-NDE H52A H H    0  -6.031  2.348  -1.323
-NDE H4B  H H    0  -7.310  3.895  0.691
-NDE H1B  H H    0  -10.083 3.049  -1.027
-NDE H2B  H H    0  -8.142  0.982  -1.337
-NDE HO2A H H    0  -9.632  -0.052 -0.059
-NDE H3B  H H    0  -7.429  1.312  0.833
-NDE HO3A H H    0  -9.143  1.629  2.017
-NDE H8A  H H    0  -7.388  2.414  -3.471
-NDE H61A H H    0  -11.166 3.200  -7.817
-NDE H62A H H    0  -10.185 2.071  -7.528
-NDE H2A  H H    0  -13.473 3.215  -4.016
-NDE H11  H H    0  -6.360  -1.555 1.808
-NDE H12  H H    0  -7.527  -2.187 0.943
-NDE H31  H H    0  -5.545  -2.894 -0.533
-NDE H311 H H    0  -5.222  -4.956 -0.794
-
+NDE     O7N     O       O       0       -5.655      -0.207      -0.538      
+NDE     C7N     C       C       0       -4.501      -0.535      -0.855      
+NDE     N7N     N       NH2     0       -4.018      -0.296      -2.068      
+NDE     C3N     C       CR6     0       -3.605      -1.217      0.137       
+NDE     C4N     C       CR6     0       -3.855      -2.522      0.623       
+NDE     C5N     C       CR16    0       -2.957      -3.066      1.547       
+NDE     C6N     C       CR16    0       -1.856      -2.344      1.969       
+NDE     C2N     C       CR16    0       -2.488      -0.508      0.577       
+NDE     N1N     N       NR6     1       -1.620      -1.073      1.492       
+NDE     C1D     C       CH1     0       -0.430      -0.316      1.957       
+NDE     C2D     C       CH1     0       0.648       -0.126      0.884       
+NDE     O2D     O       OH1     0       1.535       -1.234      0.900       
+NDE     C3D     C       CH1     0       1.296       1.183       1.350       
+NDE     O3D     O       OH1     0       2.273       1.002       2.370       
+NDE     O4D     O       O2      0       -0.842      0.990       2.356       
+NDE     C4D     C       CH1     0       0.083       1.980       1.857       
+NDE     C5D     C       CH2     0       -0.608      2.849       0.834       
+NDE     O5D     O       O2      0       -1.726      3.529       1.460       
+NDE     PN      P       P       0       -2.495      4.684       0.653       
+NDE     O1N     O       O       0       -3.647      5.172       1.467       
+NDE     O2N     O       OP      -1      -1.508      5.688       0.158       
+NDE     PA      P       P       0       -4.033      4.280       -1.811      
+NDE     O1A     O       O       0       -3.704      5.676       -2.224      
+NDE     O3      O       O2      0       -3.067      3.862       -0.600      
+NDE     O2A     O       OP      -1      -3.992      3.209       -2.851      
+NDE     O5B     O       O2      0       -5.463      4.265       -1.083      
+NDE     C5B     C       CH2     0       -5.988      3.007       -0.587      
+NDE     C4B     C       CH1     0       -7.371      3.226       -0.024      
+NDE     O4B     O       O2      0       -8.234      3.733       -1.073      
+NDE     C1B     C       CH1     0       -9.217      2.777       -1.405      
+NDE     C2B     C       CH1     0       -8.787      1.465       -0.755      
+NDE     O2B     O       OH1     0       -9.897      0.639       -0.477      
+NDE     C3B     C       CH1     0       -8.087      1.978       0.506       
+NDE     O3B     O       OH1     0       -9.004      2.316       1.539       
+NDE     N9A     N       NR5     0       -9.318      2.710       -2.860      
+NDE     C8A     C       CR15    0       -8.283      2.522       -3.742      
+NDE     N7A     N       NRD5    0       -8.662      2.506       -4.996      
+NDE     C5A     C       CR56    0       -10.034     2.696       -4.942      
+NDE     C6A     C       CR6     0       -11.022     2.776       -5.948      
+NDE     N6A     N       NH2     0       -10.761     2.670       -7.247      
+NDE     C4A     C       CR56    0       -10.453     2.824       -3.628      
+NDE     N3A     N       NRD6    0       -11.720     3.019       -3.212      
+NDE     C2A     C       CR16    0       -12.565     3.079       -4.242      
+NDE     N1A     N       NRD6    0       -12.308     2.973       -5.555      
+NDE     P       P       P       0       -8.526      -1.395      3.583       
+NDE     O1P     O       O       0       -9.170      -2.018      4.807       
+NDE     O2P     O       OP      -1      -9.539      -0.945      2.548       
+NDE     O3P     O       OP      -1      -7.520      -0.315      3.932       
+NDE     O1      O       O2      0       -7.678      -2.577      2.883       
+NDE     C1      C       CH2     0       -6.920      -2.352      1.696       
+NDE     C2      C       C       0       -6.029      -3.533      1.356       
+NDE     O2      O       O       0       -6.081      -4.577      1.978       
+NDE     C3      C       CH1     0       -5.048      -3.363      0.197       
+NDE     O31     O       OH1     0       -4.618      -4.623      -0.298      
+NDE     H71N    H       H       0       -3.187      -0.537      -2.285      
+NDE     H72N    H       H       0       -4.525      0.110       -2.679      
+NDE     H5N     H       H       0       -3.110      -3.936      1.882       
+NDE     H6N     H       H       0       -1.256      -2.719      2.592       
+NDE     H2N     H       H       0       -2.327      0.361       0.247       
+NDE     H1D     H       H       0       -0.035      -0.780      2.738       
+NDE     H2D     H       H       0       0.241       -0.014      -0.010      
+NDE     HO2N    H       H       0       2.210       -1.063      0.415       
+NDE     H3D     H       H       0       1.700       1.651       0.574       
+NDE     HO3N    H       H       0       1.906       0.767       3.099       
+NDE     H4D     H       H       0       0.363       2.552       2.603       
+NDE     H51N    H       H       0       -0.931      2.289       0.086       
+NDE     H52N    H       H       0       0.032       3.512       0.476       
+NDE     H51A    H       H       0       -5.394      2.650       0.119       
+NDE     H52A    H       H       0       -6.031      2.348       -1.323      
+NDE     H4B     H       H       0       -7.310      3.895       0.691       
+NDE     H1B     H       H       0       -10.083     3.049       -1.027      
+NDE     H2B     H       H       0       -8.142      0.982       -1.337      
+NDE     HO2A    H       H       0       -9.632      -0.052      -0.059      
+NDE     H3B     H       H       0       -7.429      1.312       0.833       
+NDE     HO3A    H       H       0       -9.143      1.629       2.017       
+NDE     H8A     H       H       0       -7.388      2.414       -3.471      
+NDE     H61A    H       H       0       -11.166     3.200       -7.817      
+NDE     H62A    H       H       0       -10.185     2.071       -7.528      
+NDE     H2A     H       H       0       -13.473     3.215       -4.016      
+NDE     H11     H       H       0       -6.360      -1.555      1.808       
+NDE     H12     H       H       0       -7.527      -2.187      0.943       
+NDE     H31     H       H       0       -5.545      -2.894      -0.533      
+NDE     H311    H       H       0       -5.222      -4.956      -0.794      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -113,94 +114,93 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-NDE O7N C7N  DOUBLE n 1.241 0.0105 1.241 0.0105
-NDE C7N N7N  SINGLE n 1.326 0.0100 1.326 0.0100
-NDE C7N C3N  SINGLE n 1.498 0.0105 1.498 0.0105
-NDE C3N C4N  DOUBLE y 1.405 0.0100 1.405 0.0100
-NDE C3N C2N  SINGLE y 1.390 0.0105 1.390 0.0105
-NDE C4N C5N  SINGLE y 1.394 0.0100 1.394 0.0100
-NDE C4N C3   SINGLE n 1.517 0.0100 1.517 0.0100
-NDE C5N C6N  DOUBLE y 1.380 0.0128 1.380 0.0128
-NDE C6N N1N  SINGLE y 1.375 0.0105 1.375 0.0105
-NDE C2N N1N  DOUBLE y 1.377 0.0105 1.377 0.0105
-NDE N1N C1D  SINGLE n 1.477 0.0138 1.477 0.0138
-NDE C1D C2D  SINGLE n 1.533 0.0100 1.533 0.0100
-NDE C1D O4D  SINGLE n 1.425 0.0141 1.425 0.0141
-NDE C2D O2D  SINGLE n 1.419 0.0101 1.419 0.0101
-NDE C2D C3D  SINGLE n 1.533 0.0100 1.533 0.0100
-NDE C3D O3D  SINGLE n 1.422 0.0100 1.422 0.0100
-NDE C3D C4D  SINGLE n 1.535 0.0100 1.535 0.0100
-NDE O4D C4D  SINGLE n 1.443 0.0107 1.443 0.0107
-NDE C4D C5D  SINGLE n 1.509 0.0100 1.509 0.0100
-NDE C5D O5D  SINGLE n 1.450 0.0166 1.450 0.0166
-NDE O5D PN   SINGLE n 1.604 0.0133 1.604 0.0133
-NDE PN  O1N  DOUBLE n 1.493 0.0122 1.493 0.0122
-NDE PN  O2N  SINGLE n 1.493 0.0122 1.493 0.0122
-NDE PN  O3   SINGLE n 1.604 0.0133 1.604 0.0133
-NDE PA  O1A  DOUBLE n 1.493 0.0122 1.493 0.0122
-NDE PA  O3   SINGLE n 1.604 0.0133 1.604 0.0133
-NDE PA  O2A  SINGLE n 1.493 0.0122 1.493 0.0122
-NDE PA  O5B  SINGLE n 1.604 0.0133 1.604 0.0133
-NDE O5B C5B  SINGLE n 1.450 0.0166 1.450 0.0166
-NDE C5B C4B  SINGLE n 1.509 0.0100 1.509 0.0100
-NDE C4B O4B  SINGLE n 1.451 0.0100 1.451 0.0100
-NDE C4B C3B  SINGLE n 1.535 0.0100 1.535 0.0100
-NDE O4B C1B  SINGLE n 1.409 0.0100 1.409 0.0100
-NDE C1B C2B  SINGLE n 1.525 0.0100 1.525 0.0100
-NDE C1B N9A  SINGLE n 1.458 0.0100 1.458 0.0100
-NDE C2B O2B  SINGLE n 1.411 0.0100 1.411 0.0100
-NDE C2B C3B  SINGLE n 1.531 0.0100 1.531 0.0100
-NDE C3B O3B  SINGLE n 1.422 0.0100 1.422 0.0100
-NDE N9A C8A  SINGLE y 1.372 0.0100 1.372 0.0100
-NDE N9A C4A  SINGLE y 1.374 0.0101 1.374 0.0101
-NDE C8A N7A  DOUBLE y 1.310 0.0100 1.310 0.0100
-NDE N7A C5A  SINGLE y 1.388 0.0100 1.388 0.0100
-NDE C5A C6A  SINGLE y 1.408 0.0100 1.408 0.0100
-NDE C5A C4A  DOUBLE y 1.381 0.0100 1.381 0.0100
-NDE C6A N6A  SINGLE n 1.330 0.0100 1.330 0.0100
-NDE C6A N1A  DOUBLE y 1.354 0.0100 1.354 0.0100
-NDE C4A N3A  SINGLE y 1.343 0.0100 1.343 0.0100
-NDE N3A C2A  DOUBLE y 1.330 0.0100 1.330 0.0100
-NDE C2A N1A  SINGLE y 1.339 0.0100 1.339 0.0100
-NDE P   O1P  DOUBLE n 1.517 0.0192 1.517 0.0192
-NDE P   O2P  SINGLE n 1.517 0.0192 1.517 0.0192
-NDE P   O3P  SINGLE n 1.517 0.0192 1.517 0.0192
-NDE P   O1   SINGLE n 1.614 0.0178 1.614 0.0178
-NDE O1  C1   SINGLE n 1.425 0.0152 1.425 0.0152
-NDE C1  C2   SINGLE n 1.516 0.0133 1.516 0.0133
-NDE C2  O2   DOUBLE n 1.212 0.0200 1.212 0.0200
-NDE C2  C3   SINGLE n 1.526 0.0100 1.526 0.0100
-NDE C3  O31  SINGLE n 1.419 0.0118 1.419 0.0118
-NDE N7N H71N SINGLE n 1.016 0.0100 0.891 0.0200
-NDE N7N H72N SINGLE n 1.016 0.0100 0.891 0.0200
-NDE C5N H5N  SINGLE n 1.082 0.0130 0.945 0.0100
-NDE C6N H6N  SINGLE n 1.082 0.0130 0.943 0.0169
-NDE C2N H2N  SINGLE n 1.082 0.0130 0.943 0.0170
-NDE C1D H1D  SINGLE n 1.089 0.0100 0.990 0.0173
-NDE C2D H2D  SINGLE n 1.089 0.0100 0.989 0.0200
-NDE O2D HO2N SINGLE n 0.970 0.0120 0.849 0.0200
-NDE C3D H3D  SINGLE n 1.089 0.0100 0.992 0.0200
-NDE O3D HO3N SINGLE n 0.970 0.0120 0.849 0.0200
-NDE C4D H4D  SINGLE n 1.089 0.0100 0.981 0.0200
-NDE C5D H51N SINGLE n 1.089 0.0100 0.989 0.0200
-NDE C5D H52N SINGLE n 1.089 0.0100 0.989 0.0200
-NDE C5B H51A SINGLE n 1.089 0.0100 0.989 0.0200
-NDE C5B H52A SINGLE n 1.089 0.0100 0.989 0.0200
-NDE C4B H4B  SINGLE n 1.089 0.0100 0.981 0.0200
-NDE C1B H1B  SINGLE n 1.089 0.0100 0.984 0.0200
-NDE C2B H2B  SINGLE n 1.089 0.0100 0.994 0.0200
-NDE O2B HO2A SINGLE n 0.970 0.0120 0.849 0.0200
-NDE C3B H3B  SINGLE n 1.089 0.0100 0.992 0.0200
-NDE O3B HO3A SINGLE n 0.970 0.0120 0.849 0.0200
-NDE C8A H8A  SINGLE n 1.082 0.0130 0.942 0.0170
-NDE N6A H61A SINGLE n 1.016 0.0100 0.877 0.0200
-NDE N6A H62A SINGLE n 1.016 0.0100 0.877 0.0200
-NDE C2A H2A  SINGLE n 1.082 0.0130 0.945 0.0200
-NDE C1  H11  SINGLE n 1.089 0.0100 0.981 0.0132
-NDE C1  H12  SINGLE n 1.089 0.0100 0.981 0.0132
-NDE C3  H31  SINGLE n 1.089 0.0100 1.005 0.0200
-NDE O31 H311 SINGLE n 0.970 0.0120 0.849 0.0200
-
+NDE         O7N         C7N      DOUBLE       n     1.241  0.0105     1.241  0.0105
+NDE         C7N         N7N      SINGLE       n     1.326  0.0100     1.326  0.0100
+NDE         C7N         C3N      SINGLE       n     1.498  0.0105     1.498  0.0105
+NDE         C3N         C4N      DOUBLE       y     1.405  0.0100     1.405  0.0100
+NDE         C3N         C2N      SINGLE       y     1.390  0.0105     1.390  0.0105
+NDE         C4N         C5N      SINGLE       y     1.394  0.0100     1.394  0.0100
+NDE         C4N          C3      SINGLE       n     1.517  0.0100     1.517  0.0100
+NDE         C5N         C6N      DOUBLE       y     1.380  0.0128     1.380  0.0128
+NDE         C6N         N1N      SINGLE       y     1.375  0.0105     1.375  0.0105
+NDE         C2N         N1N      DOUBLE       y     1.377  0.0105     1.377  0.0105
+NDE         N1N         C1D      SINGLE       n     1.477  0.0138     1.477  0.0138
+NDE         C1D         C2D      SINGLE       n     1.533  0.0100     1.533  0.0100
+NDE         C1D         O4D      SINGLE       n     1.425  0.0141     1.425  0.0141
+NDE         C2D         O2D      SINGLE       n     1.419  0.0101     1.419  0.0101
+NDE         C2D         C3D      SINGLE       n     1.533  0.0100     1.533  0.0100
+NDE         C3D         O3D      SINGLE       n     1.422  0.0100     1.422  0.0100
+NDE         C3D         C4D      SINGLE       n     1.535  0.0100     1.535  0.0100
+NDE         O4D         C4D      SINGLE       n     1.443  0.0107     1.443  0.0107
+NDE         C4D         C5D      SINGLE       n     1.509  0.0100     1.509  0.0100
+NDE         C5D         O5D      SINGLE       n     1.450  0.0166     1.450  0.0166
+NDE         O5D          PN      SINGLE       n     1.604  0.0133     1.604  0.0133
+NDE          PN         O1N      DOUBLE       n     1.493  0.0122     1.493  0.0122
+NDE          PN         O2N      SINGLE       n     1.493  0.0122     1.493  0.0122
+NDE          PN          O3      SINGLE       n     1.604  0.0133     1.604  0.0133
+NDE          PA         O1A      DOUBLE       n     1.493  0.0122     1.493  0.0122
+NDE          PA          O3      SINGLE       n     1.604  0.0133     1.604  0.0133
+NDE          PA         O2A      SINGLE       n     1.493  0.0122     1.493  0.0122
+NDE          PA         O5B      SINGLE       n     1.604  0.0133     1.604  0.0133
+NDE         O5B         C5B      SINGLE       n     1.450  0.0166     1.450  0.0166
+NDE         C5B         C4B      SINGLE       n     1.509  0.0100     1.509  0.0100
+NDE         C4B         O4B      SINGLE       n     1.451  0.0100     1.451  0.0100
+NDE         C4B         C3B      SINGLE       n     1.535  0.0100     1.535  0.0100
+NDE         O4B         C1B      SINGLE       n     1.409  0.0100     1.409  0.0100
+NDE         C1B         C2B      SINGLE       n     1.525  0.0100     1.525  0.0100
+NDE         C1B         N9A      SINGLE       n     1.458  0.0100     1.458  0.0100
+NDE         C2B         O2B      SINGLE       n     1.411  0.0100     1.411  0.0100
+NDE         C2B         C3B      SINGLE       n     1.531  0.0100     1.531  0.0100
+NDE         C3B         O3B      SINGLE       n     1.422  0.0100     1.422  0.0100
+NDE         N9A         C8A      SINGLE       y     1.372  0.0100     1.372  0.0100
+NDE         N9A         C4A      SINGLE       y     1.374  0.0101     1.374  0.0101
+NDE         C8A         N7A      DOUBLE       y     1.310  0.0100     1.310  0.0100
+NDE         N7A         C5A      SINGLE       y     1.388  0.0100     1.388  0.0100
+NDE         C5A         C6A      SINGLE       y     1.408  0.0100     1.408  0.0100
+NDE         C5A         C4A      DOUBLE       y     1.381  0.0100     1.381  0.0100
+NDE         C6A         N6A      SINGLE       n     1.330  0.0100     1.330  0.0100
+NDE         C6A         N1A      DOUBLE       y     1.354  0.0100     1.354  0.0100
+NDE         C4A         N3A      SINGLE       y     1.343  0.0100     1.343  0.0100
+NDE         N3A         C2A      DOUBLE       y     1.330  0.0100     1.330  0.0100
+NDE         C2A         N1A      SINGLE       y     1.339  0.0100     1.339  0.0100
+NDE           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+NDE           P         O2P      SINGLE       n     1.517  0.0192     1.517  0.0192
+NDE           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
+NDE           P          O1      SINGLE       n     1.614  0.0178     1.614  0.0178
+NDE          O1          C1      SINGLE       n     1.425  0.0152     1.425  0.0152
+NDE          C1          C2      SINGLE       n     1.516  0.0133     1.516  0.0133
+NDE          C2          O2      DOUBLE       n     1.212  0.0200     1.212  0.0200
+NDE          C2          C3      SINGLE       n     1.526  0.0100     1.526  0.0100
+NDE          C3         O31      SINGLE       n     1.419  0.0118     1.419  0.0118
+NDE         N7N        H71N      SINGLE       n     1.016  0.0100     0.891  0.0200
+NDE         N7N        H72N      SINGLE       n     1.016  0.0100     0.891  0.0200
+NDE         C5N         H5N      SINGLE       n     1.082  0.0130     0.945  0.0100
+NDE         C6N         H6N      SINGLE       n     1.082  0.0130     0.943  0.0169
+NDE         C2N         H2N      SINGLE       n     1.082  0.0130     0.943  0.0170
+NDE         C1D         H1D      SINGLE       n     1.089  0.0100     0.990  0.0173
+NDE         C2D         H2D      SINGLE       n     1.089  0.0100     0.989  0.0200
+NDE         O2D        HO2N      SINGLE       n     0.970  0.0120     0.849  0.0200
+NDE         C3D         H3D      SINGLE       n     1.089  0.0100     0.992  0.0200
+NDE         O3D        HO3N      SINGLE       n     0.970  0.0120     0.849  0.0200
+NDE         C4D         H4D      SINGLE       n     1.089  0.0100     0.981  0.0200
+NDE         C5D        H51N      SINGLE       n     1.089  0.0100     0.989  0.0200
+NDE         C5D        H52N      SINGLE       n     1.089  0.0100     0.989  0.0200
+NDE         C5B        H51A      SINGLE       n     1.089  0.0100     0.989  0.0200
+NDE         C5B        H52A      SINGLE       n     1.089  0.0100     0.989  0.0200
+NDE         C4B         H4B      SINGLE       n     1.089  0.0100     0.981  0.0200
+NDE         C1B         H1B      SINGLE       n     1.089  0.0100     0.984  0.0200
+NDE         C2B         H2B      SINGLE       n     1.089  0.0100     0.994  0.0200
+NDE         O2B        HO2A      SINGLE       n     0.970  0.0120     0.849  0.0200
+NDE         C3B         H3B      SINGLE       n     1.089  0.0100     0.992  0.0200
+NDE         O3B        HO3A      SINGLE       n     0.970  0.0120     0.849  0.0200
+NDE         C8A         H8A      SINGLE       n     1.082  0.0130     0.942  0.0170
+NDE         N6A        H61A      SINGLE       n     1.016  0.0100     0.877  0.0200
+NDE         N6A        H62A      SINGLE       n     1.016  0.0100     0.877  0.0200
+NDE         C2A         H2A      SINGLE       n     1.082  0.0130     0.945  0.0200
+NDE          C1         H11      SINGLE       n     1.089  0.0100     0.981  0.0132
+NDE          C1         H12      SINGLE       n     1.089  0.0100     0.981  0.0132
+NDE          C3         H31      SINGLE       n     1.089  0.0100     1.005  0.0200
+NDE         O31        H311      SINGLE       n     0.970  0.0120     0.849  0.0200
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -208,159 +208,158 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-NDE O7N  C7N N7N  121.689 1.50
-NDE O7N  C7N C3N  120.569 1.50
-NDE N7N  C7N C3N  117.742 1.50
-NDE C7N  N7N H71N 120.236 2.75
-NDE C7N  N7N H72N 120.236 2.75
-NDE H71N N7N H72N 119.529 2.83
-NDE C7N  C3N C4N  120.602 1.82
-NDE C7N  C3N C2N  119.786 2.75
-NDE C4N  C3N C2N  119.612 1.61
-NDE C3N  C4N C5N  118.781 1.50
-NDE C3N  C4N C3   121.116 2.29
-NDE C5N  C4N C3   120.103 1.50
-NDE C4N  C5N C6N  120.339 1.50
-NDE C4N  C5N H5N  119.406 1.50
-NDE C6N  C5N H5N  120.256 1.50
-NDE C5N  C6N N1N  121.228 1.50
-NDE C5N  C6N H6N  120.055 1.59
-NDE N1N  C6N H6N  118.717 1.53
-NDE C3N  C2N N1N  119.500 3.00
-NDE C3N  C2N H2N  120.045 1.50
-NDE N1N  C2N H2N  120.455 1.53
-NDE C6N  N1N C2N  120.541 1.50
-NDE C6N  N1N C1D  119.730 1.50
-NDE C2N  N1N C1D  119.730 1.50
-NDE N1N  C1D C2D  113.620 1.99
-NDE N1N  C1D O4D  108.092 1.50
-NDE N1N  C1D H1D  108.901 1.50
-NDE C2D  C1D O4D  106.825 1.50
-NDE C2D  C1D H1D  109.776 1.83
-NDE O4D  C1D H1D  109.327 1.50
-NDE C1D  C2D O2D  109.476 3.00
-NDE C1D  C2D C3D  101.269 1.50
-NDE C1D  C2D H2D  110.760 1.63
-NDE O2D  C2D C3D  112.861 2.52
-NDE O2D  C2D H2D  111.022 1.77
-NDE C3D  C2D H2D  110.799 1.82
-NDE C2D  O2D HO2N 109.449 1.85
-NDE C2D  C3D O3D  111.993 3.00
-NDE C2D  C3D C4D  102.071 1.50
-NDE C2D  C3D H3D  110.108 1.66
-NDE O3D  C3D C4D  111.281 2.46
-NDE O3D  C3D H3D  110.380 1.67
-NDE C4D  C3D H3D  110.452 2.54
-NDE C3D  O3D HO3N 108.744 3.00
-NDE C1D  O4D C4D  109.578 1.50
-NDE C3D  C4D O4D  104.439 1.50
-NDE C3D  C4D C5D  116.008 1.52
-NDE C3D  C4D H4D  109.363 1.86
-NDE O4D  C4D C5D  109.615 1.50
-NDE O4D  C4D H4D  108.698 1.50
-NDE C5D  C4D H4D  108.268 1.50
-NDE C4D  C5D O5D  109.342 1.50
-NDE C4D  C5D H51N 109.624 1.50
-NDE C4D  C5D H52N 109.624 1.50
-NDE O5D  C5D H51N 109.845 1.50
-NDE O5D  C5D H52N 109.845 1.50
-NDE H51N C5D H52N 108.472 1.50
-NDE C5D  O5D PN   118.553 2.41
-NDE O5D  PN  O1N  109.410 1.50
-NDE O5D  PN  O2N  109.410 1.50
-NDE O5D  PN  O3   101.065 1.97
-NDE O1N  PN  O2N  118.411 2.35
-NDE O1N  PN  O3   108.816 2.14
-NDE O2N  PN  O3   108.816 2.14
-NDE O1A  PA  O3   108.816 2.14
-NDE O1A  PA  O2A  118.411 2.35
-NDE O1A  PA  O5B  109.410 1.50
-NDE O3   PA  O2A  108.816 2.14
-NDE O3   PA  O5B  101.065 1.97
-NDE O2A  PA  O5B  109.410 1.50
-NDE PN   O3  PA   132.542 3.00
-NDE PA   O5B C5B  118.553 2.41
-NDE O5B  C5B C4B  109.342 1.50
-NDE O5B  C5B H51A 109.845 1.50
-NDE O5B  C5B H52A 109.845 1.50
-NDE C4B  C5B H51A 109.624 1.50
-NDE C4B  C5B H52A 109.624 1.50
-NDE H51A C5B H52A 108.472 1.50
-NDE C5B  C4B O4B  109.123 1.50
-NDE C5B  C4B C3B  116.008 1.52
-NDE C5B  C4B H4B  108.268 1.50
-NDE O4B  C4B C3B  105.388 1.50
-NDE O4B  C4B H4B  108.947 1.50
-NDE C3B  C4B H4B  109.363 1.86
-NDE C4B  O4B C1B  109.903 1.50
-NDE O4B  C1B C2B  106.047 1.50
-NDE O4B  C1B N9A  108.477 1.50
-NDE O4B  C1B H1B  109.807 1.50
-NDE C2B  C1B N9A  113.824 1.50
-NDE C2B  C1B H1B  109.015 1.50
-NDE N9A  C1B H1B  109.561 1.50
-NDE C1B  C2B O2B  111.715 2.69
-NDE C1B  C2B C3B  101.239 1.50
-NDE C1B  C2B H2B  110.636 1.70
-NDE O2B  C2B C3B  112.782 2.45
-NDE O2B  C2B H2B  110.448 1.97
-NDE C3B  C2B H2B  110.596 1.51
-NDE C2B  O2B HO2A 109.103 2.13
-NDE C4B  C3B C2B  102.602 1.50
-NDE C4B  C3B O3B  111.281 2.46
-NDE C4B  C3B H3B  110.452 2.54
-NDE C2B  C3B O3B  111.581 2.83
-NDE C2B  C3B H3B  110.504 1.75
-NDE O3B  C3B H3B  110.380 1.67
-NDE C3B  O3B HO3A 108.744 3.00
-NDE C1B  N9A C8A  126.848 1.91
-NDE C1B  N9A C4A  127.459 1.80
-NDE C8A  N9A C4A  105.693 1.50
-NDE N9A  C8A N7A  113.469 1.50
-NDE N9A  C8A H8A  123.206 1.50
-NDE N7A  C8A H8A  123.326 1.50
-NDE C8A  N7A C5A  104.739 1.50
-NDE N7A  C5A C6A  132.250 1.50
-NDE N7A  C5A C4A  110.483 1.50
-NDE C6A  C5A C4A  117.267 1.50
-NDE C5A  C6A N6A  123.792 1.50
-NDE C5A  C6A N1A  117.409 1.50
-NDE N6A  C6A N1A  118.799 1.50
-NDE C6A  N6A H61A 119.723 1.50
-NDE C6A  N6A H62A 119.723 1.50
-NDE H61A N6A H62A 120.554 1.88
-NDE N9A  C4A C5A  105.616 1.50
-NDE N9A  C4A N3A  127.895 1.50
-NDE C5A  C4A N3A  126.489 1.50
-NDE C4A  N3A C2A  110.982 1.50
-NDE N3A  C2A N1A  129.332 1.50
-NDE N3A  C2A H2A  115.355 1.50
-NDE N1A  C2A H2A  115.313 1.50
-NDE C6A  N1A C2A  118.521 1.50
-NDE O1P  P   O2P  112.864 1.69
-NDE O1P  P   O3P  112.864 1.69
-NDE O1P  P   O1   105.795 2.09
-NDE O2P  P   O3P  112.864 1.69
-NDE O2P  P   O1   105.795 2.09
-NDE O3P  P   O1   105.795 2.09
-NDE P    O1  C1   121.496 2.55
-NDE O1   C1  C2   111.322 2.69
-NDE O1   C1  H11  110.196 2.06
-NDE O1   C1  H12  110.196 2.06
-NDE C2   C1  H11  109.084 1.50
-NDE C2   C1  H12  109.084 1.50
-NDE H11  C1  H12  107.985 1.50
-NDE C1   C2  O2   121.563 1.86
-NDE C1   C2  C3   117.928 2.45
-NDE O2   C2  C3   120.509 1.50
-NDE C4N  C3  C2   111.423 3.00
-NDE C4N  C3  O31  110.912 1.95
-NDE C4N  C3  H31  108.658 1.50
-NDE C2   C3  O31  110.427 2.31
-NDE C2   C3  H31  107.162 1.80
-NDE O31  C3  H31  108.724 1.50
-NDE C3   O31 H311 109.652 3.00
-
+NDE         O7N         C7N         N7N     121.689    1.50
+NDE         O7N         C7N         C3N     120.569    1.50
+NDE         N7N         C7N         C3N     117.742    1.50
+NDE         C7N         N7N        H71N     120.236    2.75
+NDE         C7N         N7N        H72N     120.236    2.75
+NDE        H71N         N7N        H72N     119.529    2.83
+NDE         C7N         C3N         C4N     120.602    1.82
+NDE         C7N         C3N         C2N     119.786    2.75
+NDE         C4N         C3N         C2N     119.612    1.61
+NDE         C3N         C4N         C5N     118.781    1.50
+NDE         C3N         C4N          C3     121.116    2.29
+NDE         C5N         C4N          C3     120.103    1.50
+NDE         C4N         C5N         C6N     120.339    1.50
+NDE         C4N         C5N         H5N     119.406    1.50
+NDE         C6N         C5N         H5N     120.256    1.50
+NDE         C5N         C6N         N1N     121.228    1.50
+NDE         C5N         C6N         H6N     120.055    1.59
+NDE         N1N         C6N         H6N     118.717    1.53
+NDE         C3N         C2N         N1N     119.500    3.00
+NDE         C3N         C2N         H2N     120.045    1.50
+NDE         N1N         C2N         H2N     120.455    1.53
+NDE         C6N         N1N         C2N     120.541    1.50
+NDE         C6N         N1N         C1D     119.730    1.50
+NDE         C2N         N1N         C1D     119.730    1.50
+NDE         N1N         C1D         C2D     113.620    1.99
+NDE         N1N         C1D         O4D     108.092    1.50
+NDE         N1N         C1D         H1D     108.901    1.50
+NDE         C2D         C1D         O4D     106.825    1.50
+NDE         C2D         C1D         H1D     109.776    1.83
+NDE         O4D         C1D         H1D     109.327    1.50
+NDE         C1D         C2D         O2D     109.476    3.00
+NDE         C1D         C2D         C3D     101.269    1.50
+NDE         C1D         C2D         H2D     110.760    1.63
+NDE         O2D         C2D         C3D     112.861    2.52
+NDE         O2D         C2D         H2D     111.022    1.77
+NDE         C3D         C2D         H2D     110.799    1.82
+NDE         C2D         O2D        HO2N     109.449    1.85
+NDE         C2D         C3D         O3D     111.993    3.00
+NDE         C2D         C3D         C4D     102.071    1.50
+NDE         C2D         C3D         H3D     110.108    1.66
+NDE         O3D         C3D         C4D     111.281    2.46
+NDE         O3D         C3D         H3D     110.380    1.67
+NDE         C4D         C3D         H3D     110.452    2.54
+NDE         C3D         O3D        HO3N     108.744    3.00
+NDE         C1D         O4D         C4D     109.578    1.50
+NDE         C3D         C4D         O4D     104.439    1.50
+NDE         C3D         C4D         C5D     116.008    1.52
+NDE         C3D         C4D         H4D     109.363    1.86
+NDE         O4D         C4D         C5D     109.615    1.50
+NDE         O4D         C4D         H4D     108.698    1.50
+NDE         C5D         C4D         H4D     108.268    1.50
+NDE         C4D         C5D         O5D     109.342    1.50
+NDE         C4D         C5D        H51N     109.624    1.50
+NDE         C4D         C5D        H52N     109.624    1.50
+NDE         O5D         C5D        H51N     109.845    1.50
+NDE         O5D         C5D        H52N     109.845    1.50
+NDE        H51N         C5D        H52N     108.472    1.50
+NDE         C5D         O5D          PN     118.553    2.41
+NDE         O5D          PN         O1N     109.410    1.50
+NDE         O5D          PN         O2N     109.410    1.50
+NDE         O5D          PN          O3     101.065    1.97
+NDE         O1N          PN         O2N     118.411    2.35
+NDE         O1N          PN          O3     108.816    2.14
+NDE         O2N          PN          O3     108.816    2.14
+NDE         O1A          PA          O3     108.816    2.14
+NDE         O1A          PA         O2A     118.411    2.35
+NDE         O1A          PA         O5B     109.410    1.50
+NDE          O3          PA         O2A     108.816    2.14
+NDE          O3          PA         O5B     101.065    1.97
+NDE         O2A          PA         O5B     109.410    1.50
+NDE          PN          O3          PA     132.542    3.00
+NDE          PA         O5B         C5B     118.553    2.41
+NDE         O5B         C5B         C4B     109.342    1.50
+NDE         O5B         C5B        H51A     109.845    1.50
+NDE         O5B         C5B        H52A     109.845    1.50
+NDE         C4B         C5B        H51A     109.624    1.50
+NDE         C4B         C5B        H52A     109.624    1.50
+NDE        H51A         C5B        H52A     108.472    1.50
+NDE         C5B         C4B         O4B     109.123    1.50
+NDE         C5B         C4B         C3B     116.008    1.52
+NDE         C5B         C4B         H4B     108.268    1.50
+NDE         O4B         C4B         C3B     105.388    1.50
+NDE         O4B         C4B         H4B     108.947    1.50
+NDE         C3B         C4B         H4B     109.363    1.86
+NDE         C4B         O4B         C1B     109.903    1.50
+NDE         O4B         C1B         C2B     106.047    1.50
+NDE         O4B         C1B         N9A     108.477    1.50
+NDE         O4B         C1B         H1B     109.807    1.50
+NDE         C2B         C1B         N9A     113.824    1.50
+NDE         C2B         C1B         H1B     109.015    1.50
+NDE         N9A         C1B         H1B     109.561    1.50
+NDE         C1B         C2B         O2B     111.715    2.69
+NDE         C1B         C2B         C3B     101.239    1.50
+NDE         C1B         C2B         H2B     110.636    1.70
+NDE         O2B         C2B         C3B     112.782    2.45
+NDE         O2B         C2B         H2B     110.448    1.97
+NDE         C3B         C2B         H2B     110.596    1.51
+NDE         C2B         O2B        HO2A     109.103    2.13
+NDE         C4B         C3B         C2B     102.602    1.50
+NDE         C4B         C3B         O3B     111.281    2.46
+NDE         C4B         C3B         H3B     110.452    2.54
+NDE         C2B         C3B         O3B     111.581    2.83
+NDE         C2B         C3B         H3B     110.504    1.75
+NDE         O3B         C3B         H3B     110.380    1.67
+NDE         C3B         O3B        HO3A     108.744    3.00
+NDE         C1B         N9A         C8A     126.848    1.91
+NDE         C1B         N9A         C4A     127.459    1.80
+NDE         C8A         N9A         C4A     105.693    1.50
+NDE         N9A         C8A         N7A     113.469    1.50
+NDE         N9A         C8A         H8A     123.206    1.50
+NDE         N7A         C8A         H8A     123.326    1.50
+NDE         C8A         N7A         C5A     104.739    1.50
+NDE         N7A         C5A         C6A     132.250    1.50
+NDE         N7A         C5A         C4A     110.483    1.50
+NDE         C6A         C5A         C4A     117.267    1.50
+NDE         C5A         C6A         N6A     123.792    1.50
+NDE         C5A         C6A         N1A     117.409    1.50
+NDE         N6A         C6A         N1A     118.799    1.50
+NDE         C6A         N6A        H61A     119.723    1.50
+NDE         C6A         N6A        H62A     119.723    1.50
+NDE        H61A         N6A        H62A     120.554    1.88
+NDE         N9A         C4A         C5A     105.616    1.50
+NDE         N9A         C4A         N3A     127.895    1.50
+NDE         C5A         C4A         N3A     126.489    1.50
+NDE         C4A         N3A         C2A     110.982    1.50
+NDE         N3A         C2A         N1A     129.332    1.50
+NDE         N3A         C2A         H2A     115.355    1.50
+NDE         N1A         C2A         H2A     115.313    1.50
+NDE         C6A         N1A         C2A     118.521    1.50
+NDE         O1P           P         O2P     112.864    1.69
+NDE         O1P           P         O3P     112.864    1.69
+NDE         O1P           P          O1     105.795    2.09
+NDE         O2P           P         O3P     112.864    1.69
+NDE         O2P           P          O1     105.795    2.09
+NDE         O3P           P          O1     105.795    2.09
+NDE           P          O1          C1     121.496    2.55
+NDE          O1          C1          C2     111.322    2.69
+NDE          O1          C1         H11     110.196    2.06
+NDE          O1          C1         H12     110.196    2.06
+NDE          C2          C1         H11     109.084    1.50
+NDE          C2          C1         H12     109.084    1.50
+NDE         H11          C1         H12     107.985    1.50
+NDE          C1          C2          O2     121.563    1.86
+NDE          C1          C2          C3     117.928    2.45
+NDE          O2          C2          C3     120.509    1.50
+NDE         C4N          C3          C2     111.423    3.00
+NDE         C4N          C3         O31     110.912    1.95
+NDE         C4N          C3         H31     108.658    1.50
+NDE          C2          C3         O31     110.427    2.31
+NDE          C2          C3         H31     107.162    1.80
+NDE         O31          C3         H31     108.724    1.50
+NDE          C3         O31        H311     109.652    3.00
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -371,56 +370,55 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-NDE sp3_sp3_58      C1D C2D O2D HO2N 180.000 10.0 3
-NDE sp3_sp3_38      O2D C2D C3D O3D  -60.000 10.0 3
-NDE sp3_sp3_61      C2D C3D O3D HO3N 180.000 10.0 3
-NDE sp3_sp3_47      O3D C3D C4D C5D  60.000  10.0 3
-NDE sp3_sp3_53      C5D C4D O4D C1D  180.000 10.0 3
-NDE sp3_sp3_64      C3D C4D C5D O5D  180.000 10.0 3
-NDE sp3_sp3_73      C4D C5D O5D PN   180.000 10.0 3
-NDE sp3_sp3_78      C5D O5D PN  O1N  60.000  10.0 3
-NDE sp3_sp3_80      PA  O3  PN  O5D  -60.000 10.0 3
-NDE sp2_sp2_3       O7N C7N N7N H71N 0.000   5.0  2
-NDE sp2_sp2_6       C4N C3N C7N O7N  0.000   5.0  2
-NDE sp3_sp3_84      PN  O3  PA  O1A  60.000  10.0 3
-NDE sp3_sp3_87      C5B O5B PA  O1A  60.000  10.0 3
-NDE sp3_sp3_88      C4B C5B O5B PA   180.000 10.0 3
-NDE sp3_sp3_91      O4B C4B C5B O5B  180.000 10.0 3
-NDE sp3_sp3_2       C5B C4B O4B C1B  -60.000 10.0 3
-NDE sp3_sp3_104     O3B C3B C4B C5B  180.000 10.0 3
-NDE sp3_sp3_4       C2B C1B O4B C4B  -60.000 10.0 3
-NDE sp3_sp3_8       O4B C1B C2B O2B  180.000 10.0 3
-NDE sp2_sp3_13      C8A N9A C1B O4B  150.000 10.0 6
-NDE sp3_sp3_109     C1B C2B O2B HO2A 180.000 10.0 3
-NDE sp3_sp3_20      O2B C2B C3B O3B  -60.000 10.0 3
-NDE sp3_sp3_112     C4B C3B O3B HO3A 180.000 10.0 3
-NDE const_34        N7A C8A N9A C1B  180.000 10.0 2
-NDE const_50        C5A C4A N9A C1B  180.000 10.0 2
-NDE const_37        N9A C8A N7A C5A  0.000   10.0 2
-NDE const_40        C6A C5A N7A C8A  180.000 10.0 2
-NDE const_sp2_sp2_4 N7A C5A C6A N6A  0.000   5.0  2
-NDE const_41        N9A C4A C5A N7A  0.000   10.0 2
-NDE sp2_sp2_9       C5A C6A N6A H61A 180.000 5.0  2
-NDE const_sp2_sp2_6 N6A C6A N1A C2A  180.000 5.0  2
-NDE const_16        C7N C3N C4N C3   0.000   10.0 2
-NDE const_46        N1N C2N C3N C7N  180.000 10.0 2
-NDE const_12        N9A C4A N3A C2A  180.000 10.0 2
-NDE const_sp2_sp2_9 N1A C2A N3A C4A  0.000   5.0  2
-NDE const_sp2_sp2_7 N3A C2A N1A C6A  0.000   5.0  2
-NDE sp3_sp3_115     C1  O1  P   O1P  180.000 10.0 3
-NDE sp3_sp3_118     C2  C1  O1  P    180.000 10.0 3
-NDE sp2_sp3_20      O2  C2  C1  O1   120.000 10.0 6
-NDE const_19        C3  C4N C5N C6N  180.000 10.0 2
-NDE sp2_sp3_1       C3N C4N C3  C2   150.000 10.0 6
-NDE sp2_sp3_26      C1  C2  C3  O31  120.000 10.0 6
-NDE sp3_sp3_122     C2  C3  O31 H311 60.000  10.0 3
-NDE const_21        C4N C5N C6N N1N  0.000   10.0 2
-NDE const_25        C5N C6N N1N C2N  0.000   10.0 2
-NDE const_29        C3N C2N N1N C6N  0.000   10.0 2
-NDE sp2_sp3_7       C6N N1N C1D C2D  150.000 10.0 6
-NDE sp3_sp3_29      N1N C1D C2D O2D  60.000  10.0 3
-NDE sp3_sp3_56      N1N C1D O4D C4D  60.000  10.0 3
-
+NDE            sp3_sp3_58         C1D         C2D         O2D        HO2N     180.000    10.0     3
+NDE            sp3_sp3_38         O2D         C2D         C3D         O3D     -60.000    10.0     3
+NDE            sp3_sp3_61         C2D         C3D         O3D        HO3N     180.000    10.0     3
+NDE            sp3_sp3_47         O3D         C3D         C4D         C5D      60.000    10.0     3
+NDE            sp3_sp3_53         C5D         C4D         O4D         C1D     180.000    10.0     3
+NDE            sp3_sp3_64         C3D         C4D         C5D         O5D     180.000    10.0     3
+NDE            sp3_sp3_73         C4D         C5D         O5D          PN     180.000    10.0     3
+NDE            sp3_sp3_78         C5D         O5D          PN         O1N      60.000    10.0     3
+NDE            sp3_sp3_80          PA          O3          PN         O5D     -60.000    10.0     3
+NDE             sp2_sp2_3         O7N         C7N         N7N        H71N       0.000     5.0     2
+NDE             sp2_sp2_6         C4N         C3N         C7N         O7N       0.000     5.0     2
+NDE            sp3_sp3_84          PN          O3          PA         O1A      60.000    10.0     3
+NDE            sp3_sp3_87         C5B         O5B          PA         O1A      60.000    10.0     3
+NDE            sp3_sp3_88         C4B         C5B         O5B          PA     180.000    10.0     3
+NDE            sp3_sp3_91         O4B         C4B         C5B         O5B     180.000    10.0     3
+NDE             sp3_sp3_2         C5B         C4B         O4B         C1B     -60.000    10.0     3
+NDE           sp3_sp3_104         O3B         C3B         C4B         C5B     180.000    10.0     3
+NDE             sp3_sp3_4         C2B         C1B         O4B         C4B     -60.000    10.0     3
+NDE             sp3_sp3_8         O4B         C1B         C2B         O2B     180.000    10.0     3
+NDE            sp2_sp3_13         C8A         N9A         C1B         O4B     150.000    10.0     6
+NDE           sp3_sp3_109         C1B         C2B         O2B        HO2A     180.000    10.0     3
+NDE            sp3_sp3_20         O2B         C2B         C3B         O3B     -60.000    10.0     3
+NDE           sp3_sp3_112         C4B         C3B         O3B        HO3A     180.000    10.0     3
+NDE              const_34         N7A         C8A         N9A         C1B     180.000    10.0     2
+NDE              const_50         C5A         C4A         N9A         C1B     180.000    10.0     2
+NDE              const_37         N9A         C8A         N7A         C5A       0.000    10.0     2
+NDE              const_40         C6A         C5A         N7A         C8A     180.000    10.0     2
+NDE       const_sp2_sp2_4         N7A         C5A         C6A         N6A       0.000     5.0     2
+NDE              const_41         N9A         C4A         C5A         N7A       0.000    10.0     2
+NDE             sp2_sp2_9         C5A         C6A         N6A        H61A     180.000     5.0     2
+NDE       const_sp2_sp2_6         N6A         C6A         N1A         C2A     180.000     5.0     2
+NDE              const_16         C7N         C3N         C4N          C3       0.000    10.0     2
+NDE              const_46         N1N         C2N         C3N         C7N     180.000    10.0     2
+NDE              const_12         N9A         C4A         N3A         C2A     180.000    10.0     2
+NDE       const_sp2_sp2_9         N1A         C2A         N3A         C4A       0.000     5.0     2
+NDE       const_sp2_sp2_7         N3A         C2A         N1A         C6A       0.000     5.0     2
+NDE           sp3_sp3_115          C1          O1           P         O1P     180.000    10.0     3
+NDE           sp3_sp3_118          C2          C1          O1           P     180.000    10.0     3
+NDE            sp2_sp3_20          O2          C2          C1          O1     120.000    10.0     6
+NDE              const_19          C3         C4N         C5N         C6N     180.000    10.0     2
+NDE             sp2_sp3_1         C3N         C4N          C3          C2     150.000    10.0     6
+NDE            sp2_sp3_26          C1          C2          C3         O31     120.000    10.0     6
+NDE           sp3_sp3_122          C2          C3         O31        H311      60.000    10.0     3
+NDE              const_21         C4N         C5N         C6N         N1N       0.000    10.0     2
+NDE              const_25         C5N         C6N         N1N         C2N       0.000    10.0     2
+NDE              const_29         C3N         C2N         N1N         C6N       0.000    10.0     2
+NDE             sp2_sp3_7         C6N         N1N         C1D         C2D     150.000    10.0     6
+NDE            sp3_sp3_29         N1N         C1D         C2D         O2D      60.000    10.0     3
+NDE            sp3_sp3_56         N1N         C1D         O4D         C4D      60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -429,99 +427,81 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-NDE chir_1  C1D O4D N1N C2D negative
-NDE chir_2  C2D O2D C1D C3D negative
-NDE chir_3  C3D O3D C4D C2D positive
-NDE chir_4  C4D O4D C3D C5D negative
-NDE chir_5  PN  O3  O5D O2N both
-NDE chir_6  PA  O3  O5B O2A both
-NDE chir_7  C4B O4B C3B C5B negative
-NDE chir_8  C1B O4B N9A C2B negative
-NDE chir_9  C2B O2B C1B C3B negative
-NDE chir_10 C3B O3B C4B C2B positive
-NDE chir_11 C3  O31 C2  C4N negative
-
+NDE    chir_1    C1D    O4D    N1N    C2D    negative
+NDE    chir_2    C2D    O2D    C1D    C3D    negative
+NDE    chir_3    C3D    O3D    C4D    C2D    positive
+NDE    chir_4    C4D    O4D    C3D    C5D    negative
+NDE    chir_5    PN    O3    O5D    O2N    both
+NDE    chir_6    PA    O3    O5B    O2A    both
+NDE    chir_7    C4B    O4B    C3B    C5B    negative
+NDE    chir_8    C1B    O4B    N9A    C2B    negative
+NDE    chir_9    C2B    O2B    C1B    C3B    negative
+NDE    chir_10    C3B    O3B    C4B    C2B    positive
+NDE    chir_11    C3    O31    C2    C4N    negative
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-NDE plan-1 C1B  0.020
-NDE plan-1 C2A  0.020
-NDE plan-1 C4A  0.020
-NDE plan-1 C5A  0.020
-NDE plan-1 C6A  0.020
-NDE plan-1 C8A  0.020
-NDE plan-1 H2A  0.020
-NDE plan-1 H8A  0.020
-NDE plan-1 N1A  0.020
-NDE plan-1 N3A  0.020
-NDE plan-1 N6A  0.020
-NDE plan-1 N7A  0.020
-NDE plan-1 N9A  0.020
-NDE plan-2 C1D  0.020
-NDE plan-2 C2N  0.020
-NDE plan-2 C3   0.020
-NDE plan-2 C3N  0.020
-NDE plan-2 C4N  0.020
-NDE plan-2 C5N  0.020
-NDE plan-2 C6N  0.020
-NDE plan-2 C7N  0.020
-NDE plan-2 H2N  0.020
-NDE plan-2 H5N  0.020
-NDE plan-2 H6N  0.020
-NDE plan-2 N1N  0.020
-NDE plan-3 C3N  0.020
-NDE plan-3 C7N  0.020
-NDE plan-3 N7N  0.020
-NDE plan-3 O7N  0.020
-NDE plan-4 C7N  0.020
-NDE plan-4 H71N 0.020
-NDE plan-4 H72N 0.020
-NDE plan-4 N7N  0.020
-NDE plan-5 C6A  0.020
-NDE plan-5 H61A 0.020
-NDE plan-5 H62A 0.020
-NDE plan-5 N6A  0.020
-NDE plan-6 C1   0.020
-NDE plan-6 C2   0.020
-NDE plan-6 C3   0.020
-NDE plan-6 O2   0.020
-
+NDE    plan-1         C1B   0.020
+NDE    plan-1         C2A   0.020
+NDE    plan-1         C4A   0.020
+NDE    plan-1         C5A   0.020
+NDE    plan-1         C6A   0.020
+NDE    plan-1         C8A   0.020
+NDE    plan-1         H2A   0.020
+NDE    plan-1         H8A   0.020
+NDE    plan-1         N1A   0.020
+NDE    plan-1         N3A   0.020
+NDE    plan-1         N6A   0.020
+NDE    plan-1         N7A   0.020
+NDE    plan-1         N9A   0.020
+NDE    plan-2         C1D   0.020
+NDE    plan-2         C2N   0.020
+NDE    plan-2          C3   0.020
+NDE    plan-2         C3N   0.020
+NDE    plan-2         C4N   0.020
+NDE    plan-2         C5N   0.020
+NDE    plan-2         C6N   0.020
+NDE    plan-2         C7N   0.020
+NDE    plan-2         H2N   0.020
+NDE    plan-2         H5N   0.020
+NDE    plan-2         H6N   0.020
+NDE    plan-2         N1N   0.020
+NDE    plan-3         C3N   0.020
+NDE    plan-3         C7N   0.020
+NDE    plan-3         N7N   0.020
+NDE    plan-3         O7N   0.020
+NDE    plan-4         C7N   0.020
+NDE    plan-4        H71N   0.020
+NDE    plan-4        H72N   0.020
+NDE    plan-4         N7N   0.020
+NDE    plan-5         C6A   0.020
+NDE    plan-5        H61A   0.020
+NDE    plan-5        H62A   0.020
+NDE    plan-5         N6A   0.020
+NDE    plan-6          C1   0.020
+NDE    plan-6          C2   0.020
+NDE    plan-6          C3   0.020
+NDE    plan-6          O2   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-NDE SMILES_CANONICAL CACTVS               3.341 NC(=O)c1c[n+](ccc1[C@@H](O)C(=O)CO[P](O)(O)=O)[C@@H]2O[C@H](CO[P]([O-])(=O)O[P@](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O
-NDE SMILES           CACTVS               3.341 NC(=O)c1c[n+](ccc1[CH](O)C(=O)CO[P](O)(O)=O)[CH]2O[CH](CO[P]([O-])(=O)O[P](O)(=O)OC[CH]3O[CH]([CH](O)[CH]3O)n4cnc5c(N)ncnc45)[CH](O)[CH]2O
-NDE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 c1c[n+](cc(c1[C@H](C(=O)COP(=O)(O)O)O)C(=O)N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@@](=O)([O-])O[P@@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O
-NDE SMILES           "OpenEye OEToolkits" 1.5.0 c1c[n+](cc(c1C(C(=O)COP(=O)(O)O)O)C(=O)N)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)n4cnc5c4ncnc5N)O)O)O)O
-NDE InChI            InChI                1.03  InChI=1S/C24H32N7O20P3/c25-20-14-22(28-7-27-20)31(8-29-14)24-19(37)17(35)13(50-24)6-48-54(44,45)51-53(42,43)47-5-12-16(34)18(36)23(49-12)30-2-1-9(10(3-30)21(26)38)15(33)11(32)4-46-52(39,40)41/h1-3,7-8,12-13,15-19,23-24,33-37H,4-6H2,(H7-,25,26,27,28,38,39,40,41,42,43,44,45)/t12-,13-,15?,16-,17-,18-,19-,23-,24-/m1/s1
-NDE InChIKey         InChI                1.03  IVZPTIKSOMOSEU-WPIGAQFXSA-N
-
+NDE SMILES_CANONICAL               CACTVS 3.341                                                                                                                                                                     NC(=O)c1c[n+](ccc1[C@@H](O)C(=O)CO[P](O)(O)=O)[C@@H]2O[C@H](CO[P]([O-])(=O)O[P@](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O
+NDE           SMILES               CACTVS 3.341                                                                                                                                                                                   NC(=O)c1c[n+](ccc1[CH](O)C(=O)CO[P](O)(O)=O)[CH]2O[CH](CO[P]([O-])(=O)O[P](O)(=O)OC[CH]3O[CH]([CH](O)[CH]3O)n4cnc5c(N)ncnc45)[CH](O)[CH]2O
+NDE SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                                                                                                                                                c1c[n+](cc(c1[C@H](C(=O)COP(=O)(O)O)O)C(=O)N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@@](=O)([O-])O[P@@](=O)(O)OC[C@@H]3[C@H]([C@H]([C@@H](O3)n4cnc5c4ncnc5N)O)O)O)O
+NDE           SMILES "OpenEye OEToolkits" 1.5.0                                                                                                                                                                                                                c1c[n+](cc(c1C(C(=O)COP(=O)(O)O)O)C(=O)N)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)n4cnc5c4ncnc5N)O)O)O)O
+NDE            InChI                InChI  1.03 InChI=1S/C24H32N7O20P3/c25-20-14-22(28-7-27-20)31(8-29-14)24-19(37)17(35)13(50-24)6-48-54(44,45)51-53(42,43)47-5-12-16(34)18(36)23(49-12)30-2-1-9(10(3-30)21(26)38)15(33)11(32)4-46-52(39,40)41/h1-3,7-8,12-13,15-19,23-24,33-37H,4-6H2,(H7-,25,26,27,28,38,39,40,41,42,43,44,45)/t12-,13-,15?,16-,17-,18-,19-,23-,24-/m1/s1
+NDE         InChIKey                InChI  1.03                                                                                                                                                                                                                                                                                                  IVZPTIKSOMOSEU-WPIGAQFXSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-NDE acedrg          243       "dictionary generator"
-NDE acedrg_database 11        "data source"
-NDE rdkit           2017.03.2 "Chemoinformatics tool"
-NDE refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-NDE DNA/RNA O2P  OP3
-NDE DNA/RNA O1P  OP1
-NDE DNA/RNA O3P  OP2
-NDE DNA/RNA O1   O5'
-NDE DNA/RNA C1   C5'
-NDE DNA/RNA C2   C4'
-NDE DNA/RNA C3   C3'
-NDE DNA/RNA O31  O3'
-NDE DNA/RNA H311 HO3'
+NDE acedrg               243         "dictionary generator"                  
+NDE acedrg_database      11          "data source"                           
+NDE rdkit                2017.03.2   "Chemoinformatics tool"
+NDE refmac5              5.8.0238    "optimization tool"                     

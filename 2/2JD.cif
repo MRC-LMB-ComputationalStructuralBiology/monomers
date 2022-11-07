@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-2JD 2JD "(2R)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoic acid" NON-POLYMER 24 14 .
-
+2JD     2JD      "(2R)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoic acid"     NON-POLYMER     24     14     .     
+#
 data_comp_2JD
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,31 +21,30 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-2JD C16 C C   0  3.544  0.089  0.409
-2JD O3  O O   0  4.182  -0.483 -0.500
-2JD C17 C CH1 0  2.117  -0.402 0.694
-2JD O4  O OH1 0  2.066  -1.823 0.582
-2JD C18 C CT  0  1.012  0.242  -0.169
-2JD C19 C CH2 0  -0.352 -0.238 0.336
-2JD C20 C CH3 0  1.093  1.771  -0.057
-2JD C21 C CH3 0  1.179  -0.149 -1.645
-2JD P   P P   0  -2.955 -0.027 -0.079
-2JD O1P O O   0  -3.076 -1.512 -0.363
-2JD O2P O O2  0  -1.431 0.366  -0.436
-2JD O3P O OP  -1 -3.824 0.820  -0.990
-2JD OXT O OP  -1 -3.138 0.309  1.389
-2JD O1  O OC  -1 3.972  1.025  1.113
-2JD H15 H H   0  1.912  -0.167 1.632
-2JD H16 H H   0  1.625  -2.145 1.232
-2JD H17 H H   0  -0.450 -0.002 1.280
-2JD H18 H H   0  -0.407 -1.212 0.260
-2JD H19 H H   0  1.856  2.098  -0.564
-2JD H20 H H   0  1.196  2.022  0.877
-2JD H21 H H   0  0.283  2.174  -0.410
-2JD H22 H H   0  0.492  0.287  -2.178
-2JD H23 H H   0  1.095  -1.113 -1.742
-2JD H24 H H   0  2.052  0.133  -1.966
-
+2JD     C16     C       C       0       3.544       0.089       0.409       
+2JD     O3      O       O       0       4.182       -0.483      -0.500      
+2JD     C17     C       CH1     0       2.117       -0.402      0.694       
+2JD     O4      O       OH1     0       2.066       -1.823      0.582       
+2JD     C18     C       CT      0       1.012       0.242       -0.169      
+2JD     C19     C       CH2     0       -0.352      -0.238      0.336       
+2JD     C20     C       CH3     0       1.093       1.771       -0.057      
+2JD     C21     C       CH3     0       1.179       -0.149      -1.645      
+2JD     P       P       P       0       -2.955      -0.027      -0.079      
+2JD     O1P     O       O       0       -3.076      -1.512      -0.363      
+2JD     O2P     O       O2      0       -1.431      0.366       -0.436      
+2JD     O3P     O       OP      -1      -3.824      0.820       -0.990      
+2JD     OXT     O       OP      -1      -3.138      0.309       1.389       
+2JD     O1      O       OC      -1      3.972       1.025       1.113       
+2JD     H15     H       H       0       1.912       -0.167      1.632       
+2JD     H16     H       H       0       1.625       -2.145      1.232       
+2JD     H17     H       H       0       -0.450      -0.002      1.280       
+2JD     H18     H       H       0       -0.407      -1.212      0.260       
+2JD     H19     H       H       0       1.856       2.098       -0.564      
+2JD     H20     H       H       0       1.196       2.022       0.877       
+2JD     H21     H       H       0       0.283       2.174       -0.410      
+2JD     H22     H       H       0       0.492       0.287       -2.178      
+2JD     H23     H       H       0       1.095       -1.113      -1.742      
+2JD     H24     H       H       0       2.052       0.133       -1.966      
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -54,30 +55,29 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-2JD C16 O3  DOUBLE n 1.247 0.0187 1.247 0.0187
-2JD C16 C17 SINGLE n 1.533 0.0100 1.533 0.0100
-2JD C17 O4  SINGLE n 1.419 0.0162 1.419 0.0162
-2JD C17 C18 SINGLE n 1.532 0.0112 1.532 0.0112
-2JD P   O3P SINGLE n 1.517 0.0192 1.517 0.0192
-2JD C19 O2P SINGLE n 1.454 0.0165 1.454 0.0165
-2JD P   O2P SINGLE n 1.614 0.0178 1.614 0.0178
-2JD C18 C20 SINGLE n 1.531 0.0109 1.531 0.0109
-2JD C18 C19 SINGLE n 1.526 0.0108 1.526 0.0108
-2JD C18 C21 SINGLE n 1.531 0.0109 1.531 0.0109
-2JD P   O1P DOUBLE n 1.517 0.0192 1.517 0.0192
-2JD P   OXT SINGLE n 1.517 0.0192 1.517 0.0192
-2JD C16 O1  SINGLE n 1.247 0.0187 1.247 0.0187
-2JD C17 H15 SINGLE n 1.089 0.0100 0.988 0.0129
-2JD O4  H16 SINGLE n 0.970 0.0120 0.848 0.0200
-2JD C19 H17 SINGLE n 1.089 0.0100 0.978 0.0102
-2JD C19 H18 SINGLE n 1.089 0.0100 0.978 0.0102
-2JD C20 H19 SINGLE n 1.089 0.0100 0.973 0.0146
-2JD C20 H20 SINGLE n 1.089 0.0100 0.973 0.0146
-2JD C20 H21 SINGLE n 1.089 0.0100 0.973 0.0146
-2JD C21 H22 SINGLE n 1.089 0.0100 0.973 0.0146
-2JD C21 H23 SINGLE n 1.089 0.0100 0.973 0.0146
-2JD C21 H24 SINGLE n 1.089 0.0100 0.973 0.0146
-
+2JD         C16          O3      DOUBLE       n     1.247  0.0187     1.247  0.0187
+2JD         C16         C17      SINGLE       n     1.533  0.0100     1.533  0.0100
+2JD         C17          O4      SINGLE       n     1.419  0.0162     1.419  0.0162
+2JD         C17         C18      SINGLE       n     1.532  0.0112     1.532  0.0112
+2JD           P         O3P      SINGLE       n     1.517  0.0192     1.517  0.0192
+2JD         C19         O2P      SINGLE       n     1.454  0.0165     1.454  0.0165
+2JD           P         O2P      SINGLE       n     1.614  0.0178     1.614  0.0178
+2JD         C18         C20      SINGLE       n     1.531  0.0109     1.531  0.0109
+2JD         C18         C19      SINGLE       n     1.526  0.0108     1.526  0.0108
+2JD         C18         C21      SINGLE       n     1.531  0.0109     1.531  0.0109
+2JD           P         O1P      DOUBLE       n     1.517  0.0192     1.517  0.0192
+2JD           P         OXT      SINGLE       n     1.517  0.0192     1.517  0.0192
+2JD         C16          O1      SINGLE       n     1.247  0.0187     1.247  0.0187
+2JD         C17         H15      SINGLE       n     1.089  0.0100     0.988  0.0129
+2JD          O4         H16      SINGLE       n     0.970  0.0120     0.848  0.0200
+2JD         C19         H17      SINGLE       n     1.089  0.0100     0.978  0.0102
+2JD         C19         H18      SINGLE       n     1.089  0.0100     0.978  0.0102
+2JD         C20         H19      SINGLE       n     1.089  0.0100     0.973  0.0146
+2JD         C20         H20      SINGLE       n     1.089  0.0100     0.973  0.0146
+2JD         C20         H21      SINGLE       n     1.089  0.0100     0.973  0.0146
+2JD         C21         H22      SINGLE       n     1.089  0.0100     0.973  0.0146
+2JD         C21         H23      SINGLE       n     1.089  0.0100     0.973  0.0146
+2JD         C21         H24      SINGLE       n     1.089  0.0100     0.973  0.0146
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -85,48 +85,47 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-2JD O3  C16 C17 117.167 1.52
-2JD O3  C16 O1  125.666 1.50
-2JD C17 C16 O1  117.167 1.52
-2JD C16 C17 O4  111.343 1.72
-2JD C16 C17 C18 111.511 2.91
-2JD C16 C17 H15 108.330 1.50
-2JD O4  C17 C18 109.482 3.00
-2JD O4  C17 H15 108.675 1.50
-2JD C18 C17 H15 107.825 1.50
-2JD C17 O4  H16 108.894 3.00
-2JD C17 C18 C20 109.534 1.52
-2JD C17 C18 C19 111.094 2.85
-2JD C17 C18 C21 109.534 1.52
-2JD C20 C18 C19 109.385 1.50
-2JD C20 C18 C21 108.765 1.50
-2JD C19 C18 C21 109.385 1.50
-2JD O2P C19 C18 108.435 1.69
-2JD O2P C19 H17 109.739 1.50
-2JD O2P C19 H18 109.739 1.50
-2JD C18 C19 H17 109.473 1.50
-2JD C18 C19 H18 109.473 1.50
-2JD H17 C19 H18 108.108 1.50
-2JD C18 C20 H19 109.575 1.50
-2JD C18 C20 H20 109.575 1.50
-2JD C18 C20 H21 109.575 1.50
-2JD H19 C20 H20 109.377 1.50
-2JD H19 C20 H21 109.377 1.50
-2JD H20 C20 H21 109.377 1.50
-2JD C18 C21 H22 109.575 1.50
-2JD C18 C21 H23 109.575 1.50
-2JD C18 C21 H24 109.575 1.50
-2JD H22 C21 H23 109.377 1.50
-2JD H22 C21 H24 109.377 1.50
-2JD H23 C21 H24 109.377 1.50
-2JD O3P P   O2P 105.795 2.09
-2JD O3P P   O1P 112.864 1.69
-2JD O3P P   OXT 112.864 1.69
-2JD O2P P   O1P 105.795 2.09
-2JD O2P P   OXT 105.795 2.09
-2JD O1P P   OXT 112.864 1.69
-2JD C19 O2P P   118.671 1.50
-
+2JD          O3         C16         C17     117.167    1.52
+2JD          O3         C16          O1     125.666    1.50
+2JD         C17         C16          O1     117.167    1.52
+2JD         C16         C17          O4     111.343    1.72
+2JD         C16         C17         C18     111.511    2.91
+2JD         C16         C17         H15     108.330    1.50
+2JD          O4         C17         C18     109.482    3.00
+2JD          O4         C17         H15     108.675    1.50
+2JD         C18         C17         H15     107.825    1.50
+2JD         C17          O4         H16     108.894    3.00
+2JD         C17         C18         C20     109.534    1.52
+2JD         C17         C18         C19     111.094    2.85
+2JD         C17         C18         C21     109.534    1.52
+2JD         C20         C18         C19     109.385    1.50
+2JD         C20         C18         C21     108.765    1.50
+2JD         C19         C18         C21     109.385    1.50
+2JD         O2P         C19         C18     108.435    1.69
+2JD         O2P         C19         H17     109.739    1.50
+2JD         O2P         C19         H18     109.739    1.50
+2JD         C18         C19         H17     109.473    1.50
+2JD         C18         C19         H18     109.473    1.50
+2JD         H17         C19         H18     108.108    1.50
+2JD         C18         C20         H19     109.575    1.50
+2JD         C18         C20         H20     109.575    1.50
+2JD         C18         C20         H21     109.575    1.50
+2JD         H19         C20         H20     109.377    1.50
+2JD         H19         C20         H21     109.377    1.50
+2JD         H20         C20         H21     109.377    1.50
+2JD         C18         C21         H22     109.575    1.50
+2JD         C18         C21         H23     109.575    1.50
+2JD         C18         C21         H24     109.575    1.50
+2JD         H22         C21         H23     109.377    1.50
+2JD         H22         C21         H24     109.377    1.50
+2JD         H23         C21         H24     109.377    1.50
+2JD         O3P           P         O2P     105.795    2.09
+2JD         O3P           P         O1P     112.864    1.69
+2JD         O3P           P         OXT     112.864    1.69
+2JD         O2P           P         O1P     105.795    2.09
+2JD         O2P           P         OXT     105.795    2.09
+2JD         O1P           P         OXT     112.864    1.69
+2JD         C19         O2P           P     118.671    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -137,15 +136,14 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-2JD sp2_sp3_1  O3  C16 C17 O4  0.000   10.0 6
-2JD sp3_sp3_1  C16 C17 O4  H16 180.000 10.0 3
-2JD sp3_sp3_4  C16 C17 C18 C20 180.000 10.0 3
-2JD sp3_sp3_28 C17 C18 C19 O2P 180.000 10.0 3
-2JD sp3_sp3_22 C17 C18 C20 H19 60.000  10.0 3
-2JD sp3_sp3_37 C17 C18 C21 H22 180.000 10.0 3
-2JD sp3_sp3_13 C18 C19 O2P P   180.000 10.0 3
-2JD sp3_sp3_17 C19 O2P P   O3P -60.000 10.0 3
-
+2JD             sp2_sp3_1          O3         C16         C17          O4       0.000    10.0     6
+2JD             sp3_sp3_1         C16         C17          O4         H16     180.000    10.0     3
+2JD             sp3_sp3_4         C16         C17         C18         C20     180.000    10.0     3
+2JD            sp3_sp3_28         C17         C18         C19         O2P     180.000    10.0     3
+2JD            sp3_sp3_22         C17         C18         C20         H19      60.000    10.0     3
+2JD            sp3_sp3_37         C17         C18         C21         H22     180.000    10.0     3
+2JD            sp3_sp3_13         C18         C19         O2P           P     180.000    10.0     3
+2JD            sp3_sp3_17         C19         O2P           P         O3P     -60.000    10.0     3
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -154,55 +152,37 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-2JD chir_1 C17 O4  C16 C18 negative
-2JD chir_2 C18 C17 C19 C20 both
-2JD chir_3 P   O2P O3P OXT both
-
+2JD    chir_1    C17    O4    C16    C18    negative
+2JD    chir_2    C18    C17    C19    C20    both
+2JD    chir_3    P    O2P    O3P    OXT    both
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-2JD plan-1 C16 0.020
-2JD plan-1 C17 0.020
-2JD plan-1 O1  0.020
-2JD plan-1 O3  0.020
-
+2JD    plan-1         C16   0.020
+2JD    plan-1         C17   0.020
+2JD    plan-1          O1   0.020
+2JD    plan-1          O3   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-2JD SMILES           ACDLabs              12.01 O=P(OCC(C(O)C(=O)O)(C)C)(O)O
-2JD InChI            InChI                1.03  InChI=1S/C6H13O7P/c1-6(2,4(7)5(8)9)3-13-14(10,11)12/h4,7H,3H2,1-2H3,(H,8,9)(H2,10,11,12)/t4-/m0/s1
-2JD InChIKey         InChI                1.03  SVZWVVFMSSSVKX-BYPYZUCNSA-N
-2JD SMILES_CANONICAL CACTVS               3.385 CC(C)(CO[P](O)(O)=O)[C@@H](O)C(O)=O
-2JD SMILES           CACTVS               3.385 CC(C)(CO[P](O)(O)=O)[CH](O)C(O)=O
-2JD SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 CC(C)(COP(=O)(O)O)[C@H](C(=O)O)O
-2JD SMILES           "OpenEye OEToolkits" 1.9.2 CC(C)(COP(=O)(O)O)C(C(=O)O)O
-
+2JD           SMILES              ACDLabs 12.01                                                                       O=P(OCC(C(O)C(=O)O)(C)C)(O)O
+2JD            InChI                InChI  1.03 InChI=1S/C6H13O7P/c1-6(2,4(7)5(8)9)3-13-14(10,11)12/h4,7H,3H2,1-2H3,(H,8,9)(H2,10,11,12)/t4-/m0/s1
+2JD         InChIKey                InChI  1.03                                                                        SVZWVVFMSSSVKX-BYPYZUCNSA-N
+2JD SMILES_CANONICAL               CACTVS 3.385                                                                CC(C)(CO[P](O)(O)=O)[C@@H](O)C(O)=O
+2JD           SMILES               CACTVS 3.385                                                                  CC(C)(CO[P](O)(O)=O)[CH](O)C(O)=O
+2JD SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                                                   CC(C)(COP(=O)(O)O)[C@H](C(=O)O)O
+2JD           SMILES "OpenEye OEToolkits" 1.9.2                                                                       CC(C)(COP(=O)(O)O)C(C(=O)O)O
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-2JD acedrg          243       "dictionary generator"
-2JD acedrg_database 11        "data source"
-2JD rdkit           2017.03.2 "Chemoinformatics tool"
-2JD refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-2JD DNA/RNA O3P OP3
-2JD DNA/RNA O1P OP1
-2JD DNA/RNA OXT OP2
-2JD DNA/RNA O2P O5'
-2JD DNA/RNA C19 C5'
-2JD DNA/RNA C18 C4'
-2JD DNA/RNA C17 C3'
-2JD DNA/RNA O4  O3'
-2JD DNA/RNA H16 HO3'
+2JD acedrg               243         "dictionary generator"                  
+2JD acedrg_database      11          "data source"                           
+2JD rdkit                2017.03.2   "Chemoinformatics tool"
+2JD refmac5              5.8.0238    "optimization tool"                     

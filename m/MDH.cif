@@ -1,3 +1,4 @@
+#
 data_comp_list
 loop_
 _chem_comp.id
@@ -7,9 +8,10 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-MDH MDH N-METHYLDEHYDROBUTYRINE NON-POLYMER 16 8 .
-
+MDH     MDH      N-METHYLDEHYDROBUTYRINE     NON-POLYMER     16     8     .     
+#
 data_comp_MDH
+#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -19,23 +21,22 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-MDH N   N NH1 0  4.711 1.052  3.824
-MDH CM  C CH3 0  5.034 -0.335 4.110
-MDH CA  C C   0  3.563 1.740  4.194
-MDH C   C C   0  2.400 1.098  4.627
-MDH O   O O   0  1.480 1.753  5.123
-MDH OXT O OC  -1 2.231 -0.111 4.470
-MDH CB  C C1  0  3.629 3.198  4.155
-MDH CG  C CH3 0  4.880 3.981  3.870
-MDH H   H H   0  5.272 1.494  3.333
-MDH HM1 H H   0  4.791 -0.546 5.027
-MDH HM2 H H   0  5.988 -0.474 3.994
-MDH HM3 H H   0  4.550 -0.916 3.502
-MDH HB  H H   0  2.833 3.678  4.307
-MDH HG1 H H   0  5.622 3.603  4.369
-MDH HG2 H H   0  4.752 4.906  4.135
-MDH HG3 H H   0  5.078 3.944  2.920
-
+MDH     N       N       NH1     0       4.711       1.052       3.824       
+MDH     CM      C       CH3     0       5.034       -0.335      4.110       
+MDH     CA      C       C       0       3.563       1.740       4.194       
+MDH     C       C       C       0       2.400       1.098       4.627       
+MDH     O       O       O       0       1.480       1.753       5.123       
+MDH     OXT     O       OC      -1      2.231       -0.111      4.470       
+MDH     CB      C       C1      0       3.629       3.198       4.155       
+MDH     CG      C       CH3     0       4.880       3.981       3.870       
+MDH     H       H       H       0       5.272       1.494       3.333       
+MDH     HM1     H       H       0       4.791       -0.546      5.027       
+MDH     HM2     H       H       0       5.988       -0.474      3.994       
+MDH     HM3     H       H       0       4.550       -0.916      3.502       
+MDH     HB      H       H       0       2.833       3.678       4.307       
+MDH     HG1     H       H       0       5.622       3.603       4.369       
+MDH     HG2     H       H       0       4.752       4.906       4.135       
+MDH     HG3     H       H       0       5.078       3.944       2.920       
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -46,22 +47,21 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-MDH N  CM  SINGLE n 1.450 0.0100 1.450 0.0100
-MDH N  CA  SINGLE n 1.350 0.0200 1.350 0.0200
-MDH CA C   SINGLE n 1.361 0.0200 1.361 0.0200
-MDH CA CB  DOUBLE n 1.429 0.0200 1.429 0.0200
-MDH C  O   DOUBLE n 1.230 0.0200 1.230 0.0200
-MDH C  OXT SINGLE n 1.230 0.0200 1.230 0.0200
-MDH CB CG  SINGLE n 1.497 0.0199 1.497 0.0199
-MDH N  H   SINGLE n 1.016 0.0100 0.870 0.0200
-MDH CM HM1 SINGLE n 1.089 0.0100 0.971 0.0198
-MDH CM HM2 SINGLE n 1.089 0.0100 0.971 0.0198
-MDH CM HM3 SINGLE n 1.089 0.0100 0.971 0.0198
-MDH CB HB  SINGLE n 1.082 0.0130 0.943 0.0181
-MDH CG HG1 SINGLE n 1.089 0.0100 0.971 0.0140
-MDH CG HG2 SINGLE n 1.089 0.0100 0.971 0.0140
-MDH CG HG3 SINGLE n 1.089 0.0100 0.971 0.0140
-
+MDH           N          CM      SINGLE       n     1.450  0.0100     1.450  0.0100
+MDH           N          CA      SINGLE       n     1.350  0.0200     1.350  0.0200
+MDH          CA           C      SINGLE       n     1.361  0.0200     1.361  0.0200
+MDH          CA          CB      DOUBLE       n     1.429  0.0200     1.429  0.0200
+MDH           C           O      DOUBLE       n     1.230  0.0200     1.230  0.0200
+MDH           C         OXT      SINGLE       n     1.230  0.0200     1.230  0.0200
+MDH          CB          CG      SINGLE       n     1.497  0.0199     1.497  0.0199
+MDH           N           H      SINGLE       n     1.016  0.0100     0.870  0.0200
+MDH          CM         HM1      SINGLE       n     1.089  0.0100     0.971  0.0198
+MDH          CM         HM2      SINGLE       n     1.089  0.0100     0.971  0.0198
+MDH          CM         HM3      SINGLE       n     1.089  0.0100     0.971  0.0198
+MDH          CB          HB      SINGLE       n     1.082  0.0130     0.943  0.0181
+MDH          CG         HG1      SINGLE       n     1.089  0.0100     0.971  0.0140
+MDH          CG         HG2      SINGLE       n     1.089  0.0100     0.971  0.0140
+MDH          CG         HG3      SINGLE       n     1.089  0.0100     0.971  0.0140
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -69,31 +69,30 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-MDH CM  N  CA  125.094 1.50
-MDH CM  N  H   119.143 1.83
-MDH CA  N  H   115.762 1.82
-MDH N   CM HM1 109.472 1.50
-MDH N   CM HM2 109.472 1.50
-MDH N   CM HM3 109.472 1.50
-MDH HM1 CM HM2 109.279 1.79
-MDH HM1 CM HM3 109.279 1.79
-MDH HM2 CM HM3 109.279 1.79
-MDH N   CA C   118.127 3.00
-MDH N   CA CB  118.127 3.00
-MDH C   CA CB  123.745 3.00
-MDH CA  C  O   119.840 3.00
-MDH CA  C  OXT 119.840 3.00
-MDH O   C  OXT 120.320 1.63
-MDH CA  CB CG  122.437 1.98
-MDH CA  CB HB  118.203 1.54
-MDH CG  CB HB  119.361 1.66
-MDH CB  CG HG1 109.567 1.50
-MDH CB  CG HG2 109.567 1.50
-MDH CB  CG HG3 109.567 1.50
-MDH HG1 CG HG2 109.305 1.50
-MDH HG1 CG HG3 109.305 1.50
-MDH HG2 CG HG3 109.305 1.50
-
+MDH          CM           N          CA     125.094    1.50
+MDH          CM           N           H     119.143    1.83
+MDH          CA           N           H     115.762    1.82
+MDH           N          CM         HM1     109.472    1.50
+MDH           N          CM         HM2     109.472    1.50
+MDH           N          CM         HM3     109.472    1.50
+MDH         HM1          CM         HM2     109.279    1.79
+MDH         HM1          CM         HM3     109.279    1.79
+MDH         HM2          CM         HM3     109.279    1.79
+MDH           N          CA           C     118.127    3.00
+MDH           N          CA          CB     118.127    3.00
+MDH           C          CA          CB     123.745    3.00
+MDH          CA           C           O     119.840    3.00
+MDH          CA           C         OXT     119.840    3.00
+MDH           O           C         OXT     120.320    1.63
+MDH          CA          CB          CG     122.437    1.98
+MDH          CA          CB          HB     118.203    1.54
+MDH          CG          CB          HB     119.361    1.66
+MDH          CB          CG         HG1     109.567    1.50
+MDH          CB          CG         HG2     109.567    1.50
+MDH          CB          CG         HG3     109.567    1.50
+MDH         HG1          CG         HG2     109.305    1.50
+MDH         HG1          CG         HG3     109.305    1.50
+MDH         HG2          CG         HG3     109.305    1.50
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -104,61 +103,51 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-MDH sp2_sp3_1 CA N  CM HM1 0.000   10.0 6
-MDH sp2_sp2_1 C  CA N  CM  180.000 5.0  2
-MDH sp2_sp2_5 O  C  CA N   180.000 5.0  2
-MDH sp2_sp2_9 N  CA CB CG  180.000 5.0  2
-MDH sp2_sp3_7 CA CB CG HG1 0.000   10.0 6
-
+MDH             sp2_sp3_1          CA           N          CM         HM1       0.000    10.0     6
+MDH             sp2_sp2_1           C          CA           N          CM     180.000     5.0     2
+MDH             sp2_sp2_5           O           C          CA           N     180.000     5.0     2
+MDH             sp2_sp2_9           N          CA          CB          CG     180.000     5.0     2
+MDH             sp2_sp3_7          CA          CB          CG         HG1       0.000    10.0     6
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-MDH plan-1 CA  0.020
-MDH plan-1 CM  0.020
-MDH plan-1 H   0.020
-MDH plan-1 N   0.020
-MDH plan-2 C   0.020
-MDH plan-2 CA  0.020
-MDH plan-2 CB  0.020
-MDH plan-2 N   0.020
-MDH plan-3 C   0.020
-MDH plan-3 CA  0.020
-MDH plan-3 O   0.020
-MDH plan-3 OXT 0.020
-MDH plan-4 CA  0.020
-MDH plan-4 CB  0.020
-MDH plan-4 CG  0.020
-MDH plan-4 HB  0.020
-
+MDH    plan-1          CA   0.020
+MDH    plan-1          CM   0.020
+MDH    plan-1           H   0.020
+MDH    plan-1           N   0.020
+MDH    plan-2           C   0.020
+MDH    plan-2          CA   0.020
+MDH    plan-2          CB   0.020
+MDH    plan-2           N   0.020
+MDH    plan-3           C   0.020
+MDH    plan-3          CA   0.020
+MDH    plan-3           O   0.020
+MDH    plan-3         OXT   0.020
+MDH    plan-4          CA   0.020
+MDH    plan-4          CB   0.020
+MDH    plan-4          CG   0.020
+MDH    plan-4          HB   0.020
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-MDH SMILES           ACDLabs              10.04 O=C(O)C(=C/C)/NC
-MDH SMILES_CANONICAL CACTVS               3.341 CN\C(=C/C)C(O)=O
-MDH SMILES           CACTVS               3.341 CNC(=CC)C(O)=O
-MDH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0 C\C=C(\C(=O)O)/NC
-MDH SMILES           "OpenEye OEToolkits" 1.5.0 CC=C(C(=O)O)NC
-MDH InChI            InChI                1.03  InChI=1S/C5H9NO2/c1-3-4(6-2)5(7)8/h3,6H,1-2H3,(H,7,8)/b4-3-
-MDH InChIKey         InChI                1.03  XLSUHJCPPCGPHF-ARJAWSKDSA-N
-
+MDH           SMILES              ACDLabs 10.04                                            O=C(O)C(=C/C)/NC
+MDH SMILES_CANONICAL               CACTVS 3.341                                            CN\C(=C/C)C(O)=O
+MDH           SMILES               CACTVS 3.341                                              CNC(=CC)C(O)=O
+MDH SMILES_CANONICAL "OpenEye OEToolkits" 1.5.0                                           C\C=C(\C(=O)O)/NC
+MDH           SMILES "OpenEye OEToolkits" 1.5.0                                              CC=C(C(=O)O)NC
+MDH            InChI                InChI  1.03 InChI=1S/C5H9NO2/c1-3-4(6-2)5(7)8/h3,6H,1-2H3,(H,7,8)/b4-3-
+MDH         InChIKey                InChI  1.03                                 XLSUHJCPPCGPHF-ARJAWSKDSA-N
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-MDH acedrg          243       "dictionary generator"
-MDH acedrg_database 11        "data source"
-MDH rdkit           2017.03.2 "Chemoinformatics tool"
-MDH refmac5         5.8.0238  "optimization tool"
-
-loop_
-_chem_comp_alias.comp_id
-_chem_comp_alias.group
-_chem_comp_alias.atom_id
-_chem_comp_alias.atom_id_standard
-MDH M-peptide CM CN
+MDH acedrg               243         "dictionary generator"                  
+MDH acedrg_database      11          "data source"                           
+MDH rdkit                2017.03.2   "Chemoinformatics tool"
+MDH refmac5              5.8.0238    "optimization tool"                     
