@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-4ZA     4ZA      "6H-thieno[2,3-b]pyrrole-5-carboxylic acid"     NON-POLYMER     15     11     .     
-#
+4ZA 4ZA "6H-thieno[2,3-b]pyrrole-5-carboxylic acid" NON-POLYMER 15 11 .
+
 data_comp_4ZA
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,21 +19,22 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-4ZA     C10     C       CR55    0       31.967      77.701      62.096      
-4ZA     O01     O       OC      -1      34.695      77.882      65.156      
-4ZA     C02     C       C       0       34.529      78.812      64.387      
-4ZA     O03     O       O       0       35.132      79.870      64.429      
-4ZA     C04     C       CR5     0       33.535      78.644      63.342      
-4ZA     C05     C       CR15    0       33.155      79.549      62.363      
-4ZA     C06     C       CR55    0       32.155      78.975      61.553      
-4ZA     C07     C       CR15    0       31.320      79.232      60.437      
-4ZA     C08     C       CR15    0       30.516      78.163      60.147      
-4ZA     S09     S       S2      0       30.794      76.900      61.222      
-4ZA     N11     N       NT1     0       32.786      77.502      63.159      
-4ZA     H2      H       H       0       33.510      80.415      62.255      
-4ZA     H3      H       H       0       31.327      80.044      59.959      
-4ZA     H4      H       H       0       29.880      78.094      59.456      
-4ZA     H5      H       H       0       32.837      76.761      63.661      
+4ZA C10 C CR55 0  31.967 77.701 62.096
+4ZA O01 O OC   -1 34.695 77.882 65.156
+4ZA C02 C C    0  34.529 78.812 64.387
+4ZA O03 O O    0  35.132 79.870 64.429
+4ZA C04 C CR5  0  33.535 78.644 63.342
+4ZA C05 C CR15 0  33.155 79.549 62.363
+4ZA C06 C CR55 0  32.155 78.975 61.553
+4ZA C07 C CR15 0  31.320 79.232 60.437
+4ZA C08 C CR15 0  30.516 78.163 60.147
+4ZA S09 S S2   0  30.794 76.900 61.222
+4ZA N11 N NT1  0  32.786 77.502 63.159
+4ZA H2  H H    0  33.510 80.415 62.255
+4ZA H3  H H    0  31.327 80.044 59.959
+4ZA H4  H H    0  29.880 78.094 59.456
+4ZA H5  H H    0  32.837 76.761 63.661
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -46,22 +45,23 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-4ZA         C07         C08      DOUBLE       y     1.349  0.0200     1.349  0.0200
-4ZA         C08         S09      SINGLE       y     1.695  0.0200     1.695  0.0200
-4ZA         C06         C07      SINGLE       y     1.390  0.0200     1.390  0.0200
-4ZA         C10         S09      SINGLE       y     1.695  0.0200     1.695  0.0200
-4ZA         C10         C06      DOUBLE       y     1.408  0.0200     1.408  0.0200
-4ZA         C05         C06      SINGLE       y     1.390  0.0200     1.390  0.0200
-4ZA         C10         N11      SINGLE       y     1.373  0.0160     1.373  0.0160
-4ZA         C04         C05      DOUBLE       y     1.376  0.0128     1.376  0.0128
-4ZA         C04         N11      SINGLE       y     1.379  0.0100     1.379  0.0100
-4ZA         C02         C04      SINGLE       n     1.447  0.0200     1.447  0.0200
-4ZA         C02         O03      DOUBLE       n     1.217  0.0200     1.217  0.0200
-4ZA         O01         C02      SINGLE       n     1.217  0.0200     1.217  0.0200
-4ZA         C05          H2      SINGLE       n     1.082  0.0130     0.942  0.0152
-4ZA         C07          H3      SINGLE       n     1.082  0.0130     0.942  0.0152
-4ZA         C08          H4      SINGLE       n     1.082  0.0130     0.942  0.0200
-4ZA         N11          H5      SINGLE       n     1.016  0.0100     0.897  0.0200
+4ZA C07 C08 DOUBLE y 1.349 0.0200 1.349 0.0200
+4ZA C08 S09 SINGLE y 1.695 0.0200 1.695 0.0200
+4ZA C06 C07 SINGLE y 1.390 0.0200 1.390 0.0200
+4ZA C10 S09 SINGLE y 1.695 0.0200 1.695 0.0200
+4ZA C10 C06 DOUBLE y 1.408 0.0200 1.408 0.0200
+4ZA C05 C06 SINGLE y 1.390 0.0200 1.390 0.0200
+4ZA C10 N11 SINGLE y 1.373 0.0160 1.373 0.0160
+4ZA C04 C05 DOUBLE y 1.376 0.0128 1.376 0.0128
+4ZA C04 N11 SINGLE y 1.379 0.0100 1.379 0.0100
+4ZA C02 C04 SINGLE n 1.447 0.0200 1.447 0.0200
+4ZA C02 O03 DOUBLE n 1.217 0.0200 1.217 0.0200
+4ZA O01 C02 SINGLE n 1.217 0.0200 1.217 0.0200
+4ZA C05 H2  SINGLE n 1.082 0.0130 0.942 0.0152
+4ZA C07 H3  SINGLE n 1.082 0.0130 0.942 0.0152
+4ZA C08 H4  SINGLE n 1.082 0.0130 0.942 0.0200
+4ZA N11 H5  SINGLE n 1.016 0.0100 0.897 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -69,31 +69,32 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-4ZA         S09         C10         C06     108.060    3.00
-4ZA         S09         C10         N11     133.232    3.00
-4ZA         C06         C10         N11     118.707    3.00
-4ZA         C04         C02         O03     117.409    1.50
-4ZA         C04         C02         O01     117.409    1.50
-4ZA         O03         C02         O01     125.182    1.50
-4ZA         C05         C04         N11     107.481    1.50
-4ZA         C05         C04         C02     127.893    3.00
-4ZA         N11         C04         C02     124.626    2.38
-4ZA         C06         C05         C04     107.752    2.02
-4ZA         C06         C05          H2     126.031    1.50
-4ZA         C04         C05          H2     126.218    1.50
-4ZA         C07         C06         C10     107.879    2.41
-4ZA         C07         C06         C05     145.252    3.00
-4ZA         C10         C06         C05     106.869    2.41
-4ZA         C08         C07         C06     107.939    2.02
-4ZA         C08         C07          H3     126.684    1.50
-4ZA         C06         C07          H3     125.377    1.50
-4ZA         C07         C08         S09     108.060    3.00
-4ZA         C07         C08          H4     128.598    2.40
-4ZA         S09         C08          H4     123.342    3.00
-4ZA         C08         S09         C10     108.060    3.00
-4ZA         C10         N11         C04     112.053    1.78
-4ZA         C10         N11          H5     124.642    3.00
-4ZA         C04         N11          H5     123.637    3.00
+4ZA S09 C10 C06 108.060 3.00
+4ZA S09 C10 N11 133.232 3.00
+4ZA C06 C10 N11 118.707 3.00
+4ZA C04 C02 O03 117.409 1.50
+4ZA C04 C02 O01 117.409 1.50
+4ZA O03 C02 O01 125.182 1.50
+4ZA C05 C04 N11 107.481 1.50
+4ZA C05 C04 C02 127.893 3.00
+4ZA N11 C04 C02 124.626 2.38
+4ZA C06 C05 C04 107.752 2.02
+4ZA C06 C05 H2  126.031 1.50
+4ZA C04 C05 H2  126.218 1.50
+4ZA C07 C06 C10 107.879 2.41
+4ZA C07 C06 C05 145.252 3.00
+4ZA C10 C06 C05 106.869 2.41
+4ZA C08 C07 C06 107.939 2.02
+4ZA C08 C07 H3  126.684 1.50
+4ZA C06 C07 H3  125.377 1.50
+4ZA C07 C08 S09 108.060 3.00
+4ZA C07 C08 H4  128.598 2.40
+4ZA S09 C08 H4  123.342 3.00
+4ZA C08 S09 C10 108.060 3.00
+4ZA C10 N11 C04 112.053 1.78
+4ZA C10 N11 H5  124.642 3.00
+4ZA C04 N11 H5  123.637 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -104,57 +105,73 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-4ZA              const_31         S09         C10         N11         C04     180.000    10.0     2
-4ZA       const_sp2_sp2_1         C07         C06         C10         S09       0.000     5.0     2
-4ZA              const_17         C06         C10         S09         C08       0.000    10.0     2
-4ZA             sp2_sp2_1         O03         C02         C04         C05     180.000     5.0     2
-4ZA              const_15         C02         C04         N11         C10     180.000    10.0     2
-4ZA              const_11         C02         C04         C05         C06     180.000    10.0     2
-4ZA       const_sp2_sp2_6         C04         C05         C06         C07     180.000     5.0     2
-4ZA              const_25         C10         C06         C07         C08       0.000    10.0     2
-4ZA              const_21         C06         C07         C08         S09       0.000    10.0     2
-4ZA              const_19         C07         C08         S09         C10       0.000    10.0     2
+4ZA const_31        S09 C10 N11 C04 180.000 10.0 2
+4ZA const_sp2_sp2_1 C07 C06 C10 S09 0.000   5.0  2
+4ZA const_17        C06 C10 S09 C08 0.000   10.0 2
+4ZA sp2_sp2_1       O03 C02 C04 C05 180.000 5.0  2
+4ZA const_15        C02 C04 N11 C10 180.000 10.0 2
+4ZA const_11        C02 C04 C05 C06 180.000 10.0 2
+4ZA const_sp2_sp2_6 C04 C05 C06 C07 180.000 5.0  2
+4ZA const_25        C10 C06 C07 C08 0.000   10.0 2
+4ZA const_21        C06 C07 C08 S09 0.000   10.0 2
+4ZA const_19        C07 C08 S09 C10 0.000   10.0 2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-4ZA    plan-1         C02   0.020
-4ZA    plan-1         C04   0.020
-4ZA    plan-1         C05   0.020
-4ZA    plan-1         C06   0.020
-4ZA    plan-1         C07   0.020
-4ZA    plan-1         C08   0.020
-4ZA    plan-1         C10   0.020
-4ZA    plan-1          H2   0.020
-4ZA    plan-1          H3   0.020
-4ZA    plan-1          H4   0.020
-4ZA    plan-1          H5   0.020
-4ZA    plan-1         N11   0.020
-4ZA    plan-1         S09   0.020
-4ZA    plan-2         C02   0.020
-4ZA    plan-2         C04   0.020
-4ZA    plan-2         O01   0.020
-4ZA    plan-2         O03   0.020
+4ZA plan-1 C02 0.020
+4ZA plan-1 C04 0.020
+4ZA plan-1 C05 0.020
+4ZA plan-1 C06 0.020
+4ZA plan-1 C07 0.020
+4ZA plan-1 C08 0.020
+4ZA plan-1 C10 0.020
+4ZA plan-1 H2  0.020
+4ZA plan-1 H3  0.020
+4ZA plan-1 H4  0.020
+4ZA plan-1 H5  0.020
+4ZA plan-1 N11 0.020
+4ZA plan-1 S09 0.020
+4ZA plan-2 C02 0.020
+4ZA plan-2 C04 0.020
+4ZA plan-2 O01 0.020
+4ZA plan-2 O03 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-4ZA           SMILES              ACDLabs 12.01                                            c12nc(C(O)=O)cc1ccs2
-4ZA            InChI                InChI  1.03 InChI=1S/C7H5NO2S/c9-7(10)5-3-4-1-2-11-6(4)8-5/h1-3,8H,(H,9,10)
-4ZA         InChIKey                InChI  1.03                                     SEPXFZLYPWFMSY-UHFFFAOYSA-N
-4ZA SMILES_CANONICAL               CACTVS 3.385                                           OC(=O)c1[nH]c2sccc2c1
-4ZA           SMILES               CACTVS 3.385                                           OC(=O)c1[nH]c2sccc2c1
-4ZA SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2                                         c1csc2c1cc([nH]2)C(=O)O
-4ZA           SMILES "OpenEye OEToolkits" 1.9.2                                         c1csc2c1cc([nH]2)C(=O)O
+4ZA SMILES           ACDLabs              12.01 c12nc(C(O)=O)cc1ccs2
+4ZA InChI            InChI                1.03  InChI=1S/C7H5NO2S/c9-7(10)5-3-4-1-2-11-6(4)8-5/h1-3,8H,(H,9,10)
+4ZA InChIKey         InChI                1.03  SEPXFZLYPWFMSY-UHFFFAOYSA-N
+4ZA SMILES_CANONICAL CACTVS               3.385 OC(=O)c1[nH]c2sccc2c1
+4ZA SMILES           CACTVS               3.385 OC(=O)c1[nH]c2sccc2c1
+4ZA SMILES_CANONICAL "OpenEye OEToolkits" 1.9.2 c1csc2c1cc([nH]2)C(=O)O
+4ZA SMILES           "OpenEye OEToolkits" 1.9.2 c1csc2c1cc([nH]2)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-4ZA acedrg               243         "dictionary generator"                  
-4ZA acedrg_database      11          "data source"                           
-4ZA rdkit                2017.03.2   "Chemoinformatics tool"
-4ZA refmac5              5.8.0238    "optimization tool"                     
+4ZA acedrg          243       "dictionary generator"
+4ZA acedrg_database 11        "data source"
+4ZA rdkit           2017.03.2 "Chemoinformatics tool"
+4ZA refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+4ZA P-peptide N11 N
+4ZA P-peptide C04 CA
+4ZA P-peptide C02 C
+4ZA P-peptide O03 O
+4ZA P-peptide C10 CD
+4ZA P-peptide O01 OXT
+4ZA P-peptide H5  H

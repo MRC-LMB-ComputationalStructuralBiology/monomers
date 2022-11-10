@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-5LA     5LA      "2-chloranyl-6~{H}-thieno[2,3-b]pyrrole-5-carboxylic acid"     NON-POLYMER     15     12     .     
-#
+5LA 5LA "2-chloranyl-6~{H}-thieno[2,3-b]pyrrole-5-carboxylic acid" NON-POLYMER 15 12 .
+
 data_comp_5LA
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,21 +19,22 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-5LA     CL1     CL      CL      0       30.149      79.258      58.883      
-5LA     C02     C       CR5     0       31.170      79.382      60.231      
-5LA     C03     C       CR15    0       32.082      80.359      60.525      
-5LA     C04     C       CR55    0       32.746      80.106      61.752      
-5LA     C05     C       CR15    0       33.723      80.621      62.627      
-5LA     C06     C       CR5     0       33.862      79.775      63.716      
-5LA     C07     C       C       0       34.750      79.914      64.857      
-5LA     O08     O       OC      -1      34.678      79.066      65.728      
-5LA     O09     O       O       0       35.509      80.867      64.870      
-5LA     N10     N       NT1     0       32.982      78.730      63.540      
-5LA     C11     C       CR55    0       32.320      78.929      62.373      
-5LA     S12     S       S2      0       31.147      78.207      61.433      
-5LA     H1      H       H       0       32.256      81.112      59.986      
-5LA     H2      H       H       0       34.207      81.418      62.491      
-5LA     H4      H       H       0       32.873      78.042      64.105      
+5LA CL1 CL CL   0  30.149 79.258 58.883
+5LA C02 C  CR5  0  31.170 79.382 60.231
+5LA C03 C  CR15 0  32.082 80.359 60.525
+5LA C04 C  CR55 0  32.746 80.106 61.752
+5LA C05 C  CR15 0  33.723 80.621 62.627
+5LA C06 C  CR5  0  33.862 79.775 63.716
+5LA C07 C  C    0  34.750 79.914 64.857
+5LA O08 O  OC   -1 34.678 79.066 65.728
+5LA O09 O  O    0  35.509 80.867 64.870
+5LA N10 N  NT1  0  32.982 78.730 63.540
+5LA C11 C  CR55 0  32.320 78.929 62.373
+5LA S12 S  S2   0  31.147 78.207 61.433
+5LA H1  H  H    0  32.256 81.112 59.986
+5LA H2  H  H    0  34.207 81.418 62.491
+5LA H4  H  H    0  32.873 78.042 64.105
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -46,22 +45,23 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-5LA         CL1         C02      SINGLE       n     1.695  0.0100     1.695  0.0100
-5LA         C02         C03      DOUBLE       y     1.349  0.0200     1.349  0.0200
-5LA         C02         S12      SINGLE       y     1.695  0.0200     1.695  0.0200
-5LA         C03         C04      SINGLE       y     1.390  0.0200     1.390  0.0200
-5LA         C11         S12      SINGLE       y     1.695  0.0200     1.695  0.0200
-5LA         C04         C11      DOUBLE       y     1.408  0.0200     1.408  0.0200
-5LA         C04         C05      SINGLE       y     1.390  0.0200     1.390  0.0200
-5LA         N10         C11      SINGLE       y     1.373  0.0160     1.373  0.0160
-5LA         C05         C06      DOUBLE       y     1.376  0.0128     1.376  0.0128
-5LA         C06         N10      SINGLE       y     1.379  0.0100     1.379  0.0100
-5LA         C06         C07      SINGLE       n     1.447  0.0200     1.447  0.0200
-5LA         C07         O09      DOUBLE       n     1.217  0.0200     1.217  0.0200
-5LA         C07         O08      SINGLE       n     1.217  0.0200     1.217  0.0200
-5LA         C03          H1      SINGLE       n     1.082  0.0130     0.942  0.0152
-5LA         C05          H2      SINGLE       n     1.082  0.0130     0.942  0.0152
-5LA         N10          H4      SINGLE       n     1.016  0.0100     0.897  0.0200
+5LA CL1 C02 SINGLE n 1.695 0.0100 1.695 0.0100
+5LA C02 C03 DOUBLE y 1.349 0.0200 1.349 0.0200
+5LA C02 S12 SINGLE y 1.695 0.0200 1.695 0.0200
+5LA C03 C04 SINGLE y 1.390 0.0200 1.390 0.0200
+5LA C11 S12 SINGLE y 1.695 0.0200 1.695 0.0200
+5LA C04 C11 DOUBLE y 1.408 0.0200 1.408 0.0200
+5LA C04 C05 SINGLE y 1.390 0.0200 1.390 0.0200
+5LA N10 C11 SINGLE y 1.373 0.0160 1.373 0.0160
+5LA C05 C06 DOUBLE y 1.376 0.0128 1.376 0.0128
+5LA C06 N10 SINGLE y 1.379 0.0100 1.379 0.0100
+5LA C06 C07 SINGLE n 1.447 0.0200 1.447 0.0200
+5LA C07 O09 DOUBLE n 1.217 0.0200 1.217 0.0200
+5LA C07 O08 SINGLE n 1.217 0.0200 1.217 0.0200
+5LA C03 H1  SINGLE n 1.082 0.0130 0.942 0.0152
+5LA C05 H2  SINGLE n 1.082 0.0130 0.942 0.0152
+5LA N10 H4  SINGLE n 1.016 0.0100 0.897 0.0200
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -69,31 +69,32 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-5LA         CL1         C02         C03     129.600    2.18
-5LA         CL1         C02         S12     122.340    3.00
-5LA         C03         C02         S12     108.060    3.00
-5LA         C02         C03         C04     107.939    2.02
-5LA         C02         C03          H1     126.684    1.50
-5LA         C04         C03          H1     125.377    1.50
-5LA         C03         C04         C11     107.879    2.41
-5LA         C03         C04         C05     145.252    3.00
-5LA         C11         C04         C05     106.869    2.41
-5LA         C04         C05         C06     107.752    2.02
-5LA         C04         C05          H2     126.031    1.50
-5LA         C06         C05          H2     126.218    1.50
-5LA         C05         C06         N10     107.481    1.50
-5LA         C05         C06         C07     127.893    3.00
-5LA         N10         C06         C07     124.626    2.38
-5LA         C06         C07         O09     117.409    1.50
-5LA         C06         C07         O08     117.409    1.50
-5LA         O09         C07         O08     125.182    1.50
-5LA         C11         N10         C06     112.053    1.78
-5LA         C11         N10          H4     124.642    3.00
-5LA         C06         N10          H4     123.637    3.00
-5LA         S12         C11         C04     108.060    3.00
-5LA         S12         C11         N10     133.232    3.00
-5LA         C04         C11         N10     118.707    3.00
-5LA         C02         S12         C11     108.060    3.00
+5LA CL1 C02 C03 129.600 2.18
+5LA CL1 C02 S12 122.340 3.00
+5LA C03 C02 S12 108.060 3.00
+5LA C02 C03 C04 107.939 2.02
+5LA C02 C03 H1  126.684 1.50
+5LA C04 C03 H1  125.377 1.50
+5LA C03 C04 C11 107.879 2.41
+5LA C03 C04 C05 145.252 3.00
+5LA C11 C04 C05 106.869 2.41
+5LA C04 C05 C06 107.752 2.02
+5LA C04 C05 H2  126.031 1.50
+5LA C06 C05 H2  126.218 1.50
+5LA C05 C06 N10 107.481 1.50
+5LA C05 C06 C07 127.893 3.00
+5LA N10 C06 C07 124.626 2.38
+5LA C06 C07 O09 117.409 1.50
+5LA C06 C07 O08 117.409 1.50
+5LA O09 C07 O08 125.182 1.50
+5LA C11 N10 C06 112.053 1.78
+5LA C11 N10 H4  124.642 3.00
+5LA C06 N10 H4  123.637 3.00
+5LA S12 C11 C04 108.060 3.00
+5LA S12 C11 N10 133.232 3.00
+5LA C04 C11 N10 118.707 3.00
+5LA C02 S12 C11 108.060 3.00
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -104,56 +105,72 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-5LA              const_13         C04         C11         S12         C02       0.000    10.0     2
-5LA              const_28         CL1         C02         S12         C11     180.000    10.0     2
-5LA       const_sp2_sp2_3         CL1         C02         C03         C04     180.000     5.0     2
-5LA       const_sp2_sp2_5         C02         C03         C04         C11       0.000     5.0     2
-5LA       const_sp2_sp2_9         C03         C04         C11         S12       0.000     5.0     2
-5LA              const_31         C03         C04         C05         C06     180.000    10.0     2
-5LA              const_24         C04         C05         C06         C07     180.000    10.0     2
-5LA             sp2_sp2_1         C05         C06         C07         O09     180.000     5.0     2
-5LA              const_21         C07         C06         N10         C11     180.000    10.0     2
-5LA              const_17         S12         C11         N10         C06     180.000    10.0     2
+5LA const_13        C04 C11 S12 C02 0.000   10.0 2
+5LA const_28        CL1 C02 S12 C11 180.000 10.0 2
+5LA const_sp2_sp2_3 CL1 C02 C03 C04 180.000 5.0  2
+5LA const_sp2_sp2_5 C02 C03 C04 C11 0.000   5.0  2
+5LA const_sp2_sp2_9 C03 C04 C11 S12 0.000   5.0  2
+5LA const_31        C03 C04 C05 C06 180.000 10.0 2
+5LA const_24        C04 C05 C06 C07 180.000 10.0 2
+5LA sp2_sp2_1       C05 C06 C07 O09 180.000 5.0  2
+5LA const_21        C07 C06 N10 C11 180.000 10.0 2
+5LA const_17        S12 C11 N10 C06 180.000 10.0 2
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-5LA    plan-1         C02   0.020
-5LA    plan-1         C03   0.020
-5LA    plan-1         C04   0.020
-5LA    plan-1         C05   0.020
-5LA    plan-1         C06   0.020
-5LA    plan-1         C07   0.020
-5LA    plan-1         C11   0.020
-5LA    plan-1         CL1   0.020
-5LA    plan-1          H1   0.020
-5LA    plan-1          H2   0.020
-5LA    plan-1          H4   0.020
-5LA    plan-1         N10   0.020
-5LA    plan-1         S12   0.020
-5LA    plan-2         C06   0.020
-5LA    plan-2         C07   0.020
-5LA    plan-2         O08   0.020
-5LA    plan-2         O09   0.020
+5LA plan-1 C02 0.020
+5LA plan-1 C03 0.020
+5LA plan-1 C04 0.020
+5LA plan-1 C05 0.020
+5LA plan-1 C06 0.020
+5LA plan-1 C07 0.020
+5LA plan-1 C11 0.020
+5LA plan-1 CL1 0.020
+5LA plan-1 H1  0.020
+5LA plan-1 H2  0.020
+5LA plan-1 H4  0.020
+5LA plan-1 N10 0.020
+5LA plan-1 S12 0.020
+5LA plan-2 C06 0.020
+5LA plan-2 C07 0.020
+5LA plan-2 O08 0.020
+5LA plan-2 O09 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-5LA            InChI                InChI  1.03 InChI=1S/C7H4ClNO2S/c8-5-2-3-1-4(7(10)11)9-6(3)12-5/h1-2,9H,(H,10,11)
-5LA         InChIKey                InChI  1.03                                           SOGNHUJSAKAIRG-UHFFFAOYSA-N
-5LA SMILES_CANONICAL               CACTVS 3.385                                             OC(=O)c1[nH]c2sc(Cl)cc2c1
-5LA           SMILES               CACTVS 3.385                                             OC(=O)c1[nH]c2sc(Cl)cc2c1
-5LA SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4                                             c1c2cc(sc2[nH]c1C(=O)O)Cl
-5LA           SMILES "OpenEye OEToolkits" 2.0.4                                             c1c2cc(sc2[nH]c1C(=O)O)Cl
+5LA InChI            InChI                1.03  InChI=1S/C7H4ClNO2S/c8-5-2-3-1-4(7(10)11)9-6(3)12-5/h1-2,9H,(H,10,11)
+5LA InChIKey         InChI                1.03  SOGNHUJSAKAIRG-UHFFFAOYSA-N
+5LA SMILES_CANONICAL CACTVS               3.385 OC(=O)c1[nH]c2sc(Cl)cc2c1
+5LA SMILES           CACTVS               3.385 OC(=O)c1[nH]c2sc(Cl)cc2c1
+5LA SMILES_CANONICAL "OpenEye OEToolkits" 2.0.4 c1c2cc(sc2[nH]c1C(=O)O)Cl
+5LA SMILES           "OpenEye OEToolkits" 2.0.4 c1c2cc(sc2[nH]c1C(=O)O)Cl
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-5LA acedrg               243         "dictionary generator"                  
-5LA acedrg_database      11          "data source"                           
-5LA rdkit                2017.03.2   "Chemoinformatics tool"
-5LA refmac5              5.8.0238    "optimization tool"                     
+5LA acedrg          243       "dictionary generator"
+5LA acedrg_database 11        "data source"
+5LA rdkit           2017.03.2 "Chemoinformatics tool"
+5LA refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+5LA P-peptide N10 N
+5LA P-peptide C06 CA
+5LA P-peptide C07 C
+5LA P-peptide O09 O
+5LA P-peptide C11 CD
+5LA P-peptide O08 OXT
+5LA P-peptide H4  H

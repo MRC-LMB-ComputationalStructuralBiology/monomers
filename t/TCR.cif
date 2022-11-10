@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-TCR     TCR      CYCLOMETHYLTRYPTOPHAN     NON-POLYMER     27     16     .     
-#
+TCR TCR CYCLOMETHYLTRYPTOPHAN NON-POLYMER 27 16 .
+
 data_comp_TCR
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,33 +19,34 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-TCR     N       N       NT1     0       21.911      2.397       21.777      
-TCR     CA      C       CH1     0       21.388      3.239       22.859      
-TCR     CB      C       CH2     0       22.105      4.602       22.984      
-TCR     CG      C       CR56    0       22.394      5.159       21.623      
-TCR     CD2     C       CR56    0       22.852      6.458       21.232      
-TCR     CE2     C       CR56    0       22.959      6.437       19.821      
-TCR     CE3     C       CR16    0       23.184      7.637       21.920      
-TCR     CD1     C       CR56    0       22.248      4.421       20.485      
-TCR     NE1     N       NR5     0       22.583      5.184       19.388      
-TCR     CZ2     C       CR16    0       23.382      7.550       19.094      
-TCR     CZ3     C       CR16    0       23.602      8.737       21.197      
-TCR     CH2     C       CR16    0       23.699      8.691       19.802      
-TCR     C9      C       CH2     0       21.780      2.998       20.449      
-TCR     C       C       C       0       19.866      3.387       22.774      
-TCR     OXT     O       OC      -1      19.405      4.295       22.122      
-TCR     O1      O       O       0       19.206      2.569       23.371      
-TCR     HN      H       H       0       21.518      1.594       21.819      
-TCR     HA      H       H       0       21.576      2.760       23.707      
-TCR     HB1     H       H       0       22.945      4.489       23.477      
-TCR     HB2     H       H       0       21.543      5.231       23.485      
-TCR     HE3     H       H       0       23.120      7.674       22.860      
-TCR     HNE     H       H       0       22.560      4.912       18.563      
-TCR     HZ2     H       H       0       23.448      7.522       18.155      
-TCR     HZ3     H       H       0       23.827      9.533       21.651      
-TCR     HH2     H       H       0       23.987      9.456       19.335      
-TCR     H91     H       H       0       20.852      2.955       20.163      
-TCR     H92     H       H       0       22.314      2.488       19.817      
+TCR N   N NT1  0  21.911 2.397 21.777
+TCR CA  C CH1  0  21.388 3.239 22.859
+TCR CB  C CH2  0  22.105 4.602 22.984
+TCR CG  C CR56 0  22.394 5.159 21.623
+TCR CD2 C CR56 0  22.852 6.458 21.232
+TCR CE2 C CR56 0  22.959 6.437 19.821
+TCR CE3 C CR16 0  23.184 7.637 21.920
+TCR CD1 C CR56 0  22.248 4.421 20.485
+TCR NE1 N NR5  0  22.583 5.184 19.388
+TCR CZ2 C CR16 0  23.382 7.550 19.094
+TCR CZ3 C CR16 0  23.602 8.737 21.197
+TCR CH2 C CR16 0  23.699 8.691 19.802
+TCR C9  C CH2  0  21.780 2.998 20.449
+TCR C   C C    0  19.866 3.387 22.774
+TCR OXT O OC   -1 19.405 4.295 22.122
+TCR O1  O O    0  19.206 2.569 23.371
+TCR HN  H H    0  21.518 1.594 21.819
+TCR HA  H H    0  21.576 2.760 23.707
+TCR HB1 H H    0  22.945 4.489 23.477
+TCR HB2 H H    0  21.543 5.231 23.485
+TCR HE3 H H    0  23.120 7.674 22.860
+TCR HNE H H    0  22.560 4.912 18.563
+TCR HZ2 H H    0  23.448 7.522 18.155
+TCR HZ3 H H    0  23.827 9.533 21.651
+TCR HH2 H H    0  23.987 9.456 19.335
+TCR H91 H H    0  20.852 2.955 20.163
+TCR H92 H H    0  22.314 2.488 19.817
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -58,35 +57,36 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-TCR           N          CA      SINGLE       n     1.460  0.0100     1.460  0.0100
-TCR           N          C9      SINGLE       n     1.459  0.0101     1.459  0.0101
-TCR          CA          CB      SINGLE       n     1.539  0.0106     1.539  0.0106
-TCR          CA           C      SINGLE       n     1.521  0.0144     1.521  0.0144
-TCR          CB          CG      SINGLE       n     1.497  0.0100     1.497  0.0100
-TCR          CG         CD2      SINGLE       y     1.432  0.0100     1.432  0.0100
-TCR          CG         CD1      DOUBLE       y     1.364  0.0100     1.364  0.0100
-TCR         CD2         CE2      DOUBLE       y     1.413  0.0100     1.413  0.0100
-TCR         CD2         CE3      SINGLE       y     1.401  0.0100     1.401  0.0100
-TCR         CE2         NE1      SINGLE       y     1.378  0.0100     1.378  0.0100
-TCR         CE2         CZ2      SINGLE       y     1.392  0.0100     1.392  0.0100
-TCR         CE3         CZ3      DOUBLE       y     1.378  0.0100     1.378  0.0100
-TCR         CD1         NE1      SINGLE       y     1.377  0.0100     1.377  0.0100
-TCR         CD1          C9      SINGLE       n     1.497  0.0109     1.497  0.0109
-TCR         CZ2         CH2      DOUBLE       y     1.376  0.0100     1.376  0.0100
-TCR         CZ3         CH2      SINGLE       y     1.395  0.0112     1.395  0.0112
-TCR           C         OXT      SINGLE       n     1.207  0.0200     1.207  0.0200
-TCR           C          O1      DOUBLE       n     1.207  0.0200     1.207  0.0200
-TCR           N          HN      SINGLE       n     1.036  0.0160     0.894  0.0200
-TCR          CA          HA      SINGLE       n     1.089  0.0100     0.992  0.0102
-TCR          CB         HB1      SINGLE       n     1.089  0.0100     0.981  0.0104
-TCR          CB         HB2      SINGLE       n     1.089  0.0100     0.981  0.0104
-TCR         CE3         HE3      SINGLE       n     1.082  0.0130     0.943  0.0175
-TCR         NE1         HNE      SINGLE       n     1.016  0.0100     0.869  0.0200
-TCR         CZ2         HZ2      SINGLE       n     1.082  0.0130     0.942  0.0188
-TCR         CZ3         HZ3      SINGLE       n     1.082  0.0130     0.944  0.0181
-TCR         CH2         HH2      SINGLE       n     1.082  0.0130     0.941  0.0181
-TCR          C9         H91      SINGLE       n     1.089  0.0100     0.972  0.0100
-TCR          C9         H92      SINGLE       n     1.089  0.0100     0.972  0.0100
+TCR N   CA  SINGLE n 1.460 0.0100 1.460 0.0100
+TCR N   C9  SINGLE n 1.459 0.0101 1.459 0.0101
+TCR CA  CB  SINGLE n 1.539 0.0106 1.539 0.0106
+TCR CA  C   SINGLE n 1.521 0.0144 1.521 0.0144
+TCR CB  CG  SINGLE n 1.497 0.0100 1.497 0.0100
+TCR CG  CD2 SINGLE y 1.432 0.0100 1.432 0.0100
+TCR CG  CD1 DOUBLE y 1.364 0.0100 1.364 0.0100
+TCR CD2 CE2 DOUBLE y 1.413 0.0100 1.413 0.0100
+TCR CD2 CE3 SINGLE y 1.401 0.0100 1.401 0.0100
+TCR CE2 NE1 SINGLE y 1.378 0.0100 1.378 0.0100
+TCR CE2 CZ2 SINGLE y 1.392 0.0100 1.392 0.0100
+TCR CE3 CZ3 DOUBLE y 1.378 0.0100 1.378 0.0100
+TCR CD1 NE1 SINGLE y 1.377 0.0100 1.377 0.0100
+TCR CD1 C9  SINGLE n 1.497 0.0109 1.497 0.0109
+TCR CZ2 CH2 DOUBLE y 1.376 0.0100 1.376 0.0100
+TCR CZ3 CH2 SINGLE y 1.395 0.0112 1.395 0.0112
+TCR C   OXT SINGLE n 1.207 0.0200 1.207 0.0200
+TCR C   O1  DOUBLE n 1.207 0.0200 1.207 0.0200
+TCR N   HN  SINGLE n 1.036 0.0160 0.894 0.0200
+TCR CA  HA  SINGLE n 1.089 0.0100 0.992 0.0102
+TCR CB  HB1 SINGLE n 1.089 0.0100 0.981 0.0104
+TCR CB  HB2 SINGLE n 1.089 0.0100 0.981 0.0104
+TCR CE3 HE3 SINGLE n 1.082 0.0130 0.943 0.0175
+TCR NE1 HNE SINGLE n 1.016 0.0100 0.869 0.0200
+TCR CZ2 HZ2 SINGLE n 1.082 0.0130 0.942 0.0188
+TCR CZ3 HZ3 SINGLE n 1.082 0.0130 0.944 0.0181
+TCR CH2 HH2 SINGLE n 1.082 0.0130 0.941 0.0181
+TCR C9  H91 SINGLE n 1.089 0.0100 0.972 0.0100
+TCR C9  H92 SINGLE n 1.089 0.0100 0.972 0.0100
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -94,57 +94,58 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-TCR          CA           N          C9     110.383    1.50
-TCR          CA           N          HN     108.770    3.00
-TCR          C9           N          HN     111.885    3.00
-TCR           N          CA          CB     112.383    2.15
-TCR           N          CA           C     110.461    2.50
-TCR           N          CA          HA     108.275    1.50
-TCR          CB          CA           C     111.056    2.52
-TCR          CB          CA          HA     107.359    1.50
-TCR           C          CA          HA     107.848    1.50
-TCR          CA          CB          CG     108.216    1.50
-TCR          CA          CB         HB1     110.063    1.50
-TCR          CA          CB         HB2     110.063    1.50
-TCR          CG          CB         HB1     109.928    1.50
-TCR          CG          CB         HB2     109.928    1.50
-TCR         HB1          CB         HB2     108.319    1.50
-TCR          CB          CG         CD2     130.318    1.50
-TCR          CB          CG         CD1     122.289    1.50
-TCR         CD2          CG         CD1     107.393    1.50
-TCR          CG         CD2         CE2     106.668    1.50
-TCR          CG         CD2         CE3     134.562    1.50
-TCR         CE2         CD2         CE3     118.770    1.50
-TCR         CD2         CE2         NE1     107.973    1.50
-TCR         CD2         CE2         CZ2     122.007    1.50
-TCR         NE1         CE2         CZ2     130.020    1.50
-TCR         CD2         CE3         CZ3     118.842    1.50
-TCR         CD2         CE3         HE3     120.382    1.50
-TCR         CZ3         CE3         HE3     120.776    1.50
-TCR          CG         CD1         NE1     109.441    1.50
-TCR          CG         CD1          C9     124.986    1.52
-TCR         NE1         CD1          C9     125.573    1.77
-TCR         CE2         NE1         CD1     108.525    1.50
-TCR         CE2         NE1         HNE     126.189    1.50
-TCR         CD1         NE1         HNE     125.286    1.50
-TCR         CE2         CZ2         CH2     117.424    1.50
-TCR         CE2         CZ2         HZ2     121.144    1.50
-TCR         CH2         CZ2         HZ2     121.432    1.50
-TCR         CE3         CZ3         CH2     121.329    1.50
-TCR         CE3         CZ3         HZ3     119.361    1.50
-TCR         CH2         CZ3         HZ3     119.311    1.50
-TCR         CZ2         CH2         CZ3     121.628    1.50
-TCR         CZ2         CH2         HH2     119.132    1.50
-TCR         CZ3         CH2         HH2     119.240    1.50
-TCR           N          C9         CD1     108.298    1.56
-TCR           N          C9         H91     108.973    1.50
-TCR           N          C9         H92     108.973    1.50
-TCR         CD1          C9         H91     110.051    1.50
-TCR         CD1          C9         H92     110.051    1.50
-TCR         H91          C9         H92     108.071    1.50
-TCR          CA           C         OXT     117.484    2.59
-TCR          CA           C          O1     117.484    2.59
-TCR         OXT           C          O1     125.033    1.50
+TCR CA  N   C9  110.383 1.50
+TCR CA  N   HN  108.770 3.00
+TCR C9  N   HN  111.885 3.00
+TCR N   CA  CB  112.383 2.15
+TCR N   CA  C   110.461 2.50
+TCR N   CA  HA  108.275 1.50
+TCR CB  CA  C   111.056 2.52
+TCR CB  CA  HA  107.359 1.50
+TCR C   CA  HA  107.848 1.50
+TCR CA  CB  CG  108.216 1.50
+TCR CA  CB  HB1 110.063 1.50
+TCR CA  CB  HB2 110.063 1.50
+TCR CG  CB  HB1 109.928 1.50
+TCR CG  CB  HB2 109.928 1.50
+TCR HB1 CB  HB2 108.319 1.50
+TCR CB  CG  CD2 130.318 1.50
+TCR CB  CG  CD1 122.289 1.50
+TCR CD2 CG  CD1 107.393 1.50
+TCR CG  CD2 CE2 106.668 1.50
+TCR CG  CD2 CE3 134.562 1.50
+TCR CE2 CD2 CE3 118.770 1.50
+TCR CD2 CE2 NE1 107.973 1.50
+TCR CD2 CE2 CZ2 122.007 1.50
+TCR NE1 CE2 CZ2 130.020 1.50
+TCR CD2 CE3 CZ3 118.842 1.50
+TCR CD2 CE3 HE3 120.382 1.50
+TCR CZ3 CE3 HE3 120.776 1.50
+TCR CG  CD1 NE1 109.441 1.50
+TCR CG  CD1 C9  124.986 1.52
+TCR NE1 CD1 C9  125.573 1.77
+TCR CE2 NE1 CD1 108.525 1.50
+TCR CE2 NE1 HNE 126.189 1.50
+TCR CD1 NE1 HNE 125.286 1.50
+TCR CE2 CZ2 CH2 117.424 1.50
+TCR CE2 CZ2 HZ2 121.144 1.50
+TCR CH2 CZ2 HZ2 121.432 1.50
+TCR CE3 CZ3 CH2 121.329 1.50
+TCR CE3 CZ3 HZ3 119.361 1.50
+TCR CH2 CZ3 HZ3 119.311 1.50
+TCR CZ2 CH2 CZ3 121.628 1.50
+TCR CZ2 CH2 HH2 119.132 1.50
+TCR CZ3 CH2 HH2 119.240 1.50
+TCR N   C9  CD1 108.298 1.56
+TCR N   C9  H91 108.973 1.50
+TCR N   C9  H92 108.973 1.50
+TCR CD1 C9  H91 110.051 1.50
+TCR CD1 C9  H92 110.051 1.50
+TCR H91 C9  H92 108.071 1.50
+TCR CA  C   OXT 117.484 2.59
+TCR CA  C   O1  117.484 2.59
+TCR OXT C   O1  125.033 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -155,22 +156,23 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-TCR             sp3_sp3_3           C          CA           N          C9     -60.000    10.0     3
-TCR            sp3_sp3_16         CD1          C9           N          CA     180.000    10.0     3
-TCR              const_29         CZ2         CH2         CZ3         CE3       0.000    10.0     2
-TCR            sp2_sp3_13         OXT           C          CA           N       0.000    10.0     6
-TCR            sp3_sp3_10           C          CA          CB          CG     180.000    10.0     3
-TCR             sp2_sp3_4         CD2          CG          CB          CA     180.000    10.0     6
-TCR       const_sp2_sp2_6         CE2         CD2          CG          CB     180.000     5.0     2
-TCR       const_sp2_sp2_2         NE1         CD1          CG          CB     180.000     5.0     2
-TCR       const_sp2_sp2_9          CG         CD2         CE2         NE1       0.000     5.0     2
-TCR              const_39          CG         CD2         CE3         CZ3     180.000    10.0     2
-TCR              const_13         CD2         CE2         NE1         CD1       0.000    10.0     2
-TCR              const_21         CD2         CE2         CZ2         CH2       0.000    10.0     2
-TCR              const_33         CD2         CE3         CZ3         CH2       0.000    10.0     2
-TCR             sp2_sp3_7          CG         CD1          C9           N       0.000    10.0     6
-TCR              const_17          CG         CD1         NE1         CE2       0.000    10.0     2
-TCR              const_25         CZ3         CH2         CZ2         CE2       0.000    10.0     2
+TCR sp3_sp3_3       C   CA  N   C9  -60.000 10.0 3
+TCR sp3_sp3_16      CD1 C9  N   CA  180.000 10.0 3
+TCR const_29        CZ2 CH2 CZ3 CE3 0.000   10.0 2
+TCR sp2_sp3_13      OXT C   CA  N   0.000   10.0 6
+TCR sp3_sp3_10      C   CA  CB  CG  180.000 10.0 3
+TCR sp2_sp3_4       CD2 CG  CB  CA  180.000 10.0 6
+TCR const_sp2_sp2_6 CE2 CD2 CG  CB  180.000 5.0  2
+TCR const_sp2_sp2_2 NE1 CD1 CG  CB  180.000 5.0  2
+TCR const_sp2_sp2_9 CG  CD2 CE2 NE1 0.000   5.0  2
+TCR const_39        CG  CD2 CE3 CZ3 180.000 10.0 2
+TCR const_13        CD2 CE2 NE1 CD1 0.000   10.0 2
+TCR const_21        CD2 CE2 CZ2 CH2 0.000   10.0 2
+TCR const_33        CD2 CE3 CZ3 CH2 0.000   10.0 2
+TCR sp2_sp3_7       CG  CD1 C9  N   0.000   10.0 6
+TCR const_17        CG  CD1 NE1 CE2 0.000   10.0 2
+TCR const_25        CZ3 CH2 CZ2 CE2 0.000   10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -179,52 +181,64 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-TCR    chir_1    CA    N    C    CB    positive
-TCR    chir_2    N    CA    C9    HN    both
+TCR chir_1 CA N  C  CB positive
+TCR chir_2 N  CA C9 HN both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-TCR    plan-1          C9   0.020
-TCR    plan-1          CB   0.020
-TCR    plan-1         CD1   0.020
-TCR    plan-1         CD2   0.020
-TCR    plan-1         CE2   0.020
-TCR    plan-1         CE3   0.020
-TCR    plan-1          CG   0.020
-TCR    plan-1         CH2   0.020
-TCR    plan-1         CZ2   0.020
-TCR    plan-1         CZ3   0.020
-TCR    plan-1         HE3   0.020
-TCR    plan-1         HH2   0.020
-TCR    plan-1         HNE   0.020
-TCR    plan-1         HZ2   0.020
-TCR    plan-1         HZ3   0.020
-TCR    plan-1         NE1   0.020
-TCR    plan-2           C   0.020
-TCR    plan-2          CA   0.020
-TCR    plan-2          O1   0.020
-TCR    plan-2         OXT   0.020
+TCR plan-1 C9  0.020
+TCR plan-1 CB  0.020
+TCR plan-1 CD1 0.020
+TCR plan-1 CD2 0.020
+TCR plan-1 CE2 0.020
+TCR plan-1 CE3 0.020
+TCR plan-1 CG  0.020
+TCR plan-1 CH2 0.020
+TCR plan-1 CZ2 0.020
+TCR plan-1 CZ3 0.020
+TCR plan-1 HE3 0.020
+TCR plan-1 HH2 0.020
+TCR plan-1 HNE 0.020
+TCR plan-1 HZ2 0.020
+TCR plan-1 HZ3 0.020
+TCR plan-1 NE1 0.020
+TCR plan-2 C   0.020
+TCR plan-2 CA  0.020
+TCR plan-2 O1  0.020
+TCR plan-2 OXT 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-TCR           SMILES              ACDLabs 12.01                                                                                O=C(O)C3NCc1c(c2c(n1)cccc2)C3
-TCR SMILES_CANONICAL               CACTVS 3.370                                                                          OC(=O)[C@@H]1Cc2c(CN1)[nH]c3ccccc23
-TCR           SMILES               CACTVS 3.370                                                                            OC(=O)[CH]1Cc2c(CN1)[nH]c3ccccc23
-TCR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0                                                                      c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O
-TCR           SMILES "OpenEye OEToolkits" 1.7.0                                                                           c1ccc2c(c1)c3c([nH]2)CNC(C3)C(=O)O
-TCR            InChI                InChI  1.03 InChI=1S/C12H12N2O2/c15-12(16)10-5-8-7-3-1-2-4-9(7)14-11(8)6-13-10/h1-4,10,13-14H,5-6H2,(H,15,16)/t10-/m0/s1
-TCR         InChIKey                InChI  1.03                                                                                  FSNCEEGOMTYXKY-JTQLQIEISA-N
+TCR SMILES           ACDLabs              12.01 O=C(O)C3NCc1c(c2c(n1)cccc2)C3
+TCR SMILES_CANONICAL CACTVS               3.370 OC(=O)[C@@H]1Cc2c(CN1)[nH]c3ccccc23
+TCR SMILES           CACTVS               3.370 OC(=O)[CH]1Cc2c(CN1)[nH]c3ccccc23
+TCR SMILES_CANONICAL "OpenEye OEToolkits" 1.7.0 c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O
+TCR SMILES           "OpenEye OEToolkits" 1.7.0 c1ccc2c(c1)c3c([nH]2)CNC(C3)C(=O)O
+TCR InChI            InChI                1.03  InChI=1S/C12H12N2O2/c15-12(16)10-5-8-7-3-1-2-4-9(7)14-11(8)6-13-10/h1-4,10,13-14H,5-6H2,(H,15,16)/t10-/m0/s1
+TCR InChIKey         InChI                1.03  FSNCEEGOMTYXKY-JTQLQIEISA-N
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-TCR acedrg               243         "dictionary generator"                  
-TCR acedrg_database      11          "data source"                           
-TCR rdkit                2017.03.2   "Chemoinformatics tool"
-TCR refmac5              5.8.0238    "optimization tool"                     
+TCR acedrg          243       "dictionary generator"
+TCR acedrg_database 11        "data source"
+TCR rdkit           2017.03.2 "Chemoinformatics tool"
+TCR refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+TCR M-peptide O1 O
+TCR M-peptide C9 CN
+TCR M-peptide HN H

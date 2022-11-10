@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-6UV     6UV      "(2~{R})-2-[[4-[[2,4-bis(azanyl)pteridin-6-yl]methyl-methyl-amino]phenyl]carbonylamino]pentanedioic acid"     NON-POLYMER     53     33     .     
-#
+6UV 6UV "(2~{R})-2-[[4-[[2,4-bis(azanyl)pteridin-6-yl]methyl-methyl-amino]phenyl]carbonylamino]pentanedioic acid" NON-POLYMER 53 33 .
+
 data_comp_6UV
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,59 +19,60 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-6UV     N1      N       NRD6    0       56.164      -26.342     -2.693      
-6UV     C2      C       CR6     0       57.017      -27.324     -3.079      
-6UV     NA2     N       NH2     0       58.298      -26.994     -3.271      
-6UV     N3      N       NRD6    0       56.663      -28.618     -3.283      
-6UV     C4      C       CR6     0       55.387      -28.987     -3.100      
-6UV     NA4     N       NH2     0       55.040      -30.268     -3.303      
-6UV     C4A     C       CR66    0       54.422      -28.009     -2.691      
-6UV     N5      N       NRD6    0       53.106      -28.348     -2.494      
-6UV     C6      C       CR6     0       52.266      -27.402     -2.122      
-6UV     C7      C       CR16    0       52.712      -26.068     -1.923      
-6UV     N8      N       NRD6    0       53.974      -25.710     -2.106      
-6UV     C8A     C       CR66    0       54.854      -26.679     -2.495      
-6UV     C9      C       CH2     0       50.823      -27.791     -1.899      
-6UV     N10     N       N       0       50.622      -28.631     -0.714      
-6UV     CM      C       CH3     0       50.794      -27.989     0.577       
-6UV     C11     C       CR6     0       49.609      -32.734     -0.967      
-6UV     C12     C       CR16    0       50.611      -32.201     -1.775      
-6UV     C13     C       CR16    0       50.941      -30.859     -1.707      
-6UV     C14     C       CR6     0       50.285      -29.987     -0.806      
-6UV     C15     C       CR16    0       49.289      -30.554     0.025       
-6UV     C16     C       CR16    0       48.972      -31.897     -0.052      
-6UV     C       C       C       0       49.259      -34.198     -0.986      
-6UV     O       O       O       0       49.466      -34.878     0.018       
-6UV     N       N       NT1     0       48.816      -34.785     -2.118      
-6UV     CA      C       CH1     0       48.285      -34.106     -3.288      
-6UV     CT      C       C       0       49.282      -34.124     -4.460      
-6UV     O1      O       OC      -1      49.554      -33.032     -4.996      
-6UV     O2      O       O       0       49.748      -35.232     -4.796      
-6UV     CB      C       CH2     0       46.967      -34.798     -3.657      
-6UV     CG      C       CH2     0       46.157      -34.061     -4.711      
-6UV     CD      C       C       0       44.722      -34.538     -4.868      
-6UV     OE1     O       O       0       43.891      -33.748     -5.357      
-6UV     OE2     O       OC      -1      44.436      -35.699     -4.507      
-6UV     H1      H       H       0       58.822      -27.522     -3.740      
-6UV     H2      H       H       0       58.616      -26.250     -2.929      
-6UV     H3      H       H       0       55.636      -30.843     -3.604      
-6UV     H4      H       H       0       54.217      -30.532     -3.136      
-6UV     H5      H       H       0       52.091      -25.409     -1.654      
-6UV     H6      H       H       0       50.494      -28.264     -2.693      
-6UV     H7      H       H       0       50.288      -26.975     -1.800      
-6UV     H8      H       H       0       50.939      -28.660     1.265       
-6UV     H9      H       H       0       49.997      -27.477     0.792       
-6UV     H10     H       H       0       51.559      -27.393     0.551       
-6UV     H11     H       H       0       51.061      -32.756     -2.388      
-6UV     H12     H       H       0       51.607      -30.520     -2.273      
-6UV     H13     H       H       0       48.835      -30.005     0.641       
-6UV     H14     H       H       0       48.304      -32.245     0.512       
-6UV     H15     H       H       0       48.928      -35.633     -2.214      
-6UV     H16     H       H       0       48.082      -33.166     -3.061      
-6UV     H18     H       H       0       46.424      -34.887     -2.846      
-6UV     H19     H       H       0       47.167      -35.700     -3.985      
-6UV     H20     H       H       0       46.606      -34.151     -5.578      
-6UV     H21     H       H       0       46.141      -33.106     -4.486      
+6UV N1  N NRD6 0  56.164 -26.342 -2.693
+6UV C2  C CR6  0  57.017 -27.324 -3.079
+6UV NA2 N NH2  0  58.298 -26.994 -3.271
+6UV N3  N NRD6 0  56.663 -28.618 -3.283
+6UV C4  C CR6  0  55.387 -28.987 -3.100
+6UV NA4 N NH2  0  55.040 -30.268 -3.303
+6UV C4A C CR66 0  54.422 -28.009 -2.691
+6UV N5  N NRD6 0  53.106 -28.348 -2.494
+6UV C6  C CR6  0  52.266 -27.402 -2.122
+6UV C7  C CR16 0  52.712 -26.068 -1.923
+6UV N8  N NRD6 0  53.974 -25.710 -2.106
+6UV C8A C CR66 0  54.854 -26.679 -2.495
+6UV C9  C CH2  0  50.823 -27.791 -1.899
+6UV N10 N N    0  50.622 -28.631 -0.714
+6UV CM  C CH3  0  50.794 -27.989 0.577
+6UV C11 C CR6  0  49.609 -32.734 -0.967
+6UV C12 C CR16 0  50.611 -32.201 -1.775
+6UV C13 C CR16 0  50.941 -30.859 -1.707
+6UV C14 C CR6  0  50.285 -29.987 -0.806
+6UV C15 C CR16 0  49.289 -30.554 0.025
+6UV C16 C CR16 0  48.972 -31.897 -0.052
+6UV C   C C    0  49.259 -34.198 -0.986
+6UV O   O O    0  49.466 -34.878 0.018
+6UV N   N NT1  0  48.816 -34.785 -2.118
+6UV CA  C CH1  0  48.285 -34.106 -3.288
+6UV CT  C C    0  49.282 -34.124 -4.460
+6UV O1  O OC   -1 49.554 -33.032 -4.996
+6UV O2  O O    0  49.748 -35.232 -4.796
+6UV CB  C CH2  0  46.967 -34.798 -3.657
+6UV CG  C CH2  0  46.157 -34.061 -4.711
+6UV CD  C C    0  44.722 -34.538 -4.868
+6UV OE1 O O    0  43.891 -33.748 -5.357
+6UV OE2 O OC   -1 44.436 -35.699 -4.507
+6UV H1  H H    0  58.822 -27.522 -3.740
+6UV H2  H H    0  58.616 -26.250 -2.929
+6UV H3  H H    0  55.636 -30.843 -3.604
+6UV H4  H H    0  54.217 -30.532 -3.136
+6UV H5  H H    0  52.091 -25.409 -1.654
+6UV H6  H H    0  50.494 -28.264 -2.693
+6UV H7  H H    0  50.288 -26.975 -1.800
+6UV H8  H H    0  50.939 -28.660 1.265
+6UV H9  H H    0  49.997 -27.477 0.792
+6UV H10 H H    0  51.559 -27.393 0.551
+6UV H11 H H    0  51.061 -32.756 -2.388
+6UV H12 H H    0  51.607 -30.520 -2.273
+6UV H13 H H    0  48.835 -30.005 0.641
+6UV H14 H H    0  48.304 -32.245 0.512
+6UV H15 H H    0  48.928 -35.633 -2.214
+6UV H16 H H    0  48.082 -33.166 -3.061
+6UV H18 H H    0  46.424 -34.887 -2.846
+6UV H19 H H    0  47.167 -35.700 -3.985
+6UV H20 H H    0  46.606 -34.151 -5.578
+6UV H21 H H    0  46.141 -33.106 -4.486
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -84,61 +83,62 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-6UV          CD         OE1      DOUBLE       n     1.247  0.0187     1.247  0.0187
-6UV          CD         OE2      SINGLE       n     1.247  0.0187     1.247  0.0187
-6UV          CG          CD      SINGLE       n     1.519  0.0109     1.519  0.0109
-6UV          CT          O2      DOUBLE       n     1.247  0.0187     1.247  0.0187
-6UV          CB          CG      SINGLE       n     1.518  0.0153     1.518  0.0153
-6UV          CT          O1      SINGLE       n     1.247  0.0187     1.247  0.0187
-6UV          CA          CT      SINGLE       n     1.539  0.0100     1.539  0.0100
-6UV          CA          CB      SINGLE       n     1.533  0.0100     1.533  0.0100
-6UV           N          CA      SINGLE       n     1.451  0.0100     1.451  0.0100
-6UV          C7          N8      DOUBLE       y     1.319  0.0100     1.319  0.0100
-6UV          N8         C8A      SINGLE       y     1.362  0.0100     1.362  0.0100
-6UV          C6          C7      SINGLE       y     1.410  0.0142     1.410  0.0142
-6UV          N1         C8A      DOUBLE       y     1.364  0.0100     1.364  0.0100
-6UV          N1          C2      SINGLE       y     1.349  0.0118     1.349  0.0118
-6UV         C4A         C8A      SINGLE       y     1.410  0.0100     1.410  0.0100
-6UV          C2         NA2      SINGLE       n     1.335  0.0101     1.335  0.0101
-6UV           C           N      SINGLE       n     1.343  0.0100     1.343  0.0100
-6UV          C2          N3      DOUBLE       y     1.348  0.0113     1.348  0.0113
-6UV          C6          C9      SINGLE       n     1.509  0.0100     1.509  0.0100
-6UV          N5          C6      DOUBLE       y     1.315  0.0100     1.315  0.0100
-6UV          C9         N10      SINGLE       n     1.461  0.0124     1.461  0.0124
-6UV         C4A          N5      SINGLE       y     1.370  0.0100     1.370  0.0100
-6UV          C4         C4A      DOUBLE       y     1.420  0.0200     1.420  0.0200
-6UV          N3          C4      SINGLE       y     1.335  0.0100     1.335  0.0100
-6UV          C4         NA4      SINGLE       n     1.341  0.0100     1.341  0.0100
-6UV         C12         C13      SINGLE       y     1.379  0.0100     1.379  0.0100
-6UV         C11         C12      DOUBLE       y     1.390  0.0100     1.390  0.0100
-6UV         C13         C14      DOUBLE       y     1.409  0.0111     1.409  0.0111
-6UV         C11           C      SINGLE       n     1.502  0.0100     1.502  0.0100
-6UV           C           O      DOUBLE       n     1.230  0.0114     1.230  0.0114
-6UV         C11         C16      SINGLE       y     1.390  0.0100     1.390  0.0100
-6UV         N10         C14      SINGLE       n     1.387  0.0137     1.387  0.0137
-6UV         C14         C15      SINGLE       y     1.409  0.0111     1.409  0.0111
-6UV         N10          CM      SINGLE       n     1.448  0.0100     1.448  0.0100
-6UV         C15         C16      DOUBLE       y     1.379  0.0100     1.379  0.0100
-6UV         NA2          H1      SINGLE       n     1.016  0.0100     0.877  0.0200
-6UV         NA2          H2      SINGLE       n     1.016  0.0100     0.877  0.0200
-6UV         NA4          H3      SINGLE       n     1.016  0.0100     0.880  0.0200
-6UV         NA4          H4      SINGLE       n     1.016  0.0100     0.880  0.0200
-6UV          C7          H5      SINGLE       n     1.082  0.0130     0.944  0.0200
-6UV          C9          H6      SINGLE       n     1.089  0.0100     0.981  0.0101
-6UV          C9          H7      SINGLE       n     1.089  0.0100     0.981  0.0101
-6UV          CM          H8      SINGLE       n     1.089  0.0100     0.971  0.0181
-6UV          CM          H9      SINGLE       n     1.089  0.0100     0.971  0.0181
-6UV          CM         H10      SINGLE       n     1.089  0.0100     0.971  0.0181
-6UV         C12         H11      SINGLE       n     1.082  0.0130     0.941  0.0168
-6UV         C13         H12      SINGLE       n     1.082  0.0130     0.942  0.0198
-6UV         C15         H13      SINGLE       n     1.082  0.0130     0.942  0.0198
-6UV         C16         H14      SINGLE       n     1.082  0.0130     0.941  0.0168
-6UV           N         H15      SINGLE       n     1.016  0.0100     0.859  0.0200
-6UV          CA         H16      SINGLE       n     1.089  0.0100     0.991  0.0200
-6UV          CB         H18      SINGLE       n     1.089  0.0100     0.980  0.0178
-6UV          CB         H19      SINGLE       n     1.089  0.0100     0.980  0.0178
-6UV          CG         H20      SINGLE       n     1.089  0.0100     0.981  0.0185
-6UV          CG         H21      SINGLE       n     1.089  0.0100     0.981  0.0185
+6UV CD  OE1 DOUBLE n 1.247 0.0187 1.247 0.0187
+6UV CD  OE2 SINGLE n 1.247 0.0187 1.247 0.0187
+6UV CG  CD  SINGLE n 1.519 0.0109 1.519 0.0109
+6UV CT  O2  DOUBLE n 1.247 0.0187 1.247 0.0187
+6UV CB  CG  SINGLE n 1.518 0.0153 1.518 0.0153
+6UV CT  O1  SINGLE n 1.247 0.0187 1.247 0.0187
+6UV CA  CT  SINGLE n 1.539 0.0100 1.539 0.0100
+6UV CA  CB  SINGLE n 1.533 0.0100 1.533 0.0100
+6UV N   CA  SINGLE n 1.451 0.0100 1.451 0.0100
+6UV C7  N8  DOUBLE y 1.319 0.0100 1.319 0.0100
+6UV N8  C8A SINGLE y 1.362 0.0100 1.362 0.0100
+6UV C6  C7  SINGLE y 1.410 0.0142 1.410 0.0142
+6UV N1  C8A DOUBLE y 1.364 0.0100 1.364 0.0100
+6UV N1  C2  SINGLE y 1.349 0.0118 1.349 0.0118
+6UV C4A C8A SINGLE y 1.410 0.0100 1.410 0.0100
+6UV C2  NA2 SINGLE n 1.335 0.0101 1.335 0.0101
+6UV C   N   SINGLE n 1.343 0.0100 1.343 0.0100
+6UV C2  N3  DOUBLE y 1.348 0.0113 1.348 0.0113
+6UV C6  C9  SINGLE n 1.509 0.0100 1.509 0.0100
+6UV N5  C6  DOUBLE y 1.315 0.0100 1.315 0.0100
+6UV C9  N10 SINGLE n 1.461 0.0124 1.461 0.0124
+6UV C4A N5  SINGLE y 1.370 0.0100 1.370 0.0100
+6UV C4  C4A DOUBLE y 1.420 0.0200 1.420 0.0200
+6UV N3  C4  SINGLE y 1.335 0.0100 1.335 0.0100
+6UV C4  NA4 SINGLE n 1.341 0.0100 1.341 0.0100
+6UV C12 C13 SINGLE y 1.379 0.0100 1.379 0.0100
+6UV C11 C12 DOUBLE y 1.390 0.0100 1.390 0.0100
+6UV C13 C14 DOUBLE y 1.409 0.0111 1.409 0.0111
+6UV C11 C   SINGLE n 1.502 0.0100 1.502 0.0100
+6UV C   O   DOUBLE n 1.230 0.0114 1.230 0.0114
+6UV C11 C16 SINGLE y 1.390 0.0100 1.390 0.0100
+6UV N10 C14 SINGLE n 1.387 0.0137 1.387 0.0137
+6UV C14 C15 SINGLE y 1.409 0.0111 1.409 0.0111
+6UV N10 CM  SINGLE n 1.448 0.0100 1.448 0.0100
+6UV C15 C16 DOUBLE y 1.379 0.0100 1.379 0.0100
+6UV NA2 H1  SINGLE n 1.016 0.0100 0.877 0.0200
+6UV NA2 H2  SINGLE n 1.016 0.0100 0.877 0.0200
+6UV NA4 H3  SINGLE n 1.016 0.0100 0.880 0.0200
+6UV NA4 H4  SINGLE n 1.016 0.0100 0.880 0.0200
+6UV C7  H5  SINGLE n 1.082 0.0130 0.944 0.0200
+6UV C9  H6  SINGLE n 1.089 0.0100 0.981 0.0101
+6UV C9  H7  SINGLE n 1.089 0.0100 0.981 0.0101
+6UV CM  H8  SINGLE n 1.089 0.0100 0.971 0.0181
+6UV CM  H9  SINGLE n 1.089 0.0100 0.971 0.0181
+6UV CM  H10 SINGLE n 1.089 0.0100 0.971 0.0181
+6UV C12 H11 SINGLE n 1.082 0.0130 0.941 0.0168
+6UV C13 H12 SINGLE n 1.082 0.0130 0.942 0.0198
+6UV C15 H13 SINGLE n 1.082 0.0130 0.942 0.0198
+6UV C16 H14 SINGLE n 1.082 0.0130 0.941 0.0168
+6UV N   H15 SINGLE n 1.016 0.0100 0.859 0.0200
+6UV CA  H16 SINGLE n 1.089 0.0100 0.991 0.0200
+6UV CB  H18 SINGLE n 1.089 0.0100 0.980 0.0178
+6UV CB  H19 SINGLE n 1.089 0.0100 0.980 0.0178
+6UV CG  H20 SINGLE n 1.089 0.0100 0.981 0.0185
+6UV CG  H21 SINGLE n 1.089 0.0100 0.981 0.0185
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -146,97 +146,98 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-6UV         C8A          N1          C2     117.729    1.50
-6UV          N1          C2         NA2     117.847    1.50
-6UV          N1          C2          N3     124.310    1.50
-6UV         NA2          C2          N3     117.843    1.50
-6UV          C2         NA2          H1     119.843    1.50
-6UV          C2         NA2          H2     119.843    1.50
-6UV          H1         NA2          H2     120.314    1.96
-6UV          C2          N3          C4     118.040    1.50
-6UV         C4A          C4          N3     119.854    1.50
-6UV         C4A          C4         NA4     120.810    2.28
-6UV          N3          C4         NA4     119.336    1.50
-6UV          C4         NA4          H3     119.904    1.50
-6UV          C4         NA4          H4     119.904    1.50
-6UV          H3         NA4          H4     120.193    1.50
-6UV         C8A         C4A          N5     120.874    1.50
-6UV         C8A         C4A          C4     119.153    1.50
-6UV          N5         C4A          C4     119.974    1.50
-6UV          C6          N5         C4A     118.081    1.50
-6UV          C7          C6          C9     121.228    1.56
-6UV          C7          C6          N5     121.047    1.50
-6UV          C9          C6          N5     117.726    1.50
-6UV          N8          C7          C6     121.921    1.50
-6UV          N8          C7          H5     118.717    1.50
-6UV          C6          C7          H5     119.362    1.50
-6UV          C7          N8         C8A     117.033    1.50
-6UV          N8         C8A          N1     118.042    1.50
-6UV          N8         C8A         C4A     121.044    1.50
-6UV          N1         C8A         C4A     120.914    1.50
-6UV          C6          C9         N10     112.551    2.18
-6UV          C6          C9          H6     108.707    1.50
-6UV          C6          C9          H7     108.707    1.50
-6UV         N10          C9          H6     108.670    1.50
-6UV         N10          C9          H7     108.670    1.50
-6UV          H6          C9          H7     107.525    1.50
-6UV          C9         N10         C14     121.386    1.50
-6UV          C9         N10          CM     117.461    1.50
-6UV         C14         N10          CM     121.153    1.50
-6UV         N10          CM          H8     109.457    1.50
-6UV         N10          CM          H9     109.457    1.50
-6UV         N10          CM         H10     109.457    1.50
-6UV          H8          CM          H9     109.352    1.56
-6UV          H8          CM         H10     109.352    1.56
-6UV          H9          CM         H10     109.352    1.56
-6UV         C12         C11           C     120.546    2.80
-6UV         C12         C11         C16     118.909    1.50
-6UV           C         C11         C16     120.546    2.80
-6UV         C13         C12         C11     120.730    1.50
-6UV         C13         C12         H11     119.420    1.50
-6UV         C11         C12         H11     119.851    1.50
-6UV         C12         C13         C14     120.965    1.50
-6UV         C12         C13         H12     119.753    1.50
-6UV         C14         C13         H12     119.282    1.50
-6UV         C13         C14         N10     121.149    1.50
-6UV         C13         C14         C15     117.702    1.50
-6UV         N10         C14         C15     121.149    1.50
-6UV         C14         C15         C16     120.965    1.50
-6UV         C14         C15         H13     119.282    1.50
-6UV         C16         C15         H13     119.753    1.50
-6UV         C11         C16         C15     120.730    1.50
-6UV         C11         C16         H14     119.851    1.50
-6UV         C15         C16         H14     119.420    1.50
-6UV           N           C         C11     116.733    1.50
-6UV           N           C           O     121.940    1.56
-6UV         C11           C           O     121.327    1.50
-6UV          CA           N           C     120.424    1.61
-6UV          CA           N         H15     116.854    2.81
-6UV           C           N         H15     119.912    2.29
-6UV          CT          CA          CB     111.638    2.31
-6UV          CT          CA           N     112.134    2.59
-6UV          CT          CA         H16     108.327    1.50
-6UV          CB          CA           N     111.883    2.59
-6UV          CB          CA         H16     108.155    1.50
-6UV           N          CA         H16     108.185    1.50
-6UV          O2          CT          O1     125.502    1.50
-6UV          O2          CT          CA     117.249    1.61
-6UV          O1          CT          CA     117.249    1.61
-6UV          CG          CB          CA     112.938    1.50
-6UV          CG          CB         H18     108.890    1.50
-6UV          CG          CB         H19     108.890    1.50
-6UV          CA          CB         H18     108.606    1.50
-6UV          CA          CB         H19     108.606    1.50
-6UV         H18          CB         H19     107.844    1.50
-6UV          CD          CG          CB     114.629    2.24
-6UV          CD          CG         H20     108.404    1.50
-6UV          CD          CG         H21     108.404    1.50
-6UV          CB          CG         H20     108.906    1.50
-6UV          CB          CG         H21     108.906    1.50
-6UV         H20          CG         H21     107.521    1.50
-6UV         OE1          CD         OE2     123.571    1.50
-6UV         OE1          CD          CG     118.214    1.64
-6UV         OE2          CD          CG     118.214    1.64
+6UV C8A N1  C2  117.729 1.50
+6UV N1  C2  NA2 117.847 1.50
+6UV N1  C2  N3  124.310 1.50
+6UV NA2 C2  N3  117.843 1.50
+6UV C2  NA2 H1  119.843 1.50
+6UV C2  NA2 H2  119.843 1.50
+6UV H1  NA2 H2  120.314 1.96
+6UV C2  N3  C4  118.040 1.50
+6UV C4A C4  N3  119.854 1.50
+6UV C4A C4  NA4 120.810 2.28
+6UV N3  C4  NA4 119.336 1.50
+6UV C4  NA4 H3  119.904 1.50
+6UV C4  NA4 H4  119.904 1.50
+6UV H3  NA4 H4  120.193 1.50
+6UV C8A C4A N5  120.874 1.50
+6UV C8A C4A C4  119.153 1.50
+6UV N5  C4A C4  119.974 1.50
+6UV C6  N5  C4A 118.081 1.50
+6UV C7  C6  C9  121.228 1.56
+6UV C7  C6  N5  121.047 1.50
+6UV C9  C6  N5  117.726 1.50
+6UV N8  C7  C6  121.921 1.50
+6UV N8  C7  H5  118.717 1.50
+6UV C6  C7  H5  119.362 1.50
+6UV C7  N8  C8A 117.033 1.50
+6UV N8  C8A N1  118.042 1.50
+6UV N8  C8A C4A 121.044 1.50
+6UV N1  C8A C4A 120.914 1.50
+6UV C6  C9  N10 112.551 2.18
+6UV C6  C9  H6  108.707 1.50
+6UV C6  C9  H7  108.707 1.50
+6UV N10 C9  H6  108.670 1.50
+6UV N10 C9  H7  108.670 1.50
+6UV H6  C9  H7  107.525 1.50
+6UV C9  N10 C14 121.386 1.50
+6UV C9  N10 CM  117.461 1.50
+6UV C14 N10 CM  121.153 1.50
+6UV N10 CM  H8  109.457 1.50
+6UV N10 CM  H9  109.457 1.50
+6UV N10 CM  H10 109.457 1.50
+6UV H8  CM  H9  109.352 1.56
+6UV H8  CM  H10 109.352 1.56
+6UV H9  CM  H10 109.352 1.56
+6UV C12 C11 C   120.546 2.80
+6UV C12 C11 C16 118.909 1.50
+6UV C   C11 C16 120.546 2.80
+6UV C13 C12 C11 120.730 1.50
+6UV C13 C12 H11 119.420 1.50
+6UV C11 C12 H11 119.851 1.50
+6UV C12 C13 C14 120.965 1.50
+6UV C12 C13 H12 119.753 1.50
+6UV C14 C13 H12 119.282 1.50
+6UV C13 C14 N10 121.149 1.50
+6UV C13 C14 C15 117.702 1.50
+6UV N10 C14 C15 121.149 1.50
+6UV C14 C15 C16 120.965 1.50
+6UV C14 C15 H13 119.282 1.50
+6UV C16 C15 H13 119.753 1.50
+6UV C11 C16 C15 120.730 1.50
+6UV C11 C16 H14 119.851 1.50
+6UV C15 C16 H14 119.420 1.50
+6UV N   C   C11 116.733 1.50
+6UV N   C   O   121.940 1.56
+6UV C11 C   O   121.327 1.50
+6UV CA  N   C   120.424 1.61
+6UV CA  N   H15 116.854 2.81
+6UV C   N   H15 119.912 2.29
+6UV CT  CA  CB  111.638 2.31
+6UV CT  CA  N   112.134 2.59
+6UV CT  CA  H16 108.327 1.50
+6UV CB  CA  N   111.883 2.59
+6UV CB  CA  H16 108.155 1.50
+6UV N   CA  H16 108.185 1.50
+6UV O2  CT  O1  125.502 1.50
+6UV O2  CT  CA  117.249 1.61
+6UV O1  CT  CA  117.249 1.61
+6UV CG  CB  CA  112.938 1.50
+6UV CG  CB  H18 108.890 1.50
+6UV CG  CB  H19 108.890 1.50
+6UV CA  CB  H18 108.606 1.50
+6UV CA  CB  H19 108.606 1.50
+6UV H18 CB  H19 107.844 1.50
+6UV CD  CG  CB  114.629 2.24
+6UV CD  CG  H20 108.404 1.50
+6UV CD  CG  H21 108.404 1.50
+6UV CB  CG  H20 108.906 1.50
+6UV CB  CG  H21 108.906 1.50
+6UV H20 CG  H21 107.521 1.50
+6UV OE1 CD  OE2 123.571 1.50
+6UV OE1 CD  CG  118.214 1.64
+6UV OE2 CD  CG  118.214 1.64
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -247,36 +248,37 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-6UV              const_46         NA2          C2          N1         C8A     180.000    10.0     2
-6UV              const_22          N8         C8A          N1          C2     180.000    10.0     2
-6UV              const_36          N1         C8A          N8          C7     180.000    10.0     2
-6UV            sp2_sp3_29          CM         N10          C9          C6     -60.000    10.0     6
-6UV            sp2_sp3_31          C9         N10          CM          H8       0.000    10.0     6
-6UV            sp2_sp2_17         C13         C14         N10          C9     180.000     5.0     2
-6UV       const_sp2_sp2_3           C         C11         C12         C13     180.000     5.0     2
-6UV              const_51           C         C11         C16         C15     180.000    10.0     2
-6UV            sp2_sp2_13           N           C         C11         C12     180.000     5.0     2
-6UV       const_sp2_sp2_5         C11         C12         C13         C14       0.000     5.0     2
-6UV              const_10         C12         C13         C14         N10     180.000    10.0     2
-6UV              const_15         N10         C14         C15         C16     180.000    10.0     2
-6UV              const_17         C14         C15         C16         C11       0.000    10.0     2
-6UV             sp2_sp2_1          N1          C2         NA2          H1     180.000     5.0     2
-6UV              const_34         NA2          C2          N3          C4     180.000    10.0     2
-6UV             sp2_sp2_7           O           C           N          CA       0.000     5.0     2
-6UV            sp2_sp3_13           C           N          CA          CT       0.000    10.0     6
-6UV             sp2_sp3_7          O2          CT          CA          CB       0.000    10.0     6
-6UV            sp3_sp3_10          CT          CA          CB          CG     180.000    10.0     3
-6UV             sp3_sp3_1          CA          CB          CG          CD     180.000    10.0     3
-6UV             sp2_sp3_2         OE1          CD          CG          CB     120.000    10.0     6
-6UV              const_32         NA4          C4          N3          C2     180.000    10.0     2
-6UV             sp2_sp2_9         C4A          C4         NA4          H3     180.000     5.0     2
-6UV              const_29         NA4          C4         C4A         C8A     180.000    10.0     2
-6UV              const_23          N5         C4A         C8A          N8       0.000    10.0     2
-6UV              const_47         C8A         C4A          N5          C6       0.000    10.0     2
-6UV              const_44          C9          C6          N5         C4A     180.000    10.0     2
-6UV            sp2_sp3_20          C7          C6          C9         N10     -90.000    10.0     6
-6UV              const_41          C9          C6          C7          N8     180.000    10.0     2
-6UV              const_37          C6          C7          N8         C8A       0.000    10.0     2
+6UV const_46        NA2 C2  N1  C8A 180.000 10.0 2
+6UV const_22        N8  C8A N1  C2  180.000 10.0 2
+6UV const_36        N1  C8A N8  C7  180.000 10.0 2
+6UV sp2_sp3_29      CM  N10 C9  C6  -60.000 10.0 6
+6UV sp2_sp3_31      C9  N10 CM  H8  0.000   10.0 6
+6UV sp2_sp2_17      C13 C14 N10 C9  180.000 5.0  2
+6UV const_sp2_sp2_3 C   C11 C12 C13 180.000 5.0  2
+6UV const_51        C   C11 C16 C15 180.000 10.0 2
+6UV sp2_sp2_13      N   C   C11 C12 180.000 5.0  2
+6UV const_sp2_sp2_5 C11 C12 C13 C14 0.000   5.0  2
+6UV const_10        C12 C13 C14 N10 180.000 10.0 2
+6UV const_15        N10 C14 C15 C16 180.000 10.0 2
+6UV const_17        C14 C15 C16 C11 0.000   10.0 2
+6UV sp2_sp2_1       N1  C2  NA2 H1  180.000 5.0  2
+6UV const_34        NA2 C2  N3  C4  180.000 10.0 2
+6UV sp2_sp2_7       O   C   N   CA  0.000   5.0  2
+6UV sp2_sp3_13      C   N   CA  CT  0.000   10.0 6
+6UV sp2_sp3_7       O2  CT  CA  CB  0.000   10.0 6
+6UV sp3_sp3_10      CT  CA  CB  CG  180.000 10.0 3
+6UV sp3_sp3_1       CA  CB  CG  CD  180.000 10.0 3
+6UV sp2_sp3_2       OE1 CD  CG  CB  120.000 10.0 6
+6UV const_32        NA4 C4  N3  C2  180.000 10.0 2
+6UV sp2_sp2_9       C4A C4  NA4 H3  180.000 5.0  2
+6UV const_29        NA4 C4  C4A C8A 180.000 10.0 2
+6UV const_23        N5  C4A C8A N8  0.000   10.0 2
+6UV const_47        C8A C4A N5  C6  0.000   10.0 2
+6UV const_44        C9  C6  N5  C4A 180.000 10.0 2
+6UV sp2_sp3_20      C7  C6  C9  N10 -90.000 10.0 6
+6UV const_41        C9  C6  C7  N8  180.000 10.0 2
+6UV const_37        C6  C7  N8  C8A 0.000   10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -285,80 +287,94 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-6UV    chir_1    CA    N    CT    CB    negative
+6UV chir_1 CA N CT CB negative
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-6UV    plan-1          C2   0.020
-6UV    plan-1          C4   0.020
-6UV    plan-1         C4A   0.020
-6UV    plan-1          C6   0.020
-6UV    plan-1          C7   0.020
-6UV    plan-1         C8A   0.020
-6UV    plan-1          C9   0.020
-6UV    plan-1          H5   0.020
-6UV    plan-1          N1   0.020
-6UV    plan-1          N3   0.020
-6UV    plan-1          N5   0.020
-6UV    plan-1          N8   0.020
-6UV    plan-1         NA2   0.020
-6UV    plan-1         NA4   0.020
-6UV    plan-2           C   0.020
-6UV    plan-2         C11   0.020
-6UV    plan-2         C12   0.020
-6UV    plan-2         C13   0.020
-6UV    plan-2         C14   0.020
-6UV    plan-2         C15   0.020
-6UV    plan-2         C16   0.020
-6UV    plan-2         H11   0.020
-6UV    plan-2         H12   0.020
-6UV    plan-2         H13   0.020
-6UV    plan-2         H14   0.020
-6UV    plan-2         N10   0.020
-6UV    plan-3          C2   0.020
-6UV    plan-3          H1   0.020
-6UV    plan-3          H2   0.020
-6UV    plan-3         NA2   0.020
-6UV    plan-4          C4   0.020
-6UV    plan-4          H3   0.020
-6UV    plan-4          H4   0.020
-6UV    plan-4         NA4   0.020
-6UV    plan-5         C14   0.020
-6UV    plan-5          C9   0.020
-6UV    plan-5          CM   0.020
-6UV    plan-5         N10   0.020
-6UV    plan-6           C   0.020
-6UV    plan-6         C11   0.020
-6UV    plan-6           N   0.020
-6UV    plan-6           O   0.020
-6UV    plan-7          CA   0.020
-6UV    plan-7          CT   0.020
-6UV    plan-7          O1   0.020
-6UV    plan-7          O2   0.020
-6UV    plan-8          CD   0.020
-6UV    plan-8          CG   0.020
-6UV    plan-8         OE1   0.020
-6UV    plan-8         OE2   0.020
+6UV plan-1 C2  0.020
+6UV plan-1 C4  0.020
+6UV plan-1 C4A 0.020
+6UV plan-1 C6  0.020
+6UV plan-1 C7  0.020
+6UV plan-1 C8A 0.020
+6UV plan-1 C9  0.020
+6UV plan-1 H5  0.020
+6UV plan-1 N1  0.020
+6UV plan-1 N3  0.020
+6UV plan-1 N5  0.020
+6UV plan-1 N8  0.020
+6UV plan-1 NA2 0.020
+6UV plan-1 NA4 0.020
+6UV plan-2 C   0.020
+6UV plan-2 C11 0.020
+6UV plan-2 C12 0.020
+6UV plan-2 C13 0.020
+6UV plan-2 C14 0.020
+6UV plan-2 C15 0.020
+6UV plan-2 C16 0.020
+6UV plan-2 H11 0.020
+6UV plan-2 H12 0.020
+6UV plan-2 H13 0.020
+6UV plan-2 H14 0.020
+6UV plan-2 N10 0.020
+6UV plan-3 C2  0.020
+6UV plan-3 H1  0.020
+6UV plan-3 H2  0.020
+6UV plan-3 NA2 0.020
+6UV plan-4 C4  0.020
+6UV plan-4 H3  0.020
+6UV plan-4 H4  0.020
+6UV plan-4 NA4 0.020
+6UV plan-5 C14 0.020
+6UV plan-5 C9  0.020
+6UV plan-5 CM  0.020
+6UV plan-5 N10 0.020
+6UV plan-6 C   0.020
+6UV plan-6 C11 0.020
+6UV plan-6 N   0.020
+6UV plan-6 O   0.020
+6UV plan-7 CA  0.020
+6UV plan-7 CT  0.020
+6UV plan-7 O1  0.020
+6UV plan-7 O2  0.020
+6UV plan-8 CD  0.020
+6UV plan-8 CG  0.020
+6UV plan-8 OE1 0.020
+6UV plan-8 OE2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-6UV            InChI                InChI  1.03 InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m1/s1
-6UV         InChIKey                InChI  1.03                                                                                                                                                                              FBOZXECLQNJBKD-CYBMUJFWSA-N
-6UV SMILES_CANONICAL               CACTVS 3.385                                                                                                                                           CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@H](CCC(O)=O)C(O)=O
-6UV           SMILES               CACTVS 3.385                                                                                                                                            CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O
-6UV SMILES_CANONICAL "OpenEye OEToolkits" 2.0.5                                                                                                                                         CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@H](CCC(=O)O)C(=O)O
-6UV           SMILES "OpenEye OEToolkits" 2.0.5                                                                                                                                             CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O
+6UV InChI            InChI                1.03  InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m1/s1
+6UV InChIKey         InChI                1.03  FBOZXECLQNJBKD-CYBMUJFWSA-N
+6UV SMILES_CANONICAL CACTVS               3.385 CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@H](CCC(O)=O)C(O)=O
+6UV SMILES           CACTVS               3.385 CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[CH](CCC(O)=O)C(O)=O
+6UV SMILES_CANONICAL "OpenEye OEToolkits" 2.0.5 CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)N[C@H](CCC(=O)O)C(=O)O
+6UV SMILES           "OpenEye OEToolkits" 2.0.5 CN(Cc1cnc2c(n1)c(nc(n2)N)N)c3ccc(cc3)C(=O)NC(CCC(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-6UV acedrg               243         "dictionary generator"                  
-6UV acedrg_database      11          "data source"                           
-6UV rdkit                2017.03.2   "Chemoinformatics tool"
-6UV refmac5              5.8.0238    "optimization tool"                     
+6UV acedrg          243       "dictionary generator"
+6UV acedrg_database 11        "data source"
+6UV rdkit           2017.03.2 "Chemoinformatics tool"
+6UV refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+6UV M-peptide O2  O
+6UV M-peptide CT  C
+6UV M-peptide C   CN
+6UV M-peptide O1  OXT
+6UV M-peptide H15 H

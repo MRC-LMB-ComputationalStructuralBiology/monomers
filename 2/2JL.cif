@@ -1,4 +1,3 @@
-#
 data_comp_list
 loop_
 _chem_comp.id
@@ -8,10 +7,9 @@ _chem_comp.group
 _chem_comp.number_atoms_all
 _chem_comp.number_atoms_nh
 _chem_comp.desc_level
-2JL     2JL      "(2S,3R)-1-(phenanthren-2-ylcarbonyl)piperazine-2,3-dicarboxylic acid"     NON-POLYMER     44     28     .     
-#
+2JL 2JL "(2S,3R)-1-(phenanthren-2-ylcarbonyl)piperazine-2,3-dicarboxylic acid" NON-POLYMER 44 28 .
+
 data_comp_2JL
-#
 loop_
 _chem_comp_atom.comp_id
 _chem_comp_atom.atom_id
@@ -21,50 +19,51 @@ _chem_comp_atom.charge
 _chem_comp_atom.x
 _chem_comp_atom.y
 _chem_comp_atom.z
-2JL     N       N       NT1     0       -8.680      15.896      -50.036     
-2JL     CA      C       CH1     0       -8.650      15.976      -51.501     
-2JL     CAF     C       CR16    0       1.553       19.840      -49.776     
-2JL     CAG     C       CR16    0       0.876       21.008      -50.167     
-2JL     CAH     C       CR16    0       -4.716      20.514      -51.666     
-2JL     CAI     C       CR16    0       0.896       18.649      -49.758     
-2JL     CAJ     C       CR16    0       -0.448      20.950      -50.532     
-2JL     CAK     C       CR16    0       -3.403      20.689      -51.324     
-2JL     CAL     C       CR16    0       -1.129      17.298      -50.101     
-2JL     CAM     C       CR16    0       -2.426      17.179      -50.448     
-2JL     CAN     C       CR16    0       -4.558      18.159      -51.224     
-2JL     CAO     C       CH2     0       -7.536      16.606      -49.442     
-2JL     CAP     C       CH2     0       -7.552      18.068      -49.833     
-2JL     CAT     C       C       0       -6.763      19.056      -52.007     
-2JL     CAU     C       CR6     0       -5.325      19.231      -51.605     
-2JL     CAV     C       CR66    0       -0.467      18.563      -50.130     
-2JL     CAW     C       CR66    0       -3.196      18.322      -50.861     
-2JL     CAX     C       CR66    0       -1.172      19.730      -50.528     
-2JL     CAY     C       CR66    0       -2.591      19.605      -50.909     
-2JL     C       C       C       0       -9.772      15.157      -52.134     
-2JL     O       O       O       0       -9.556      14.675      -53.220     
-2JL     NAZ     N       NR6     0       -7.565      18.222      -51.299     
-2JL     OAC     O       O       0       -7.129      19.573      -53.061     
-2JL     CB      C       CH1     0       -8.656      17.472      -51.968     
-2JL     CG      C       C       0       -9.995      18.184      -51.781     
-2JL     OD1     O       O       0       -10.353     18.931      -52.661     
-2JL     OD2     O       OC      -1      -10.617     17.964      -50.769     
-2JL     OXT     O       OC      -1      -10.806     15.038      -51.520     
-2JL     H1      H       H       0       -9.444      16.240      -49.730     
-2JL     H3      H       H       0       -7.791      15.586      -51.806     
-2JL     H4      H       H       0       2.462       19.883      -49.525     
-2JL     H5      H       H       0       1.332       21.834      -50.178     
-2JL     H6      H       H       0       -5.226      21.261      -51.938     
-2JL     H7      H       H       0       1.354       17.867      -49.495     
-2JL     H8      H       H       0       -0.881      21.749      -50.791     
-2JL     H9      H       H       0       -3.036      21.558      -51.368     
-2JL     H10     H       H       0       -0.643      16.527      -49.832     
-2JL     H11     H       H       0       -2.844      16.325      -50.421     
-2JL     H12     H       H       0       -4.948      17.303      -51.184     
-2JL     H13     H       H       0       -6.700      16.191      -49.749     
-2JL     H14     H       H       0       -7.576      16.525      -48.463     
-2JL     H15     H       H       0       -6.769      18.511      -49.453     
-2JL     H16     H       H       0       -8.345      18.495      -49.454     
-2JL     H17     H       H       0       -8.463      17.456      -52.942     
+2JL N   N NT1  0  -8.680  15.896 -50.036
+2JL CA  C CH1  0  -8.650  15.976 -51.501
+2JL CAF C CR16 0  1.553   19.840 -49.776
+2JL CAG C CR16 0  0.876   21.008 -50.167
+2JL CAH C CR16 0  -4.716  20.514 -51.666
+2JL CAI C CR16 0  0.896   18.649 -49.758
+2JL CAJ C CR16 0  -0.448  20.950 -50.532
+2JL CAK C CR16 0  -3.403  20.689 -51.324
+2JL CAL C CR16 0  -1.129  17.298 -50.101
+2JL CAM C CR16 0  -2.426  17.179 -50.448
+2JL CAN C CR16 0  -4.558  18.159 -51.224
+2JL CAO C CH2  0  -7.536  16.606 -49.442
+2JL CAP C CH2  0  -7.552  18.068 -49.833
+2JL CAT C C    0  -6.763  19.056 -52.007
+2JL CAU C CR6  0  -5.325  19.231 -51.605
+2JL CAV C CR66 0  -0.467  18.563 -50.130
+2JL CAW C CR66 0  -3.196  18.322 -50.861
+2JL CAX C CR66 0  -1.172  19.730 -50.528
+2JL CAY C CR66 0  -2.591  19.605 -50.909
+2JL C   C C    0  -9.772  15.157 -52.134
+2JL O   O O    0  -9.556  14.675 -53.220
+2JL NAZ N NR6  0  -7.565  18.222 -51.299
+2JL OAC O O    0  -7.129  19.573 -53.061
+2JL CB  C CH1  0  -8.656  17.472 -51.968
+2JL CG  C C    0  -9.995  18.184 -51.781
+2JL OD1 O O    0  -10.353 18.931 -52.661
+2JL OD2 O OC   -1 -10.617 17.964 -50.769
+2JL OXT O OC   -1 -10.806 15.038 -51.520
+2JL H1  H H    0  -9.444  16.240 -49.730
+2JL H3  H H    0  -7.791  15.586 -51.806
+2JL H4  H H    0  2.462   19.883 -49.525
+2JL H5  H H    0  1.332   21.834 -50.178
+2JL H6  H H    0  -5.226  21.261 -51.938
+2JL H7  H H    0  1.354   17.867 -49.495
+2JL H8  H H    0  -0.881  21.749 -50.791
+2JL H9  H H    0  -3.036  21.558 -51.368
+2JL H10 H H    0  -0.643  16.527 -49.832
+2JL H11 H H    0  -2.844  16.325 -50.421
+2JL H12 H H    0  -4.948  17.303 -51.184
+2JL H13 H H    0  -6.700  16.191 -49.749
+2JL H14 H H    0  -7.576  16.525 -48.463
+2JL H15 H H    0  -6.769  18.511 -49.453
+2JL H16 H H    0  -8.345  18.495 -49.454
+2JL H17 H H    0  -8.463  17.456 -52.942
+
 loop_
 _chem_comp_bond.comp_id
 _chem_comp_bond.atom_id_1
@@ -75,53 +74,54 @@ _chem_comp_bond.value_dist_nucleus
 _chem_comp_bond.value_dist_nucleus_esd
 _chem_comp_bond.value_dist
 _chem_comp_bond.value_dist_esd
-2JL         CAT         OAC      DOUBLE       n     1.228  0.0115     1.228  0.0115
-2JL           C           O      DOUBLE       n     1.207  0.0200     1.207  0.0200
-2JL         CAT         CAU      SINGLE       n     1.501  0.0100     1.501  0.0100
-2JL         CAT         NAZ      SINGLE       n     1.347  0.0100     1.347  0.0100
-2JL         CAH         CAK      SINGLE       y     1.363  0.0106     1.363  0.0106
-2JL         CAH         CAU      DOUBLE       y     1.420  0.0100     1.420  0.0100
-2JL          CA           C      SINGLE       n     1.521  0.0144     1.521  0.0144
-2JL           C         OXT      SINGLE       n     1.207  0.0200     1.207  0.0200
-2JL          CB          CG      SINGLE       n     1.521  0.0144     1.521  0.0144
-2JL          CA          CB      SINGLE       n     1.550  0.0199     1.550  0.0199
-2JL         NAZ          CB      SINGLE       n     1.471  0.0127     1.471  0.0127
-2JL          CG         OD1      DOUBLE       n     1.207  0.0200     1.207  0.0200
-2JL         CAK         CAY      DOUBLE       y     1.409  0.0100     1.409  0.0100
-2JL         CAN         CAU      SINGLE       y     1.369  0.0116     1.369  0.0116
-2JL          CG         OD2      SINGLE       n     1.207  0.0200     1.207  0.0200
-2JL           N          CA      SINGLE       n     1.465  0.0122     1.465  0.0122
-2JL         CAP         NAZ      SINGLE       n     1.466  0.0100     1.466  0.0100
-2JL         CAN         CAW      DOUBLE       y     1.416  0.0107     1.416  0.0107
-2JL         CAW         CAY      SINGLE       y     1.411  0.0100     1.411  0.0100
-2JL         CAX         CAY      SINGLE       y     1.446  0.0185     1.446  0.0185
-2JL         CAJ         CAX      DOUBLE       y     1.411  0.0100     1.411  0.0100
-2JL         CAG         CAJ      SINGLE       y     1.371  0.0100     1.371  0.0100
-2JL         CAM         CAW      SINGLE       y     1.436  0.0100     1.436  0.0100
-2JL         CAV         CAX      SINGLE       y     1.412  0.0100     1.412  0.0100
-2JL         CAF         CAG      DOUBLE       y     1.402  0.0131     1.402  0.0131
-2JL         CAO         CAP      SINGLE       n     1.512  0.0100     1.512  0.0100
-2JL           N         CAO      SINGLE       n     1.470  0.0141     1.470  0.0141
-2JL         CAL         CAM      DOUBLE       y     1.346  0.0100     1.346  0.0100
-2JL         CAL         CAV      SINGLE       y     1.425  0.0100     1.425  0.0100
-2JL         CAI         CAV      DOUBLE       y     1.412  0.0100     1.412  0.0100
-2JL         CAF         CAI      SINGLE       y     1.358  0.0118     1.358  0.0118
-2JL           N          H1      SINGLE       n     1.036  0.0160     0.892  0.0200
-2JL          CA          H3      SINGLE       n     1.089  0.0100     0.992  0.0102
-2JL         CAF          H4      SINGLE       n     1.082  0.0130     0.944  0.0184
-2JL         CAG          H5      SINGLE       n     1.082  0.0130     0.944  0.0184
-2JL         CAH          H6      SINGLE       n     1.082  0.0130     0.944  0.0200
-2JL         CAI          H7      SINGLE       n     1.082  0.0130     0.944  0.0192
-2JL         CAJ          H8      SINGLE       n     1.082  0.0130     0.949  0.0200
-2JL         CAK          H9      SINGLE       n     1.082  0.0130     0.948  0.0200
-2JL         CAL         H10      SINGLE       n     1.082  0.0130     0.951  0.0200
-2JL         CAM         H11      SINGLE       n     1.082  0.0130     0.951  0.0200
-2JL         CAN         H12      SINGLE       n     1.082  0.0130     0.942  0.0163
-2JL         CAO         H13      SINGLE       n     1.089  0.0100     0.983  0.0200
-2JL         CAO         H14      SINGLE       n     1.089  0.0100     0.983  0.0200
-2JL         CAP         H15      SINGLE       n     1.089  0.0100     0.978  0.0161
-2JL         CAP         H16      SINGLE       n     1.089  0.0100     0.978  0.0161
-2JL          CB         H17      SINGLE       n     1.089  0.0100     0.993  0.0147
+2JL CAT OAC DOUBLE n 1.228 0.0115 1.228 0.0115
+2JL C   O   DOUBLE n 1.207 0.0200 1.207 0.0200
+2JL CAT CAU SINGLE n 1.501 0.0100 1.501 0.0100
+2JL CAT NAZ SINGLE n 1.347 0.0100 1.347 0.0100
+2JL CAH CAK SINGLE y 1.363 0.0106 1.363 0.0106
+2JL CAH CAU DOUBLE y 1.420 0.0100 1.420 0.0100
+2JL CA  C   SINGLE n 1.521 0.0144 1.521 0.0144
+2JL C   OXT SINGLE n 1.207 0.0200 1.207 0.0200
+2JL CB  CG  SINGLE n 1.521 0.0144 1.521 0.0144
+2JL CA  CB  SINGLE n 1.550 0.0199 1.550 0.0199
+2JL NAZ CB  SINGLE n 1.471 0.0127 1.471 0.0127
+2JL CG  OD1 DOUBLE n 1.207 0.0200 1.207 0.0200
+2JL CAK CAY DOUBLE y 1.409 0.0100 1.409 0.0100
+2JL CAN CAU SINGLE y 1.369 0.0116 1.369 0.0116
+2JL CG  OD2 SINGLE n 1.207 0.0200 1.207 0.0200
+2JL N   CA  SINGLE n 1.465 0.0122 1.465 0.0122
+2JL CAP NAZ SINGLE n 1.466 0.0100 1.466 0.0100
+2JL CAN CAW DOUBLE y 1.416 0.0107 1.416 0.0107
+2JL CAW CAY SINGLE y 1.411 0.0100 1.411 0.0100
+2JL CAX CAY SINGLE y 1.446 0.0185 1.446 0.0185
+2JL CAJ CAX DOUBLE y 1.411 0.0100 1.411 0.0100
+2JL CAG CAJ SINGLE y 1.371 0.0100 1.371 0.0100
+2JL CAM CAW SINGLE y 1.436 0.0100 1.436 0.0100
+2JL CAV CAX SINGLE y 1.412 0.0100 1.412 0.0100
+2JL CAF CAG DOUBLE y 1.402 0.0131 1.402 0.0131
+2JL CAO CAP SINGLE n 1.512 0.0100 1.512 0.0100
+2JL N   CAO SINGLE n 1.470 0.0141 1.470 0.0141
+2JL CAL CAM DOUBLE y 1.346 0.0100 1.346 0.0100
+2JL CAL CAV SINGLE y 1.425 0.0100 1.425 0.0100
+2JL CAI CAV DOUBLE y 1.412 0.0100 1.412 0.0100
+2JL CAF CAI SINGLE y 1.358 0.0118 1.358 0.0118
+2JL N   H1  SINGLE n 1.036 0.0160 0.892 0.0200
+2JL CA  H3  SINGLE n 1.089 0.0100 0.992 0.0102
+2JL CAF H4  SINGLE n 1.082 0.0130 0.944 0.0184
+2JL CAG H5  SINGLE n 1.082 0.0130 0.944 0.0184
+2JL CAH H6  SINGLE n 1.082 0.0130 0.944 0.0200
+2JL CAI H7  SINGLE n 1.082 0.0130 0.944 0.0192
+2JL CAJ H8  SINGLE n 1.082 0.0130 0.949 0.0200
+2JL CAK H9  SINGLE n 1.082 0.0130 0.948 0.0200
+2JL CAL H10 SINGLE n 1.082 0.0130 0.951 0.0200
+2JL CAM H11 SINGLE n 1.082 0.0130 0.951 0.0200
+2JL CAN H12 SINGLE n 1.082 0.0130 0.942 0.0163
+2JL CAO H13 SINGLE n 1.089 0.0100 0.983 0.0200
+2JL CAO H14 SINGLE n 1.089 0.0100 0.983 0.0200
+2JL CAP H15 SINGLE n 1.089 0.0100 0.978 0.0161
+2JL CAP H16 SINGLE n 1.089 0.0100 0.978 0.0161
+2JL CB  H17 SINGLE n 1.089 0.0100 0.993 0.0147
+
 loop_
 _chem_comp_angle.comp_id
 _chem_comp_angle.atom_id_1
@@ -129,87 +129,88 @@ _chem_comp_angle.atom_id_2
 _chem_comp_angle.atom_id_3
 _chem_comp_angle.value_angle
 _chem_comp_angle.value_angle_esd
-2JL          CA           N         CAO     111.782    3.00
-2JL          CA           N          H1     108.770    3.00
-2JL         CAO           N          H1     109.383    3.00
-2JL           C          CA          CB     111.056    2.52
-2JL           C          CA           N     110.461    2.50
-2JL           C          CA          H3     107.848    1.50
-2JL          CB          CA           N     110.258    1.51
-2JL          CB          CA          H3     107.317    1.50
-2JL           N          CA          H3     108.275    1.50
-2JL         CAG         CAF         CAI     120.304    1.50
-2JL         CAG         CAF          H4     119.820    1.50
-2JL         CAI         CAF          H4     119.876    1.50
-2JL         CAJ         CAG         CAF     120.246    1.50
-2JL         CAJ         CAG          H5     119.857    1.50
-2JL         CAF         CAG          H5     119.897    1.50
-2JL         CAK         CAH         CAU     120.970    1.50
-2JL         CAK         CAH          H6     119.358    1.50
-2JL         CAU         CAH          H6     119.672    1.50
-2JL         CAV         CAI         CAF     120.998    1.50
-2JL         CAV         CAI          H7     119.322    1.50
-2JL         CAF         CAI          H7     119.679    1.50
-2JL         CAX         CAJ         CAG     121.432    1.50
-2JL         CAX         CAJ          H8     119.279    1.50
-2JL         CAG         CAJ          H8     119.288    1.50
-2JL         CAH         CAK         CAY     121.091    1.50
-2JL         CAH         CAK          H9     119.458    1.50
-2JL         CAY         CAK          H9     119.451    1.50
-2JL         CAM         CAL         CAV     120.902    1.50
-2JL         CAM         CAL         H10     119.769    1.50
-2JL         CAV         CAL         H10     119.328    1.50
-2JL         CAW         CAM         CAL     120.902    1.50
-2JL         CAW         CAM         H11     119.328    1.50
-2JL         CAL         CAM         H11     119.769    1.50
-2JL         CAU         CAN         CAW     121.251    1.50
-2JL         CAU         CAN         H12     119.316    1.50
-2JL         CAW         CAN         H12     119.433    1.50
-2JL         CAP         CAO           N     110.456    1.63
-2JL         CAP         CAO         H13     109.542    1.50
-2JL         CAP         CAO         H14     109.542    1.50
-2JL           N         CAO         H13     109.326    1.50
-2JL           N         CAO         H14     109.326    1.50
-2JL         H13         CAO         H14     108.060    1.50
-2JL         NAZ         CAP         CAO     110.222    1.50
-2JL         NAZ         CAP         H15     109.531    1.50
-2JL         NAZ         CAP         H16     109.531    1.50
-2JL         CAO         CAP         H15     109.627    1.50
-2JL         CAO         CAP         H16     109.627    1.50
-2JL         H15         CAP         H16     108.187    1.50
-2JL         OAC         CAT         CAU     119.472    1.50
-2JL         OAC         CAT         NAZ     122.300    1.50
-2JL         CAU         CAT         NAZ     118.228    1.50
-2JL         CAT         CAU         CAH     120.237    1.95
-2JL         CAT         CAU         CAN     120.240    2.75
-2JL         CAH         CAU         CAN     119.523    1.50
-2JL         CAX         CAV         CAL     119.875    1.50
-2JL         CAX         CAV         CAI     119.661    1.50
-2JL         CAL         CAV         CAI     120.464    1.50
-2JL         CAN         CAW         CAY     119.714    1.50
-2JL         CAN         CAW         CAM     120.411    1.50
-2JL         CAY         CAW         CAM     119.875    1.50
-2JL         CAY         CAX         CAJ     123.419    1.50
-2JL         CAY         CAX         CAV     119.223    1.50
-2JL         CAJ         CAX         CAV     117.358    1.50
-2JL         CAK         CAY         CAW     117.451    1.50
-2JL         CAK         CAY         CAX     123.326    1.50
-2JL         CAW         CAY         CAX     119.223    1.50
-2JL           O           C          CA     117.484    2.59
-2JL           O           C         OXT     125.033    1.50
-2JL          CA           C         OXT     117.484    2.59
-2JL         CAT         NAZ          CB     121.885    3.00
-2JL         CAT         NAZ         CAP     123.385    2.77
-2JL          CB         NAZ         CAP     114.730    2.92
-2JL          CG          CB          CA     111.056    2.52
-2JL          CG          CB         NAZ     110.409    2.52
-2JL          CG          CB         H17     107.848    1.50
-2JL          CA          CB         NAZ     110.160    1.50
-2JL          CA          CB         H17     107.317    1.50
-2JL         NAZ          CB         H17     107.528    1.50
-2JL          CB          CG         OD1     117.484    2.59
-2JL          CB          CG         OD2     117.484    2.59
-2JL         OD1          CG         OD2     125.033    1.50
+2JL CA  N   CAO 111.782 3.00
+2JL CA  N   H1  108.770 3.00
+2JL CAO N   H1  109.383 3.00
+2JL C   CA  CB  111.056 2.52
+2JL C   CA  N   110.461 2.50
+2JL C   CA  H3  107.848 1.50
+2JL CB  CA  N   110.258 1.51
+2JL CB  CA  H3  107.317 1.50
+2JL N   CA  H3  108.275 1.50
+2JL CAG CAF CAI 120.304 1.50
+2JL CAG CAF H4  119.820 1.50
+2JL CAI CAF H4  119.876 1.50
+2JL CAJ CAG CAF 120.246 1.50
+2JL CAJ CAG H5  119.857 1.50
+2JL CAF CAG H5  119.897 1.50
+2JL CAK CAH CAU 120.970 1.50
+2JL CAK CAH H6  119.358 1.50
+2JL CAU CAH H6  119.672 1.50
+2JL CAV CAI CAF 120.998 1.50
+2JL CAV CAI H7  119.322 1.50
+2JL CAF CAI H7  119.679 1.50
+2JL CAX CAJ CAG 121.432 1.50
+2JL CAX CAJ H8  119.279 1.50
+2JL CAG CAJ H8  119.288 1.50
+2JL CAH CAK CAY 121.091 1.50
+2JL CAH CAK H9  119.458 1.50
+2JL CAY CAK H9  119.451 1.50
+2JL CAM CAL CAV 120.902 1.50
+2JL CAM CAL H10 119.769 1.50
+2JL CAV CAL H10 119.328 1.50
+2JL CAW CAM CAL 120.902 1.50
+2JL CAW CAM H11 119.328 1.50
+2JL CAL CAM H11 119.769 1.50
+2JL CAU CAN CAW 121.251 1.50
+2JL CAU CAN H12 119.316 1.50
+2JL CAW CAN H12 119.433 1.50
+2JL CAP CAO N   110.456 1.63
+2JL CAP CAO H13 109.542 1.50
+2JL CAP CAO H14 109.542 1.50
+2JL N   CAO H13 109.326 1.50
+2JL N   CAO H14 109.326 1.50
+2JL H13 CAO H14 108.060 1.50
+2JL NAZ CAP CAO 110.222 1.50
+2JL NAZ CAP H15 109.531 1.50
+2JL NAZ CAP H16 109.531 1.50
+2JL CAO CAP H15 109.627 1.50
+2JL CAO CAP H16 109.627 1.50
+2JL H15 CAP H16 108.187 1.50
+2JL OAC CAT CAU 119.472 1.50
+2JL OAC CAT NAZ 122.300 1.50
+2JL CAU CAT NAZ 118.228 1.50
+2JL CAT CAU CAH 120.237 1.95
+2JL CAT CAU CAN 120.240 2.75
+2JL CAH CAU CAN 119.523 1.50
+2JL CAX CAV CAL 119.875 1.50
+2JL CAX CAV CAI 119.661 1.50
+2JL CAL CAV CAI 120.464 1.50
+2JL CAN CAW CAY 119.714 1.50
+2JL CAN CAW CAM 120.411 1.50
+2JL CAY CAW CAM 119.875 1.50
+2JL CAY CAX CAJ 123.419 1.50
+2JL CAY CAX CAV 119.223 1.50
+2JL CAJ CAX CAV 117.358 1.50
+2JL CAK CAY CAW 117.451 1.50
+2JL CAK CAY CAX 123.326 1.50
+2JL CAW CAY CAX 119.223 1.50
+2JL O   C   CA  117.484 2.59
+2JL O   C   OXT 125.033 1.50
+2JL CA  C   OXT 117.484 2.59
+2JL CAT NAZ CB  121.885 3.00
+2JL CAT NAZ CAP 123.385 2.77
+2JL CB  NAZ CAP 114.730 2.92
+2JL CG  CB  CA  111.056 2.52
+2JL CG  CB  NAZ 110.409 2.52
+2JL CG  CB  H17 107.848 1.50
+2JL CA  CB  NAZ 110.160 1.50
+2JL CA  CB  H17 107.317 1.50
+2JL NAZ CB  H17 107.528 1.50
+2JL CB  CG  OD1 117.484 2.59
+2JL CB  CG  OD2 117.484 2.59
+2JL OD1 CG  OD2 125.033 1.50
+
 loop_
 _chem_comp_tor.comp_id
 _chem_comp_tor.id
@@ -220,32 +221,33 @@ _chem_comp_tor.atom_id_4
 _chem_comp_tor.value_angle
 _chem_comp_tor.value_angle_esd
 _chem_comp_tor.period
-2JL             sp3_sp3_3           C          CA           N         CAO     -60.000    10.0     3
-2JL            sp3_sp3_25         CAP         CAO           N          CA     180.000    10.0     3
-2JL              const_38         CAW         CAN         CAU         CAT     180.000    10.0     2
-2JL              const_33         CAU         CAN         CAW         CAY       0.000    10.0     2
-2JL            sp3_sp3_16           N         CAO         CAP         NAZ      60.000    10.0     3
-2JL            sp2_sp3_10         CAT         NAZ         CAP         CAO     180.000    10.0     6
-2JL             sp2_sp2_3         OAC         CAT         CAU         CAH       0.000     5.0     2
-2JL             sp2_sp2_7         OAC         CAT         NAZ          CB       0.000     5.0     2
-2JL              const_13         CAL         CAV         CAX         CAY       0.000    10.0     2
-2JL              const_29         CAN         CAW         CAY         CAK       0.000    10.0     2
-2JL              const_52         CAJ         CAX         CAY         CAK       0.000    10.0     2
-2JL            sp2_sp3_13           O           C          CA          CB       0.000    10.0     6
-2JL            sp3_sp3_11           C          CA          CB          CG     -60.000    10.0     3
-2JL             sp2_sp3_5         CAT         NAZ          CB          CG     -60.000    10.0     6
-2JL            sp2_sp3_19         OD1          CG          CB          CA       0.000    10.0     6
-2JL       const_sp2_sp2_1         CAI         CAF         CAG         CAJ       0.000     5.0     2
-2JL              const_61         CAG         CAF         CAI         CAV       0.000    10.0     2
-2JL       const_sp2_sp2_5         CAF         CAG         CAJ         CAX       0.000     5.0     2
-2JL              const_54         CAK         CAH         CAU         CAT     180.000    10.0     2
-2JL              const_21         CAU         CAH         CAK         CAY       0.000    10.0     2
-2JL              const_17         CAF         CAI         CAV         CAX       0.000    10.0     2
-2JL              const_10         CAG         CAJ         CAX         CAY     180.000    10.0     2
-2JL              const_25         CAH         CAK         CAY         CAW       0.000    10.0     2
-2JL              const_57         CAM         CAL         CAV         CAX       0.000    10.0     2
-2JL              const_41         CAV         CAL         CAM         CAW       0.000    10.0     2
-2JL              const_46         CAL         CAM         CAW         CAN     180.000    10.0     2
+2JL sp3_sp3_3       C   CA  N   CAO -60.000 10.0 3
+2JL sp3_sp3_25      CAP CAO N   CA  180.000 10.0 3
+2JL const_38        CAW CAN CAU CAT 180.000 10.0 2
+2JL const_33        CAU CAN CAW CAY 0.000   10.0 2
+2JL sp3_sp3_16      N   CAO CAP NAZ 60.000  10.0 3
+2JL sp2_sp3_10      CAT NAZ CAP CAO 180.000 10.0 6
+2JL sp2_sp2_3       OAC CAT CAU CAH 0.000   5.0  2
+2JL sp2_sp2_7       OAC CAT NAZ CB  0.000   5.0  2
+2JL const_13        CAL CAV CAX CAY 0.000   10.0 2
+2JL const_29        CAN CAW CAY CAK 0.000   10.0 2
+2JL const_52        CAJ CAX CAY CAK 0.000   10.0 2
+2JL sp2_sp3_13      O   C   CA  CB  0.000   10.0 6
+2JL sp3_sp3_11      C   CA  CB  CG  -60.000 10.0 3
+2JL sp2_sp3_5       CAT NAZ CB  CG  -60.000 10.0 6
+2JL sp2_sp3_19      OD1 CG  CB  CA  0.000   10.0 6
+2JL const_sp2_sp2_1 CAI CAF CAG CAJ 0.000   5.0  2
+2JL const_61        CAG CAF CAI CAV 0.000   10.0 2
+2JL const_sp2_sp2_5 CAF CAG CAJ CAX 0.000   5.0  2
+2JL const_54        CAK CAH CAU CAT 180.000 10.0 2
+2JL const_21        CAU CAH CAK CAY 0.000   10.0 2
+2JL const_17        CAF CAI CAV CAX 0.000   10.0 2
+2JL const_10        CAG CAJ CAX CAY 180.000 10.0 2
+2JL const_25        CAH CAK CAY CAW 0.000   10.0 2
+2JL const_57        CAM CAL CAV CAX 0.000   10.0 2
+2JL const_41        CAV CAL CAM CAW 0.000   10.0 2
+2JL const_46        CAL CAM CAW CAN 180.000 10.0 2
+
 loop_
 _chem_comp_chir.comp_id
 _chem_comp_chir.id
@@ -254,73 +256,84 @@ _chem_comp_chir.atom_id_1
 _chem_comp_chir.atom_id_2
 _chem_comp_chir.atom_id_3
 _chem_comp_chir.volume_sign
-2JL    chir_1    CA    N    C    CB    negative
-2JL    chir_2    CB    NAZ    CG    CA    positive
-2JL    chir_3    N    CA    CAO    H1    both
+2JL chir_1 CA N   C   CB negative
+2JL chir_2 CB NAZ CG  CA positive
+2JL chir_3 N  CA  CAO H1 both
+
 loop_
 _chem_comp_plane_atom.comp_id
 _chem_comp_plane_atom.plane_id
 _chem_comp_plane_atom.atom_id
 _chem_comp_plane_atom.dist_esd
-2JL    plan-1         CAF   0.020
-2JL    plan-1         CAG   0.020
-2JL    plan-1         CAH   0.020
-2JL    plan-1         CAI   0.020
-2JL    plan-1         CAJ   0.020
-2JL    plan-1         CAK   0.020
-2JL    plan-1         CAL   0.020
-2JL    plan-1         CAM   0.020
-2JL    plan-1         CAN   0.020
-2JL    plan-1         CAT   0.020
-2JL    plan-1         CAU   0.020
-2JL    plan-1         CAV   0.020
-2JL    plan-1         CAW   0.020
-2JL    plan-1         CAX   0.020
-2JL    plan-1         CAY   0.020
-2JL    plan-1         H10   0.020
-2JL    plan-1         H11   0.020
-2JL    plan-1         H12   0.020
-2JL    plan-1          H4   0.020
-2JL    plan-1          H5   0.020
-2JL    plan-1          H6   0.020
-2JL    plan-1          H7   0.020
-2JL    plan-1          H8   0.020
-2JL    plan-1          H9   0.020
-2JL    plan-2         CAT   0.020
-2JL    plan-2         CAU   0.020
-2JL    plan-2         NAZ   0.020
-2JL    plan-2         OAC   0.020
-2JL    plan-3           C   0.020
-2JL    plan-3          CA   0.020
-2JL    plan-3           O   0.020
-2JL    plan-3         OXT   0.020
-2JL    plan-4         CAP   0.020
-2JL    plan-4         CAT   0.020
-2JL    plan-4          CB   0.020
-2JL    plan-4         NAZ   0.020
-2JL    plan-5          CB   0.020
-2JL    plan-5          CG   0.020
-2JL    plan-5         OD1   0.020
-2JL    plan-5         OD2   0.020
+2JL plan-1 CAF 0.020
+2JL plan-1 CAG 0.020
+2JL plan-1 CAH 0.020
+2JL plan-1 CAI 0.020
+2JL plan-1 CAJ 0.020
+2JL plan-1 CAK 0.020
+2JL plan-1 CAL 0.020
+2JL plan-1 CAM 0.020
+2JL plan-1 CAN 0.020
+2JL plan-1 CAT 0.020
+2JL plan-1 CAU 0.020
+2JL plan-1 CAV 0.020
+2JL plan-1 CAW 0.020
+2JL plan-1 CAX 0.020
+2JL plan-1 CAY 0.020
+2JL plan-1 H10 0.020
+2JL plan-1 H11 0.020
+2JL plan-1 H12 0.020
+2JL plan-1 H4  0.020
+2JL plan-1 H5  0.020
+2JL plan-1 H6  0.020
+2JL plan-1 H7  0.020
+2JL plan-1 H8  0.020
+2JL plan-1 H9  0.020
+2JL plan-2 CAT 0.020
+2JL plan-2 CAU 0.020
+2JL plan-2 NAZ 0.020
+2JL plan-2 OAC 0.020
+2JL plan-3 C   0.020
+2JL plan-3 CA  0.020
+2JL plan-3 O   0.020
+2JL plan-3 OXT 0.020
+2JL plan-4 CAP 0.020
+2JL plan-4 CAT 0.020
+2JL plan-4 CB  0.020
+2JL plan-4 NAZ 0.020
+2JL plan-5 CB  0.020
+2JL plan-5 CG  0.020
+2JL plan-5 OD1 0.020
+2JL plan-5 OD2 0.020
+
 loop_
 _pdbx_chem_comp_descriptor.comp_id
 _pdbx_chem_comp_descriptor.type
 _pdbx_chem_comp_descriptor.program
 _pdbx_chem_comp_descriptor.program_version
 _pdbx_chem_comp_descriptor.descriptor
-2JL           SMILES              ACDLabs 12.01                                                                                                                      O=C(c3cc2ccc1ccccc1c2cc3)N4C(C(=O)O)C(C(=O)O)NCC4
-2JL            InChI                InChI  1.03 InChI=1S/C21H18N2O5/c24-19(23-10-9-22-17(20(25)26)18(23)21(27)28)14-7-8-16-13(11-14)6-5-12-3-1-2-4-15(12)16/h1-8,11,17-18,22H,9-10H2,(H,25,26)(H,27,28)/t17-,18+/m1/s1
-2JL         InChIKey                InChI  1.03                                                                                                                                            IWWXIZOMXGOTPP-MSOLQXFVSA-N
-2JL SMILES_CANONICAL               CACTVS 3.385                                                                                                            OC(=O)[C@@H]1NCCN([C@@H]1C(O)=O)C(=O)c2ccc3c(ccc4ccccc34)c2
-2JL           SMILES               CACTVS 3.385                                                                                                                OC(=O)[CH]1NCCN([CH]1C(O)=O)C(=O)c2ccc3c(ccc4ccccc34)c2
-2JL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6                                                                                                            c1ccc2c(c1)ccc3c2ccc(c3)C(=O)N4CCN[C@H]([C@H]4C(=O)O)C(=O)O
-2JL           SMILES "OpenEye OEToolkits" 1.7.6                                                                                                                    c1ccc2c(c1)ccc3c2ccc(c3)C(=O)N4CCNC(C4C(=O)O)C(=O)O
+2JL SMILES           ACDLabs              12.01 O=C(c3cc2ccc1ccccc1c2cc3)N4C(C(=O)O)C(C(=O)O)NCC4
+2JL InChI            InChI                1.03  InChI=1S/C21H18N2O5/c24-19(23-10-9-22-17(20(25)26)18(23)21(27)28)14-7-8-16-13(11-14)6-5-12-3-1-2-4-15(12)16/h1-8,11,17-18,22H,9-10H2,(H,25,26)(H,27,28)/t17-,18+/m1/s1
+2JL InChIKey         InChI                1.03  IWWXIZOMXGOTPP-MSOLQXFVSA-N
+2JL SMILES_CANONICAL CACTVS               3.385 OC(=O)[C@@H]1NCCN([C@@H]1C(O)=O)C(=O)c2ccc3c(ccc4ccccc34)c2
+2JL SMILES           CACTVS               3.385 OC(=O)[CH]1NCCN([CH]1C(O)=O)C(=O)c2ccc3c(ccc4ccccc34)c2
+2JL SMILES_CANONICAL "OpenEye OEToolkits" 1.7.6 c1ccc2c(c1)ccc3c2ccc(c3)C(=O)N4CCN[C@H]([C@H]4C(=O)O)C(=O)O
+2JL SMILES           "OpenEye OEToolkits" 1.7.6 c1ccc2c(c1)ccc3c2ccc(c3)C(=O)N4CCNC(C4C(=O)O)C(=O)O
+
 loop_
 _pdbx_chem_comp_description_generator.comp_id
 _pdbx_chem_comp_description_generator.program_name
 _pdbx_chem_comp_description_generator.program_version
 _pdbx_chem_comp_description_generator.descriptor
-2JL acedrg               243         "dictionary generator"                  
-2JL acedrg_database      11          "data source"                           
-2JL rdkit                2017.03.2   "Chemoinformatics tool"
-2JL refmac5              5.8.0238    "optimization tool"                     
+2JL acedrg          243       "dictionary generator"
+2JL acedrg_database 11        "data source"
+2JL rdkit           2017.03.2 "Chemoinformatics tool"
+2JL refmac5         5.8.0238  "optimization tool"
+
+loop_
+_chem_comp_alias.comp_id
+_chem_comp_alias.group
+_chem_comp_alias.atom_id
+_chem_comp_alias.atom_id_standard
+2JL M-peptide CAO CN
+2JL M-peptide H1  H

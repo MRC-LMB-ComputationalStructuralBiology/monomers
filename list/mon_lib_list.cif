@@ -102,7 +102,7 @@ _chem_comp.desc_level
 02H 02H '(2S,3S,5S)-2,5-diamino-6-phenyl-1-[4-(pyridin-3-yl)phenyl]hexan-3-ol' NON-POLYMER 56 27 .
 02I 02I '(6S,7S,8S,10R)-4-amino-8-hydroxy-7,8,9,10-tetrahydro-6H-7,10-epoxyazepino[1,2-e]purin-6-yl dihydrogen phosphate' DNA 32 22 .
 02J 02J '5-methyl-1,2-oxazole-3-carboxylic acid' NON-POLYMER 13 9 .
-02K 02K '1-aminocyclohexanecarboxylic acid' NON-POLYMER 23 10 .
+02K 02K '1-aminocyclohexanecarboxylic acid' peptide 23 10 .
 02L 02L N-(2,2-dimethylpropyl)-L-asparagine peptide 32 14 .
 02N 02N 1-(4-methylphenyl)methanamine NON-POLYMER 20 9 .
 02O 02O 3-(3-tert-butyl-1,2,4-oxadiazol-5-yl)-L-alanine peptide 30 15 .
@@ -151,7 +151,7 @@ _chem_comp.desc_level
 03V 03V naphthalen-2-ol NON-POLYMER 19 11 .
 03W 03W (2R)-propane-1,1,2,3-tetrol NON-POLYMER 15 7 .
 03X 03X 'N-{4-[(6,7-dimethoxyquinolin-4-yl)oxy]-3-fluorophenyl}-1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazole-4-carboxamide' NON-POLYMER 64 39 .
-03Y 03Y 2-methyl-L-cysteine NON-POLYMER 17 8 .
+03Y 03Y 2-methyl-L-cysteine peptide 17 8 .
 03Z 03Z '4-[(4-amino-5-benzoyl-1,3-thiazol-2-yl)amino]benzenesulfonamide' NON-POLYMER 39 25 .
 040 040 '4-(2-methylphenyl)-2,4-dioxobutanoic acid' NON-POLYMER 24 15 .
 041 041 2-(3-FLUORO-4-HYDROXYPHENYL)-7-VINYL-1,3-BENZOXAZOL-5-OL NON-POLYMER 30 20 .
@@ -203,7 +203,7 @@ _chem_comp.desc_level
 05L 05L 'heptyl 1-seleno-beta-D-glucopyranoside' NON-POLYMER 45 19 .
 05M 05M '2,3-dimethoxy-5-methyl-6-[10-(triphenyl-$l^{5}-phosphanyl)decyl]cyclohexa-2,5-diene-1,4-dione' NON-POLYMER 87 42 .
 05N 05N (3R,4R)-4-hydroxy-3-methyl-L-proline NON-POLYMER 20 10 .
-05O 05O '(2S)-2-amino-3-[4-(trifluoromethoxy)phenyl]propanal' NON-POLYMER 27 17 .
+05O 05O '(2S)-2-amino-3-[4-(trifluoromethoxy)phenyl]propanal' peptide 27 17 .
 05R 05R '2-(3,4-dichlorophenyl)ethanoic acid' NON-POLYMER 17 12 .
 05S 05S '(6S)-6,15,15,18-tetramethyl-17-oxo-2,3,4,5,6,7,14,15,16,17-decahydro-1H-8,12-(metheno)[1,4,9]triazacyclotetradecino[9,8-a]indole-9-carboxamide' NON-POLYMER 62 30 .
 05T 05T '1-[4-(aminomethyl)cyclohexyl]guanidine' NON-POLYMER 32 12 .
@@ -526,7 +526,7 @@ _chem_comp.desc_level
 0H8 0H8 'N-(3-carboxypropanoyl)-L-valyl-N-[(1R)-5-amino-1-phosphonopentyl]-L-prolinamide' NON-POLYMER 64 32 .
 0H9 0H9 '2-[(4-methoxybenzyl)amino]ethanesulfonic acid' NON-POLYMER 31 16 .
 0HD 0HD 1-(1H-indazol-5-yl)-3-(2-phenylethyl)urea NON-POLYMER 37 21 .
-0HG 0HG 'N-[(4S)-4-ammonio-4-carboxybutanoyl]' NON-POLYMER 49 28 .
+0HG 0HG 'N-[(4S)-4-ammonio-4-carboxybutanoyl]' peptide 49 28 .
 0HH 0HH L-gamma-glutamyl-S-nonyl-L-cysteinylglycine peptide 63 29 .
 0HK 0HK '(1R,2R,4S,5S,7S)-7-{[hydroxy(dithiophen-2-yl)acetyl]oxy}-9,9-dimethyl-3-oxa-9-azoniatricyclo[3.3.1.0~2,4~]nonane' NON-POLYMER 48 26 .
 0HL 0HL '4-{[(3R)-3-{[(7-methoxynaphthalen-2-yl)sulfonyl](thiophen-3-ylmethyl)amino}-2-oxopyrrolidin-1-yl]methyl}thiophene-2-carboximidamide' NON-POLYMER 63 37 .
@@ -1433,7 +1433,7 @@ _chem_comp.desc_level
 1A9 1A9 '3-cyclohexyl-N-{3-(2-oxo-2,3-dihydro-1,3-thiazol-4-yl)-5-[(thiophen-2-ylsulfonyl)amino]phenyl}propanamide' NON-POLYMER 57 32 .
 1AA 1AA "5'-O-[({[(2-{[(2-AMINOPHENYL)CARBONYL]OXY}ETHYL)OXY]PHOSPHINATO}OXY)PHOSPHINATO]CYTIDINE" NON-POLYMER 59 37 .
 1AB 1AB 1,4-DIDEOXY-1,4-IMINO-D-ARABINITOL NON-POLYMER 20 9 .
-1AC 1AC '1-AMINOCYCLOPROPANECARBOXYLIC ACID' NON-POLYMER 13 7 .
+1AC 1AC '1-AMINOCYCLOPROPANECARBOXYLIC ACID' peptide 13 7 .
 1AD 1AD '(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-PROP-1-YN-1-YLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE' NON-POLYMER 46 19 .
 1AE 1AE '(1Z)-2-HYDROXY-3-OXOHEX-1-EN-1-YL DIHYDROGEN PHOSPHATE' NON-POLYMER 22 13 .
 1AF 1AF '2,4-BIS{[4-(N-CYCLOPENTYLDIAMINOMETHYL)PHENYL]}FURAN' NON-POLYMER 69 33 .
@@ -2610,7 +2610,7 @@ _chem_comp.desc_level
 2AR 2AR "2'-DEOXYARISTEROMYCIN-5'-PHOSPHATE" DNA 36 22 .
 2AS 2AS (2S,3S)-3-methyl-asparticacid peptide 18 10 .
 2AT 2AT '.' RNA 42 25 .
-2AU 2AU "2'-AMINOURIDINE" NON-POLYMER 33 21 .
+2AU 2AU "2'-AMINOURIDINE" RNA 33 21 .
 2AW 2AW '6-({(2R,3S)-3-carboxy-2-methyl-3-[(3-oxopropyl)amino]-2-sulfinopropyl}oxy)-6-oxohexanoic acid' NON-POLYMER 46 25 .
 2AX 2AX '(3R,4R,5aR,11aR)-3-methyl-6,11-dioxo-2,3,4,5,5a,6,11,11a-octahydrothiepino[3,2-g]isoquinoline-4-carboxylic acid' NON-POLYMER 35 21 .
 2AY 2AY 'N-{3-[3-tert-butyl-2-methoxy-5-(2-oxo-1,2-dihydropyridin-3-yl)phenyl]-1-oxo-1H-isochromen-7-yl}methanesulfonamide' NON-POLYMER 61 35 .
@@ -2992,7 +2992,7 @@ _chem_comp.desc_level
 2MI 2MI 2-METHYL-1H-INDOLE NON-POLYMER 19 10 .
 2MJ 2MJ (2R,3S)-3-amino-5-methylhexane-1,2-diol NON-POLYMER 27 10 .
 2MK 2MK 'N-[(benzyloxy)carbonyl]-L-leucyl-N-[(2R,3S)-1,2-dihydroxy-5-methylhexan-3-yl]-L-leucinamide' NON-POLYMER 81 36 .
-2ML 2ML 2-METHYLLEUCINE NON-POLYMER 25 10 .
+2ML 2ML 2-METHYLLEUCINE peptide 25 10 .
 2MM 2MM N,N-dimethyl-L-methionine NON-POLYMER 25 11 .
 2MN 2MN 2-(2-METHYL-5-NITRO-1H-IMIDAZOL-1-YL)ETHANOL NON-POLYMER 21 12 .
 2MO 2MO 'MOLYBDENUM (IV)OXIDE' NON-POLYMER 3 3 .
@@ -3557,7 +3557,7 @@ _chem_comp.desc_level
 33O 33O 3,6,9,12,15,18,21,24,27,30,33,36-dodecaoxaoctatriacontane-1,38-diol NON-POLYMER 94 40 .
 33P 33P '{3-[(3-HYDROXY-2-METHYL-5-PHOSPHONOOXYMETHYL-PYRIDIN-4-YLMETHYL)-AMINO]-2-METHYL-PROPYL}-PHOSPHONIC ACID' NON-POLYMER 40 24 .
 33R 33R '(2E)-2-{2-[4-(3,4-dichlorophenyl)-1,3-thiazol-2-yl]hydrazinylidene}-3-(2-nitrophenyl)propanoicacid' NON-POLYMER 40 29 .
-33S 33S 3-iodo-L-phenylalanine NON-POLYMER 23 13 .
+33S 33S 3-iodo-L-phenylalanine peptide 23 13 .
 33T 33T '3-chloro-4-({(2R)-4-[4-fluoro-2-(trifluoromethyl)phenyl]-2-methylpiperazin-1-yl}sulfonyl)benzamide' NON-POLYMER 49 31 .
 33U 33U beta-phenyl-D-phenylalanyl-N-(4-carb NON-POLYMER 66 35 .
 33V 33V '(3R,6R,7S)-7-[(2R,3aR)-hexahydropyrazolo[1,5-c][1,3]thiazin-2-yl]-6-(hydroxymethyl)-1,4-thiazepane-3-carboxylic acid' NON-POLYMER 43 21 .
@@ -5007,7 +5007,7 @@ _chem_comp.desc_level
 4BC 4BC 4-(1,3-BENZODIOXOL-5-YL)-5-(5-ETHYL-2,4-DIHYDROXYPHENYL)-2H-PYRAZOLE-3-CARBOXYLICACID NON-POLYMER 42 27 .
 4BD 4BD "5'-O-[(S)-{difluoro[(S)-hydroxy(phosphonooxy)phosphoryl]methyl}(hydroxy)phosphoryl]thymidine" NON-POLYMER 44 31 .
 4BE 4BE "4-bromo-N'-[(1E)-(3,5-dibromo-2,4-dihydroxyphenyl)methylidene]benzohydrazide" NON-POLYMER 31 22 .
-4BF 4BF 4-BROMO-L-PHENYLALANINE NON-POLYMER 23 13 .
+4BF 4BF 4-BROMO-L-PHENYLALANINE peptide 23 13 .
 4BG 4BG 'N-[4-(benzyloxy)phenyl]glycinamide' NON-POLYMER 36 19 .
 4BH 4BH 4-CHLORO-6-(4-PIPERAZIN-1-YL-1H-PYRAZOL-5-YL)BENZENE-1,3-DIOL NON-POLYMER 35 20 .
 4BI 4BI '(2S)-tert-butoxy[4-(4-chlorophenyl)-2-methylquinolin-3-yl]ethanoic acid' NON-POLYMER 48 27 .
@@ -6592,7 +6592,7 @@ _chem_comp.desc_level
 5O8 5O8 '~{N}-[[(2~{R},3~{S},4~{R},5~{R})-5-[2-azanyl-6-oxidanylidene-7-(phenylmethyl)-1~{H}-purin-7-ium-9-yl]-3,4-bis(oxidanyl)oxolan-2-yl]methyl]-1,1,1-tris(fluoranyl)methanesulfonamide' NON-POLYMER 54 34 .
 5OA 5OA '5-[2,3-bis(chloranyl)phenyl]-2-[(3~{R},5~{S})-3,5-dimethylpiperazin-1-yl]pyrimidin-4-amine' NON-POLYMER 42 23 .
 5OB 5OB 5-METHOXYBENZIMIDAZOLE NON-POLYMER 19 11 .
-5OC 5OC "2'-deoxy-5-hydroxycytidine 5'-(dihydrogen phosphate)" NON-POLYMER 33 21 .
+5OC 5OC "2'-deoxy-5-hydroxycytidine 5'-(dihydrogen phosphate)" RNA 33 21 .
 5OD 5OD '6-(4-azanyl-4-methyl-piperidin-1-yl)-3-[2,3-bis(chloranyl)phenyl]pyrazin-2-amine' NON-POLYMER 42 23 .
 5OE 5OE '~{N}-[2-methoxy-4-(1-methylpyrazol-4-yl)phenyl]-8-(1-methylpyrazol-4-yl)pyrido[3,4-d]pyrimidin-2-amine' NON-POLYMER 51 31 .
 5OF 5OF '2-(4-oxidanylidene-3~{H}-phthalazin-1-yl)ethanoic acid' NON-POLYMER 22 15 .
@@ -7359,12 +7359,12 @@ _chem_comp.desc_level
 6CU 6CU '(6aS,9R,10R,10aS)-9-ethyl-10-isocyano-6,6,9-trimethyl-5,6,6a,7,8,9,10,10a-octahydroindeno[2,1-b]indole' NON-POLYMER 49 23 .
 6CV 6CV 3-bromo-L-phenylalanine peptide 23 13 .
 6CW 6CW 6-CHLORO-L-TRYPTOPHAN peptide 27 16 .
-6CX 6CX "5'-{[(3S)-3-amino-3-carboxypropyl][(1H-imidazol-4-yl)methyl]amino}-5'-deoxyadenosine" NON-POLYMER 57 32 .
+6CX 6CX "5'-{[(3S)-3-amino-3-carboxypropyl][(1H-imidazol-4-yl)methyl]amino}-5'-deoxyadenosine" peptide 57 32 .
 6CY 6CY '5-{4-[3-(4-acetylpiperazine-1-carbonyl)phenyl]quinazolin-6-yl}-2-methoxypyridine-3-carbonitrile' NON-POLYMER 61 37 .
 6CZ 6CZ "5'-{[(3S)-3-amino-3-carboxypropyl](3-ethoxy-2,3-dioxopropyl)amino}-5'-deoxyadenosine" NON-POLYMER 61 34 .
 6D0 6D0 "5'-{[(3S)-3-amino-3-carboxypropyl](3-bromo-2-oxopropyl)amino}-5'-deoxyadenosine" NON-POLYMER 55 31 .
 6D1 6D1 "5'-{[(3S)-3-amino-3-carboxypropyl](2-chloroethyl)amino}-5'-deoxyadenosine" NON-POLYMER 53 29 .
-6D2 6D2 "5'-{[(3S)-3-amino-3-carboxypropyl](3-carbamimidamidopropyl)amino}-5'-deoxyadenosine" NON-POLYMER 64 33 .
+6D2 6D2 "5'-{[(3S)-3-amino-3-carboxypropyl](3-carbamimidamidopropyl)amino}-5'-deoxyadenosine" peptide 64 33 .
 6D3 6D3 '' NON-POLYMER 73 40 .
 6D4 6D4 "5'-{[(3S)-3-amino-3-carboxypropyl][2-(triazan-1-yl)ethyl]amino}-5'-deoxyadenosine" NON-POLYMER 59 31 .
 6D5 6D5 '3-(3-{[(3S)-3-amino-3-carboxypropyl]({[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl})amino}propyl)-1-triaza-1,2-dien-2-ium-1-id-1-yl' NON-POLYMER 58 32 .
@@ -7382,7 +7382,7 @@ _chem_comp.desc_level
 6DJ 6DJ '(3Z,6S,7R,8S,8aS)-3-(butylimino)hexahydro[1,3]thiazolo[3,4-a]pyridine-6,7,8-triol' NON-POLYMER 37 17 .
 6DK 6DK '9,9,9-tris(fluoranyl)-8,8-bis(oxidanyl)-~{N}-phenyl-nonanamide' NON-POLYMER 42 22 .
 6DL 6DL '5-(5-Bromo-2,4-dihydroxy-phenyl)-4-(2-fluoro-phenyl)-2,4-dihydro-[1,2,4]triazol-3-one' NON-POLYMER 31 22 .
-6DN 6DN '(2~{S})-2-azanyl-6-(2-hydroxy-2-oxoethylamino)hexanoic acid' NON-POLYMER 29 14 .
+6DN 6DN '(2~{S})-2-azanyl-6-(2-hydroxy-2-oxoethylamino)hexanoic acid' peptide 29 14 .
 6DO 6DO '' NON-POLYMER 116 52 .
 6DP 6DP '~{N}-(1~{H}-indazol-4-yl)methanesulfonamide' NON-POLYMER 23 14 .
 6DQ 6DQ 2-pyridin-3-yl-1,3-benzothiazin-4-one NON-POLYMER 25 17 .
@@ -8064,7 +8064,7 @@ _chem_comp.desc_level
 6Y8 6Y8 '(6~{R})-5-(5-fluoranyl-2-methoxy-pyrimidin-4-yl)-2-(3-methylsulfonylphenyl)-6-propan-2-yl-4,6-dihydropyrrolo[3,4-c]pyrazole' NON-POLYMER 52 30 .
 6Y9 6Y9 '(2~{R})-1,2-dimethylpyrrolidine-2-carboxylic acid' NON-POLYMER 22 10 .
 6YA 6YA '3-[[5-chloranyl-1-(3-methylsulfonylpropyl)indol-2-yl]methyl]-1-[2,2,2-tris(fluoranyl)ethyl]imidazo[4,5-c]pyridin-2-one' NON-POLYMER 53 33 .
-6YB 6YB '(2~{S})-4-[[(2~{R},3~{S},4~{R},5~{R})-5-(6-aminopurin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methyl-(2-carbamimidamidoethyl)amino]-2-azanyl-butanoicacid' NON-POLYMER 61 32 .
+6YB 6YB '(2~{S})-4-[[(2~{R},3~{S},4~{R},5~{R})-5-(6-aminopurin-9-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methyl-(2-carbamimidamidoethyl)amino]-2-azanyl-butanoicacid' peptide 61 32 .
 6YC 6YC '~{N}-(2-methoxyethyl)-~{N}-[[(3~{S})-1-prop-2-ynylpiperidin-3-yl]methyl]naphthalene-2-carboxamide' NON-POLYMER 55 27 .
 6YD 6YD '~{N}-(3-aminocarbonyl-1-methyl-pyrazol-4-yl)-6-(1-methylpyrazol-4-yl)pyridine-2-carboxamide' NON-POLYMER 39 24 .
 6YE 6YE '~{N}-(3-aminocarbonyl-1-methyl-pyrazol-4-yl)-5-piperazin-1-yl-pyrazolo[1,5-a]pyrimidine-3-carboxamide' NON-POLYMER 46 27 .
@@ -11071,7 +11071,7 @@ _chem_comp.desc_level
 9TO 9TO 'N-(4-methoxyphenyl)-4-[3-(pyridin-3-yl)-1H-pyrazol-4-yl]pyrimidin-2-amine' NON-POLYMER 42 26 .
 9TP 9TP '' NON-POLYMER 78 46 .
 9TQ 9TQ '5-[2-[(2~{S},3~{R},4~{S},5~{R},6~{R})-6-(hydroxymethyl)-3,4,5-tris(oxidanyl)oxan-2-yl]oxyethylcarbamothioylamino]-2-(6-oxidanyl-3-oxidanylidene-4,9-dihydroxanthen-9-yl)benzoic acid' NON-POLYMER 72 43 .
-9TR 9TR 'N6-{[(3-azidophenyl)methoxy]carbonyl}-L-lysine' NON-POLYMER 42 23 .
+9TR 9TR 'N6-{[(3-azidophenyl)methoxy]carbonyl}-L-lysine' peptide 42 23 .
 9TS 9TS '(2E)-pent-2-enoic acid' NON-POLYMER 14 7 .
 9TT 9TT 1-methylindol-5-amine NON-POLYMER 21 11 .
 9TU 9TU 'N6-[({3-[3-(trifluoromethyl)-3H-diaziren-3-yl]phenyl}methoxy)carbonyl]-L-lysine' peptide 46 27 .
@@ -11771,7 +11771,7 @@ AG5 AG5 N-(2-phenylethyl)-2-(phenylsulfanyl)-5-sulfamoylpyridine-3-carboxamide N
 AG6 AG6 'N-[(benzyloxy)carbonyl]-L-alpha-glutamyl-N-[(1S)-4-oxo-4-phenyl-1-propylbut-2-en-1-yl]-L-phenylalaninamide' NON-POLYMER 83 45 .
 AG7 AG7 '4-{2-(4-FLUORO-BENZYL)-6-METHYL-5-[(5-METHYL-ISOXAZOLE-3-CARBONYL)-AMINO]-4-OXO-HEPTANOYLAMINO}-5-(2-OXO-PYRROLIDIN-3-YL)-PENTANOICACIDETHYLESTER' NON-POLYMER 84 43 .
 AG8 AG8 'S-[(2E,6E,10E)-14-(dimethylamino)-3,7,11-trimethyltetradeca-2,6,10-trien-1-yl] trihydrogen thiodiphosphate' NON-POLYMER 63 29 .
-AG9 AG9 AGMATIDINE NON-POLYMER 57 29 .
+AG9 AG9 AGMATIDINE RNA 57 29 .
 AGA AGA '(1S)-2-{[{[(2S)-2,3-DIHYDROXYPROPYL]OXY}(HYDROXY)PHOSPHORYL]OXY}-1-[(PENTANOYLOXY)METHYL]ETHYL OCTANOATE' NON-POLYMER 66 30 .
 AGB AGB "N-(1-ADAMANTYL)-N'-(4-GUANIDINOBENZYL)UREA" NON-POLYMER 53 25 .
 AGD AGD 3-(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)-D-alanine NON-POLYMER 27 17 .
@@ -11835,7 +11835,7 @@ AI7 AI7 3-(heptyloxy)benzoicacid NON-POLYMER 36 17 .
 AI8 AI8 'Ceftaroline, bound form' NON-POLYMER 61 39 .
 AI9 AI9 '[(2R,3S,4S,5E)-5-[[5-azanyl-2,4-bis(oxidanylidene)-1H-pyrimidin-6-yl]imino]-2,3,4-tris(oxidanyl)pentyl] dihydrogen phosphate' NON-POLYMER 36 23 .
 AIA AIA '(1S)-2-[(2S,5R)-2-(AMINOMETHYL)-5-ETHYNYLPYRROLIDIN-1-YL]-1-CYCLOPENTYL-2-OXOETHANAMINE' NON-POLYMER 43 18 .
-AIB AIB ALPHA-AMINOISOBUTYRICACID NON-POLYMER 16 7 .
+AIB AIB ALPHA-AMINOISOBUTYRICACID peptide 16 7 .
 AIC AIC '(2S,5R,6R)-6-{[(2R)-2-AMINO-2-PHENYLETHANOYL]AMINO}-3,3-DIMETHYL-7-OXO-4-THIA-1-AZABICYCLO[3.2.0]HEPTANE-2-CARBOXYLIC ACID' NON-POLYMER 43 24 .
 AIF AIF '[(2R,3S,4R,5E)-5-[(5-amino-2,6-dioxo-3H-pyrimidin-4-yl)imino]-2,3,4-trihydroxy-pentyl] dihydrogen phosphate' NON-POLYMER 36 23 .
 AIG AIG 4-AMINO-2-HEXYLOXY-6-HYDROXYMETHYL-T pyranose 43 18 .
@@ -11948,7 +11948,7 @@ ALU ALU 'METHYL HYDROGEN (S)-ACETYLPHOSPHONATE' NON-POLYMER 14 8 .
 ALV ALV (2S)-2-aminopropane-1,1-diol NON-POLYMER 15 6 .
 ALW ALW 'METHYL 5-(PROPYLSULFINYL)-1H-BENZIMIDAZOL-2-YLCARBAMATE' NON-POLYMER 34 19 .
 ALX ALX 2-O-phosphono-alpha-D-glucopyranose NON-POLYMER 27 16 .
-ALY ALY N(6)-ACETYLLYSINE NON-POLYMER 29 13 .
+ALY ALY N(6)-ACETYLLYSINE peptide 29 13 .
 ALZ ALZ '.' NON-POLYMER 50 24 .
 AM0 AM0 'N-phenyl-1-{4-[(3,4,5-trimethoxyphenyl)amino]-1,3,5-triazin-2-yl}-1H-benzimidazol-2-amine' NON-POLYMER 58 35 .
 AM1 AM1 (S)-2-AMINO-3-(3-CARBOXY-5-METHYLISOXAZOL-4-YL)PROPIONICACID NON-POLYMER 25 15 .
@@ -12170,7 +12170,7 @@ AS7 AS7 N4-(4-cyanobenzyl)-L-asparagine peptide 31 18 .
 AS8 AS8 ACETYLSULFATE NON-POLYMER 11 8 .
 AS9 AS9 'N-[HYDROXY(METHYL)PHOSPHORYL]-L-ASPA' NON-POLYMER 21 13 .
 ASA ASA 'ASPARTIC ALDEHYDE' NON-POLYMER 14 8 .
-ASB ASB ASPARTICACID-4-CARBOXYMETHYLESTER NON-POLYMER 21 13 .
+ASB ASB ASPARTICACID-4-CARBOXYMETHYLESTER peptide 21 13 .
 ASC ASC ASCORBICACID NON-POLYMER 20 12 .
 ASD ASD 4-ANDROSTENE-3-17-DIONE NON-POLYMER 47 21 .
 ASE ASE N-ACETYLSEROTONIN NON-POLYMER 30 16 .
@@ -12199,7 +12199,7 @@ AT3 AT3 ACETYLTHIOCHOLINE NON-POLYMER 26 10 .
 AT4 AT4 "5'-O-[(R)-HYDROXY(THIOPHOSPHONOOXY)PHOSPHORYL]ADENOSINE" NON-POLYMER 40 27 .
 AT5 AT5 '3-[(2S,4S,5R)-5,6-DICHLORO-2,4-DIMETHYL-1-OXOHEXYL]-4-HYDROXY-5,6-DIMETHOXY-2(1H)-PYRIDINONE' NON-POLYMER 44 23 .
 AT6 AT6 'N-[2-(6-AMINO-4-METHYLPYRIDIN-2-YL)ETHYL]-4-CYANOBENZAMIDE' NON-POLYMER 37 21 .
-AT7 AT7 "2'-deoxy-2'-triaza-1,2-dien-2-ium-1-yl-adenine-5'-monophosphate" NON-POLYMER 37 25 .
+AT7 AT7 "2'-deoxy-2'-triaza-1,2-dien-2-ium-1-yl-adenine-5'-monophosphate" RNA 37 25 .
 AT8 AT8 '2-[5,6-bis(chloranyl)-1~{H}-benzimidazol-2-yl]-~{N}-[[3-chloranyl-4-(2-ethylphenyl)phenyl]methyl]ethanamine' NON-POLYMER 52 30 .
 ATA ATA 'ATRAZINE GLUTATHIONE CONJUGATE' NON-POLYMER 62 33 .
 ATC ATC 9-(N,N-DIMETHYLGLYCYLAMIDO)-6-DEOXY-6-DEMETHYL-TETRACYCLINE NON-POLYMER 68 37 .
@@ -14142,7 +14142,7 @@ CGR CGR 'CYCLIC GUANOSINE DIPHOSPHATE-RIBOSE' NON-POLYMER 57 36 .
 CGS CGS 'N-HYDROXY-2(R)-[[(4-METHOXYPHENYL)SULFONYL](3-PICOLYL)AMINO]-3-METHYLBUTANAMIDE HYDROCHLORIDE' NON-POLYMER 50 27 .
 CGT CGT CARBA-GLUCOTROPAEOLIN NON-POLYMER 46 26 .
 CGU CGU 'GAMMA-CARBOXY-GLUTAMIC ACID' NON-POLYMER 20 13 .
-CGV CGV 'S-[(R)-carboxy(hydroxy)methyl]-L-cysteine' NON-POLYMER 20 12 .
+CGV CGV 'S-[(R)-carboxy(hydroxy)methyl]-L-cysteine' peptide 20 12 .
 CGW CGW '(2~{S})-2-azanyl-3-[2,4-bis(oxidanylidene)-5,7-dihydrothieno[3,4-d]pyrimidin-1-yl]propanoic acid' NON-POLYMER 28 17 .
 CGX CGX N4-cyclopropyl-5-ethyl-6-piperidin-1-yl-pyrimidine-2,4-diamine NON-POLYMER 42 19 .
 CGY CGY '(1R)-1,4-anhydro-2-deoxy-1-[2,6-diamino-5-(dihydroxyamino)pyridin-3-yl]-5-O-phosphono-D-erythro-pentitol' NON-POLYMER 38 23 .
@@ -15301,7 +15301,7 @@ DGJ DGJ (2R,3S,4R,5S)-2-(hydroxymethyl)piperidine-3,4,5-triol NON-POLYMER 24 11 
 DGL DGL D-GLUTAMICACID peptide 18 10 .
 DGN DGN D-GLUTAMINE peptide 20 10 .
 DGO DGO D-glucal NON-POLYMER 20 10 .
-DGP DGP "2'-DEOXYGUANOSINE-5'-MONOPHOSPHATE" NON-POLYMER 35 23 .
+DGP DGP "2'-DEOXYGUANOSINE-5'-MONOPHOSPHATE" RNA 35 23 .
 DGR DGR '(E)-4-(2-Nicotinoylhydrazinyl)-4-oxobut-2-enoic acid' NON-POLYMER 25 17 .
 DGS DGS 3,6-ANHYDRO-D-GALACTOSE-2-SULFATE pyranose 25 15 .
 DGT DGT "2'-DEOXYGUANOSINE-5'-TRIPHOSPHATE" NON-POLYMER 43 31 .
@@ -15371,7 +15371,7 @@ DIQ DIQ '2-METHYL-DECAHYDRO-ISOQUINOLINE-3-CARBOXYLIC ACID' NON-POLYMER 32 14 .
 DIR DIR '3-{[(E)-AMINO(HYDROXYIMINO)METHYL]AMINO}ALANINE' peptide 21 11 .
 DIT DIT DITERCALINIUM NON-POLYMER 104 54 .
 DIU DIU '2-HYDROXY-3,5-DIIODO-BENZOIC ACID' NON-POLYMER 15 12 .
-DIV DIV D-ISOVALINE NON-POLYMER 19 8 .
+DIV DIV D-ISOVALINE peptide 19 8 .
 DIW DIW '1-(3-sulfopropyl)-4-[(1E,3E)-3-(1,3,3-trimethyl-1,3-dihydro-2H-indol-2-ylidene)prop-1-en-1-yl]quinolinium' NON-POLYMER 61 32 .
 DIX DIX METHYL(CYCLOPENTYL-PROPYL)AMINE NON-POLYMER 29 10 .
 DIY DIY 5-BUTYLPIPERIDINE NON-POLYMER 29 10 .
@@ -15489,10 +15489,10 @@ DMD DMD 5,6-DIMETHYLBENZIMIDAZOLE NON-POLYMER 21 11 .
 DME DME DECAMETHONIUMION NON-POLYMER 56 18 .
 DMF DMF DIMETHYLFORMAMIDE NON-POLYMER 12 5 .
 DMG DMG N,N-DIMETHYLGLYCINE NON-POLYMER 15 7 .
-DMH DMH N4,N4-DIMETHYL-ASPARAGINE NON-POLYMER 23 11 .
+DMH DMH N4,N4-DIMETHYL-ASPARAGINE peptide 23 11 .
 DMI DMI '2,3-DIMETHYLIMIDAZOLIUM ION' NON-POLYMER 16 7 .
 DMJ DMJ 1-DEOXYMANNOJIRIMYCIN NON-POLYMER 24 11 .
-DMK DMK 3,3-DIMETHYLASPARTICACID NON-POLYMER 21 11 .
+DMK DMK 3,3-DIMETHYLASPARTICACID peptide 21 11 .
 DMM DMM "3'-DESAMINO-3'-(2-METHOXY-4-MORPHOLINYL)-DOXORUBICIN" NON-POLYMER 83 46 .
 DMN DMN DIMETHYLAMINE NON-POLYMER 10 3 .
 DMO DMO ALPHA-DIFLUOROMETHYLORNITHINE NON-POLYMER 24 12 .
@@ -15933,7 +15933,7 @@ DZZ DZZ 'O,O-DIMETHYL HYDROGEN THIOPHOSPHATE' NON-POLYMER 13 7 .
 E E '.' DNA 71 45 .
 E01 E01 "(1r,1'S,3'S,5'S,7'S)-spiro[cyclohexane-1,2'-tricyclo[3.3.1.1~3,7~]decan]-4-amine" NON-POLYMER 42 16 .
 E02 E02 5-(1H-benzimidazol-1-ylacetyl)-2-chlorobenzenesulfonamide NON-POLYMER 35 23 .
-E03 E03 6-FLUORO-D-TRYPTOPHAN NON-POLYMER 27 16 .
+E03 E03 6-FLUORO-D-TRYPTOPHAN peptide 27 16 .
 E04 E04 "3-CARBOXAMIDO-1,3,5(10)-ESTRATRIEN-17(R)-SPIRO-2'(5',5'-DIMETHYL-6'OXO)TETRAHYDROPYRAN" NON-POLYMER 62 29 .
 E05 E05 '(1~{R},3~{S},5~{Z})-4-methylidene-5-[(~{E})-3-[3-(6-methyl-6-oxidanyl-heptyl)phenyl]pent-2-enylidene]cyclohexane-1,3-diol' NON-POLYMER 67 29 .
 E06 E06 '[(1R)-1-[(2,6-difluorophenyl)carbonylamino]ethyl]-trihydroxy-boron' NON-POLYMER 28 17 .
@@ -16412,7 +16412,7 @@ EFB EFB oligomycinB NON-POLYMER 129 57 .
 EFC EFC S,S-(2-FLUOROETHYL)THIOCYSTEINE peptide 21 11 .
 EFD EFD avacopan NON-POLYMER 77 42 .
 EFF EFF '1-[(2S)-2-methyl-3-sulfanyl-propanoyl]piperidine-4-carboxamide' NON-POLYMER 33 15 .
-EFG EFG '1-(2-deoxy-2-fluoro-5-O-phosphono-beta-D-arabinofuranosyl)-1H-imidazo[2,1-b]purin-4(5H)-one' NON-POLYMER 37 26 .
+EFG EFG '1-(2-deoxy-2-fluoro-5-O-phosphono-beta-D-arabinofuranosyl)-1H-imidazo[2,1-b]purin-4(5H)-one' RNA 37 26 .
 EFL EFL 5-bromo-N-(2,2-dimethyl-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-7-yl)-2-methoxybenzene-1-sulfonamide NON-POLYMER 43 26 .
 EFM EFM 5-bromo-2-methoxy-N-(6-methoxy-2,2-dimethyl-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-7-yl)benzene-1-sulfonamide NON-POLYMER 47 28 .
 EFN EFN 5-bromo-N-(6-hydroxy-2,2-dimethyl-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-7-yl)-2-methoxybenzene-1-sulfonamide NON-POLYMER 44 27 .
@@ -16794,7 +16794,7 @@ ES8 ES8 '[(9H-fluoren-9-ylideneamino)oxy]acetic acid' NON-POLYMER 29 19 .
 ES9 ES9 5-chloro-1H-benzimidazole NON-POLYMER 15 10 .
 ESA ESA 'ETHANESULFONIC ACID' NON-POLYMER 12 6 .
 ESB ESB '3-[(3E)-3-(ETHYLIMINO)-4-HYDROXY-6-OXOCYCLOHEXA-1,4-DIEN-1-YL]-L-ALANINE' NON-POLYMER 31 17 .
-ESC ESC 2-AMINO-4-ETHYLSULFANYLBUTYRICACID NON-POLYMER 23 10 .
+ESC ESC 2-AMINO-4-ETHYLSULFANYLBUTYRICACID peptide 23 10 .
 ESD ESD '(2-AMINO-ETHYLSULFANYL)-ACETIC ACID' NON-POLYMER 16 8 .
 ESE ESE (1S,3aR,5R,7aS)-5-(4-hydroxyphenyl)-7a-methyloctahydro-1H-inden-1-ol NON-POLYMER 40 18 .
 ESF ESF '(2S)-2-hydroxy-3-methyl-N-[(2S)-1-[[(5S)-3-methyl-4-oxo-2,5-dihydro-1H-3-benzazepin-5-yl]amino]-1-oxopropan-2-yl]butanamide' NON-POLYMER 53 26 .
@@ -16915,7 +16915,7 @@ EW2 EW2 '2-chloranyl-3-[4-(imidazol-1-ylmethyl)-1-phenyl-pyrazol-3-yl]-1~{H}-ind
 EW3 EW3 '[(2~{R},3~{R},4~{R},5~{R})-5-[2,4-bis(oxidanylidene)-1,3-diazinan-1-yl]-4-fluoranyl-3-oxidanyl-oxolan-2-yl]methyl dihydrogen phosphate' NON-POLYMER 33 21 .
 EW4 EW4 '[3-(4-amino-6-methyl-1H-imidazo[4,5-c]pyridin-1-yl)-3-methylazetidin-1-yl][1-({1-[(1R)-cyclohept-2-en-1-yl]piperidin-4-yl}methyl)-1H-pyrrol-3-yl]methanone' NON-POLYMER 76 37 .
 EW5 EW5 '1-phenyl-3-pyridin-4-yl-~{N}-(pyridin-4-ylmethyl)pyrazole-4-carboxamide' NON-POLYMER 44 27 .
-EW6 EW6 alpha-methyl-L-serine NON-POLYMER 17 8 .
+EW6 EW6 alpha-methyl-L-serine peptide 17 8 .
 EW8 EW8 'nonadecanoic acid' NON-POLYMER 58 21 .
 EW9 EW9 '(1S,2S)-2-{[N-({[7-(tert-butoxycarbonyl)-7-azaspiro[3.5]nonan-2-yl]oxy}carbonyl)-L-leucyl]amino}-1-hydroxy-3-[(3S)-2-oxopyrrolidin-3-yl]propane-1-sulfonic acid' NON-POLYMER 88 42 .
 EWA EWA '[(1S)-1-{[(2,6-DIMETHOXYPHENYL)CARBONYL]AMINO}ETHYL]BORONIC ACID' NON-POLYMER 34 18 .
@@ -17730,7 +17730,7 @@ FLP FLP FLURBIPROFEN NON-POLYMER 30 18 .
 FLQ FLQ "N-[6-(ACETYLAMINO)HEXYL]-3',6'-DIHYDROXY-3-OXO-3H-SPIRO[2-BENZOFURAN-1,9'-XANTHENE]-6-CARBOXAMIDE" NON-POLYMER 66 38 .
 FLR FLR (2R)-2-(3-fluoro-4-phenyl-phenyl)propanoicacid NON-POLYMER 30 18 .
 FLS FLS '6-(2,4-difluorophenoxy)-8-methyl-2-{[(1R)-1-methyl-2-(methylsulfonyl)ethyl]amino}pyrido[2,3-d]pyrimidin-7(8H)-one' NON-POLYMER 47 29 .
-FLT FLT FLUOROMALONYLTYROSINE NON-POLYMER 31 21 .
+FLT FLT FLUOROMALONYLTYROSINE peptide 31 21 .
 FLU FLU '2-(6-HYDROXY-3-OXO-3H-XANTHEN-9-YL)-BENZOIC ACID' NON-POLYMER 36 25 .
 FLV FLV FLAVIOLIN NON-POLYMER 21 15 .
 FLW FLW '6-(2,4-difluorophenoxy)-2-{[3-hydroxy-1-(2-hydroxyethyl)propyl]amino}-8-methylpyrido[2,3-d]pyrimidin-7(8H)-one' NON-POLYMER 49 29 .
@@ -19685,7 +19685,7 @@ HCO HCO '2-ACETYL-PROTOPORPHYRIN IX' NON-POLYMER 76 44 .
 HCP HCP '1-[((1E)-{3-HYDROXY-2-METHYL-5-[(PHOSPHONOOXY)METHYL]PYRIDIN-4-YL}METHYLENE)AMINO]CYCLOPENTYLPHOSPHONIC ACID' NON-POLYMER 41 25 .
 HCQ HCQ '[5-(aminomethyl)-1-benzothiophen-2-yl]-tris(oxidanyl)boranuide' NON-POLYMER 26 15 .
 HCR HCR 7-HYDROXYCHOLESTEROL NON-POLYMER 75 29 .
-HCS HCS 2-AMINO-4-MERCAPTO-BUTYRICACID NON-POLYMER 17 8 .
+HCS HCS 2-AMINO-4-MERCAPTO-BUTYRICACID peptide 17 8 .
 HCT HCT '(2R)-butane-1,2,4-tricarboxylic acid' NON-POLYMER 20 13 .
 HCU HCU '[(2R)-4-(2-azanyl-6-oxidanylidene-3H-purin-9-yl)-2-(hydroxymethyl)butyl] dihydrogen phosphate' NON-POLYMER 36 22 .
 HCV HCV 'N-[(5S)-5-amino-5-carboxypentanoyl]-L-homocysteyl-D-valine' NON-POLYMER 51 25 .
@@ -23499,7 +23499,7 @@ LPC LPC '[1-MYRISTOYL-GLYCEROL-3-YL]PHOSPHONYLCHOLINE' NON-POLYMER 77 31 .
 LPD LPD L-PROLINAMIDE NON-POLYMER 18 8 .
 LPE LPE 1-O-OCTADECYL-SN-GLYCERO-3-PHOSPHOCHOLINE NON-POLYMER 90 34 .
 LPF LPF '1,1,1-TRIFLUORO-3-((N-ACETYL)-L-LEUCYLAMIDO)-4-PHENYL-BUTAN-2-ONE(N-ACETYL-L-LEUCYL-L-PHENYLALANYL TRIFLUOROMETHYL KETONE)' NON-POLYMER 49 26 .
-LPG LPG L-PROPARGYLGLYCINE NON-POLYMER 12 7 .
+LPG LPG L-PROPARGYLGLYCINE peptide 12 7 .
 LPH LPH L-Propargylglycine NON-POLYMER 15 8 .
 LPI LPI 'N-({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)-L-methionine' NON-POLYMER 42 24 .
 LPK LPK L-psicose NON-POLYMER 24 12 .
@@ -24066,7 +24066,7 @@ MA2 MA2 4-S-methyl-4-thio-alpha-D-glucopyran pyranose 27 13 .
 MA3 MA3 O1-METHYL-4-DEOXY-4-THIO-ALPHA-D-GLU pyranose 27 13 .
 MA4 MA4 CYCLOHEXYL-HEXYL-BETA-D-MALTOSIDE NON-POLYMER 79 35 .
 MA5 MA5 2-(6-(2-CYCLOHEXYLETHOXY)-TETRAHYDRO-4,5-DIHYDROXY-2(HYDROXYMETHYL)-2H-PYRAN-3-YLOXY)-TETRAHYDRO-6(HYDROXYMETHYL)-2H-PYRAN-3,4,5-TRIOL NON-POLYMER 67 31 .
-MA6 MA6 "6N-DIMETHYLADENOSINE-5'-MONOPHOSHATE" NON-POLYMER 41 25 .
+MA6 MA6 "6N-DIMETHYLADENOSINE-5'-MONOPHOSHATE" RNA 41 25 .
 MA7 MA7 "1N-METHYLADENOSINE-5'-MONOPHOSPHATE" DNA 38 23 .
 MA8 MA8 '(1S,2R,3R,4S,5S,6R)-2,3,4,5,6-pentahydroxycyclohexyl 2-(L-cysteinylamino)-2-deoxy-alpha-D-glucopyranoside' pyranose 58 29 .
 MA9 MA9 '(3R,4R)-1-{6-[3-(METHYLSULFONYL)PHENYL]PYRIMIDIN-4-YL}-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-3-AMINE' NON-POLYMER 53 32 .
@@ -24133,7 +24133,7 @@ MC9 MC9 CALCIPOTRIOL NON-POLYMER 70 30 .
 MCA MCA 'METHYLMALONYL-COENZYME A' NON-POLYMER 90 55 .
 MCD MCD 'METHYLMALONYL(CARBADETHIA)-COENZYME A' NON-POLYMER 92 55 .
 MCF MCF '(8R)-3-(5-S-methyl-5-thio-beta-D-ribofuranosyl)-3,6,7,8-tetrahydroimidazo[4,5-d][1,3]diazepin-8-ol' NON-POLYMER 39 21 .
-MCG MCG (S)-(ALPHA)-METHYL-4-CARBOXYPHENYLGLYCINE NON-POLYMER 26 15 .
+MCG MCG (S)-(ALPHA)-METHYL-4-CARBOXYPHENYLGLYCINE peptide 26 15 .
 MCH MCH trichloromethane NON-POLYMER 5 4 .
 MCI MCI '(2-MERCAPTOMETHYL-4-PHENYL-BUTYRYLIMINO)-(5-TETRAZOL-1-YLMETHYL-THIOPHEN-2-YL)-ACETIC ACID' NON-POLYMER 47 29 .
 MCJ MCJ 'N-[(2,3-dihydroxyphenyl)carbonyl]-O-[(2S)-2-{[(2,3-dihydroxyphenyl)carbonyl]amino}-3-({N-[(2,3-dihydroxyphenyl)carbonyl]-L-seryl}oxy)propanoyl]-D-serine' NON-POLYMER 77 49 .
@@ -24266,7 +24266,7 @@ MGJ MGJ N-(carboxymethyl)-N-(3-phenylpropyl)glycyl-N-methyl-L-histidinamide NON-
 MGK MGK 'methyl N-(carboxymethyl)-N-(3-phenylpropyl)glycyl-L-histidinate' NON-POLYMER 54 29 .
 MGL MGL O1-METHYL-GLUCOSE pyranose 27 13 .
 MGM MGM '2-[METHYL-(5-GERANYL-4-METHYL-PENT-3-ENYL)-AMINO]-ETHYL-DIPHOSPHATE' NON-POLYMER 63 29 .
-MGN MGN 2-METHYL-GLUTAMINE NON-POLYMER 23 11 .
+MGN MGN 2-METHYL-GLUTAMINE peptide 23 11 .
 MGO MGO '[[(2R,3S,4R,5R)-5-(6-AMINO-3-METHYL-4-OXO-5H-IMIDAZO[4,5-C]PYRIDIN-1-YL)-3,4-DIHYDROXY-OXOLAN-2-YL]METHOXY-HYDROXY-PHOSPHORYL] PHOSPHONO HYDROGEN PHOSPHATE' NON-POLYMER 49 33 .
 MGP MGP "7-METHYL-GUANOSINE-5'-TRIPHOSPHATE" NON-POLYMER 48 33 .
 MGQ MGQ '7-BENZYL GUANINE MONOPHOSPHATE' NON-POLYMER 50 31 .
@@ -24633,7 +24633,7 @@ MSJ MSJ 'N-{5-[(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)methoxy]-2-methylpentan-
 MSL MSL (2S)-2-AMINO-4-(METHYLSULFONIMIDOYL)BUTANOICACID peptide 23 11 .
 MSM MSM (METHYLSULFANYL)METHANE NON-POLYMER 9 3 .
 MSN MSN (1R,2R,3R,4S,5R)-4-AMINO-5-(METHYLTHIO)CYCLOPENTANE-1,2,3-TRIOL NON-POLYMER 24 11 .
-MSO MSO SELENOMETHIONINESELENOXIDE NON-POLYMER 21 10 .
+MSO MSO SELENOMETHIONINESELENOXIDE peptide 21 10 .
 MSP MSP "5'-O-[(L-METHIONYL)-SULPHAMOYL]ADENO" NON-POLYMER 56 31 .
 MSQ MSQ '4-[3-METHYLSULFANYLANILINO]-6,7-DIMETHOXYQUINAZOLINE' NON-POLYMER 40 23 .
 MSR MSR 4-(1H-IMIDAZOL-1-YL)PHENOL NON-POLYMER 20 12 .
@@ -25333,7 +25333,7 @@ NHH NHH "N'-{4-[2-(DIAMINOMETHYLIDENE)HYDRAZONO]CYCLOHEXYLIDEN}AMINOMETHANEHYDRA
 NHI NHI '' NON-POLYMER 38 26 .
 NHJ NHJ '4-[(4-{[3-(trifluoromethyl)phenyl]amino}pyrimidin-2-yl)amino]benzamide' NON-POLYMER 41 27 .
 NHK NHK 'N-hydroxy-N~2~-(2-hydroxyethyl)-N~2~-[(4-methoxyphenyl)sulfonyl]glycinamide' NON-POLYMER 36 20 .
-NHL NHL (4S)-4-(2-NAPHTHYLMETHYL)-D-GLUTAMICACID NON-POLYMER 37 21 .
+NHL NHL (4S)-4-(2-NAPHTHYLMETHYL)-D-GLUTAMICACID peptide 37 21 .
 NHM NHM S-(2-OXO)PENTADECYLCOA NON-POLYMER 124 64 .
 NHN NHN '' NON-POLYMER 113 57 .
 NHO NHO NICOTINAMIDE-ADENINE-DINUCLEOTIDE-5-HYDROXY-4-OXONORVALINE NON-POLYMER 87 54 .
@@ -26280,7 +26280,7 @@ OHM OHM '3-OXO-N-[(3S)-2-OXOPYRROLIDIN-3-YL]DODECANAMIDE' NON-POLYMER 49 21 .
 OHN OHN N-3-OXO-DODECANOYL-L-HOMOSERINELACTONE NON-POLYMER 48 21 .
 OHO OHO 'CYCLOHEXANE AMINOCARBOXYLIC ACID' NON-POLYMER 23 10 .
 OHP OHP (2-HYDROXYPHENYL)ACETICACID NON-POLYMER 18 11 .
-OHS OHS O-(CARBOXYSULFANYL)-4-OXO-L-HOMOSERINE NON-POLYMER 20 13 .
+OHS OHS O-(CARBOXYSULFANYL)-4-OXO-L-HOMOSERINE peptide 20 13 .
 OHT OHT 4-HYDROXYTAMOXIFEN NON-POLYMER 58 29 .
 OHU OHU "2'-deoxy-5-hydroxyuridine 5'-(dihydrogen phosphate)" DNA 32 21 .
 OHV OHV 'benzyl {4-[5-(hydroxymethyl)-1H-imidazol-2-yl]butyl}carbamate' NON-POLYMER 43 22 .
@@ -26358,7 +26358,7 @@ OLN OLN '(S)-2-ACETAMIDO-5-UREIDOPENTANOIC ACID' NON-POLYMER 29 15 .
 OLO OLO OLOMOUCINE NON-POLYMER 40 22 .
 OLP OLP 2-(2-HYDROXYETHYLAMINO)-6-(3-CHLOROANILINO)-9-ISOPROPYLPURINE NON-POLYMER 43 24 .
 OLQ OLQ 2,6-difluoro-3-methoxybenzamide NON-POLYMER 20 13 .
-OLT OLT O-METHYL-L-THREONINE NON-POLYMER 20 9 .
+OLT OLT O-METHYL-L-THREONINE peptide 20 9 .
 OLU OLU 2-(6-HYDROXY-1,3-BENZOTHIAZOL-2-YL)-1,3-THIAZOL-4(5H)-ONE NON-POLYMER 22 16 .
 OLV OLV '' NON-POLYMER 107 55 .
 OLW OLW '3-[({2-[2-(1H-imidazol-1-yl)pyrimidin-4-yl]ethyl}amino)methyl]benzonitrile' NON-POLYMER 39 23 .
@@ -26763,7 +26763,7 @@ P1G P1G '((2R,4R,6R,6AS)-4-(2-AMINO-6-OXO-1,6-DIHYDROPURIN-9-YL)-6-(HYDROXYMETHY
 P1H P1H '' NON-POLYMER 92 55 .
 P1J P1J N-(2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carbonyl)-beta-alanine NON-POLYMER 24 16 .
 P1K P1K 'phosphonooxy-[[4-[[2,2,2-tris(fluoranyl)ethylsulfonylamino]methyl]-1,2,3-triazol-1-yl]methyl]borinic acid' NON-POLYMER 32 23 .
-P1L P1L S-PALMITOYL-L-CYSTEINE NON-POLYMER 61 24 .
+P1L P1L S-PALMITOYL-L-CYSTEINE peptide 61 24 .
 P1M P1M '(3-endo)-N-(2-bromophenyl)-9-methyl-9-azabicyclo[3.3.1]nonan-3-amine' NON-POLYMER 39 18 .
 P1O P1O 1,2-DIDECANOYL-SN-GLYCERO-3-PHOSPHOCHOLINE NON-POLYMER 94 38 .
 P1P P1P '3-{[OXIDO(OXO)PHOSPHINO]OXY}PROPAN-1' NON-POLYMER 15 8 .
@@ -27026,7 +27026,7 @@ PAO PAO N-(PHOSPHONOACETYL)-L-ORNITHINE NON-POLYMER 29 16 .
 PAP PAP "3'-PHOSPHATE-ADENOSINE-5'-DIPHOSPHATE" NON-POLYMER 42 31 .
 PAQ PAQ 2-OXY-4-HYDROXY-5-(2-HYDRAZINOPYRIDINE)PHENYLALANINE peptide 38 22 .
 PAR PAR PAROMOMYCIN NON-POLYMER 90 42 .
-PAT PAT ALPHA-PHOSPHONO-TRYPTOPHAN NON-POLYMER 30 19 .
+PAT PAT ALPHA-PHOSPHONO-TRYPTOPHAN peptide 30 19 .
 PAU PAU 'PANTOTHENOIC ACID' NON-POLYMER 31 15 .
 PAV PAV (2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran NON-POLYMER 20 10 .
 PAW PAW "N-(2-AMINOETHYL)-N'-{2-[(2-AMINOETHYL)AMINO]ETHYL}ETHANE-1,2-DIAMINE" NON-POLYMER 36 13 .
@@ -27049,7 +27049,7 @@ PBB PBB S-(4-BROMOBENZYL)CYSTEINE peptide 27 15 .
 PBC PBC 'PHENYL BORONIC ACID' NON-POLYMER 16 9 .
 PBD PBD '1-(3,4-dimethoxyphenyl)-3-[3-(1H-imidazol-1-yl)propyl]thiourea' NON-POLYMER 42 22 .
 PBE PBE 1,1-DIMETHYL-PROLINIUM NON-POLYMER 23 10 .
-PBF PBF PARA-(BENZOYL)-PHENYLALANINE NON-POLYMER 35 20 .
+PBF PBF PARA-(BENZOYL)-PHENYLALANINE peptide 35 20 .
 PBG PBG '3-[5-(AMINOMETHYL)-4-(CARBOXYMETHYL)-1H-PYRROL-3-YL]PROPANOIC ACID' NON-POLYMER 28 16 .
 PBH PBH '(11aS)-7-methoxy-8-(3-{4-[6-(4-methylpiperazin-1-yl)-1H-benzimidazol-2-yl]phenoxy}propoxy)-1,2,3,10,11,11a-hexahydro-5H-pyrrolo[2,1-c][1,4]benzodiazepin-5-one' NON-POLYMER 84 44 .
 PBI PBI '[2-AMINOMETHYL-5-OXO-4-(4-OXO-CYCLOHEXA-2,5-DIENYLMETHYL)-4,5-DIHYDRO-IMIDAZOL-1-YL] -ACETALDEHYDE' NON-POLYMER 34 19 .
@@ -27636,7 +27636,7 @@ PTI PTI '2-PHENYL-1-[4-(2-PIPERIDIN-1-YL-ETHOXY)-PHENYL]-1,2,3,4-TETRAHYDRO-ISOQ
 PTJ PTJ "5'-O-[(S)-hydroxy{[(2R)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]oxy}phosphoryl]adenosine" NON-POLYMER 58 36 .
 PTK PTK 'pyrene-1,3,6,8-tetrasulfonic acid' NON-POLYMER 42 32 .
 PTL PTL PENTANAL NON-POLYMER 16 6 .
-PTM PTM ALPHA-METHYL-O-PHOSPHOTYROSINE NON-POLYMER 30 18 .
+PTM PTM ALPHA-METHYL-O-PHOSPHOTYROSINE peptide 30 18 .
 PTN PTN 'PLATINUM TRIAMINE ION' NON-POLYMER 13 4 .
 PTO PTO PSEUDOTROPINE NON-POLYMER 25 10 .
 PTQ PTQ '2-phenylethyl 1-thio-beta-D-galacto' pyranose 40 20 .
@@ -28116,7 +28116,7 @@ QCM QCM Givinostat NON-POLYMER 58 31 .
 QCN QCN '(2~{S})-2-azanyl-3-(3-~{tert}-butyl-4-oxidanyl-phenyl)propanal' NON-POLYMER 35 16 .
 QCP QCP AR-42 NON-POLYMER 43 23 .
 QCQ QCQ '[[(2~{R},3~{R},4~{S},5~{R})-5-[2-chloranyl-6-[(phenylmethyl)amino]purin-9-yl]-4-fluoranyl-3-oxidanyl-oxolan-2-yl]methoxy-oxidanyl-phosphoryl]methylphosphonic acid' NON-POLYMER 53 35 .
-QCS QCS S-carbamoyl-L-cysteine NON-POLYMER 18 10 .
+QCS QCS S-carbamoyl-L-cysteine peptide 18 10 .
 QCT QCT '2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4-oxo-4H-chromen-3-yl 6-deoxy-alpha-L-mannopyranoside' NON-POLYMER 52 32 .
 QCV QCV N-(4-nitrophenyl)methanimine NON-POLYMER 17 11 .
 QCW QCW '~{N}-methyl-2-oxidanylidene-1-(phenylmethyl)pyridine-3-carboxamide' NON-POLYMER 32 18 .
@@ -29992,12 +29992,12 @@ SGL SGL 1-HYDROXY-1-THIO-GLYCEROL NON-POLYMER 15 7 .
 SGM SGM MONOTHIOGLYCEROL NON-POLYMER 14 6 .
 SGN SGN 2-deoxy-6-O-sulfo-2-(sulfoamino)-alpha-D-glucopyranose pyranose 32 20 .
 SGP SGP "GUANOSINE-2',3'-CYCLOPHOSPHOROTHIOATE" NON-POLYMER 34 23 .
-SGR SGR 'O-[(R)-AMINO(METHOXY)PHOSPHORYL]-L-SERINE' NON-POLYMER 23 12 .
+SGR SGR 'O-[(R)-AMINO(METHOXY)PHOSPHORYL]-L-SERINE' peptide 23 12 .
 SGS SGS (E)-(2S,3R,4S,5S,6R)-TETRAHYDRO-3,4 pyranose 49 27 .
 SGT SGT '2-amino-9-{2-deoxy-5-O-[(R)-hydroxy{[(R)-hydroxy(phosphonooxy)phosphoryl]oxy}phosphoryl]-beta-D-erythro-pentofuranosyl}-1,9-dihydro-6H-purine-6-thione' NON-POLYMER 43 31 .
 SGV SGV SANGIVAMYCIN NON-POLYMER 37 22 .
 SGW SGW 3-(4-chlorophenyl)-5-methoxyisoquinolin-1(2H)-one NON-POLYMER 32 20 .
-SGX SGX 'O-[(S)-AMINO(METHOXY)PHOSPHORYL]-L-SERINE' NON-POLYMER 23 12 .
+SGX SGX 'O-[(S)-AMINO(METHOXY)PHOSPHORYL]-L-SERINE' peptide 23 12 .
 SGZ SGZ 2-naphthalen-1-ylethanal NON-POLYMER 23 13 .
 SH0 SH0 "3,3',3'',3'''-[(1R,2S,3S,4S,7S,8S,11S,12S,13S,16S,19S)-3,8,13,17-tetrakis(carboxylatomethyl)-8,13-dimethyl-1,2,3,4,7,8,11,12,13,16,19,20,22,24-tetradecahydroporphyrin-2,7,12,18-tetrayl]tetrapropanoate" NON-POLYMER 106 62 .
 SH1 SH1 'N-[(2-PHENYLETHYL)SULFONYL]-D-SERYL-N-[(1S)-4-[(DIAMINOMETHYLENE)AMINO]-1-(HYDROXYMETHYL)BUTYL]-L-ALANINAMIDE' NON-POLYMER 67 33 .
@@ -31226,7 +31226,7 @@ TNK TNK '6-BENZYL-1-BENZYLOXYMETHYL-5-ISOPROPYL URACIL' NON-POLYMER 51 27 .
 TNL TNL 2,4,6-TRINITROTOLUENE NON-POLYMER 21 16 .
 TNM TNM '[(2R)-1-(6-aminopurin-9-yl)propan-2-yl]oxymethyl-phosphonooxy-phosphinic acid' NON-POLYMER 35 23 .
 TNN TNN '(1aS,11S,11aR,14Z,18R)-3,8,18-trihydroxy-11a-[(1R)-1-hydroxyethyl]-7-methoxy-11,11a-dihydro-4H-11,1a-hept[3]ene[1,5]diynonaphtho[2,3-h]oxireno[c]quinoline-4,9(10H)-dione' NON-POLYMER 55 36 .
-TNQ TNQ '6-[(carboxymethyl)amino]-7-hydroxy-L-tryptophan' NON-POLYMER 35 21 .
+TNQ TNQ '6-[(carboxymethyl)amino]-7-hydroxy-L-tryptophan' peptide 35 21 .
 TNS TNS '' NON-POLYMER 47 26 .
 TNT TNT 1,3-BIS(AMIDINOPHENOXY)PROPANE NON-POLYMER 43 23 .
 TNV TNV '[2-(6-AMINO-9H-PURIN-9-YL)-1-METHYLETHOXY]METHYL-TRIPHOSPHATE' NON-POLYMER 39 27 .
@@ -31526,7 +31526,7 @@ TY0 TY0 (3S)-3-amino-4-(4-tert-butoxyphenyl)-1-hydroxybutan-2-one NON-POLYMER 39
 TY1 TY1 O-tert-butyl-L-tyrosine peptide 36 17 .
 TY2 TY2 3-AMINO-L-TYROSINE NON-POLYMER 26 14 .
 TY4 TY4 '4-bromo-2-({[(2-chlorophenyl)carbonyl]amino}methyl)-6-methylphenyl2,4-dichlorobenzoate' NON-POLYMER 45 30 .
-TY5 TY5 O-benzyl-L-tyrosine NON-POLYMER 37 20 .
+TY5 TY5 O-benzyl-L-tyrosine peptide 37 20 .
 TY8 TY8 2,4-bis(hydroperoxy)-5-hydroxy-L-phenylalanine NON-POLYMER 28 17 .
 TY9 TY9 3,4-bis(hydroperoxy)-5-hydroxy-L-phenylalanine NON-POLYMER 28 17 .
 TYA TYA '' NON-POLYMER 58 34 .
@@ -32051,7 +32051,7 @@ UML UML '' NON-POLYMER 119 67 .
 UMM UMM 'tert-butyl [(2S)-1-{[(3S,17S)-2,16-dioxo-10,15-dioxa-1,21-diazatricyclo[15.3.1.1~5,9~]docosa-5(22),6,8-trien-3-yl]amino}-3-methyl-1-oxobutan-2-yl]carbamate' NON-POLYMER 81 39 .
 UMN UMN '2-[5-[5-chloranyl-2-(oxan-4-ylamino)pyrimidin-4-yl]-3-oxidanylidene-1~{H}-isoindol-2-yl]-~{N}-[(1~{S})-1-(hydroxymethyl)-2,3-dihydroinden-1-yl]ethanamide' NON-POLYMER 69 39 .
 UMO UMO '' NON-POLYMER 35 23 .
-UMP UMP '' NON-POLYMER 31 20 .
+UMP UMP '' RNA 31 20 .
 UMQ UMQ UNDECYL-MALTOSIDE NON-POLYMER 78 34 .
 UMS UMS "2'-METHYLSELENYL-2'-DEOXYURIDINE-5'-" DNA 35 22 .
 UMT UMT '4-[4-[2-(1~{H}-indol-3-yl)ethyl]pyrimidin-2-yl]morpholine' NON-POLYMER 43 23 .
@@ -32358,7 +32358,7 @@ UZM UZM (3S)-3-(2,4-dichlorophenyl)-N~1~-hydroxy-N~5~-(3-sulfanylpropyl)pentaned
 UZN UZN '[(2~{S})-2-azanylhexyl]carbamic acid' NON-POLYMER 27 11 .
 UZP UZP (3R)-3-(2,4-dichlorophenyl)-N~1~-hydroxy-N~5~-pentylpentanediamide NON-POLYMER 45 23 .
 UZQ UZQ (2S)-N-butyl-1-(2-fluorophenyl)carbonyl-2-methyl-4-oxidanylidene-3,5-dihydro-2H-1,5-benzodiazepine-7-carboxamide NON-POLYMER 53 29 .
-UZR UZR "2'-deoxy-2'-triaza-1,2-dien-2-ium-1-yl-uridine-5'-monophosphate" NON-POLYMER 34 23 .
+UZR UZR "2'-deoxy-2'-triaza-1,2-dien-2-ium-1-yl-uridine-5'-monophosphate" RNA 34 23 .
 UZS UZS N-hydroxy-7-sulfanylheptanamide NON-POLYMER 26 11 .
 UZT UZT (2S)-1-(4-azanylpiperidin-1-yl)carbonyl-N-(2-cyclopropylethyl)-2-methyl-4-oxidanylidene-3,5-dihydro-2H-1,5-benzodiazepine-7-carboxamide NON-POLYMER 61 30 .
 UZV UZV N-hydroxy-5-sulfanylpentanamide NON-POLYMER 20 9 .
@@ -33861,7 +33861,7 @@ XDN XDN PIPERIDINE-3,4,5-TRIOL NON-POLYMER 20 9 .
 XDP XDP D-XYLULOSE-2,2-DIOL-1,5-BISPHOSPHATE NON-POLYMER 29 19 .
 XDR XDR 'hexyl (5S,6R,8R)-6-hydroxy-5-methyl-13-oxo-5,6,7,8-tetrahydro-13H-5,8-epoxy-4b,8a,14-triazadibenzo[b,h]cycloocta[1,2,3,4-jkl]cyclopenta[e]-as-indacene-6-carboxylate' NON-POLYMER 69 40 .
 XDS XDS (5S)-5-(dioxidanyl)-9-methyl-7H-purine-2,6,8-trione NON-POLYMER 21 15 .
-XDT XDT O-methyl-D-allothreonine NON-POLYMER 20 9 .
+XDT XDT O-methyl-D-allothreonine peptide 20 9 .
 XDV XDV '2-[2-(2-aminoethoxy)ethoxy]acetamide' NON-POLYMER 25 11 .
 XDX XDX '(2R)-2-(alpha-D-glucopyranosyloxy)-3-(phosphonooxy)propanoic acid' NON-POLYMER 36 22 .
 XDY XDY 'N-[(1S,2S)-2-aminocyclopentyl]-N-[(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)acetyl]glycine' NON-POLYMER 42 23 .
@@ -34044,7 +34044,7 @@ XOC XOC N-phenothiazin-10-yl-2-piperidin-1-yl-ethanamide NON-POLYMER 45 24 .
 XOD XOD '(1S,2S,3R,4S,5S)-1-(hydroxymethyl)-5-[(6-{[2-nitro-4-(pyrimidin-2-yl)phenyl]amino}hexyl)amino]cyclohexane-1,2,3,4-tetrol' NON-POLYMER 68 35 .
 XOG XOG (2E,6E)-2,6-dimethylocta-2,6-dienedial NON-POLYMER 26 12 .
 XOJ XOJ '1-tert-butyl-3-[2-[3-(diethylamino)propylamino]-6-(3,5-dimethoxyphenyl)pyrido[2,3-d]pyrimidin-7-yl]urea' NON-POLYMER 76 37 .
-XOK XOK '(2~{S})-2-azanyl-6-[[(6~{S})-6-sulfanyloctanoyl]amino]hexanoic acid' NON-POLYMER 48 20 .
+XOK XOK '(2~{S})-2-azanyl-6-[[(6~{S})-6-sulfanyloctanoyl]amino]hexanoic acid' peptide 48 20 .
 XOM XOM '(2s,4R)-2-{3-[(3-chloro-4-methylphenyl)methoxy]azetidine-1-carbonyl}-7-oxa-5-azaspiro[3.4]octan-6-one' NON-POLYMER 46 25 .
 XOP XOP '8-METHYL-8-AZABICYCLO[3.2.1]OCTAN-3-YL PHENYLPHOSPHONATE' NON-POLYMER 38 19 .
 XOS XOS '3-[(E)-2-(4-hydroxyphenyl)ethenyl]benzoic acid' NON-POLYMER 29 18 .
@@ -34846,7 +34846,7 @@ Z6P Z6P '2-amino-N-cyclopropyl-5-(4-{[(2R)-2-(3,5-difluorophenyl)-2-hydroxyacety
 Z6V Z6V Vimseltinib NON-POLYMER 57 32 .
 Z6W Z6W '(5R)-5-[(2R)-2-hydroxynonyl]-beta-D-xylulofuranose' NON-POLYMER 48 20 .
 Z6X Z6X '3-oxotetradecanoic acid' NON-POLYMER 42 17 .
-Z70 Z70 '(2S)-2-amino-4-(2-amino-1H-imidazol-5-yl)butanoic acid' NON-POLYMER 25 13 .
+Z70 Z70 '(2S)-2-amino-4-(2-amino-1H-imidazol-5-yl)butanoic acid' peptide 25 13 .
 Z71 Z71 '4-amino-N-(3,5-difluorophenyl)-2-[(4-sulfamoylphenyl)amino]-1,3-thiazole-5-carboxamide' NON-POLYMER 41 28 .
 Z72 Z72 '8-(cyclopentyloxy)-4-[(3,5-dichloropyridin-4-yl)amino]-7-methoxy-2H-chromen-2-one' NON-POLYMER 46 28 .
 Z73 Z73 '2-methoxy-6,7-dimethyl-9-propylimidazo[1,5-a]pyrido[3,2-e]pyrazine' NON-POLYMER 38 20 .
@@ -34952,7 +34952,7 @@ ZD9 ZD9 '2,7-dimethyl-6-[(prop-1-yn-1-ylamino)methyl]quinazolin-4(3H)-one' NON-P
 ZDA ZDA '' NON-POLYMER 41 29 .
 ZDC ZDC '3,7-anhydro-2,8-dideoxy-L-glycero-D-gluco-octonic acid' NON-POLYMER 27 14 .
 ZDG ZDG '4-[4-[2-(2,4-dichlorophenyl)-4-methyl-5-(piperidin-1-ylcarbamoyl)pyrazol-3-yl]phenyl]but-3-ynyl nitrate' NON-POLYMER 62 37 .
-ZDJ ZDJ 3-methyl-L-tyrosine NON-POLYMER 27 14 .
+ZDJ ZDJ 3-methyl-L-tyrosine peptide 27 14 .
 ZDM ZDM 'nonyl 4-O-alpha-D-glucopyranosyl-beta-D-glucopyranoside' NON-POLYMER 72 32 .
 ZDO ZDO 'methyl 2-deoxy-6-O-sulfo-2-(sulfoamino)-alpha-D-glucopyranoside' NON-POLYMER 35 21 .
 ZDP ZDP '(2S,6S)-2,6-DIAMINO-2-METHYLHEPTANEDIOIC ACID' NON-POLYMER 30 14 .
@@ -35165,7 +35165,7 @@ ZSV ZSV '(R)-[(2S)-5-carboxy-2-(2-carboxyethyl)-2,3-dihydro-1,4-benzodioxin-6-yl
 ZSW ZSW '(R)-[2-[[(2R)-butan-2-yl]carbamoyl]phenyl]methyl-[[(2S)-5-carboxy-2-(2-carboxyethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]methyl]-prop-2-enyl-azanium' NON-POLYMER 71 37 .
 ZSY ZSY 'N-cyclopropyl-6-(furan-2-yl)-2-hydroxy-N-[(pyridin-2-yl)methyl]pyridine-3-carboxamide' NON-POLYMER 42 25 .
 ZT0 ZT0 '(4-CARBOXY-1,3-BENZODIOXOL-5-YL)-N-{2-[(4-METHOXYBENZYL)CARBAMOYL]BENZYL}-N-METHYLMETHANAMINIUM' NON-POLYMER 60 34 .
-ZT1 ZT1 'N~6~-[(1-methyl-1H-imidazol-5-yl)methyl]-N~6~-propan-2-yl-L-lysine' NON-POLYMER 46 20 .
+ZT1 ZT1 'N~6~-[(1-methyl-1H-imidazol-5-yl)methyl]-N~6~-propan-2-yl-L-lysine' peptide 46 20 .
 ZT2 ZT2 '5-[(E)-(2-OXO-2,3-DIHYDRO-1H-INDEN-1-YLIDENE)METHYL]-1,3-BENZODIOXOLE-4-CARBOXYLIC ACID' NON-POLYMER 34 23 .
 ZT4 ZT4 '5-{(E)-[(2R)-2-HYDROXY-2,3-DIHYDRO-1H-INDEN-1-YLIDENE]METHYL}-1,3-BENZODIOXOLE-4-CARBOXYLIC ACID' NON-POLYMER 36 23 .
 ZTD ZTD 'METHYL4-[({(4R)-4-HYDROXY-1-[(3-METHYLISOXAZOL-5-YL)ACETYL]-L-PROLYL}AMINO)METHYL]BENZOATE' NON-POLYMER 52 29 .
@@ -36939,7 +36939,7 @@ _chem_link_bond.atom_id_2
 _chem_link_bond.type
 _chem_link_bond.value_dist
 _chem_link_bond.value_dist_esd
-AA-RNA     1         C         2         "O3'"     SINGLE    1.334       0.0128
+AA-RNA 1 C 2 "O3'" SINGLE 1.334 0.0128
 
 loop_
 _chem_link_angle.link_id
@@ -36951,9 +36951,9 @@ _chem_link_angle.atom_3_comp_id
 _chem_link_angle.atom_id_3
 _chem_link_angle.value_angle
 _chem_link_angle.value_angle_esd
-AA-RNA     1         CA        1         C         2         "O3'"     111.770        3.00
-AA-RNA     1         O         1         C         2         "O3'"     123.273        1.50
-AA-RNA     2         "C3'"     2         "O3'"     1         C         116.978        1.50
+AA-RNA 1 CA 1 C 2 "O3'" 111.770 3.00
+AA-RNA 1 O 1 C 2 "O3'" 123.273 1.50
+AA-RNA 2 "C3'" 2 "O3'" 1 C 116.978 1.50
 
 loop_
 _chem_link_tor.link_id
@@ -36969,8 +36969,8 @@ _chem_link_tor.atom_id_4
 _chem_link_tor.value_angle
 _chem_link_tor.value_angle_esd
 _chem_link_tor.period
-AA-RNA     sp2_sp2_1       1         CA        1         C         2         "O3'"     2         "C3'"     180.000        5.0       2
-AA-RNA     sp3_sp3_1       2         "C4'"     2         "C3'"     2         "O3'"     1         C         180.000        10.0      3
+AA-RNA sp2_sp2_1 1 CA 1 C 2 "O3'" 2 "C3'" 180.000 5.0 2
+AA-RNA sp3_sp3_1 2 "C4'" 2 "C3'" 2 "O3'" 1 C 180.000 10.0 3
 
 loop_
 _chem_link_plane.link_id
@@ -36978,10 +36978,10 @@ _chem_link_plane.plane_id
 _chem_link_plane.atom_comp_id
 _chem_link_plane.atom_id
 _chem_link_plane.dist_esd
-AA-RNA     plan-1    1         CA        0.020
-AA-RNA     plan-1    1         C         0.020
-AA-RNA     plan-1    2         "O3'"     0.020
-AA-RNA     plan-1    1         O         0.020
+AA-RNA plan-1 1 CA 0.020
+AA-RNA plan-1 1 C 0.020
+AA-RNA plan-1 2 "O3'" 0.020
+AA-RNA plan-1 1 O 0.020
 
 data_link_RNA-F86
 loop_
@@ -45038,7 +45038,7 @@ _chem_mod_atom.new_type_energy
 _chem_mod_atom.new_charge
 METmod1 change SD . S SH1 0
 METmod1 change H12 . H HSH1 0
-METmod1 add H12 H12  H H .
+METmod1 add H12 H12 H H .
 
 loop_
 _chem_mod_bond.mod_id
